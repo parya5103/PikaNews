@@ -1,0 +1,93 @@
+# PikaNews Configuration File
+
+app:
+  name: "PikaNews Aggregator"
+  environment: "production"
+
+db:
+  # SQLite path (default)
+  sqlite_path: "pikanews.db"
+  # PostgreSQL URL (optional, overrides sqlite if specified)
+  postgres_url: ""
+
+redis:
+  url: "redis://localhost:6379/0"
+  ttl_seconds: 1800  # 30 mins Cache TTL
+
+ollama:
+  host: "http://localhost:11434"
+  model: "llama3"    # Default LLM model for summarization and tagging
+
+scraping:
+  concurrency_limit: 10
+  timeout_seconds: 30
+  user_agent_pool_size: 25
+  retry_count: 3
+  retry_backoff_factor: 2.0
+  circuit_breaker_failures: 3
+  circuit_breaker_cooldown_seconds: 300 # 5 minutes
+
+image_storage:
+  dir: "./storage/images"
+  sizes:
+    thumbnail: [150, 150]
+    medium: [600, 400]
+    full: [1200, 800]
+
+# Sources Configuration
+sources:
+  - name: "pinkvilla"
+    industry: "bollywood"
+    base_url: "https://www.pinkvilla.com"
+    rss_url: "https://www.pinkvilla.com/feed"
+    schedule_cron: "*/15 * * * *"
+    concurrency_limit: 2
+    selectors:
+      article_link: "a.title-link"
+      title: "h1.article-title, h1.title"
+      author: "span.author-name, .author-detail a"
+      published_at: "meta[property='article:published_time']"
+      body_text: "div.article-content p, div.content-wrapper p"
+      featured_image: "meta[property='og:image']"
+
+  - name: "variety"
+    industry: "hollywood"
+    base_url: "https://variety.com"
+    rss_url: "https://variety.com/feed/"
+    schedule_cron: "*/20 * * * *"
+    concurrency_limit: 2
+    selectors:
+      article_link: "a.c-title__link"
+      title: "h1.c-title, .article-title"
+      author: "a.c-author__name, .author-link"
+      published_at: "time.c-timestamp, meta[property='article:published_time']"
+      body_text: "div.c-content p, .article-body-wrapper p"
+      featured_image: "meta[property='og:image']"
+
+  - name: "filmfare"
+    industry: "bollywood"
+    base_url: "https://www.filmfare.com"
+    rss_url: "https://www.filmfare.com/rss/news.xml"
+    schedule_cron: "*/30 * * * *"
+    concurrency_limit: 1
+    selectors:
+      article_link: ".news-card a"
+      title: "h1"
+      author: ".author-name, meta[name='author']"
+      published_at: "meta[property='article:published_time']"
+      body_text: ".article-body p, .news-desc p"
+      featured_image: "meta[property='og:image']"
+
+  - name: "deadline"
+    industry: "hollywood"
+    base_url: "https://deadline.com"
+    rss_url: "https://deadline.com/feed/"
+    schedule_cron: "*/15 * * * *"
+    concurrency_limit: 2
+    selectors:
+      article_link: "a.c-title__link"
+      title: "h1.c-title"
+      author: "a.c-author__name"
+      published_at: "time.c-timestamp, meta[property='article:published_time']"
+      body_text: "div.c-content p, .article-content p"
+      featured_image: "meta[property='og:image']"
