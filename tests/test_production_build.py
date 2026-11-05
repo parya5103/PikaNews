@@ -106,7 +106,7 @@ def test_no_unrendered_template_artifacts():
     for path in all_html_pages():
         name = os.path.basename(path)
         content = read(name)
-        assert "${{" not in content, f"unrendered template artifact ${{{{ in {name}}"
+        assert "${{" not in content, "unrendered template artifact in " + name
         # Single stray {{ in an inline script context (function bodies) is a
         # strong signal of the same bug; CSS/HTML never needs it in these files.
         assert "function loadArticle() {{" not in content, f"unrendered function body in {name}"
