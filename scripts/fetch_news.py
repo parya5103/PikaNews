@@ -30,6 +30,7 @@ REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(REPO_ROOT, "data")
 NEWS_JSON_DIR = os.path.join(REPO_ROOT, "news_json")
 LOG_DIR = os.path.join(REPO_ROOT, "logs")
+REMOVED_ARTICLES_FILE = os.path.join(DATA_DIR, "removed_articles.json")
 
 # Ensure directories exist
 os.makedirs(DATA_DIR, exist_ok=True)
@@ -880,7 +881,8 @@ def normalize_article(article: Dict[str, Any], source_config: Dict[str, Any]) ->
             "url": normalized_url,
             "published_at": published_at,
             "image_url": image_url,
-            "collection_timestamp": datetime.now(timezone.utc).isoformat()
+            "collection_timestamp": datetime.now(timezone.utc).isoformat(),
+            "thin": bool(len(clean_title) < 20 or len(clean_desc.strip()) < 40)
         }
         
         if author:
@@ -898,6 +900,27 @@ def normalize_article(article: Dict[str, Any], source_config: Dict[str, Any]) ->
     except Exception as e:
         log(f"Error normalizing article: {e}", "ERROR")
         return None
+
+
+def load_removed_articles() -> Set[str]:
+    """Load hashes of admin-removed (unpublished/deleted) articles.
+
+    These tombstones block re-import of the same article from RSS on the
+    next scheduled sync, so a removed article can never reappear.
+    """
+    removed = set()
+    if not os.path.exists(REMOVED_ARTICLES_FILE):
+        return removed
+    try:
+        with open(REMOVED_ARTICLES_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        for article_id, record in (data.get("articles") or {}).items():
+            # Restore action removes the tombstone; everything else blocks.
+            if isinstance(record, dict) and record.get("action") not in (None, "restore"):
+                removed.add(article_id)
+    except Exception as e:
+        log(f"Error loading removed articles: {e}", "ERROR")
+    return removed
 
 
 def load_existing_articles() -> List[Dict[str, Any]]:
@@ -1066,6 +1089,10 @@ def main():
     
     # Load existing articles and hashes
     existing_articles = load_existing_articles()
+    removed_hashes = load_removed_articles()
+    if removed_hashes:
+        seen_hashes.update(removed_hashes)
+        log(f"Loaded {len(removed_hashes)} removed-article tombstones (re-import blocked)", "INFO")
     log(f"Loaded {len(existing_articles)} existing articles", "INFO")
     log(f"Loaded {len(seen_hashes)} existing article hashes", "INFO")
     
@@ -1153,3 +1180,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

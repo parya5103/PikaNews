@@ -9,6 +9,11 @@ import json
 from datetime import datetime, timezone
 from urllib.parse import urljoin
 
+try:
+    from scripts.generate_article_pages import NEWS_DIR, article_slug, load_removed_hashes
+except ImportError:
+    from generate_article_pages import NEWS_DIR, article_slug, load_removed_hashes
+
 # Configuration
 BASE_URL = "https://gogocompany.in/pikanews/"
 RSS_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "frontend", "feed.xml")
@@ -43,6 +48,9 @@ def generate_rss_feed():
     # Sort by published_at (newest first)
     articles.sort(key=lambda x: x.get("published_at", ""), reverse=True)
     
+    removed = load_removed_hashes()
+    articles = [a for a in articles if isinstance(a, dict) and a.get("id") not in removed]
+
     # Limit to 50 most recent articles
     recent_articles = articles[:50]
     
@@ -75,7 +83,11 @@ def generate_rss_feed():
         article_id = article.get("id", "")
         title = article.get("title", "Untitled")
         description = article.get("summary", "")
-        link = urljoin(BASE_URL, f"article.html?id={article_id}")
+        slug = article_slug(article.get("title"), article_id)
+        if os.path.exists(os.path.join(NEWS_DIR, slug, "index.html")):
+            link = urljoin(BASE_URL, f"news/{slug}/")
+        else:
+            link = urljoin(BASE_URL, f"article.html?id={article_id}")
         pub_date = article.get("published_at", "")
         category = article.get("category", "")
         source = article.get("source", "")
@@ -119,3 +131,4 @@ def generate_rss_feed():
 
 if __name__ == "__main__":
     generate_rss_feed()
+
