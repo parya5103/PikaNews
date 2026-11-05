@@ -1,0 +1,34 @@
+{
+  "timestamp": "2026-11-05T19:02:38.713725+00:00",
+  "total_fetched": 515,
+  "new_articles": 515,
+  "duplicates": 0,
+  "errors": 3,
+  "by_source": {
+    "Pinkvilla": 200,
+    "Variety": 10,
+    "Deadline": 12,
+    "Hollywood Reporter": 10,
+    "Billboard": 10,
+    "Rolling Stone": 10,
+    "TechCrunch": 21,
+    "The Verge": 10,
+    "Ars Technica Gadgets": 20,
+    "GameSpot": 30,
+    "Polygon": 10,
+    "CNBC": 30,
+    "BBC Sport": 67,
+    "BuzzFeed World": 50,
+    "Reddit Popular": 25
+  },
+  "by_category": {
+    "bollywood": 182,
+    "entertainment": 37,
+    "hollywood": 32,
+    "technology": 52,
+    "business": 29,
+    "gaming": 43,
+    "sports": 68,
+    "trending": 72
+  }
+}

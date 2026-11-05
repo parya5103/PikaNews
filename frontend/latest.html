@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Latest news from PikaNews - Stay updated with the newest articles across all categories.">
+    <meta name="keywords" content="latest news, recent news, news updates, bollywood, hollywood, technology, gaming, business, sports">
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="Latest News - PikaNews">
+    <meta property="og:description" content="Stay updated with the newest articles across all categories.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://parya5103.github.io/PikaNews/latest.html">
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Latest News - PikaNews">
+    <meta name="twitter:description" content="Stay updated with the newest articles across all categories.">
+    
+    <!-- Canonical -->
+    <link rel="canonical" href="https://parya5103.github.io/PikaNews/latest.html">
+    
+    <link rel="icon" type="image/png" href="images/favicon.png">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <title>Latest News - PikaNews</title>
+    
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "NewsMediaOrganization",
+        "name": "PikaNews",
+        "url": "https://parya5103.github.io/PikaNews/",
+        "logo": "https://parya5103.github.io/PikaNews/images/pikanews-logo.png"
+    }
+    </script>
+</head>
+<body>
+    <div id="loading-screen" class="loading-screen">
+        <div class="loading-spinner"></div>
+        <p>Loading Latest News...</p>
+    </div>
+
+    <header class="header">
+        <div class="header-container">
+            <button id="mobile-menu-toggle" class="mobile-menu-toggle" aria-label="Toggle menu">
+                <span class="hamburger"></span>
+            </button>
+            
+            <a href="/" class="logo">
+                <img src="images/pikanews-logo.png" alt="PikaNews Logo" class="logo-img">
+                <span class="logo-text">Pika<span class="logo-accent">News</span></span>
+            </a>
+            
+            <nav class="main-nav">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="/" class="nav-link">Home</a></li>
+                    <li class="nav-item"><a href="latest.html" class="nav-link active">Latest</a></li>
+                    <li class="nav-item"><a href="trending.html" class="nav-link">Trending</a></li>
+                    <li class="nav-item dropdown">
+                        <a href="#" class="nav-link dropdown-toggle">Entertainment <span class="dropdown-arrow">▼</span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="bollywood.html" class="dropdown-link">Bollywood</a></li>
+                            <li><a href="hollywood.html" class="dropdown-link">Hollywood</a></li>
+                            <li><a href="entertainment.html" class="dropdown-link">Entertainment</a></li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a href="technology.html" class="nav-link">Technology</a></li>
+                    <li class="nav-item"><a href="gaming.html" class="nav-link">Gaming</a></li>
+                    <li class="nav-item"><a href="business.html" class="nav-link">Business</a></li>
+                    <li class="nav-item"><a href="sports.html" class="nav-link">Sports</a></li>
+                </ul>
+            </nav>
+            
+            <div class="header-actions">
+                <button id="search-toggle" class="action-btn search-toggle" aria-label="Search">
+                    <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="11" cy="11" r="8"/>
+                        <path d="m21 21-4.35-4.35"/>
+                    </svg>
+                </button>
+                <button id="bookmarks-toggle" class="action-btn bookmarks-toggle" aria-label="Bookmarks">
+                    <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>
+                    </svg>
+                    <span id="bookmark-count" class="badge">0</span>
+                </button>
+                <button id="theme-toggle" class="action-btn theme-toggle" aria-label="Toggle theme">
+                    <svg class="icon sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="12" cy="12" r="5"/>
+                        <path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/>
+                    </svg>
+                    <svg class="icon moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+                    </svg>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <div id="search-modal" class="modal search-modal">
+        <div class="modal-overlay" onclick="closeSearch()"></div>
+        <div class="modal-content">
+            <form id="search-form" class="search-form" onsubmit="performSearch(event)">
+                <input type="text" id="search-input" class="search-input" placeholder="Search news..." autocomplete="off">
+                <button type="submit" class="search-submit">
+                    <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="11" cy="11" r="8"/>
+                        <path d="m21 21-4.35-4.35"/>
+                    </svg>
+                </button>
+            </form>
+            <div id="search-results" class="search-results"></div>
+        </div>
+    </div>
+
+    <div id="bookmarks-modal" class="modal bookmarks-modal">
+        <div class="modal-overlay" onclick="closeBookmarks()"></div>
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Bookmarked Articles</h2>
+                <button onclick="closeBookmarks()" class="modal-close">&times;</button>
+            </div>
+            <div id="bookmarks-list" class="bookmarks-list"></div>
+        </div>
+    </div>
+
+    <main class="main-content">
+        <section class="page-header">
+            <div class="container">
+                <h1 class="page-title">Latest News</h1>
+                <p class="page-subtitle">Stay updated with the newest articles across all categories</p>
+            </div>
+        </section>
+
+        <section class="news-section">
+            <div class="container">
+                <div id="latest-news" class="news-grid">
+                    <div class="loading-placeholder">
+                        <div class="loading-spinner"></div>
+                        <p>Loading latest news...</p>
+                    </div>
+                </div>
+                
+                <div id="load-more-container" class="load-more-container" style="display: none;">
+                    <button id="load-more" class="btn btn-secondary" onclick="loadMoreLatest()">
+                        Load More
+                        <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M12 5v14M5 12h14"/>
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-container">
+            <div class="footer-main">
+                <div class="footer-brand">
+                    <a href="/" class="logo">
+                        <img src="images/pikanews-logo.png" alt="PikaNews Logo" class="logo-img">
+                        <span class="logo-text">Pika<span class="logo-accent">News</span></span>
+                    </a>
+                    <p class="footer-tagline">Your automatic news aggregator, updated every 30 minutes.</p>
+                </div>
+                
+                <div class="footer-links">
+                    <h3 class="footer-heading">Quick Links</h3>
+                    <ul class="footer-list">
+                        <li><a href="/">Home</a></li>
+                        <li><a href="latest.html">Latest News</a></li>
+                        <li><a href="trending.html">Trending</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-links">
+                    <h3 class="footer-heading">Categories</h3>
+                    <ul class="footer-list">
+                        <li><a href="bollywood.html">Bollywood</a></li>
+                        <li><a href="hollywood.html">Hollywood</a></li>
+                        <li><a href="entertainment.html">Entertainment</a></li>
+                        <li><a href="technology.html">Technology</a></li>
+                        <li><a href="gaming.html">Gaming</a></li>
+                        <li><a href="business.html">Business</a></li>
+                        <li><a href="sports.html">Sports</a></li>
+                    </ul>
+                </div>
+                
+                <div class="footer-links">
+                    <h3 class="footer-heading">Legal</h3>
+                    <ul class="footer-list">
+                        <li><a href="privacy.html">Privacy Policy</a></li>
+                        <li><a href="terms.html">Terms of Service</a></li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="footer-bottom">
+                <p>&copy; 2024 PikaNews. All rights reserved.</p>
+                <p>Automatically updated every 30 minutes</p>
+            </div>
+        </div>
+    </footer>
+
+    <div id="article-modal" class="modal article-modal">
+        <div class="modal-overlay" onclick="closeArticleModal()"></div>
+        <div class="modal-content article-content">
+            <button onclick="closeArticleModal()" class="modal-close">&times;</button>
+            <article id="article-detail"></article>
+        </div>
+    </div>
+
+    <div id="toast-container" class="toast-container"></div>
+    <button id="back-to-top" class="back-to-top" onclick="scrollToTop()" aria-label="Back to top">
+        <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M12 19V5M5 12l7-7 7 7"/>
+        </svg>
+    </button>
+
+    <script src="js/data.js"></script>
+    <script src="js/utils.js"></script>
+    <script src="js/app.js"></script>
+    <script>
+        // Page-specific functions
+        let currentLatestPage = 1;
+        const latestPerPage = 20;
+        
+        async function loadLatestNews() {
+            const latestNewsEl = document.getElementById('latest-news');
+            if (!latestNewsEl) return;
+            
+            try {
+                const articles = await DataManager.loadLatestArticles(latestPerPage * currentLatestPage);
+                
+                if (articles.length === 0) {
+                    Utils.showEmpty(latestNewsEl, 'No latest articles yet');
+                    return;
+                }
+                
+                const start = (currentLatestPage - 1) * latestPerPage;
+                const pageArticles = articles.slice(0, start + latestPerPage);
+                
+                latestNewsEl.innerHTML = pageArticles.map(article => `
+                    <div class="news-card" style="--category-color: ${Utils.getCategoryColor(article.category)}">
+                        <div class="news-card-image">
+                            ${article.image_url ? `
+                                <img src="${Utils.escapeHtml(article.image_url)}" alt="${Utils.escapeHtml(article.title)}" loading="lazy" onerror="this.parentNode.innerHTML='<div class=\"news-card-placeholder\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M9 9h6v6H9z\"/></svg></div>'">
+                            ` : `
+                                <div class="news-card-placeholder">
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <rect x="3" y="3" width="18" height="18" rx="2"/>
+                                        <path d="M9 9h6v6H9z"/>
+                                    </svg>
+                                </div>
+                            `}
+                            <span class="news-card-category" style="background-color: var(--category-color);">${Utils.escapeHtml(article.category)}</span>
+                        </div>
+                        <div class="news-card-content">
+                            <h3 class="news-card-title">${Utils.escapeHtml(article.title)}</h3>
+                            <p class="news-card-summary">${Utils.escapeHtml(Utils.truncate(article.summary, 100))}</p>
+                            <div class="news-card-meta">
+                                <span class="news-card-source">${Utils.escapeHtml(article.source)}</span>
+                                <span class="news-card-time">
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="width: 12px; height: 12px;">
+                                        <circle cx="12" cy="12" r="10"/>
+                                        <polyline points="12 6 12 12 16 14"/>
+                                    </svg>
+                                    ${Utils.formatDate(article.published_at)}
+                                </span>
+                            </div>
+                            <div class="news-card-actions">
+                                <button class="news-card-action" onclick="openArticle('${article.id}')">
+                                    <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <path d="M5 12h14M12 5l7 7-7 7"/>
+                                    </svg>
+                                    <span>Read</span>
+                                </button>
+                                <button class="news-card-action" onclick="toggleBookmark('${article.id}')">
+                                    <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                        <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>
+                                    </svg>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                `).join('');
+                
+                // Show load more button if there are more articles
+                const loadMoreContainer = document.getElementById('load-more-container');
+                if (articles.length > start + latestPerPage) {
+                    loadMoreContainer.style.display = 'block';
+                } else {
+                    loadMoreContainer.style.display = 'none';
+                }
+                
+            } catch (error) {
+                console.error('Error loading latest news:', error);
+                Utils.showError(latestNewsEl, 'Failed to load latest news');
+            }
+        }
+        
+        async function loadMoreLatest() {
+            currentLatestPage++;
+            await loadLatestNews();
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+        
+        // Load initial data
+        document.addEventListener('DOMContentLoaded', () => {
+            loadLatestNews();
+        });
+    </script>
+</body>
+</html>
