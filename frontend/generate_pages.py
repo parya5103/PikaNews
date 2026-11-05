@@ -17,14 +17,14 @@ for category in categories:
     <meta property="og:title" content="{category.capitalize()} News - PikaNews">
     <meta property="og:description" content="Stay updated with the latest {category} articles and stories.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://parya5103.github.io/PikaNews/{category}.html">
+    <meta property="og:url" content="https://gogocompany.in/pikanews/{category}.html">
     
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{category.capitalize()} News - PikaNews">
     <meta name="twitter:description" content="Stay updated with the latest {category} articles and stories.">
     
-    <link rel="canonical" href="https://parya5103.github.io/PikaNews/{category}.html">
-    <link rel="icon" type="image/png" href="images/favicon.png">
+    <link rel="canonical" href="https://gogocompany.in/pikanews/{category}.html">
+    <link rel="icon" type="image/svg+xml" href="images/pikanews-logo.svg">
     <link rel="stylesheet" href="css/styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -44,14 +44,14 @@ for category in categories:
                 <span class="hamburger"></span>
             </button>
             
-            <a href="/" class="logo">
-                <img src="images/pikanews-logo.png" alt="PikaNews Logo" class="logo-img">
+            <a href="index.html" class="logo">
+                <img src="images/pikanews-logo.svg" alt="PikaNews Logo" class="logo-img">
                 <span class="logo-text">Pika<span class="logo-accent">News</span></span>
             </a>
             
             <nav class="main-nav">
                 <ul class="nav-list">
-                    <li class="nav-item"><a href="/" class="nav-link">Home</a></li>
+                    <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
                     <li class="nav-item"><a href="latest.html" class="nav-link">Latest</a></li>
                     <li class="nav-item"><a href="trending.html" class="nav-link">Trending</a></li>
                     <li class="nav-item dropdown">
@@ -155,8 +155,8 @@ for category in categories:
         <div class="footer-container">
             <div class="footer-main">
                 <div class="footer-brand">
-                    <a href="/" class="logo">
-                        <img src="images/pikanews-logo.png" alt="PikaNews Logo" class="logo-img">
+                    <a href="index.html" class="logo">
+                        <img src="images/pikanews-logo.svg" alt="PikaNews Logo" class="logo-img">
                         <span class="logo-text">Pika<span class="logo-accent">News</span></span>
                     </a>
                     <p class="footer-tagline">Your automatic news aggregator, updated every 30 minutes.</p>
@@ -165,7 +165,7 @@ for category in categories:
                 <div class="footer-links">
                     <h3 class="footer-heading">Quick Links</h3>
                     <ul class="footer-list">
-                        <li><a href="/">Home</a></li>
+                        <li><a href="index.html">Home</a></li>
                         <li><a href="latest.html">Latest News</a></li>
                         <li><a href="trending.html">Trending</a></li>
                         <li><a href="about.html">About Us</a></li>

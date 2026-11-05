@@ -1,11 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://parya5103.github.io/PikaNews/sitemap.xml
-
-# Crawl delay to be respectful
-Crawl-delay: 5
-
-# Disallow crawling of sensitive areas
-Disallow: /data/
-Disallow: /news_json/
+# PikaNews is published at https://gogocompany.in/pikanews/
+# (This file is kept for completeness; crawlers only honor robots.txt at the
+# domain root, which is owned by the GoGo Company central website.)
+Sitemap: https://gogocompany.in/pikanews/sitemap.xml
