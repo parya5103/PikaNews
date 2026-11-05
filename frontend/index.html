@@ -58,13 +58,20 @@
     </script>
 </head>
 <body>
-    <!-- Loading Screen -->
-    <div id="loading-screen" class="loading-screen">
-        <div class="loading-spinner"></div>
-        <p>Loading PikaNews...</p>
+    <div class="utility-bar">
+        <div class="utility-inner">
+            <span id="utility-date" class="utility-date">Loading date&hellip;</span>
+            <nav class="utility-links" aria-label="Site links">
+                <a class="utility-keep" href="latest.html">Latest</a>
+                <a class="utility-keep" href="trending.html">Trending</a>
+                <a href="about.html">About</a>
+                <a href="sources.html">Sources</a>
+                <a href="editorial-policy.html">Editorial Policy</a>
+                <a href="contact.html">Contact</a>
+            </nav>
+        </div>
     </div>
 
-    <!-- Header -->
     <header class="header">
         <div class="header-container">
             <!-- Mobile Menu Toggle -->
@@ -131,7 +138,47 @@
         </div>
     </header>
 
-    <!-- Search Modal -->
+    <section class="ticker" aria-label="Latest headlines ticker">
+        <div class="ticker-inner">
+            <span class="ticker-label">Latest</span>
+            <div class="ticker-viewport">
+                <div id="ticker-track" class="ticker-track">
+                    <span class="ticker-empty">Loading headlines&hellip;</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div id="search-modal" class="modal search-modal">
+        <div class="modal-overlay" onclick="closeSearch()"></div>
+        <div class="modal-content">
+            <form id="search-form" class="search-form" onsubmit="performSearch(event)">
+                <input type="text" id="search-input" class="search-input" placeholder="Search news..." autocomplete="off">
+                <button type="submit" class="search-submit">
+                    <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="11" cy="11" r="8"/>
+                        <path d="m21 21-4.35-4.35"/>
+                    </svg>
+                </button>
+            </form>
+            <div id="search-results" class="search-results"></div>
+        </div>
+    </div>
+
+    <!-- Bookmarks Modal -->
+    <div id="bookmarks-modal" class="modal bookmarks-modal">
+        <div class="modal-overlay" onclick="closeBookmarks()"></div>
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Bookmarked Articles</h2>
+                <button onclick="closeBookmarks()" class="modal-close">&times;</button>
+            </div>
+            <div id="bookmarks-list" class="bookmarks-list"></div>
+        </div>
+    </div>
+
+    <main class="main-content">
+        <section class="category-nav-section">
     <div id="search-modal" class="modal search-modal">
         <div class="modal-overlay" onclick="closeSearch()"></div>
         <div class="modal-content">
@@ -189,213 +236,116 @@
             </div>
         </section>
 
-        <!-- Category Navigation -->
-        <section class="category-nav-section">
-            <div class="container">
-                <h2 class="section-title">Explore Categories</h2>
-                <div class="category-grid">
-                    <a href="bollywood.html" class="category-card">
-                        <div class="category-icon bollywood">
-                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/>
-                                <path d="M13.73 21a2 2 0 0 1-3.46 0"/>
-                            </svg>
+        <div class="home-layout">
+            <div class="home-main">
+                <!-- Top Stories: the newest card renders as the lead story -->
+                <section class="featured-section news-section">
+                    <div class="section-header">
+                        <h2 class="section-title">Top Stories</h2>
+                        <a href="latest.html" class="see-all-link">
+                            All news
+                            <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+                        </a>
+                    </div>
+                    <div id="featured-news" class="news-carousel">
+                        <div class="loading-placeholder">
+                            <div class="loading-spinner"></div>
+                            <p>Loading top stories...</p>
                         </div>
-                        <span class="category-name">Bollywood</span>
-                        <span id="bollywood-count" class="category-count">0</span>
-                    </a>
-                    <a href="hollywood.html" class="category-card">
-                        <div class="category-icon hollywood">
-                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <path d="M20.44 19.44L12 13.5l-8.44 5.94a1 1 0 0 0 1.28 1.56L12 16.5l7.16 4.5a1 1 0 0 0 1.28-1.56z"/>
-                                <path d="M12 5v11"/>
-                            </svg>
-                        </div>
-                        <span class="category-name">Hollywood</span>
-                        <span id="hollywood-count" class="category-count">0</span>
-                    </a>
-                    <a href="entertainment.html" class="category-card">
-                        <div class="category-icon entertainment">
-                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <rect x="2" y="7" width="20" height="15" rx="2"/>
-                                <path d="M2 10h20"/>
-                            </svg>
-                        </div>
-                        <span class="category-name">Entertainment</span>
-                        <span id="entertainment-count" class="category-count">0</span>
-                    </a>
-                    <a href="technology.html" class="category-card">
-                        <div class="category-icon technology">
-                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/>
-                                <polyline points="3.27 6.96 12 12.01 20.73 6.96"/>
-                                <line x1="12" y1="22.08" x2="12" y2="12"/>
-                            </svg>
-                        </div>
-                        <span class="category-name">Technology</span>
-                        <span id="technology-count" class="category-count">0</span>
-                    </a>
-                    <a href="gaming.html" class="category-card">
-                        <div class="category-icon gaming">
-                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <rect x="2" y="6" width="20" height="12" rx="2"/>
-                                <path d="M6 12a2 2 0 0 1-2-2 2 2 0 0 1 2-2 2 2 0 0 1 2 2 2 2 0 0 1-2 2z"/>
-                                <path d="M18 12a2 2 0 0 0-2-2 2 2 0 0 0-2-2 2 2 0 0 0-2 2 2 2 0 0 0 2 2z"/>
-                            </svg>
-                        </div>
-                        <span class="category-name">Gaming</span>
-                        <span id="gaming-count" class="category-count">0</span>
-                    </a>
-                    <a href="business.html" class="category-card">
-                        <div class="category-icon business">
-                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <path d="M12 2L2 7l10 5 10-5-10-5z"/>
-                                <path d="M2 17l10 5 10-5"/>
-                                <path d="M2 12l10 5 10-5"/>
-                            </svg>
-                        </div>
-                        <span class="category-name">Business</span>
-                        <span id="business-count" class="category-count">0</span>
-                    </a>
-                    <a href="sports.html" class="category-card">
-                        <div class="category-icon sports">
-                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <path d="M18 8h1a4 4 0 0 1 0 8h-1"/>
-                                <path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z"/>
-                                <line x1="6" y1="1" x2="6" y2="4"/>
-                                <line x1="10" y1="1" x2="10" y2="4"/>
-                                <line x1="14" y1="1" x2="14" y2="4"/>
-                            </svg>
-                        </div>
-                        <span class="category-name">Sports</span>
-                        <span id="sports-count" class="category-count">0</span>
-                    </a>
-                    <a href="trending.html" class="category-card">
-                        <div class="category-icon trending">
-                            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                <path d="M20.44 19.44L12 13.5l-8.44 5.94a1 1 0 0 0 1.28 1.56L12 16.5l7.16 4.5a1 1 0 0 0 1.28-1.56z"/>
-                                <path d="M12 5v11"/>
-                            </svg>
-                        </div>
-                        <span class="category-name">Trending</span>
-                        <span id="trending-count" class="category-count">0</span>
-                    </a>
-                </div>
-            </div>
-        </section>
+                    </div>
+                </section>
 
-        <!-- Featured News -->
-        <section class="featured-section">
-            <div class="container">
-                <h2 class="section-title">Featured Stories</h2>
-                <div id="featured-news" class="news-carousel">
-                    <!-- Featured articles will be loaded here -->
-                    <div class="loading-placeholder">
-                        <div class="loading-spinner"></div>
-                        <p>Loading featured news...</p>
-                    </div>
+                <div class="ad-slot" data-ad-slot="home-mid" hidden>
+                    <span class="ad-label">Advertisement</span>
+                    <ins class="adsbygoogle" style="display:block" data-ad-format="auto" data-full-width-responsive="true"></ins>
                 </div>
-            </div>
-        </section>
 
-        <!-- Latest News -->
-        <section class="latest-section">
-            <div class="container">
-                <div class="section-header">
-                    <h2 class="section-title">Latest News</h2>
-                    <a href="latest.html" class="see-all-link">
-                        See All
-                        <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                            <path d="M5 12h14M12 5l7 7-7 7"/>
-                        </svg>
-                    </a>
-                </div>
-                <div id="latest-news" class="news-grid">
-                    <!-- Latest articles will be loaded here -->
-                    <div class="loading-placeholder">
-                        <div class="loading-spinner"></div>
-                        <p>Loading latest news...</p>
+                <section class="latest-section news-section">
+                    <div class="section-header">
+                        <h2 class="section-title">Latest News</h2>
+                        <a href="latest.html" class="see-all-link">
+                            See All
+                            <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+                        </a>
                     </div>
-                </div>
-            </div>
-        </section>
+                    <div id="latest-news" class="news-grid">
+                        <div class="loading-placeholder">
+                            <div class="loading-spinner"></div>
+                            <p>Loading latest news...</p>
+                        </div>
+                    </div>
+                </section>
 
-        <!-- Trending News -->
-        <section class="trending-section">
-            <div class="container">
-                <div class="section-header">
-                    <h2 class="section-title">Trending Now</h2>
-                    <a href="trending.html" class="see-all-link">
-                        See All
-                        <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                            <path d="M5 12h14M12 5l7 7-7 7"/>
-                        </svg>
-                    </a>
-                </div>
-                <div id="trending-news" class="news-grid">
-                    <!-- Trending articles will be loaded here -->
-                    <div class="loading-placeholder">
-                        <div class="loading-spinner"></div>
-                        <p>Loading trending news...</p>
+                <section class="category-sections">
+                    <div class="category-section" id="bollywood-section">
+                        <div class="section-header">
+                            <h2 class="section-title">Bollywood</h2>
+                            <a href="bollywood.html" class="see-all-link">More</a>
+                        </div>
+                        <div id="bollywood-news" class="news-grid"></div>
                     </div>
-                </div>
+                    <div class="category-section" id="hollywood-section">
+                        <div class="section-header">
+                            <h2 class="section-title">Hollywood</h2>
+                            <a href="hollywood.html" class="see-all-link">More</a>
+                        </div>
+                        <div id="hollywood-news" class="news-grid"></div>
+                    </div>
+                    <div class="category-section" id="technology-section">
+                        <div class="section-header">
+                            <h2 class="section-title">Technology</h2>
+                            <a href="technology.html" class="see-all-link">More</a>
+                        </div>
+                        <div id="technology-news" class="news-grid"></div>
+                    </div>
+                    <div class="category-section" id="gaming-section">
+                        <div class="section-header">
+                            <h2 class="section-title">Gaming</h2>
+                            <a href="gaming.html" class="see-all-link">More</a>
+                        </div>
+                        <div id="gaming-news" class="news-grid"></div>
+                    </div>
+                    <div class="category-section" id="business-section">
+                        <div class="section-header">
+                            <h2 class="section-title">Business</h2>
+                            <a href="business.html" class="see-all-link">More</a>
+                        </div>
+                        <div id="business-news" class="news-grid"></div>
+                    </div>
+                    <div class="category-section" id="sports-section">
+                        <div class="section-header">
+                            <h2 class="section-title">Sports</h2>
+                            <a href="sports.html" class="see-all-link">More</a>
+                        </div>
+                        <div id="sports-news" class="news-grid"></div>
+                    </div>
+                </section>
             </div>
-        </section>
 
-        <!-- Category Sections -->
-        <section class="category-sections">
-            <div class="container">
-                <div class="category-section" id="bollywood-section">
-                    <div class="section-header">
-                        <h2 class="section-title">Bollywood</h2>
-                        <a href="bollywood.html" class="see-all-link">See All</a>
+            <aside class="home-sidebar">
+                <div class="sidebar-block">
+                    <h2 class="section-title">Most Read</h2>
+                    <div id="trending-news" class="news-grid">
+                        <div class="loading-placeholder">
+                            <div class="loading-spinner"></div>
+                        </div>
                     </div>
-                    <div class="news-row" id="bollywood-news"></div>
+                    <p class="sidebar-note">Ranked by recency of collection across all categories. No view counts are tracked, so no fabricated popularity numbers are shown.</p>
                 </div>
-                
-                <div class="category-section" id="hollywood-section">
-                    <div class="section-header">
-                        <h2 class="section-title">Hollywood</h2>
-                        <a href="hollywood.html" class="see-all-link">See All</a>
-                    </div>
-                    <div class="news-row" id="hollywood-news"></div>
-                </div>
-                
-                <div class="category-section" id="technology-section">
-                    <div class="section-header">
-                        <h2 class="section-title">Technology</h2>
-                        <a href="technology.html" class="see-all-link">See All</a>
-                    </div>
-                    <div class="news-row" id="technology-news"></div>
-                </div>
-                
-                <div class="category-section" id="gaming-section">
-                    <div class="section-header">
-                        <h2 class="section-title">Gaming</h2>
-                        <a href="gaming.html" class="see-all-link">See All</a>
-                    </div>
-                    <div class="news-row" id="gaming-news"></div>
-                </div>
-                
-                <div class="category-section" id="business-section">
-                    <div class="section-header">
-                        <h2 class="section-title">Business</h2>
-                        <a href="business.html" class="see-all-link">See All</a>
-                    </div>
-                    <div class="news-row" id="business-news"></div>
-                </div>
-                
-                <div class="category-section" id="sports-section">
-                    <div class="section-header">
-                        <h2 class="section-title">Sports</h2>
-                        <a href="sports.html" class="see-all-link">See All</a>
-                    </div>
-                    <div class="news-row" id="sports-news"></div>
-                </div>
-            </div>
-        </section>
 
-        <!-- Newsletter Section -->
+                <div class="ad-slot sidebar-ad" data-ad-slot="home-side" hidden>
+                    <span class="ad-label">Advertisement</span>
+                    <ins class="adsbygoogle" style="display:block" data-ad-format="auto" data-full-width-responsive="true"></ins>
+                </div>
+
+                <div class="sidebar-block">
+                    <h2 class="section-title">About PikaNews</h2>
+                    <p class="sidebar-note">PikaNews is a digital platform by GoGo Company. It aggregates headlines and short excerpts from third-party publishers and links to every original report. Read how sources are selected in the <a href="sources.html">News Sources &amp; Disclaimer</a> page and our editorial standards in the <a href="editorial-policy.html">Editorial Policy</a>.</p>
+                    <p class="sidebar-note"><a href="feed.xml">Subscribe via RSS</a> - updated every 30 minutes.</p>
+                </div>
+            </aside>
+        </div>
+
         <section class="newsletter-section">
             <div class="container">
                 <div class="newsletter-card">
@@ -405,6 +355,7 @@
                         <input type="email" id="newsletter-email" class="newsletter-input" placeholder="Enter your email" required>
                         <button type="submit" class="btn btn-primary">Subscribe</button>
                     </form>
+                    <p class="rss-row">Instant updates without email: <a href="feed.xml">RSS feed</a></p>
                 </div>
             </div>
         </section>
@@ -420,6 +371,7 @@
                         <span class="logo-text">Pika<span class="logo-accent">News</span></span>
                     </a>
                     <p class="footer-tagline">Your automatic news aggregator, updated every 30 minutes.</p>
+                    <p class="footer-brand-legal">PikaNews is a digital platform by GoGo Company.</p>
                     <div class="social-links">
                         <a href="https://github.com/parya5103/PikaNews" class="social-link" aria-label="GitHub" target="_blank" rel="noopener noreferrer">
                             <svg viewBox="0 0 24 24" fill="currentColor">
@@ -435,6 +387,7 @@
                         <li><a href="index.html">Home</a></li>
                         <li><a href="latest.html">Latest News</a></li>
                         <li><a href="trending.html">Trending</a></li>
+                        <li><a href="search.html">Search</a></li>
                         <li><a href="about.html">About Us</a></li>
                         <li><a href="contact.html">Contact</a></li>
                     </ul>
@@ -458,41 +411,28 @@
                     <ul class="footer-list">
                         <li><a href="privacy.html">Privacy Policy</a></li>
                         <li><a href="terms.html">Terms of Service</a></li>
+                        <li><a href="sources.html">News Sources &amp; Disclaimer</a></li>
+                        <li><a href="editorial-policy.html">Editorial &amp; Corrections Policy</a></li>
+                        <li><a href="feed.xml">RSS Feed</a></li>
                     </ul>
                 </div>
             </div>
             
             <div class="footer-bottom">
-                <p>&copy; 2026 PikaNews. All rights reserved.</p>
+                <p>&copy; 2026 PikaNews, a digital platform by GoGo Company. All rights reserved.</p>
                 <p>Automatically updated every 30 minutes. Last updated: <span id="last-updated">Never</span></p>
             </div>
         </div>
     </footer>
 
-    <!-- Article Detail Modal -->
-    <div id="article-modal" class="modal article-modal">
-        <div class="modal-overlay" onclick="closeArticleModal()"></div>
-        <div class="modal-content article-content">
-            <button onclick="closeArticleModal()" class="modal-close">&times;</button>
-            <article id="article-detail">
-                <!-- Article content will be loaded here -->
-            </article>
-        </div>
-    </div>
-
-    <!-- Toast Notifications -->
     <div id="toast-container" class="toast-container"></div>
-
-    <!-- Back to Top Button -->
     <button id="back-to-top" class="back-to-top" aria-label="Back to top">
-        <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <path d="M12 19V5M5 12l7-7 7 7"/>
-        </svg>
+        <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
     </button>
-
-    <!-- Load JavaScript -->
     <script src="js/data.js"></script>
     <script src="js/utils.js"></script>
     <script src="js/app.js"></script>
+    <script src="js/newsroom.js"></script>
+    <script src="js/ads.js"></script>
 </body>
 </html>
