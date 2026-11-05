@@ -1,0 +1,47 @@
+name: CI
+
+on:
+  push:
+    branches: ['**']
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: requirements-collector.txt
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements-collector.txt python-dateutil pytest
+
+      - name: Run collector, generator and production-build tests
+        run: |
+          set +e
+          pytest tests/test_news_collector.py tests/test_generators.py tests/test_production_build.py -v > pytest_output.txt 2>&1
+          status=$?
+          cat pytest_output.txt
+          if [ $status -ne 0 ]; then
+            tail -20 pytest_output.txt | tr -cd '\40-\176\n' | while IFS= read -r line; do
+              [ -n "$line" ] && echo "::error::PYTEST: $line"
+            done
+            exit 1
+          fi
+          set -e

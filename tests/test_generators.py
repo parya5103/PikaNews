@@ -170,12 +170,12 @@ def test_url_construction():
     
     print("Testing URL construction...")
     
-    base_url = "https://parya5103.github.io/PikaNews/"
+    base_url = "https://gogocompany.in/pikanews/"
     
     # Test various URL joins
-    assert urljoin(base_url, "article.html?id=test") == "https://parya5103.github.io/PikaNews/article.html?id=test"
-    assert urljoin(base_url, "index.html") == "https://parya5103.github.io/PikaNews/index.html"
-    assert urljoin(base_url, "") == "https://parya5103.github.io/PikaNews/"
+    assert urljoin(base_url, "article.html?id=test") == "https://gogocompany.in/pikanews/article.html?id=test"
+    assert urljoin(base_url, "index.html") == "https://gogocompany.in/pikanews/index.html"
+    assert urljoin(base_url, "") == "https://gogocompany.in/pikanews/"
     
     print("  ✓ URL construction test passed")
 

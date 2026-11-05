@@ -10,13 +10,12 @@ from datetime import datetime, timezone
 from urllib.parse import urljoin
 
 # Configuration
-BASE_URL = "https://parya5103.github.io/PikaNews/"
+BASE_URL = "https://gogocompany.in/pikanews/"
 SITEMAP_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "frontend", "sitemap.xml")
 NEWS_JSON_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "news_json")
 
 # Static pages
 STATIC_PAGES = [
-    {"url": "", "priority": 1.0, "changefreq": "daily"},
     {"url": "index.html", "priority": 1.0, "changefreq": "daily"},
     {"url": "latest.html", "priority": 0.9, "changefreq": "hourly"},
     {"url": "trending.html", "priority": 0.9, "changefreq": "hourly"},
