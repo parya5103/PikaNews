@@ -79,6 +79,7 @@ def generate_rss_feed():
         pub_date = article.get("published_at", "")
         category = article.get("category", "")
         source = article.get("source", "")
+        source_url = article.get("url", "")
         
         # Format pubDate for RSS
         try:
@@ -93,7 +94,7 @@ def generate_rss_feed():
         xml_parts.append(f'      <description><![CDATA[{escape_xml(description)}]]></description>')
         xml_parts.append(f'      <pubDate>{pub_date_str}</pubDate>')
         xml_parts.append(f'      <category>{escape_xml(category)}</category>')
-        xml_parts.append(f'      <source url="{escape_xml(article_url)}">{escape_xml(source)}</source>')
+        xml_parts.append(f'      <source url="{escape_xml(source_url)}">{escape_xml(source)}</source>')
         xml_parts.append(f'      <guid>{escape_xml(link)}</guid>')
         xml_parts.append('    </item>')
     
