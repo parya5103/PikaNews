@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://parya5103.github.io/PikaNews/sitemap.xml
+
+# Crawl delay to be respectful
+Crawl-delay: 5
+
+# Disallow crawling of sensitive areas
+Disallow: /data/
+Disallow: /news_json/
