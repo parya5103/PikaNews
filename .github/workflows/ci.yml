@@ -39,7 +39,11 @@ jobs:
           status=$?
           cat pytest_output.txt
           if [ $status -ne 0 ]; then
-            tail -20 pytest_output.txt | tr -cd '\40-\176\n' | while IFS= read -r line; do
+            summary=$(grep -E '^(FAILED|ERROR) ' pytest_output.txt | tail -10)
+            if [ -z "$summary" ]; then
+              summary=$(tail -10 pytest_output.txt)
+            fi
+            echo "$summary" | while IFS= read -r line; do
               [ -n "$line" ] && echo "::error::PYTEST: $line"
             done
             exit 1
