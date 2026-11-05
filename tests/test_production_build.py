@@ -90,9 +90,13 @@ def test_every_page_declares_og_image_and_twitter_image():
 def test_data_module_uses_relative_paths():
     data_js = read("js/data.js")
     assert "baseUrl: 'data'" in data_js, "DataManager must use the relative 'data' prefix"
-    assert "/PikaNews/data" not in data_js, "old /PikaNews/data base path still present"
-    assert "'/data'" not in data_js, "old root-relative /data base path still present"
-    assert "pathname.includes" not in data_js, "fragile pathname sniffing still present"
+    # Ignore // comment lines: the header deliberately mentions the old
+    # broken paths as a warning to future editors.
+    code_lines = [l for l in data_js.splitlines() if not l.strip().startswith("//")]
+    code = "\n".join(code_lines)
+    assert "/PikaNews/data" not in code, "old /PikaNews/data base path still present"
+    assert "'/data'" not in code and '"/data"' not in code, "old root-relative /data base path still present"
+    assert "pathname.includes" not in code, "fragile pathname sniffing still present"
 
 
 def test_app_module_home_link_stays_inside_site():
