@@ -83,7 +83,7 @@ function initMobileMenu() {
         <div class="mobile-menu-header">
             <div class="mobile-menu-nav">
                 <ul class="mobile-menu-nav-list">
-                    <li><a href="/" class="mobile-menu-link">Home</a></li>
+                    <li><a href="index.html" class="mobile-menu-link">Home</a></li>
                     <li><a href="latest.html" class="mobile-menu-link">Latest</a></li>
                     <li><a href="trending.html" class="mobile-menu-link">Trending</a></li>
                     <li><a href="bollywood.html" class="mobile-menu-link">Bollywood</a></li>
@@ -943,9 +943,8 @@ function initNewsletter() {
             return;
         }
         
-        // For demo purposes, just show a success message
-        // In production, you would send this to your backend
-        showToast('Thank you for subscribing!', 'success');
+        // No mailing backend is wired up yet - never claim a subscription that did not happen
+        showToast('Newsletter is not live yet - nothing was stored. All headlines are right here on the homepage.', 'info');
         newsletterForm.reset();
     });
 }
