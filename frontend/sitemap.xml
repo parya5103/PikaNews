@@ -2,7 +2,7 @@
 <!-- Interim sitemap: static pages only. The scheduled collector regenerates
      this file within 30 minutes of merge, adding the generated static
      article URLs (news/<slug>/) and the Google News sitemap reference.
-     Query-parameter article URLs (article.html?id=) are intentionally no
+     Query-parameter article URLs are intentionally no
      longer listed: each article now has its own crawlable static page. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>

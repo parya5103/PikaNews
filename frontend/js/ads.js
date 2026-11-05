@@ -1,6 +1,6 @@
 /* PikaNews ad integration.
    Reuses the GoGo Company AdSense configuration (verified publisher ID
-   ca-pub-2895136878543415 and the existing responsive display unit
+   2895136878543415 and the existing responsive display unit
    7200569170). This file is the PikaNews-specific counterpart of
    gogo-website/assets/js/ads.js and follows the same rules:
 
