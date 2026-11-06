@@ -1,5 +1,126 @@
 [
   {
+    "id": "1180322c62a4ed6a579b65d56a29695808c005542a6907f72c3927c76270bd16",
+    "title": "Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cindy Hyde-Smith",
+    "summary": "The Mississippi Senate election could be determined by the mail-in ballots received after Election Day, whose legality was upheld by the Supreme Court.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html",
+    "published_at": "2026-11-05T23:40:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T00:29:47.240735+00:00"
+  },
+  {
+    "id": "d83b7ba73231075e907741638d928d0a246454a1277f281f6a3ccf7a2d17eb01",
+    "title": "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge",
+    "summary": "Here are the most breathtaking statistics from the major stock sell-off on Thursday.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html",
+    "published_at": "2026-11-05T23:39:32+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T00:29:47.240530+00:00"
+  },
+  {
+    "id": "52f631dafdaae3bf0324cc68ef58618152a180eb0c56f38f330578306dece78d",
+    "title": "Neocloud IREN says $4 billion in annualized revenue being delayed due to customer request",
+    "summary": "Following a dramatic plunge in its stock price, IREN said some revenue is being delayed from 2026 until early next year.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/05/iren-earnings-report-q1-2027-.html",
+    "published_at": "2026-11-05T23:25:02+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T00:29:47.241084+00:00"
+  },
+  {
+    "id": "a477c3d6d85e661b6d68d63c4ddc71c0f1b86bb9f8c52ba8375e9ee528159820",
+    "title": "Blue Origin pushes launch to January 2027 as it races to rebuild damaged launchpad",
+    "summary": "CEO Dave Limp said the company has moved swiftly to repair a launchpad that was damaged by the New Glenn explosion in May but that the work hasn't been easy.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/05/blue-origin-launch-new-glenn.html",
+    "published_at": "2026-11-05T23:02:14+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T00:29:47.241598+00:00"
+  },
+  {
+    "id": "4c6067a7088fa95c0b7857ea3476ec9e7d696b660c451a615813736153f94f6c",
+    "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
+    "summary": "Elon Musk's Tesla and SpaceX lose $420 billion in combined market cap after midterms",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html",
+    "published_at": "2026-11-05T22:31:13+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T00:29:47.241369+00:00"
+  },
+  {
+    "id": "3c20311f2339967e413eb4e66e63ed777086df87283c1cbe43552170b061d54d",
+    "title": "Here's where we stand on Kimberly-Clark shares after a better-than-feared quarter",
+    "summary": "The stock rose more than 1% Thursday during Wall Street's sell-off.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/05/heres-where-we-stand-on-kimberly-clark-shares-after-a-better-than-feared-quarter.html",
+    "published_at": "2026-11-05T22:31:03+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T00:29:47.241488+00:00"
+  },
+  {
+    "id": "2368b4361efe28ff49878c1d7111c80e49b5c89c77ffc754f317a43dc723f611",
+    "title": "Nvidia's Huang is asked to brief Congress on reported Chinese spy relationship",
+    "summary": "President Donald Trump was briefed about a year ago about those intelligence findings, The New York Times reported.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html",
+    "published_at": "2026-11-05T22:21:29+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T00:29:47.240994+00:00"
+  },
+  {
+    "id": "1890b1a1000ed37618d801550eac4940a805b1393f40b820960982343dadb91e",
+    "title": "IRS unveils higher capital gains tax brackets for 2027",
+    "summary": "The IRS has announced higher long-term capital gains brackets for 2027. Here's what investors need to know.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/05/capital-gains-tax-2027-federal.html",
+    "published_at": "2026-11-05T21:46:23+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T00:29:47.240905+00:00"
+  },
+  {
+    "id": "bac90aa957859be58ec212f0ae8d56c2a860f7b6e4ae1ad94eb38de5e31ecdbd",
+    "title": "The October jobs report is out Friday. Here's everything to expect",
+    "summary": "The Bureau of Labor Statistics releases the October nonfarm payrolls report Friday at 8:30 a.m. ET.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
+    "published_at": "2026-11-05T21:32:52+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T00:29:47.240821+00:00"
+  },
+  {
+    "id": "64fb750a24c72bd0023e6baca1ffc6be10e7dbdffcaab4203b2a68f8b8dbaca8",
+    "title": "IRS announces bigger estate and gift tax exemption for 2027",
+    "summary": "The IRS has announced a bigger estate and gift tax exemption for 2027. Here's what investors need to know.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/05/2027-estate-and-gift-tax-exemption-irs-raises-limit.html",
+    "published_at": "2026-11-05T20:51:57+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T00:29:47.241177+00:00"
+  },
+  {
+    "id": "a7b1b0812afd1e6005833e5bfbafb5c7bf27ac9148cd3a67b576e1385e36802a",
+    "title": "IRS announces new federal income tax brackets for 2027",
+    "summary": "The IRS has announced higher federal income tax brackets and standard deductions for 2027. Here's what taxpayers need to know.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/05/2027-federal-tax-brackets.html",
+    "published_at": "2026-11-05T20:37:22+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T00:29:47.241282+00:00"
+  },
+  {
     "id": "4969653dc74cdd96b76347d048504bdcc79968bc9e7dec8d58901bcc0b5cd6b7",
     "title": "Blue Origin pushes launch to January 2027 as it races to rebuild damaged launch pad",
     "summary": "CEO Dave Limp said the company has moved swiftly to repair a launchpad that was damaged by the New Glenn explosion in May, but the work hasn't been easy.",
@@ -31,6 +152,21 @@
     "published_at": "2026-11-05T18:29:21+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-05T19:02:46.142288+00:00"
+  },
+  {
+    "id": "69bfe191d79cfc0a15dd56f2005f3264dc1d03ebfb6ea36363d2e34970096bbd",
+    "title": "$2.5 TRILLION has been wiped from US stocks.",
+    "summary": "&#32; submitted by &#32; /u/SuperbHealth5023 &#32; to &#32; r/StockMarket [link] &#32; [comments]",
+    "category": "business",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xopjao/25_trillion_has_been_wiped_from_us_stocks",
+    "published_at": "2026-11-05T18:00:45+00:00",
+    "image_url": "https://preview.redd.it/0zjtuuxj2uzh1.jpeg",
+    "collection_timestamp": "2026-11-06T00:29:47.245339+00:00",
+    "author": "/u/SuperbHealth5023https://www.reddit.com/user/SuperbHealth5023",
+    "tags": [
+      "StockMarket"
+    ]
   },
   {
     "id": "49a2c3c24cfd0fdcba1aa20a30fc0fec0301696317a6a02910c75916e1157bbc",

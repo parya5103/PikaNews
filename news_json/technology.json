@@ -1,5 +1,115 @@
 [
   {
+    "id": "726730fcc0b42ef0de55f9f77bdfc2b8c71ad321b10d5b789d0ee553521af033",
+    "title": "Google, TikTok And Meta Sue To Block California’s Social Media Law That Restricts Addictive Features For Children",
+    "summary": "Three tech giants &#8212; Google, Meta and TikTok &#8212; sued the state of California over a recently passed law designed to restrict social media platforms from offering &#8220;addictive&#8221; features to children under 16. In its lawsuit, filed on Wednesday, Google claimed that the law would ban features like YouTube&#8217;s recommendation system and autoplay feature, even [&#8230;]",
+    "category": "technology",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/california-social-media-law-youtube-tiktok-facebook-1237214954",
+    "published_at": "2026-11-05T23:29:50+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2025/05/GettyImages-2081676173.jpg",
+    "collection_timestamp": "2026-11-06T00:29:47.229926+00:00",
+    "author": "Ted Johnson",
+    "tags": [
+      "Legal",
+      "News",
+      "Politics",
+      "Digital Age Assurance Act",
+      "ElectionLine",
+      "Facebook",
+      "Gavin Newsom",
+      "Google",
+      "Instagram",
+      "META",
+      "tiktok",
+      "YouTube"
+    ]
+  },
+  {
+    "id": "da81e62ee3091f55cec823960f322cf73f907467fe855a8b7b955a8a9474a2b4",
+    "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
+    "summary": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark",
+    "published_at": "2026-11-05T22:49:03+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/nasa-x-70-image-1152x648.jpeg",
+    "collection_timestamp": "2026-11-06T00:29:47.237403+00:00",
+    "author": "Jeremy Hsu",
+    "tags": [
+      "Tech",
+      "aircraft",
+      "experimental aircraft",
+      "jared isaacman",
+      "NASA",
+      "X-59",
+      "X-70",
+      "x-plane"
+    ]
+  },
+  {
+    "id": "c0490b7083b50380b54b88008c84a3476f34708bff2e2094a6d719e8d11560b0",
+    "title": "Tesla and SpaceX lose over $420 billion in combined market cap in the two days after midterms",
+    "summary": "&#32; submitted by &#32; /u/ControlCAD &#32; to &#32; r/technology [link] &#32; [comments]",
+    "category": "technology",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/technology/comments/1xow42o/tesla_and_spacex_lose_over_420_billion_in",
+    "published_at": "2026-11-05T22:19:44+00:00",
+    "image_url": "https://external-preview.redd.it/BFowk3HwrUn0jMVPkcVBRBqTLlgtZq61M580DlpozNM.jpeg",
+    "collection_timestamp": "2026-11-06T00:29:47.244612+00:00",
+    "author": "/u/ControlCADhttps://www.reddit.com/user/ControlCAD",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "id": "d25c13f223ab990bd50bd876ca3fb72a2ee2f842a523756ad79d1dcfc5fb04e1",
+    "title": "Sony revives the original Walkman headphones, adds USB-C",
+    "summary": "Orange ear cushions included.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones",
+    "published_at": "2026-11-05T21:56:36+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/assets_MS2027641_000001_feature-2-3-D-1152x648.jpg",
+    "collection_timestamp": "2026-11-06T00:29:47.237497+00:00",
+    "author": "Scharon Harding",
+    "tags": [
+      "Tech",
+      "audio",
+      "Sony",
+      "Walkman"
+    ]
+  },
+  {
+    "id": "b197ee9d77615de465e614646d552e63b70b4b602986e296fe9aba98b921a4cf",
+    "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
+    "summary": "Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
+    "published_at": "2026-11-05T20:17:16+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T00:29:47.240633+00:00"
+  },
+  {
+    "id": "d8178f2aed08a64a957aa800f85b76cde3cd17855200367c9cf5771005bd1dcf",
+    "title": "Airbnb is working on an AI travel agent",
+    "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said. \"But [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+    "published_at": "2026-11-05T19:06:12-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T00:29:47.236059+00:00",
+    "author": "Jay Peters",
+    "tags": [
+      "AI",
+      "Apps",
+      "News",
+      "Tech"
+    ]
+  },
+  {
     "id": "0833a8182196ca850d0c2032cb33c6f18c965d528b1976ae17bf43cf5cce0840",
     "title": "Voters rejected AI data centers over resource concerns. Here's why measuring water usage is hard",
     "summary": "AI data centers are facing national outcry for draining local water and power supply. The truth about how they use water to stay cool is far more complicated.",
@@ -9,6 +119,100 @@
     "published_at": "2026-11-05T18:52:21+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-05T19:02:46.143216+00:00"
+  },
+  {
+    "id": "1f92a9bc028c7d75bee3b5f6f76e90a00efaf383b441cc3587c768bf12cada72",
+    "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
+    "summary": "The New York Times Company is in talks\"exclusive negotations\" to acquire Letterboxd, the social network for film lovers, for around $330 million, The New York Times reports. The Times Company, Sony Pictures Entertainment, and A24 were all recently rumored to be among those interested in buying Letterboxd. The negotiations with the Times Company have included [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
+    "published_at": "2026-11-05T18:45:10-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T00:29:47.236236+00:00",
+    "author": "Jay Peters",
+    "tags": [
+      "Apps",
+      "Entertainment",
+      "Film",
+      "News",
+      "Tech",
+      "Web"
+    ]
+  },
+  {
+    "id": "fcc78a83f8695724f9e8d5f3e7a8f6d6220a8de0beadf53d95e961d3877fab1f",
+    "title": "T-Mobile owner on Elon Musk launching a wireless carrier: &#8216;Welcome to the party&#8217;",
+    "summary": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim H&#246;ttges says he takes the Elon Musk-owned company \"super serious,\" but that it will cost at least $200 billion to pull off: He [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+    "published_at": "2026-11-05T18:17:10-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T00:29:47.236391+00:00",
+    "author": "Emma Roth",
+    "tags": [
+      "Mobile",
+      "News",
+      "Science",
+      "Space",
+      "SpaceX",
+      "T-Mobile",
+      "Tech"
+    ]
+  },
+  {
+    "id": "9fd349da17ec82bddcf806013ed677a64130da5ef92384cc8854689aa2814957",
+    "title": "Perplexity launches its own take on AI agents for work",
+    "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+    "published_at": "2026-11-05T17:26:50-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T00:29:47.236536+00:00",
+    "author": "Emma Roth",
+    "tags": [
+      "AI",
+      "News"
+    ]
+  },
+  {
+    "id": "b65c2d27c70956e871aa6a56d6d98969a49e772226253f127d9c40aed1ebf38d",
+    "title": "Salon is shutting down after 31 years",
+    "summary": "Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication. The company said that the \"business realities of independent digital journalism have changed profoundly over the years,\" and it decided that its publishing model is \"no longer sustainable.\" It [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/1028281/salon-dot-com-shuts-down",
+    "published_at": "2026-11-05T17:08:14-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T00:29:47.236677+00:00",
+    "author": "Jay Peters",
+    "tags": [
+      "News",
+      "Tech",
+      "Web"
+    ]
+  },
+  {
+    "id": "37434954df1aaf73eab412c5c7f4acda0ad83b1b998d480c523e7f0ff7389e6d",
+    "title": "The midterms proved once and for all that X is not real life",
+    "summary": "A week before the midterm elections, Vice President JD Vance hosted a town hall in Texas with Fox News host Jesse Watters. It was a friendly event with a friendly audience in what should have been a friendly state, and maybe that's why Vance couldn't help himself. When a college student earnestly asked how the [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes",
+    "published_at": "2026-11-05T16:55:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T00:29:47.236817+00:00",
+    "author": "Gaby Del Valle",
+    "tags": [
+      "Analysis",
+      "Policy",
+      "Politics",
+      "Report",
+      "Social Media",
+      "Tech"
+    ]
   },
   {
     "id": "5e4ad6e86c2ee1fe56827c1c989bd600147717365f9b0c77b8904e1d2f24a8f2",
@@ -29,6 +233,24 @@
     ]
   },
   {
+    "id": "3ba712bb1f209c9617ccc04a62b002c2f5064c4437d2d32ceaab03790c3d3c88",
+    "title": "Blue Origin’s next launch now won’t happen until 2027",
+    "summary": "Blue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff. The new timeline follows a May launchpad explosion that damaged Blue Origin's New Glenn launchpad ahead of a flight that would have brought [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027",
+    "published_at": "2026-11-05T15:47:14-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T00:29:47.236961+00:00",
+    "author": "Jay Peters",
+    "tags": [
+      "Blue Origin",
+      "News",
+      "Science",
+      "Space"
+    ]
+  },
+  {
     "id": "b1414dbebb104fdce5a7aacde47ecf0c6ac2df26d8755e3c632f0fa333c62206",
     "title": "I finally got a job after 180 applications, but now they're changing the salary we agreed on.",
     "summary": "I was genuinely excited. After months of rejection emails, unanswered applications, and interviews that went nowhere, it finally felt like things were turning around. Well, something happened yesterday, and I&#39;m honestly not sure what to do. During my final interview, the hiring manager offered me a salary of $58,000 a year. We discussed it pretty clearly, and she even mentioned that the position would come with health insurance and two weeks of paid vacation. I accepted verbally and was told",
@@ -41,6 +263,42 @@
     "author": "/u/Amarasilverwillowhttps://www.reddit.com/user/Amarasilverwillow",
     "tags": [
       "whatdoIdo"
+    ]
+  },
+  {
+    "id": "cba358a7066ab30f84a2115732337494de188015fb66cd0a532cf71659b7418b",
+    "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
+    "summary": "Android fans with a bit of iPhone Duo envy, take note: The Samsung Galaxy Z Fold 8 is discounted to $1,599.99 at both Amazon and Best Buy, a hefty $300 markdown from its usual price, and just $50 higher than the lowest we’ve seen. Considering the device only launched a few months ago, you’re saving [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale",
+    "published_at": "2026-11-05T14:12:58-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T00:29:47.237128+00:00",
+    "author": "Brad Bourque",
+    "tags": [
+      "Deals",
+      "Gadgets",
+      "Phones",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "08acdb1cdbdbf2e21fafb2bc460d611f774515b7ad5d0729751f482734b44722",
+    "title": "Muse has a voice mode now",
+    "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+    "published_at": "2026-11-05T14:03:04-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T00:29:47.237262+00:00",
+    "author": "Jay Peters",
+    "tags": [
+      "AI",
+      "Meta",
+      "News",
+      "Tech"
     ]
   },
   {
