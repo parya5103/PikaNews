@@ -5,8 +5,14 @@ on:
     - cron: '0 0 * * *'  # Runs every day at midnight UTC
   workflow_dispatch:      # Allows manual trigger from the GitHub Actions tab
 
+# The scraper no longer commits to the repository. pikanews.db (~88 MB) and
+# storage/ were previously committed daily, bloating git history. The public
+# static site does not read the database; it is served from news_json/*.json.
+# The database is now uploaded as a workflow artifact instead (retained 30
+# days). Historical database content already committed to git history is NOT
+# deleted. Merging this change is a user decision, flagged in the PR.
 permissions:
-  contents: write         # Allows the workflow to commit and push changes back to the repo
+  contents: read
 
 jobs:
   scrape:
@@ -47,9 +53,13 @@ jobs:
           SQLITE_PATH: pikanews.db
           POSTGRES_URL: ${{ secrets.POSTGRES_URL }}
 
-      - name: Commit and Push Changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add pikanews.db storage/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "auto: Daily news ingestion sync [skip ci]" && git push)
+      - name: Upload database and storage as artifacts (30-day retention)
+        uses: actions/upload-artifact@v4
+        with:
+          name: pikanews-db-daily
+          path: |
+            pikanews.db
+            storage/
+          retention-days: 30
+          if-no-files-found: warn
+

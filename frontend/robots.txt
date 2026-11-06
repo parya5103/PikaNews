@@ -5,3 +5,5 @@ Allow: /
 # (This file is kept for completeness; crawlers only honor robots.txt at the
 # domain root, which is owned by the GoGo Company central website.)
 Sitemap: https://gogocompany.in/pikanews/sitemap.xml
+Sitemap: https://gogocompany.in/pikanews/news-sitemap.xml
+

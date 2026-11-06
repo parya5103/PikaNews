@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Interim Google News sitemap: valid but intentionally empty. The
+     scheduled collector regenerates this file within 30 minutes of merge,
+     listing every eligible article published in the last 48 hours with
+     its generated static page (news/<slug>/). -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+</urlset>
+
