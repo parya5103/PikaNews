@@ -35,7 +35,7 @@ jobs:
       - name: Run collector, generator and production-build tests
         run: |
           set +e
-          pytest tests/test_news_collector.py tests/test_generators.py tests/test_production_build.py -v > pytest_output.txt 2>&1
+          pytest tests/test_news_collector.py tests/test_news_expiry.py tests/test_generators.py tests/test_production_build.py -v > pytest_output.txt 2>&1
           status=$?
           cat pytest_output.txt
           if [ $status -ne 0 ]; then

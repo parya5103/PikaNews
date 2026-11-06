@@ -561,6 +561,11 @@ button {
     visibility: visible;
 }
 
+/* Lock page scroll while the mobile drawer is open */
+body.menu-open {
+    overflow: hidden;
+}
+
 /* ----------------------------------
    6. Breaking news ticker
 ---------------------------------- */
@@ -1148,6 +1153,20 @@ button {
 .category-card:hover {
     border-color: var(--accent);
     color: var(--accent);
+}
+
+/* Active category (current page) */
+.category-card.active,
+.category-card[aria-current="page"] {
+    border-color: var(--accent);
+    background: var(--accent-soft);
+    color: var(--accent);
+}
+
+/* Emoji glyph used by the homepage category strip */
+.category-icon {
+    font-size: 16px;
+    line-height: 1;
 }
 
 .category-icon {
@@ -2361,6 +2380,31 @@ button {
     .ticker-inner {
         height: 36px;
     }
+
+    /* Category strip: compact horizontal scroller on phones */
+    .category-nav-section {
+        padding: 10px 0;
+    }
+
+    .category-grid {
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        gap: 8px;
+        scroll-snap-type: x proximity;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .category-card {
+        flex: 0 0 auto;
+        padding: 8px 12px;
+        scroll-snap-align: start;
+    }
+
+    .category-icon {
+        width: 28px;
+        height: 28px;
+        font-size: 14px;
+    }
 }
 
 /* Very small phones (360px) */
@@ -2411,4 +2455,5 @@ button {
 .skip-link:focus {
     left: 0;
 }
+
 
