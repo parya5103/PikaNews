@@ -92,6 +92,40 @@
     "collection_timestamp": "2026-11-06T00:29:47.240633+00:00"
   },
   {
+    "id": "8838df6dd8cf4c0ce008337bc146299ac2138b9f37bada0f09f7d14d4f858858",
+    "title": "OpenAI is stepping back from NDAs for data center projects",
+    "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+    "published_at": "2026-11-05T19:37:56-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T07:17:12.325987+00:00",
+    "thin": false,
+    "author": "Jay Peters",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI"
+    ]
+  },
+  {
+    "id": "d3c47bfb590453c002f17026dd9593582588005edc3fa5fe2deaab696ee0909b",
+    "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+    "summary": "&#32; submitted by &#32; /u/MarvelsGrantMan136 &#32; to &#32; r/technology [link] &#32; [comments]",
+    "category": "technology",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/technology/comments/1xorh8s/meta_warns_that_election_backlash_against_data",
+    "published_at": "2026-11-05T19:14:24+00:00",
+    "image_url": "https://external-preview.redd.it/rB5E4_Q0DeNhhCFPgAAmF71ZyW8SdEBei59XzHvnTkU.jpeg",
+    "collection_timestamp": "2026-11-06T07:17:12.334921+00:00",
+    "thin": false,
+    "author": "/u/MarvelsGrantMan136https://www.reddit.com/user/MarvelsGrantMan136",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
     "id": "d8178f2aed08a64a957aa800f85b76cde3cd17855200367c9cf5771005bd1dcf",
     "title": "Airbnb is working on an AI travel agent",
     "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said. \"But [&#8230;]",

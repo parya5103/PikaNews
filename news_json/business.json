@@ -1,5 +1,89 @@
 [
   {
+    "id": "d321fbe5bef4e137c6246d0cfde299c663f8f7131b2e0edd11cf5cc8729e4aa6",
+    "title": "India as an AI hedge? The country's stocks could see robust inflows as markets globally tank",
+    "summary": "Over the last month, India's Nifty 50 has gained nearly 9%, while markets with heavy AI exposure, including the U.S., Japan, South Korea and Taiwan are deep in the red.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/06/india-ai-tech-hedge-nifty50.html",
+    "published_at": "2026-11-06T06:02:36+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T07:17:12.327772+00:00",
+    "thin": false
+  },
+  {
+    "id": "a679a9731a232c76488278371b9718daff4a3e367511b0fdb8856f7f621c1f8d",
+    "title": "The world's best airline is updating its business and first-class experience",
+    "summary": "Singapore Airlines is rolling out new onboard seating, dining and entertainment options that are part of an over $2 billion Singapore dollar investment.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/06/singapore-airlines-new-first-business-class-a350-starlink.html",
+    "published_at": "2026-11-06T05:36:10+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T07:17:12.327969+00:00",
+    "thin": false
+  },
+  {
+    "id": "445478c20f8f74829e144d012b5f7c46dd5e39a4f4a9ab1c248a16fcc439001b",
+    "title": "Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy",
+    "summary": "Bob McNally predicts that both Brent and West Texas Intermediate futures will jump above $100.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html",
+    "published_at": "2026-11-06T05:27:24+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T07:17:12.327603+00:00",
+    "thin": false
+  },
+  {
+    "id": "50285b6cd499fc339cab8c36252dc2bed0f3be0591a1473375e167f7b5af380b",
+    "title": "Oil prices rise as investors weigh renewed U.S.-Iran conflict risks after midterm elections",
+    "summary": "Oil prices rose Friday as investors weighed the risk of renewed U.S.-Iran military escalation after the midterms, alongside prospects for a diplomatic breakthrough.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
+    "published_at": "2026-11-06T05:06:56+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T07:17:12.327308+00:00",
+    "thin": false
+  },
+  {
+    "id": "107fc68526d9cd7590a1a31e7e162b8f4e4a6f394e573731b5de08d0d57ec7a8",
+    "title": "Mississippi Senate: Colom, Hyde-Smith gird for ballot legal fight in razor-thin race",
+    "summary": "The Mississippi Senate election could be determined by the mail-in ballots received after Election Day, whose legality was upheld by the Supreme Court.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html",
+    "published_at": "2026-11-06T02:58:02+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T07:17:12.328149+00:00",
+    "thin": false
+  },
+  {
+    "id": "42ef86b8f50dca1ee865b7fbc61f1724cd6c7939859ba56701e7d3ff0d0dc185",
+    "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
+    "summary": "Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+    "published_at": "2026-11-06T02:40:15+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T07:17:12.327467+00:00",
+    "thin": false
+  },
+  {
+    "id": "a5091fa2d77817f989932a9996b7d0253ea7ba5641d38c6576e8248a85dbc435",
+    "title": "Costco is taking aim at its May record high — how it got here and where's it going",
+    "summary": "Costco is finally back.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/05/costco-is-taking-aim-at-its-may-record-high-how-it-got-here-and-wheres-going.html",
+    "published_at": "2026-11-05T23:56:24+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T07:17:12.328617+00:00",
+    "thin": true
+  },
+  {
     "id": "1180322c62a4ed6a579b65d56a29695808c005542a6907f72c3927c76270bd16",
     "title": "Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cindy Hyde-Smith",
     "summary": "The Mississippi Senate election could be determined by the mail-in ballots received after Election Day, whose legality was upheld by the Supreme Court.",
@@ -31,6 +115,18 @@
     "published_at": "2026-11-05T23:25:02+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-06T00:29:47.241084+00:00"
+  },
+  {
+    "id": "79c213f369afedf84bc4cce9f42cc1a844961514cfa9ad6526f782637c55bfda",
+    "title": "Jim Cramer says the AI sell-off isn't over, but it isn't another dot-com crash",
+    "summary": "Cramer warned that the sell-off in AI stocks likely has further to run.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/05/jim-cramer-ai-stocks-sell-off.html",
+    "published_at": "2026-11-05T23:17:51+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T07:17:12.328483+00:00",
+    "thin": false
   },
   {
     "id": "a477c3d6d85e661b6d68d63c4ddc71c0f1b86bb9f8c52ba8375e9ee528159820",
@@ -411,6 +507,30 @@
     "collection_timestamp": "2026-11-05T19:02:46.143898+00:00"
   },
   {
+    "id": "96e9d7eed367b400c1fbc6017ad78618fba8c7893e5d3217c7734947c528ff9b",
+    "title": "From tanks to drones: South Korea’s defense firms face a new battlefield test",
+    "summary": "South Korean defense stocks rode a wave of global rearmament for the past two years, but they have plunged in 2026.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/05/south-korea-defense-weapon-war-stocks-fall.html",
+    "published_at": "2026-11-05T08:07:43+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T07:17:12.328345+00:00",
+    "thin": false
+  },
+  {
+    "id": "3101441e467986ab02ee6f26d3060ccffbb802d0afa7cff31457a01b562545e2",
+    "title": "Inside the chip talent war: Trade secrets and rising Chinese rivals",
+    "summary": "Growing competition for semiconductor talent is fueling a battle over trade secrets as Chinese chipmakers gain ground.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html",
+    "published_at": "2026-11-05T03:53:18+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T07:17:12.328780+00:00",
+    "thin": false
+  },
+  {
     "id": "2e3c59ecd430b42edfcd7cc6fe38bc0abf43932a97823e7b5ccbde23169d9615",
     "title": "LIV Golf faces liquidation after BC Partners scraps rescue plan",
     "summary": "LIV Golf faces liquidation after BC Partners dropped a proposed $300 million rescue plan amid insufficient player commitments.",
@@ -420,6 +540,30 @@
     "published_at": "2026-11-05T03:11:58+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-05T19:02:46.143101+00:00"
+  },
+  {
+    "id": "99602501d856394400c1984c60a972f5e174b09a110010e097ec1567b36f5539",
+    "title": "Inside India newsletter: India weighs a tax cut to win over foreign investors. Will it work?",
+    "summary": "Foreign investors are losing their appetite for Indian equities, with their holdings touching an all-time low of 14%.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/05/india-tax-foreign-investors-nifty.html",
+    "published_at": "2026-11-05T00:04:36+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T07:17:12.328925+00:00",
+    "thin": false
+  },
+  {
+    "id": "5abd68e8c394f7bcb794a879c04e622aee25c32441780b9101c1e39926425395",
+    "title": "A 'demand decade' ahead for energy? BP, Baker Hughes CEOs weigh the investment outlook",
+    "summary": "Rising energy demand offers investment opportunities, but geopolitical risks and oil price uncertainty cloud the outlook, executives and an analyst said.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/05/energy-leaders-investment-outlook.html",
+    "published_at": "2026-11-04T23:23:03+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T07:17:12.329077+00:00",
+    "thin": false
   },
   {
     "id": "2ef4d35ac4f191086b2301c7b06b12123a7e1e5dc3ca3619b067c69c53a934a8",
