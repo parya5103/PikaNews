@@ -4,13 +4,22 @@
    7200569170). This file is the PikaNews-specific counterpart of
    gogo-website/assets/js/ads.js and follows the same rules:
 
-   1. The AdSense loader script is injected at most once per page.
+   1. The AdSense loader script is injected at most once per page. Pages
+      that carry it become Auto-ads-ready (Anchor / Vignette / In-page /
+      Multiplex) once the owner enables those formats in the AdSense
+      dashboard - Auto ads need no extra page code.
    2. Ad placements stay hidden until a slot id is configured AND the
       page has real content (no ads on empty, error or thin pages).
-   3. EEA / UK / Switzerland visitors get NO ads until a Google-certified
-      CMP handles consent (cmpReady stays false until that is verified).
-      The region check is a conservative heuristic and FAILS CLOSED:
-      when in doubt, no ad is requested.
+   3. CONSENT (updated 2026-11-06): browser language and timezone are
+      NOT reliable consent or geolocation signals, so they are no longer
+      used to guess the visitor's region. Ads stay OFF for ALL visitors
+      while cmpReady is false (fail closed). The owner flips cmpReady to
+      true only after a Google-certified CMP is enabled and verified in
+      the AdSense account (recommended: the built-in consent messaging
+      under AdSense -> Privacy & messaging, or Funding Choices). Once
+      that is live, Google's certified CMP handles EEA / UK / Switzerland
+      consent using its own reliable signals, and ad serving follows
+      that consent state.
 
    IMPORTANT: a configured publisher id does NOT mean PikaNews itself has
    been approved for ad serving. Site review / account status must be
@@ -22,7 +31,9 @@
   var CONFIG = {
     publisherId: "ca-pub-2895136878543415", /* GoGo Company verified publisher ID */
     cmpReady: false,    /* true only after a Google-certified CMP is verified */
-    /* Single existing responsive display unit reused for every placement.
+    /* Placement-key -> AdSense unit id map. Set a placement's id to ""
+       to disable that single placement without touching page HTML.
+       Single existing responsive display unit reused for every placement.
        Dedicated PikaNews units can be added by the owner in the AdSense
        dashboard; put their ids here when they exist. Do not invent ids. */
     slots: {
@@ -33,34 +44,14 @@
     }
   };
 
-  /* ISO 3166-1 alpha-2 codes for EEA, UK and Switzerland. */
-  var CONSENT_REGIONS = ["GB", "IM", "JE", "GG", "AT", "BE", "BG", "HR", "CY", "CZ", "DK",
-    "EE", "FI", "FR", "DE", "GR", "HU", "IS", "IE", "IT", "LV", "LI", "LT", "LU", "MT",
-    "NL", "NO", "PL", "PT", "RO", "SK", "SI", "ES", "SE", "CH"];
-
-  function regionFromLanguage() {
-    var m = (navigator.language || "").match(/[-_]([A-Za-z]{2})$/);
-    return m ? m[1].toUpperCase() : "";
-  }
-
-  /* Conservative heuristic only - used to fail closed, never to grant
-     ourselves consent. If the signal is unclear we treat the visitor as
-     being in a consent-required region and serve no ad. */
-  function inConsentRequiredRegion() {
-    var r = regionFromLanguage();
-    if (r) return CONSENT_REGIONS.indexOf(r) !== -1;
-    try {
-      return /Europe\/|Atlantic\/(Madeira|Canary)/.test(
-        Intl.DateTimeFormat().resolvedOptions().timeZone || ""
-      );
-    } catch (e) {
-      return true;
-    }
-  }
-
   function adsAllowed() {
     if (!CONFIG.publisherId) return false;
-    if (!CONFIG.cmpReady && inConsentRequiredRegion()) return false;
+    /* Fail closed: no ad request is made anywhere until the owner has
+       verified that a Google-certified CMP is live. Browser language and
+       timezone must never be used as a substitute for consent or reliable
+       geolocation. After cmpReady is true, EEA/UK/CH consent is enforced
+       by Google's certified CMP, not by this script. */
+    if (!CONFIG.cmpReady) return false;
     return true;
   }
 
@@ -115,4 +106,3 @@
      can activate their placement only after real content exists. */
   window.PikaNewsAds = { activate: function () { if (adsAllowed()) activateSlots(); } };
 })();
-
