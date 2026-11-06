@@ -1,0 +1,706 @@
+{
+  "articles": {
+    "d513fb02ffbb5e39d1edd31d7d37084a7ce595f425a99460fe232878949714ff": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605628+00:00",
+      "title": "The part-timers who won three Wembley finals in a row",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c6y4z21xelk4o",
+      "article_id": "d513fb02ffbb5e39d1edd31d7d37084a7ce595f425a99460fe232878949714ff"
+    },
+    "275df5277a9cecb4092ce5161123f7845c755b92d1980789b3fffd93b9489d66": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605631+00:00",
+      "title": "A team that offered hope... then, four months later, Hamas attacked Israel",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp3rl709p7xo",
+      "article_id": "275df5277a9cecb4092ce5161123f7845c755b92d1980789b3fffd93b9489d66"
+    },
+    "223b21098c4e7bfe34a9e6c8569c60345f7e44640115852a06a9f2bbb05e70f8": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605633+00:00",
+      "title": "Are women better than men at endurance running?",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/articles/cwyzx1gxwqlo",
+      "article_id": "223b21098c4e7bfe34a9e6c8569c60345f7e44640115852a06a9f2bbb05e70f8"
+    },
+    "7157b964be3263eb4e7468b95b01fa4f7f006dc0e6f62607aa1b467190528f74": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605634+00:00",
+      "title": "This Week’s Epic Games Store Freebie Will Let You Build Your Own Waterworld",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/free-games-epic-games-store/1100-6476419",
+      "article_id": "7157b964be3263eb4e7468b95b01fa4f7f006dc0e6f62607aa1b467190528f74"
+    },
+    "25ed04a255e767016ff0d238a3be2d70c63a2d0545b1cc9b2cb9370b1dd5d9aa": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605635+00:00",
+      "title": "Find out more here",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ce8e6y90g2jo",
+      "article_id": "25ed04a255e767016ff0d238a3be2d70c63a2d0545b1cc9b2cb9370b1dd5d9aa"
+    },
+    "2227e5ed7c51b6061bef14fd6c790a8739e320ea52e1e83427dca9686c446b99": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605638+00:00",
+      "title": "Zac Efron and Jeremy Allen White star as the Von Erich brothers",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002w9wy",
+      "article_id": "2227e5ed7c51b6061bef14fd6c790a8739e320ea52e1e83427dca9686c446b99"
+    },
+    "2edd241d8acea6c6839e445f6730f42614d254a9759cd620f76894aa2ead9283": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605639+00:00",
+      "title": "Nintendo’s Top-Selling Switch 2 Games Of All Time",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/gallery/nintendos-top-selling-switch-2-games-of-all-time/2900-7694",
+      "article_id": "2edd241d8acea6c6839e445f6730f42614d254a9759cd620f76894aa2ead9283"
+    },
+    "8ffafb7e647dbedb89e38fd10d011230f7c5e9bc85f074c383de1de0c8ec70cb": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605642+00:00",
+      "title": "How I Get Free Traffic from ChatGPT in 2025 (AIO vs SEO)",
+      "source": "TechCrunch",
+      "url": "https://techncruncher.blogspot.com/2025/12/how-i-get-free-traffic-from-chatgpt-in.html",
+      "article_id": "8ffafb7e647dbedb89e38fd10d011230f7c5e9bc85f074c383de1de0c8ec70cb"
+    },
+    "9addeb5fd8bd9e0777001b6cb6ea6dafccd3ba5bf7304cf3efc2116bdd6dcc6f": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605644+00:00",
+      "title": "Members Of The Royal Family Gathered For The Queen's Coffin Procession In London",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/ellievhall/queen-procession-coffin-buckingham-westminster-family",
+      "article_id": "9addeb5fd8bd9e0777001b6cb6ea6dafccd3ba5bf7304cf3efc2116bdd6dcc6f"
+    },
+    "c287658d409838fa73c0296c68fc22b868ff17ed3af48ea5f122e743d999aa00": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605645+00:00",
+      "title": "Top 10 AI Tools That Will Transform Your Content Creation in 2025",
+      "source": "TechCrunch",
+      "url": "https://techncruncher.blogspot.com/2025/01/top-10-ai-tools-that-will-transform.html",
+      "article_id": "c287658d409838fa73c0296c68fc22b868ff17ed3af48ea5f122e743d999aa00"
+    },
+    "7af11a62f4ef13ec4d343b26113964b1ca5cfa35fc72b3679799ec50250420d3": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605646+00:00",
+      "title": "Soccer Legend Pelé Has Died At Age 82",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/claudiakoerner/pele-dies-football-brazil",
+      "article_id": "7af11a62f4ef13ec4d343b26113964b1ca5cfa35fc72b3679799ec50250420d3"
+    },
+    "56ec23151e9f9881b409a619cc44d0929d7f9fae1ce8599bc336ab7883a33980": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605648+00:00",
+      "title": "LimeWire AI Studio Review 2023: Details, Pricing & Features",
+      "source": "TechCrunch",
+      "url": "https://techncruncher.blogspot.com/2023/12/limewire-ai-studio-review-2023-details.html",
+      "article_id": "56ec23151e9f9881b409a619cc44d0929d7f9fae1ce8599bc336ab7883a33980"
+    },
+    "8491365e95e89b7528f5da6d206c02be90ef167482661af3ab25a94e43a153f7": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605649+00:00",
+      "title": "Japan’s Annual Penis Festival Is Unlike Anything Else",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/kennethbachor/japans-annual-penis-festival-photos",
+      "article_id": "8491365e95e89b7528f5da6d206c02be90ef167482661af3ab25a94e43a153f7"
+    },
+    "708510cde79a8bfc0e0749ffb9ae70e72a5ee77d7087502e2a8fa9a0004753d4": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605650+00:00",
+      "title": "Hundreds Of Passengers Have Said They Were Sexually Assaulted On Cruise Ships. Their Stories Highlight Years Of Lax Security, Critics Say.",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/tomwarren/sexual-assault-cruises-carnival-princess-disney",
+      "article_id": "708510cde79a8bfc0e0749ffb9ae70e72a5ee77d7087502e2a8fa9a0004753d4"
+    },
+    "24bde59712d2fecc2baaeb7fb2a51c29b1c445389ba88ab53d84349b2fe5c1e3": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605652+00:00",
+      "title": "Russia Detained A Journalist From The Wall Street Journal On Spying Accusations",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/ikrd/russia-detain-reporter-evan-gershkovich-wall-street-journal",
+      "article_id": "24bde59712d2fecc2baaeb7fb2a51c29b1c445389ba88ab53d84349b2fe5c1e3"
+    },
+    "9d3e83955c71b85bb2a6763b189be775e630f1fa21b4307d66d6a02e07dfe8e7": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605655+00:00",
+      "title": "Iranian Women Are Re-Creating A Viral TikTok Dance Without Hijabs On After 5 Teens Who Did The Same Were Reportedly Detained And Forced To Make An Apology Video",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/clarissajanlim/iranian-girls-tiktok-dance-selena-gomez-rema-song-detained",
+      "article_id": "9d3e83955c71b85bb2a6763b189be775e630f1fa21b4307d66d6a02e07dfe8e7"
+    },
+    "7d6dc5e7e1f502bc62aa7f5ef8bb5fb874fa1b38d0d3e57d0ae026194e334f73": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605656+00:00",
+      "title": "Vladimir Putin Is Officially A Wanted Man",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/davidmack/icc-vladimir-putin-arrest-warrant-war-crimes",
+      "article_id": "7d6dc5e7e1f502bc62aa7f5ef8bb5fb874fa1b38d0d3e57d0ae026194e334f73"
+    },
+    "9a9c36a1b02b03b7eb4d27a75b6702c7d8f79cb7d91815359bc6c67cb7209270": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605657+00:00",
+      "title": "11 Of The Best Things To Do In London This Mother's Day And Paddy's Day Weekend",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeed.com/aglover/best-things-london-this-weekend",
+      "article_id": "9a9c36a1b02b03b7eb4d27a75b6702c7d8f79cb7d91815359bc6c67cb7209270"
+    },
+    "277f591fd985cd9bd690d2c3e11268244d4c2e5c4ade9e7d60cd3881b0c667a3": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605658+00:00",
+      "title": "A Nightmarish New Report Has Detailed Russia’s War Crimes In Ukraine",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/davidmack/russia-war-crimes-ukraine-un-report-human-rights",
+      "article_id": "277f591fd985cd9bd690d2c3e11268244d4c2e5c4ade9e7d60cd3881b0c667a3"
+    },
+    "350de31a36c6e5f50339f75b7f6b53b0e696f85a983b50c5d818de5bf2ba0d62": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605659+00:00",
+      "title": "“He Never Left The Hand Of His Daughter Who Died In The Earthquake”",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/davidmack/earthquake-turkey-syria-photo-father-daughter-hand",
+      "article_id": "350de31a36c6e5f50339f75b7f6b53b0e696f85a983b50c5d818de5bf2ba0d62"
+    },
+    "65551d8f957070849a30030743d99d2e415d30d34821a6fddf7144717f142544": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605661+00:00",
+      "title": "An Iranian Couple Has Reportedly Been Sentenced To Over 10 Years In Prison After Posting A Video Dancing On Instagram",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/stefficao/astiaj-haghighi-amir-mohammad-ahmadi-reported-iran",
+      "article_id": "65551d8f957070849a30030743d99d2e415d30d34821a6fddf7144717f142544"
+    },
+    "58b2bb44f35ec73113458364595575db3118285ee4538b5a1239fce4a933dcda": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605662+00:00",
+      "title": "The Piper Who Played Each Morning For The Queen Had A Symbolic Role At Her Funeral",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/davidmack/queen-funeral-piper-bagpipes",
+      "article_id": "58b2bb44f35ec73113458364595575db3118285ee4538b5a1239fce4a933dcda"
+    },
+    "e69fcafab2a44705805e4f1f8cc854e2ff5e9f1ef33b8bc20a6e864d03bbab19": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605663+00:00",
+      "title": "Top 10 AI Tools in 2023 That Will Make Your Life Easier",
+      "source": "TechCrunch",
+      "url": "https://techncruncher.blogspot.com/2023/01/top-10-ai-tools-in-2023-that-will-make.html",
+      "article_id": "e69fcafab2a44705805e4f1f8cc854e2ff5e9f1ef33b8bc20a6e864d03bbab19"
+    },
+    "7939c73e9ddcb1a439d098d2d556c66b2e1bbff5fc391c453d24935affeaeb6a": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605664+00:00",
+      "title": "“We Lost Our Beloved Ones For The Sake Of Education”: An Afghan Girl Who Survived A Suicide Attack In Her Classroom Isn’t Backing Down",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/syedzabiullah/afghan-girl-suicide-attack-education-fight",
+      "article_id": "7939c73e9ddcb1a439d098d2d556c66b2e1bbff5fc391c453d24935affeaeb6a"
+    },
+    "42090e32fa092a4332ef7b6e5af31ffecd8f6e1b5f991878a2d061ef3908576e": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605665+00:00",
+      "title": "Pope Benedict XVI Has Died At 95",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/ellievhall/pope-emeritus-benedict-dies",
+      "article_id": "42090e32fa092a4332ef7b6e5af31ffecd8f6e1b5f991878a2d061ef3908576e"
+    },
+    "be537863f157157aeb85ac0a8a6c86b0435c8d9f7277b23ab2e9bfcf6111d52d": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605666+00:00",
+      "title": "A Former Marine Was Freed From “Wrongful Detention” In Russia, But Concerns Remain For Brittney Griner And Others",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/davidmack/brittney-griner-trevor-reed-paul-whelan-russia",
+      "article_id": "be537863f157157aeb85ac0a8a6c86b0435c8d9f7277b23ab2e9bfcf6111d52d"
+    },
+    "e9d3be1b274a7691466a6eb4f8804c19a4c9392f9569e128dbff79f81a41801d": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605667+00:00",
+      "title": "An Iranian Man Celebrating His Country's Loss To The US In The World Cup Was Killed By Security Forces, Human Rights Groups Say",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/clarissajanlim/iran-protester-killed-world-cup-loss-celebrate",
+      "article_id": "e9d3be1b274a7691466a6eb4f8804c19a4c9392f9569e128dbff79f81a41801d"
+    },
+    "edf260ac68ebc56506cdbfb05c328d3211f11c2fac38cce0f1b5a2ef4bc7ea91": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605668+00:00",
+      "title": "The US Men's Soccer Team Beat Iran On Tuesday, But Iranian Players Deserve All The Credit",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/albertsamaha/iran-usa-world-cup-protests",
+      "article_id": "edf260ac68ebc56506cdbfb05c328d3211f11c2fac38cce0f1b5a2ef4bc7ea91"
+    },
+    "09fdca9722fe4a51e49a732df06887e306ee9ebae9a90c4a24a443756d84bcf2": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605669+00:00",
+      "title": "People In China Are Demanding The End Of Strict COVID Restrictions After 10 People Died In A Fire",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/adeonibada/china-covid-lockdown-protests-xinjiang-fire",
+      "article_id": "09fdca9722fe4a51e49a732df06887e306ee9ebae9a90c4a24a443756d84bcf2"
+    },
+    "dc5286f6a798876548a97fa5c456fef404e3fdd33c67651d8355907423eda640": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605670+00:00",
+      "title": "German Players Covered Their Mouths Before A World Cup Game After Not Being Allowed To Support LGBTQ People",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/davidmack/germany-world-cup-cover-mouths-armband-lgbtq",
+      "article_id": "dc5286f6a798876548a97fa5c456fef404e3fdd33c67651d8355907423eda640"
+    },
+    "18a303d7a0121c278d01609fabe62d29c9fcfbf66dd7fac33b6c4f014e51a383": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605671+00:00",
+      "title": "Iranian Soccer Players And Fans Protested At The World Cup In Solidarity With Anti-Government Demonstrations Back Home",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/clarissajanlim/iran-world-cup-players-fans-protests",
+      "article_id": "18a303d7a0121c278d01609fabe62d29c9fcfbf66dd7fac33b6c4f014e51a383"
+    },
+    "9f85a985c8f2a4c0d189db89336aaf14be6750e0c4e437680ef33249fe39adeb": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605672+00:00",
+      "title": "Top 10 AI Content Generator & Writer Tools in 2022",
+      "source": "TechCrunch",
+      "url": "https://techncruncher.blogspot.com/2022/11/top-10-ai-content-generator-writer.html",
+      "article_id": "9f85a985c8f2a4c0d189db89336aaf14be6750e0c4e437680ef33249fe39adeb"
+    },
+    "cbe85f0b0ade8ec5845cfa88ac04993603d0e85753c663739bdccf86e39d6e05": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605675+00:00",
+      "title": "The Taliban In Afghanistan Is Still Preventing Girls From Getting Above A Sixth-Grade Education, So This Kabul Resident Is Running A Secret School",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/syedzabiullah/afghanistan-taliban-secret-school-girls",
+      "article_id": "cbe85f0b0ade8ec5845cfa88ac04993603d0e85753c663739bdccf86e39d6e05"
+    },
+    "6f2b613e5d2eb56337643477e648a489078dca1fd8b11ab0e5fc5ecdd8fcff05": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605676+00:00",
+      "title": "Brittney Griner's Lawyers Don't Know Where She Is, But Say She's Been Sent To A Penal Colony",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/davidmack/brittney-griner-penal-colony-russia",
+      "article_id": "6f2b613e5d2eb56337643477e648a489078dca1fd8b11ab0e5fc5ecdd8fcff05"
+    },
+    "6cd7f3922886049e051142eef19a699d01d6841868c7d66e8713b516a00ef4e6": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605678+00:00",
+      "title": "A New WhatsApp “Communities” Feature Makes Organizing Groups A Snap. Critics Say It Will Make Spreading Misinformation Easier.",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/pranavdixit/whatsapp-communities-meta-misinformation-fears",
+      "article_id": "6cd7f3922886049e051142eef19a699d01d6841868c7d66e8713b516a00ef4e6"
+    },
+    "d53dbb5183d2b8548f8f9e48a71e231744fd9ea1d98d967a1a789bca82ba0b17": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605680+00:00",
+      "title": "At Least 146 People Were Killed After A Crowd Surge At A Halloween Celebration In South Korea",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/stefficao/seoul-halloween-crowd-surge-deaths",
+      "article_id": "d53dbb5183d2b8548f8f9e48a71e231744fd9ea1d98d967a1a789bca82ba0b17"
+    },
+    "bea0676475c2fdec70ba39a8aa4c99a05392cb920472ee2865641dce05e4389e": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605681+00:00",
+      "title": "Thousands Marched In Solidarity With Iranian Women After Mahsa Amini Died In Custody Of Morality Police",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/stefficao/iran-international-protests",
+      "article_id": "bea0676475c2fdec70ba39a8aa4c99a05392cb920472ee2865641dce05e4389e"
+    },
+    "5b667c78ce20eee6f0fd8ea6fff1c015100f03a5ae99f44023c1c4ae925967b3": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605682+00:00",
+      "title": "The Queen's Cause Of Death Was Listed As \"Old Age\"",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/davidmack/queen-elizabeth-death-certificate-cause-old-age",
+      "article_id": "5b667c78ce20eee6f0fd8ea6fff1c015100f03a5ae99f44023c1c4ae925967b3"
+    },
+    "bfc40117cff67e0afb7a4b9bf1328fc01a8131fcdb018f7add1bcfa282f90edb": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605683+00:00",
+      "title": "17 Very British Tweets About The Very British Queue To See The Very British Queen's Coffin",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/davidmack/queue-london-queen-coffin-funny-tweets",
+      "article_id": "bfc40117cff67e0afb7a4b9bf1328fc01a8131fcdb018f7add1bcfa282f90edb"
+    },
+    "7e83c07a6038a033a2091e2fd9e83720c171095914b98682ba3c935c5f71ee60": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605684+00:00",
+      "title": "Mourners Have Been Asked To Stop Leaving Paddington Bears And Marmalade Sandwiches For The Queen",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/davidmack/mourners-paddington-bears-queen-death",
+      "article_id": "7e83c07a6038a033a2091e2fd9e83720c171095914b98682ba3c935c5f71ee60"
+    },
+    "399e1e6fbd21423ee334c05da9a69f703744190fd55359cfe90b5f57239e9d92": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605685+00:00",
+      "title": "21 Unexpected And Surprising Twitter Accounts Paying Tribute To The Queen",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/davidmack/unexpected-twitter-accounts-mourning-queen-elizabeth",
+      "article_id": "399e1e6fbd21423ee334c05da9a69f703744190fd55359cfe90b5f57239e9d92"
+    },
+    "00a6601ab9cae5e1aa5fa5b54e0d7c346745cbf0b1d3f89b26ec4e1df2e658bd": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605686+00:00",
+      "title": "Queen Elizabeth II Has Died",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/davidmack/queen-elizabeth-dead",
+      "article_id": "00a6601ab9cae5e1aa5fa5b54e0d7c346745cbf0b1d3f89b26ec4e1df2e658bd"
+    },
+    "00cdf1556a74fa8770dca524378346560cae38982c03a4a925e69c4ae1b031a3": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605687+00:00",
+      "title": "A Trans Activist Who Was On His Honeymoon In Bali Died After Police Detained Him For Alleged Drug Offenses",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/clarissajanlim/trans-activist-dies-in-custody-indonesia",
+      "article_id": "00cdf1556a74fa8770dca524378346560cae38982c03a4a925e69c4ae1b031a3"
+    },
+    "b5d958d192c54cc3b3a173bfd668404999693f164a726dfa6cb49613f5086df2": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605689+00:00",
+      "title": "Beginner Guide to CJ Affiliate (Commission Junction) in 2022",
+      "source": "TechCrunch",
+      "url": "https://techncruncher.blogspot.com/2022/09/cj-affiliate-ultimate-guide-to.html",
+      "article_id": "b5d958d192c54cc3b3a173bfd668404999693f164a726dfa6cb49613f5086df2"
+    },
+    "797ead627f3d0f5c176295fa76283285c85b52baa8af56222371515f92eb5b1f": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605690+00:00",
+      "title": "The Queen Is Under Medical Supervision And Doctors Are \"Concerned\" For Her Health",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/davidmack/queen-elizabeth-health-medical-supervision",
+      "article_id": "797ead627f3d0f5c176295fa76283285c85b52baa8af56222371515f92eb5b1f"
+    },
+    "343b8148d45a0aa0a43aa00572c5edc9b46f89fa21e4f7ca354602019be10f20": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605691+00:00",
+      "title": "King Charles III Pledged To Serve With “Loyalty, Respect, And Love” In His First Speech As Monarch",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/davidmack/king-charles-first-speech-queen-death",
+      "article_id": "343b8148d45a0aa0a43aa00572c5edc9b46f89fa21e4f7ca354602019be10f20"
+    },
+    "0509f68db8a142899d8b4945f066597ce87b2ea8b33b6155cd48e9233c52777d": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605692+00:00",
+      "title": "Here's The First Speech From King Charles III In Full",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/davidmack/king-charles-first-speech-transcript-video",
+      "article_id": "0509f68db8a142899d8b4945f066597ce87b2ea8b33b6155cd48e9233c52777d"
+    },
+    "de8edcefe679450c51f09fa78d5fd76393ffeb2ee0d176ebbabb77379d1fa0c6": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605693+00:00",
+      "title": "Horrifying Photos And Videos Capture The Utter Devastation Of Pakistan’s “Monster Monsoon” Floods That Have Already Killed Nearly 1,000 People",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/tasneemnashrulla/pakistan-flooding-videos-buildings-washed-away",
+      "article_id": "de8edcefe679450c51f09fa78d5fd76393ffeb2ee0d176ebbabb77379d1fa0c6"
+    },
+    "c9072b830d63f6091636d87390fe847463c33f870ad9c2d79a9b5e670c1662ea": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605696+00:00",
+      "title": "Mikhail Gorbachev, Whose Drive To Transform The Soviet Union Ended The Cold War, Has Died",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/maxseddon/gorbachev-obituary",
+      "article_id": "c9072b830d63f6091636d87390fe847463c33f870ad9c2d79a9b5e670c1662ea"
+    },
+    "3a5db555a36e0fea391ccf41477572407305a7e19dc037fd545b409a15b1e100": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605697+00:00",
+      "title": "These Photos Show Just How Miserable The Mass Flight Delays And Cancellations Have Become",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/adolfoflores/flight-delays-us-airports-photos",
+      "article_id": "3a5db555a36e0fea391ccf41477572407305a7e19dc037fd545b409a15b1e100"
+    },
+    "d1778933e9bd041f5418697e84d667b5dcd0c5475684d5dfac740246e0cf5544": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605698+00:00",
+      "title": "Eerie Photos Show How Underwater Artifacts Are Resurfacing In Europe As Water Levels Drop Because Of Drought",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/davidmack/europe-drought-hunger-stones",
+      "article_id": "d1778933e9bd041f5418697e84d667b5dcd0c5475684d5dfac740246e0cf5544"
+    },
+    "475e12c283bf01925835f7276dc276d58e28c40cf7476e4f3cd2196549aa7b77": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605699+00:00",
+      "title": "Brittney Griner Has Been Sentenced To 9 Years In A Russian Prison On Drug Charges",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/davidmack/brittney-griner-sentence-prison-russia-trial",
+      "article_id": "475e12c283bf01925835f7276dc276d58e28c40cf7476e4f3cd2196549aa7b77"
+    },
+    "e1cf20cbc6fcacadf9944b6356bc1cc417ab02475502ba34fc4959c571a6555f": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605701+00:00",
+      "title": "China Destroyed Muslim Culture In This Ancient City — Then Turned It Into Disneyland",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/alison_killing/xinjiang-china-mass-detention-tourism",
+      "article_id": "e1cf20cbc6fcacadf9944b6356bc1cc417ab02475502ba34fc4959c571a6555f"
+    },
+    "b1bcec389604d7bd886d671a828aa5dd00c575fe179d6f840933ab169e77d5b8": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605704+00:00",
+      "title": "TOP 11 AI MARKETING TOOLS YOU SHOULD USE (Updated 2022)",
+      "source": "TechCrunch",
+      "url": "https://techncruncher.blogspot.com/2022/07/top-10-ai-marketing-tools-you-should-use.html",
+      "article_id": "b1bcec389604d7bd886d671a828aa5dd00c575fe179d6f840933ab169e77d5b8"
+    },
+    "678b38ab5cd791658f9817ffa67c8c7546bd0c68ff99e0f917c58981fa19843b": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605705+00:00",
+      "title": "Prince Harry Won The First Stage Of His Libel Lawsuit Against A UK Tabloid After A Court Ruled That A Story About Him Was Defamatory",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/ellievhall/prince-harry-wins-first-stage-libel-lawsuit",
+      "article_id": "678b38ab5cd791658f9817ffa67c8c7546bd0c68ff99e0f917c58981fa19843b"
+    },
+    "9b7dde3d4561dc655ea79b1cbfc505afc4d019c91c07884434380e5edf6a11e3": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605706+00:00",
+      "title": "Brittney Griner Was Given A Note From Joe Biden Just Before Pleading Guilty In A Russian Court",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/davidmack/brittney-griner-guilty-plea-russia-biden",
+      "article_id": "9b7dde3d4561dc655ea79b1cbfc505afc4d019c91c07884434380e5edf6a11e3"
+    },
+    "4a54ccecc4b73419c46b7cf81b1abff19a196ccc4a768c14b6ccd3f6449a43e3": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605707+00:00",
+      "title": "World Leaders Expressed Their Shock And Sadness At Shinzo Abe's Assassination",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/davidmack/shinzo-abe-dead-world-leader-reactions",
+      "article_id": "4a54ccecc4b73419c46b7cf81b1abff19a196ccc4a768c14b6ccd3f6449a43e3"
+    },
+    "756232392b1462f65429a6a6516126b81cffd87e27c816dd0582455568e465d4": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605708+00:00",
+      "title": "25 Pictures To Remember Boris Johnson's Time As Prime Minister",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/davidmack/boris-johnson-pictures",
+      "article_id": "756232392b1462f65429a6a6516126b81cffd87e27c816dd0582455568e465d4"
+    },
+    "25a624d0e2335b8e24b8540e371c720d0865a97675754028d625a845da2cbb1e": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605709+00:00",
+      "title": "Brittney Griner Wrote Joe Biden A Letter, Pleading With Him To Help Free Her",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/davidmack/brittney-griner-letter-joe-biden",
+      "article_id": "25a624d0e2335b8e24b8540e371c720d0865a97675754028d625a845da2cbb1e"
+    },
+    "ce0b86c9bbf824114ab4696ba50181d15b4def70a7354c26b65f1e0d7b5f60cd": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605710+00:00",
+      "title": "I, A Brit, Went To Tokyo, And Here Are 18 Things I Noticed That Are Pretty Effing Different From The UK",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeed.com/sam_cleal/interesting-facts-japan-vs-uk",
+      "article_id": "ce0b86c9bbf824114ab4696ba50181d15b4def70a7354c26b65f1e0d7b5f60cd"
+    },
+    "077e743b992b41d7f0ceeec414ced0738802c663c7361088b0419602ba46e795": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605711+00:00",
+      "title": "She Was One Year Away From Going To College. Then The Taliban Banned Her From School.",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/syedzabiullah/afghanistan-taliban-girls-school-ban",
+      "article_id": "077e743b992b41d7f0ceeec414ced0738802c663c7361088b0419602ba46e795"
+    },
+    "c27faeb9958db45c1f326478e59b607d15ebd05a7f65e1360f2d5a46abee083b": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605712+00:00",
+      "title": "Prince George, Princess Charlotte, And Prince Louis Played A Starring Role In The Trooping The Colour",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/ellievhall/george-charlotte-louis-prince-princess-trooping-colour",
+      "article_id": "c27faeb9958db45c1f326478e59b607d15ebd05a7f65e1360f2d5a46abee083b"
+    },
+    "1db8772a0692954728d6fb4769731250ee6209cb009e9096b9070422599b395d": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605713+00:00",
+      "title": "Most Frequently Asked Questions About Affiliate Marketing",
+      "source": "TechCrunch",
+      "url": "https://techncruncher.blogspot.com/2022/06/most-frequently-asked-questions-about.html",
+      "article_id": "1db8772a0692954728d6fb4769731250ee6209cb009e9096b9070422599b395d"
+    },
+    "28b4727aa2d1f11fbfff4a6eade22bf74181377fc5bfb89d05ef084c64376729": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605714+00:00",
+      "title": "Jill Biden Made A Surprise Visit To Ukraine To Meet With Their First Lady",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/davidmack/jill-biden-ukraine-first-lady",
+      "article_id": "28b4727aa2d1f11fbfff4a6eade22bf74181377fc5bfb89d05ef084c64376729"
+    },
+    "a36b47e084fd871153075583c52b38a528e799e46b8d0dce2f7c5bd3f9e2e034": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605715+00:00",
+      "title": "The WHO Has Nearly Tripled Its Estimate Of The Pandemic’s Death Toll",
+      "source": "BuzzFeed World",
+      "url": "https://www.buzzfeednews.com/article/peteraldhous/who-covid-death-count-15-million",
+      "article_id": "a36b47e084fd871153075583c52b38a528e799e46b8d0dce2f7c5bd3f9e2e034"
+    },
+    "bc81297a4f9c65d289f5741c6b3957736e544b8d2663db1654e8c0ccf78e95a6": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605717+00:00",
+      "title": "What is Blockchain: Everything You Need to Know (2022)",
+      "source": "TechCrunch",
+      "url": "https://techncruncher.blogspot.com/2022/04/what-is-blockchain-everything-you-need.html",
+      "article_id": "bc81297a4f9c65d289f5741c6b3957736e544b8d2663db1654e8c0ccf78e95a6"
+    },
+    "63616b4354268f1e24bb710c4eb1547249cfcde5335b80d85d8a74484c9b7077": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605718+00:00",
+      "title": "ProWritingAid VS Grammarly: Which Grammar Checker is Better in (2022) ?",
+      "source": "TechCrunch",
+      "url": "https://techncruncher.blogspot.com/2022/03/prowritingaid-vs-grammarly-which.html",
+      "article_id": "63616b4354268f1e24bb710c4eb1547249cfcde5335b80d85d8a74484c9b7077"
+    },
+    "67b2ed63afa7b18efb6d81e2b677c20725966a6c9ea04133ccd5e6d62d380ce4": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605719+00:00",
+      "title": "Sellfy Review 2022: How Good Is This Ecommerce Platform?",
+      "source": "TechCrunch",
+      "url": "https://techncruncher.blogspot.com/2022/03/sellfy-review-2022-how-good-is-this.html",
+      "article_id": "67b2ed63afa7b18efb6d81e2b677c20725966a6c9ea04133ccd5e6d62d380ce4"
+    },
+    "19e9f5224602a4f0cc746d128e5d0cc420f9d73401c39b3daee35b02a495d57a": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605720+00:00",
+      "title": "Ahrefs vs SEMrush: Which SEO Tool Should You Use?",
+      "source": "TechCrunch",
+      "url": "https://techncruncher.blogspot.com/2022/03/ahrefs-vs-semrush-which-seo-tool-should.html",
+      "article_id": "19e9f5224602a4f0cc746d128e5d0cc420f9d73401c39b3daee35b02a495d57a"
+    },
+    "0142269def9e2cb57f0eb3c9def21187d21c77e97b29de82f87165107584e61e": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605721+00:00",
+      "title": "Top 10 Best PLR(Private Label Rights) Websites | Which One You Should Join in 2022?",
+      "source": "TechCrunch",
+      "url": "https://techncruncher.blogspot.com/2022/02/top-10-best-plrprivate-label-rights.html",
+      "article_id": "0142269def9e2cb57f0eb3c9def21187d21c77e97b29de82f87165107584e61e"
+    },
+    "de3dbd448cae5765562314dc222c3f80a9eb5e5e0978be5d018a23c017d0ee6f": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605722+00:00",
+      "title": "Canva Review 2022: Details, Pricing & Features",
+      "source": "TechCrunch",
+      "url": "https://techncruncher.blogspot.com/2022/02/canva-review-2022-details-pricing.html",
+      "article_id": "de3dbd448cae5765562314dc222c3f80a9eb5e5e0978be5d018a23c017d0ee6f"
+    },
+    "79daa6240ee02aec061901c2d903f0666a791b28fa586c79f3f1130daf55c127": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605723+00:00",
+      "title": "Top 7 Best Wordpress Plugin Of All Time",
+      "source": "TechCrunch",
+      "url": "https://techncruncher.blogspot.com/2022/02/top-7-best-wordpress-plugin-of-all-time.html",
+      "article_id": "79daa6240ee02aec061901c2d903f0666a791b28fa586c79f3f1130daf55c127"
+    },
+    "cf08947fad54f0ddbf103aac80029a949ebb39ac5a8f926eac6300d41e29cae5": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605724+00:00",
+      "title": "Ginger VS Grammarly: Which Grammar Checker is Better in (2022) ?",
+      "source": "TechCrunch",
+      "url": "https://techncruncher.blogspot.com/2022/02/ginger-vs-grammarly-which-grammar.html",
+      "article_id": "cf08947fad54f0ddbf103aac80029a949ebb39ac5a8f926eac6300d41e29cae5"
+    },
+    "89097c145957efb23824f319719049d48846cb9b27502a96df61b14760802855": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605726+00:00",
+      "title": "Most Frequently Asked Questions About NFTs(Non-Fungible Tokens)",
+      "source": "TechCrunch",
+      "url": "https://techncruncher.blogspot.com/2022/02/most-frequently-asked-questions-about.html",
+      "article_id": "89097c145957efb23824f319719049d48846cb9b27502a96df61b14760802855"
+    },
+    "1ce7819f31fda605e120d655dc4d26daf778f135331c4a26f1dd9f90ebfc01d5": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605727+00:00",
+      "title": "10 Best Chrome Extensions That Are Perfect for Everyone",
+      "source": "TechCrunch",
+      "url": "https://techncruncher.blogspot.com/2022/01/10-best-chrome-extensions-that-are.html",
+      "article_id": "1ce7819f31fda605e120d655dc4d26daf778f135331c4a26f1dd9f90ebfc01d5"
+    },
+    "c12f9e42cf350cf176c74475b03cfc397dff511b4869842fe05b6d9ae9c788b9": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605728+00:00",
+      "title": "Most Frequently Asked Questions About Email Marketing",
+      "source": "TechCrunch",
+      "url": "https://techncruncher.blogspot.com/2022/01/most-frequently-asked-questions-about.html",
+      "article_id": "c12f9e42cf350cf176c74475b03cfc397dff511b4869842fe05b6d9ae9c788b9"
+    },
+    "67b49482062fa2d7d5db095c05bf8ea6fa0e2bf1e0cae10cc4e6945caf2d867a": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605729+00:00",
+      "title": "7 Free Websites Every Content Creator Needs to Know",
+      "source": "TechCrunch",
+      "url": "https://techncruncher.blogspot.com/2022/01/7-free-websites-every-content-creator.html",
+      "article_id": "67b49482062fa2d7d5db095c05bf8ea6fa0e2bf1e0cae10cc4e6945caf2d867a"
+    },
+    "e29c0a77dd9af6ddaeaa761a526782829f0dc9908275f55166a9462c4cf63b8f": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-06T20:59:23.605731+00:00",
+      "title": "Top 9 Free AI Tools That Make Your Life Easier",
+      "source": "TechCrunch",
+      "url": "https://techncruncher.blogspot.com/2022/01/top-9-free-ai-tools-that-make-your-life.html",
+      "article_id": "e29c0a77dd9af6ddaeaa761a526782829f0dc9908275f55166a9462c4cf63b8f"
+    }
+  }
+}
