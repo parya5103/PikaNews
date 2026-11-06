@@ -1,5 +1,257 @@
 [
   {
+    "id": "aacf23ee8e6873395bd0d2083d06fff222a62fb738c4af2b1141f53f7b713886",
+    "title": "From ‘World of Warcraft Forever’ Surprise to Le Sserafim, Simu Liu and T-Pain Appearances, How BlizzCon 2026 Set the Stage for Blizzard Entertainment’s Next Era",
+    "summary": "Back in September, Blizzard Entertainment held its fan convention BlizzCon for the first time since 2023, just after Activision Blizzard was acquired by Microsoft in a blockbuster $69 billion transaction, which signaled a renewed investment in gaming by the software giant, from Sept. 12 to the 13. BlizzCon drew 35,000 in-person attendees to the Anaheim [&#8230;]",
+    "category": "technology",
+    "source": "Variety",
+    "url": "https://variety.com/2026/digital/news/world-of-warcraft-forever-le-sserafim-blizzcon-1236940363",
+    "published_at": "2026-11-06T14:00:00+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Simu-Liu-BlizzCon.jpg",
+    "collection_timestamp": "2026-11-06T15:17:01.081426+00:00",
+    "thin": false,
+    "author": "Jennifer Maas",
+    "tags": [
+      "News",
+      "Blizzard",
+      "le sserafim",
+      "Strictly Business",
+      "World Of Warcraft"
+    ]
+  },
+  {
+    "id": "30978121f192fc7f06bdd08f64d78aa9623f98f374cbd3449565fe220e9f87f5",
+    "title": "A long-term Elon Musk backer is cashing out of Tesla — and cutting its SpaceX exposure",
+    "summary": "Scottish Mortgage Investment Trust has cut its SpaceX holding to 11.1% of assets and sold its remaining Tesla stake.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/06/scottish-mortgage-tesla-spacex.html",
+    "published_at": "2026-11-06T13:51:32+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T15:17:01.103441+00:00",
+    "thin": false
+  },
+  {
+    "id": "ece32688d5ab990c6f91ffe31cf6e8b3343c1ded01f933967539bebe2b2e1855",
+    "title": "Weta FX CEO Daniel Seah Unpacks TAICCA Partnership: “Taiwan Has Creative Talent, Technology & Government Support”",
+    "summary": "Weta FX CEO Daniel Seah laid out all the reasons why Taiwan is the perfect base for the Oscar-winning VFX company to explore the East Asia market, following its announcement of a partnership with Taiwan Creative Content Agency (TAICCA). In addition to its central location, just a few hours flight from most cities in the [&#8230;]",
+    "category": "technology",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/weta-fx-daniel-seah-taicca-taiwan-moonshine-studio-1237215367",
+    "published_at": "2026-11-06T12:37:50+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/TCCF-opening2.jpg",
+    "collection_timestamp": "2026-11-06T15:17:01.084383+00:00",
+    "thin": false,
+    "author": "Liz Shackleton",
+    "tags": [
+      "News",
+      "Moonshine Studio",
+      "Taiwan Creative Content Agency",
+      "TCCF",
+      "WETA",
+      "Weta FX"
+    ]
+  },
+  {
+    "id": "b85f64ad77d74381db5515bf8c6baf56c49f9707004f1e6fd54fbc69bcf70e67",
+    "title": "Apple has a secret list of banned autocomplete phrases including ‘dictator Trump’ and ‘covid is a hoax’",
+    "summary": "A researcher found over 100,000 words and phrases in \"every major language\" that are blocked from autocomplete and swipe-type in iOS, Reuters reports. The researcher, Derik Kauffman, says you can still type the words on the blocklist one letter at a time. But they won't pop up as predictive text suggestions and iOS's keyboard may [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
+    "published_at": "2026-11-06T10:10:28-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T15:17:01.091679+00:00",
+    "thin": false,
+    "author": "Stevie Bonifield",
+    "tags": [
+      "Apple",
+      "iOS",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "f3a843ccd609eb4ead34caed74c6c173a168a8c10424732b7197725ae1a2a05d",
+    "title": "Fox bought Roku",
+    "summary": "Fox has officially closed its $22 billion acquisition of Roku, the companies announced on Friday. With Roku under its umbrella, Fox now controls a major streaming platform that reaches more than 100 million households in the US. First announced in June, the deal will allow Fox to bring Fox Sports, news content, and local stations [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/streaming/1028629/fox-roku-acquisition-close",
+    "published_at": "2026-11-06T10:00:56-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T15:17:01.091901+00:00",
+    "thin": true,
+    "author": "Emma Roth",
+    "tags": [
+      "Business",
+      "Entertainment",
+      "News",
+      "Streaming"
+    ]
+  },
+  {
+    "id": "5053e2e87cc15ff59ded72c6ed64a420849bbe31eb997f54ef1c913b1f5de95d",
+    "title": "The Verge’s 2026 holiday gift guide",
+    "summary": "Gift-giving isn't just about grabbing something solid under a determined spending limit. It's an expression of love, a way to show someone how well you really know them. That doesn't mean you have to do it all on your own, though. Sometimes you just need a push in the right direction to get things rolling. [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026",
+    "published_at": "2026-11-06T10:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T15:17:01.092123+00:00",
+    "thin": false,
+    "author": "Ryan Waniata",
+    "tags": [
+      "Gadgets",
+      "Gift Guides",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "0f941d34bc5c05b982a702a51dd3cd354cea620af1198a256865bfd21ca7b072",
+    "title": "Stranger Things is getting a live-action spinoff called Other Worlds",
+    "summary": "Netflix isn't done with Hawkins, Indiana just yet. The streamer just announced a live-action spinoff of Stranger Things which is expected to debut in 2028. It's called Other Worlds: A Stranger Things Adventure. There aren't a lot of details, but the show will be going back in time quite a bit. According to Netflix, Other [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1028608/other-worlds-a-stranger-things-adventure-netflix-announce-trailer",
+    "published_at": "2026-11-06T09:25:48-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T15:17:01.092365+00:00",
+    "thin": false,
+    "author": "Andrew Webster",
+    "tags": [
+      "Entertainment",
+      "Netflix",
+      "News",
+      "Streaming",
+      "TV Shows"
+    ]
+  },
+  {
+    "id": "017d1b5617b24f0e968ea6c822bc250bffd4ee5a66d7afae91e33fd03990ac0d",
+    "title": "TikTok&#8217;s For You page needs to change, says the EU",
+    "summary": "The European Commission claims TikTok broke its online platform rules by offering a recommendation algorithm that creates a \"rabbit hole effect\" on users. In an announcement on Friday, the regulators allege TikTok's algorithm can harm users with \"endless and repeated exposure\" to content related to sadness, isolation, or body image. The findings come months after [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1028597/tiktok-eu-for-you-algorithm-rabbit-hole-effect",
+    "published_at": "2026-11-06T09:00:49-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T15:17:01.092599+00:00",
+    "thin": false,
+    "author": "Emma Roth",
+    "tags": [
+      "Creators",
+      "Policy",
+      "Social Media",
+      "Tech",
+      "TikTok"
+    ]
+  },
+  {
+    "id": "8f2145f605b5afa905f0794bc7d002c437da492cce1fc019dc7f0556eb675811",
+    "title": "Amazon will let you text Alexa your shopping list",
+    "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+    "published_at": "2026-11-06T09:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T15:17:01.092814+00:00",
+    "thin": false,
+    "author": "Jess Weatherbed",
+    "tags": [
+      "AI",
+      "Amazon",
+      "Amazon Alexa",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "fcda1d9da4a309f8317015882f92648bed5afbbbc740b01187d9152d59f6a117",
+    "title": "How Remedy designed Control Resonant’s wildest mission: ‘Anything kind of goes’",
+    "summary": "Note: Some spoilers for Control Resonant's \"Recursions and Iterations\" mission follow. One of Control Resonant's most memorable missions involves time travel - kind of. There are certainly multiple timelines intersecting, or maybe overlapping, or maybe running in parallel. As protagonist Dylan Faden, you meet some of the researchers who are trapped in and investigating these [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/1028159/control-resonant-recursions-and-iterations-mission-design-time-travel",
+    "published_at": "2026-11-06T08:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T15:17:01.093065+00:00",
+    "thin": false,
+    "author": "Kallie Plagge",
+    "tags": [
+      "Entertainment",
+      "Gaming",
+      "Interview",
+      "Report"
+    ]
+  },
+  {
+    "id": "7f02a57fe5eb977f1735b4359989b7cff4bc3d11cddeb07f6d3e4eba5cf32226",
+    "title": "I’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares",
+    "summary": "When I first read Allison and Nilay's Verge review of the iPhone Duo, I was immediately struck by one of their complaints: that the cover display is too small. That's not how the Samsung Galaxy Z Fold 8 feels, I thought. Had they got it wrong? After a week and a half using the Duo, [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+    "published_at": "2026-11-06T07:30:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T15:17:01.093325+00:00",
+    "thin": false,
+    "author": "Dominic Preston",
+    "tags": [
+      "Android",
+      "Apple",
+      "Foldable Phones",
+      "Gadgets",
+      "Google",
+      "Google Pixel",
+      "iPhone",
+      "Mobile",
+      "Phones",
+      "Report",
+      "Samsung",
+      "Tech",
+      "Xiaomi"
+    ]
+  },
+  {
+    "id": "c274f802815ab057ce6c05742c1069c43e12ff055672ef7fc0b67b111ea67958",
+    "title": "After printing 40,000 whistles, this is the 3D printer I’d buy",
+    "summary": "I've been wanting to try 3D printing, people tell me. Which printer should I get? I finally have a fairly easy answer: the Bambu Lab P2S Combo. The auto-loading, fully enclosed touchscreen printer is one of the very few I can recommend. It's the only one I'd buy for myself. It's on sale for $649 [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
+    "published_at": "2026-11-06T07:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T15:17:01.093545+00:00",
+    "thin": false,
+    "author": "Sean Hollister",
+    "tags": [
+      "Gadgets",
+      "Reviews",
+      "Tech"
+    ]
+  },
+  {
+    "id": "dd61f94e09f1b5bc718bf6aa3e7b019134daafe65f0ebff5736dd195bd8aaa52",
+    "title": "The Enough Phone is made by and for people fed up with big screens",
+    "summary": "It's a bad time and maybe also a great time to make a new smartphone. Brennan Jordan and Austin Boer are two-thirds of the trio behind the Enough Phone, a small phone that will run your choice of stock Android or the minimalist OdysseyOS. They're currently seeking funding on Kickstarter, and just a day after [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1028160/enough-small-phone-kickstarter-sleke",
+    "published_at": "2026-11-06T07:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-06T15:17:01.093755+00:00",
+    "thin": false,
+    "author": "Allison Johnson",
+    "tags": [
+      "Gadgets",
+      "Mobile",
+      "Tech"
+    ]
+  },
+  {
     "id": "726730fcc0b42ef0de55f9f77bdfc2b8c71ad321b10d5b789d0ee553521af033",
     "title": "Google, TikTok And Meta Sue To Block California’s Social Media Law That Restricts Addictive Features For Children",
     "summary": "Three tech giants &#8212; Google, Meta and TikTok &#8212; sued the state of California over a recently passed law designed to restrict social media platforms from offering &#8220;addictive&#8221; features to children under 16. In its lawsuit, filed on Wednesday, Google claimed that the law would ban features like YouTube&#8217;s recommendation system and autoplay feature, even [&#8230;]",
