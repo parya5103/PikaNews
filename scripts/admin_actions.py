@@ -197,12 +197,14 @@ def action_unpublish(ids, reason):
 
 def action_restore(ids, reason):
     removed = load_removed()
-    restored, not_restorable, missing = [], [], []
+    restored, not_restorable, auto_expired, missing = [], [], [], []
     records = []
     for i in ids:
         entry = removed["articles"].get(i)
         if entry is None:
             missing.append(i)
+        elif entry.get("action") == "auto-expire":
+            auto_expired.append(i)
         elif not entry.get("article"):
             not_restorable.append(i)
         else:
@@ -211,6 +213,13 @@ def action_restore(ids, reason):
 
     if missing:
         print(f"ERROR: no tombstone found for IDs: {', '.join(missing)}")
+        sys.exit(1)
+    if auto_expired:
+        # Auto-expired stories left public content through the retention
+        # policy; restoring one would re-publish a stale story. This is
+        # deliberate: there is no accidental recovery path.
+        print(f"ERROR: auto-expired articles (retention policy) cannot be restored: "
+              f"{', '.join(auto_expired)}")
         sys.exit(1)
     if not_restorable:
         print(f"ERROR: permanently deleted articles cannot be restored: {', '.join(not_restorable)}")
@@ -314,4 +323,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 

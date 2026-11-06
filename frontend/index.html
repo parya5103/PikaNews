@@ -177,38 +177,58 @@
         </div>
     </div>
 
-    <main class="main-content">
-        <section class="category-nav-section">
-    <div id="search-modal" class="modal search-modal">
-        <div class="modal-overlay" onclick="closeSearch()"></div>
-        <div class="modal-content">
-            <form id="search-form" class="search-form" onsubmit="performSearch(event)">
-                <input type="text" id="search-input" class="search-input" placeholder="Search news..." autocomplete="off">
-                <button type="submit" class="search-submit">
-                    <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <circle cx="11" cy="11" r="8"/>
-                        <path d="m21 21-4.35-4.35"/>
-                    </svg>
-                </button>
-            </form>
-            <div id="search-results" class="search-results"></div>
-        </div>
-    </div>
-
-    <!-- Bookmarks Modal -->
-    <div id="bookmarks-modal" class="modal bookmarks-modal">
-        <div class="modal-overlay" onclick="closeBookmarks()"></div>
-        <div class="modal-content">
-            <div class="modal-header">
-                <h2>Bookmarked Articles</h2>
-                <button onclick="closeBookmarks()" class="modal-close">&times;</button>
-            </div>
-            <div id="bookmarks-list" class="bookmarks-list"></div>
-        </div>
-    </div>
-
     <!-- Main Content -->
     <main class="main-content">
+        <!-- Category navigation: directly after the masthead + ticker,
+             before the hero, so every category is reachable without
+             scrolling. Horizontally scrollable on small screens. -->
+        <nav class="category-nav-section" aria-label="News categories">
+            <div class="container">
+                <div class="category-grid">
+                    <a href="index.html" class="category-card active" aria-current="page">
+                        <span class="category-icon" aria-hidden="true">📰</span>
+                        <span class="category-name">All News</span>
+                    </a>
+                    <a href="latest.html" class="category-card">
+                        <span class="category-icon" aria-hidden="true">⏱️</span>
+                        <span class="category-name">Latest</span>
+                    </a>
+                    <a href="trending.html" class="category-card">
+                        <span class="category-icon" aria-hidden="true">🔥</span>
+                        <span class="category-name">Trending</span>
+                    </a>
+                    <a href="bollywood.html" class="category-card">
+                        <span class="category-icon" aria-hidden="true">🎬</span>
+                        <span class="category-name">Bollywood</span>
+                    </a>
+                    <a href="hollywood.html" class="category-card">
+                        <span class="category-icon" aria-hidden="true">🍿</span>
+                        <span class="category-name">Hollywood</span>
+                    </a>
+                    <a href="entertainment.html" class="category-card">
+                        <span class="category-icon" aria-hidden="true">🎭</span>
+                        <span class="category-name">Entertainment</span>
+                    </a>
+                    <a href="technology.html" class="category-card">
+                        <span class="category-icon" aria-hidden="true">💻</span>
+                        <span class="category-name">Technology</span>
+                    </a>
+                    <a href="gaming.html" class="category-card">
+                        <span class="category-icon" aria-hidden="true">🎮</span>
+                        <span class="category-name">Gaming</span>
+                    </a>
+                    <a href="business.html" class="category-card">
+                        <span class="category-icon" aria-hidden="true">📈</span>
+                        <span class="category-name">Business</span>
+                    </a>
+                    <a href="sports.html" class="category-card">
+                        <span class="category-icon" aria-hidden="true">🏆</span>
+                        <span class="category-name">Sports</span>
+                    </a>
+                </div>
+            </div>
+        </nav>
+
         <!-- Hero Section -->
         <section class="hero-section">
             <div class="hero-container">
@@ -436,4 +456,5 @@
     <script src="js/ads.js"></script>
 </body>
 </html>
+
 

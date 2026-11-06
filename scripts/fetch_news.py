@@ -49,6 +49,14 @@ stats: Dict[str, Any] = {}
 MAX_ARTICLES_PER_CATEGORY = 500
 MAX_TOTAL_ARTICLES = 2000
 
+# Automatic old-news retention policy: an article is removed from ALL
+# public PikaNews content once its ORIGINAL published_at is more than
+# NEWS_RETENTION_DAYS days in the past (timezone-aware UTC comparison).
+# Count limits above stay as secondary safeguards. Articles with a
+# missing or invalid published_at are NEVER auto-expired on a guessed
+# date - they are logged for review instead.
+NEWS_RETENTION_DAYS = 30
+
 
 def log(message: str, level: str = "INFO"):
     """Simple logging function."""
@@ -902,11 +910,133 @@ def normalize_article(article: Dict[str, Any], source_config: Dict[str, Any]) ->
         return None
 
 
+def _load_removed_articles_file() -> Dict[str, Any]:
+    """Load the full tombstone registry (data/removed_articles.json).
+
+    Structure: {"articles": {article_id: {...}}}. Missing or corrupt
+    files degrade to an empty registry - existing tombstones are never
+    destroyed by a read error.
+    """
+    if not os.path.exists(REMOVED_ARTICLES_FILE):
+        return {"articles": {}}
+    try:
+        with open(REMOVED_ARTICLES_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        if not isinstance(data, dict) or not isinstance(data.get("articles"), dict):
+            return {"articles": {}}
+        return data
+    except Exception as e:
+        log(f"Error loading removed articles: {e}", "ERROR")
+        return {"articles": {}}
+
+
+def parse_published_datetime(value: Any) -> Optional[datetime]:
+    """Timezone-aware parse of an article's published_at value.
+
+    Returns an aware datetime (UTC assumed for naive values) or None
+    when the date is missing/unparseable. None must NEVER be guessed
+    into an expiry decision.
+    """
+    if value is None or value == "":
+        return None
+    if isinstance(value, datetime):
+        dt = value
+    else:
+        text = str(value).strip()
+        dt = None
+        try:
+            dt = datetime.fromisoformat(text.replace("Z", "+00:00"))
+        except ValueError:
+            pass
+        if dt is None:
+            parsed_iso = parse_date(text)
+            if parsed_iso:
+                try:
+                    dt = datetime.fromisoformat(parsed_iso.replace("Z", "+00:00"))
+                except ValueError:
+                    return None
+    if dt is None:
+        return None
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=timezone.utc)
+    return dt
+
+
+def expire_old_articles(
+    existing_articles: List[Dict[str, Any]],
+    now: Optional[datetime] = None,
+) -> Tuple[List[Dict[str, Any]], List[Dict[str, Any]], int, Set[str]]:
+    """Apply the NEWS_RETENTION_DAYS published-date expiry policy.
+
+    Splits articles into (remaining, expired, no_valid_date_count,
+    affected_categories). An article expires only when its ORIGINAL
+    published_at parses to a timezone-aware datetime that is at or
+    older than `now - NEWS_RETENTION_DAYS`. Articles without a usable
+    publication date are kept and counted - never guessed away.
+    """
+    if now is None:
+        now = datetime.now(timezone.utc)
+    cutoff = now - timedelta(days=NEWS_RETENTION_DAYS)
+
+    remaining: List[Dict[str, Any]] = []
+    expired: List[Dict[str, Any]] = []
+    no_valid_date = 0
+    affected_categories: Set[str] = set()
+
+    for article in existing_articles:
+        published = parse_published_datetime(article.get("published_at"))
+        if published is None:
+            no_valid_date += 1
+            remaining.append(article)
+        elif published <= cutoff:
+            expired.append(article)
+            if article.get("category"):
+                affected_categories.add(str(article["category"]))
+        else:
+            remaining.append(article)
+
+    return remaining, expired, no_valid_date, affected_categories
+
+
+def add_expiry_tombstones(expired_articles: List[Dict[str, Any]]) -> int:
+    """Write lightweight auto-expire tombstones for expired articles.
+
+    Tombstones hold NO full article content (title/source/url/id only)
+    and block re-import of the same story when its RSS publisher sends
+    it again. Existing tombstones (manual unpublish/delete/restore) are
+    preserved untouched.
+    """
+    if not expired_articles:
+        return 0
+    data = _load_removed_articles_file()
+    added = 0
+    for article in expired_articles:
+        article_id = article.get("id")
+        if not article_id or article_id in data["articles"]:
+            continue
+        data["articles"][article_id] = {
+            "action": "auto-expire",
+            "reason": f"older than {NEWS_RETENTION_DAYS} days (automatic news retention policy)",
+            "timestamp_utc": datetime.now(timezone.utc).isoformat(),
+            "title": article.get("title", ""),
+            "source": article.get("source", ""),
+            "url": article.get("url", ""),
+            "article_id": article_id,
+        }
+        added += 1
+    if added:
+        os.makedirs(os.path.dirname(REMOVED_ARTICLES_FILE), exist_ok=True)
+        with open(REMOVED_ARTICLES_FILE, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+    return added
+
+
 def load_removed_articles() -> Set[str]:
     """Load hashes of admin-removed (unpublished/deleted) articles.
 
     These tombstones block re-import of the same article from RSS on the
     next scheduled sync, so a removed article can never reappear.
+    Auto-expire tombstones block re-import the same way.
     """
     removed = set()
     if not os.path.exists(REMOVED_ARTICLES_FILE):
@@ -941,9 +1071,18 @@ def load_existing_articles() -> List[Dict[str, Any]]:
     return []
 
 
-def save_articles(new_articles: List[Dict[str, Any]], existing_articles: List[Dict[str, Any]]) -> None:
-    """Save articles to JSON files with proper limits."""
-    if not new_articles:
+def save_articles(new_articles: List[Dict[str, Any]], existing_articles: List[Dict[str, Any]],
+                  always_write: bool = False,
+                  affected_categories: Optional[Set[str]] = None) -> None:
+    """Save articles to JSON files with proper limits.
+
+    When `always_write` is true the feeds are rewritten even with zero
+    new articles, so the expiry cleanup path can regenerate every output
+    on a no-new-articles collector run. `affected_categories` ensures a
+    category emptied entirely by expiry gets its stale JSON rewritten
+    (as an empty list) instead of keeping expired stories on disk.
+    """
+    if not new_articles and not always_write:
         return
     
     # Update stats
@@ -994,6 +1133,22 @@ def save_articles(new_articles: List[Dict[str, Any]], existing_articles: List[Di
                 json.dump(category_articles, f, indent=2, ensure_ascii=False)
         except Exception as e:
             log(f"Error saving {category} articles: {e}", "ERROR")
+
+    # A category emptied entirely by expiry must not keep a stale JSON
+    # feed of expired stories on disk: rewrite it as an empty list.
+    for category in (affected_categories or set()):
+        if not category:
+            continue
+        category_name = str(category).lower()
+        if category_name in {str(c).lower() for c in categories}:
+            continue  # already rewritten above
+        category_file = os.path.join(NEWS_JSON_DIR, f"{category_name}.json")
+        try:
+            with open(category_file, "w", encoding="utf-8") as f:
+                json.dump([], f, indent=2, ensure_ascii=False)
+            log(f"Category '{category}' emptied by expiry - feed rewritten as empty", "INFO")
+        except Exception as e:
+            log(f"Error clearing {category} articles: {e}", "ERROR")
     
     # Save latest (last 100 articles)
     latest_file = os.path.join(NEWS_JSON_DIR, "latest.json")
@@ -1044,6 +1199,10 @@ def print_summary():
     log(f"Timestamp: {stats.get('timestamp', 'N/A')}", "INFO")
     log(f"Total articles fetched: {stats.get('total_fetched', 0)}", "INFO")
     log(f"New articles saved: {stats.get('new_articles', 0)}", "INFO")
+    log(f"Expired articles removed (>{NEWS_RETENTION_DAYS} days old): {stats.get('expired_articles', 0)}", "INFO")
+    if stats.get("articles_without_valid_date"):
+        log(f"Articles kept without a valid published_at (review): "
+            f"{stats.get('articles_without_valid_date', 0)}", "WARNING")
     log(f"Duplicates skipped: {stats.get('duplicates', 0)}", "INFO")
     log(f"Errors: {stats.get('errors', 0)}", "INFO")
     log(f"Failed sources: {len(failed_sources)}", "INFO")
@@ -1083,10 +1242,12 @@ def main():
         "new_articles": 0,
         "duplicates": 0,
         "errors": 0,
+        "expired_articles": 0,
+        "articles_without_valid_date": 0,
         "by_source": {},
         "by_category": {}
     }
-    
+
     # Load existing articles and hashes
     existing_articles = load_existing_articles()
     removed_hashes = load_removed_articles()
@@ -1095,6 +1256,25 @@ def main():
         log(f"Loaded {len(removed_hashes)} removed-article tombstones (re-import blocked)", "INFO")
     log(f"Loaded {len(existing_articles)} existing articles", "INFO")
     log(f"Loaded {len(seen_hashes)} existing article hashes", "INFO")
+
+    # ---- Automatic old-news expiry (runs EVERY collector run, even
+    # when zero new articles are fetched) -------------------------------
+    existing_articles, expired_articles, no_valid_date, expiry_categories = expire_old_articles(existing_articles)
+    stats["expired_articles"] = len(expired_articles)
+    stats["articles_without_valid_date"] = no_valid_date
+    if no_valid_date:
+        log(f"{no_valid_date} existing articles have a missing/invalid published_at - "
+            f"NOT auto-expired (no guessed dates); logged for review", "WARNING")
+    if expired_articles:
+        tombstoned = add_expiry_tombstones(expired_articles)
+        # Block same-run re-import if an RSS feed sends the story again.
+        seen_hashes.update(str(a.get("id", "")) for a in expired_articles if a.get("id"))
+        log(f"EXPIRY: removed {len(expired_articles)} articles older than "
+            f"{NEWS_RETENTION_DAYS} days (published_at based, UTC)", "INFO")
+        log(f"EXPIRY: affected categories: {', '.join(sorted(expiry_categories)) or 'none'}", "INFO")
+        log(f"EXPIRY: {tombstoned} tombstone(s) added - re-import of expired stories is blocked", "INFO")
+    else:
+        log(f"EXPIRY: no articles older than {NEWS_RETENTION_DAYS} days found", "INFO")
     
     # Fetch from all RSS feeds
     all_raw_articles = []
@@ -1169,8 +1349,14 @@ def main():
     log(f"Normalized articles: {len(normalized_articles)}", "INFO")
     log(f"Duplicates skipped: {stats['duplicates']}", "INFO")
     
-    # Save articles
-    save_articles(normalized_articles, existing_articles)
+    # Save articles (always rewrite feeds when expiry removed something,
+    # so a zero-new-articles run still regenerates every public output)
+    save_articles(
+        normalized_articles,
+        existing_articles,
+        always_write=bool(expired_articles),
+        affected_categories=expiry_categories,
+    )
     
     # Print summary
     print_summary()
@@ -1180,5 +1366,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
