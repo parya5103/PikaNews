@@ -18,10 +18,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
         with:
           python-version: '3.11'
           cache: 'pip'
@@ -35,7 +35,7 @@ jobs:
       - name: Run collector, generator and production-build tests
         run: |
           set +e
-          pytest tests/test_news_collector.py tests/test_news_expiry.py tests/test_generators.py tests/test_production_build.py -v > pytest_output.txt 2>&1
+          pytest tests/test_news_collector.py tests/test_news_expiry.py tests/test_generators.py tests/test_production_build.py tests/test_api_security.py -v > pytest_output.txt 2>&1
           status=$?
           cat pytest_output.txt
           if [ $status -ne 0 ]; then
@@ -49,4 +49,5 @@ jobs:
             exit 1
           fi
           set -e
+
 

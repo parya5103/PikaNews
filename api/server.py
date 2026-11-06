@@ -1,16 +1,27 @@
 import os
 import sys
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+import json as _json
 import yaml
 from typing import List, Dict, Any, Optional
-from fastapi import FastAPI, Query, HTTPException, Response
-from fastapi.responses import HTMLResponse
+from fastapi import FastAPI, Query, HTTPException, Response, Request, Path
+from fastapi.responses import HTMLResponse, JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 from prometheus_client import generate_latest, CONTENT_TYPE_LATEST, Counter, Histogram
-from pydantic import BaseModel
 import structlog
 from pipelines.db import DatabasePipeline
 from pipelines.cache import RedisCachePipeline
+from api.security import (
+    DEFAULT_ALLOWED_ORIGINS,
+    RateLimiter,
+    WEBHOOK_MAX_BODY_BYTES,
+    bearer_token_matches,
+    monitor_token_from_env,
+    parse_allowed_origins,
+    validate_webhook_payload,
+    verify_webhook_signature,
+    webhook_secret_from_env,
+)
 
 # Initialize logger
 logger = structlog.get_logger(__name__)
@@ -42,18 +53,38 @@ app = FastAPI(
     version="1.0.0"
 )
 
-# Enable CORS
+# CORS: explicit origin allowlist (never a wildcard). Credentials are only
+# allowed because the origin list is explicit - wildcard + credentials is
+# both invalid per spec and a policy violation. Production default covers
+# the published static site; additional origins via PIKANEWS_ALLOWED_ORIGINS.
+_ALLOWED_ORIGINS = parse_allowed_origins(os.getenv("PIKANEWS_ALLOWED_ORIGINS"))
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=_ALLOWED_ORIGINS,
     allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
+    allow_methods=["GET", "POST"],
+    allow_headers=["Content-Type", "X-Signature", "X-Timestamp"],
 )
 
 # Pipelines
 db_pipeline: Optional[DatabasePipeline] = None
 cache_pipeline: Optional[RedisCachePipeline] = None
+
+# Per-client sliding-window rate limiter (default 60 req/min; override with
+# PIKANEWS_RATE_LIMIT). In-memory: suitable for a single-process deployment;
+# put a shared limiter (nginx / Redis) in front for multi-process setups.
+_rate_limiter = RateLimiter(limit=int(os.getenv("PIKANEWS_RATE_LIMIT", "60") or "60"))
+
+@app.middleware("http")
+async def rate_limit_middleware(request: Request, call_next):
+    client = (
+        request.headers.get("x-forwarded-for", "").split(",")[0].strip()
+        or (request.client.host if request.client else "unknown")
+    )
+    if not _rate_limiter.allow(client):
+        return JSONResponse(status_code=429, content={"detail": "Too many requests"})
+    return await call_next(request)
 
 @app.on_event("startup")
 async def startup_event():
@@ -77,10 +108,15 @@ async def shutdown_event():
         await cache_pipeline.disconnect()
     logger.info("FastAPI service stopped")
 
-# Webhook payload validator
-class WebhookPayload(BaseModel):
-    event: str
-    article: Dict[str, Any]
+# Monitoring endpoints (metrics, dashboard, DB stats) expose internal
+# operational data. They require a bearer token from PIKANEWS_MONITOR_TOKEN.
+# Fail-closed: with no token configured they return 404 (disabled).
+_MONITOR_TOKEN = monitor_token_from_env()
+
+def _require_monitor_token(request: Request):
+    if not bearer_token_matches(_MONITOR_TOKEN, request.headers.get("authorization", "")):
+        # Same response for "disabled" and "wrong token" - no existence oracle.
+        raise HTTPException(status_code=404, detail="Not Found")
 
 @app.get("/health")
 async def health_check():
@@ -88,8 +124,9 @@ async def health_check():
     return {"status": "healthy", "service": "pikanews"}
 
 @app.get("/metrics")
-async def metrics():
-    """Expose Prometheus metrics endpoint."""
+async def metrics(request: Request):
+    """Expose Prometheus metrics endpoint (monitor token required)."""
+    _require_monitor_token(request)
     return Response(content=generate_latest(), media_type=CONTENT_TYPE_LATEST)
 
 @app.get("/latest")
@@ -110,7 +147,7 @@ async def get_latest(
 
 @app.get("/search")
 async def search(
-    q: str = Query(..., min_length=2),
+    q: str = Query(..., min_length=2, max_length=200),
     limit: int = Query(20, ge=1, le=100),
     category: Optional[str] = Query(None)
 ):
@@ -126,7 +163,7 @@ async def search(
 
 @app.get("/by-celebrity/{name}")
 async def get_by_celebrity(
-    name: str,
+    name: str = Path(..., max_length=100),
     limit: int = Query(20, ge=1, le=100)
 ):
     """Filter articles referencing a specific named celebrity/actor."""
@@ -154,14 +191,50 @@ async def get_trending(
             raise HTTPException(status_code=500, detail="Trending query error")
 
 @app.post("/webhook")
-async def receive_webhook(payload: WebhookPayload):
-    """Receiver webhook for external data integrations and integrations alerts."""
-    logger.info("Webhook received", event=payload.event, article_title=payload.article.get("title"))
-    return {"status": "accepted", "event": payload.event}
+async def receive_webhook(request: Request):
+    """HMAC-authenticated webhook receiver for external data integrations.
+
+    Fail-closed: when PIKANEWS_WEBHOOK_SECRET is not configured the
+    endpoint is disabled. Valid requests must carry:
+      X-Signature: sha256=<hex HMAC of the raw body>
+      X-Timestamp: unix seconds within a +/-300s replay window
+    Payloads are size-capped and structurally validated.
+    """
+    secret = webhook_secret_from_env()
+    if secret is None:
+        logger.warning("webhook_rejected", reason="secret_not_configured")
+        raise HTTPException(status_code=403, detail="Webhook disabled")
+
+    body = await request.body()
+    if len(body) > WEBHOOK_MAX_BODY_BYTES:
+        raise HTTPException(status_code=413, detail="Payload too large")
+
+    ok, reason = verify_webhook_signature(
+        secret, body,
+        request.headers.get("x-signature", ""),
+        request.headers.get("x-timestamp", ""),
+    )
+    if not ok:
+        # Never echo which part failed to the caller.
+        logger.warning("webhook_rejected", reason=reason)
+        raise HTTPException(status_code=403, detail="Invalid webhook request")
+
+    try:
+        payload = _json.loads(body)
+    except ValueError:
+        raise HTTPException(status_code=400, detail="Invalid JSON payload")
+    ok, reason = validate_webhook_payload(payload)
+    if not ok:
+        logger.warning("webhook_rejected", reason=reason)
+        raise HTTPException(status_code=400, detail="Invalid webhook payload")
+
+    logger.info("Webhook accepted", event=payload["event"])
+    return {"status": "accepted", "event": payload["event"]}
 
 @app.get("/api/stats")
-async def get_stats():
-    """Retrieve database metrics and scraping distribution statistics."""
+async def get_stats(request: Request):
+    """Retrieve database metrics and scraping distribution statistics (monitor token required)."""
+    _require_monitor_token(request)
     try:
         stats = await db_pipeline.get_database_stats()
         return stats
@@ -171,8 +244,9 @@ async def get_stats():
 
 @app.get("/", response_class=HTMLResponse)
 @app.get("/dashboard", response_class=HTMLResponse)
-async def get_dashboard():
-    """Serve the premium, interactive monitoring dashboard."""
+async def get_dashboard(request: Request):
+    """Serve the monitoring dashboard (monitor token required)."""
+    _require_monitor_token(request)
     return HTMLResponse(content=DASHBOARD_HTML)
 
 DASHBOARD_HTML = """
@@ -1250,3 +1324,4 @@ if __name__ == "__main__":
     import uvicorn
     print("Starting PikaNews Dashboard at http://localhost:8000/dashboard")
     uvicorn.run("api.server:app", host="0.0.0.0", port=8000, reload=False)
+

@@ -39,12 +39,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
         with:
           fetch-depth: 1
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
         with:
           python-version: '3.11'
 
@@ -54,13 +54,21 @@ jobs:
           pip install -r requirements-collector.txt python-dateutil
 
       - name: Run admin action
+        # Inputs are passed through env vars, never interpolated directly
+        # into the shell command (script-injection hardening).
+        env:
+          ADMIN_ACTION: ${{ inputs.action }}
+          ARTICLE_IDS: ${{ inputs.article_ids }}
+          ADMIN_REASON: ${{ inputs.reason }}
         run: |
           python scripts/admin_actions.py \
-            --action "${{ inputs.action }}" \
-            --article-ids "${{ inputs.article_ids }}" \
-            --reason "${{ inputs.reason }}"
+            --action "$ADMIN_ACTION" \
+            --article-ids "$ARTICLE_IDS" \
+            --reason "$ADMIN_REASON"
 
       - name: Commit updated content and audit log
+        env:
+          ADMIN_ACTION: ${{ inputs.action }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -68,8 +76,9 @@ jobs:
           if git diff --cached --quiet; then
             echo "Nothing changed - no commit created."
           else
-            git commit -m "admin: ${{ inputs.action }} via news-admin workflow [skip ci]"
+            git commit -m "admin: $ADMIN_ACTION via news-admin workflow [skip ci]"
             git pull --rebase origin main
             git push
           fi
+
 

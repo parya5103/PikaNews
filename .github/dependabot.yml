@@ -1,0 +1,19 @@
+version: 2
+updates:
+  # Keep GitHub Actions pinned references up to date (version bumps only;
+  # SHAs must be re-pinned in the same PR - dependabot handles this for
+  # @comment-annotated pins too).
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 5
+
+  # Python dependency updates. Note: requirements.txt is the heavy ML
+  # scraper stack; requirements-collector.txt is the lean CI/collector
+  # stack. Review major-version bumps before merging.
+  - package-ecosystem: pip
+    directory: /
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 5
