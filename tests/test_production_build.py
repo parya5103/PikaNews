@@ -180,6 +180,8 @@ def test_robots_and_sitemap_use_production_urls():
     sitemap = read("sitemap.xml")
     assert OLD_BASE not in sitemap, "sitemap still contains old GitHub Pages URLs"
     assert "https://gogocompany.in/pikanews/" in sitemap, "sitemap does not use production URLs"
+    assert "https://gogocompany.in/pikanews/index.html" not in sitemap, \
+        "sitemap must list the portal root as the clean /pikanews/ canonical URL, not index.html"
     feed = read("feed.xml")
     assert OLD_BASE not in feed, "RSS feed still contains old GitHub Pages URLs"
 
