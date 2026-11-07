@@ -710,6 +710,15 @@
       "source": "GameSpot",
       "url": "https://www.gamespot.com/articles/gta-price-free-games-and-all-the-other-perks-you-get-with-a-membership/1100-6530905",
       "article_id": "df93d0325a4caa500fa3b340a75dcdc0ea90e64f62d75949bc1e4f7f7f124a9d"
+    },
+    "6ba80f2a8d83a2987084e3daebd8cf05a7c7fb16cd229ec4f8f81fe5044725c4": {
+      "action": "auto-expire",
+      "reason": "older than 30 days (automatic news retention policy)",
+      "timestamp_utc": "2026-11-07T06:50:18.206635+00:00",
+      "title": "Faster than F1: The extreme motorsport where women keep winning",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/motorsport/articles/c68xkx9gqv89o",
+      "article_id": "6ba80f2a8d83a2987084e3daebd8cf05a7c7fb16cd229ec4f8f81fe5044725c4"
     }
   }
 }
