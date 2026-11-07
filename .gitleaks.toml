@@ -1,0 +1,4 @@
+# Gitleaks configuration: default rules. No project-specific allowlists needed;
+# only .env.example (placeholders) is committed, never a real .env.
+[extend]
+useDefault = true
