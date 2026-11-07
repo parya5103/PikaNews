@@ -1,5 +1,404 @@
 [
   {
+    "id": "db10aaa060c354041ef221a8ef796b7c6f3ce3200ae4821ab6a2f5038f0030c6",
+    "title": "World’s No. 1 restaurant crowned as contest comes under increasing scrutiny",
+    "summary": "Asador Etxebarri in Atxondo, Spain, is the world's top restaurant, according to the 50 Best Restaurants, which announced its 2026 list.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/worlds-50-best-restaurants-2026-asador-etxebarri.html",
+    "published_at": "2026-11-07T13:38:44+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T13:44:39.656029+00:00",
+    "thin": false
+  },
+  {
+    "id": "7692bdbf83c66e110092bb0be4e76c196a0db12394cf1002357a74a2e7adec89",
+    "title": "Democrat shaping AI policy bought chip stocks despite backing congressional trading ban",
+    "summary": "Rep. Josh Gottheimer disclosed new AI-linked stock purchases months after voting for a congressional trading ban, as Democrats prepare to regulate the industry.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/josh-gottheimer-ai-stocks-congress-trading-ban.html",
+    "published_at": "2026-11-07T13:30:01+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T13:44:39.655885+00:00",
+    "thin": false
+  },
+  {
+    "id": "930612aedc10af17477af7a8af11cc6fd36f46de39d8449e950769a41bea8d43",
+    "title": "Ireland going from strength to strength - Murray",
+    "summary": "Former Ireland scrum-half Conor Murray says on the Ireland Rugby Social that he is impressed with how the Irish squad is progressing and their strength in depth.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmqxn5j87rrro",
+    "published_at": "2026-11-07T13:17:24+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80b7/live/37791160-daab-11f1-9da2-b11e4d68c08e.jpg",
+    "collection_timestamp": "2026-11-07T13:44:39.657028+00:00",
+    "thin": false
+  },
+  {
+    "id": "e42360fd97242e90cb43cf88d27d4fd1dcfe997d4e308c292969c77e09db1e88",
+    "title": "Ridley Scott’s R-Rated Sci-Fi Masterpiece is Officially Being Cut From Netflix",
+    "summary": "Alien and Aliens are leaving Netflix on Dec. 1, giving subscribers limited time to stream Ridley Scott’s sci-fi classics.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/alien-ridley-scott-sci-fi-movie-streaming-december-2026",
+    "published_at": "2026-11-07T13:16:18+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/msdalie_ec009_h.jpg",
+    "collection_timestamp": "2026-11-07T13:44:39.654022+00:00",
+    "thin": false,
+    "author": "Sam Hill",
+    "tags": [
+      "Movies",
+      "Alien",
+      "Alien",
+      "Aliens"
+    ]
+  },
+  {
+    "id": "c0c2668d8b04cb9af0fa9df8ec1e70f8851a456c93a4768c817666c8f57b6b5d",
+    "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+    "summary": "The U.S. and Iran are on a collision course as tensions in the Middle East simmer.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+    "published_at": "2026-11-07T13:03:12+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T13:44:39.655009+00:00",
+    "thin": false
+  },
+  {
+    "id": "361b7b2c98c8dc3cd0c87ca1568f4647f79d7af3812f740aa5ffe2bf9c78fe95",
+    "title": "America doesn't like socialism. So why are socialists winning?",
+    "summary": "Democratic socialists had their best showing yet at the polls. The problem: Most U.S. voters don't actually like socialism.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/socialism-elections-economy.html",
+    "published_at": "2026-11-07T13:01:01+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T13:44:39.655385+00:00",
+    "thin": false
+  },
+  {
+    "id": "aba31218d69c5c8ed62622c2241dedbdfeb2569de676bebb8efd91e18828777b",
+    "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
+    "summary": "Anthropic is poised to become the first pure-play AI company to hit the public market at a time when the public is increasingly leary of the industry.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+    "published_at": "2026-11-07T13:00:01+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T13:44:39.655135+00:00",
+    "thin": false
+  },
+  {
+    "id": "f8faccdba3b017f1357e5f179a51ef0314d09461625a6685841fe2ff209b6801",
+    "title": "Cosm rides premium moviegoing wave with more immersive screenings and a wider library",
+    "summary": "Cosm tickets cost anywhere from $18 for a matinee to around $70 for prime seats or in-demand showings.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/cosm-immersive-movie-screenings.html",
+    "published_at": "2026-11-07T13:00:01+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T13:44:39.655759+00:00",
+    "thin": false
+  },
+  {
+    "id": "05f2df731a630886cceac3a26757e8c4503ec67587b18829b04ba8ab1c37f2b2",
+    "title": "Here’s How to Watch WWE Crown Jewel 2026 Live Online",
+    "summary": "After an epic Money in the Bank event with Roman Reigns defeated LA Knight to retain the World Heavyweight Championship, WWE travels to Saudi Arabia for WWE Crown Jewel 2026, a premium live event on Saturday, Nov. 7. The event features four bouts, including three title matches for the Crown Jewel Championship, Women&#8217;s Crown Jewel [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/shopping/news/how-to-watch-wwe-crown-jewel-2026-live-online-free-1236938579",
+    "published_at": "2026-11-07T13:00:00+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/WWE-Roman-Reigns-Getty-VR-Featured.jpg",
+    "collection_timestamp": "2026-11-07T13:44:39.649053+00:00",
+    "thin": false,
+    "author": "Rudie Obias",
+    "tags": [
+      "News",
+      "ESPN Unlimited",
+      "How to Watch",
+      "NOADS",
+      "Wrestling",
+      "WWE"
+    ]
+  },
+  {
+    "id": "3d5e08ba47ee482ce3db93f6cc9c224404ab7f0ab555db23101c690394d4f67a",
+    "title": "Berkshire shares surge as Wall Street swoons amid AI fears",
+    "summary": "Berkshire Hathaway shares roared past the S&P 500 index this week and are outperforming the benchmark for the year-to-date.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/berkshire-shares-surge-as-wall-street-swoons-amid-ai-fears.html",
+    "published_at": "2026-11-07T12:49:19+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T13:44:39.655641+00:00",
+    "thin": false
+  },
+  {
+    "id": "411b4021d5d251eb30e9067a9aefb445d4ebbe0e6e523e3d33042289682c14af",
+    "title": "My dream is to win Ballon d'Or - Gabriel",
+    "summary": "Manchester United forward JJ Gabriel says his \"dream is to win the Ballon d'Or\", as he closes in on a move to Real Madrid.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o",
+    "published_at": "2026-11-07T12:25:14+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a16/live/eaf4a7b0-daa4-11f1-9da2-b11e4d68c08e.jpg",
+    "collection_timestamp": "2026-11-07T13:44:39.656740+00:00",
+    "thin": false
+  },
+  {
+    "id": "e704324af2d75c5fe1f277cee7aaf87f05c64019c083eb5da013a2acf2952267",
+    "title": "10 Funniest 'Far Side' Comics About Cows",
+    "summary": "Gary Larson's The Far Side often featured cows in funny situations. Here are the 10 funniest examples",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/funniest-far-side-comics-cows",
+    "published_at": "2026-11-07T12:14:17+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/screen-shot-2026-08-19-at-2-17-15-pm.jpg",
+    "collection_timestamp": "2026-11-07T13:44:39.654162+00:00",
+    "thin": false,
+    "author": "Brian VanHooker",
+    "tags": [
+      "Polygon Lists",
+      "comic strip"
+    ]
+  },
+  {
+    "id": "fe97556460a91af471bbe2c44532ad89ede128e3721585a04930acc8320d6c95",
+    "title": "Mass Effect’s Cruelest Moral Choice Remains Gaming's Most Haunting Mission 19 Years Later",
+    "summary": "Mass Effect’s Homecoming quest asks you to hand a widower his wife’s body or keep it for research. Neither ending feels clean, but one is better",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/mass-effect-homecoming-samesh-bhatia-choice",
+    "published_at": "2026-11-07T12:00:17+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mass-effect-geth.jpg",
+    "collection_timestamp": "2026-11-07T13:44:39.654327+00:00",
+    "thin": false,
+    "author": "Rebecca Corgan",
+    "tags": [
+      "Opinion",
+      "Mass Effect"
+    ]
+  },
+  {
+    "id": "314d82b11f5fed1a29534705277f6a19e5c9ed3c7f3f03c96214c22bea5576a2",
+    "title": "Tech companies face mounting child safety lawsuits while pushing AI into schools",
+    "summary": "Lawsuits against Snap, Meta and Google are creating headwinds for tech companies just as artificial intelligence tools expand into classrooms.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/snap-social-media-teen-safety-lawsuits.html",
+    "published_at": "2026-11-07T12:00:01+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T13:44:39.655512+00:00",
+    "thin": false
+  },
+  {
+    "id": "ccd97c16dca69b6cd2d712e556e100f61d0f190d4c0a1c71ab0b66a3301c336d",
+    "title": "At a dinner party in 2013, George Clooney gifted each of his 14 closest friends a black Tumi suitcase containing $1 million in cash. Clooney told them, \"I came to L.A., I slept on your couch. I'm so fortunate in my life to have all of you, and I couldn't be where I am today without all of you.\"",
+    "summary": "&#32; submitted by &#32; /u/tyrion2024 &#32; to &#32; r/interesting [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/interesting/comments/1xq4m4h/at_a_dinner_party_in_2013_george_clooney_gifted",
+    "published_at": "2026-11-07T11:53:50+00:00",
+    "image_url": "https://preview.redd.it/8tmbs4hvi60i1.jpeg",
+    "collection_timestamp": "2026-11-07T13:44:39.661329+00:00",
+    "thin": false,
+    "author": "/u/tyrion2024https://www.reddit.com/user/tyrion2024",
+    "tags": [
+      "interesting"
+    ]
+  },
+  {
+    "id": "e8847489d28a467beb325da0dba29e98bb2de7257b906d7062dd5be13e9232ba",
+    "title": "Ponga-inspired New Zealand reach World Cup final",
+    "summary": "Kalyn Ponga returns from a broken arm to inspire New Zealand to victory in a pulsating encounter with Tonga as they reach their first World Cup final since 2013.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cmvgx2e78xrro",
+    "published_at": "2026-11-07T11:45:11+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62e3/live/17b01dc0-da9b-11f1-a32a-3937f8587a2d.jpg",
+    "collection_timestamp": "2026-11-07T13:44:39.656891+00:00",
+    "thin": false
+  },
+  {
+    "id": "b22c97cbad22a5786ac7901c76b69300a8b1ebda3ab6a3e25d669e3f719a4234",
+    "title": "How A Mistake In Warner Bros. Contracts Helped Eleven Film & Jack Thorne Land ‘Lord Of The Flies’ TV Rights — Thessaloniki",
+    "summary": "“It’s the only thing I’ve ever done that I’d describe, without feeling embarrassed, as hard work,” Joel Wilson of Eleven Film said when discussing his role as an executive producer on Jack Thorne’s Lord of the Flies adaptation. Wilson was speaking on a panel at the Thessaloniki Film Festival, where the series is screening this [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/joel-wilson-eleven-films-jack-thorne-lord-of-the-flies-1237216218",
+    "published_at": "2026-11-07T11:40:44+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/02/552234.jpg",
+    "collection_timestamp": "2026-11-07T13:44:39.650385+00:00",
+    "thin": false,
+    "author": "Zac Ntim",
+    "tags": [
+      "News",
+      "Eleven Film",
+      "Lord Of The Flies",
+      "Thessaloniki",
+      "Thessaloniki Film Festival"
+    ]
+  },
+  {
+    "id": "5072a1b6b01da2aa3aaaca0f51240713604583ae2e54210dd276366277612841",
+    "title": "Sydney Sweeney's New Netflix Sci-Fi Epic Is Mandatory Viewing For Transformers Fans",
+    "summary": "Robots (not) in disguise.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/sydney-sweeney-gundam-netflix-transformers-sci-fi-epic",
+    "published_at": "2026-11-07T11:30:17+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/sydney_sweeney.jpg",
+    "collection_timestamp": "2026-11-07T13:44:39.654449+00:00",
+    "thin": true,
+    "author": "Collier Jennings",
+    "tags": [
+      "FYI",
+      "Transformers",
+      "Sci-Fi",
+      "Gundam",
+      "Anime"
+    ]
+  },
+  {
+    "id": "1e78b25b282d88869ca361ff827ed662c83b04f15ec79951b52410c6cfd0b032",
+    "title": "my Cat fell into a Cow Dung Pit and arrived drenched in it today. I had to step in the shower with him, but hes clean now.",
+    "summary": "We dont have a bathtub, so i had no chance but to get in the shower aswell, so that he doesnt run off. I used Ultra sensitive/perfumeless soap and I had to scrubb it off with my bare hands and a running shower. We live in a rural area in Germany and he apparently likes roaming around next to cows. He really hated being washed and was making very sad meows for the most part, and it took at least 10mins of non stop scrubbing and showering for him to get clean. &#32; submitted by &#32; /u/ImadeJesu",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/cats/comments/1xq433s/my_cat_fell_into_a_cow_dung_pit_and_arrived",
+    "published_at": "2026-11-07T11:20:41+00:00",
+    "image_url": "https://preview.redd.it/lcf3zah1d60i1.jpeg",
+    "collection_timestamp": "2026-11-07T13:44:39.660941+00:00",
+    "thin": false,
+    "author": "/u/ImadeJesusLaughhttps://www.reddit.com/user/ImadeJesusLaugh",
+    "tags": [
+      "cats"
+    ]
+  },
+  {
+    "id": "ea36f69bfd26ab9befadd397cc5bb2030e3f7e8e44ba65c39108a7c3f70a340a",
+    "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+    "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed",
+    "published_at": "2026-11-07T11:00:34+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156853-1024x648.jpg",
+    "collection_timestamp": "2026-11-07T13:44:39.653335+00:00",
+    "thin": false,
+    "author": "Cyrus Farivar",
+    "tags": [
+      "Security",
+      "Tech",
+      "Daniel Barton-Kennedy",
+      "sim card",
+      "soldier"
+    ]
+  },
+  {
+    "id": "e860a0da676c43c84dcf5f56785b1d8f911500b2ef4c9534b970e113210c5858",
+    "title": "Magic: The Gathering Star Trek Perfectly Captures the Sci-Fi Show’s Most Brutal Running Joke",
+    "summary": "Lots of Redshirts are going to die",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/star-trek-redshirts-tokens-explainer",
+    "published_at": "2026-11-07T11:00:17+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/he-s-dead-jim-art-star-trek-114-2c309b0d-94b4-405e-be6c-18b407323e51-art.jpg",
+    "collection_timestamp": "2026-11-07T13:44:39.654593+00:00",
+    "thin": true,
+    "author": "Sam Nelson",
+    "tags": [
+      "Explainer",
+      "Star Trek",
+      "Magic: The Gathering",
+      "Tabletop Games"
+    ]
+  },
+  {
+    "id": "567f2c8bb21ec0ecccbd216d220a0ccdc3bba49714fd18add81906724f32c0aa",
+    "title": "PÖFF Stands With Ukraine: A Look at Films Featured at Tallinn Made Despite, and Because of, the War",
+    "summary": "The Estonian fest has been showing solidarity with Ukraine across its film, industry and other programs since the 2022 full-scale invasion of the country by Russia, and its 30th edition is no different.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/poff-standing-with-ukraine-tallinn-2026-films-events-war-1236741671",
+    "published_at": "2026-11-07T11:00:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T13:44:39.650990+00:00",
+    "thin": false,
+    "author": "Georg Szalai",
+    "tags": [
+      "Movie News",
+      "Movies",
+      "international",
+      "POFF",
+      "POFF 2026",
+      "Tallinn Black Nights Film Festival",
+      "Ukraine"
+    ]
+  },
+  {
+    "id": "467656dca26228842a4f739374b69bf5f153bb1c32e043b2460112740493ac14",
+    "title": "Can Labubu Lightning Strike Twice? POP MART Hopes So With Release of ‘KPop Demon Hunters’ Bag Charms",
+    "summary": "The official collab reimagines members of Peach Riot -- POP MART's fictional, female punk band -- as characters from the hit film",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/product-recommendations/lifestyle/pop-mart-kpop-demon-hunters-blind-box-charms-labubu-toys-1235654181",
+    "published_at": "2026-11-07T10:26:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T13:44:39.651433+00:00",
+    "thin": false,
+    "author": "Tim Chan",
+    "tags": [
+      "Lifestyle",
+      "RS Recommends",
+      "collectibles",
+      "KPop Demon Hunters",
+      "noads",
+      "toys"
+    ]
+  },
+  {
+    "id": "30262d16be425ff88e7c16cd0f243fd9ab068e30e40bf4afec71462f156baf42",
+    "title": "‘3 Body Problem’ Director Derek Tsang Boards DEA True-Crime Series ‘Group 41’ From Zhang Yimou’s ‘Shadow’ Producer Jonah Greenberg (EXCLUSIVE)",
+    "summary": "“3 Body Problem” and “Better Days” filmmaker Derek Tsang is attached to direct and executive produce “Group 41,” a true-crime drama series about the first Asian-American squad at the U.S. Drug Enforcement Administration (DEA). The project, from Jonah Greenberg’s Salty Pictures, is at the Taiwan Creative Content Fest (TCCF) in Taipei. The 10-episode series, with [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/tv/asia/3-body-problem-director-derek-tsang-dea-true-crime-series-group-41-1236941978",
+    "published_at": "2026-11-07T09:50:17+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Derek-Tsang-Jonah-Greenberg.jpg",
+    "collection_timestamp": "2026-11-07T13:44:39.649330+00:00",
+    "thin": false,
+    "author": "Naman Ramachandran",
+    "tags": [
+      "Asia",
+      "Global",
+      "Markets & Festivals",
+      "News",
+      "Derek Tsang",
+      "Group 41",
+      "Jonah Greenberg",
+      "Taiwan Creative Content Fest"
+    ]
+  },
+  {
+    "id": "eeb493b992fde9ebb575e49828289be5ef846edb02b7c66c3f9f71b441dd16c7",
+    "title": "Scientists found a way to help the brain wash out waste while we're awake, which it mostly does while we sleep: a short-acting blood pressure drug plus whole-body vibration. In 29 healthy adults, Alzheimer's-linked proteins like beta-amyloid rose in the blood, a sign they were cleared from the brain",
+    "summary": "&#32; submitted by &#32; /u/mvea &#32; to &#32; r/science [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/science/comments/1xq2mxe/scientists_found_a_way_to_help_the_brain_wash_out",
+    "published_at": "2026-11-07T09:46:03+00:00",
+    "image_url": "https://external-preview.redd.it/_-JB0QFjynlH8r0jUoMzS9lgtDTuFV_WWQTjr5r1Uos.jpeg",
+    "collection_timestamp": "2026-11-07T13:44:39.658881+00:00",
+    "thin": false,
+    "author": "/u/mveahttps://www.reddit.com/user/mvea",
+    "tags": [
+      "science"
+    ]
+  },
+  {
     "id": "7fea0d6a8e2d9e896a05c54c8b6d32c64cc5351e581ec58b325eca1a50f4ab5a",
     "title": "Udta Teer Final Box Office Collections: Ayushmann Khurrana and Sara Ali Khan starrer set to close theatrical run at Rs 45.50 crore in India",
     "summary": "Udta Teer, starring Ayushmann Khurrana and Sara Ali Khan in the lead roles, has almost exhausted its theatrical run at the box office. The movie started its box office run with Rs. 3.75 crore nett in India and went on to collect around Rs. 30 crore in its first week. It further dropped by almost 50 per cent in the second week, adding Rs. 15.20 crore to the tally. This took its running cume of 14-day theatrical run to Rs. 45.20 crore nett, domestically. The movie collected just Rs. 20 lakh on Thu",
@@ -9,6 +408,289 @@
     "published_at": "2026-11-07T09:25:03+05:30",
     "image_url": null,
     "collection_timestamp": "2026-11-07T06:50:21.882776+00:00",
+    "thin": false
+  },
+  {
+    "id": "bb70e3d3622406d30e3978967a1ef8dcb62ffe253d93e01040eb6b57dde2df45",
+    "title": "thisFeelingNeverGoesAway",
+    "summary": "&#32; submitted by &#32; /u/Apprehensive_Bit7392 &#32; to &#32; r/ProgrammerHumor [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/ProgrammerHumor/comments/1xq28r6/thisfeelingnevergoesaway",
+    "published_at": "2026-11-07T09:19:44+00:00",
+    "image_url": "https://preview.redd.it/nkz0obxfr50i1.png",
+    "collection_timestamp": "2026-11-07T13:44:39.659130+00:00",
+    "thin": false,
+    "author": "/u/Apprehensive_Bit7392https://www.reddit.com/user/Apprehensive_Bit7392",
+    "tags": [
+      "ProgrammerHumor"
+    ]
+  },
+  {
+    "id": "14bf7624d8059bfce812ec9d740bfeb874c25c95c2506c55be044ffb45807a6b",
+    "title": "He was wearing slippers though.",
+    "summary": "&#32; submitted by &#32; /u/NamXina &#32; to &#32; r/Unexpected [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/Unexpected/comments/1xq23xz/he_was_wearing_slippers_though",
+    "published_at": "2026-11-07T09:11:02+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T13:44:39.659903+00:00",
+    "thin": false,
+    "author": "/u/NamXinahttps://www.reddit.com/user/NamXina",
+    "tags": [
+      "Unexpected"
+    ]
+  },
+  {
+    "id": "affaed56a4e3a7bf32b6611683f438b363f2ae74f1a2245a72b340200aced8c6",
+    "title": "5 Sci-Fi Series To Watch If You Love HBO's 'Lanterns'",
+    "summary": "In brightest day, in blackest night, find your next binge watch tonight",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/best-sci-fi-tv-shows-to-watch-if-you-love-hbos-lanterns",
+    "published_at": "2026-11-07T09:04:17+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/john-stewart-aaron-pierre-looks-down-at-the-green-lantern-ring-he-is-wearing-in-lanterns.jpg",
+    "collection_timestamp": "2026-11-07T13:44:39.654727+00:00",
+    "thin": false,
+    "author": "Collier Jennings",
+    "tags": [
+      "Polygon Lists",
+      "Lanterns",
+      "Watchmen",
+      "Andor",
+      "Heroes",
+      "Fringe",
+      "Westworld",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "id": "d7d251c6ea4888de5ccf9e1316cc00a8c624478578bb6457416ff88e25598201",
+    "title": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
+    "summary": "The \"weakest point of aviation is targeting it in-flight,\" analysts say — but any change to procedures will be a lengthy process.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html",
+    "published_at": "2026-11-07T09:01:57+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T13:44:39.655266+00:00",
+    "thin": false
+  },
+  {
+    "id": "5f3dcb8af182e13cd04606025408df0cd7f96a683ebb51033e113ea0c61c6c0c",
+    "title": "38 Years Later, Calvin and Hobbes' Lost Character Remains Bill Watterson's Biggest Failure",
+    "summary": "Uncle Max died on his way back to his home planet",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/uncle-max-calvin-hobbes",
+    "published_at": "2026-11-07T09:00:17+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/calvin-and-hobbes-yukon-ho.jpg",
+    "collection_timestamp": "2026-11-07T13:44:39.654853+00:00",
+    "thin": false,
+    "author": "Thomas Hindmarch",
+    "tags": [
+      "Comics",
+      "comic strip"
+    ]
+  },
+  {
+    "id": "8a5cce0c796e07ab0d57d07847b06d86dd5544a6592ffb155f61353fb83c06d3",
+    "title": "Davika Hoorne Returning for ‘Inherit’ Sequel, Director Banjong Pisanthanakun Confirms (EXCLUSIVE)",
+    "summary": "Banjong Pisanthanakun, the Thai director of horror hits “Shutter” and “Pee Mak,” tells Variety his new psychological horror film “Inherit” will get a sequel, with star Davika Hoorne set to return. “Inherit,” a Centrepiece selection at the Toronto Film Festival, where it world premiered in September, is closing the Jakarta World Cinema festival. Pisanthanakun and [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/news/davika-hoorne-inherit-sequel-1236941967",
+    "published_at": "2026-11-07T08:59:03+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Davika-Hoorne-Banjong-Pisanthanakun.jpg",
+    "collection_timestamp": "2026-11-07T13:44:39.649601+00:00",
+    "thin": false,
+    "author": "Naman Ramachandran",
+    "tags": [
+      "Asia",
+      "Festivals",
+      "Global",
+      "News",
+      "Banjong Pisanthanakun",
+      "Davika Hoorne",
+      "Inherit",
+      "Jakarta World Cinema"
+    ]
+  },
+  {
+    "id": "3349742631d148d10327f1606a94e4985108bced9158bdc95fb2ae17eabe8b45",
+    "title": "Why",
+    "summary": "&#32; submitted by &#32; /u/Similar-District142 &#32; to &#32; r/mildlyinfuriating [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xq1vvq/why",
+    "published_at": "2026-11-07T08:56:27+00:00",
+    "image_url": "https://preview.redd.it/zirmvyyan50i1.jpeg",
+    "collection_timestamp": "2026-11-07T13:44:39.659368+00:00",
+    "thin": true,
+    "author": "/u/Similar-District142https://www.reddit.com/user/Similar-District142",
+    "tags": [
+      "mildlyinfuriating"
+    ]
+  },
+  {
+    "id": "650befefe8de755110e96feb294db09c22d637feea877383a89897e9f005f977",
+    "title": "Two Indian police officers, Qazi Azizul Haque and Hem Chandra Bose, developed a fingerprint classification system in the 1890s that revolutionized criminal identification. However, their British boss, Edward Henry, became famous for their work, and the system was named after him.",
+    "summary": "&#32; submitted by &#32; /u/Awkward_Corner_9853 &#32; to &#32; r/interestingasfuck [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/interestingasfuck/comments/1xq1vhk/two_indian_police_officers_qazi_azizul_haque_and",
+    "published_at": "2026-11-07T08:55:45+00:00",
+    "image_url": "https://preview.redd.it/otkkxin6n50i1.jpeg",
+    "collection_timestamp": "2026-11-07T13:44:39.663638+00:00",
+    "thin": false,
+    "author": "/u/Awkward_Corner_9853https://www.reddit.com/user/Awkward_Corner_9853",
+    "tags": [
+      "interestingasfuck"
+    ]
+  },
+  {
+    "id": "a4de1ddab2394c6e37e49cc4107d600692522289625bb8879b7512e80e39e29d",
+    "title": "New Zealand sweep aside Samoa to reach Women's World Cup final",
+    "summary": "New Zealand's women will hope it is fourth time lucky after defeating Samoa 32-0 to reach next Sunday's Rugby League World Cup final.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c680zz8k3nvvo",
+    "published_at": "2026-11-07T08:32:15+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b44/live/b4664c10-da83-11f1-9ef2-dd247c3d6b8b.jpg",
+    "collection_timestamp": "2026-11-07T13:44:39.657175+00:00",
+    "thin": false
+  },
+  {
+    "id": "716f1afd7b7c50107da8c3dfe83ed86985543009f79d54218b32b4d3449c8d26",
+    "title": "AI Filmmaking Platform Core Studio Launches at Taiwan Creative Content Fest With 24 Specialized Agents",
+    "summary": "Taiwanese technology company imCore Corp. launched Core Studio, an AI filmmaking platform that aims to cover the full production process, from script development and storyboarding to image generation, editing and color grading, at the Taiwan Creative Content Fest (TCCF) in Taipei on Saturday. Built by a Taiwanese team with roots in animation and visual effects, [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/markets-festivals/ai-filmmaking-platform-core-studio-launches-24-agents-tccf-1236941957",
+    "published_at": "2026-11-07T08:19:35+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/imcore.jpg",
+    "collection_timestamp": "2026-11-07T13:44:39.649827+00:00",
+    "thin": false,
+    "author": "Naman Ramachandran",
+    "tags": [
+      "Asia",
+      "Global",
+      "Markets & Festivals",
+      "News",
+      "Core Studio",
+      "imCore Corp.",
+      "Taiwan Creative Content Fest"
+    ]
+  },
+  {
+    "id": "3ca6b71eb68b36b07534f1618a8d5a7520fb9d876de0f7ac52b93352a95969b4",
+    "title": "‘Triplets of Belleville’ Director Sylvain Chomet Fires Back at AI Accusations Over Dior Film Featuring Robert Pattinson’s Voice: ‘Everything Was Drawn by Hand’ (EXCLUSIVE)",
+    "summary": "French animation filmmaker Sylvain Chomet, the four-time Oscar nominee behind “The Triplets of Belleville” and “The Illusionist,” is pushing back against accusations that generative AI was used to create his animated short for Dior featuring a voice cast led by Robert Pattinson, Rihanna, Josh O’Connor, LaKeith Stanfield, Louis Garrel and Camille Cottin. The whimsical six-minute [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/global/sylvain-chomet-denies-ai-accusations-dior-robert-pattinson-1236941945",
+    "published_at": "2026-11-07T08:12:53+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/split-image-1000-5.jpg",
+    "collection_timestamp": "2026-11-07T13:44:39.650080+00:00",
+    "thin": false,
+    "author": "Elskes",
+    "tags": [
+      "Global",
+      "News",
+      "Aton Soumache",
+      "Dior",
+      "Robert Pattinson"
+    ]
+  },
+  {
+    "id": "96da06211517e1b7f72b5a5a9203aef4e3bf0235851d5afe189c6afdc525dd8b",
+    "title": "Buatsi v Hutchinson 2 - world light-heavyweight title fight predictions",
+    "summary": "Figures from the boxing world give their predictions for Saturday's light-heavyweight world title fight between Joshua Buatsi and Willy Hutchinson.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/boxing/articles/c674pek0yd2jo",
+    "published_at": "2026-11-07T08:00:59+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6adf/live/41a848a0-d9e2-11f1-93e1-3b657b665bcf.png",
+    "collection_timestamp": "2026-11-07T13:44:39.657310+00:00",
+    "thin": false
+  },
+  {
+    "id": "211d2d73c8fb23e14a52e8e5c5dbc4ff97902c044532a3092ce0e9e3aaf4136d",
+    "title": "Me_irl",
+    "summary": "&#32; submitted by &#32; /u/Usual-Beach5855 &#32; to &#32; r/me_irl [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/me_irl/comments/1xq0yoj/me_irl",
+    "published_at": "2026-11-07T07:57:10+00:00",
+    "image_url": "https://preview.redd.it/engxaaoqc50i1.jpeg",
+    "collection_timestamp": "2026-11-07T13:44:39.660117+00:00",
+    "thin": true,
+    "author": "/u/Usual-Beach5855https://www.reddit.com/user/Usual-Beach5855",
+    "tags": [
+      "me_irl"
+    ]
+  },
+  {
+    "id": "ae08080729a618b05ac8f8f7e516425103eca52133766cbf1730033d881e6050",
+    "title": "Toei CEO Fumio Yoshimura Talks Global Expansion, GenAI Adoption & Entry Into Games",
+    "summary": "Fumio Yoshimura, CEO of Japan’s Toei Co, explained how the studio is working with local partners to globalize its long-established IP, as well as innovating in areas including GenAI and gaming, in a keynote Forum session at Taiwan Creative Content Fest (TCCF). In 2023, the 75-year-old studio launched an ambitious $2BN ‘Toei New Wave’ plan [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/kamen-rider-toei-gen-ai-gaming-dear-stranger-iris-1237215381",
+    "published_at": "2026-11-07T07:55:02+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Fumio-Yoshimura.jpg",
+    "collection_timestamp": "2026-11-07T13:44:39.650616+00:00",
+    "thin": false,
+    "author": "Liz Shackleton",
+    "tags": [
+      "News",
+      "Dear Stranger",
+      "Kamen Rider",
+      "Mighty Morphin Power Rangers",
+      "TCCF",
+      "Toei"
+    ]
+  },
+  {
+    "id": "a9fe86962bf2ec489e3bd4131871b61969bb143f81b7dbe7e76b9dccdb29e9ff",
+    "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+    "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+    "published_at": "2026-11-07T07:30:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T13:44:39.653095+00:00",
+    "thin": false,
+    "author": "Robert Hart",
+    "tags": [
+      "AI",
+      "Anthropic"
+    ]
+  },
+  {
+    "id": "6e26b32ab7b142229c21f01fe70fb573272702afa0b9d07159dfc0b8a4b4d745",
+    "title": "I left Man City for my mental wellbeing - Trafford",
+    "summary": "James Trafford says not playing for Manchester City last season was \"horrendous\" and left him with no choice but to leave the club and join Leeds United in the summer.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo",
+    "published_at": "2026-11-07T07:16:37+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef3/live/6773ae50-da1c-11f1-b441-2b33b063138f.jpg",
+    "collection_timestamp": "2026-11-07T13:44:39.656606+00:00",
+    "thin": false
+  },
+  {
+    "id": "a82c40124e082b210f1ff8a234613afa30658b9af2577e7d063e6e7ca820a7be",
+    "title": "Who am I? Plus today's other quizzes",
+    "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cwg5jj21e519o",
+    "published_at": "2026-11-07T06:53:35+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+    "collection_timestamp": "2026-11-07T13:44:39.657425+00:00",
     "thin": false
   },
   {
@@ -77,6 +759,34 @@
       "Las Vegas",
       "Metallica",
       "Sphere"
+    ]
+  },
+  {
+    "id": "7a04d89818ce4c8ba848ca732e95a8bb2e2de4caf18110598193a8b0794e7188",
+    "title": "The race is on to build the first fusion power plant — and Europe is looking to Japan for help",
+    "summary": "Fusion energy has the potential to provide abundant, clean power. Now, the race is on to develop the world’s first commercial plant.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/proxima-fusion-power-japan-supply-chain.html",
+    "published_at": "2026-11-07T06:00:01+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T13:44:39.656345+00:00",
+    "thin": false
+  },
+  {
+    "id": "790e3b33ab891b76aee807039bfc44d30c328fb3dd85137609b16df550f91602",
+    "title": "No explanation",
+    "summary": "&#32; submitted by &#32; /u/helldor08 &#32; to &#32; r/Caldruki [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/Caldruki/comments/1xpyea5/no_explanation",
+    "published_at": "2026-11-07T05:21:26+00:00",
+    "image_url": "https://preview.redd.it/ogg8ebgyk40i1.jpeg",
+    "collection_timestamp": "2026-11-07T13:44:39.660338+00:00",
+    "thin": true,
+    "author": "/u/helldor08https://www.reddit.com/user/helldor08",
+    "tags": [
+      "Caldruki"
     ]
   },
   {
@@ -295,6 +1005,22 @@
       "HBO",
       "midterm elections",
       "Real Time With Bill Maher"
+    ]
+  },
+  {
+    "id": "fbee095a429073a754cdbadf8bfd9237f697c3a9d69e9926e0a08d26c44250a9",
+    "title": "What is the worst movie you’ve ever watched?",
+    "summary": "&#32; submitted by &#32; /u/untitledprp4 &#32; to &#32; r/SipsTea [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/SipsTea/comments/1xpw5kc/what_is_the_worst_movie_youve_ever_watched",
+    "published_at": "2026-11-07T03:19:13+00:00",
+    "image_url": "https://preview.redd.it/asvto9i5z30i1.jpeg",
+    "collection_timestamp": "2026-11-07T13:44:39.663911+00:00",
+    "thin": false,
+    "author": "/u/untitledprp4https://www.reddit.com/user/untitledprp4",
+    "tags": [
+      "SipsTea"
     ]
   },
   {
@@ -595,6 +1321,18 @@
     ]
   },
   {
+    "id": "460e4756ceaab052a4afa6cd8f43b669a531581d19bd96bec42badadb2eea735",
+    "title": "Inside the card-grading empire shaping the price of Pokémon cards",
+    "summary": "PSA’s resale premium, backlog and grading-market dominance shape what collectors pay — and how much their Pokémon cards may fetch.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/06/card-pokemon-grading-psa-collectors-price.html",
+    "published_at": "2026-11-07T02:00:01+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T13:44:39.656183+00:00",
+    "thin": false
+  },
+  {
     "id": "fbae0868080f23c0c39e580a378dc829718274575356de49332a3cf379a713e5",
     "title": "Baby Honeysuckle versus 4 year old Honeysuckle",
     "summary": "I don&#39;t know if you can tell from the photos, but she is the neediest most lovable cat I&#39;ve ever met in my life! &#32; submitted by &#32; /u/babysuckle &#32; to &#32; r/cats [link] &#32; [comments]",
@@ -649,6 +1387,22 @@
       "Obituaries",
       "Ellen DeGeneres",
       "Matthew Wright"
+    ]
+  },
+  {
+    "id": "f5cbbd935aa514296499b777fd227ee92abf32db6ebed5f7ec96ecafb89f1b91",
+    "title": "T1 vs. Karmine Corp / World Championship 2026 Knockout Stage - Quarterfinals / Post-Match Discussion",
+    "summary": "WORLDS 2026 PLAYOFFS Official page | Leaguepedia | Liquipedia | Eventvods.com | New to LoL T1 3-1 Karmine Corp - T1 advance to the Semifinals and will face Bilibili Gaming! - Karmine Corp have been eliminated from the tournament. T1 | Leaguepedia | Liquipedia | Website | Twitter | Facebook | YouTube | Subreddit KC | Leaguepedia | Liquipedia | Website | Twitter | Facebook | YouTube MATCH 1: T1 vs. KC Winner: T1 in 35m Game Breakdown - Bans 1 Bans 2 G K T D/B T1 cassiopeia vi qiyana wukong pantheo",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/leagueoflegends/comments/1xpu9u9/t1_vs_karmine_corp_world_championship_2026",
+    "published_at": "2026-11-07T01:42:43+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T13:44:39.663235+00:00",
+    "thin": false,
+    "author": "/u/adz0rhttps://www.reddit.com/user/adz0r",
+    "tags": [
+      "leagueoflegends"
     ]
   },
   {
@@ -1010,824 +1764,6 @@
       "Taiwan Creative Content Fest",
       "TCCF",
       "Wilderness of the Greenriver"
-    ]
-  },
-  {
-    "id": "58bfd636e3863578c4a4629e7ea57214c9431cc65e76c8339c69ed62115e8e0b",
-    "title": "Paul Howard, Son of Moe Howard of The Three Stooges, Dies at 91",
-    "summary": "He connected with fans of the iconic comedy act at conventions and hosted a nine-part 2015 docuseries called ‘Hey Moe, Hey Dad!’",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/paul-howard-dead-three-stooges-moe-howard-1236749877",
-    "published_at": "2026-11-06T23:57:33+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-07T00:50:14.675211+00:00",
-    "thin": false,
-    "author": "Mike Barnes",
-    "tags": [
-      "Movie News",
-      "Movies",
-      "Obituaries",
-      "The Three Stooges"
-    ]
-  },
-  {
-    "id": "1a96e6fe6f99a40e66ee444e5dbaf26f910d4807c9b5d1d1ac04369f3e224ea8",
-    "title": "Six tries and a big win - but were Ireland ruthless?",
-    "summary": "Despite a six-try and 30-point win over Argentina, Andy Farrell and Tadhg Beirne admit Ireland could have been more ruthless in Friday's win.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmde88ppx39go",
-    "published_at": "2026-11-06T23:57:05+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/238a/live/a0d1cbc0-da3d-11f1-a9ed-ff1feb533701.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.686075+00:00",
-    "thin": false
-  },
-  {
-    "id": "c582a94bc03b54ea1f18a77992808ab64fd5fc40ab678499aee51a7ff56116d4",
-    "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
-    "summary": "Kiernan Dewsbury-Hall responds to his England omission by scoring a stunning goal to inspire Everton's 3-1 comeback victory over Coventry City.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go",
-    "published_at": "2026-11-06T23:53:06+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8417/live/c55f7ff0-da38-11f1-bde4-c13870167801.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.685365+00:00",
-    "thin": false
-  },
-  {
-    "id": "007d3f869fe1345d02cc0345772f66acdc5538bc3922417d11af6c4f699680b5",
-    "title": "Lasso Breaks Down 5 Essential Tracks From His New Album ‘Objetos Frágiles en Ambientes Hostiles’",
-    "summary": "\"It’s a dedication to anyone who’s trying to achieve their dreams,\" the Venezuelan singer/songwriter tells Billboard Español .",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/lists/lasso-album-objetos-fragiles-ambientes-hostiles-essential-tracks",
-    "published_at": "2026-11-06T23:49:01+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-07T00:50:14.677268+00:00",
-    "thin": false,
-    "author": "Sigal Ratner-Arias",
-    "tags": [
-      "Latin",
-      "Music",
-      "genre latin",
-      "interview",
-      "new album",
-      "New Music Latin"
-    ]
-  },
-  {
-    "id": "6ea59bc6d00268a9783880c9ea3b1e579c3b809bb5030c8b0664855a4f0e4d61",
-    "title": "Paul Howard, Son of Moe Howard of The Three Stooges, Dies at 91",
-    "summary": "Paul Howard, son of The Three Stooges&#8217; Moe Howard, died earlier this week in Manhattan. He was 91. Paul Howard remained a guardian of his father&#8217;s legacy throughout his life, meeting generations of Stooges fans at conventions and events where he shared personal stories, family memories and insights into the life of Moe Howard. In [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/news/paul-howard-dead-moe-howard-three-stooges-1236941772",
-    "published_at": "2026-11-06T23:41:24+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/Paul-Howard-JPG-1.jpeg",
-    "collection_timestamp": "2026-11-07T00:50:14.669908+00:00",
-    "thin": false,
-    "author": "Pat Saperstein",
-    "tags": [
-      "News",
-      "Obituaries",
-      "People News",
-      "The Three Stooges"
-    ]
-  },
-  {
-    "id": "0cc02cfb41a48183495e6a1d30f07fce55a215f61e2eb2d1442865330a01472a",
-    "title": "Lincoln Celebrated the Art of Rejuvenation at Billboard Latin Music Week",
-    "summary": "From wellness retreats to sensory experiences, Lincoln invited attendees to recharge amid the excitement of Miami",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/features/lincoln-at-latin-music-week-2026-1236376803",
-    "published_at": "2026-11-06T23:39:51+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-07T00:50:14.677433+00:00",
-    "thin": false,
-    "author": "Walaa Elsiddig",
-    "tags": [
-      "Features",
-      "Music",
-      "LincolnCustomContent2026"
-    ]
-  },
-  {
-    "id": "a42bce9a228138f825a858c03b79b7a4c69d14c6931c340fd44feb1dfdd05149",
-    "title": "Leicester hold nerve to knock out sixth-tier Oxford City",
-    "summary": "League One side, and 2021 champions, Leicester City avoid an upset as they beat sixth-tier Oxford City 4-2 at the MGroup Stadium, to reach the second round of the FA Cup.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c8qlnn4dvp3yo",
-    "published_at": "2026-11-06T23:37:23+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38fa/live/ceecfd10-da2c-11f1-a701-fddedf244c16.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.687209+00:00",
-    "thin": false
-  },
-  {
-    "id": "c95ca57a7808a61018874f4ef6e130d2a10760aa6d67da396231d682c5547897",
-    "title": "‘Jimmy’ Review: Cornball James Stewart Biopic Gets the Manner, but Not the Man",
-    "summary": "As one of Hollywood&#8217;s staunchest Republicans, the late James Stewart perhaps wouldn&#8217;t be rolling in his grave in response to &#8220;Jimmy,&#8221; a biopic that — in focusing rather less on his artistry than on his military service — paints him in a glowingly conservative light. But either way, he deserves better than this hokey, superficial [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/news/jimmy-review-2-1236941643",
-    "published_at": "2026-11-06T23:35:11+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/10/KJ-Apa-as-Colonel-Jimmy-Stewart-in-JIMMY.-Photo-courtesy-of-Burns-Co.-2026-JIMMY-The-Movie-LLC-All-Rights-Reserved.-1000.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.670172+00:00",
-    "thin": false,
-    "author": "Guy Lodge",
-    "tags": [
-      "News",
-      "Reviews",
-      "Aaron Burns",
-      "James Stewart",
-      "Jimmy",
-      "KJ Apa"
-    ]
-  },
-  {
-    "id": "4837e4395b56a6aeaa0b4cfc3ad24aa6b00484c1c5263d9893d3aa01168f1dd5",
-    "title": "Olivia Rodrigo’s ‘Take Me Home (4 Christmas)’ Effusively Endorsed by Writer of the Waitresses’ ‘Christmas Wrapping,’ Who Praises Her for Picking Up the ‘Vibe’ 45 Years Later",
-    "summary": "Olivia Rodrigo&#8217;s first holiday single, &#8220;Take Me Home (4 Christmas),&#8221; earned plenty of plaudits upon coming out of the gate late Thursday night — none greater than that offered by Chris Butler, the writer of the Waitresses&#8217; classic 1981 song &#8220;Christmas Wrapping,&#8221; who said he&#8217;d been offered a sneak peek two months ago by Rodrigo. [&#8230;]",
-    "category": "technology",
-    "source": "Variety",
-    "url": "https://variety.com/2026/music/news/olivia-rodrigo-christmas-praised-writer-waitresses-wrapping-1236941752",
-    "published_at": "2026-11-06T23:34:20+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/MixCollage-06-Nov-2026-02-51-PM-4964.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.670452+00:00",
-    "thin": false,
-    "author": "Chris Willman",
-    "tags": [
-      "News",
-      "Chris Butler",
-      "Olivia Rodrigo",
-      "the Waitresses"
-    ]
-  },
-  {
-    "id": "0360c34a5cec07f788ed0470de001112c6542b6c167ab956ece45542ef03c586",
-    "title": "Natalia Dyer, Elijah Wood to Join John Cusack and Samuel L. Jackson in ‘1408’ Sequel From Director Mikael Håfström (EXCLUSIVE)",
-    "summary": "Natalia Dyer and Elijah Wood are set to join original cast members Samuel L. Jackson and John Cusack, who are currently negotiating the terms of their return, in a sequel to the 2007 supernatural horror film “1408,&#8221; Variety can reveal exclusively. Mikael Håfström, who directed the first film, returns to helm the sequel, which he [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/news/1408-sequel-natalia-dyer-elijah-wood-samuel-l-jackson-1236921735",
-    "published_at": "2026-11-06T23:34:05+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/MixCollage-06-Nov-2026-02-59-PM-7046.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.670717+00:00",
-    "thin": false,
-    "author": "Jack Dunn",
-    "tags": [
-      "News",
-      "John Cusack",
-      "Samuel L. Jackson"
-    ]
-  },
-  {
-    "id": "b5cfc2e727cefb6359c07d3bf8b3c4e43b9f844e5b30ef249c8a0a7d5976b179",
-    "title": "Alien Cat Sent to Conquer Earth Goes Soft for Catnip and Canned Tuna in Taiwan Creative Content Fest Animated Series ‘Operation Maomao’",
-    "summary": "An alien cat sent to seize Earth’s catnip supply gets sidetracked by a cozy couch and a steady diet of canned tuna in “Operation Maomao,” an animated sci-fi comedy series from Shaogao creator Jonathan Yu that is at the Taiwan Creative Content Fest (TCCF) in Taipei. The planned 26-episode series, with seven-minute installments, follows Agent [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/tv/markets-festivals/alien-cat-comedy-operation-maomao-taiwan-creative-content-fest-1236941796",
-    "published_at": "2026-11-06T23:33:20+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/Operation-Maomao-concept-art.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.671008+00:00",
-    "thin": false,
-    "author": "Naman Ramachandran",
-    "tags": [
-      "Asia",
-      "Global",
-      "Markets & Festivals",
-      "News",
-      "Operation Maomao",
-      "Shaogao",
-      "Taiwan Creative Content Fest"
-    ]
-  },
-  {
-    "id": "51b37f888c9dd14d962a110b0343873d545f4729d2188e8eaf73d13966fe8180",
-    "title": "Kansas Sen.-elect Adam Hamilton stands by promise not to support Chuck Schumer for leadership",
-    "summary": "&#32; submitted by &#32; /u/Brinwalk42 &#32; to &#32; r/politics [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/politics/comments/1xprhrg/kansas_senelect_adam_hamilton_stands_by_promise",
-    "published_at": "2026-11-06T23:29:50+00:00",
-    "image_url": "https://external-preview.redd.it/6FCbbGFhNPO9CbRtWq4K4xNCamMgVJ-jzS5NUB5I_Y4.jpeg",
-    "collection_timestamp": "2026-11-07T06:50:21.903379+00:00",
-    "thin": false,
-    "author": "/u/Brinwalk42https://www.reddit.com/user/Brinwalk42",
-    "tags": [
-      "politics"
-    ]
-  },
-  {
-    "id": "ddf1531d2e29931ebc74224eeeaa07f6ae1a10ef3a6fa707f8a6c99ecea7269e",
-    "title": "Bristol Rovers shock Cambridge United to reach round two",
-    "summary": "League Two side Bristol Rovers end a run of six matches without a win, as they shock League One side Cambridge United, beating them 2-0 at the Memorial Stadium, to reach the second round of the FA Cup.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cxdd88g97lm7o",
-    "published_at": "2026-11-06T23:26:39+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7858/live/c81678b0-da2f-11f1-a701-fddedf244c16.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.687383+00:00",
-    "thin": false
-  },
-  {
-    "id": "4e999c81b27c33779d0b1d2717bc398f35b1dab24d3c3e78887b6d76156a3720",
-    "title": "Lampard feels hair pull should have led to Coventry penalty",
-    "summary": "Coventry had a trio of decisions go against them in defeat at Everton, with Frank Lampard suggesting a hair pull should have been a penalty.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo",
-    "published_at": "2026-11-06T23:22:21+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f45/live/bd3a26b0-da36-11f1-bde4-c13870167801.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.685530+00:00",
-    "thin": false
-  },
-  {
-    "id": "62d4bb25a8b571690fcf78f6ca1dc0a466e150e7226861558c7f19b7e3522462",
-    "title": "The Other Midterms Flip: Broadcast Networks, Led by NBC, Dominated Election Night Coverage",
-    "summary": "Broadcasters accounted for 57 percent of primetime viewing on Tuesday.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/tv/tv-news/broadcast-networks-nbc-midterm-elections-tv-ratings-1236749456",
-    "published_at": "2026-11-06T23:18:41+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-07T00:50:14.675377+00:00",
-    "thin": false,
-    "author": "Rick Porter",
-    "tags": [
-      "TV",
-      "TV News",
-      "Midterms 2026",
-      "NBC News",
-      "TV Ratings"
-    ]
-  },
-  {
-    "id": "9398d042765722962ee9c89f7359f3460197c1f2d3f7c0c1e30dc1631485089b",
-    "title": "AI’s Hidden Footprint, From Quartz Mines to Kenyan Click-Workers, Bared in Taiwan Creative Content Fest Doc ‘The Technological Sublime’",
-    "summary": "Talk of artificial intelligence tends to float somewhere up in the cloud. “The Technological Sublime,” a documentary from director Jannes Callens that heads to the Taiwan Creative Content Fest (TCCF) in Taipei, brings it back down to earth. The film follows the physical supply chain that keeps AI running, starting at quartz mines in the [&#8230;]",
-    "category": "technology",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/markets-festivals/ai-hidden-supply-chain-doc-taiwan-creative-content-fest-1236941783",
-    "published_at": "2026-11-06T23:18:22+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/The-Technological-Sublime-concept-art.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.671293+00:00",
-    "thin": false,
-    "author": "Naman Ramachandran",
-    "tags": [
-      "Asia",
-      "Global",
-      "Markets & Festivals",
-      "News",
-      "Spotlight",
-      "AI",
-      "Taiwan Creative Content Fest",
-      "TCCF",
-      "The Technological Sublime"
-    ]
-  },
-  {
-    "id": "4d9293fde5677ac9ffa9c670e76b28972da05ee723bce8ac8c750331342c4533",
-    "title": "The absolute discipline of a fully trained service dog handling air travel perfectly",
-    "summary": "&#32; submitted by &#32; /u/Main_Locksmith_2543 &#32; to &#32; r/BeAmazed [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/BeAmazed/comments/1xpr8jy/the_absolute_discipline_of_a_fully_trained",
-    "published_at": "2026-11-06T23:17:46+00:00",
-    "image_url": "https://external-preview.redd.it/ZGw3NnRoZDJzMjBpMSi76jUNlMkNJJiKE2wdTK5wkjsNXSGJ1rPe7QCuUuu4.jpeg",
-    "collection_timestamp": "2026-11-07T06:50:21.902430+00:00",
-    "thin": false,
-    "author": "/u/Main_Locksmith_2543https://www.reddit.com/user/Main_Locksmith_2543",
-    "tags": [
-      "BeAmazed"
-    ]
-  },
-  {
-    "id": "3473e439b54bac34856b74eb43b89ed1e7a1e19409847dd912f6aad69729e7a9",
-    "title": "‘One Night In Purgatory’ Sets Cast: Alejandro Edda, Nick Stahl, Michelle Mylett and Grace Dove to Star in Supernatural Horror Film (EXCLUSIVE)",
-    "summary": "An archangel ends up in a grungy dive bar in a new indie horror movie. “One Night In Purgatory” is the debut feature from writer-director Robert Husted and stars Alejandro Edda (“Ha-Chan, Shake Your Booty!”), Nick Stahl (“Sin City”), Grace Dove (“The Revenant”) and Michelle Mylett (“Letterkenny”). Per the official synopsis, the movie “follows a [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/news/one-night-in-purgatory-cast-alejandro-edda-nick-stahl-1236941721",
-    "published_at": "2026-11-06T23:16:35+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/split-image-1000-1-5.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.671570+00:00",
-    "thin": false,
-    "author": "William Earl",
-    "tags": [
-      "News",
-      "Alejandro Edda",
-      "grace dove",
-      "Nick Stahl",
-      "One Night In Purgatory"
-    ]
-  },
-  {
-    "id": "0df5534dd455e278bf35fb7c1e991cc891f220e7003de5fa2c729b9050408f16",
-    "title": "Whole Australia team knew of sandpaper use - Khawaja",
-    "summary": "Usman Khawaja claims the entire Australia team knew about the use of sandpaper to tamper with the ball in the final Test of their 2018 series with South Africa.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo",
-    "published_at": "2026-11-06T23:11:56+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/29b455a0-da27-11f1-a78c-49bd6dfbb9b5.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.685704+00:00",
-    "thin": false
-  },
-  {
-    "id": "1ba329879d5179e046d3defd62151583a6d35d4c3b69e31d4850392a3d282081",
-    "title": "Fox Agrees to Keep Roku Open to Rivals in Justice Department Greenlight",
-    "summary": "The deal gives Fox control over a platform that's the gateway to content for millions of households.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/business/business-news/fox-roku-open-justice-department-greenlight-1236749839",
-    "published_at": "2026-11-06T23:09:58+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-07T00:50:14.675535+00:00",
-    "thin": false,
-    "author": "Winston Cho",
-    "tags": [
-      "Business",
-      "Business News",
-      "Roku"
-    ]
-  },
-  {
-    "id": "8e5c0e2e6ed4bad92e1849aa35771d594e15f6ede88022526469a971bf9b281b",
-    "title": "Albert Brooks Predicted Ozempic. Now He’s Predicting President Ossoff",
-    "summary": "In his 2011 novel 'Twenty Thirty,' he imagined a blockbuster weight-loss drug, a generational war — and a Jewish president. \"God damn it,\" he recently told a friend. \"My entire book is going to come true.”",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/news/politics-news/albert-brooks-jon-ossoff-jewish-president-2030-1236749773",
-    "published_at": "2026-11-06T23:06:09+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-07T00:50:14.675743+00:00",
-    "thin": false,
-    "author": "Seth Abramovitch",
-    "tags": [
-      "News",
-      "Politics News",
-      "Albert Brooks",
-      "Election 2026",
-      "Jon Ossoff"
-    ]
-  },
-  {
-    "id": "bd5e0f244b90fac08fd4cef6747f47870588a86609fbf8aecc1efd9cb32e703c",
-    "title": "Justin Timberlake Teases New Music: “I’ve Been Chef-ing”",
-    "summary": "The Grammy- and Emmy-winning singer hints at fresh material he's worked on with Don Toliver, Quavo, Pharrell and Timbaland and explains why he was originally told hit \"SexyBack\" wasn't \"gonna work.\"",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/music/music-news/justin-timberlake-teases-new-music-sexyback-label-dispute-1236749834",
-    "published_at": "2026-11-06T23:05:01+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-07T00:50:14.675960+00:00",
-    "thin": false,
-    "author": "Hilary Lewis",
-    "tags": [
-      "Music",
-      "Music News",
-      "Justin Timberlake",
-      "Pharrell",
-      "Pharrell Williams",
-      "Quavo",
-      "Timbaland"
-    ]
-  },
-  {
-    "id": "1f30e9255887af61900270ffc7117939e5daa6ecb467e0e529bd76425ae5eeb5",
-    "title": "In Canada: Faouzia to Accept the Breakthrough Award at Billboard Canada Women in Music 2026",
-    "summary": "Also up north this week: Angine de Poitrine reveals a third member at a Toronto concert and SOCAN joins GEMA's live music royalty network.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/pro/faouzia-award-billboard-canada-women-in-music-news",
-    "published_at": "2026-11-06T23:00:51+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-07T00:50:14.677617+00:00",
-    "thin": false,
-    "author": "Chris Eggertsen",
-    "tags": [
-      "Business",
-      "Business News",
-      "Billboard Canada",
-      "Billboard Canada Women in Music",
-      "Canada",
-      "In Canada",
-      "International",
-      "Music News"
-    ]
-  },
-  {
-    "id": "e465043118f07479cc71b5859ebaccc8c0b74ab057a5f25b0dafcc0e172985a7",
-    "title": "Blackpink’s Jisoo Signs With WME for Worldwide Representation",
-    "summary": "Jisoo, the singer and actor best known as a member of K-pop group Blackpink, has signed with talent agency WME, which will represent her worldwide. The deal comes as Jisoo builds out her solo music career. Last week she released “Addicted,” a moody dance-pop number about being powerless against attraction. The track has hit the [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/music/news/blackpink-jisoo-signs-wme-worldwide-representation-1236941763",
-    "published_at": "2026-11-06T22:57:18+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/Jisoo.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.671839+00:00",
-    "thin": false,
-    "author": "Naman Ramachandran",
-    "tags": [
-      "Asia",
-      "Global",
-      "News",
-      "blackpink",
-      "Jisoo",
-      "WME",
-      "Zayn"
-    ]
-  },
-  {
-    "id": "345e73dfeae547ed5096fcaa155daeaa719bd447462d1d5ea2346619785cbb46",
-    "title": "The Return of the Epstein Files",
-    "summary": "&#32; submitted by &#32; /u/danevans369 &#32; to &#32; r/SipsTea [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/SipsTea/comments/1xpqnh1/the_return_of_the_epstein_files",
-    "published_at": "2026-11-06T22:51:33+00:00",
-    "image_url": "https://preview.redd.it/rs36h4pdn20i1.png",
-    "collection_timestamp": "2026-11-07T00:50:14.690211+00:00",
-    "thin": false,
-    "author": "/u/danevans369https://www.reddit.com/user/danevans369",
-    "tags": [
-      "SipsTea"
-    ]
-  },
-  {
-    "id": "6b4e727931b4a16b8c6dc392f207aad4536f4b9406e93cb4af30a6095972ba76",
-    "title": "New York Knicks Defend Taylor Swift After Player Tyler Kolek Calls Her a “Performative” Fan",
-    "summary": "A Knicks spokesperson said the singer \"has been a Knicks fan for many years,\" while Kolek's girlfriend also weighed in on his comments.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/news/general-news/new-york-knicks-defend-taylor-swift-tyler-kolek-1236749740",
-    "published_at": "2026-11-06T22:46:41+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-07T00:50:14.676147+00:00",
-    "thin": false,
-    "author": "Lexi Carson",
-    "tags": [
-      "General News",
-      "News",
-      "Madison Square Garden",
-      "New York Knicks",
-      "Taylor Swift"
-    ]
-  },
-  {
-    "id": "afae58eb0a51fcaf3a20abcc28184c760cea858a367b3b65f8d2607584fc855f",
-    "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
-    "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump",
-    "published_at": "2026-11-06T22:41:37+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Iranian-oil-tanker-and-flag-1152x648.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.682069+00:00",
-    "thin": false,
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Tech",
-      "donald trump iran war",
-      "Iran",
-      "Iran Revolutionary Guard Corps",
-      "subsea cable",
-      "subsea cables",
-      "undersea cable",
-      "undersea cable cuts",
-      "undersea cables",
-      "USA-Iran War"
-    ]
-  },
-  {
-    "id": "a30b8a7208ac30bdb16aec43279c91f87f876d955cbddc0fa0dac73eb6ef65df",
-    "title": "'Big decisions' affected the game - Lampard",
-    "summary": "Coventry City head coach Frank Lampard is frustrated after three \"big decisions\" went against his side in their 3-1 defeat by Everton at the Hill Dickinson Stadium.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cm74ppwz9yewo",
-    "published_at": "2026-11-06T22:40:58+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d19/live/d3d66860-da32-11f1-b441-2b33b063138f.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.687546+00:00",
-    "thin": false
-  },
-  {
-    "id": "fff8af79b7e1a46c2751fb29ae25daec015d80ec64a990bada9e85f1e7ec02c1",
-    "title": "🔥 A mole on the move in a rainstorm",
-    "summary": "&#32; submitted by &#32; /u/Arro &#32; to &#32; r/NatureIsFuckingLit [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/NatureIsFuckingLit/comments/1xpqeca/a_mole_on_the_move_in_a_rainstorm",
-    "published_at": "2026-11-06T22:40:11+00:00",
-    "image_url": "https://external-preview.redd.it/aDRsdjYwczdsMjBpMULrXQj4Assl-w-uDO3het7WiZwyykAok9ngWt4PzS_W.png",
-    "collection_timestamp": "2026-11-07T00:50:14.690937+00:00",
-    "thin": false,
-    "author": "/u/Arrohttps://www.reddit.com/user/Arro",
-    "tags": [
-      "NatureIsFuckingLit"
-    ]
-  },
-  {
-    "id": "dcbfeb0685574e83777ee33cf68ce327585d5ad519b85dfc8e2ae79ea3da639b",
-    "title": "All Happy Mask Shop buyer locations in Zelda Ocarina of Time",
-    "summary": "This guide walks you through each step of Ocarina of Time's Happy Mask Shop quest, including who gets the Spooky Mask, Skull Mask, and Bunny Hood",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/zelda-ocarina-of-time-happy-mask-shop-spooky-skull-bunny-hood",
-    "published_at": "2026-11-06T22:38:46+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ocarina-of-time-happy-mask-shop-quest.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.683163+00:00",
-    "thin": false,
-    "author": "Josh Broadwell",
-    "tags": [
-      "Guides",
-      "The Legend of Zelda: Ocarina of Time"
-    ]
-  },
-  {
-    "id": "35e8da0a4681d9ec75aced238c18a1bdf726f0b44430798ed27263963a4b9fb9",
-    "title": "Alcaraz beats Fritz to help Jodar reach ATP finals",
-    "summary": "Carlos Alcaraz saves two match points to beat Taylor Fritz in the Paris Masters quarter-finals - a result which helped Spanish compatriot Rafael Jodar qualify for the ATP finals.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/tennis/articles/c6e9lldl3lpjo",
-    "published_at": "2026-11-06T22:35:04+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0b1/live/b1030f60-da2c-11f1-ab60-69d917fc430c.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.686603+00:00",
-    "thin": false
-  },
-  {
-    "id": "e9f70fbb4734f19d670a85ddb5484efa979562c60d4e68308bd1405902425ac7",
-    "title": "Knicks Rep Thanks Taylor Swift For “Many Years” Of Fan Support After Tyler Kolek Comments",
-    "summary": "Nobody can accuse Taylor Swift of being a fake Knicks fan&#8230; not even Knicks point guard Tyler Kolek. Following Kolek&#8217;s claim that the 14x Grammy winner is a &#8220;very performative&#8221; fan of the 2026 NBA champions, a rep for the team defended Swift and thanked her for &#8220;many years&#8221; of support. &#8220;Taylor Swift has been [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/knicks-thanks-taylor-swift-many-years-fan-support-1237216026",
-    "published_at": "2026-11-06T22:34:45+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2281110193.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.672591+00:00",
-    "thin": false,
-    "author": "Glenn Garner",
-    "tags": [
-      "News",
-      "Sports",
-      "Knicks",
-      "New York Knicks",
-      "Taylor Swift",
-      "Tyler Kolek"
-    ]
-  },
-  {
-    "id": "28a7b27086c4afe20d85167d25b07fa7e4e44cceaf6581058a463634a8270b92",
-    "title": "Barry scores twice as Everton fight back to beat Coventry",
-    "summary": "In-form Thierno Barry scores twice as Everton came from behind to beat Coventry as the Toffees move into fifth in the Premier League table.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo",
-    "published_at": "2026-11-06T22:30:12+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e94/live/6dde44f0-da2e-11f1-a701-fddedf244c16.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.686400+00:00",
-    "thin": false
-  },
-  {
-    "id": "1dea0c422c6ae5005fca9941ede616bbf3b07706f6fbcd64c7dc5742d2a8969e",
-    "title": "WTA chair apologises to Pegula for airing of 'diva' comment",
-    "summary": "WTA chair Valerie Camillo apologises to Jessica Pegula after her \"diva\" comment about Mirra Andreeva was live-streamed.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/tennis/articles/ckpdgg87ye3po",
-    "published_at": "2026-11-06T22:28:43+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9fc/live/18726650-da2d-11f1-ab60-69d917fc430c.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.686236+00:00",
-    "thin": false
-  },
-  {
-    "id": "968b29f5963724c5a88e13d9dfa8740662ab50f3e5d813a85f3a5814c9d52e43",
-    "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
-    "summary": "Voters across the country on Tuesday voiced their support for candidates who have pledged to place restrictions on data center development.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
-    "published_at": "2026-11-06T22:25:58+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-07T00:50:14.684622+00:00",
-    "thin": false
-  },
-  {
-    "id": "ca9aac5bf2919bbbc4431c20600308647cf442d86d999c5ae50f8b231c7c70a5",
-    "title": "Idris Elba To Star In & Direct Action-Comedy ‘In Laws’; A Higher Standard Launching For AFM",
-    "summary": "EXCLUSIVE: Golden Globe winner and BAFTA and Emmy nominee Idris Elba is set to star in and direct the action-comedy In Laws, which A Higher Standard is launching for sales ahead of the American Film Market. Principal photography is scheduled to start in March 2027 in Spain. Additional casting is in process. In Laws &#8220;follows [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/idris-elba-to-star-in-direct-action-comedy-in-laws-1237216006",
-    "published_at": "2026-11-06T22:15:42+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/idris-elba.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.672837+00:00",
-    "thin": false,
-    "author": "Andreas Wiseman",
-    "tags": [
-      "News",
-      "AFM",
-      "Idris Elba",
-      "In Laws"
-    ]
-  },
-  {
-    "id": "8b6e99de0e70aa0948da2a575621fcf23b062888f4035b9e81b69ba918d20381",
-    "title": "Teddy Swims’ ‘Mr. Know It All’ Hits No. 1 on Billboard Pop Airplay Chart",
-    "summary": "The singer-songwriter scores his second leader at the format, after “Lose Control” in 2024.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/chart-beat/teddy-swims-mr-know-it-all-pop-airplay-number-one-1236376758",
-    "published_at": "2026-11-06T22:15:06+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-07T00:50:14.677810+00:00",
-    "thin": false,
-    "author": "Gary Trust",
-    "tags": [
-      "Chart Beat",
-      "Music",
-      "genre pop",
-      "Music News"
-    ]
-  },
-  {
-    "id": "b8973fa4687dee78d21c6bf83d0a672b4e8ee41617ed47c45977e2b9fe2c5cb5",
-    "title": "Where to get Epona in Ocarina of Time",
-    "summary": "Epona is your horse in Ocarina of Time, but they're only available after you get a bit older. Here's where you can find Epona, and how to unlock her.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-epona-horse-how-to-get",
-    "published_at": "2026-11-06T22:13:04+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/epona-2_oot.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.683332+00:00",
-    "thin": false,
-    "author": "Johnny Yu",
-    "tags": [
-      "Guides",
-      "The Legend of Zelda: Ocarina of Time"
-    ]
-  },
-  {
-    "id": "c1f5e2addd609b43f93a37eda6e9669ccd6fa7436c31f76ffb357aa11031b79e",
-    "title": "Slick Saints beat Prem Rugby Cup holders Leicester",
-    "summary": "Northampton keep their hopes of reaching the Prem Rugby Cup semi-finals alive with a dominant derby win over Leicester.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cr2kewvk8exvo",
-    "published_at": "2026-11-06T22:11:54+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/874c/live/62ccd3d0-da22-11f1-bba7-b50f1faa7672.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.687760+00:00",
-    "thin": false
-  },
-  {
-    "id": "c8d481e7e5e588e151140b69990608572d56d779b99767701530590a58e1c09b",
-    "title": "‘Godzilla Minus Zero’ Roars Toward Live-Action Foreign-Language Record $30M-$33M Opening At Domestic Box Office",
-    "summary": "FRIDAY PM UPDATE: Gkids&#8217; Godzilla Minus Zero looks to be coming in at its opening range of $30 million-$33 million after a $13.5M Friday at 3,254 theaters that includes $6.7M in previews. At that level, that&#8217;s not only the biggest-ever opening for distributor Gkids, but it also would be the biggest opening for a live-action [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/box-office-godzilla-minus-zero-cat-in-the-hat-1237215161",
-    "published_at": "2026-11-06T22:09:00+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/『ゴジラ-0.0』パブカット㉒-e1793929665158.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.673076+00:00",
-    "thin": false,
-    "author": "Anthonypauldalessandro",
-    "tags": [
-      "News",
-      "Drummer Boy",
-      "Godzilla Minus Zero",
-      "The Cat In The Hat",
-      "Wild Horse Nine"
-    ]
-  },
-  {
-    "id": "670316bcfb9b3cc63f025010dec529722787cecae26076f5466dda3dc564af33",
-    "title": "David Del Valle, Admired Historian of Horror Films, Dies at 77",
-    "summary": "He provided commentary for many home video releases and conducted what many consider to be the quintessential Vincent Price interview.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/david-del-valle-dead-horror-films-vincent-price-1236749792",
-    "published_at": "2026-11-06T22:07:24+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-07T00:50:14.676315+00:00",
-    "thin": false,
-    "author": "Mike Barnes",
-    "tags": [
-      "Movie News",
-      "Movies",
-      "Horror",
-      "Obituaries"
-    ]
-  },
-  {
-    "id": "522319421199d0fa544c94b6f4c8b09a3b58f6aeec7815907ced7a2601b1335f",
-    "title": "The Best Ugly Christmas Sweaters for Music Fans to Shop Online in 2026",
-    "summary": "With prices starting at $12, Shop Billboard picked the ugliest Christmas sweaters for all sorts of music fans.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/culture/product-recommendations/best-ugly-christmas-sweaters-2026-buy-shop-online-1236375937",
-    "published_at": "2026-11-06T22:07:10+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-07T00:50:14.677983+00:00",
-    "thin": false,
-    "author": "Rudie Obias",
-    "tags": [
-      "Culture",
-      "Product Recommendations",
-      "fashion",
-      "Holiday Gift Guide",
-      "NOADS"
-    ]
-  },
-  {
-    "id": "3259fb2199345c3852996a5e1a20c8ca69d6722d4654c1b36b6bad58053d5f4e",
-    "title": "Keenan hat-trick as six-try Ireland beat Pumas",
-    "summary": "Hugo Keenan scores a hat-trick of tries as Ireland open the home leg of the Nations Championship with a commanding bonus-point win over Argentina in Dublin.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmgellz7dn52o",
-    "published_at": "2026-11-06T22:06:12+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/300c/live/abdf7280-da2c-11f1-ab60-69d917fc430c.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.686784+00:00",
-    "thin": false
-  },
-  {
-    "id": "f632438a2fe87234e48eb7ff4e74d82fa1ec97d11ad10bd97cc6c6b068d5c0c4",
-    "title": "Raith Rovers go top with Dunfermline draw",
-    "summary": "Watch highlights as Raith Rovers take over at the top of the Scottish Championship from Partick Thistle on goal difference, with visitors Dunfermline Athletic third on the same points as the Fife derby ends goalless.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/videos/c3qjnnpr9xzno",
-    "published_at": "2026-11-06T22:06:01+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a43/live/23d437d0-da2d-11f1-b441-2b33b063138f.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.687993+00:00",
-    "thin": false
-  },
-  {
-    "id": "bb48bf43525cbf69e1ad3d1bb3dc05f14aeefff54844eed093dd1e3fc7d88fe9",
-    "title": "Incubus Frontman Brandon Boyd Making Feature Scoring Debut With Sci-Fi Thriller ‘Unknown Company’ (Exclusive)",
-    "summary": "'The Walking Dead' actor Ross Marquand is leading an ensemble of the indie feature set during World War II.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/incubus-frontman-brandon-boyd-making-feature-scoring-debut-with-sci-fi-thriller-unknown-company-exclusive-1236749151",
-    "published_at": "2026-11-06T22:01:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-07T00:50:14.676498+00:00",
-    "thin": false,
-    "author": "Borys Kit",
-    "tags": [
-      "Movie News",
-      "Movies",
-      "Incubus",
-      "The Walking Dead",
-      "X-Men 97"
-    ]
-  },
-  {
-    "id": "8c2b35e3522c47c159af47cdb0bfe3561532951c61f57b599b02209ee4d2a218",
-    "title": "10 New Movies to Watch This Weekend on Netflix, Prime Video, and Peacock (November 6 - 8)",
-    "summary": "On this weekend's movie column, there's a Bonnie and Clyde-like action thriller, a documentary, and much more.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/new-movies-streaming-this-weekend-netflix-november-6-8",
-    "published_at": "2026-11-06T22:00:17+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mcdcaca_gi011.jpg",
-    "collection_timestamp": "2026-11-07T00:50:14.683511+00:00",
-    "thin": false,
-    "author": "Maria Loreto",
-    "tags": [
-      "Polygon Lists",
-      "Carolina Caroline",
-      "Motor City",
-      "Movies",
-      "Bad Apples"
-    ]
-  },
-  {
-    "id": "603e94d7827345d9d1a83f614a6c8879a11ebdc1919f5e3ea448eaf36bb741c9",
-    "title": "Here’s Where to Watch Nebraska Cornhuskers vs. Illinois Fighting Illini Live Online Free",
-    "summary": "Livestream the Big Ten college football game on Friday, Nov. 6 — and watch possible celebrity sightings at the game too.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/culture/product-recommendations/nebraska-vs-illinois-watch-college-football-live-online-free-1236376437",
-    "published_at": "2026-11-06T22:00:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-07T00:50:14.678180+00:00",
-    "thin": false,
-    "author": "Rudie Obias",
-    "tags": [
-      "Culture",
-      "Product Recommendations",
-      "college football",
-      "Fox",
-      "how to watch",
-      "NCAA",
-      "NOADS",
-      "streaming"
     ]
   }
 ]

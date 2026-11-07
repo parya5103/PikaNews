@@ -1,13 +1,12 @@
 {
-  "timestamp": "2026-11-07T06:50:18.196805+00:00",
-  "total_fetched": 517,
-  "new_articles": 48,
-  "duplicates": 469,
-  "errors": 3,
-  "expired_articles": 1,
+  "timestamp": "2026-11-07T13:44:34.219297+00:00",
+  "total_fetched": 315,
+  "new_articles": 49,
+  "duplicates": 266,
+  "errors": 4,
+  "expired_articles": 0,
   "articles_without_valid_date": 0,
   "by_source": {
-    "Pinkvilla": 200,
     "Variety": 10,
     "Deadline": 12,
     "Hollywood Reporter": 10,
@@ -19,17 +18,17 @@
     "GameSpot": 30,
     "Polygon": 10,
     "CNBC": 30,
-    "BBC Sport": 69,
+    "BBC Sport": 67,
     "BuzzFeed World": 50,
     "Reddit Popular": 25
   },
   "by_category": {
-    "bollywood": 1,
-    "hollywood": 21,
-    "entertainment": 4,
-    "technology": 1,
-    "gaming": 5,
-    "sports": 2,
-    "trending": 14
+    "hollywood": 8,
+    "entertainment": 1,
+    "technology": 3,
+    "gaming": 7,
+    "business": 10,
+    "sports": 7,
+    "trending": 13
   }
 }

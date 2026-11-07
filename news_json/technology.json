@@ -1,5 +1,54 @@
 [
   {
+    "id": "314d82b11f5fed1a29534705277f6a19e5c9ed3c7f3f03c96214c22bea5576a2",
+    "title": "Tech companies face mounting child safety lawsuits while pushing AI into schools",
+    "summary": "Lawsuits against Snap, Meta and Google are creating headwinds for tech companies just as artificial intelligence tools expand into classrooms.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/snap-social-media-teen-safety-lawsuits.html",
+    "published_at": "2026-11-07T12:00:01+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T13:44:39.655512+00:00",
+    "thin": false
+  },
+  {
+    "id": "ea36f69bfd26ab9befadd397cc5bb2030e3f7e8e44ba65c39108a7c3f70a340a",
+    "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+    "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed",
+    "published_at": "2026-11-07T11:00:34+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156853-1024x648.jpg",
+    "collection_timestamp": "2026-11-07T13:44:39.653335+00:00",
+    "thin": false,
+    "author": "Cyrus Farivar",
+    "tags": [
+      "Security",
+      "Tech",
+      "Daniel Barton-Kennedy",
+      "sim card",
+      "soldier"
+    ]
+  },
+  {
+    "id": "a9fe86962bf2ec489e3bd4131871b61969bb143f81b7dbe7e76b9dccdb29e9ff",
+    "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+    "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+    "published_at": "2026-11-07T07:30:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T13:44:39.653095+00:00",
+    "thin": false,
+    "author": "Robert Hart",
+    "tags": [
+      "AI",
+      "Anthropic"
+    ]
+  },
+  {
     "id": "3a959914bea8826066baf775b6d77ee23629f32e130867acd707f14163a89ca1",
     "title": "Céline Dion Plays Air Bass at Metallica’s Sphere Show",
     "summary": "The singer showed off her air-bass skills during Metallica's Life Burns Faster residency at Las Vegas' Sphere.",
