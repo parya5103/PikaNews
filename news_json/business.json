@@ -1,5 +1,47 @@
 [
   {
+    "id": "c6213f658a84058459d180935f9ace57581d4fa33cacc930a50765606d6f663d",
+    "title": "Trump offers UFC chief Dana White press secretary job",
+    "summary": "President Donald Trump offered the job of press secretary to UFC president and CEO Dana White on Saturday.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+    "published_at": "2026-11-07T22:03:06+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T22:14:03.069965+00:00",
+    "thin": false
+  },
+  {
+    "id": "5c430a40d3658ca8ceff3a04cddd7fe9e6f0677bce0d1b08224e6d57105027bc",
+    "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+    "summary": "Trump ordered DOJ to examine alleged threats against Republicans while singling out Slotkin.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+    "published_at": "2026-11-07T21:59:10+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T22:14:03.070141+00:00",
+    "thin": false
+  },
+  {
+    "id": "8e1a2887cb1fcaf7c089258f6f458bd15e3a933df62a7fe5ccf94e82d1fbff75",
+    "title": "‘Full House’ Star Jodie Sweetin Says She Had ‘$190 in My Bank Account’ Before Filming ‘Fuller House’: ‘I Had to Borrow Money the First Week’",
+    "summary": "Jodie Sweetin, who first shot to fame as Stephanie Tanner on the beloved sitcom “Full House,” is opening up about her financial struggles over the years, particularly how close she came to running out of funds before returning to the show’s 2016 reboot, “Fuller House.” “I had to borrow money the first week I was [&#8230;]",
+    "category": "business",
+    "source": "Variety",
+    "url": "https://variety.com/2026/tv/news/full-house-jodie-sweetin-fuller-house-1236942080",
+    "published_at": "2026-11-07T19:01:13+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/TCDFUHO_EC032.jpg",
+    "collection_timestamp": "2026-11-07T22:14:03.064646+00:00",
+    "thin": false,
+    "author": "Payton Turkeltaub",
+    "tags": [
+      "News",
+      "Full House",
+      "Fuller House"
+    ]
+  },
+  {
     "id": "9d26e1704a962e333459d60c8ba0101e17016139cd45548cda273f057824ebe0",
     "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
     "summary": "Dave Wehner, Meta’s chief strategy officer, is leaving the company to become CFO of Fireworks, the AI infrastructure startup valued at $17.5 billion in July.",
