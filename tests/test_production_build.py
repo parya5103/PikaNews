@@ -267,6 +267,24 @@ def test_contact_request_form_is_honest():
         "editorial policy must document the request review workflow"
 
 
+def test_no_visitor_facing_github_links():
+    """Visitor-facing pages must not link to GitHub.
+
+    The official visitor support channel is the GoGo Company email
+    (officialgogocompany@gmail.com). Developer docs, workflows and scripts
+    are exempt; published frontend pages are not.
+    """
+    for path in all_html_pages():
+        name = os.path.basename(path)
+        content = read(name)
+        assert "github.com/parya5103" not in content, \
+            f"visitor-facing GitHub link in {name}"
+        assert 'aria-label="GitHub"' not in content, \
+            f"GitHub icon in {name}"
+        assert 'action="https://github.com' not in content, \
+            f"visitor form on {name} submits to GitHub"
+
+
 if __name__ == "__main__":
     failures = 0
     for fn in [v for k, v in sorted(globals().items()) if k.startswith("test_") and callable(v)]:
@@ -278,4 +296,5 @@ if __name__ == "__main__":
             failures += 1
     print(f"production-build tests: {'PASS' if failures == 0 else str(failures) + ' FAILURES'}")
     raise SystemExit(0 if failures == 0 else 1)
+
 
