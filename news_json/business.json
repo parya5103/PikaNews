@@ -1,5 +1,125 @@
 [
   {
+    "id": "9d26e1704a962e333459d60c8ba0101e17016139cd45548cda273f057824ebe0",
+    "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+    "summary": "Dave Wehner, Meta’s chief strategy officer, is leaving the company to become CFO of Fireworks, the AI infrastructure startup valued at $17.5 billion in July.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
+    "published_at": "2026-11-07T17:51:16+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.688607+00:00",
+    "thin": false
+  },
+  {
+    "id": "b70ba594122c8a3d31a720c9d92030e82a492960cc6fe86ea0cbda6da897b620",
+    "title": "Decisive election. Dramatic stock swings. How we handled the market last week",
+    "summary": "On Friday, Jim Cramer revealed his strategy for navigating this new era at the Investing Club's 4th Annual Meeting.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/07/decisive-election-dramatic-stock-swings-how-we-handled-the-market-last-week.html",
+    "published_at": "2026-11-07T16:31:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.690300+00:00",
+    "thin": false
+  },
+  {
+    "id": "b923b6506e086bdd67ed58b1c5ef9f7bf429afa1e6769c933fa8b309f6ae52cf",
+    "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+    "summary": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
+    "published_at": "2026-11-07T16:02:33+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.689132+00:00",
+    "thin": false
+  },
+  {
+    "id": "1cd16871027e9d473564e999f1da9a5a18ea3279c8fc4d0261ab4a6005697f10",
+    "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+    "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+    "published_at": "2026-11-07T15:23:46+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.688411+00:00",
+    "thin": false
+  },
+  {
+    "id": "024259be55e4eb436fdef2333e70bd542140fb9edf1a9c88d87df17659221544",
+    "title": "America's newest small business owners with no employees are off to a hot start in AI era",
+    "summary": "New small business formation is rising for owners who can grow with AI serving in finance, marketing and design roles, eliminating the need for hiring.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/americas-new-no-employee-small-business-owners-start-hot-in-ai-era.html",
+    "published_at": "2026-11-07T14:45:01+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.690142+00:00",
+    "thin": false
+  },
+  {
+    "id": "d011560c6dfa9f3613a4774c852472dd2ff2903d1653aaa00586a471bb02d9e2",
+    "title": "What midterm election blue wave rebuke of Trump means for renewable energy",
+    "summary": "The conservative war on renewable energy suffered a big loss in the rout of President Trump and the GOP in midterm elections. Investors should pay attention.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/midterm-election-blue-wave-trump-renewable-energy.html",
+    "published_at": "2026-11-07T14:33:32+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.689626+00:00",
+    "thin": false
+  },
+  {
+    "id": "8ba3da500ba9561532fca44720206a4e56ad5030519e8fd3e18bcbb02c173a79",
+    "title": "Many workers lose unused FSA money — but could still come out ahead. Here's how",
+    "summary": "While experts say it's best to use up your FSA money, the tax savings on your contributions could outweigh any amount you forfeit. Here's how to tell.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/fsa-forfeit.html",
+    "published_at": "2026-11-07T14:30:01+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.689951+00:00",
+    "thin": false
+  },
+  {
+    "id": "b8eda3c7f3e1b9f7dc2833a96ee2c1fd63437562d691ad22a074dc6e96b5f5b1",
+    "title": "31-year-old dumpster diver brought in $140,000 in 12 months: I 'did much more than I thought was possible'",
+    "summary": "Carter Stevens started reselling discarded items from dumpsters around Nashville, Tennessee, in March 2024. Months earlier, he'd been living in his car.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/make-it/2026/11/07/dumpster-diver-resale-business.html",
+    "published_at": "2026-11-07T14:15:01+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.689474+00:00",
+    "thin": false
+  },
+  {
+    "id": "26a67ca9cda5a486114b24bc5684cf9242809c5739de276b17408fa311c5d95f",
+    "title": "Mark Cuban says he doesn’t ‘give a f---' about growing his net worth—a healthy mindset for non-billionaires too, a financial therapist says",
+    "summary": "The billionaire serial entrepreneur says he cares more about the impact he can have by spending and investing, rather than worrying about amassing more wealth.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/make-it/2026/11/07/mark-cuban-net-worth-money-mindset.html",
+    "published_at": "2026-11-07T14:05:01+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.689315+00:00",
+    "thin": false
+  },
+  {
+    "id": "f5b6fc3f6cfbe5f708d2ecd626393e41f5d47ae3196ad4ce2c32c37ecc6c1606",
+    "title": "Will this week's blue wave election usher in a Democratic president in 2028?",
+    "summary": "A CNBC analysis of historical election data finds wave elections don't necessarily spell trouble for the party in power during the next presidential year.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/2026-midterm-election-blue-wave-2028-president.html",
+    "published_at": "2026-11-07T14:00:01+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.688959+00:00",
+    "thin": false
+  },
+  {
     "id": "db10aaa060c354041ef221a8ef796b7c6f3ce3200ae4821ab6a2f5038f0030c6",
     "title": "World’s No. 1 restaurant crowned as contest comes under increasing scrutiny",
     "summary": "Asador Etxebarri in Atxondo, Spain, is the world's top restaurant, according to the 50 Best Restaurants, which announced its 2026 list.",
@@ -96,6 +216,18 @@
     "thin": false
   },
   {
+    "id": "5936951e22c3c4b4ed3ee7e0a6a63185b8bac613a4c5c3d116c67bf4c7b36631",
+    "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
+    "summary": "Trump said the U.S. carried out ‘minor strikes’ on Iran after Iranian media reported two missiles hit Qeshm Island near the Strait of Hormuz.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
+    "published_at": "2026-11-07T07:37:36+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.688798+00:00",
+    "thin": false
+  },
+  {
     "id": "7a04d89818ce4c8ba848ca732e95a8bb2e2de4caf18110598193a8b0794e7188",
     "title": "The race is on to build the first fusion power plant — and Europe is looking to Japan for help",
     "summary": "Fusion energy has the potential to provide abundant, clean power. Now, the race is on to develop the world’s first commercial plant.",
@@ -117,6 +249,18 @@
     "published_at": "2026-11-07T02:00:01+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-07T13:44:39.656183+00:00",
+    "thin": false
+  },
+  {
+    "id": "65fa17a446b02f8c5a57351e82da080b1179d79a117846cf407c9b51e8570b2f",
+    "title": "Mississippi Senate: Colom increases lead over Hyde-Smith to nearly 2,500 votes",
+    "summary": "The Mississippi Senate election could be determined by the mail-in ballots received after Election Day, whose legality was upheld by the Supreme Court.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html",
+    "published_at": "2026-11-06T23:12:56+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.689791+00:00",
     "thin": false
   },
   {

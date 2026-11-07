@@ -1,5 +1,209 @@
 [
   {
+    "id": "16e322d4cdb16cf1d3f50042c5873547bc3ee2d7a5793939b4f2b2dcf6810d73",
+    "title": "Meet the Vigodas: Conan O’Brien Plays Out His Teenage Dream With L.A. Cover Band",
+    "summary": "Late-night legend and prolific podcaster talks rockabilly, kooky backstages, and a lifelong dream come true",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-features/conan-obrien-the-vigodas-interview-los-angeles-performance-1235654174",
+    "published_at": "2026-11-07T18:16:24+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.680680+00:00",
+    "thin": false,
+    "author": "Althea Legaspi",
+    "tags": [
+      "Music",
+      "Music Features",
+      "Conan O'Brien"
+    ]
+  },
+  {
+    "id": "171e92171b8035af8c45b190bc3117865b2d994db780b1eb6e149ef3790313c3",
+    "title": "What’s It Like to Write Songs With Madonna, McCartney, and the Stones?",
+    "summary": "Superproducer Andrew Watt goes deep on his star-studded year, from Lady Gaga to Michael Stipe",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-features/michael-stipe-madonna-mccartney-stones-andrew-watt-1235654076",
+    "published_at": "2026-11-07T17:54:25+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.680864+00:00",
+    "thin": false,
+    "author": "Brian Hiattt",
+    "tags": [
+      "Music",
+      "Music Features",
+      "Andrew Watt",
+      "Lady Gaga",
+      "Madonna",
+      "Michael Stipe",
+      "Paul McCartney",
+      "Rolling Stones"
+    ]
+  },
+  {
+    "id": "b77a609d3e319c22df190c5bf5d23d3c341b66269fb9af23765c38b4007a7846",
+    "title": "Good Riddance to the Cybertruck, the Chariot of the Dumbest Gods",
+    "summary": "A eulogy for Elon Musk’s ill-advised and barely functional emblem of a failed and stupid era",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/culture/culture-commentary/good-riddance-elon-musk-cybertruck-1235654079",
+    "published_at": "2026-11-07T16:33:15+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.681054+00:00",
+    "thin": false,
+    "author": "Elisabeth Garber-Paul",
+    "tags": [
+      "Cultural Commentary",
+      "Culture",
+      "Cybertruck",
+      "Elon Musk",
+      "Tesla"
+    ]
+  },
+  {
+    "id": "7fa6b9c3100dcd60fb322e23d49165155187041a25bd41083b4eff96ea4e7305",
+    "title": "Richard Lloyd, Television’s Virtuoso Guitarist, Dead at 75",
+    "summary": "Guitarist, who was diagnosed with bile duct cancer in March 2026, died Saturday from Cholangiocarcinoma, his family announced",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/richard-lloyd-television-guitarist-dead-obituary-1235614110",
+    "published_at": "2026-11-07T16:28:15+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.681234+00:00",
+    "thin": false,
+    "author": "Jon Blistein",
+    "tags": [
+      "Music",
+      "Music News",
+      "television",
+      "Tom Verlaine"
+    ]
+  },
+  {
+    "id": "f06142e1929228279e3be9ddd881ca697a41c89fc8fa48ebf5cbb2ceaf3a66c1",
+    "title": "Deep Purple’s Ian Gillan Undergoes ‘Successful’ Surgery After Medical Emergency",
+    "summary": "\"I now have to rest, in order to make a complete recovery and ensure that I’m as fit as can be before getting back to work,\" singer writes",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/deep-purple-ian-gillan-successful-surgery-medical-emergency-1235654349",
+    "published_at": "2026-11-07T16:20:10+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.681432+00:00",
+    "thin": false,
+    "author": "Daniel Kreps",
+    "tags": [
+      "Music",
+      "Music News",
+      "Deep Purple"
+    ]
+  },
+  {
+    "id": "0105b0781907be9bb3a375ab9ffbed105427b8fb9b1b5a9de2d42d3f8c64ce94",
+    "title": "Elvis Presley Rights Owners Sue Suno Over AI Voice Cloning: ‘Elvis’ Identity Was Stolen’",
+    "summary": "The singer's legendary voice is at the center of a cutting-edge lawsuit that aims to hold the AI firm legally liable for allowing users to create knockoff vocals.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/pro/elvis-presley-ai-voice-cloning-lawsuit-suno",
+    "published_at": "2026-11-07T15:38:11+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.680198+00:00",
+    "thin": false,
+    "author": "Bill Donahue",
+    "tags": [
+      "Business",
+      "Legal News",
+      "AI",
+      "Artificial Intelligence",
+      "genre rock",
+      "lawsuit",
+      "Legal",
+      "Music News",
+      "Suno"
+    ]
+  },
+  {
+    "id": "5757e4e5b24adbdf972a5af682934845a1c64961be45bbe2e3a13a7c3e33db3f",
+    "title": "How Trump Opened the Door for the Christian Left",
+    "summary": "James Talarico and Adam Hamilton ran on faith and won big. Democrats can thank the president",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/politics/political-commentary/how-trump-opened-door-christian-left-1235654208",
+    "published_at": "2026-11-07T15:00:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.681601+00:00",
+    "thin": false,
+    "author": "Ryan Bort",
+    "tags": [
+      "Political Commentary",
+      "Politics",
+      "2026 midterms",
+      "Adam Hamilton",
+      "Donald Trump",
+      "James Talarico"
+    ]
+  },
+  {
+    "id": "f0329053f541593bc0213ba8cadbd089b53a6a2a0fc444dd77dcc11fbf01c964",
+    "title": "Houndmouth’s Matt Myers No Longer Has to Be Sad to Write Great Songs",
+    "summary": "The leader of the Americana blues-rock band taps into a new feeling — reciprocated love — for the album Lordy : \"It’s not that you have to be sad to create, but I’m happy at home\"",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-features/houndmouth-matt-myers-interview-lordy-1235653878",
+    "published_at": "2026-11-07T14:30:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.681806+00:00",
+    "thin": false,
+    "author": "Joseph Hudak",
+    "tags": [
+      "Music",
+      "Music Features",
+      "Americana",
+      "Houndmouth"
+    ]
+  },
+  {
+    "id": "b6b20d9e785bf8172d823ee9938a8b6dac98b5113283d0316b14749777227ea4",
+    "title": "Robert Pattinson, Nicholas Hoult Screen-Tested for James Bond Role: Reports",
+    "summary": "Harry Styles also \"had discussions\" about playing 007 as audition process expands beyond the three actors considered the favorites to take over for Daniel Craig",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/robert-pattinson-nicholas-hoult-screen-test-james-bond-role-1235654335",
+    "published_at": "2026-11-07T14:11:09+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.682004+00:00",
+    "thin": false,
+    "author": "Daniel Kreps",
+    "tags": [
+      "TV & Movies",
+      "TV & Movies News",
+      "James Bond",
+      "Nicholas Hoult",
+      "Robert Pattinson"
+    ]
+  },
+  {
+    "id": "d00e6ace186e528638d9df7b2259cc73ff2c356b37f83137630dc0b830deadd9",
+    "title": "WWE Crown Jewel 2026: Here’s How to Watch the Premium Live Event Online for Free",
+    "summary": "Don't miss men's and women's matches for WWE Crown Jewel Championships during the wrestling event.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/culture/product-recommendations/wwe-crown-jewel-2026-how-to-watch-live-online-free-1236372909",
+    "published_at": "2026-11-07T14:00:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.680374+00:00",
+    "thin": false,
+    "author": "Rudie Obias",
+    "tags": [
+      "Culture",
+      "Product Recommendations",
+      "espn",
+      "how to watch",
+      "NOADS",
+      "streaming",
+      "wwe"
+    ]
+  },
+  {
     "id": "467656dca26228842a4f739374b69bf5f153bb1c32e043b2460112740493ac14",
     "title": "Can Labubu Lightning Strike Twice? POP MART Hopes So With Release of ‘KPop Demon Hunters’ Bag Charms",
     "summary": "The official collab reimagines members of Peach Riot -- POP MART's fictional, female punk band -- as characters from the hit film",

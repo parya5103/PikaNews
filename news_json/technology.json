@@ -12,6 +12,28 @@
     "thin": false
   },
   {
+    "id": "848b841df99f71c3c890f61e5f013aedc612b587989c21db38e40fd2edadbf4e",
+    "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+    "summary": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Half an hour later, I felt exhausted, dizzy, [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+    "published_at": "2026-11-07T12:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.684363+00:00",
+    "thin": false,
+    "author": "Sheena Vasani",
+    "tags": [
+      "Gadgets",
+      "Hands-on",
+      "Health",
+      "Reviews",
+      "Science",
+      "Tech",
+      "Wearable"
+    ]
+  },
+  {
     "id": "ea36f69bfd26ab9befadd397cc5bb2030e3f7e8e44ba65c39108a7c3f70a340a",
     "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
     "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
@@ -29,6 +51,147 @@
       "Daniel Barton-Kennedy",
       "sim card",
       "soldier"
+    ]
+  },
+  {
+    "id": "14f9be50a3a0dc85910b419a346198aaf1676c0d39f6938fcd59dc55e8ed51d9",
+    "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+    "summary": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to $54.99. Considering an annual Costco membership runs $65, that discount almost offsets [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+    "published_at": "2026-11-07T11:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.684617+00:00",
+    "thin": false,
+    "author": "Brad Bourque",
+    "tags": [
+      "Deals",
+      "Gadgets",
+      "Gaming",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "56d1423cb9867d85857cad4faa26ddf8f3f7e83b458038daa608b9b0d9516f1d",
+    "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
+    "summary": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more. It's a shockingly comprehensive database that covers not just albums and singles, but all the various versions [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+    "published_at": "2026-11-07T11:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.684855+00:00",
+    "thin": false,
+    "author": "Terrence O’Brien",
+    "tags": [
+      "Interview",
+      "Report",
+      "Tech",
+      "Web"
+    ]
+  },
+  {
+    "id": "4f1cbd321d6841b76a2f879bc8e13f96411c3cfebb75a5f550b5bf0bd4baeb5e",
+    "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+    "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+    "published_at": "2026-11-07T10:50:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.685101+00:00",
+    "thin": false,
+    "author": "Jennifer Pattison Tuohy",
+    "tags": [
+      "AI",
+      "Reviews",
+      "Smart Home Reviews",
+      "Tech"
+    ]
+  },
+  {
+    "id": "83d7876273d7ee4de7f92413bfcd6ac037bebf8edd559b448513682edfdb5e50",
+    "title": "The US let Nvidia sell chips to an empty office in China",
+    "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+    "published_at": "2026-11-07T10:43:45-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.685326+00:00",
+    "thin": false,
+    "author": "Terrence O’Brien",
+    "tags": [
+      "AI",
+      "News",
+      "Nvidia",
+      "Policy",
+      "Politics",
+      "Tech"
+    ]
+  },
+  {
+    "id": "0869015cb85f701d67cfddee560bb6d16f65d59d60f6327cbe43959d1dff17b9",
+    "title": "AI broke the cybersecurity world. What’s next?",
+    "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+    "published_at": "2026-11-07T10:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.685574+00:00",
+    "thin": false,
+    "author": "Nilay Patel",
+    "tags": [
+      "AI",
+      "Decoder",
+      "Linux",
+      "Podcasts",
+      "Security",
+      "Tech"
+    ]
+  },
+  {
+    "id": "c5fde1561bfc79fb7cc0c39e5f346089d6896bdc4c97ba3b27df21ac1e868bae",
+    "title": "Good riddance, Cybertruck!",
+    "summary": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it was a humiliating way to kill a vehicle that was once hailed [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
+    "published_at": "2026-11-07T09:40:06-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.685786+00:00",
+    "thin": false,
+    "author": "Andrew J. Hawkins",
+    "tags": [
+      "Electric Cars",
+      "Elon Musk",
+      "Policy",
+      "Politics",
+      "Tech",
+      "Tesla",
+      "Transportation"
+    ]
+  },
+  {
+    "id": "510055198f9d6b0fb6e51a43b09dea4e56db0e425e209706f6e7480e7655e264",
+    "title": "Zelda is back and better than ever",
+    "summary": "Hi, friends! Welcome to Installer No. 151, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get psyched because it's officially Bad Holiday Movie Season, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Andrew Garfield and GTA [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+    "published_at": "2026-11-07T08:49:01-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T18:28:26.686022+00:00",
+    "thin": false,
+    "author": "David Pierce",
+    "tags": [
+      "Gadgets",
+      "Gaming",
+      "Installer",
+      "Streaming",
+      "Tech"
     ]
   },
   {
