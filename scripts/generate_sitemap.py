@@ -29,7 +29,7 @@ NEWS_JSON_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__f
 
 # Static pages
 STATIC_PAGES = [
-    {"url": "index.html", "priority": 1.0, "changefreq": "daily"},
+    {"url": "", "priority": 1.0, "changefreq": "daily"},  # "" -> urljoin gives the clean /pikanews/ root, matching the canonical URL
     {"url": "latest.html", "priority": 0.9, "changefreq": "hourly"},
     {"url": "trending.html", "priority": 0.9, "changefreq": "hourly"},
     {"url": "bollywood.html", "priority": 0.8, "changefreq": "hourly"},

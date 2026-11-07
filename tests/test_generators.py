@@ -78,7 +78,8 @@ def test_sitemap_generator():
                 assert "<?xml version=" in content
                 assert "<urlset" in content
                 assert "</urlset>" in content
-                assert "index.html" in content
+                assert "<loc>https://gogocompany.in/pikanews/</loc>" in content
+                assert "https://gogocompany.in/pikanews/index.html" not in content
                 assert "latest.html" in content
                 assert "search.html" in content
                 assert "sources.html" in content
