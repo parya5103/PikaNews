@@ -1,5 +1,29 @@
 [
   {
+    "id": "968b29f5963724c5a88e13d9dfa8740662ab50f3e5d813a85f3a5814c9d52e43",
+    "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+    "summary": "Voters across the country on Tuesday voiced their support for candidates who have pledged to place restrictions on data center development.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+    "published_at": "2026-11-06T22:25:58+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T00:50:14.684622+00:00",
+    "thin": false
+  },
+  {
+    "id": "39094bbfb47c9d7bd052e2fbd78c5cce3fc8734bd64682769c6666518b0cdf5f",
+    "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
+    "summary": "Anthropic could list below a $1.5 trillion valuation, trailing previous expectations, as the AI trade sours on Wall Street.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
+    "published_at": "2026-11-06T21:07:07+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T00:50:14.684416+00:00",
+    "thin": false
+  },
+  {
     "id": "b350ae3df932fe3005b7c9a4d77aef951c11d56d645d02bccecef9dc196f0535",
     "title": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
     "summary": "The Connecticut Democrat Murphy has been discussed as a possible candidate for the White House in 2028.",
@@ -117,6 +141,18 @@
     "published_at": "2026-11-06T19:05:00+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-06T20:59:31.693721+00:00",
+    "thin": false
+  },
+  {
+    "id": "3a1e008d5178fe7cf3214d7f96bd7fa402fa564d982809b9f16d2190b0fb68ed",
+    "title": "OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off",
+    "summary": "Executives of major tech companies are largely projecting optimism about continued growth in the artificial intelligence sector despite a post-midterm sell-off.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/06/tech-executives-ai-data-center-selloff-midterms.html",
+    "published_at": "2026-11-06T18:35:08+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T00:50:14.684782+00:00",
     "thin": false
   },
   {

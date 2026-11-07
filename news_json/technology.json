@@ -1,5 +1,73 @@
 [
   {
+    "id": "4837e4395b56a6aeaa0b4cfc3ad24aa6b00484c1c5263d9893d3aa01168f1dd5",
+    "title": "Olivia Rodrigo’s ‘Take Me Home (4 Christmas)’ Effusively Endorsed by Writer of the Waitresses’ ‘Christmas Wrapping,’ Who Praises Her for Picking Up the ‘Vibe’ 45 Years Later",
+    "summary": "Olivia Rodrigo&#8217;s first holiday single, &#8220;Take Me Home (4 Christmas),&#8221; earned plenty of plaudits upon coming out of the gate late Thursday night — none greater than that offered by Chris Butler, the writer of the Waitresses&#8217; classic 1981 song &#8220;Christmas Wrapping,&#8221; who said he&#8217;d been offered a sneak peek two months ago by Rodrigo. [&#8230;]",
+    "category": "technology",
+    "source": "Variety",
+    "url": "https://variety.com/2026/music/news/olivia-rodrigo-christmas-praised-writer-waitresses-wrapping-1236941752",
+    "published_at": "2026-11-06T23:34:20+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/MixCollage-06-Nov-2026-02-51-PM-4964.jpg",
+    "collection_timestamp": "2026-11-07T00:50:14.670452+00:00",
+    "thin": false,
+    "author": "Chris Willman",
+    "tags": [
+      "News",
+      "Chris Butler",
+      "Olivia Rodrigo",
+      "the Waitresses"
+    ]
+  },
+  {
+    "id": "9398d042765722962ee9c89f7359f3460197c1f2d3f7c0c1e30dc1631485089b",
+    "title": "AI’s Hidden Footprint, From Quartz Mines to Kenyan Click-Workers, Bared in Taiwan Creative Content Fest Doc ‘The Technological Sublime’",
+    "summary": "Talk of artificial intelligence tends to float somewhere up in the cloud. “The Technological Sublime,” a documentary from director Jannes Callens that heads to the Taiwan Creative Content Fest (TCCF) in Taipei, brings it back down to earth. The film follows the physical supply chain that keeps AI running, starting at quartz mines in the [&#8230;]",
+    "category": "technology",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/markets-festivals/ai-hidden-supply-chain-doc-taiwan-creative-content-fest-1236941783",
+    "published_at": "2026-11-06T23:18:22+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/The-Technological-Sublime-concept-art.jpg",
+    "collection_timestamp": "2026-11-07T00:50:14.671293+00:00",
+    "thin": false,
+    "author": "Naman Ramachandran",
+    "tags": [
+      "Asia",
+      "Global",
+      "Markets & Festivals",
+      "News",
+      "Spotlight",
+      "AI",
+      "Taiwan Creative Content Fest",
+      "TCCF",
+      "The Technological Sublime"
+    ]
+  },
+  {
+    "id": "afae58eb0a51fcaf3a20abcc28184c760cea858a367b3b65f8d2607584fc855f",
+    "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+    "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump",
+    "published_at": "2026-11-06T22:41:37+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Iranian-oil-tanker-and-flag-1152x648.jpg",
+    "collection_timestamp": "2026-11-07T00:50:14.682069+00:00",
+    "thin": false,
+    "author": "Jeremy Hsu",
+    "tags": [
+      "Tech",
+      "donald trump iran war",
+      "Iran",
+      "Iran Revolutionary Guard Corps",
+      "subsea cable",
+      "subsea cables",
+      "undersea cable",
+      "undersea cable cuts",
+      "undersea cables",
+      "USA-Iran War"
+    ]
+  },
+  {
     "id": "b2e8eec0d28fb46301f6db1c328441872126c29de3c1f22dedbc87d138443ea7",
     "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
     "summary": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
@@ -51,6 +119,112 @@
     "image_url": null,
     "collection_timestamp": "2026-11-06T20:59:31.693168+00:00",
     "thin": false
+  },
+  {
+    "id": "bb386888eee7971c514b49303f1f8b8fd574ef1cdbf1e04b60a316f9c1beaaf8",
+    "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+    "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+    "published_at": "2026-11-06T18:46:18-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T00:50:14.681078+00:00",
+    "thin": false,
+    "author": "Stevie Bonifield",
+    "tags": [
+      "AI",
+      "Business",
+      "News",
+      "OpenAI"
+    ]
+  },
+  {
+    "id": "ac4c8b0c13fe512b4e1c7b8b518bf75e327dc485313649b1138543d27b1d9f59",
+    "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
+    "summary": "Microsoft is winding down the number of neoclouds it counts as partners, picking key suppliers and focusing on its own data centers.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
+    "published_at": "2026-11-06T18:40:58+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T00:50:14.684949+00:00",
+    "thin": false
+  },
+  {
+    "id": "9e31959fd7269941f7c5f9c596722f482ea33bcd130d99f0ae6e2b793584c317",
+    "title": "AMD CEO enrages gamers by saying it's now a 'data center first' company — and predicts PC sales will plummet by a 'double-digit percentage' in 2027",
+    "summary": "&#32; submitted by &#32; /u/ReshadNoslen &#32; to &#32; r/gaming [link] &#32; [comments]",
+    "category": "technology",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/gaming/comments/1xpk1zk/amd_ceo_enrages_gamers_by_saying_its_now_a_data",
+    "published_at": "2026-11-06T18:20:37+00:00",
+    "image_url": "https://external-preview.redd.it/HMQRjSujts0Fc-9WAabhJazy_KJujjbjue6DcIn9Uy0.jpeg",
+    "collection_timestamp": "2026-11-07T00:50:14.692302+00:00",
+    "thin": false,
+    "author": "/u/ReshadNoslenhttps://www.reddit.com/user/ReshadNoslen",
+    "tags": [
+      "gaming"
+    ]
+  },
+  {
+    "id": "f7e4f7bb08e65f92e4f49db673b52d967b166788639b2b46813339aa2f3f41b2",
+    "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+    "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+    "published_at": "2026-11-06T18:00:44-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T00:50:14.681314+00:00",
+    "thin": false,
+    "author": "Jay Peters",
+    "tags": [
+      "AI",
+      "News",
+      "Nvidia",
+      "Tech"
+    ]
+  },
+  {
+    "id": "f6710cce09a070c0f4a064f0204a80d820b45709462ee0669b7b9916aaa3bbd3",
+    "title": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
+    "summary": "SpaceX has declared that it&#8217;s going to make Starlink Mobile a &#8220;major&#8221; mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival AT&#38;T, Verizon, and T-Mobile, SpaceX has inked a deal [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
+    "published_at": "2026-11-06T17:45:43-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T00:50:14.681555+00:00",
+    "thin": false,
+    "author": "Emma Roth",
+    "tags": [
+      "Elon Musk",
+      "Mobile",
+      "Science",
+      "Space",
+      "SpaceX",
+      "Tech"
+    ]
+  },
+  {
+    "id": "52a9c22c5ca40425121663b23204bb153f69de02b766de7fa3ba4450dedca34d",
+    "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
+    "summary": "Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated flick in 4K. But at just $24.99 from Barnes and Noble and Amazon instead of its original $49.95 [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
+    "published_at": "2026-11-06T16:50:32-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-07T00:50:14.681777+00:00",
+    "thin": false,
+    "author": "Cameron Faulkner",
+    "tags": [
+      "Deals",
+      "Entertainment",
+      "Gadgets",
+      "Verge Shopping"
+    ]
   },
   {
     "id": "a58480a5716a4638c5f61408e730168dad69849b860a6e8b855d2c19f04095c5",
