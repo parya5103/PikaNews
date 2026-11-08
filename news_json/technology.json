@@ -1,5 +1,60 @@
 [
   {
+    "id": "fa97c84e1c0cc9f09f077d08d0ba4b4a38f996dc7a912a2344cc5df2bb124278",
+    "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+    "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+    "published_at": "2026-11-08T17:54:50-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T23:53:11.673797+00:00",
+    "thin": false,
+    "author": "Terrence O’Brien",
+    "tags": [
+      "AI",
+      "News",
+      "Nvidia",
+      "Tech"
+    ]
+  },
+  {
+    "id": "4d87a67f289edad516b677cd4417541aa1ce7d71f5e07f3c3571e8b4dfd1fbd2",
+    "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+    "summary": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems. [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+    "published_at": "2026-11-08T17:37:22-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T23:53:11.674023+00:00",
+    "thin": false,
+    "author": "Terrence O’Brien",
+    "tags": [
+      "Column",
+      "Entertainment",
+      "Music",
+      "Music Review"
+    ]
+  },
+  {
+    "id": "93b42eee543c8c795b0916d65fab6fabafe3dd0971db1e6759c352eb06fd160a",
+    "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+    "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+    "published_at": "2026-11-08T15:22:39-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T23:53:11.674485+00:00",
+    "thin": false,
+    "author": "Terrence O’Brien",
+    "tags": [
+      "AI",
+      "News"
+    ]
+  },
+  {
     "id": "fb4812d03b5cb52b61f7fd0fe606d45091e48a5e709f95107986d38b195cf3b4",
     "title": "Apple is racing to make Siri more agentic",
     "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's [&#8230;]",

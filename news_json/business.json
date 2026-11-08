@@ -1,5 +1,29 @@
 [
   {
+    "id": "bc93fd70e8bc0423b5d5486fa6febbe5738b03aead20a6f6cecddcb830b423d8",
+    "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+    "summary": "Huang told Nvidia staff in an email that he had an affair and that the company's board has opened an investigation into allegations the woman is a Chinese spy.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+    "published_at": "2026-11-08T22:53:57+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T23:53:11.675669+00:00",
+    "thin": false
+  },
+  {
+    "id": "ea53788b4b594b2d39e4f65a177f145edee0f22b2f5af1cc4bb950c7b9940ace",
+    "title": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike",
+    "summary": "Trump tied avoiding renewed U.S. strikes to progress in talks over Iran’s nuclear program and the Strait of Hormuz.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
+    "published_at": "2026-11-08T21:53:02+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T23:53:11.675836+00:00",
+    "thin": false
+  },
+  {
     "id": "2abba1f7ba85af8c529f8e9bbfe4035e801a44e6de8130260ea3a64f5e942532",
     "title": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
     "summary": "Democrats have vowed to investigate both President Donald Trump's White House and businesses that have worked with the administration.",

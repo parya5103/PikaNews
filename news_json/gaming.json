@@ -1,5 +1,23 @@
 [
   {
+    "id": "daf815c6fc70a120f98eedfe255012541109ab7fbc665c79bd4053b5549b36c2",
+    "title": "25 Years Later, ‘Buffy the Vampire Slayer’s Best Quote Is Still the Most Inspiring Line in TV History",
+    "summary": "Buffy’s sacrifice for Dawn in the season 5 finale gave us one of the show’s best quotes and an ending that could have closed the series for good.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/buffy-the-vampire-slayer-best-buffy-quote",
+    "published_at": "2026-11-08T21:00:17+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/buffy.jpg",
+    "collection_timestamp": "2026-11-08T23:53:11.675400+00:00",
+    "thin": false,
+    "author": "Maria Loreto",
+    "tags": [
+      "Opinion",
+      "TV",
+      "Buffy The Vampire Slayer"
+    ]
+  },
+  {
     "id": "08ba536d6e23fbd6692f9e965872429fa27e77599fce9f49da9852fee6662f34",
     "title": "All vault locations in the Fortnite Chapter 7 mini season",
     "summary": "Vaults are full of valuable loot in Fortnite Chapter 7's mini season. Here's where to find them all and how to open them.",
@@ -118,6 +136,24 @@
       "GOTY Watch",
       "The Legend of Zelda: Ocarina of Time",
       "The Game Awards"
+    ]
+  },
+  {
+    "id": "f7e9d920907fcaa5bd0b6db515fe6504eb9c5d6c690808099f55eae815a4f716",
+    "title": "Epic Games Launcher is coming to SteamOS",
+    "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibility, along with a handful of other distros, to GamingOnLinux. In response [&#8230;]",
+    "category": "gaming",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+    "published_at": "2026-11-08T15:52:05-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T23:53:11.674245+00:00",
+    "thin": false,
+    "author": "Terrence O’Brien",
+    "tags": [
+      "Fortnite",
+      "Gaming",
+      "News"
     ]
   },
   {
