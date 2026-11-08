@@ -1,5 +1,50 @@
 [
   {
+    "id": "5070baa590d601995002b1274d93108df1dd2e29c8de30dcbd585e58c034d798",
+    "title": "Druski & The Strokes on ‘SNL’: Here’s Where to Watch ‘Saturday Night Live’ Online for Free",
+    "summary": "Livestream the comedian host and the indie rock band perform on Nov. 7 — watch live online for free.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/culture/product-recommendations/snl-2026-druski-the-strokes-watch-live-online-free-1236375885",
+    "published_at": "2026-11-08T01:30:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T01:42:42.616384+00:00",
+    "thin": false,
+    "author": "Rudie Obias",
+    "tags": [
+      "Culture",
+      "Product Recommendations",
+      "how to watch",
+      "nbc",
+      "NOADS",
+      "peacock",
+      "saturday night live",
+      "snl",
+      "streaming"
+    ]
+  },
+  {
+    "id": "cec4ee10a9424f17ee426c019303bb124fa7c312038f679cc016f5252598eefc",
+    "title": "Alanis Morissette Shares She Identifies as Pansexual",
+    "summary": "The singer-songwriter chatted about it briefly in a podcast appearance the week of releasing her new holiday album.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/culture/pride/alanis-morissette-pansexual-1236376991",
+    "published_at": "2026-11-08T00:39:09+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T01:42:42.616552+00:00",
+    "thin": false,
+    "author": "Ashley Iasimone",
+    "tags": [
+      "Culture",
+      "Pride",
+      "genre pop",
+      "Music News",
+      "News",
+      "pride"
+    ]
+  },
+  {
     "id": "3530507f414175259bb5110b12eecd8153a74e53b466a0faaff88c4438450a14",
     "title": "Kamal Haasan celebrates 72nd birthday on Sandiyar’s sets as he begins filming; Watch Videos",
     "summary": "Kamal Haasan is celebrating his 72nd birthday on November 7, 2026, with the actor revealing the title of his next movie, Sandiyar. As the actor began shooting for the film on his birthday, the veteran star celebrated the special occasion on the film&#39;s sets. Sandiyar: Kamal Haasan celebrates birthday on sets of next film In a recent video shared by the makers of Sandiyar, Kamal Haasan was seen celebrating his birthday on the film&#39;s sets. The actor began filming on his birthday itself, cut",
@@ -10,6 +55,64 @@
     "image_url": null,
     "collection_timestamp": "2026-11-07T22:14:03.048912+00:00",
     "thin": false
+  },
+  {
+    "id": "3c19431121d2c3f8df09525803152c7ff4ffa72ff14462766f321278bb138369",
+    "title": "Papua New Guinea’s Most Expensive Film, ‘Mussau: The First Song,’ Wraps Shoot, Unveils First Looks (EXCLUSIVE)",
+    "summary": "Papua New Guinea’s most expensive film to date, the $4.5 million historical drama “Mussau: The First Song,” has wrapped principal photography after a 40-day shoot across two provinces. Filming took place on Mussau Island in New Ireland Province and in Goroka, in Eastern Highlands Province. PNG-based producer NAFA Productions celebrated the wrap at a Thanksgiving [&#8230;]",
+    "category": "entertainment",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/news/papua-new-guinea-most-expensive-film-mussau-first-song-wraps-1236942202",
+    "published_at": "2026-11-07T23:58:45+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Mussau-3.jpg",
+    "collection_timestamp": "2026-11-08T01:42:42.612907+00:00",
+    "thin": false,
+    "author": "Naman Ramachandran",
+    "tags": [
+      "Asia",
+      "Global",
+      "News",
+      "Bijukumar Damodaran",
+      "Mussau: The First Song",
+      "Papua New Guinea"
+    ]
+  },
+  {
+    "id": "f5c06f88e7a6cfa890e5b5e0dc9cdb449a591e2b78b51ae77f0464c76540effb",
+    "title": "French Cinema Is Thriving at Festivals but Facing an Uphill Battle in U.S. Theaters as Distributors Navigate a Shrinking Market",
+    "summary": "French cinema may be enjoying a golden run on the festival circuit and in the awards race, but getting those films into U.S. theaters, and persuading American audiences to buy tickets, has become an increasingly uphill battle. That paradox was at the heart of a lively discussion at the American French Film Festival on Thursday, [&#8230;]",
+    "category": "entertainment",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/global/french-cinema-festivals-uphill-battle-u-s-theaters-1236942099",
+    "published_at": "2026-11-07T22:59:05+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/05/G75FOJT7HNGEVLHLFM5CHOM6MA.jpg",
+    "collection_timestamp": "2026-11-08T01:42:42.613951+00:00",
+    "thin": false,
+    "author": "Elskes",
+    "tags": [
+      "Global",
+      "Jon Gerrans",
+      "Robert Aaronson"
+    ]
+  },
+  {
+    "id": "520a67f59e91eed864ca9c68f93710365a8085cf2945184deffc5adc0abfa676",
+    "title": "Meet the Rising Stars Competing for Best New Artist at the Latin Grammys",
+    "summary": "Aria Vega, Delilah, Fabian, and Sofia Monroy are among this year's contenders for one of the ceremony's most coveted awards",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-latin/best-new-artist-latin-grammys-nominees-winners-1235654396",
+    "published_at": "2026-11-07T22:15:04+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T01:42:42.616829+00:00",
+    "thin": false,
+    "author": "Julyssa Lopez",
+    "tags": [
+      "Latin Music",
+      "Music",
+      "Best New Artist",
+      "Latin Grammys 2026"
+    ]
   },
   {
     "id": "3e243815ab723ffd76c380ae9ab510781671fef37c4ffa961aa33e850b8e2faf",
