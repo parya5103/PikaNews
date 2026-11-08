@@ -54,7 +54,7 @@
     mountMode: 'container',
     mountSelector: '[data-gogo-notifications]',
     storageKey: 'gogoCentralNotifications.pika-news'
-  };  };
+  };
 
   var state = { busy: false, sdkReady: false, messaging: null, swRegistration: null };
 
@@ -75,8 +75,12 @@
 
   function buildRegisterPayload(cfg, fcmToken, userAgent) {
     cfg = cfg || CONFIG;
+    // Read the userAgent from the module's own root object (window in a
+    // real browser). Node 21+ ships a partial global navigator, so an
+    // ambient-global lookup would make the out-of-browser fallback value
+    // non-deterministic across runtimes; root-scoping keeps it stable.
     var ua = userAgent ||
-      (typeof navigator !== 'undefined' && navigator && navigator.userAgent) ||
+      (root.navigator && typeof root.navigator.userAgent === 'string' && root.navigator.userAgent) ||
       'unknown-web';
     return {
       appId: cfg.appId,
