@@ -1,5 +1,979 @@
 [
   {
+    "id": "f093b5676e32b5ee2904a7aa95a5698f947d3cca14ee2505edff314e505b772a",
+    "title": "\"Drama Only Exists Through Conflict\" - Pankaj Tripathi On Different Personalities On and Off Screen",
+    "summary": "Pankaj Tripathi's approach to keeping his characters fresh and how conflict is important for drama.",
+    "category": "bollywood",
+    "source": "Filmfare",
+    "url": "https://www.filmfare.com/interviews/drama-only-exists-through-conflict-pankaj-tripathi-on-his-contrasting-personalities-on-and-off-s-86581.html",
+    "published_at": "2026-11-08T13:32:01+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.879678+00:00",
+    "thin": false
+  },
+  {
+    "id": "8894a4f7535013bd47779fd128b78da7701c4e4531742fbe096804f7514f522a",
+    "title": "“I Learnt The Magic of Silence” - Divya Dutta Cherishes Memories and Learnings From Some of Her Best",
+    "summary": "Divya Dutta spoke about what drove her to choose certain projects, and more.",
+    "category": "bollywood",
+    "source": "Filmfare",
+    "url": "https://www.filmfare.com/interviews/i-learnt-the-magic-of-silence-divya-dutta-cherishes-memories-and-learnings-from-some-of-her-best-87044.html",
+    "published_at": "2026-11-08T13:22:44+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.879850+00:00",
+    "thin": false
+  },
+  {
+    "id": "34c65e66b9d4cdac8a8f1fc821bbbf1920f857a037779655a6fd0fbf4276c6dd",
+    "title": "Radhikka Madan On What Love, Lust and Relationships Mean To Her",
+    "summary": "Radhikka Madan on how Sailee's character in Lust Stories 3 healed something in her.",
+    "category": "bollywood",
+    "source": "Filmfare",
+    "url": "https://www.filmfare.com/interviews/radhikka-madan-on-what-love-lust-and-relationships-mean-to-her-87031.html",
+    "published_at": "2026-11-08T12:54:56+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.879983+00:00",
+    "thin": false
+  },
+  {
+    "id": "292988958db83d2b6508333ef285d9e4c677ad4b3b83044fa0d3395281c0d26b",
+    "title": "Music Director Viju Shah Reminisces About Some 'Mast Mast' Memories",
+    "summary": "Viju Shah speaks in depth about the memories behind his melodies.",
+    "category": "entertainment",
+    "source": "Filmfare",
+    "url": "https://www.filmfare.com/interviews/music-director-viju-shah-reminisces-about-some-mast-mast-memories-87022.html",
+    "published_at": "2026-11-08T12:41:02+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.880112+00:00",
+    "thin": false
+  },
+  {
+    "id": "904a3ddf5c73d95ec96ff2d3f090fd5d336457ed5f506da6bfd2ac60f31f2284",
+    "title": "Australia reach World Cup final after Fiji scare",
+    "summary": "Australia have reached their fifth successive Women's Rugby League World Cup final as they seek a fourth consecutive title - but they were made to work harder than anyone expected.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c6vg02klk084o",
+    "published_at": "2026-11-08T08:19:18+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/732a/live/a00e5500-db4b-11f1-ad6a-794c57c0c23e.jpg",
+    "collection_timestamp": "2026-11-08T08:35:25.889847+00:00",
+    "thin": false
+  },
+  {
+    "id": "bc79538ed2644d600ce1701b40920ef34b791d1b850244d3f8cba18588d22e1a",
+    "title": "Indonesian Horror Hit ‘Pabrik Gula’ Gets 2028 Sequel as MD Entertainment Lines Up Three Imax Films",
+    "summary": "Indonesian studio giant MD Entertainment will release a sequel to its 2025 horror smash “Pabrik Gula” in early 2028 and has three Imax films planned for 2027, Astrid Wienardi, the company’s head of content licensing and global business, said Sunday at Taiwan Creative Content Fest (TCCF) in Taipei. Wienardi delivered a presentation on how MD [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/markets-festivals/indonesian-horror-pabrik-gula-2028-sequel-1236942313",
+    "published_at": "2026-11-08T08:11:55+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2025/04/Pabrik-Gula.jpg",
+    "collection_timestamp": "2026-11-08T08:35:25.882389+00:00",
+    "thin": false,
+    "author": "Naman Ramachandran",
+    "tags": [
+      "Asia",
+      "Global",
+      "Markets & Festivals",
+      "News",
+      "Indonesia",
+      "MD Entertainment",
+      "Pabrik Gula",
+      "Taiwan Creative Content Fest"
+    ]
+  },
+  {
+    "id": "17cb7119e4be0ab9293dad701aafeb777c482376b00a19b0b0504d4e2b3858ea",
+    "title": "‘SNL’: Watch The Strokes Perform ‘Lonely in the Future,’ ‘Going Shopping’",
+    "summary": "Both songs are from the New York rock band's latest album, Reality Awaits",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/snl-watch-the-strokes-perform-lonely-future-going-shopping-1235654344",
+    "published_at": "2026-11-08T07:40:07+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.887096+00:00",
+    "thin": false,
+    "author": "William Vaillancourt",
+    "tags": [
+      "Music",
+      "Music News",
+      "Late-Night TV",
+      "Saturday Night Live",
+      "SNL",
+      "The Strokes"
+    ]
+  },
+  {
+    "id": "d77719d0b12c31fcbbf46a541ec65f6f2d0fd9dcf8c2f3a9923d4f8adaad9d20",
+    "title": "I want to face Baumgardner, it will be boxing's next great rivalry - Dubois",
+    "summary": "In her BBC Sport column, Caroline Dubois believes a fight with Alycia Baumgardner could redefine women's boxing.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/boxing/articles/c6y8l1318k8zo",
+    "published_at": "2026-11-08T07:30:09+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc7e/live/3447d9a0-d2df-11f1-8af5-e1db7ad65222.png",
+    "collection_timestamp": "2026-11-08T08:35:25.890623+00:00",
+    "thin": false
+  },
+  {
+    "id": "adf9d0801acb78ec7b1050cefd158a962942b27ed728a93245a050a555ad48b2",
+    "title": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
+    "summary": "BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo",
+    "published_at": "2026-11-08T07:30:01+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/054e/live/566a97f0-da93-11f1-8206-e519d24a9ca2.jpg",
+    "collection_timestamp": "2026-11-08T08:35:25.890298+00:00",
+    "thin": false
+  },
+  {
+    "id": "f2103b9a705f692abe60c2fdf46f0c2c02470d90a8038d3b0b995d06201fbe2a",
+    "title": "Messi makes history with MLS Golden Boot",
+    "summary": "Inter Miami forward Lionel Messi becomes the first player in MLS history to win the Golden Boot in consecutive seasons.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckr5ygezr0m9o",
+    "published_at": "2026-11-08T07:23:50+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8b3/live/47a9f080-db42-11f1-96fa-a5a773d1f96a.jpg",
+    "collection_timestamp": "2026-11-08T08:35:25.890494+00:00",
+    "thin": false
+  },
+  {
+    "id": "2c83473a91a0f2677b5817ad8584fd2d048d0b47b662e2d0427ead8523ffcfc9",
+    "title": "‘SNL’: Druski Impersonates ‘Crazy’ Elizabeth Holmes in Meta-Documentary",
+    "summary": "The comedian unveils a new impression in his SNL debut",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-druski-impersonates-crazy-elizabeth-holmes-meta-documentary-1235654383",
+    "published_at": "2026-11-08T07:03:49+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.887249+00:00",
+    "thin": false,
+    "author": "William Vaillancourt",
+    "tags": [
+      "TV & Movies",
+      "TV & Movies News",
+      "Druski",
+      "elizabeth holmes",
+      "Late-Night TV",
+      "Saturday Night Live",
+      "SNL",
+      "you can see everything"
+    ]
+  },
+  {
+    "id": "daedb70f6e0b817ac645528495bd2a19bfbd5960e263b470ad315189380f2ab6",
+    "title": "‘Our Blues’, ‘Midnight Diner’ & ‘C’Est La Vie’ Among Projects Backed By TAICCA Joint Venture Funds",
+    "summary": "Four content funds, jointly established by Taiwan Creative Content Agency (TAICCA) and local companies, presented the projects they’ve been investing in over the past year in a TCCF showcase today. The line-up from the four funds – Chunghwa Digital Cultural and Creative Fund, Momomini Kids Content Fund, Joint Journey Creative and Enjoy Entertainment – include [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/our-blues-midnight-diner-taicca-joint-venture-funds-1237216640",
+    "published_at": "2026-11-08T06:59:29+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/TAICCA-funds-showcase.jpg",
+    "collection_timestamp": "2026-11-08T08:35:25.884714+00:00",
+    "thin": false,
+    "author": "Liz Shackleton",
+    "tags": [
+      "News",
+      "Chunghwa Telecom",
+      "TCCF"
+    ]
+  },
+  {
+    "id": "51ae404ce097eb5e425448d275e0f7dd86ccb72e80602bc4064a3db69ce7bf5d",
+    "title": "Elon Musk Is Portrayed on ‘SNL’: “The Worst Thing South Africa Has Ever Done”",
+    "summary": "Jeremy Culhane plays the character in the show’s latest attempt to assess its relationship with the mogul.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/elon-musk-snl-appearance-jeremy-culhane-watch-jost-1236750304",
+    "published_at": "2026-11-08T06:58:18+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.885661+00:00",
+    "thin": false,
+    "author": "Steven Zeitchik",
+    "tags": [
+      "TV",
+      "TV News",
+      "COlin Jost",
+      "Elon Musk",
+      "Midterms 2026",
+      "Moguls",
+      "saturday night live",
+      "SNL"
+    ]
+  },
+  {
+    "id": "ee9c1e9c075b8c52417ef2b6d29f6e95efc6a4b60d0cf7e62640357960ce23a6",
+    "title": "Who am I? Plus today's other quizzes",
+    "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cr20wvgx2q27o",
+    "published_at": "2026-11-08T06:47:58+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+    "collection_timestamp": "2026-11-08T08:35:25.890741+00:00",
+    "thin": false
+  },
+  {
+    "id": "62bd3d91bee5a57d95d925e330ea292c08e28c620720c9e86ef2c82cc663a9c0",
+    "title": "Why unique Brighton defence is so tricky to unpick",
+    "summary": "Brighton's unique defensive shape has provided the platform for the Seagulls' superb start to the Premier League season.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm0j033lnp5po",
+    "published_at": "2026-11-08T06:41:37+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/0e138ac0-d90d-11f1-94c6-3f8050561bf5.jpg",
+    "collection_timestamp": "2026-11-08T08:35:25.890152+00:00",
+    "thin": false
+  },
+  {
+    "id": "8228d8247a4dde7909138b1ea32ed6f17e3c39eb457fc4f8d831729ac71711c5",
+    "title": "The oldest club in London making FA Cup history",
+    "summary": "Cray Wanderers host Stockport County in the FA Cup first round, with 112 league places separating the two sides.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cv8ez3pe5x41o",
+    "published_at": "2026-11-08T06:28:56+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f765/live/7f024030-d860-11f1-85ab-b3cc3b5498c6.jpg",
+    "collection_timestamp": "2026-11-08T08:35:25.889981+00:00",
+    "thin": false
+  },
+  {
+    "id": "3279c0fcf2cf47241c0d86a342b983a0aaadb93f28f4070a3d8924f8e007ebbe",
+    "title": "‘SNL’ Weekend Update Drags Trump Over Midterm Drubbing, Stephen Miller Promotion",
+    "summary": "\"Going from Wiles to Miller is like trying to get through a dinner party by switching from wine to meth,\" Colin Jost jokes",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-weekend-update-drags-trump-midterm-drubbing-stephen-miller-promotion-1235654378",
+    "published_at": "2026-11-08T06:04:31+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.887409+00:00",
+    "thin": false,
+    "author": "William Vaillancourt",
+    "tags": [
+      "TV & Movies",
+      "TV & Movies News",
+      "Colin Jost",
+      "Donald Trump",
+      "Late-Night TV",
+      "Michael Che",
+      "Saturday Night Live",
+      "SNL",
+      "Stephen Miller",
+      "Weekend Update"
+    ]
+  },
+  {
+    "id": "f2f7ee20cc9844a22ed3ada5c77aef9f518e82533f2ff034d94e13bf7b82b339",
+    "title": "Cathie Wood 'always feels better when the market is worried' — here's why",
+    "summary": "The Ark Invest CEO said there was a \"wall of worry\" gripping markets right now.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
+    "published_at": "2026-11-08T06:00:01+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.889380+00:00",
+    "thin": false
+  },
+  {
+    "id": "f7ca8d5de6abdfe5bc0201d92217a03f62d8d81b54f77c1abd64e12a97bfe52c",
+    "title": "‘SNL’ Weekend Update Brutally Roasts Elon Musk Over ‘Epic’ Midterms Defeat",
+    "summary": "An unhinged &#8220;Elon Musk&#8221; hit the &#8220;Saturday Night Live&#8221; Weekend Update desk this week to address the outcome of Tuesday&#8217;s midterm elections — and Musk, as played by &#8220;SNL&#8221; featured player Jeremy Culhane, didn&#8217;t quite know how to address it. The real Musk, of course, spent nearly $500 million on Republican candidates, especially in his [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/tv/news/snl-weekend-update-elon-musk-midterms-election-1236942283",
+    "published_at": "2026-11-08T05:57:06+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Screenshot-2026-11-08-at-12.37.27-AM.png",
+    "collection_timestamp": "2026-11-08T08:35:25.882700+00:00",
+    "thin": false,
+    "author": "Michael Schneider",
+    "tags": [
+      "News",
+      "Elon Musk",
+      "Jeremy Culhane",
+      "Saturday Night Live",
+      "SNL",
+      "Weekend Update"
+    ]
+  },
+  {
+    "id": "622be4a5a5392942490be01ea12b3597216173d7f40839d46a66216e34e940ec",
+    "title": "Druski Embodies Elizabeth Holmes in ‘You Can See Everything’ Spoof on ‘SNL’",
+    "summary": "The comedian gave his own take on Nathan Fielder and Lance Oppenheim's documentary, instead entitled 'Dru Can See Everything.'",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/druski-elizabeth-holmes-snl-you-can-see-everything-skit-1236750276",
+    "published_at": "2026-11-08T05:51:44+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.885817+00:00",
+    "thin": false,
+    "author": "McKinley Franklin",
+    "tags": [
+      "TV",
+      "TV News",
+      "druski",
+      "Elizabeth Holmes",
+      "saturday night live",
+      "SNL",
+      "You Can See Everything"
+    ]
+  },
+  {
+    "id": "25538a17812704e7dddc136ad333e8b9c92e404396204d664d27a028738d8039",
+    "title": "James Talarico Crashes ‘SNL’ Cold Open, Apologizes for Texting Us So Much",
+    "summary": "The Texas senator-elect also took a shot at the show's reliance on James Austin Johnson's Donald Trump impression in his surprise appearance in front of the comic.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/james-talarico-snl-cold-open-appearance-watch-trump-1236750242",
+    "published_at": "2026-11-08T05:35:42+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.885985+00:00",
+    "thin": false,
+    "author": "Steven Zeitchik",
+    "tags": [
+      "TV",
+      "TV News",
+      "donald trump",
+      "James Auston Johnson",
+      "James Talarico",
+      "Midterms 2026",
+      "politics",
+      "saturday night live",
+      "SNL"
+    ]
+  },
+  {
+    "id": "609527706c37a1139b0957949ce88e3604053ce39c2a121af47fa86094c8647b",
+    "title": "‘SNL’: Druski Dons Whiteface as Elizabeth Holmes in ‘You Can See Everything’ Parody",
+    "summary": "Following a busy cold open that saw Texas Senator-elect James Talarico overshadow Donald Trump and a monologue crashed by his future movie co-star Emma Stone, “SNL” host Druski — who made history as the first digital content creator to preside over the show (who had yet to achieve crossover success, a la Issa Rae and [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/tv/news/snl-druski-whiteface-elizabeth-holmes-nathan-fielder-you-can-see-everything-parody-1236942289",
+    "published_at": "2026-11-08T05:29:04+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Screenshot-2026-11-08-at-12.19.32-AM.png",
+    "collection_timestamp": "2026-11-08T08:35:25.882919+00:00",
+    "thin": false,
+    "author": "Marlow Stern",
+    "tags": [
+      "News",
+      "Druski",
+      "Elizabeth Holmes",
+      "Nathan Fielder",
+      "Saturday Night Live",
+      "SNL",
+      "You Can See Everything"
+    ]
+  },
+  {
+    "id": "e3a73444e71f066ec8aff9c36e0aeca28021c1e20df28faae59f5074c4f9f3c3",
+    "title": "‘SNL’ Cold Open: James Talarico Crashes Trump’s Midterm Postmortem",
+    "summary": "The incoming Texas lawmaker embraces Trump's insulting nickname after his resounding win",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/snl-cold-open-james-talarico-crashes-trump-midterm-postmortem-1235654381",
+    "published_at": "2026-11-08T05:13:38+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.887547+00:00",
+    "thin": false,
+    "author": "William Vaillancourt",
+    "tags": [
+      "TV & Movies",
+      "TV & Movies News",
+      "Donald Trump",
+      "James Talarico",
+      "Late-Night TV",
+      "Saturday Night Live",
+      "SNL"
+    ]
+  },
+  {
+    "id": "af08bb938a9df1f4415c548d188ab60f94dfb64567fdf65c59ccb7ae7241f68d",
+    "title": "Druski Serves Elizabeth Holmes Whiteface In ‘Dru Can See Everything’ Sketch During ‘SNL’ Debut",
+    "summary": "Shortly after joking that he couldn&#8217;t promise Saturday Night Live he&#8217;d do &#8220;no whiteface,&#8221; Druski channeled Elizabeth Holmes. On Saturday&#8217;s episode of the NBC sketch comedy show, the content creator quickly delivered one of the funniest sketches of the season as he played himself in the sketch &#8220;Dru Can See Everything,&#8221; which imagines Holmes (Jane [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/druski-elizabeth-holmes-whiteface-dru-can-see-everything-snl-1237216571",
+    "published_at": "2026-11-08T05:09:43+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Druski-SNL.jpg",
+    "collection_timestamp": "2026-11-08T08:35:25.884922+00:00",
+    "thin": false,
+    "author": "Glenn Garner",
+    "tags": [
+      "Late Night TV",
+      "News",
+      "Druski",
+      "Elizabeth Holmes",
+      "NBC",
+      "Saturday Night Live",
+      "SNL",
+      "You Can See Everything"
+    ]
+  },
+  {
+    "id": "4176b6f52c417637a5cb03abddbac30ab967c1f942ed28a7054c76cc91ea7feb",
+    "title": "My husband’s Reebok underwear say “Reebeebok” on the back because of the split seam",
+    "summary": "&#32; submitted by &#32; /u/hangingdenim &#32; to &#32; r/mildlyinteresting [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/mildlyinteresting/comments/1xqqf44/my_husbands_reebok_underwear_say_reebeebok_on_the",
+    "published_at": "2026-11-08T05:06:21+00:00",
+    "image_url": "https://preview.redd.it/b6jjczf6nb0i1.jpeg",
+    "collection_timestamp": "2026-11-08T08:35:25.893320+00:00",
+    "thin": false,
+    "author": "/u/hangingdenimhttps://www.reddit.com/user/hangingdenim",
+    "tags": [
+      "mildlyinteresting"
+    ]
+  },
+  {
+    "id": "88d91d43aa92d0a7d9f14c465f6dc7e4337d465d22001a612f60216c688c74b9",
+    "title": "Emma Stone Ambushes Druski’s ‘SNL’ Monologue in Adorable Fashion",
+    "summary": "When Druski was announced as a future host of “Saturday Night Live,” it was its most interesting move in quite some time. The sketch-comedy show had tapped its first exclusively digital creator (who hadn’t experienced crossover success, a la Issa Rae or Quinta Brinson) to serve as its master of ceremonies, marking its first major [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/tv/news/emma-stone-druski-snl-monologue-the-catch-1236942272",
+    "published_at": "2026-11-08T05:00:40+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Screenshot-2026-11-07-at-11.48.59-PM.png",
+    "collection_timestamp": "2026-11-08T08:35:25.883127+00:00",
+    "thin": false,
+    "author": "Marlow Stern",
+    "tags": [
+      "News",
+      "Druski",
+      "Emma Stone",
+      "Saturday Night Live",
+      "SNL"
+    ]
+  },
+  {
+    "id": "4c900bf2668ccb13a6cb9c6842628088d8f67e85c17189f654587d9539262693",
+    "title": "10 Perfectly Designed Final Fantasy Magic Cards That Are 10/10, No Notes",
+    "summary": "Discover 10 perfectly designed Final Fantasy Magic: The Gathering cards that nail the crossover's flavor and mechanics.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/best-final-fantasy-magic-the-gathering-card-designs",
+    "published_at": "2026-11-08T05:00:17+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/buster-sword-mtg-final-fantasy.png",
+    "collection_timestamp": "2026-11-08T08:35:25.888502+00:00",
+    "thin": false,
+    "author": "Ryan Epps",
+    "tags": [
+      "Polygon Lists",
+      "Magic: The Gathering"
+    ]
+  },
+  {
+    "id": "0cb82b61adf0325b98f8a9a019cdcf56360b7cec7ff5d224e35a591af9d1270d",
+    "title": "Emma Stone Joins Druski For His ‘SNL’ Debut Opening Monologue While Filming ‘The Catch’ Rom-Com",
+    "summary": "As Druksi made his Saturday Night Live debut, he had some moral support from a friend who happens to be in the Five-Timers Club. On this weekend&#8217;s episode of the NBC sketch comedy show, the content creator was joined by The Catch co-star Emma Stone during his opening monologue, whom he joked is his romantic [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/emma-stone-joins-druski-snl-debut-opening-monologue-1237216552",
+    "published_at": "2026-11-08T04:54:25+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Emma-Stone-Druski-SNL.jpg",
+    "collection_timestamp": "2026-11-08T08:35:25.885114+00:00",
+    "thin": false,
+    "author": "Glenn Garner",
+    "tags": [
+      "Late Night TV",
+      "News",
+      "Druski",
+      "Emma Stone",
+      "Saturday Night Live",
+      "SNL"
+    ]
+  },
+  {
+    "id": "b457f0ef0e3f10e08373f36369ce4dd91865cfb93e24b52966242dffcdf3845c",
+    "title": "James Talarico Crashes ‘SNL’ Cold Open: ‘I’m the Guy Who’s Been Texting You Every Day Asking for $5’",
+    "summary": "Newly elected Texas Sen. James Talarico crashed this week’s “Saturday Night Live” cold open in order to ask the question on everyone’s mind: How many more of these “Donald-Trump-freezes-the-action-to-ramble” cold opens is “SNL” going to do? Responded “Donald Trump” (James Austin Johnson): “Infinity!&#8221; Talarico popped up near the end of the cold open to cheers [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/tv/news/james-talarico-saturday-night-live-snl-cold-open-election-1236942257",
+    "published_at": "2026-11-08T04:53:48+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Screenshot-2026-11-07-at-11.36.08-PM.png",
+    "collection_timestamp": "2026-11-08T08:35:25.883350+00:00",
+    "thin": false,
+    "author": "Michael Schneider",
+    "tags": [
+      "News",
+      "Donald Trump",
+      "Druski",
+      "James Talarico",
+      "Saturday Night Live"
+    ]
+  },
+  {
+    "id": "2c2818858b5a8394b669495311e3102614a0e0aa58cc73333a132e04ad67d5fc",
+    "title": "Emma Stone Joins Druski During His ‘SNL’ Hosting Debut",
+    "summary": "The Oscar winner and comedian will co-star in the Universal Pictures rom-com The Catch, which hits theaters on May 21, 2027.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/druski-snl-monologue-emma-stone-1236750120",
+    "published_at": "2026-11-08T04:53:13+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.886127+00:00",
+    "thin": false,
+    "author": "McKinley Franklin",
+    "tags": [
+      "TV",
+      "TV News",
+      "druski",
+      "Emma Stone",
+      "saturday night live",
+      "SNL"
+    ]
+  },
+  {
+    "id": "e71304be8175ca7f248a4e9c29a99a879f159e5a1a299b58baa8f8ac1f2f1348",
+    "title": "James Talarico Stuns ‘SNL’ With Post-Midterms Cameo & “Trump Freezers” Swipe",
+    "summary": "After of a week that saw MAGA’s political fangs knocked out by a big blue sock to jaw in the midterms, Saturday Night Live tonight leaped into the ring and started swinging from the cold open get-go. In fact, they went Texas BBQ hot with newly elected James Talarico showing up. Taking another Donald Trump [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/saturday-night-live-james-talarico-cold-open-1237216532",
+    "published_at": "2026-11-08T04:52:21+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Screenshot-2026-11-07-at-9.35.53-PM-1.png",
+    "collection_timestamp": "2026-11-08T08:35:25.885336+00:00",
+    "thin": false,
+    "author": "Dominic Patten",
+    "tags": [
+      "Late Night TV",
+      "Politics",
+      "Recaps",
+      "Reviews",
+      "Colin Jost",
+      "Comedy",
+      "Dana White",
+      "Donald Trump",
+      "Druski",
+      "ElectionLine",
+      "James Talarico",
+      "Lorne Michaels",
+      "midterms",
+      "midterms 2026",
+      "NBC",
+      "Saturday Night Live",
+      "SNL",
+      "The Strokes"
+    ]
+  },
+  {
+    "id": "9acb30bacecb35382aaa8b838d68b37fb46c8fbc9cdcde0de8ed740f26c2c6ed",
+    "title": "Former NCT Member Lucas Wong Makes Acting Debut in Taiwanese Folk-Music Drama ‘A Time’ With Jerry Yan, Ning Chang at Taiwan Creative Content Fest",
+    "summary": "Taiwanese director Tsao Jui-yuan unveiled his new drama series “A Time,” rooted in Taiwan’s campus folk music movement of the 1970s, at the Taiwan Creative Content Fest (TCCF). Tsao, known for “Crystal Boys,” “A Touch of Green” and “Seqalu: Formosa 1867,” spent eight years developing the project, which traces four decades of friendship, love and [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/markets-festivals/nct-lucas-wong-acting-debut-taiwan-drama-a-time-1236942261",
+    "published_at": "2026-11-08T04:47:28+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/A-Time-launch-TCCF.jpg",
+    "collection_timestamp": "2026-11-08T08:35:25.883580+00:00",
+    "thin": false,
+    "author": "Naman Ramachandran",
+    "tags": [
+      "Asia",
+      "Global",
+      "Markets & Festivals",
+      "News",
+      "A Time",
+      "Lucas Wong",
+      "NCT",
+      "Taiwan Creative Content Fest"
+    ]
+  },
+  {
+    "id": "a197f7fe01fb4df12652984af9ea70ed8dfaa451997c277a533171bc886288c9",
+    "title": "‘The Undertaker’ Director Thiti Srinuan Reveals He Defecated on Camera for Real as an Actor in Thailand’s Taibaan Universe",
+    "summary": "Thiti “Tongte” Srinuan, director of Thai blockbuster “The Undertaker,” put up a photo of himself defecating on camera for real during a session at Taiwan Creative Content Fest in Taipei. The scene dates from his days as a supporting actor with Taibaan Studio. “I was a supporting actor, and I played a crazy person,” Srinuan [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/markets-festivals/undertaker-director-reveals-defecated-on-camera-for-real-1236942252",
+    "published_at": "2026-11-08T04:32:51+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/TCCF-Thailand-panel.jpg",
+    "collection_timestamp": "2026-11-08T08:35:25.883802+00:00",
+    "thin": false,
+    "author": "Naman Ramachandran",
+    "tags": [
+      "Asia",
+      "Global",
+      "Markets & Festivals",
+      "News",
+      "Taibaan Universe",
+      "Taiwan Creative Content Fest",
+      "The Undertaker",
+      "Thiti Srinuan"
+    ]
+  },
+  {
+    "id": "6eb3d330a365cc546e25a8f8b5f6cfc804a8b89d8c6623683bd1ccf166b3b070",
+    "title": "[Postgame Thread] Notre Dame Defeats Miami 31-24",
+    "summary": "Box Score provided by ESPN Team 1 2 3 4 T Miami 0 3 14 7 24 Notre Dame 3 14 7 7 31 &#32; submitted by &#32; /u/CFB_Referee &#32; to &#32; r/CFB [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/CFB/comments/1xqpdl2/postgame_thread_notre_dame_defeats_miami_3124",
+    "published_at": "2026-11-08T04:07:10+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.893580+00:00",
+    "thin": false,
+    "author": "/u/CFB_Refereehttps://www.reddit.com/user/CFB_Referee",
+    "tags": [
+      "CFB"
+    ]
+  },
+  {
+    "id": "77aed9ddd8d15851e6a6ddadda6c230f987474562d9ab52f4901fafd188c0dc8",
+    "title": "2026 LACMA Art+Film Gala Photos: Nicole Kidman, Sarah Paulson, Viola Davis, Andrew Garfield, Rosé and More Stars",
+    "summary": "Quinta Brunson, Anya Taylor-Joy, Sofía Vergara, Kylie Jenner, Parker Posey, Anya Taylor-Joy, Anthony Ramos, Tyriq Withers, Denis Villeneuve and Paris Hilton were also in attendance at the star-studded event.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/gallery/2025-lacma-art-film-gala-photos-andrew-garfield-sofia-vergara-1236750141",
+    "published_at": "2026-11-08T04:02:36+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.886316+00:00",
+    "thin": false,
+    "author": "Tristan Cassel",
+    "tags": [
+      "Lifestyle",
+      "Lifestyle News",
+      "Events",
+      "LACMA",
+      "Red Carpet",
+      "red carpets"
+    ]
+  },
+  {
+    "id": "7f9b1c6361381c879bccd54e4eaecc49d35f3161b15a334973fa49a058a6c0a5",
+    "title": "Paramount’s 4-Part Action Fantasy Epic Has One of the Best Seasons in TV History",
+    "summary": "In its third season, a beloved animated hero grows up the hard way, living with the fallout of her biggest choice and facing a chilling new villain.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/the-legend-of-korra-season-3-best-season",
+    "published_at": "2026-11-08T04:00:17+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/legend-of-korra-outlook.jpeg",
+    "collection_timestamp": "2026-11-08T08:35:25.888661+00:00",
+    "thin": false,
+    "author": "Maria Loreto",
+    "tags": [
+      "What to Watch",
+      "TV",
+      "The Legend of Korra"
+    ]
+  },
+  {
+    "id": "09e8b333f39142fc0dbbb2f3be0b88eacba4c31c67ddef95e1d79d624b7ac01f",
+    "title": "U2 Weigh In on Ed Sheeran and Macklemore Tour Controversy",
+    "summary": "The Edge and Larry Mullen Jr. defended the rapper’s right to speak out, while the Edge said Sheeran “should not be vilified”.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/music-news/u2-macklemore-ed-sheeran-tour-censorship-comments-1236377026",
+    "published_at": "2026-11-08T03:53:23+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.886701+00:00",
+    "thin": false,
+    "author": "Jessica Lynch",
+    "tags": [
+      "Music",
+      "Music News",
+      "Rock",
+      "Ed Sheeran",
+      "Larry Mullen Jr.",
+      "macklemore",
+      "The Edge",
+      "u2"
+    ]
+  },
+  {
+    "id": "b5a6293dd06b36cfc88b3703ff921936a60e5a65ba67180cedc12768de9ccb71",
+    "title": "Cristian Mungiu’s Palme d’Or Winner ‘Fjord’ Takes Jakarta World Cinema Audience Award as Short Film Winners Land Debut Feature Funding",
+    "summary": "Cristian Mungiu’s Palme d’Or winner “Fjord” took the audience award at Jakarta World Cinema, which wrapped with Banjong Pisanthanakun’s Thai horror film “Inherit” and handed three Indonesian short filmmakers funding for their first features. “Fjord,” which also opened the festival, won the Jakarta World Cinema Audience Award, the event’s only feature prize. The closing ceremony [&#8230;]",
+    "category": "entertainment",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/festivals/palme-dor-winner-fjord-jakarta-world-cinema-audience-award-1236942247",
+    "published_at": "2026-11-08T03:50:26+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Jakarta-World-Cinema-closing-night-and-awards.jpg",
+    "collection_timestamp": "2026-11-08T08:35:25.884033+00:00",
+    "thin": false,
+    "author": "Naman Ramachandran",
+    "tags": [
+      "Asia",
+      "Festivals",
+      "Global",
+      "News",
+      "Cristian Mungiu",
+      "fjord",
+      "Jakarta World Cinema"
+    ]
+  },
+  {
+    "id": "c573936ee117d1f486fc5e096887ef8ff5f7b63d8224bafa0d471309f57ae95e",
+    "title": "In 2010, Steven Carter went on a missing kids website and realized that he had been missing for about 33 years",
+    "summary": "&#32; submitted by &#32; /u/whicky1978 &#32; to &#32; r/BeAmazed [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/BeAmazed/comments/1xqp2tt/in_2010_steven_carter_went_on_a_missing_kids",
+    "published_at": "2026-11-08T03:50:21+00:00",
+    "image_url": "https://preview.redd.it/mis3pdcm9b0i1.jpeg",
+    "collection_timestamp": "2026-11-08T08:35:25.895114+00:00",
+    "thin": false,
+    "author": "/u/whicky1978https://www.reddit.com/user/whicky1978",
+    "tags": [
+      "BeAmazed"
+    ]
+  },
+  {
+    "id": "6fe847ed188a7860772988d2d0840d705a6d0a560c12bce4d25816e47d11f07a",
+    "title": "Simple Plan Are Meeting a Whole New Generation of Fans, 25 Years In",
+    "summary": "Drummer Chuck Comeau talks TikTok, Good Things Festival, and why a farewell tour is “not in the cards”",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/music-news/simple-plan-new-generation-fans-chuck-comeau-interview-1236368697",
+    "published_at": "2026-11-08T03:45:04+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.886851+00:00",
+    "thin": false,
+    "author": "Jessica Lynch",
+    "tags": [
+      "Music",
+      "Music News",
+      "Rock",
+      "australia",
+      "Chuck Comeau",
+      "Good Things Festival",
+      "interview",
+      "pop punk",
+      "Simple Plan",
+      "TikTok"
+    ]
+  },
+  {
+    "id": "75ba8b33357f9f40a50000331fefa0b76a29cb15ddaaa0291ab6cc31b2be4428",
+    "title": "9 Near-Perfect Dragon Age Replacements For Fans of Fantasy RPGs",
+    "summary": "If you're looking for the best games like Dragon Age, these Dragon Age replacement fantasy RPGs have you covered.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/best-dragon-age-replacements",
+    "published_at": "2026-11-08T03:40:49+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/9450027/dragon_age.jpg",
+    "collection_timestamp": "2026-11-08T08:35:25.888798+00:00",
+    "thin": false,
+    "author": "Rebecca Corgan",
+    "tags": [
+      "Polygon Lists",
+      "Dragon Age"
+    ]
+  },
+  {
+    "id": "54379aee3ddcce59d500dac6129e8d803b7b520851a4e30f99b4e00eb173b3bf",
+    "title": "I've never been so proud of someone I've never met",
+    "summary": "&#32; submitted by &#32; /u/SpiritualPhase5192 &#32; to &#32; r/nextfuckinglevel [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/nextfuckinglevel/comments/1xqopee/ive_never_been_so_proud_of_someone_ive_never_met",
+    "published_at": "2026-11-08T03:29:45+00:00",
+    "image_url": "https://external-preview.redd.it/YWs2ZDE3eHg1YjBpMc3CoBSgEiCl_LSCU7ENUBTsoyYyL-JEzvchS5QRRvjO.png",
+    "collection_timestamp": "2026-11-08T08:35:25.893001+00:00",
+    "thin": false,
+    "author": "/u/SpiritualPhase5192https://www.reddit.com/user/SpiritualPhase5192",
+    "tags": [
+      "nextfuckinglevel"
+    ]
+  },
+  {
+    "id": "c512e5ed4c9214b6ececbd9e95b3684673266bf3ed14122951fb7e3b4ab0182c",
+    "title": "‘The Invisible Guest’ Remake Director Danial Rifki on Suharto-Era Fear and Why His New Thriller Is About ‘How to Fight Back’",
+    "summary": "Indonesian director Danial Rifki’s remake of Spanish thriller “The Invisible Guest,” which he says was completed in 2023 before exclusivity clauses with HBO held up its release, finally reached the big screen at Jakarta World Cinema. It is one of three Rifki films at the festival. The Falcon Pictures production, which reworks Oriol Paulo’s 2016 [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/festivals/invisible-guest-remake-director-suharto-era-fear-fighting-back-1236942189",
+    "published_at": "2026-11-08T03:21:16+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Daniel-Rifiki.jpg",
+    "collection_timestamp": "2026-11-08T08:35:25.884270+00:00",
+    "thin": false,
+    "author": "Naman Ramachandran",
+    "tags": [
+      "Asia",
+      "Festivals",
+      "Global",
+      "News",
+      "Danial Rifki",
+      "Jakarta World Cinema",
+      "The Invisible Guest"
+    ]
+  },
+  {
+    "id": "9d55d147ce099f80b920e2b5311de4d2584ea9f459a1e9f951b42134a0b749ca",
+    "title": "What in the world",
+    "summary": "&#32; submitted by &#32; /u/Dev1412 &#32; to &#32; r/SipsTea [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/SipsTea/comments/1xqoioy/what_in_the_world",
+    "published_at": "2026-11-08T03:19:34+00:00",
+    "image_url": "https://preview.redd.it/wcozhki44b0i1.jpeg",
+    "collection_timestamp": "2026-11-08T08:35:25.894108+00:00",
+    "thin": true,
+    "author": "/u/Dev1412https://www.reddit.com/user/Dev1412",
+    "tags": [
+      "SipsTea"
+    ]
+  },
+  {
+    "id": "8f1e09e1c03cfe74bc254d4dc1db019203154a92b0b574b4287bdc39010ffc71",
+    "title": "Jennifer Welch and Angie Sullivan Apologize for Laughing at “Insensitive Joke” About Charlie Kirk on ‘I’ve Had It’ Podcast",
+    "summary": "\"We regret it, and we apologize. Whatever our political differences, there is nothing funny about gun violence,\" they wrote in a joint statement on Saturday.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/news/general-news/jennifer-welch-angie-sullivan-apologize-charlie-kirk-1236750136",
+    "published_at": "2026-11-08T03:08:35+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.886491+00:00",
+    "thin": false,
+    "author": "McKinley Franklin",
+    "tags": [
+      "General News",
+      "News",
+      "Charlie Kirk"
+    ]
+  },
+  {
+    "id": "866e357daa07b3e66ea220363aa348567d12d01584ff8ce8abfd7d32cf7752e0",
+    "title": "Susie Wiles Revealed to Have Backed Vance in Civil War Before Firing",
+    "summary": "&#32; submitted by &#32; /u/elliottbaytrail &#32; to &#32; r/politics [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/politics/comments/1xqobfl/susie_wiles_revealed_to_have_backed_vance_in",
+    "published_at": "2026-11-08T03:08:33+00:00",
+    "image_url": "https://external-preview.redd.it/dgp8aOx51coJ-tWNqEaMJzTN9Sz6Pd0V4kP94QXo2s4.jpeg",
+    "collection_timestamp": "2026-11-08T08:35:25.895981+00:00",
+    "thin": false,
+    "author": "/u/elliottbaytrailhttps://www.reddit.com/user/elliottbaytrail",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "id": "9106a86d573abdee59a8365d3cd7c352d1a239d3727207449be3e0009fe1c400",
+    "title": "How to Play Every GTA Game in 2026",
+    "summary": "GTA might be the most popular video game franchise of all time, but a lot of it is hard to play. Here's a guide on how to play every GTA game.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/gta-games-all-2026-where-to-play",
+    "published_at": "2026-11-08T02:54:13+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/grand-theft-auto-6-promo-shot.jpg",
+    "collection_timestamp": "2026-11-08T08:35:25.888928+00:00",
+    "thin": false,
+    "author": "Oli Welsh",
+    "tags": [
+      "Polygon Lists",
+      "Grand Theft Auto"
+    ]
+  },
+  {
+    "id": "bd84910d27cddb4961cf76ddb2d20c3f5cb88cd94e007c52279d894f1de036ba",
+    "title": "Murder-House Impostor Thriller ‘The Stand-In Family’ Wins Mirror Fiction Award at Taiwan Creative Content Fest",
+    "summary": "Taiwanese literary IP developer and production company Mirror Fiction announced the winners of its fifth Mirror Fiction Award and unveiled five projects for its 2027 slate at the Taiwan Creative Content Fest (TCCF). The NT$1 million ($32,000) Grand Prize went to Iris Kong for “The Stand-In Family” (provisional title), a suspense novel about four strangers [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/markets-festivals/impostor-thriller-the-stand-in-family-mirror-fiction-award-tccf-1236942238",
+    "published_at": "2026-11-08T02:46:37+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Mirror-Fiction-winners-2026.jpg",
+    "collection_timestamp": "2026-11-08T08:35:25.884498+00:00",
+    "thin": false,
+    "author": "Naman Ramachandran",
+    "tags": [
+      "Asia",
+      "Global",
+      "Markets & Festivals",
+      "News",
+      "Mirror Fiction",
+      "Taiwan Creative Content Fest"
+    ]
+  },
+  {
+    "id": "2e192611cf557d0e4567d1f23608a413ee0a1bfc6ae5a020c1215559fa992d30",
+    "title": "8 Near-Perfect BioWare Games That Aged Like Fine Wine",
+    "summary": "From Baldur's Gate to a surprisingly good Sonic RPG, these 8 BioWare games still hold up decades later",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/top-bioware-games",
+    "published_at": "2026-11-08T02:43:33+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/07/Neverwinter-Nights-2-Enhanced-Edition-cover-image-Shadow-King.jpg",
+    "collection_timestamp": "2026-11-08T08:35:25.889056+00:00",
+    "thin": false,
+    "author": "Rebecca Corgan",
+    "tags": [
+      "Polygon Lists",
+      "Mass Effect 2"
+    ]
+  },
+  {
+    "id": "fc38f3d798b3587d98ba20f69b2134ec272a25e6faddf6471dc15825f002694a",
+    "title": "A message from the wife of the fan who got ejected from the Lakers-Kings game on Wednesday night",
+    "summary": "&#32; submitted by &#32; /u/ConnectionWeekly1263 &#32; to &#32; r/sportsgossips [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/sportsgossips/comments/1xqnhf4/a_message_from_the_wife_of_the_fan_who_got",
+    "published_at": "2026-11-08T02:23:15+00:00",
+    "image_url": "https://preview.redd.it/wzkvdg32ua0i1.jpeg",
+    "collection_timestamp": "2026-11-08T08:35:25.893851+00:00",
+    "thin": false,
+    "author": "/u/ConnectionWeekly1263https://www.reddit.com/user/ConnectionWeekly1263",
+    "tags": [
+      "sportsgossips"
+    ]
+  },
+  {
+    "id": "a37b877deac33d2a18799766a497ff3a44443a8925f163da11bc5a90d4bc4a99",
+    "title": "More ice than drink",
+    "summary": "&#32; submitted by &#32; /u/Separate_Finance_183 &#32; to &#32; r/mildlyinfuriating [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xqngo5/more_ice_than_drink",
+    "published_at": "2026-11-08T02:22:04+00:00",
+    "image_url": "https://external-preview.redd.it/ZDdvN2VucnR0YTBpMSboHdxozUqVkIV3vEo9Rwq3QWhz9OEaj4FL5YhoPgV0.png",
+    "collection_timestamp": "2026-11-08T08:35:25.892709+00:00",
+    "thin": true,
+    "author": "/u/Separate_Finance_183https://www.reddit.com/user/Separate_Finance_183",
+    "tags": [
+      "mildlyinfuriating"
+    ]
+  },
+  {
+    "id": "014a7685d11dbd40898693df8c030bb089f9c312a4890976d5ffa31d270d1422",
+    "title": "4 Years Later, Captain Pike's Most Inspiring Star Trek Quote Is Still the Best Sci-Fi Line of the Decade",
+    "summary": "Anson Mount's Captain Pike delivers a powerful Star Trek quote about hope, destiny, and why the future is still ours to shape.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/star-trek-captain-pike-most-inspiring-quote",
+    "published_at": "2026-11-08T02:00:17+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/08/snw3_307_mg_03_27_24_00037_rt_f.jpg",
+    "collection_timestamp": "2026-11-08T08:35:25.889211+00:00",
+    "thin": false,
+    "author": "Terry Terrones",
+    "tags": [
+      "Star Trek",
+      "Star Trek",
+      "TV",
+      "Sci-Fi",
+      "Star Trek: Strange New Worlds"
+    ]
+  },
+  {
+    "id": "e5084cadadd7fd5a425858f938135761c33f71f80c91233a2b2b4e2d0e0a2a4f",
+    "title": "This completely empty retro arcade was in the basement of a hotel I stayed at. Weird vibes",
+    "summary": "&#32; submitted by &#32; /u/Thawayshegoes &#32; to &#32; r/pics [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/pics/comments/1xqmxz2/this_completely_empty_retro_arcade_was_in_the",
+    "published_at": "2026-11-08T01:54:38+00:00",
+    "image_url": "https://preview.redd.it/s9ewlwyyoa0i1.jpeg",
+    "collection_timestamp": "2026-11-08T08:35:25.894585+00:00",
+    "thin": false,
+    "author": "/u/Thawayshegoeshttps://www.reddit.com/user/Thawayshegoes",
+    "tags": [
+      "pics"
+    ]
+  },
+  {
     "id": "5070baa590d601995002b1274d93108df1dd2e29c8de30dcbd585e58c034d798",
     "title": "Druski & The Strokes on ‘SNL’: Here’s Where to Watch ‘Saturday Night Live’ Online for Free",
     "summary": "Livestream the comedian host and the indie rock band perform on Nov. 7 — watch live online for free.",
@@ -53,6 +1027,22 @@
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec8a/live/471601a0-db05-11f1-8c76-a598ce5e72e4.jpg",
     "collection_timestamp": "2026-11-08T01:42:42.621269+00:00",
     "thin": false
+  },
+  {
+    "id": "71330a2c90daf252b8dac5ad9a66ac79e3054c4ee62d143bed99f79808750f58",
+    "title": "Meirl",
+    "summary": "&#32; submitted by &#32; /u/graystone777 &#32; to &#32; r/meirl [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/meirl/comments/1xqlpgu/meirl",
+    "published_at": "2026-11-08T00:51:23+00:00",
+    "image_url": "https://preview.redd.it/2npgzkyoda0i1.jpeg",
+    "collection_timestamp": "2026-11-08T08:35:25.894315+00:00",
+    "thin": true,
+    "author": "/u/graystone777https://www.reddit.com/user/graystone777",
+    "tags": [
+      "meirl"
+    ]
   },
   {
     "id": "cec4ee10a9424f17ee426c019303bb124fa7c312038f679cc016f5252598eefc",
@@ -405,6 +1395,18 @@
     ]
   },
   {
+    "id": "c6084f5710148df4f4a8aff0bbc5aa20f5a3d7b4c89006e96298fc7868d0fe82",
+    "title": "Exclusive - Divya Dutta: You Have to Keep Proving Yourself in This Industry",
+    "summary": "Divya Dutta talks about Chiraiya giving her the bankability, working with Manoj Bajpayee and more",
+    "category": "bollywood",
+    "source": "Filmfare",
+    "url": "https://www.filmfare.com/news/bollywood/exclusive-divya-dutta-you-have-to-keep-proving-yourself-in-this-industry-87063.html",
+    "published_at": "2026-11-07T23:41:17+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.880247+00:00",
+    "thin": false
+  },
+  {
     "id": "91028ff3364b05183505ef4e8c3e7b5e3403c2e8388881db5041477e1c5e4c14",
     "title": "Christopher Nolan On DGA “Holding The Studios To Account” In Protecting Copyright From AI, Including Anti-AI Boilerplate In ‘The Odyssey’",
     "summary": "Halfway into his first time as DGA president, Christopher Nolan is holding the studios&#8217; feet to the fire in protecting copyrighted materials from AI. In a new interview, the 2x Oscar winner explained that it&#8217;s &#8220;down to the studios&#8221; to go after AI recreations of their work, noting that he was &#8220;very pleased&#8221; his current [&#8230;]",
@@ -664,6 +1666,22 @@
     "author": "/u/No-Hospital5028https://www.reddit.com/user/No-Hospital5028",
     "tags": [
       "SipsTea"
+    ]
+  },
+  {
+    "id": "cf678527e9123ec05a8f239af9f38104833656545ed35b010260645ab73f9d42",
+    "title": "The United States Is About to Be Blindsided.",
+    "summary": "&#32; submitted by &#32; /u/Famous-Sympathy7011 &#32; to &#32; r/anticapitalism [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/anticapitalism/comments/1xqj8l5/the_united_states_is_about_to_be_blindsided",
+    "published_at": "2026-11-07T22:52:07+00:00",
+    "image_url": "https://external-preview.redd.it/5goEbhuz_dRfEIUwYLUxqQN4phsowFvwhiTMkKzedXE.jpeg",
+    "collection_timestamp": "2026-11-08T08:35:25.895424+00:00",
+    "thin": false,
+    "author": "/u/Famous-Sympathy7011https://www.reddit.com/user/Famous-Sympathy7011",
+    "tags": [
+      "anticapitalism"
     ]
   },
   {
@@ -1201,6 +2219,22 @@
     ]
   },
   {
+    "id": "69c8f0fab1011d4a3d852d900df99149f4f5c1086932cb1113432ba06a93a1fc",
+    "title": "Couples with absolutely no chemistry",
+    "summary": "Harry Potter and Ginny Weasly Clark and Lois (Snyder films) Jon and Dany - Game of Thrones &#32; submitted by &#32; /u/hiiloovethis &#32; to &#32; r/TopCharacterTropes [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/TopCharacterTropes/comments/1xqg3ph/couples_with_absolutely_no_chemistry",
+    "published_at": "2026-11-07T20:29:09+00:00",
+    "image_url": "https://preview.redd.it/5cevg4ae290i1.png",
+    "collection_timestamp": "2026-11-08T08:35:25.895697+00:00",
+    "thin": false,
+    "author": "/u/hiiloovethishttps://www.reddit.com/user/hiiloovethis",
+    "tags": [
+      "TopCharacterTropes"
+    ]
+  },
+  {
     "id": "439b511759d6044bb75dff6ea57a6efecbec8bf69ceeb4a8499fd33d00f649e6",
     "title": "Ramayana Part One Early Box Office Trends: Ranbir Kapoor and Yash starrer grows on Saturday, Capacity issues in South, Outstanding overseas",
     "summary": "Ramayana: Part One is looking to collect Rs. 68 crore nett approx on Saturday in India, with the Hindi version on track to Rs. 50 crore nett and the South-dubbed versions bringing in Rs. 18 crore nett. That will put its three-day collection just under Rs. 180 crore nett. There is a growth in business today of around 45-50 per cent, roughly the same for Hindi and South versions. In the morning, it seemed to be even better, but the Diwali festivities slowed down business in Hindi, and the film was",
@@ -1443,6 +2477,22 @@
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f07a/live/a49461b0-daf0-11f1-827e-c7e7ee102257.jpg",
     "collection_timestamp": "2026-11-07T22:14:03.071622+00:00",
     "thin": false
+  },
+  {
+    "id": "d1c175309c2daee3ed2ab06362902b0de59a04fbf5a9a4ce1bf7d07bb5263fde",
+    "title": "Trump Names UFC Chief Dana White as New Press Secretary",
+    "summary": "&#32; submitted by &#32; /u/MarvelsGrantMan136 &#32; to &#32; r/sports [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/sports/comments/1xqetf5/trump_names_ufc_chief_dana_white_as_new_press",
+    "published_at": "2026-11-07T19:33:27+00:00",
+    "image_url": "https://external-preview.redd.it/SQ9iPK_b6GKhTDQt8-MAz-9my_aI8gtQO3_PxOHd93c.jpeg",
+    "collection_timestamp": "2026-11-08T08:35:25.894842+00:00",
+    "thin": false,
+    "author": "/u/MarvelsGrantMan136https://www.reddit.com/user/MarvelsGrantMan136",
+    "tags": [
+      "sports"
+    ]
   },
   {
     "id": "f306434c83df3a4a5d4b97a0cdd3796b1a384a506fc6bafe17bbf0bf713fb7ef",
@@ -2570,6 +3620,18 @@
     "published_at": "2026-11-07T15:43:00+05:30",
     "image_url": null,
     "collection_timestamp": "2026-11-07T22:14:03.060216+00:00",
+    "thin": false
+  },
+  {
+    "id": "8032cad6bb1630aad7a348f68ab3fcf559222542ce18e8d93505a30b77a96b0e",
+    "title": "Kamal Haasan At 72: The Writer-Director Who Never Stopped Challenging Cinema",
+    "summary": "Kamal Haasan At 72: The Writer-Director Who Never Stopped Challenging Cinema.",
+    "category": "entertainment",
+    "source": "Filmfare",
+    "url": "https://www.filmfare.com/news/south/kamal-haasan-at-72-the-writer-director-who-never-stopped-challenging-cinema-87060.html",
+    "published_at": "2026-11-07T15:39:25+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.880370+00:00",
     "thin": false
   },
   {
@@ -5435,6 +6497,18 @@
     "thin": false
   },
   {
+    "id": "8f3085cf02cca8830786512e23193a262b1dbf7c9dffa7ad7984a3a2945bc3ec",
+    "title": "EXCLUSIVE: Mohit Malik on Mirzapur, Intimate Scenes, Wife Aditi’s Reaction and More",
+    "summary": "Mohit Malik opens about his Mirzapur journey, shooting intimate scenes and his diverse roles.",
+    "category": "bollywood",
+    "source": "Filmfare",
+    "url": "https://www.filmfare.com/news/bollywood/exclusive-mohit-malik-on-mirzapur-intimate-scenes-wife-aditis-reaction-and-more-87032.html",
+    "published_at": "2026-11-06T23:22:21+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.880503+00:00",
+    "thin": false
+  },
+  {
     "id": "4e999c81b27c33779d0b1d2717bc398f35b1dab24d3c3e78887b6d76156a3720",
     "title": "Lampard feels hair pull should have led to Coventry penalty",
     "summary": "Coventry had a trio of decisions go against them in defeat at Everton, with Frank Lampard suggesting a hair pull should have been a penalty.",
@@ -7746,6 +8820,18 @@
     ]
   },
   {
+    "id": "6a08c5bf44d97cc85ea5186289bfc5b0758f4081c9f29d20e5a7128cd10e44b4",
+    "title": "“It Was Very Painful”: Pete Davidson on His Preparation for How to Rob a Bank",
+    "summary": "Pete Davidson on the emotional demands of his role in How To Rob a Bank.",
+    "category": "bollywood",
+    "source": "Filmfare",
+    "url": "https://www.filmfare.com/news/hollywood/it-was-very-painful-pete-davidson-on-his-preparation-for-how-to-rob-a-bank-87035.html",
+    "published_at": "2026-11-06T18:47:44+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.880635+00:00",
+    "thin": false
+  },
+  {
     "id": "0bc2110c765cf3872e5479f3b4897e5f8198bd09511695fb6e249edf112f1bf2",
     "title": "Leo Reich on Capturing Gen Z Angst in ‘It Gets Worse,’ Scoring a Lena Dunham Cameo and Having ‘Loads of Ideas’ for a Potential Season 2",
     "summary": "Leo Reich can&#8217;t seem to shake London. Born and raised north of the river, the 28-year-old comedian, actor and writer moved east a few years ago — and it&#8217;s probably the furthest he&#8217;ll venture from home. &#8220;I wish I could be one of these people who&#8217;s like, &#8216;I&#8217;m going to go live in Spain for [&#8230;]",
@@ -8091,6 +9177,30 @@
     ]
   },
   {
+    "id": "a3950c7feb3b0b280e2e2a3144307b88898079a8627a29499c2e10a7ca2a46d4",
+    "title": "“I Don’t Know What I Was Thinking”: Matt Damon Regrets Turning Down Ted",
+    "summary": "âI Don't Know What I Was Thinkingâ\": Matt Damon Regrets Turning Down Ted",
+    "category": "bollywood",
+    "source": "Filmfare",
+    "url": "https://www.filmfare.com/news/bollywood/i-dont-know-what-i-was-thinking-matt-damon-regrets-turning-down-ted-87040.html",
+    "published_at": "2026-11-06T18:13:43+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.880783+00:00",
+    "thin": false
+  },
+  {
+    "id": "c5efa741e904b83676c253a59ea3aee76edcc881d579231de0817d0fe01af631",
+    "title": "Mahesh Bhatt Skips Ramayana Premiere, Weeps in Cinema Hall: “A Shared Experience”",
+    "summary": "Mahesh Bhatt Skips Ramayana Premiere, Weeps in Cinema Hall: âA Shared Experienceâ\"",
+    "category": "entertainment",
+    "source": "Filmfare",
+    "url": "https://www.filmfare.com/news/bollywood/mahesh-bhatt-skips-ramayana-premiere-weeps-in-cinema-hall-a-shared-experience-87039.html",
+    "published_at": "2026-11-06T18:08:26+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.880915+00:00",
+    "thin": false
+  },
+  {
     "id": "4ee50f7c6a19d465ca8951383e0ae86fae7cface6c08023c6497922fc917e371",
     "title": "Senator-elect Abdul El-Sayed:“There is one person in the world that has been trying to get this war fought for nearly all of our lifetimes. It is the Prime Minister of a foreign government. Gets invited to the Situation Room where he gets to dupe the dumbest fucking guy who ever was president…”",
     "summary": "&#32; submitted by &#32; /u/hairtie1 &#32; to &#32; r/Fauxmoi [link] &#32; [comments]",
@@ -8140,6 +9250,18 @@
     "tags": [
       "Gaming,News"
     ]
+  },
+  {
+    "id": "ef372e6f5d6522fa412c52d39cde81165db61467ee8c62cd79b2f08901dffb1f",
+    "title": "Salman Khan Clarifies Maatrubhumi Was Not Rewritten Under Government Pressure",
+    "summary": "Salman Khan also explained the real reason behind the film's title change.",
+    "category": "bollywood",
+    "source": "Filmfare",
+    "url": "https://www.filmfare.com/news/bollywood/salman-khan-clarifies-maatrubhumi-was-not-rewritten-under-government-pressure-87042.html",
+    "published_at": "2026-11-06T17:59:38+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.881029+00:00",
+    "thin": false
   },
   {
     "id": "a71368cd1389486e6b6e98e24b6255353fe78e03aded10481b7a206c420115b8",
@@ -8243,6 +9365,18 @@
     "tags": [
       "funny"
     ]
+  },
+  {
+    "id": "daefc76e368b0f09dd2652bbc5f5ef35a01e101d9fff95cd1f42d3f2f3ec36c7",
+    "title": "Santosh Davakhar on Gondhal's Oscars run: We don't have big connections, but we have a strong film",
+    "summary": "Santosh Davakhar reveals why Gondhal has a strong chance at the Oscars next year.",
+    "category": "entertainment",
+    "source": "Filmfare",
+    "url": "https://www.filmfare.com/news/bollywood/santosh-davakhar-on-gondhals-oscars-run-we-dont-have-big-connections-but-we-have-a-strong-film-86931.html",
+    "published_at": "2026-11-06T17:19:23+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.881146+00:00",
+    "thin": false
   },
   {
     "id": "78858318f26c483ce4a12e9982bc2d9e06766434458e57416501f2e5f30883c6",
@@ -8461,6 +9595,18 @@
     "thin": false
   },
   {
+    "id": "bc1718dc51ebc687bf15f2f4b30a401e9f2f8199102a38fe8f584061ddbe79f8",
+    "title": "“Food Is What Brings Us All Together”: Khushi Kapoor on Her Diwali Celebrations",
+    "summary": "âFood Is What Brings Us All Togetherâ\": Khushi Kapoor on Her Diwali Celebrations",
+    "category": "bollywood",
+    "source": "Filmfare",
+    "url": "https://www.filmfare.com/news/bollywood/food-is-what-brings-us-all-together-khushi-kapoor-on-her-diwali-celebrations-87025.html",
+    "published_at": "2026-11-06T16:26:03+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.881282+00:00",
+    "thin": false
+  },
+  {
     "id": "df5bbdb8bd3ae4535220815a2978aa6e9b7f6409c5686afe6ba476ab828f18eb",
     "title": "GTA 6 Is Going All Out On Details You Might Never Even Notice",
     "summary": "It's the smallest details that stand out most in Grand Theft Auto 6 , and thanks to all the screenshots that developer Rockstar Games has posted since the game was officially announced, there's been no shortage of stuff to analyze. Last week, senior video producer Jake Dekker grabbed all 99 of those official screenshots--with the number of images increasing this week thanks to a new screenshot dump--and started going through each and every single one of them. He found plenty of cool little secre",
@@ -8535,6 +9681,30 @@
     "tags": [
       "OldSchoolCool"
     ]
+  },
+  {
+    "id": "72ca4037506e51c70f4ed45f962772a171029810f7d817acf27134a014d5bc16",
+    "title": "Met Gala 2027 Announces New Theme: ‘extraORDINARY: Fashion and the Poetics of the Everyday’",
+    "summary": "Met Gala 2027 Announces New Theme: â'extraORDINARY: Fashion and the Poetics of the Everyday'",
+    "category": "bollywood",
+    "source": "Filmfare",
+    "url": "https://www.filmfare.com/news/bollywood/met-gala-2027-announces-new-theme-extraordinary-fashion-and-the-poetics-of-the-everyday-87026.html",
+    "published_at": "2026-11-06T15:48:36+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.881420+00:00",
+    "thin": false
+  },
+  {
+    "id": "b3d15b2e5bf11c132245acb96e3624667467290cd6dc93018e40c4e981251c42",
+    "title": "Salman Khan’s Maatrubhumi to Release This November, Ahead of Shah Rukh Khan’s King",
+    "summary": "Salman Khan's Maatrubhumi has reportedly locked November 20 as its theatrical release date.",
+    "category": "bollywood",
+    "source": "Filmfare",
+    "url": "https://www.filmfare.com/news/bollywood/salman-khans-maatrubhumi-to-release-this-november-ahead-of-shah-rukh-khans-king-87033.html",
+    "published_at": "2026-11-06T15:45:11+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.881550+00:00",
+    "thin": false
   },
   {
     "id": "07fe361a09864548b5125ec62a68e9ced64c32a44f9609416a89a889572286f5",
@@ -10014,6 +11184,18 @@
     "thin": false
   },
   {
+    "id": "2a0fb5aa669bb79b60657135a720e1084ca1cb3f8e551031cc456ed27729e3fe",
+    "title": "SS Rajamouli, Sandeep Reddy Vanga, Rishab Shetty and Atlee Are in Awe of Ramayana",
+    "summary": "Ranbir Kapoor, Sai Pallavi, Yash receive praise for their performances in Nitesh Tiwari's Ramayana",
+    "category": "bollywood",
+    "source": "Filmfare",
+    "url": "https://www.filmfare.com/news/south/ss-rajamouli-sandeep-reddy-vanga-rishab-shetty-and-atlee-are-in-awe-of-ramayana-87024.html",
+    "published_at": "2026-11-06T13:06:28+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.881673+00:00",
+    "thin": false
+  },
+  {
     "id": "67cc263524138b7255e43f14b62cd54f6b779100ab0b9168ecbf2484ab32b4f9",
     "title": "Westwood worried for DP World Tour after LIV collapse",
     "summary": "Former world number one Lee Westwood expects the PGA Tour to \"play hardball\" with its European counterparts following the demise of LIV.",
@@ -10615,6 +11797,18 @@
     ]
   },
   {
+    "id": "b37cf64bd57ef549212a665d17b1b1dc72709981f50d53863a67a4bf6db4aa71",
+    "title": "\"He Knew I Was Hungry for Cinema\"- Mahesh Bhatt Remembers Sanjeev Kumar | Exclusive",
+    "summary": "On Sanjeev Kumar's death anniversary, we remember the actor through the words of Mahesh Bhatt.",
+    "category": "entertainment",
+    "source": "Filmfare",
+    "url": "https://www.filmfare.com/news/bollywood/he-knew-i-was-hungry-for-cinema-mahesh-bhatt-remembers-sanjeev-kumar-exclusive-87020.html",
+    "published_at": "2026-11-06T11:32:31+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.881790+00:00",
+    "thin": false
+  },
+  {
     "id": "ba7ec04c81e05ca8bbd821e40b0df7cda5e7da41eb4abf5acad3f3540ee676ab",
     "title": "Top 10 Ranbir Kapoor Opening Days at Hindi Box Office: Ramayana takes 2nd spot with Rs 45 crore Day 1",
     "summary": "Ranbir Kapoor&#39;s latest venture, Ramayana Part One, kicked off its box office journey on a good note. The movie smashed around Rs. 45 crore nett on its opening day at the Hindi box office. It emerged as the second biggest opener of Ranbir Kapoor&#39;s career in Hindi. It remained behind Kapoor&#39;s last release, Animal , which had an opening of Rs. 51 crore nett.&nbsp; Among the top openings of Ranbir Kapoor, Sanju still stands at the third spot with a start of Rs. 34.75 crore, followed by B",
@@ -10636,6 +11830,18 @@
     "published_at": "2026-11-06T11:29:51+00:00",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1e5/live/718d44d0-d9ce-11f1-9e5a-c30c5e3d8c85.jpg",
     "collection_timestamp": "2026-11-06T15:17:01.108972+00:00",
+    "thin": false
+  },
+  {
+    "id": "79da5bc1caf587b5f6c8f08de63dc12374a9eeb073515af959feb36452dcc674",
+    "title": "Ramayana Day 1 Box Office: Ranbir Kapoor's Epic Off To A Flying Start",
+    "summary": "The day 1 box office collection for Ranbir Kapoor's Ramayana is out.",
+    "category": "bollywood",
+    "source": "Filmfare",
+    "url": "https://www.filmfare.com/news/bollywood/ramayana-day-1-box-office-ranbir-kapoors-epic-off-to-a-flying-start-87018.html",
+    "published_at": "2026-11-06T11:28:57+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.881897+00:00",
     "thin": false
   },
   {
@@ -12762,6 +13968,18 @@
     ]
   },
   {
+    "id": "b8df8d994e97f3ab3e1efe85abe57aee82f6a39c393e39920159317f5c3d00da",
+    "title": "A Warm Family Gathering Marks Sai Durgha Tej and Kiran’s Engagement",
+    "summary": "Sai Durgha Tej got engaged to Kiran in a ceremony attended by family and friends",
+    "category": "bollywood",
+    "source": "Filmfare",
+    "url": "https://www.filmfare.com/news/south/a-warm-family-gathering-marks-sai-durgha-tej-and-kirans-engagement-87017.html",
+    "published_at": "2026-11-05T23:35:55+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.882019+00:00",
+    "thin": false
+  },
+  {
     "id": "0f6526597279a5c8bafe2afae22b84a0b9cc33eb94ea8e641bee6935f14451d2",
     "title": "Anderson could be given chance to join Surrey",
     "summary": "James Anderson could be given the opportunity to extend his legendary career by joining Surrey.",
@@ -14206,6 +15424,18 @@
     "published_at": "2026-11-05T19:18:29+05:30",
     "image_url": null,
     "collection_timestamp": "2026-11-05T19:02:45.807017+00:00"
+  },
+  {
+    "id": "61bbfaf2cda964d986731fd4ba7cc29ac6865c8eb3213f9a2978d50087ce9705",
+    "title": "Alia Bhatt Pens An Emotional Post Dedicated To Ranbir Kapoor’s Hard Work in Ramayana",
+    "summary": "Taking to social media, Alia Bhatt writes an emotional message for Ranbir Kapoor.",
+    "category": "bollywood",
+    "source": "Filmfare",
+    "url": "https://www.filmfare.com/news/bollywood/alia-bhatt-pens-an-emotional-post-dedicated-to-ranbir-kapoors-hard-work-in-ramayana-87010.html",
+    "published_at": "2026-11-05T19:17:29+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-08T08:35:25.882140+00:00",
+    "thin": false
   },
   {
     "id": "61ee13713f31a44fe25fd7da99797a9ae89b15da62d6bf9e66b82acbc9f4d52d",
