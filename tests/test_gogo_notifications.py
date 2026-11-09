@@ -77,6 +77,40 @@ def test_index_mounts_the_container_and_loads_the_module_last():
         "module must load after the site's own scripts"
 
 
+def test_module_ships_the_onboarding_intro_popup():
+    """First-visit intro: six GoGo categories, Enable + Not now, prompt only on click."""
+    module = read("js/gogo-notifications.js")
+    assert 'id="gogo-notifications-intro"' in module
+    assert 'id="gogo-notifications-intro-enable"' in module
+    assert 'id="gogo-notifications-intro-dismiss"' in module
+    for label in [
+        "GoGo Company announcements",
+        "Sarkari Sarthi job alerts",
+        "Pika News breaking news",
+        "Crystal Quest updates",
+        "Arrow Out updates",
+        "Future GoGo product announcements",
+    ]:
+        assert label in module, f"intro must list: {label}"
+    assert module.count("requestPermission") == 1, \
+        "the native permission prompt may only fire from the explicit Enable click"
+    assert "Not now" in module
+    assert "visibilitychange" in module, "permission is rechecked when the visitor returns"
+
+
+def test_module_verifies_backend_registration_before_showing_active():
+    """Active is displayed only after GoGo Central confirms the device row (existing endpoints only)."""
+    module = read("js/gogo-notifications.js")
+    assert "apiFetch('/api/v1/devices', { method: 'GET' })" in module, \
+        "verification must reuse the existing devices endpoint"
+    assert "findRegisteredDevice" in module
+    assert "VERIFY_FAILED" in module
+    assert "verified: true" in module, "verified flag persisted before Active is displayed"
+    assert "ONBOARDING_REMIND_AFTER_MS = 3 * 24 * 60 * 60 * 1000" in module, \
+        "the 'Not now' reminder waits exactly three days"
+    assert "evaluateOnboarding" in module
+
+
 if __name__ == "__main__":
     failures = 0
     for fn in [v for k, v in sorted(globals().items()) if k.startswith("test_") and callable(fn)]:
@@ -88,3 +122,4 @@ if __name__ == "__main__":
             failures += 1
     print(f"notifications tests: {'PASS' if failures == 0 else str(failures) + ' FAILURES'}")
     raise SystemExit(0 if failures == 0 else 1)
+
