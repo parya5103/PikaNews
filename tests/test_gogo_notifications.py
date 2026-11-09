@@ -20,11 +20,11 @@ def read(relative_path):
         return f.read()
 
 
-def test_module_is_fail_closed_until_backend_deployed():
-    """Empty apiBase/vapidPublicKey must keep the whole feature inert."""
+def test_module_is_configured_and_fail_closed_on_empty_overrides():
+    """apiBase + VAPID must be filled; the gate still guards empty overrides."""
     module = read("js/gogo-notifications.js")
-    assert "apiBase: ''" in module, "apiBase must stay empty until the backend is deployed"
-    assert "vapidPublicKey: ''" in module, "vapidPublicKey must stay empty until the VAPID key exists"
+    assert "apiBase: 'https://gogo-central-backend-mg6z.onrender.com'" in module, "apiBase must point at the deployed GoGo Central backend"
+    assert "vapidPublicKey: 'B" in module, "vapidPublicKey must carry the Firebase Web Push public key"
     assert "validateConfig" in module, "module must validate its config"
     assert "disabled" in module, "validation must report the disabled state"
 

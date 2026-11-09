@@ -32,8 +32,8 @@
     authMode: 'anonymous',
     // FAIL-CLOSED deployment switches. BOTH stay empty until the backend is
     // deployed and the Firebase Console Web Push VAPID key has been created.
-    apiBase: '',
-    vapidPublicKey: '',
+    apiBase: 'https://gogo-central-backend-mg6z.onrender.com',
+    vapidPublicKey: 'BPoY5jfIGXpbeW1hhL8iQ4WU5RP8S1EAvu5ywa6RST0QArzZT21ArnRgZQc-vj24ufEAaTALMDxUOOuNeu86xmE',
     // Background messaging worker, registered with a RELATIVE url so the
     // scope is this product's own path (https://gogocompany.in/pikanews/)
     // on the portal, and the equivalent path on any other host. Never '/'.
