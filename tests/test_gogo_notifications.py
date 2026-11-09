@@ -35,7 +35,7 @@ def test_module_targets_pika_news_with_relative_worker_url():
     assert "appId: 'pika-news'" in module, "module must register as the pika-news product"
     assert "swUrl: 'firebase-messaging-sw.js'" in module, "worker URL must be relative"
     assert "swScope: ''" in module, "scope must default to the worker's own directory"
-    assert "swUrl: '/" in module is False, "root-scope worker URL would escape /pikanews/"
+    assert "swUrl: '/" not in module, "root-scope worker URL would escape /pikanews/"
 
 
 def test_module_uses_explicit_opt_in_only():
@@ -122,4 +122,3 @@ if __name__ == "__main__":
             failures += 1
     print(f"notifications tests: {'PASS' if failures == 0 else str(failures) + ' FAILURES'}")
     raise SystemExit(0 if failures == 0 else 1)
-
