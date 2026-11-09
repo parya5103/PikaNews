@@ -1,5 +1,40 @@
 [
   {
+    "id": "8d68a44a66b8e2e6ab932616f839c9c5b67611f8f944213f57962fd6611ed66e",
+    "title": "Instagram’s AI age detection is expanding globally",
+    "summary": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven't correctly disclosed their age. The rollout will automatically place \"millions more teens on Instagram into Teen Account protections,\" according to Meta's announcement, after launching the AI-powered age assurance updates in the US, EU, and Brazil last year. The [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
+    "published_at": "2026-11-09T07:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-09T13:37:24.689272+00:00",
+    "thin": false,
+    "author": "Jess Weatherbed",
+    "tags": [
+      "Instagram",
+      "Meta",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "c8bbf131d5db44913e1c2d874f710b101bb2313598571e104820a7becaa1dc10",
+    "title": "Torrent underground",
+    "summary": "When Jane first heard about Memory and Imagination, a rare 1990s documentary about the Library of Congress, she was intrigued. But the Canadian writer in her 30s couldn’t find the movie anywhere — not on streaming services, not on YouTube, not on pirate sites — and her intrigue turned into obsession. Worried it might become [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/cs/features/1027614/torrent-movies-file-sharing-download-piracy",
+    "published_at": "2026-11-09T06:00:05-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-09T13:37:24.689520+00:00",
+    "thin": true,
+    "author": "Janko Roettgers",
+    "tags": [
+      "Features"
+    ]
+  },
+  {
     "id": "73dbdaf22e4eb1a2363152b0573a33342f80dd75fa4a371ffff06f7160b1308e",
     "title": "People are still bothered by my use of Android devices 😑",
     "summary": "This one will be short. I&#39;ve always preferred Android over iOS. Always bought myself flagship devices, so they&#39;re just as capable as any other iPhone of that same year. I&#39;ve gotten complaints/disses of adding green bubbles to a group chat, not being able to receive anything over airdrop, not being able to Facetime, not taking pics &quot;as good&quot; as an iPhone Pro, etc etc. Why are these grown ass adults so triggered by their perceived inconveniences? This is getting SO old in thi",
@@ -51,6 +86,23 @@
       "Entertainment",
       "Music",
       "Music Review"
+    ]
+  },
+  {
+    "id": "8e7c19d3e83054524afa98b74c8c683ad96f1264fc2027ea2eeccbbc7e3cb380",
+    "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
+    "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+    "published_at": "2026-11-08T15:22:39-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-09T13:37:24.689800+00:00",
+    "thin": false,
+    "author": "Terrence O’Brien",
+    "tags": [
+      "AI",
+      "News"
     ]
   },
   {

@@ -1,5 +1,193 @@
 [
   {
+    "id": "90c8a702b30fc8a99bc6e6cc984ded2282cc925dfdfd017ea376ed5a0ef428ab",
+    "title": "After Taylor Swift ‘Fakest’ Fan Diss, Knicks Point Guard Singing a Different Tune With ‘Blank Space’ Cover: ‘Nothing Against Her At All’",
+    "summary": "The NBA champ confirmed that he's a Swiftie over the weekend.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/pop/taylor-swift-fakest-fan-diss-knicks-kolek-apology-blank-space-1236377879",
+    "published_at": "2026-11-09T13:25:02+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-09T13:37:24.686230+00:00",
+    "thin": false,
+    "author": "Gil Kaufman",
+    "tags": [
+      "Music",
+      "Pop",
+      "genre pop",
+      "Music News"
+    ]
+  },
+  {
+    "id": "4422642dc708c4d8aa3c7290570ec36e8feacc6c81dc0eb5f7f2eb4cfc39eb89",
+    "title": "‘Hot Burrito’ Redux: In Defense of #2",
+    "summary": "Ahead of Gram Parsons' induction into the Rock &#38; Roll Hall of Fame, Rolling Stone writers past and present, as well as musicians, filmmakers, and other pundits, weigh in on a notly -debated topic",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-features/gram-parsons-hot-burrito-1-vs-2-flying-burrito-brothers-1235647790",
+    "published_at": "2026-11-09T13:00:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-09T13:37:24.687039+00:00",
+    "thin": false,
+    "author": "Shirley Halperin",
+    "tags": [
+      "Music",
+      "Music Features",
+      "Cameron Crowe",
+      "Elvis Costello",
+      "Emmylou Harris",
+      "Gram Parsons",
+      "Jim James",
+      "The Byrds"
+    ]
+  },
+  {
+    "id": "191998f4804aaf6f9be3372cc39ae94c93c556f4e6ae21df4b4e5ac408f0bb9e",
+    "title": "Mariah Carey Announces 2027 European Summer Festival Tour Dates",
+    "summary": "The Firefly tour will find MC touching down at nine fests next summer.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/pop/mariah-carey-2027-european-summer-festival-tour-dates-firefly-1236377873",
+    "published_at": "2026-11-09T12:40:57+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-09T13:37:24.686392+00:00",
+    "thin": false,
+    "author": "Gil Kaufman",
+    "tags": [
+      "Music",
+      "Pop",
+      "genre pop",
+      "Music News",
+      "tour announcement"
+    ]
+  },
+  {
+    "id": "0f81d14746b3fa926a9a808780ba073e8b596cced053e7601517580c62596913",
+    "title": "Muse to Headline BST Hyde Park & Roundhay Festival in 2027",
+    "summary": "The British rockers will headline both events next June.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/rock/muse-bst-hyde-park-roundhay-festival-lineup-tickets-1236377288",
+    "published_at": "2026-11-09T12:05:51+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-09T13:37:24.686559+00:00",
+    "thin": false,
+    "author": "Thomas Smith",
+    "tags": [
+      "Music",
+      "Rock",
+      "Billboard UK",
+      "genre rock",
+      "Music News"
+    ]
+  },
+  {
+    "id": "61441abdab6e6e5efd820fee8ee55d40125a767a90e19fe9b5aa77f70a29e49c",
+    "title": "Tiësto Co-Founded Unlimited Productions Opens First U.S. Offices",
+    "summary": "The company launched its New York offices and announced plans to open an L.A.-based operation in 2027.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/pro/tiesto-unlimited-productions-us-expansion",
+    "published_at": "2026-11-09T11:00:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-09T13:37:24.686727+00:00",
+    "thin": false,
+    "author": "Ariel King",
+    "tags": [
+      "Business",
+      "Touring",
+      "concert production",
+      "genre dance",
+      "Music News",
+      "New York"
+    ]
+  },
+  {
+    "id": "a737cfc4f128badb6ce1f2e3bfab47606ad86e5d6d1040a13c9997eb410fdf91",
+    "title": "Jeff Goldblum, John Turturro, Rian Johnson and More Set for Marrakech Film Festival Conversations",
+    "summary": "Hollywood stars Jeff Goldblum and John Turturro, and &#8220;Knives Out&#8221; director Rian Johnson are among those set to take part in the Conversations program during the 23rd edition of the Marrakech Film Festival, which runs Nov. 20-28. Other movieworld luminaries to take part include actress Monica Bellucci, directors James Gray, Luca Guadagnino, Cristian Mungiu, Laïla [&#8230;]",
+    "category": "entertainment",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/global/jeff-goldblum-john-turturro-marrakech-conversations-1236942335",
+    "published_at": "2026-11-09T10:02:43+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Jeff-Goldblum-John-Turturro-Rian-Johnson.jpg",
+    "collection_timestamp": "2026-11-09T13:37:24.681114+00:00",
+    "thin": false,
+    "author": "Leo Barraclough",
+    "tags": [
+      "Global",
+      "News",
+      "Jeff Goldblum",
+      "John Turturro",
+      "Marrakech Film Festival",
+      "Rian Johnson"
+    ]
+  },
+  {
+    "id": "b70f41467c4b61abcef1921f9acecdd983a812a0d285f021f2402b282b3bf967",
+    "title": "Anthony Chen-Produced ‘Somewhere in the South’ Wins Top Prize at Taiwan Creative Content Fest Pitching Awards, ‘Reunion Dinner’ Takes Three",
+    "summary": "“Somewhere in the South,” a Malaysian feature written and directed by Tan Ce Ding and produced by Anthony Chen, the Singaporean director of Cannes Caméra d’Or winner “Ilo Ilo,” won the $35,000 TAICCA × CNC Feature Film Grand Award at the 2026 Taiwan Creative Content Fest (TCCF) pitching awards in Taipei. The project is produced [&#8230;]",
+    "category": "entertainment",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/markets-festivals/anthony-chen-somewhere-in-the-south-taiwan-pitch-award-1236942939",
+    "published_at": "2026-11-09T10:00:19+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/TCCF-2026-winners.jpg",
+    "collection_timestamp": "2026-11-09T13:37:24.681387+00:00",
+    "thin": false,
+    "author": "Naman Ramachandran",
+    "tags": [
+      "Asia",
+      "Global",
+      "Markets & Festivals",
+      "News",
+      "Anthony Chen",
+      "Somewhere in the South",
+      "TAICCA",
+      "Taiwan Creative Content Fest"
+    ]
+  },
+  {
+    "id": "8842982b2fdedc8dfde284faee5fc34e3b45f181ad0bd6680b02f471ca75ea95",
+    "title": "Joe Biden to Limit Memoir Promotion Due to Cancer Battle: ‘The Words Speak for Themselves’",
+    "summary": "The former president is set to release a new book, Promise Me, America , about his time in office on Nov. 17",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/politics/politics-news/joe-biden-memoir-promotion-cancer-battle-limit-1235654508",
+    "published_at": "2026-11-09T08:33:39+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-09T13:37:24.687218+00:00",
+    "thin": false,
+    "author": "Emily Zemler",
+    "tags": [
+      "Politics",
+      "Politics News",
+      "Joe Biden"
+    ]
+  },
+  {
+    "id": "6c35d60295364f19cb88f105388093a560db6f75ff7afa37f4c29968bc97c9f5",
+    "title": "Watch Ariana Grande, Ben Stiller, Robert De Niro Take Over ‘The Tonight Show’",
+    "summary": "The Focker In-Law cast stopped by to promote their film and play a game of \"True Confessions\"",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/ariana-grande-robert-de-niro-focker-in-law-fallon-1235654500",
+    "published_at": "2026-11-09T07:49:16+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-09T13:37:24.687398+00:00",
+    "thin": false,
+    "author": "Emily Zemler",
+    "tags": [
+      "TV & Movies",
+      "TV & Movies News",
+      "Ariana Grande",
+      "Ben Stiller",
+      "Jimmy Fallon",
+      "Late-Night TV",
+      "Robert De Niro",
+      "The Tonight Show"
+    ]
+  },
+  {
     "id": "f0a869be6b7d566d024c32b79d9a07ff3e86c34e5d43de40c2d3fae6b791c91a",
     "title": "‘You Can See Everything’ Sweeps Top Categories At Critics Choice Documentary Awards",
     "summary": "Nathan Fielder and Lance Oppenheim&#8217;s buzzy documentary You Can See Everything swept all the major categories at this year&#8217;s Critics Choice Documentary Awards. The film, which chronicles the last days in Elizabeth Holmes&#8217; life before she went to prison, won every category in which it was nominated. You Can See Everything took the top award [&#8230;]",
