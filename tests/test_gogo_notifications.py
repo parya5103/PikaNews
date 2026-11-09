@@ -35,7 +35,7 @@ def test_module_targets_pika_news_with_relative_worker_url():
     assert "appId: 'pika-news'" in module, "module must register as the pika-news product"
     assert "swUrl: 'firebase-messaging-sw.js'" in module, "worker URL must be relative"
     assert "swScope: ''" in module, "scope must default to the worker's own directory"
-    assert "swUrl: '/" in module is False, "root-scope worker URL would escape /pikanews/"
+    assert "swUrl: '/" not in module, "root-scope worker URL would escape /pikanews/"
 
 
 def test_module_uses_explicit_opt_in_only():
@@ -75,6 +75,40 @@ def test_index_mounts_the_container_and_loads_the_module_last():
     assert 'js/gogo-notifications.js' in index, "index.html must load the module"
     assert index.index("js/ads.js") < index.index("js/gogo-notifications.js"), \
         "module must load after the site's own scripts"
+
+
+def test_module_ships_the_onboarding_intro_popup():
+    """First-visit intro: six GoGo categories, Enable + Not now, prompt only on click."""
+    module = read("js/gogo-notifications.js")
+    assert 'id="gogo-notifications-intro"' in module
+    assert 'id="gogo-notifications-intro-enable"' in module
+    assert 'id="gogo-notifications-intro-dismiss"' in module
+    for label in [
+        "GoGo Company announcements",
+        "Sarkari Sarthi job alerts",
+        "Pika News breaking news",
+        "Crystal Quest updates",
+        "Arrow Out updates",
+        "Future GoGo product announcements",
+    ]:
+        assert label in module, f"intro must list: {label}"
+    assert module.count("requestPermission") == 1, \
+        "the native permission prompt may only fire from the explicit Enable click"
+    assert "Not now" in module
+    assert "visibilitychange" in module, "permission is rechecked when the visitor returns"
+
+
+def test_module_verifies_backend_registration_before_showing_active():
+    """Active is displayed only after GoGo Central confirms the device row (existing endpoints only)."""
+    module = read("js/gogo-notifications.js")
+    assert "apiFetch('/api/v1/devices', { method: 'GET' })" in module, \
+        "verification must reuse the existing devices endpoint"
+    assert "findRegisteredDevice" in module
+    assert "VERIFY_FAILED" in module
+    assert "verified: true" in module, "verified flag persisted before Active is displayed"
+    assert "ONBOARDING_REMIND_AFTER_MS = 3 * 24 * 60 * 60 * 1000" in module, \
+        "the 'Not now' reminder waits exactly three days"
+    assert "evaluateOnboarding" in module
 
 
 if __name__ == "__main__":
