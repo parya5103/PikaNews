@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-11-09T13:37:18.990203+00:00",
-  "total_fetched": 345,
-  "new_articles": 97,
-  "duplicates": 248,
+  "timestamp": "2026-11-09T23:16:43.407029+00:00",
+  "total_fetched": 340,
+  "new_articles": 153,
+  "duplicates": 187,
   "errors": 3,
   "expired_articles": 0,
   "articles_without_valid_date": 0,
@@ -19,18 +19,17 @@
     "GameSpot": 30,
     "Polygon": 10,
     "CNBC": 30,
-    "BBC Sport": 77,
+    "BBC Sport": 72,
     "BuzzFeed World": 50,
     "Reddit Popular": 25
   },
   "by_category": {
-    "bollywood": 1,
-    "hollywood": 25,
-    "entertainment": 9,
-    "technology": 3,
-    "gaming": 11,
-    "business": 9,
-    "sports": 22,
-    "trending": 17
+    "hollywood": 30,
+    "technology": 10,
+    "entertainment": 20,
+    "sports": 20,
+    "gaming": 23,
+    "business": 26,
+    "trending": 24
   }
 }

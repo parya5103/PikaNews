@@ -1,5 +1,206 @@
 [
   {
+    "id": "0c6d6d684d00f78aad55f7cf2fc650219871bf2b7ecb16c591a1a9b856f57e8e",
+    "title": "Trump Appears With Dana White After “Kidding” Over Press Secretary Role; POTUS Defends Nvidia’s Jensen Huang, Calls Midterm Results “Ridiculous”",
+    "summary": "Donald Trump surprised reporters on Monday with an appearance in the White House briefing room along with UFC CEO Dana White, the source of much speculation after the president posted over the weekend that he had offered him the job of press secretary. Once again, Trump said that he was &#8220;sort of kidding,&#8221; but just [&#8230;]",
+    "category": "technology",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/trump-dana-white-midterms-1237217738",
+    "published_at": "2026-11-09T22:49:04+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2304341064.jpg",
+    "collection_timestamp": "2026-11-09T23:16:48.168171+00:00",
+    "thin": false,
+    "author": "Ted Johnson",
+    "tags": [
+      "News",
+      "Politics",
+      "Dana White",
+      "Donald Trump",
+      "ElectionLine",
+      "UFC"
+    ]
+  },
+  {
+    "id": "aa28c1842ca59d3340a922b6c14d09f8fd4048031a46ba44110be58452de185c",
+    "title": "Metro Offers Samsung Galaxy A37 for Free With $40-a-Month Plan",
+    "summary": "New members who bring their own phone number can get the A37 for free and unlimited data for $40 a month",
+    "category": "technology",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/product-recommendations/tech/metro-pcs-samsung-smartphone-deal-1235653703",
+    "published_at": "2026-11-09T22:16:02+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-09T23:16:48.174719+00:00",
+    "thin": false,
+    "author": "Jonathan Zavaleta",
+    "tags": [
+      "RS Recommends",
+      "Tech",
+      "noads",
+      "tech"
+    ]
+  },
+  {
+    "id": "67cad1fc8e2b1ffc824b5bce3ec22b349f932668e7526dd77625062a7f9f96a5",
+    "title": "A Sam Altman parody offers an amusing lesson in memory management",
+    "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management",
+    "published_at": "2026-11-09T20:49:09+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-1024x648.jpg",
+    "collection_timestamp": "2026-11-09T23:16:48.180008+00:00",
+    "thin": false,
+    "author": "Nick Indge",
+    "tags": [
+      "Tech",
+      "MemAvailable",
+      "MemTotal",
+      "openai",
+      "ram-altman script",
+      "sam altman"
+    ]
+  },
+  {
+    "id": "f81c7128ecb4ffd21c9f9df2655be3739b4ca0f500502cf5dee4b1c7ace46006",
+    "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+    "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+    "published_at": "2026-11-09T18:07:59-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-09T23:16:48.177791+00:00",
+    "thin": false,
+    "author": "Richard Lawler",
+    "tags": [
+      "AI",
+      "Business",
+      "News",
+      "Nvidia",
+      "Policy",
+      "Politics",
+      "Tech"
+    ]
+  },
+  {
+    "id": "2d6f8808b1469d3a62065e5cb9e0666e25a4fcfa1ab0cfb888e44c2da77072e7",
+    "title": "The global pledge to use AI for climate good is a cruel joke",
+    "summary": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer and our planet enough to give it a whirl - and hey, why not try a [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
+    "published_at": "2026-11-09T16:13:16-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-09T23:16:48.178306+00:00",
+    "thin": false,
+    "author": "Justine Calma",
+    "tags": [
+      "Climate",
+      "Energy",
+      "Environment",
+      "Policy",
+      "Science"
+    ]
+  },
+  {
+    "id": "debb9f60dc3b178f9d30c94d424248488a05e78fb38ee3359f00f7f642d23376",
+    "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+    "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+    "published_at": "2026-11-09T14:09:58-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-09T23:16:48.178539+00:00",
+    "thin": false,
+    "author": "Andrew Liszewski",
+    "tags": [
+      "AI",
+      "Apple",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "d31fd568f71b9564abe9b5e0fdd54294c08e0a7fffceba9ed6e6a589dd5490e4",
+    "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+    "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+    "published_at": "2026-11-09T14:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-09T23:16:48.178777+00:00",
+    "thin": false,
+    "author": "Jay Peters",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "News"
+    ]
+  },
+  {
+    "id": "5da68563251c0910441b937a15f560aa1c19dc45fab5ce9550aa0b20fbfd8a1b",
+    "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+    "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+    "published_at": "2026-11-09T13:07:23-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-09T23:16:48.179207+00:00",
+    "thin": false,
+    "author": "Stevie Bonifield",
+    "tags": [
+      "AI",
+      "Creators",
+      "Instagram",
+      "Meta",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "a63385117294c5cc70d2caf67d6ad2029cc22b9b818d63a88904af91e5205ced",
+    "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+    "summary": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+    "published_at": "2026-11-09T12:36:08-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-09T23:16:48.179619+00:00",
+    "thin": false,
+    "author": "Elizabeth Lopatto",
+    "tags": [
+      "AI",
+      "Nvidia",
+      "Policy",
+      "Politics",
+      "Tech"
+    ]
+  },
+  {
+    "id": "16b70ff84cb339e28046a57437756255dbb8e134dc0d24505a695bb004b3a429",
+    "title": "Uber wants to park your car now, too",
+    "summary": "Uber announced the launch of Uber Parking, a native in-app reservation feature that allows drivers to find, book, and pay for garage and lot spaces ahead of time. The new feature is a result of Uber's recent acquisition of SpotHero, integrating a network of over 13,000 facilities across more than 400 cities into the company's [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis",
+    "published_at": "2026-11-09T12:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-09T23:16:48.179833+00:00",
+    "thin": false,
+    "author": "Andrew J. Hawkins",
+    "tags": [
+      "Autonomous Cars",
+      "News",
+      "Ride-sharing",
+      "Transportation",
+      "Uber"
+    ]
+  },
+  {
     "id": "8d68a44a66b8e2e6ab932616f839c9c5b67611f8f944213f57962fd6611ed66e",
     "title": "Instagram’s AI age detection is expanding globally",
     "summary": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven't correctly disclosed their age. The rollout will automatically place \"millions more teens on Instagram into Teen Account protections,\" according to Meta's announcement, after launching the AI-powered age assurance updates in the US, EU, and Brazil last year. The [&#8230;]",
