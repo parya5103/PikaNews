@@ -1,5 +1,41 @@
 [
   {
+    "id": "8084bdb1323914c2c30bb6c9917e4525785b234df7574266c81cbebba98fcd5a",
+    "title": "SoftBank Group shares surge 13% as Asian tech stocks track Wall Street rebound",
+    "summary": "A sharp decline in oil prices lifted sentiment while renewed buying in semiconductor names overnight spilled over into Asia, following last week's bruising sell-off.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+    "published_at": "2026-11-10T03:58:46+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T04:44:17.697836+00:00",
+    "thin": false
+  },
+  {
+    "id": "ca1f81bcb8e7a9e312f13b402ff8c9b84a45690512f26e52cb9d33f36193ce29",
+    "title": "China exports, imports soar past expectations in October — surplus narrows sharply",
+    "summary": "Goods exports soared by 35.2% last month from a year earlier, exceeding expectations for a 33.5% jump in a Reuters poll and slowing from a 36.3% jump in September.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+    "published_at": "2026-11-10T03:56:15+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T04:44:17.697674+00:00",
+    "thin": false
+  },
+  {
+    "id": "e1450607e4154cbc6121ad8d94fbf74db3811e62ab6bd3fd1b0aba92b1187d76",
+    "title": "Trump says Jensen Huang told him Monday he didn't know paramour 'was a spy'",
+    "summary": "President Donald Trump suggested he had only recently learned of allegations that Alice Huang was a Chinese spy.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/09/trump-jensen-huang-nvidia-chinese-spy.html",
+    "published_at": "2026-11-10T01:43:47+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T04:44:17.697483+00:00",
+    "thin": false
+  },
+  {
     "id": "563cf1c6307ffcd525fd84911e7689b26a192dd04e470ec9fa1478df95d92b12",
     "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
     "summary": "The updates came alongside a third-quarter earnings report for the legacy Paramount Skydance.",

@@ -1,5 +1,520 @@
 [
   {
+    "id": "42cf2542db689f33be4bb96064cea85881ac489e74f3648021175833cd32dd14",
+    "title": "Nordstrom’s 2026 Holiday Gift Guide Is Live: Our 26 Favorite Finds Under $100",
+    "summary": "Retailer-exclusive beauty bundles, seasonal scents from Diptyque, Uggs for the whole family and more of this year's top trending presents that won't break the bank.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/lifestyle/shopping/nordstrom-gift-guide-2026-holiday-gift-sets-ideas-under-100-1236751125",
+    "published_at": "2026-11-10T04:03:11+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T04:44:17.690760+00:00",
+    "thin": false,
+    "author": "Erin Lassner",
+    "tags": [
+      "Lifestyle",
+      "Shopping",
+      "fashion",
+      "Holiday Gift Guide",
+      "nordstrom",
+      "shopping"
+    ]
+  },
+  {
+    "id": "9192ec51350291db2464a5914fe1fef4c7731fe8e1a13aebf4e254233e9a61c5",
+    "title": "Julia Garner Shares Madonna Biopic Update: “Every Hour It Changes”",
+    "summary": "Julia Garner was personally selected by Madonna to play her in a biopic, which has been in the works for several years. In a new interview, the Weapons star was asked if the film or series was still moving forward. &#8220;I don&#8217;t know,&#8221; Garner told CBS Sunday Morning, adding, &#8220;Every hour it changes, in a [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/julia-garner-madonna-biopic-update-1237218202",
+    "published_at": "2026-11-10T03:55:02+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/julia-garner-madonna-biopic.jpg",
+    "collection_timestamp": "2026-11-10T04:44:17.687786+00:00",
+    "thin": false,
+    "author": "Armando Tinoco",
+    "tags": [
+      "News",
+      "Julia Garner",
+      "Madonna"
+    ]
+  },
+  {
+    "id": "4dcf7d1869db05371bdec9f6cc765cc75437f5c4a331ad5324739d18fab0ed82",
+    "title": "Keira Knightley On Fans Quoting ‘Love Actually’ To Her: “It Means Nothing To Me”",
+    "summary": "Love Actually has become one of the most quotable and memeable films of all time, but for star Keira Knightley, it&#8217;s a distant and vague memory. In a new interview, Knightley opened up about fans approaching her and quoting the film, but it doesn&#8217;t mean much to her. &#8220;I have not watched Love Actually since [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/keira-knightley-fans-quoting-love-actually-1237218199",
+    "published_at": "2026-11-10T03:29:41+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Keira-Knightley-Love-Actually.jpg",
+    "collection_timestamp": "2026-11-10T04:44:17.688019+00:00",
+    "thin": false,
+    "author": "Armando Tinoco",
+    "tags": [
+      "News",
+      "Keira Knightley",
+      "Love Actually"
+    ]
+  },
+  {
+    "id": "486cc2aab027a33f61d322279f1a7630f42f73ced14fc82e02b90582eaae47bc",
+    "title": "‘Ramayana’ Makes History as First Indian Film to Top U.K., Ireland Box Office as ‘Godzilla Minus Zero’ Debuts in Third",
+    "summary": "Sony&#8217;s animated mythological adventure &#8220;Ramayana: Rise of a Legend&#8221; made history by becoming the first Indian feature ever to debut atop the U.K. and Ireland box office, collecting £2.1 million ($2.8 million) to lead a crowded slate of new releases and push Anime Ltd.&#8217;s &#8220;Godzilla Minus Zero&#8221; into third place. The previous box office ceiling [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/box-office/ramayana-godzilla-minus-zero-uk-ireland-box-office-1236943753",
+    "published_at": "2026-11-10T03:25:16+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Ramayana-Godzilla.jpg",
+    "collection_timestamp": "2026-11-10T04:44:17.685086+00:00",
+    "thin": false,
+    "author": "Naman Ramachandran",
+    "tags": [
+      "Asia",
+      "Box Office",
+      "Global",
+      "News",
+      "Godzilla Minus Zero",
+      "Ramayana",
+      "wicker",
+      "Wild Horse Nine"
+    ]
+  },
+  {
+    "id": "fa4493602312532b1d4cae3bb9bf0fe3ae539574c35e951dc16268f6a54fbc25",
+    "title": "‘Here There Are Blueberries’ Broadway Review: Evil As Banal As A Bowl Of Fruit",
+    "summary": "Here There Are Blueberries, the exceptional Pulitzer finalist docu-drama that opened Off Broadway two years ago to great admiration, finally makes its Broadway debut tonight at the Barrymore Theatre. The play, about a mysterious real-life cache of one-of-a-kind Auschwitz photos submitted to the United States Holocaust Memorial Museum in 2007, remains as intriguing as ever [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/here-there-are-blueberries-broadway-review-1237216680",
+    "published_at": "2026-11-10T03:00:00+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Michelle-Beck-Delia-Cunningham-Kathleen-Chalfant-Credit_-Matthew-Murphy.jpg",
+    "collection_timestamp": "2026-11-10T04:44:17.688257+00:00",
+    "thin": false,
+    "author": "Greg Evans",
+    "tags": [
+      "News",
+      "Reviews",
+      "Broadway",
+      "Broadway Review",
+      "Here There Are Blueberries"
+    ]
+  },
+  {
+    "id": "6b1942e488257ea31b6815c08a5ee7041963a68a0962ed8b5366461e20e4a9ae",
+    "title": "Julia Garner Says Madonna Biopic Status Changes ‘Every Hour,’ But She’d ‘Love for the Movie to Get Made’",
+    "summary": "Julia Garner has given an ambiguous update on the long-delayed Madonna biopic, which has made little progress since its 2020 announcement. During a recent interview with CBS, the actress was asked about the film’s status, to which she responded: “I don’t know. Every hour it changes, in a way.” “It’s not up to me. I [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/news/julia-garner-madonna-biopic-status-1236943732",
+    "published_at": "2026-11-10T02:53:34+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2227966452.jpg",
+    "collection_timestamp": "2026-11-10T04:44:17.685353+00:00",
+    "thin": false,
+    "author": "Payton Turkeltaub",
+    "tags": [
+      "News",
+      "Julia Garner",
+      "Madonna"
+    ]
+  },
+  {
+    "id": "9afa7b2787dc50b470e6789dbd62fd3107977635df530820a89af792fc267ba6",
+    "title": "Steve Buscemi Reveals Which Show He Refuses to Appear on: “I Don’t Care How Much You Paid Me”",
+    "summary": "Here's a hint: the 'Wild Horse Nine' actor doesn't do spicy food.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/business/digital/steve-buscemi-refuses-appear-hot-ones-1236751410",
+    "published_at": "2026-11-10T02:39:06+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T04:44:17.690941+00:00",
+    "thin": false,
+    "author": "Carly Thomas",
+    "tags": [
+      "Business",
+      "Digital",
+      "Hot Ones",
+      "sean evans",
+      "Steve Buscemi"
+    ]
+  },
+  {
+    "id": "2136926c246a4003c4c17d0867e9e6632bd1141a98b0ed29d30499ce3aa01b60",
+    "title": "LISTEN: ‘Roland Martin Unfiltered’ Rides Midterm Elections Momentum After Historic Vote",
+    "summary": "On today&#8217;s episode of Variety&#8216;s &#8220;Strictly Business&#8221; podcast, digital news entrepreneur Roland Martin discusses the growth of his &#8220;Roland Martin Unfiltered&#8221; program and how it gained momentum during the buildup to this last week&#8217;s historic midterm elections. Martin&#8217;s daily political news and commentary roundtable program went on a barnstorming tour over the three weeks leading [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/tv/news/roland-martin-unfiltered-midterm-election-strictly-business-1236943709",
+    "published_at": "2026-11-10T02:37:04+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Screenshot-2026-11-09-at-6.02.10-PM.png",
+    "collection_timestamp": "2026-11-10T04:44:17.685651+00:00",
+    "thin": false,
+    "author": "Cynthia Littleton",
+    "tags": [
+      "News",
+      "Daily Variety CNB",
+      "Roland Martin",
+      "Roland Martin Unfiltered"
+    ]
+  },
+  {
+    "id": "73378a9a3dea2a97b5c843d1aa156d05f499e809c41978248846fddd901662e7",
+    "title": "‘Summer School, 2001,’ the First Czech-Vietnamese Feature, Is Coming to America via Cinemas, Amazon (Exclusive)",
+    "summary": "Two diaspora groups can hit Cinemark theaters from Dec. 11 for a limited run of the award-winning debut feature directed by Dužan Duong, courtesy of Reel Citrus, before two big studio tentpole releases hit.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/summer-school-2001-us-cinemas-amazon-first-czech-viet-film-1236749759",
+    "published_at": "2026-11-10T02:31:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T04:44:17.691168+00:00",
+    "thin": false,
+    "author": "Georg Szalai",
+    "tags": [
+      "Movie News",
+      "Movies",
+      "Dune 3",
+      "international",
+      "Karlovy Vary International Film Festival",
+      "KVIFF"
+    ]
+  },
+  {
+    "id": "66464b99f5de341b7596f53494491416aea14f248cae97492f844ebdcefe8c0e",
+    "title": "David Schwimmer Reunites With Ross’ Iconic Red Sweater From ‘Friends’ in New Ad",
+    "summary": "The campaign is for the clothing and lifestyle brand Quince.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/david-schwimmer-reunites-ross-red-sweater-friends-ad-1236751395",
+    "published_at": "2026-11-10T01:55:33+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T04:44:17.691337+00:00",
+    "thin": false,
+    "author": "Carly Thomas",
+    "tags": [
+      "Lifestyle",
+      "Lifestyle News",
+      "David Schwimmer",
+      "fashion",
+      "friends"
+    ]
+  },
+  {
+    "id": "1523d0313dc9e9fe8b1e70b487020cdb21c122bef2029a9bec25f9ca26f32f5e",
+    "title": "French Judo Legend Teddy Riner Announces 2027 Presidential Bid, Drawing Praise From Emmanuel Macron",
+    "summary": "French judo superstar Teddy Riner, a five-time Olympic gold medalist and multiple world champion, has announced that he is running for president of France in 2027 in a fiery speech posted on social media. The athlete, who has never held political office but is one of France’s most recognizable and popular sporting figures, portrayed himself [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/global/french-judo-legend-teddy-riner-2027-presidential-bid-macron-1236943664",
+    "published_at": "2026-11-10T01:28:28+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2022/02/Teddy-Riner.jpg",
+    "collection_timestamp": "2026-11-10T04:44:17.686192+00:00",
+    "thin": false,
+    "author": "Elskes",
+    "tags": [
+      "Global",
+      "Emmanuel Macron",
+      "Teddy Riner"
+    ]
+  },
+  {
+    "id": "3570c4aa85b88b407e5d81fff657273893c7e1926ccb53d23e2e700bbc5150bd",
+    "title": "Johnny Depp & Ti West Land In A Chilly London For ‘Ebenezer’ Global Premiere",
+    "summary": "Christmas came early to London’s Leicester Square on Monday as Johnny Depp touched down for a red-carpet global premiere of Ebenezer in the company of director Ti West and cast including Rupert Grint, Sam Claflin, Tramell Tillman, Ellie Bamber and Robert Strong. The red carpet was decked out with Christmas trees and artificial snow while [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/johnny-depp-ti-west-london-ebenezer-global-premiere-1237218130",
+    "published_at": "2026-11-10T01:24:30+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2304355115.jpg",
+    "collection_timestamp": "2026-11-10T04:44:17.688525+00:00",
+    "thin": false,
+    "author": "Melanie Goodfellow",
+    "tags": [
+      "News",
+      "Ebenezer",
+      "Johnny Depp",
+      "Ti West"
+    ]
+  },
+  {
+    "id": "0a25c66f80e1596b3eb67b43a9f8bfeb9a5b063bcb638137ec5d3e7081937afe",
+    "title": "Johnny Depp Premieres ‘Ebenezer’ in London, Kim Kardashian Wears Gucci to LACMA Art+Film and More Celeb Red Carpet Photos: November 2026",
+    "summary": "November began with a slew of award season FYC screenings and Q&#38;As in Los Angeles, including a round of appearances from Jordan Firstman in support of his feature “Club Kid” and an Angelina Jolie-hosted “Wild Horse Nine” premiere in Los Angeles. In New York City, Kim Kardashian, Sarah Paulson, Teyana Taylor, Niecy Nash-Betts and Glenn [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/gallery/jceleb-red-carpet-photos-november-2026",
+    "published_at": "2026-11-10T01:02:20+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Ebenezer-Global-Premiere-1000.jpg",
+    "collection_timestamp": "2026-11-10T04:44:17.686493+00:00",
+    "thin": false,
+    "author": "Marcmalkin",
+    "tags": [
+      "Awards",
+      "Columns",
+      "News",
+      "Awards Circuit",
+      "Exposure",
+      "Just For Variety"
+    ]
+  },
+  {
+    "id": "67e35b2ec09ed0391d8d2dc55261acbc324d368c31999c02a420e01aa3714265",
+    "title": "‘Paddington: The Musical’ Sets Broadway Cast With Tony Hale, J. Quinton Johnson, Jessie Mueller & More",
+    "summary": "Paddington: The Musical, which opens in 2027, has set its cast, featuring Arrested Development&#8217;s Tony Hale in his Broadway debut. The musical will be led by Kelvin Dukes (America’s Got Talent) as Tony, Drew Gehling (Waitress) as Mr. Brown, Allison Guinn (Operation Mincemeat) as Lady Sloane and Hale (Veep) as Mr. Curry. Arti Shah, who [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/paddington-the-musical-broadway-cast-2026-1237218092",
+    "published_at": "2026-11-10T01:00:11+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/paddington-the-musical-broadway-cast.jpg",
+    "collection_timestamp": "2026-11-10T04:44:17.688781+00:00",
+    "thin": false,
+    "author": "Armando Tinoco",
+    "tags": [
+      "News",
+      "Paddington: The Musical",
+      "Tony Hale"
+    ]
+  },
+  {
+    "id": "2dd141162f33feb88414be8add073a6450b61ea312c2e5c5fbbac52288b194c8",
+    "title": "Ariana Grande on First Time Meeting Ben Stiller: “Directing Me in an Orgy Scene in ‘Zoolander 2’”",
+    "summary": "Grande and Stiller have since reunited in 'Focker-in-Law,' which releases Nov. 25.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/ariana-grande-first-met-ben-stiller-orgy-scene-zoolander-2-1236751314",
+    "published_at": "2026-11-10T00:59:43+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T04:44:17.691536+00:00",
+    "thin": false,
+    "author": "Carly Thomas",
+    "tags": [
+      "Movie News",
+      "Movies",
+      "Ariana Grande",
+      "Ben Stiller",
+      "focker-in-law",
+      "Zoolander 2"
+    ]
+  },
+  {
+    "id": "b44771c73d38ba715bc169b86f6d98b75603025a4e092c1b8aea6e6bc16fc0c0",
+    "title": "Amazon Debuts $30 Streaming Bundle That Includes Starz, BritBox, AMC+, MGM+ and PBS Masterpiece In One Place",
+    "summary": "Amazon Prime Video is kicking off the holidays with a new streaming bundle deal that gets you five popular streaming services for under $30 total. Available now through the Prime Channels hub page, the deal gets you access to AMC+ Premium, BritBox Standard, MGM+, PBS Masterpiece and Starz for just $29.99/month. Priced individually, the monthly [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/shopping/news/amazon-prime-video-streaming-bundle-deal-2026-amc-mgm-starz-1236942849",
+    "published_at": "2026-11-10T00:51:54+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2251232288.jpg",
+    "collection_timestamp": "2026-11-10T04:44:17.686737+00:00",
+    "thin": false,
+    "author": "Tim Chan",
+    "tags": [
+      "News",
+      "NOADS",
+      "Prime Video Channels",
+      "Streaming"
+    ]
+  },
+  {
+    "id": "a1c817033da9a13ffeebb4e9dd5882cbee81c27e4e8a9f5697ad2b5fbc9ed1c9",
+    "title": "‘Being Heumann’ Composer Francesco Le Metre Tapped Into Judy Heumann’s Drive And A ’70s Punk Rock Spirit – Sound & Screen Film",
+    "summary": "For composer Francesco Le Metre, the brief when first discussing Apple Original Films&#8217; disability rights drama Being Heumann with director Siân Heder was to capture the spirit of its subject, activist Judy Heumann, through music. With his score, he says, he was aiming for something “honest and intimate” — not “too big or too cinematic” [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/being-heumann-composer-francesco-le-metre-interview-1237217526",
+    "published_at": "2026-11-10T00:45:00+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Francesco-Le-Metre-Being-Heumann.jpg",
+    "collection_timestamp": "2026-11-10T04:44:17.689052+00:00",
+    "thin": false,
+    "author": "Patrick Hipes",
+    "tags": [
+      "News",
+      "Apple Original Films",
+      "Being Heumann",
+      "Francesco Le Metre",
+      "Sound And Screen",
+      "Sound And Screen Film"
+    ]
+  },
+  {
+    "id": "f83a7c9616ee4ed983606d04252c0a6719ebffcdea10da95c029f0f0fbff04fb",
+    "title": "40th Australian International Documentary Conference Announces First Group Of Speakers: Poh Si Teng, Tamara Kotevska, Basil Tsiokos & More",
+    "summary": "The Australian International Documentary Conference (AIDC) will be welcoming some of the top talents in the documentary field to its upcoming 40th edition. Among the first speakers to be announced: Poh Si Teng, director of Oscar contender American Doctor and founder of Tiny Boxer Films; Oscar-nominated filmmaker Tamara Kotevska (The Tale of Silyan, Honeyland); Basil [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/australian-international-documentary-conference-speakers-1237218083",
+    "published_at": "2026-11-10T00:43:35+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/AIDC-2027-KEY-ART-LANDSCAPE.jpg",
+    "collection_timestamp": "2026-11-10T04:44:17.689312+00:00",
+    "thin": false,
+    "author": "Matthew Carey",
+    "tags": [
+      "Documentary",
+      "News",
+      "AIDC",
+      "Australian International Documentary Conference",
+      "Basil Tsiokos",
+      "Poh Si Teng",
+      "Tamara Kotevska"
+    ]
+  },
+  {
+    "id": "8bc5990ee79682037c72acac5918446f9025fc26ebbe759d7a1683f539e91bed",
+    "title": "Tina Knowles’ WACO Theater Center Sets Grand Reopening Celebration for South L.A.’s Historic Vision Theatre",
+    "summary": "The Vision Theatre Performing Arts Center in South L.A. is reopening following 15 years of extensive renovations and a $40 million investment. To celebrate the historic theater&#8217;s return, WACO Theater Center, led by founder &#38; artistic director Tina Knowles and executive director Shay Wafer, is hosting a grand reopening celebration in Leimert Park. “The reopening [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/scene/news/tina-knowles-waco-theater-center-vision-theatre-south-la-reopening-1236943581",
+    "published_at": "2026-11-10T00:41:39+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/tina-knowles-waco-vision-theatre.jpg",
+    "collection_timestamp": "2026-11-10T04:44:17.687272+00:00",
+    "thin": false,
+    "author": "Angelique Jackson",
+    "tags": [
+      "News",
+      "tina knowles"
+    ]
+  },
+  {
+    "id": "b658c8a458733646017d83d58c7ab98909e888c85ed84b0ca677e30a4b0bdb51",
+    "title": "Skydance Games Hit By Layoffs",
+    "summary": "Skydance Games has lost a number of staffers over the last few days, making it the latest division to be slimmed down and restructured after the merger with Warner Bros. Discovery. &#8220;As part of our ongoing efforts to position Skydance Games for long-term growth and success, we are implementing reorganization and operational shifts across a [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/skydance-games-layoffs-1237217870",
+    "published_at": "2026-11-10T00:40:43+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2025/10/GettyImages-1410882222.jpg",
+    "collection_timestamp": "2026-11-10T04:44:17.689539+00:00",
+    "thin": false,
+    "author": "Jillg366",
+    "tags": [
+      "News",
+      "Video Games",
+      "Layoffs",
+      "Skydance",
+      "Skydance Games"
+    ]
+  },
+  {
+    "id": "dd8d40001dd3e16056b14aad437ddab222f6c0d42dc57dee5ae76ccd4ff68162",
+    "title": "Olivia Cooke Says ‘House of the Dragon’ Fandom Led Her to Step Away From Social Media: ‘There’s a Lot of Ugliness,’ ‘Misogyny’ and ‘Racism’",
+    "summary": "Olivia Cooke, who plays the controversial Queen Alicent Hightower in HBO’s “Game of Thrones” prequel “House of the Dragon,” recently told GQ that she stepped away from social media ahead of the show’s third season because of the fandom’s “ugliness.” “I think some of those interpretations just catch fire, and they become something that bears [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/tv/news/olivia-cooke-house-of-the-dragon-fandom-1236943620",
+    "published_at": "2026-11-10T00:29:19+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-1411361044.jpg",
+    "collection_timestamp": "2026-11-10T04:44:17.687556+00:00",
+    "thin": false,
+    "author": "Payton Turkeltaub",
+    "tags": [
+      "News",
+      "House of the Dragon",
+      "Olivia Cooke"
+    ]
+  },
+  {
+    "id": "7cca3c128f0f02c788349bf90cff95406350e03eeab4257f5596de6567e2065f",
+    "title": "Lionsgate Film ‘My Jesus’ Adds Cheyenne Jackson & Country Singer Carly Pearce Among 6 Newly Cast",
+    "summary": "EXCLUSIVE: My Jesus film has added 6 new cast members, including Abby Glover, Sophia Bunnell, Chloé Flowers, Pilot Bunch, and Cheyenne Jackson. They join the previously announced cast, led by Aliza Kate Barlow: Gavin Casalegno, Monica Potter, Kay Oyegun, Beau Bridges, and Charles Esten. Country singer Carly Pearce will make a special appearance in the [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/lionsgate-film-my-jesus-cast-cheyenne-jackson-carly-pearce-1237218023",
+    "published_at": "2026-11-10T00:17:05+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/my-jesus-supporting-cast-1.jpg",
+    "collection_timestamp": "2026-11-10T04:44:17.689782+00:00",
+    "thin": false,
+    "author": "Rosy Cordero",
+    "tags": [
+      "Casting",
+      "News",
+      "Cheyenne Jackson",
+      "My Jesus"
+    ]
+  },
+  {
+    "id": "5d8c3b2a98314ffba1c30aea9943d4b41eaf312586c3febe2855688c70f2cb33",
+    "title": "Kris Bowers On Creating A Love Letter To Ghana & Film History With His Score For ‘The Eyes Of Ghana’ – Sound & Screen Film",
+    "summary": "“We wanted this score to be a love letter to Ghana and to the history of film,” Kris Bowers says of his work on The Eyes of Ghana, the latest feature from Canadian filmmaker Ben Proudfoot. The Oscar-winning musician was speaking at Deadline’s Sound &#38; Screen Film event, where a live orchestra performed parts of [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/kris-bowers-the-eyes-of-ghana-music-interview-1237217267",
+    "published_at": "2026-11-10T00:15:00+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Kris-Bowers-The-Eyes-Of-Ghana.jpg",
+    "collection_timestamp": "2026-11-10T04:44:17.690049+00:00",
+    "thin": false,
+    "author": "Patrick Hipes",
+    "tags": [
+      "Documentary",
+      "News",
+      "Breakwater Studios",
+      "Higher Ground Productions",
+      "Kris Bowers",
+      "Sound And Screen",
+      "Sound And Screen Film",
+      "The Eyes of Ghana"
+    ]
+  },
+  {
+    "id": "437a559d93de11aba802dfe30824405bd1ed687fdcd11d3d4c6012877054c560",
+    "title": "Dave Chappelle’s Charlie Kirk Joke at MSG Draws Rebuke From Erika Kirk",
+    "summary": "The Turning Point USA CEO spoke out after the comedian brought up her husband’s killing during a Madison Square Garden set.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/news/general-news/dave-chappelle-charlie-kirk-killing-joke-rebuke-erika-kirk-1236751330",
+    "published_at": "2026-11-10T00:08:19+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T04:44:17.691733+00:00",
+    "thin": false,
+    "author": "Kevin Dolak",
+    "tags": [
+      "General News",
+      "News",
+      "Charlie Kirk",
+      "Dave Chappelle",
+      "Erika Kirk"
+    ]
+  },
+  {
+    "id": "1dc659294d8e492f9c6e3e8025cfa1f6cd0b95b7f3811ef9b0793f1896e33eef",
+    "title": "David Ellison Is Very Bullish On AI’s Creative Potential",
+    "summary": "The Skydance CEO says, \"AI really has the potential to be the biggest creative unlock in modern history.\"",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/business/business-news/david-ellison-bullish-on-ai-creative-potential-1236751250",
+    "published_at": "2026-11-09T23:59:24+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T04:44:17.691911+00:00",
+    "thin": false,
+    "author": "Erik Hayden",
+    "tags": [
+      "Business",
+      "Business News",
+      "AI",
+      "Skydance"
+    ]
+  },
+  {
+    "id": "752f384ca1431b05ad721b1b0c35eac892484109af23059df8e4c1d0223a67de",
+    "title": "Skydance Bosses Throw Shade On Warner Bros Film Slate; Q4 Profit Will Take $200M Hit",
+    "summary": "There&#8217;s a lot for Skydance co-CEOs David Ellison and Ynon Kreiz to be proud of in their purchase of Warner Bros. As Ellison said Monday during Skydance&#8217;s Q3 earnings call, &#8220;We have approximately $40 billion [in film] franchises which I think highly strengthen the overall portfolio,&#8221; and that &#8220;a new movie will arrive on our [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/skydance-earnerings-warner-bros-losses-david-ellison-1237217782",
+    "published_at": "2026-11-09T23:53:21+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/David-Ellison-and-Ynon-Kreiz.jpg",
+    "collection_timestamp": "2026-11-10T04:44:17.690278+00:00",
+    "thin": false,
+    "author": "Anthonypauldalessandro",
+    "tags": [
+      "Executives",
+      "News",
+      "David Elllison",
+      "Digger",
+      "Skydance",
+      "Warner Bros",
+      "Ynon Kreiz"
+    ]
+  },
+  {
     "id": "3462cb590f779368ebe059d58b48b3301db4c9b141b7768ba7c226f7f1984a19",
     "title": "Bong Joon Ho on Restoring ‘The Host’ and Why It Still Resonates 20 Years On: ‘We Are Repeating Our Mistakes’",
     "summary": "Bong Joon Ho has revisited “The Host” for a 20th-anniversary 4K restoration, and the Oscar-winning director says the 2006 monster movie’s satire of official misinformation feels newly pertinent. Magnolia Pictures will return the remastered film to theaters nationwide on Nov. 20. Screenings on Nov. 21 and 23 will include an exclusive conversation between Bong and [&#8230;]",

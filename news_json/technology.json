@@ -61,6 +61,69 @@
     ]
   },
   {
+    "id": "cc5c466e6450f2a6ca388cb2a6bb623ce56dbbcd2e8af13c77df18adbfe2ec56",
+    "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+    "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+    "published_at": "2026-11-09T19:28:49-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T04:44:17.695554+00:00",
+    "thin": false,
+    "author": "Stevie Bonifield",
+    "tags": [
+      "AI",
+      "Business",
+      "Entertainment",
+      "Film",
+      "News"
+    ]
+  },
+  {
+    "id": "dd252b6ee5290a52ccdfbf8a1e2654a563499453dc659a41794f5ad5188e0d75",
+    "title": "What could China get from Jensen Huang?",
+    "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+    "published_at": "2026-11-09T18:51:58-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T04:44:17.695789+00:00",
+    "thin": false,
+    "author": "Hayden Field",
+    "tags": [
+      "AI",
+      "Chips",
+      "Gadgets",
+      "Nvidia",
+      "Policy",
+      "Report",
+      "Tech"
+    ]
+  },
+  {
+    "id": "99cd52b3f575184cf7461becf767d8c67073720a9e7e3ea41fa42a9751abf194",
+    "title": "Here’s what Trump said he knew about Jensen Huang",
+    "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"&#8203;&#8203;unfaithful\" to his wife, and the company has opened an investigation into Huang. Recent articles from The New [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+    "published_at": "2026-11-09T18:47:46-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T04:44:17.696025+00:00",
+    "thin": false,
+    "author": "Jay Peters",
+    "tags": [
+      "AI",
+      "News",
+      "Nvidia",
+      "Policy",
+      "Politics",
+      "Tech"
+    ]
+  },
+  {
     "id": "f81c7128ecb4ffd21c9f9df2655be3739b4ca0f500502cf5dee4b1c7ace46006",
     "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
     "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to [&#8230;]",
