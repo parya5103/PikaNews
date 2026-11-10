@@ -1,5 +1,277 @@
 [
   {
+    "id": "7586a1ee420566d317eb0ef344bac3686277113d1cab31c9e54558ada92eb3fe",
+    "title": "John Requa & Glenn Ficarra To Direct ‘Spinster’ Romantic Comedy For Amazon MGM Studios",
+    "summary": "EXCLUSIVE: John Requa and Glenn Ficarra, the directors of films like Crazy, Stupid, Love and I Love You Phillip Morris, have come aboard to direct Spinster, a new romantic comedy for Amazon MGM Studios. Written by Jenni Ross, the film&#8217;s plot is being kept under wraps. Todd Lieberman, producer of such popular rom-coms as The [&#8230;]",
+    "category": "technology",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/john-requa-glenn-ficarra-to-direct-spinster-amazon-1237219204",
+    "published_at": "2026-11-10T20:30:00+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-1475171522.jpg",
+    "collection_timestamp": "2026-11-10T20:32:55.679289+00:00",
+    "thin": false,
+    "author": "Matthewgrobar",
+    "tags": [
+      "News",
+      "Amazon MGM Studios",
+      "Glenn Ficarra",
+      "John Requa",
+      "Spinster"
+    ]
+  },
+  {
+    "id": "a2a7bfff8439215d9db789a14ff8bc0deedd4b028a75cc6cb14cba83b6ba349f",
+    "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
+    "summary": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family",
+    "published_at": "2026-11-10T19:00:26+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Pixel-11-series-6-1152x648.jpg",
+    "collection_timestamp": "2026-11-10T20:32:55.686388+00:00",
+    "thin": false,
+    "author": "Ryan Whitwam",
+    "tags": [
+      "Google",
+      "Tech",
+      "google",
+      "Google Pixel",
+      "smartphones"
+    ]
+  },
+  {
+    "id": "54bb60f17e394c847d5eda30293c23ecdc1dd67e246c5454f6cbc21f59e37700",
+    "title": "Free video-streaming service Tubi lets users share curated watchlists now",
+    "summary": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now",
+    "published_at": "2026-11-10T18:39:16+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Device-OTT-Purple-BG-1152x648.png",
+    "collection_timestamp": "2026-11-10T20:32:55.686483+00:00",
+    "thin": false,
+    "author": "Scharon Harding",
+    "tags": [
+      "Tech",
+      "streaming"
+    ]
+  },
+  {
+    "id": "2c4c150f92a46758f72bc5542f58bbcb36b7990479656876137ca8a157d50035",
+    "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
+    "summary": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor",
+    "published_at": "2026-11-10T14:53:05+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/jensen_huang-1152x648.jpg",
+    "collection_timestamp": "2026-11-10T20:32:55.686588+00:00",
+    "thin": false,
+    "author": "Michael Acton, Financial Times",
+    "tags": [
+      "Tech",
+      "Jensen",
+      "NVIDIA",
+      "spying",
+      "syndication"
+    ]
+  },
+  {
+    "id": "c7f0197540f3e949337a39550e972d8e070cbfb30db02b2a212e0aecf62ed054",
+    "title": "The PlayStation Plus PC app is shutting down next month",
+    "summary": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, there aren't many people using that perk: \"With a very small number of eligible PlayStation Plus [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
+    "published_at": "2026-11-10T14:40:52-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T20:32:55.685085+00:00",
+    "thin": false,
+    "author": "Stevie Bonifield",
+    "tags": [
+      "Entertainment",
+      "Gaming",
+      "News",
+      "PC Gaming",
+      "PlayStation",
+      "Sony",
+      "Tech"
+    ]
+  },
+  {
+    "id": "ae4954caafc70067f893b6d9cd9e8d41015bd237a39856db5f27e55009054258",
+    "title": "Starlink Mini 2 adds a swappable battery",
+    "summary": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to some users on X who shared screenshots of invitations to order Starlink Mini 2, the dish is priced at $999, which includes [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
+    "published_at": "2026-11-10T14:19:12-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T20:32:55.685226+00:00",
+    "thin": false,
+    "author": "Andrew Liszewski",
+    "tags": [
+      "Gadgets",
+      "News",
+      "Science",
+      "Space",
+      "SpaceX",
+      "Tech"
+    ]
+  },
+  {
+    "id": "64e7db1eb81cdc5ebe8df9cf1defcff99b3a9a78f53f6e6db97832bab0c5731f",
+    "title": "The US is winning the AI race. Jensen Huang could have blown it",
+    "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+    "published_at": "2026-11-10T14:04:05-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T20:32:55.685363+00:00",
+    "thin": false,
+    "author": "Robert Hart",
+    "tags": [
+      "AI",
+      "Nvidia",
+      "Security",
+      "Tech"
+    ]
+  },
+  {
+    "id": "aa8e1ffe906e78eb6774cf67ce0b1f605617a41f580a8485edf7310e8895bec9",
+    "title": "Google’s Pixel Tag tracker is now available",
+    "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's tracking network and app that was renamed the Find Hub last year. The Pixel Tag is priced similar to Apple's AirTag [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+    "published_at": "2026-11-10T14:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T20:32:55.685500+00:00",
+    "thin": false,
+    "author": "Andrew Liszewski",
+    "tags": [
+      "Gadgets",
+      "Google",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "60e0308a33c1472f40a6b14e270de4bf77a967220db1d95d2a64a144571ef251",
+    "title": "Google is making Pixel HiLight slightly more useful",
+    "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: as part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure, it's a small addition to the disappointing ways you could use HiLight [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
+    "published_at": "2026-11-10T14:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T20:32:55.685623+00:00",
+    "thin": false,
+    "author": "Jay Peters",
+    "tags": [
+      "Google",
+      "Google Pixel",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "d33f69bfe7c33b599d95113c708d78c76d9f8803ecc1159546402d7ca50fdaeb",
+    "title": "One of our favorite multi-filament 3D printers is $100 off",
+    "summary": "If you’re tired of filament jams and clogged nozzles, perhaps it’s time for a new 3D printer. Through December 1st, the Bambu Lab P2S Combo, currently one of the best models that’s easy to use, is discounted. It’s $649 at Best Buy, as well as directly from Bambu Lab. That’s $100 off the list price [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale",
+    "published_at": "2026-11-10T13:42:03-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T20:32:55.685756+00:00",
+    "thin": false,
+    "author": "Brad Bourque",
+    "tags": [
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "2e39dd51df356ceb2680dfbd1c84d247bf38ff370d8192540dcb233755242fe2",
+    "title": "ChatGPT is getting verified AI ‘Business Agents’",
+    "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+    "published_at": "2026-11-10T13:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T20:32:55.685888+00:00",
+    "thin": false,
+    "author": "Jay Peters",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI"
+    ]
+  },
+  {
+    "id": "7f2acc7ff2b330e9bcc39d452a6eb56fd27d5ba8298aacd69c81781ed72425b2",
+    "title": "Ableton Live 13 announced with a step sequencer, new drum synth, and more",
+    "summary": "Today, Ableton announced Live 13, which is expected to arrive in early 2027 with a slew of new features. Most of the changes are seemingly minor on paper, but when combined, they make for the biggest update to the digital audio workstation (DAW) in years. The feature most likely to draw attention is the addition [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw",
+    "published_at": "2026-11-10T12:43:49-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T20:32:55.686023+00:00",
+    "thin": false,
+    "author": "Terrence O’Brien",
+    "tags": [
+      "Apps",
+      "Entertainment",
+      "Music",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "975d87c93bbde1071e0b7c93bbc3fd28e20287b8e45d61ff8ff8e56bb0268401",
+    "title": "The indie game community is in disarray over AI and Big Walk",
+    "summary": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big Walk has published a statement saying it \"sparingly\" used AI in the \"final stretch\" of the game's development to \"help work through difficult [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+    "published_at": "2026-11-10T12:32:47-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T20:32:55.686151+00:00",
+    "thin": false,
+    "author": "Jay Peters",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Gaming",
+      "News"
+    ]
+  },
+  {
+    "id": "d0fe7dc36893ad9f65597d6b413cd78854fb4c5afdbc29499a4b40a9241bbce5",
+    "title": "Google Fi is bringing back multiple cell network support for better coverage",
+    "summary": "Google Fi is launching a new \"super network\" that can automatically switch users between two different 5G networks depending on which one has better connectivity. The feature is rolling out starting today on Pixel 9 and newer phones that have Google Fi active on eSIM and have any non-Fi SIMs disabled. When Google Fi first [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1030979/google-fi-automatic-network-switching-pixel",
+    "published_at": "2026-11-10T12:32:39-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T20:32:55.686280+00:00",
+    "thin": false,
+    "author": "Stevie Bonifield",
+    "tags": [
+      "Google",
+      "Google Pixel",
+      "Mobile",
+      "News",
+      "Tech"
+    ]
+  },
+  {
     "id": "cc5e3fec5e3aec545309422a64e87619301cee363cf9813b68f7ed5396c3be33",
     "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
     "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
@@ -2097,363 +2369,6 @@
       "AI",
       "News",
       "OpenAI"
-    ]
-  },
-  {
-    "id": "cb2d3bb449c98d4fceb2898a3971d1c00c26993d07bdbc6d286fd6f8ffff7e2b",
-    "title": "AMD's record quarter: Data center business doubles, while gaming craters",
-    "summary": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters",
-    "published_at": "2026-11-04T21:29:46+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/AMD_Helios_Rack_Instinct_MI455X-1152x540.webp",
-    "collection_timestamp": "2026-11-05T19:02:46.100591+00:00",
-    "author": "Nick Indge",
-    "tags": [
-      "Tech",
-      "AI Halo",
-      "AMD",
-      "MI350P",
-      "quarterly earnings",
-      "Ryzen"
-    ]
-  },
-  {
-    "id": "37982feaee40f3d74e9658cd90b5d8f948e54377f89071cdedfd73d7b0376930",
-    "title": "People say they want small smartphones—the Enough Phone will put that to the test",
-    "summary": "It won't win the specs race, but it will actually fit in your hand.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test",
-    "published_at": "2026-11-04T18:00:40+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Enough-Phone-in-Hand-1152x648.jpg",
-    "collection_timestamp": "2026-11-05T19:02:46.100720+00:00",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Tech",
-      "android",
-      "smartphones"
-    ]
-  },
-  {
-    "id": "14f0129f163c62c1ed7702f8f1ee4d7a5ad5236a94abc0d6430cf0f4ac5df58d",
-    "title": "This $48 e-paper display can be whatever you want it to be",
-    "summary": "This DIY e-paper display works in two official ecosystems or on your own server.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be",
-    "published_at": "2026-11-02T12:00:07+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/TRMNL_Seeed_Kit_Ferengi_Rules-1152x648.jpg",
-    "collection_timestamp": "2026-11-05T19:02:46.100878+00:00",
-    "author": "Nick Indge",
-    "tags": [
-      "Features",
-      "Tech",
-      "byod",
-      "BYOS",
-      "DIY",
-      "e-ink",
-      "Seeed Studio",
-      "SenseCraft",
-      "Terminus",
-      "TRMNL"
-    ]
-  },
-  {
-    "id": "aaea13f3076de44d2e23df06b5d5a09c484679c758d4fa5a9ac52a3a0f707a3a",
-    "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-    "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029",
-    "published_at": "2026-10-30T21:41:54+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Superpower-Superfactory-1152x648.jpg",
-    "collection_timestamp": "2026-11-05T19:02:46.101024+00:00",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "AI",
-      "Tech",
-      "ai data centers",
-      "boom supersonic",
-      "data centers",
-      "natural gas",
-      "supersonic",
-      "supersonic boom",
-      "supersonic flight",
-      "supersonic travel",
-      "United Airlines"
-    ]
-  },
-  {
-    "id": "1ef69e2eccb655dd461e1d0ff82ea5f055dd82db894eb40dedb003a6b46495ad",
-    "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-    "summary": "Low costs and offline security mean magnetic tape still has a job.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand",
-    "published_at": "2026-10-30T17:38:19+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2202649793-1152x648.jpg",
-    "collection_timestamp": "2026-11-05T19:02:46.101140+00:00",
-    "author": "Nick Indge",
-    "tags": [
-      "AI",
-      "Tech",
-      "Fujifilm",
-      "Kanagawa",
-      "LTO",
-      "Magnetic tape storage"
-    ]
-  },
-  {
-    "id": "796b80d2fe495a16cc8f8daaef325301bad0da274d7db04f688db511e084cf86",
-    "title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
-    "summary": "Disgraced founder of Theranos has some people falling for her act all over again.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit",
-    "published_at": "2026-10-30T11:30:01+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/holmes1-1152x648.jpg",
-    "collection_timestamp": "2026-11-05T19:02:46.101266+00:00",
-    "author": "Jennifer Ouellette",
-    "tags": [
-      "Culture",
-      "Tech",
-      "a24 studio",
-      "documentaries",
-      "Elizabeth Holmes",
-      "film",
-      "Nathan Fielder",
-      "reviews",
-      "Theranos",
-      "You Can See Everything"
-    ]
-  },
-  {
-    "id": "a712d298289a17f6492c40278d678e36c1fe20f4776e61460530e23164ed1d8a",
-    "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
-    "summary": "Reddit's search traffic \"was down meaningfully\" last quarter.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms",
-    "published_at": "2026-10-29T21:47:57+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/reddit-icon-1152x648-1752522571.jpg",
-    "collection_timestamp": "2026-11-05T19:02:46.101402+00:00",
-    "author": "Scharon Harding",
-    "tags": [
-      "Tech",
-      "reddit",
-      "social media"
-    ]
-  },
-  {
-    "id": "88bc2fb4dbd6c28824c6df06b66b0aa877689f66912e90023be2b7b2a97e5a9f",
-    "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
-    "summary": "The latest update also brings a cloud recovery option for PCs that won't boot.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides",
-    "published_at": "2026-10-29T20:18:49+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Hero-Bloom-Logo-1000x563_Windows_11_MS.jpg",
-    "collection_timestamp": "2026-11-05T19:02:46.101521+00:00",
-    "author": "Nick Indge",
-    "tags": [
-      "Tech",
-      "Financial Report",
-      "KB5127936",
-      "microsoft",
-      "right-click menu",
-      "windows 11"
-    ]
-  },
-  {
-    "id": "7d31be2679c0938085fb3da44ea4b39471b1e9661f5274b8b87db0ffec302e7b",
-    "title": "Trump declares robot imports a national security threat",
-    "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat",
-    "published_at": "2026-10-29T19:07:53+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-1152x648.jpg",
-    "collection_timestamp": "2026-11-05T19:02:46.101640+00:00",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "AI",
-      "Tech",
-      "imports",
-      "Industrial robots",
-      "physical AI",
-      "Robotics",
-      "robots",
-      "trump tariffs",
-      "US manufacturing"
-    ]
-  },
-  {
-    "id": "7a440b2f0fa2066ced1452103d949579c98e0a8e045231c38c6585cc938456f4",
-    "title": "Google admits AI search makes less money, but it's fixing that with more ads",
-    "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads",
-    "published_at": "2026-10-29T16:24:55+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
-    "collection_timestamp": "2026-11-05T19:02:46.101762+00:00",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "AI",
-      "Google",
-      "Tech",
-      "ai search",
-      "Artificial Intelligence",
-      "finance",
-      "google",
-      "quarterly earnings"
-    ]
-  },
-  {
-    "id": "6be63b2419f491590a316494eedb412e9c611c4982114dce5ec4e2ad5553ffa3",
-    "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
-    "summary": "Europe's Pan-Arctic Cable will bypass US to link Canada, Japan, and South Korea.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland",
-    "published_at": "2026-10-28T22:35:50+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/EU-and-Greenland-meeting-1152x648.jpg",
-    "collection_timestamp": "2026-11-05T19:02:46.101886+00:00",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Tech",
-      "Arctic",
-      "Canada",
-      "european union",
-      "Greenland",
-      "sabotage",
-      "subsea cable",
-      "subsea cables",
-      "undersea cable",
-      "undersea cable cuts",
-      "undersea cables"
-    ]
-  },
-  {
-    "id": "e32db601217cd2cb9b9c0de3fc3ca918b84c99e346fdd57b3259284c99a5c9ef",
-    "title": "Amazon turns its most capable smart speaker into a smart camera, too",
-    "summary": "The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\"",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra",
-    "published_at": "2026-10-28T18:05:22+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png",
-    "collection_timestamp": "2026-11-05T19:02:46.102003+00:00",
-    "author": "Scharon Harding",
-    "tags": [
-      "Tech",
-      "Amazon",
-      "amazon alexa",
-      "smart home",
-      "smart speakers"
-    ]
-  },
-  {
-    "id": "53b8e7aae7c1bb8e5d20b476b8926ac375494580f3091714cf2b88472f9e7390",
-    "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
-    "summary": "US-owned trans-Pacific cables face growing risks from sabotage and China.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific",
-    "published_at": "2026-10-28T11:00:49+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Trans-Pacific-cables-at-risk-1071x648.jpg",
-    "collection_timestamp": "2026-11-05T19:02:46.102130+00:00",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Tech",
-      "china",
-      "google",
-      "meta",
-      "Pacific ocean",
-      "undersea cable",
-      "undersea cable cuts",
-      "undersea cables",
-      "verizon"
-    ]
-  },
-  {
-    "id": "30e704da4404e6d52e489df6b576070a9a3468ae1e3b593cfcba8cd13d059a24",
-    "title": "Google begins certifying Registered App Stores for Android, but not in the US",
-    "summary": "Easier app installs are coming to third-party stores, pending Google's stamp of approval.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open",
-    "published_at": "2026-10-27T19:32:07+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-floating-1152x648.jpg",
-    "collection_timestamp": "2026-11-05T19:02:46.102249+00:00",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Google",
-      "Tech",
-      "android",
-      "app stores",
-      "google",
-      "smartphones"
-    ]
-  },
-  {
-    "id": "f04a729d3323417b7366796f3217a21784cc14fc7c664a1b403cfe76ae91f9c9",
-    "title": "From cheap tool to premium subscription: When a beloved app's price skyrockets",
-    "summary": "Huge price hikes force loyal users to reconsider their favorite apps.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets",
-    "published_at": "2026-10-27T15:50:19+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1321941710-1152x648.jpg",
-    "collection_timestamp": "2026-11-05T19:02:46.102390+00:00",
-    "author": "Scharon Harding",
-    "tags": [
-      "Tech",
-      "software",
-      "subscriptions"
-    ]
-  },
-  {
-    "id": "6e20cc22ba7b5f85432ab38c6d0f65e7ccbe8c4ca9d93dee22065a22438a719b",
-    "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
-    "summary": "I respect Apple's first crack at a foldable phone, but I'm not sure I like it.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars",
-    "published_at": "2026-10-27T14:20:26+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/IMG_3790-1152x648.jpeg",
-    "collection_timestamp": "2026-11-05T19:02:46.102521+00:00",
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Apple",
-      "Features",
-      "Tech",
-      "apple",
-      "ios 27",
-      "iphone",
-      "iphone duo"
-    ]
-  },
-  {
-    "id": "842296f2e530c5fbde23b5e3f07958fe62a882d872adfa172aab5daf01789c77",
-    "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
-    "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing",
-    "published_at": "2026-10-27T14:00:49+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/iphone-duo-oops-1152x648.jpg",
-    "collection_timestamp": "2026-11-05T19:02:46.102645+00:00",
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Apple",
-      "Tech",
-      "apple",
-      "Foldables",
-      "iphone duo",
-      "smartphones"
     ]
   }
 ]
