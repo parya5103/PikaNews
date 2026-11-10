@@ -1,5 +1,122 @@
 [
   {
+    "id": "cc5e3fec5e3aec545309422a64e87619301cee363cf9813b68f7ed5396c3be33",
+    "title": "Ukraine’s fiber-optic drones get squeezed by AI data center demand",
+    "summary": "Ukraine competes with Russia and data centers for China’s optical fiber supply.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand",
+    "published_at": "2026-11-10T12:15:32+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Fiber-optic-drone-cable-1152x648.jpg",
+    "collection_timestamp": "2026-11-10T13:14:58.930355+00:00",
+    "thin": false,
+    "author": "Jeremy Hsu",
+    "tags": [
+      "AI",
+      "Tech",
+      "drones",
+      "fiber optic cable",
+      "fiber optics",
+      "military drones",
+      "optical fiber",
+      "Russia invasion of Ukraine",
+      "Russia war on Ukraine",
+      "Russian invasion of Ukraine",
+      "Russian war on Ukraine",
+      "Ukraine",
+      "Ukraine war"
+    ]
+  },
+  {
+    "id": "22cbe7de5c74a7e4aa1b12349fce4df7f6d3d8b500a8e5fa4a921f82530d8a90",
+    "title": "Review: Apple's M6 MacBook Pro is good, but it's missing all the exciting stuff",
+    "summary": "Per usual, the basic MacBook Pro lags behind the flagships where it counts.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle",
+    "published_at": "2026-11-10T12:00:21+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9768-1152x648.jpeg",
+    "collection_timestamp": "2026-11-10T13:14:58.930532+00:00",
+    "thin": false,
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Apple",
+      "Features",
+      "Tech",
+      "14-inch MacBook Pro",
+      "apple m6",
+      "Apple silicon",
+      "MacBook Pro"
+    ]
+  },
+  {
+    "id": "d605a1e9f34641bef020018bf8b776af501a64cd2c44e2df5108419ce106e498",
+    "title": "Jensen Huang's affair with alleged Chinese spy further complicates Nvidia’s China problem",
+    "summary": "The allegations against Jensen Huang have brought new attention to the Nvidia CEO's potential influence over U.S. policy on chip sales to China.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html",
+    "published_at": "2026-11-10T12:00:01+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T13:14:58.933018+00:00",
+    "thin": false
+  },
+  {
+    "id": "6d096842af034898348864de74d2d7af30df0b554479cd922b5a6d03e71c8b90",
+    "title": "Nvidia and Jensen Huang sued by shareholders over affair with alleged Chinese spy",
+    "summary": "&#32; submitted by &#32; /u/Puzzleheaded_irl &#32; to &#32; r/technology [link] &#32; [comments]",
+    "category": "technology",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/technology/comments/1xsjbxl/nvidia_and_jensen_huang_sued_by_shareholders_over",
+    "published_at": "2026-11-10T10:17:18+00:00",
+    "image_url": "https://external-preview.redd.it/kTPlUNscQkrVMTtFvOyn27nzNEOgT0th1QrCy5rKWhc.jpeg",
+    "collection_timestamp": "2026-11-10T13:14:58.944684+00:00",
+    "thin": false,
+    "author": "/u/Puzzleheaded_irlhttps://www.reddit.com/user/Puzzleheaded_irl",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "id": "5eedec750f2a3275342d1c1f0cdd9d087268a9191e432e602242abf03fec1f8b",
+    "title": "Seagate’s FireCuda Forge moves your data between a hard drive and SSD for better performance",
+    "summary": "Seagate announced a new external storage solution, called the FireCuda Forge, that combines the speed benefits of an SSD with the affordability of a higher-capacity hard drive. The Forge is the first drive that's powered by the company's new Alkemi intelligent storage platform, which learns how your data is used and relocates the files you're [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1029665/seagate-firecuda-forge-hybrid-ssd-hard-drive-storage-alkemi-technology",
+    "published_at": "2026-11-10T06:01:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T13:14:58.929784+00:00",
+    "thin": false,
+    "author": "Andrew Liszewski",
+    "tags": [
+      "Gadgets",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "462e229c41864675c5921f713d926ffc92168af0868469c1b38d0b55532d3050",
+    "title": "Real Motors’ Project Ares is a cyberpunk fantasy made real",
+    "summary": "Electrification has done wonderful things for motorcycle design. By getting rid of the engine and the fuel tank that supports it, designers have the freedom to do whatever they want, and the results have been occasionally brilliant. I'm a big fan of the vaguely retrofuturistic stylings of the Maeving RM2 and the quirky minimalism of [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/1029837/real-motors-project-ares-electric-motorcycle-first-ride",
+    "published_at": "2026-11-10T06:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-10T13:14:58.930026+00:00",
+    "thin": false,
+    "author": "Tim Stevens",
+    "tags": [
+      "Electric Bikes",
+      "Hands-on",
+      "Reviews",
+      "Rideables",
+      "Tech",
+      "Transportation"
+    ]
+  },
+  {
     "id": "0c6d6d684d00f78aad55f7cf2fc650219871bf2b7ecb16c591a1a9b856f57e8e",
     "title": "Trump Appears With Dana White After “Kidding” Over Press Secretary Role; POTUS Defends Nvidia’s Jensen Huang, Calls Midterm Results “Ridiculous”",
     "summary": "Donald Trump surprised reporters on Monday with an appearance in the White House briefing room along with UFC CEO Dana White, the source of much speculation after the president posted over the weekend that he had offered him the job of press secretary. Once again, Trump said that he was &#8220;sort of kidding,&#8221; but just [&#8230;]",
