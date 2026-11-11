@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-11-11T15:51:00.188249+00:00",
+  "timestamp": "2026-11-11T22:28:29.866939+00:00",
   "total_fetched": 340,
-  "new_articles": 143,
-  "duplicates": 197,
+  "new_articles": 126,
+  "duplicates": 214,
   "errors": 3,
   "expired_articles": 0,
   "articles_without_valid_date": 0,
@@ -25,11 +25,11 @@
   },
   "by_category": {
     "hollywood": 30,
+    "entertainment": 22,
+    "technology": 13,
     "gaming": 14,
-    "entertainment": 16,
-    "technology": 17,
-    "business": 16,
-    "sports": 34,
-    "trending": 16
+    "business": 13,
+    "sports": 14,
+    "trending": 20
   }
 }

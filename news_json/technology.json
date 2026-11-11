@@ -1,5 +1,162 @@
 [
   {
+    "id": "6951485adba2ce06162a812c7df5bd48fa906f73b0498f385d156a042aa9158c",
+    "title": "Apple is shuttering its 28-year-old online community forum",
+    "summary": "Apple has already made the forum read-only.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum",
+    "published_at": "2026-11-11T17:04:26+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1560398364-966x648.jpg",
+    "collection_timestamp": "2026-11-11T22:28:36.028315+00:00",
+    "thin": false,
+    "author": "Scharon Harding",
+    "tags": [
+      "Apple",
+      "Tech"
+    ]
+  },
+  {
+    "id": "fc118ea4c42326aa2bd7236b510573cc32a560e4d51f828354360e1669d4f1d8",
+    "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+    "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly. And it's working. I've been testing the [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
+    "published_at": "2026-11-11T17:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-11T22:28:36.026884+00:00",
+    "thin": false,
+    "author": "Nathan Edwards",
+    "tags": [
+      "Reviews",
+      "Smart Home",
+      "Smart Home Reviews",
+      "Tech"
+    ]
+  },
+  {
+    "id": "fad3ef4c77c1023729ef037b11873f1332dd6dd7e970af7af7d617a3fe58d4cb",
+    "title": "United won’t let your AI agent book your flight",
+    "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+    "published_at": "2026-11-11T16:54:21-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-11T22:28:36.027131+00:00",
+    "thin": false,
+    "author": "Lauren Feiner",
+    "tags": [
+      "AI",
+      "Meta",
+      "News",
+      "OpenAI",
+      "Tech"
+    ]
+  },
+  {
+    "id": "1e0f1d13c9bcd60a7c4bccdf3f4ed2f13c7f021bec9e8eff5bc6f2ef6b70ba88",
+    "title": "IBM to offer access to a dual-processor quantum system in 2027",
+    "summary": "The company plans on linking two 520-qubit chips before next year is over.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027",
+    "published_at": "2026-11-11T16:33:08+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison-1152x648.jpg",
+    "collection_timestamp": "2026-11-11T22:28:36.028487+00:00",
+    "thin": false,
+    "author": "John Timmer",
+    "tags": [
+      "Science",
+      "Tech",
+      "Computer science",
+      "ibm",
+      "Physics",
+      "quantum computing",
+      "quantum mechanics"
+    ]
+  },
+  {
+    "id": "1abe91d0da0253b42e8ba6304a576ca370d54c10158f4fcfcb89a1658e1ac2f8",
+    "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
+    "summary": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers into spending more of their time and money online, [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+    "published_at": "2026-11-11T13:13:52-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-11T22:28:36.027369+00:00",
+    "thin": false,
+    "author": "Jess Weatherbed",
+    "tags": [
+      "News",
+      "Policy",
+      "Politics",
+      "Regulation",
+      "Social Media",
+      "Tech"
+    ]
+  },
+  {
+    "id": "0c8fdaaddcaa9fe6c52e68e23d81decf9f075f032e973787fbe1ce696c1c09b5",
+    "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
+    "summary": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style kei truck built in Indiana. Kei vehicles, which are built to satisfy Japan's light vehicle regulations, are enjoying [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
+    "published_at": "2026-11-11T12:09:58-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-11T22:28:36.027610+00:00",
+    "thin": false,
+    "author": "Andrew J. Hawkins",
+    "tags": [
+      "Cars",
+      "News",
+      "Toyota",
+      "Transportation"
+    ]
+  },
+  {
+    "id": "ac83ac3d6915411e3ad9e1dc5f534114bf7221d179f2bdb66490842d10923bd4",
+    "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+    "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+    "published_at": "2026-11-11T11:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-11T22:28:36.027866+00:00",
+    "thin": false,
+    "author": "Jess Weatherbed",
+    "tags": [
+      "AI",
+      "Google",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "e7227f7e7cd3197f88b65c0750c2549b5ec736f0e27af17361b8b53d0e33138a",
+    "title": "The best early Black Friday deals you can already shop",
+    "summary": "The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn&#8217;t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn&#8217;t necessarily mean you&#8217;re getting a historically low [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+    "published_at": "2026-11-11T10:53:55-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-11T22:28:36.028100+00:00",
+    "thin": false,
+    "author": "Sheena Vasani",
+    "tags": [
+      "Black Friday",
+      "Cyber Monday",
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ]
+  },
+  {
     "id": "b2a04f8592ae4a9143e8fc5cd682a2f78b455e21403e700d2748ff8acbffa2ff",
     "title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
     "summary": "Looking for a MacBook and device charger that’s as stylish as it is capable? Both Amazon and Sharge are selling the Pixel 140W GaN charger for $69.88 and $69.90, respectively, a $24 discount on its usual price. If you’re not in need of that much wattage but like the style, Sharge is also selling the [&#8230;]",
@@ -2165,54 +2322,6 @@
       "Gadgets",
       "Mobile",
       "Tech"
-    ]
-  },
-  {
-    "id": "726730fcc0b42ef0de55f9f77bdfc2b8c71ad321b10d5b789d0ee553521af033",
-    "title": "Google, TikTok And Meta Sue To Block California’s Social Media Law That Restricts Addictive Features For Children",
-    "summary": "Three tech giants &#8212; Google, Meta and TikTok &#8212; sued the state of California over a recently passed law designed to restrict social media platforms from offering &#8220;addictive&#8221; features to children under 16. In its lawsuit, filed on Wednesday, Google claimed that the law would ban features like YouTube&#8217;s recommendation system and autoplay feature, even [&#8230;]",
-    "category": "technology",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/california-social-media-law-youtube-tiktok-facebook-1237214954",
-    "published_at": "2026-11-05T23:29:50+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2025/05/GettyImages-2081676173.jpg",
-    "collection_timestamp": "2026-11-06T00:29:47.229926+00:00",
-    "author": "Ted Johnson",
-    "tags": [
-      "Legal",
-      "News",
-      "Politics",
-      "Digital Age Assurance Act",
-      "ElectionLine",
-      "Facebook",
-      "Gavin Newsom",
-      "Google",
-      "Instagram",
-      "META",
-      "tiktok",
-      "YouTube"
-    ]
-  },
-  {
-    "id": "da81e62ee3091f55cec823960f322cf73f907467fe855a8b7b955a8a9474a2b4",
-    "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
-    "summary": "NASA’s X-70 Fractal announcement comes as agency aims to grow X-plane fleet.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark",
-    "published_at": "2026-11-05T22:49:03+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/nasa-x-70-image-1152x648.jpeg",
-    "collection_timestamp": "2026-11-06T00:29:47.237403+00:00",
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Tech",
-      "aircraft",
-      "experimental aircraft",
-      "jared isaacman",
-      "NASA",
-      "X-59",
-      "X-70",
-      "x-plane"
     ]
   }
 ]
