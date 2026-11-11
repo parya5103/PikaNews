@@ -1,5 +1,77 @@
 [
   {
+    "id": "49af43a91de957502d508065bdebb96865f4b6e4523f8814f3a6471db27151d7",
+    "title": "Singapore wants a bigger slice of the global gold market. Is it too late to the party?",
+    "summary": "Singapore is stepping up efforts to become a key player in the global gold market, betting that vaulting service and tax incentives will help it attract flows.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/11/singapore-gold-market-vault-storage.html",
+    "published_at": "2026-11-11T07:02:45+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-11T07:41:19.225350+00:00",
+    "thin": false
+  },
+  {
+    "id": "e5889e2488f802357ac85bf088791c77b4e8ba649729d49291abb21478bff181",
+    "title": "Investors pivot to defensive stocks as markets enter a ‘state of alert’",
+    "summary": "Technology stocks have lost momentum while defensive sectors gain ground, as investors reassess risks.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/11/tech-selloff-defensive-pivot.html",
+    "published_at": "2026-11-11T06:00:01+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-11T07:41:19.225050+00:00",
+    "thin": false
+  },
+  {
+    "id": "0f2c83db292d7911aec1a696e72ee584312a67a8e287eaa28848df0664f4bece",
+    "title": "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says",
+    "summary": "During Xi's September visit, Washington and Beijing agreed to launch an AI dialogue with a communications channel to help defuse serious incidents.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
+    "published_at": "2026-11-11T05:15:50+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-11T07:41:19.225162+00:00",
+    "thin": false
+  },
+  {
+    "id": "ec78a0ac93d91271519e13f3bedb8628389eda54ec845b1397b277315f1a7a3e",
+    "title": "Bessent reportedly moved to military base over Iranian threats on his life",
+    "summary": "The move comes as the Department of Justice said late Tuesday that three Iranian nationals have been indicted on terrorism-related charges.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
+    "published_at": "2026-11-11T04:06:47+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-11T07:41:19.224921+00:00",
+    "thin": false
+  },
+  {
+    "id": "a658725bd2e28c764c5abd75076838cf16d88c83dc3fbcdabb00245ca8dcd140",
+    "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+    "summary": "Alibaba noted it had already filed confidentially on Sept. 11 to list T-Head on the Hong Kong Stock Exchange.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+    "published_at": "2026-11-11T03:08:17+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-11T07:41:19.225249+00:00",
+    "thin": false
+  },
+  {
+    "id": "0eab7e26b1adce4a2d4cf77e85d14edbc7341bd22ca6a496bd1a07222bb0e041",
+    "title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
+    "summary": "Anthropic opened its Australia retail IPO offering on Wednesday, allowing individual investors to apply for shares ahead of its planned IPO.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html",
+    "published_at": "2026-11-11T01:52:56+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-11T07:41:19.225460+00:00",
+    "thin": false
+  },
+  {
     "id": "055b2ac4e998956ea6c040638f65315f695d7e873d7c20b63a0aa8841c2ece19",
     "title": "Hegseth impeachment effort torpedoed in House",
     "summary": "GOP Rep. Thomas Massie, who has clashed with President Donald Trump, kicked off the Hegseth impeachment fight days after a blue wave midterm election.",
@@ -9,6 +81,18 @@
     "published_at": "2026-11-10T23:46:41+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-11T01:00:04.429567+00:00",
+    "thin": false
+  },
+  {
+    "id": "3a7b5fa8c11163d7296fc0d85fa78a6875612623d2730b4a4098f1181429a98a",
+    "title": "Jim Cramer says Anthropic's explosive growth could justify a record-breaking IPO",
+    "summary": "\"The fact that this deal is on is bullish for tech and the AI trade,\" CNBC's Jim Cramer said Tuesday.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/10/anthropic-ipo-revenue-growth-cramer.html",
+    "published_at": "2026-11-10T23:46:35+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-11T07:41:19.225582+00:00",
     "thin": false
   },
   {
@@ -2267,159 +2351,5 @@
     "published_at": "2026-11-05T17:42:29+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-05T19:02:46.141163+00:00"
-  },
-  {
-    "id": "6a321329d7bdb2f47404f1a92c332395974be23b50f2380681cd05eb3a7d7c5a",
-    "title": "Wall Street's fear gauge surges the most since April. Why traders think it should be even higher",
-    "summary": "From its intraday low to high Thursday, VIX moved more than 11 points, the biggest one-day move since April 9.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/05/wall-streets-fear-gauge-surges-the-most-since-april-why-traders-think-it-should-be-even-higher.html",
-    "published_at": "2026-11-05T17:34:16+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-05T19:02:46.140801+00:00"
-  },
-  {
-    "id": "e4972624e7b950a66be8145b1358b3b1ce79d2099a7b8a0b25c7963aacc7dcc6",
-    "title": "Three tax proposals targeting the rich that the new Congress could revive",
-    "summary": "Democrats' sweeping victories could revive tax proposals targeting carried interest, large trusts, and borrowing against stock.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/05/three-tax-proposals-targeting-the-rich-the-new-congress-could-revive.html",
-    "published_at": "2026-11-05T17:24:30+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-05T19:02:46.142537+00:00"
-  },
-  {
-    "id": "654e320ecdda9dc0b9b07d4c5a6be322dd42f1098e7dafc4e62b6a2a4b1caec7",
-    "title": "Expedia CEO says AI agents aren't changing booking habits — yet",
-    "summary": "Expedia CEO Ariane Gorin told CNBC that AI agents present an exciting time for the travel industry but that they haven't yet impacted bookings.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/05/expedia-ai-agents-booking-habits.html",
-    "published_at": "2026-11-05T17:03:35+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-05T19:02:46.142429+00:00"
-  },
-  {
-    "id": "89db9d557cbbdc6141b9c19d2ec883fa73930d37b8e74dc84563bf2c09184f90",
-    "title": "Las Vegas Raiders owner Mark Davis says he's 'not a fan' of sports gambling amid prediction market boom",
-    "summary": "In an interview with CNBC Sport, Las Vegas Raiders owner Mark Davis expressed concerns about the expansion of sports gambling, particularly proposition bets.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/05/las-vegas-raiders-owner-mark-davis-on-sports-gambling-not-a-fan.html",
-    "published_at": "2026-11-05T16:48:55+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-05T19:02:46.142081+00:00"
-  },
-  {
-    "id": "fb05c3ce20687b6b10261e5796b0590d90eba936ec565f78af5b76ec0681fe15",
-    "title": "Democratic sweep puts crypto on defensive in Washington",
-    "summary": "Democrats in Congress could impose tougher rules on crypto and investigate President Donald Trump, ushering in a tougher era for the industry.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/05/crypto-midterms-democrats-clarity-act.html",
-    "published_at": "2026-11-05T16:48:34+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-05T19:02:46.142184+00:00"
-  },
-  {
-    "id": "3212cf13bc8fbd34345a60ad883802157c25663b56d36c6b01d6eae9decd65d4",
-    "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
-    "summary": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
-    "published_at": "2026-11-05T16:34:33+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-05T19:02:46.141962+00:00"
-  },
-  {
-    "id": "4e5eb3374c5a636b1198cd95e73d6162eb6c7d39751d1ee7c59d34887d5ca047",
-    "title": "Marc Lore's Wonder confidentially files for IPO",
-    "summary": "Marc Lore's latest startup Wonder has confidentially filed for an initial public offering.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/05/wonder-confidential-ipo-filing.html",
-    "published_at": "2026-11-05T16:27:10+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-05T19:02:46.141752+00:00"
-  },
-  {
-    "id": "103042fc481d352f3ea615d746185fe244690e53af2d56043741def734f70352",
-    "title": "California’s billionaire tax faces defeat, but Democrats plan higher taxes on the wealthy",
-    "summary": "The likely defeat of the California billionaire tax may energize Democrats in Congress to propose federal tax hikes on high earners, according to tax experts.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/05/as-california-billionaire-tax-fizzles-democrats-plan-taxes-on-wealthy.html",
-    "published_at": "2026-11-05T16:19:21+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-05T19:02:46.141286+00:00"
-  },
-  {
-    "id": "5082e8cfdca0c0d2af5b88d345b50238fb55dd9b43026bf11c1d039bb3da12cc",
-    "title": "Voters say the economy drove them to the polls — and blame Trump for their troubles",
-    "summary": "Participants in the CNBC Voter Poll ranked the economy the most important issue facing the country, ahead of topics tied to democracy and immigration.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
-    "published_at": "2026-11-05T16:07:59+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-05T19:02:46.141542+00:00"
-  },
-  {
-    "id": "f6ad5dbf5c43e57327d867c1db17afd0684108ef60a3969c49d56440dccc970c",
-    "title": "Bomb threats disrupt flights across Europe for the second time. Here’s what we know",
-    "summary": "Dozens of flights across Europe reported bomb threats on Thursday for the second time this week, disrupting air travel across London, Dublin, and Helsinki.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html",
-    "published_at": "2026-11-05T15:26:06+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-05T19:02:46.142655+00:00"
-  },
-  {
-    "id": "188185741ab714ee1840f4e4a839b8cbc44f07a38009e8576c246ea4a3b4e2b4",
-    "title": "Qualcomm slides 9% after earnings, leading postelection chip stock sell-off",
-    "summary": "Qualcomm slid Thursday morning after its Q4 earnings report as chip stocks face continued post-election pressure.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
-    "published_at": "2026-11-05T15:24:47+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-05T19:02:46.141051+00:00"
-  },
-  {
-    "id": "4afd3d1609cde344fd3c4227ca910a59f94c67c8020dc881aefa2f33bfabb559",
-    "title": "Wendy's rejects $1.4 billion takeover proposal from Nelson Peltz’s Trian",
-    "summary": "Wendy's said the $1.4 billion takeover proposal does not reflect potential gains from the burger chain's turnaround strategy.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html",
-    "published_at": "2026-11-05T15:08:05+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-05T19:02:46.142883+00:00"
-  },
-  {
-    "id": "259d3e732de46784ed1db8593a2049fb14da99aaeb4128e34fa5d2cd69627b80",
-    "title": "Here's what the Democratic election rout could mean for the U.S. economy",
-    "summary": "The biggest forces shaping the economy aren't going to change just because the party in power did.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html",
-    "published_at": "2026-11-05T14:33:32+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-05T19:02:46.140580+00:00"
-  },
-  {
-    "id": "ebd962d3ab86ac05c0008f70e6b6a95f817d69551e27eb1052e344ba3ca8da52",
-    "title": "World's largest olive oil company plummets 20% after rivals agree to takeover deal",
-    "summary": "The world's largest olive oil company, Deoleo, plummeted in early trading after two of its rivals announced plans to acquire the firm.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/05/deoleo-olive-oil-takeover-dcoop-acesur.html",
-    "published_at": "2026-11-05T14:25:23+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-05T19:02:46.143474+00:00"
   }
 ]

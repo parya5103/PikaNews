@@ -1,13 +1,12 @@
 {
-  "timestamp": "2026-11-11T00:59:59.592230+00:00",
-  "total_fetched": 538,
-  "new_articles": 221,
-  "duplicates": 317,
-  "errors": 2,
+  "timestamp": "2026-11-11T07:41:12.741354+00:00",
+  "total_fetched": 338,
+  "new_articles": 73,
+  "duplicates": 265,
+  "errors": 3,
   "expired_articles": 0,
   "articles_without_valid_date": 0,
   "by_source": {
-    "Pinkvilla": 200,
     "Filmfare": 20,
     "Variety": 10,
     "Deadline": 12,
@@ -25,13 +24,12 @@
     "Reddit Popular": 25
   },
   "by_category": {
-    "bollywood": 110,
-    "entertainment": 29,
-    "hollywood": 30,
-    "gaming": 11,
-    "technology": 10,
-    "business": 8,
-    "sports": 8,
+    "hollywood": 19,
+    "entertainment": 14,
+    "technology": 6,
+    "gaming": 5,
+    "business": 7,
+    "sports": 7,
     "trending": 15
   }
 }
