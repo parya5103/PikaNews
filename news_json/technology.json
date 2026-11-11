@@ -1,5 +1,199 @@
 [
   {
+    "id": "b2a04f8592ae4a9143e8fc5cd682a2f78b455e21403e700d2748ff8acbffa2ff",
+    "title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
+    "summary": "Looking for a MacBook and device charger that’s as stylish as it is capable? Both Amazon and Sharge are selling the Pixel 140W GaN charger for $69.88 and $69.90, respectively, a $24 discount on its usual price. If you’re not in need of that much wattage but like the style, Sharge is also selling the [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale",
+    "published_at": "2026-11-11T10:30:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-11T15:51:04.853894+00:00",
+    "thin": false,
+    "author": "Brad Bourque",
+    "tags": [
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "7a63cf23acfa8be22b5127704fe58b63b684d417fbd83112a2616c9f3a10600d",
+    "title": "Ocarina of Time is even better if you use a smartphone app",
+    "summary": "I never liked hunting for Golden Skulltulas in The Legend of Zelda: Ocarina of Time. The game has 100 of them tucked all over Hyrule, and even over my many hours with the N64 classic growing up, I can't remember ever actually finding all of them, or even wanting to. Jumping into the Ocarina of [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula",
+    "published_at": "2026-11-11T10:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-11T15:51:04.854125+00:00",
+    "thin": false,
+    "author": "Jay Peters",
+    "tags": [
+      "Entertainment",
+      "Gaming",
+      "News",
+      "Nintendo"
+    ]
+  },
+  {
+    "id": "64b79e635195f0f5ecca629e610529570f9540f23bea91ee8802ecb30639b092",
+    "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+    "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+    "published_at": "2026-11-11T10:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-11T15:51:04.854381+00:00",
+    "thin": false,
+    "author": "Robert Hart",
+    "tags": [
+      "AI",
+      "Google",
+      "Health",
+      "Science",
+      "Tech"
+    ]
+  },
+  {
+    "id": "2ee3c411e50808e0b465c5a297a082867aa6e61fdfd7f7c2612e8d6f49546738",
+    "title": "Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price",
+    "summary": "It's tempting to seek out the do-everything wireless gaming headset with noise cancellation, phenomenal sound quality, multiplatform connectivity, swappable batteries - you name it. But if you just want the basics done well, Sony's new $99.99 PlayStation Pulse headset is worth considering. It has very good sound and just enough extras, even if you use [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on",
+    "published_at": "2026-11-11T09:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-11T15:51:04.854629+00:00",
+    "thin": false,
+    "author": "Cameron Faulkner",
+    "tags": [
+      "Gaming",
+      "Hands-on",
+      "PlayStation",
+      "Reviews",
+      "Tech"
+    ]
+  },
+  {
+    "id": "e9efc8b08b745fa087e018b3a86e02763ef29a31d051d128f0caec56bacf7cf2",
+    "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+    "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+    "published_at": "2026-11-11T09:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-11T15:51:04.854869+00:00",
+    "thin": false,
+    "author": "Jess Weatherbed",
+    "tags": [
+      "Adobe",
+      "AI",
+      "Creators",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "62404f8aa7de944811d0a6ce7b98d96b30a53e110225de1b2325084581c78d2b",
+    "title": "Streaming is still trying to be TikTok",
+    "summary": "At Skydance's first employee town hall after it acquired Warner Bros. Discovery in October, CEO David Ellison told staff that the company behind Paramount Plus and HBO Max was competing for people's attention with some of the world's biggest tech companies. Months earlier, he'd singled out a way to get viewers to spend more time [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/streaming/1030864/streaming-skydance-paramount-disney-hulu-earnings-tiktok-short-form-video",
+    "published_at": "2026-11-11T08:30:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-11T15:51:04.855085+00:00",
+    "thin": false,
+    "author": "Rani Molla",
+    "tags": [
+      "Disney",
+      "HBO",
+      "Hulu",
+      "Netflix",
+      "Streaming",
+      "YouTube"
+    ]
+  },
+  {
+    "id": "a5166b35cb34ef9b6a79798e0bc792e2638b6d50d1f49b08d7d9f106201fcafb",
+    "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+    "summary": "Every TV company is spying on you, not just LG. Like other tech companies, they collect lots of information, and while some is necessary for products to work, not all of it is - and could include details you'd prefer to keep private. Many customers are concerned about how TVs and streaming devices might be [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+    "published_at": "2026-11-11T08:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-11T15:51:04.855296+00:00",
+    "thin": false,
+    "author": "John Higgins",
+    "tags": [
+      "Gadgets",
+      "Privacy",
+      "Tech",
+      "TVs"
+    ]
+  },
+  {
+    "id": "7a04414ebc25a23fa2210dd55535915d9c0d2c06989b9fe2f684f8352fbb4409",
+    "title": "Not everyone is loving their new iPhone Duo",
+    "summary": "For most new relationships, two weeks probably isn't enough time to decide if you're ready for long-term commitment. But two weeks with a new phone? You probably know. The iPhone Duo launched just over two weeks ago, and that's been enough time for a subset of day-one buyers who aren't loving the phone to make [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps",
+    "published_at": "2026-11-11T08:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-11T15:51:04.855519+00:00",
+    "thin": false,
+    "author": "Allison Johnson",
+    "tags": [
+      "Apple",
+      "iPhone",
+      "Mobile",
+      "Tech"
+    ]
+  },
+  {
+    "id": "03c4b47a612c0400c6b7c953e43a77735f34d68f0fc503141ba9b6d44849f09b",
+    "title": "Serve Robotics wants to democratize sidewalk delivery robots",
+    "summary": "Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Portal, enabling third-party software engineers, independent businesses, and even autonomous AI agents to access its fleet of 2,000 sidewalk robots. With this new capability, [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
+    "published_at": "2026-11-11T07:30:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-11T15:51:04.855753+00:00",
+    "thin": false,
+    "author": "Andrew J. Hawkins",
+    "tags": [
+      "Food",
+      "Robot",
+      "Science",
+      "Tech",
+      "Transportation"
+    ]
+  },
+  {
+    "id": "89db2b1d321333ea74950e09ce2f538bb368cddb12d1d25223a73d1dd9c72c10",
+    "title": "Apple is killing its Support Community forum next week",
+    "summary": "It's the end of the road for the Apple Support Community. The dedicated discussion forum, which gave Apple users a place to exchange advice, troubleshoot, and generally chat about Apple products, has been placed into read-only mode, with a message from the company announcing that the Support Community will shut down for good on November [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+    "published_at": "2026-11-11T07:19:10-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-11T15:51:04.855966+00:00",
+    "thin": false,
+    "author": "Jess Weatherbed",
+    "tags": [
+      "Apple",
+      "News",
+      "Tech"
+    ]
+  },
+  {
     "id": "c89ef48f2f50bd0ef02a162b9f807b906022c1793ee8f0b5c7f595aeb5138815",
     "title": "Seagate's new hybrid drive raises some old questions",
     "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
@@ -59,6 +253,22 @@
     "author": "/u/Mountain_Till_5868https://www.reddit.com/user/Mountain_Till_5868",
     "tags": [
       "technology"
+    ]
+  },
+  {
+    "id": "c6d51904a7a10ceb644cf7dca6168ce9ed320dc5d177479c2120281a73a7efeb",
+    "title": "WIBTA if I blocked ChatGPT on my home wifi?",
+    "summary": "My friend is staying with me temporarily. She uses a lot of ChatGPT. She has conversations with it, asks it to tell her if a text from someone is “grouchy”, and gets her “diagnoses” from it and Dr. Google. She treats it like a best friend. She texts it like a bestie and therapist. She talks about all of her symptoms, her hallucinations (she has psychosis), what happens in her day, and literally everything. She’s sent me screenshots of “their conversations” and it texts like her (all shortenings",
+    "category": "technology",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/AmItheAsshole/comments/1xszw51/wibta_if_i_blocked_chatgpt_on_my_home_wifi",
+    "published_at": "2026-11-10T21:53:56+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-11T15:51:04.878127+00:00",
+    "thin": false,
+    "author": "/u/stevenslowhttps://www.reddit.com/user/stevenslow",
+    "tags": [
+      "AmItheAsshole"
     ]
   },
   {
@@ -2003,154 +2213,6 @@
       "X-59",
       "X-70",
       "x-plane"
-    ]
-  },
-  {
-    "id": "c0490b7083b50380b54b88008c84a3476f34708bff2e2094a6d719e8d11560b0",
-    "title": "Tesla and SpaceX lose over $420 billion in combined market cap in the two days after midterms",
-    "summary": "&#32; submitted by &#32; /u/ControlCAD &#32; to &#32; r/technology [link] &#32; [comments]",
-    "category": "technology",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/technology/comments/1xow42o/tesla_and_spacex_lose_over_420_billion_in",
-    "published_at": "2026-11-05T22:19:44+00:00",
-    "image_url": "https://external-preview.redd.it/BFowk3HwrUn0jMVPkcVBRBqTLlgtZq61M580DlpozNM.jpeg",
-    "collection_timestamp": "2026-11-06T00:29:47.244612+00:00",
-    "author": "/u/ControlCADhttps://www.reddit.com/user/ControlCAD",
-    "tags": [
-      "technology"
-    ]
-  },
-  {
-    "id": "d25c13f223ab990bd50bd876ca3fb72a2ee2f842a523756ad79d1dcfc5fb04e1",
-    "title": "Sony revives the original Walkman headphones, adds USB-C",
-    "summary": "Orange ear cushions included.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones",
-    "published_at": "2026-11-05T21:56:36+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/assets_MS2027641_000001_feature-2-3-D-1152x648.jpg",
-    "collection_timestamp": "2026-11-06T00:29:47.237497+00:00",
-    "author": "Scharon Harding",
-    "tags": [
-      "Tech",
-      "audio",
-      "Sony",
-      "Walkman"
-    ]
-  },
-  {
-    "id": "b197ee9d77615de465e614646d552e63b70b4b602986e296fe9aba98b921a4cf",
-    "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
-    "summary": "Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections.",
-    "category": "technology",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
-    "published_at": "2026-11-05T20:17:16+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-06T00:29:47.240633+00:00"
-  },
-  {
-    "id": "8838df6dd8cf4c0ce008337bc146299ac2138b9f37bada0f09f7d14d4f858858",
-    "title": "OpenAI is stepping back from NDAs for data center projects",
-    "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-    "published_at": "2026-11-05T19:37:56-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-06T07:17:12.325987+00:00",
-    "thin": false,
-    "author": "Jay Peters",
-    "tags": [
-      "AI",
-      "News",
-      "OpenAI"
-    ]
-  },
-  {
-    "id": "d3c47bfb590453c002f17026dd9593582588005edc3fa5fe2deaab696ee0909b",
-    "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-    "summary": "&#32; submitted by &#32; /u/MarvelsGrantMan136 &#32; to &#32; r/technology [link] &#32; [comments]",
-    "category": "technology",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/technology/comments/1xorh8s/meta_warns_that_election_backlash_against_data",
-    "published_at": "2026-11-05T19:14:24+00:00",
-    "image_url": "https://external-preview.redd.it/rB5E4_Q0DeNhhCFPgAAmF71ZyW8SdEBei59XzHvnTkU.jpeg",
-    "collection_timestamp": "2026-11-06T07:17:12.334921+00:00",
-    "thin": false,
-    "author": "/u/MarvelsGrantMan136https://www.reddit.com/user/MarvelsGrantMan136",
-    "tags": [
-      "technology"
-    ]
-  },
-  {
-    "id": "d8178f2aed08a64a957aa800f85b76cde3cd17855200367c9cf5771005bd1dcf",
-    "title": "Airbnb is working on an AI travel agent",
-    "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said. \"But [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-    "published_at": "2026-11-05T19:06:12-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-06T00:29:47.236059+00:00",
-    "author": "Jay Peters",
-    "tags": [
-      "AI",
-      "Apps",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "0833a8182196ca850d0c2032cb33c6f18c965d528b1976ae17bf43cf5cce0840",
-    "title": "Voters rejected AI data centers over resource concerns. Here's why measuring water usage is hard",
-    "summary": "AI data centers are facing national outcry for draining local water and power supply. The truth about how they use water to stay cool is far more complicated.",
-    "category": "technology",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/05/meta-spacex-ai-data-centers-use-millions-of-gallons-of-water-a-day.html",
-    "published_at": "2026-11-05T18:52:21+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-05T19:02:46.143216+00:00"
-  },
-  {
-    "id": "1f92a9bc028c7d75bee3b5f6f76e90a00efaf383b441cc3587c768bf12cada72",
-    "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
-    "summary": "The New York Times Company is in talks\"exclusive negotations\" to acquire Letterboxd, the social network for film lovers, for around $330 million, The New York Times reports. The Times Company, Sony Pictures Entertainment, and A24 were all recently rumored to be among those interested in buying Letterboxd. The negotiations with the Times Company have included [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
-    "published_at": "2026-11-05T18:45:10-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-06T00:29:47.236236+00:00",
-    "author": "Jay Peters",
-    "tags": [
-      "Apps",
-      "Entertainment",
-      "Film",
-      "News",
-      "Tech",
-      "Web"
-    ]
-  },
-  {
-    "id": "fcc78a83f8695724f9e8d5f3e7a8f6d6220a8de0beadf53d95e961d3877fab1f",
-    "title": "T-Mobile owner on Elon Musk launching a wireless carrier: &#8216;Welcome to the party&#8217;",
-    "summary": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim H&#246;ttges says he takes the Elon Musk-owned company \"super serious,\" but that it will cost at least $200 billion to pull off: He [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
-    "published_at": "2026-11-05T18:17:10-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-06T00:29:47.236391+00:00",
-    "author": "Emma Roth",
-    "tags": [
-      "Mobile",
-      "News",
-      "Science",
-      "Space",
-      "SpaceX",
-      "T-Mobile",
-      "Tech"
     ]
   }
 ]
