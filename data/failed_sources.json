@@ -7,6 +7,12 @@
       "error": "Failed to fetch"
     },
     {
+      "name": "Filmfare",
+      "url": "https://www.filmfare.com/rss/news.xml",
+      "category": "bollywood",
+      "error": "Failed to fetch"
+    },
+    {
       "name": "IGN",
       "url": "https://www.ign.com/feed",
       "category": "gaming",
@@ -19,6 +25,6 @@
       "error": "Failed to fetch"
     }
   ],
-  "timestamp": "2026-11-12T03:17:43.462597+00:00",
-  "total_failed": 3
+  "timestamp": "2026-11-12T11:39:42.999148+00:00",
+  "total_failed": 4
 }
