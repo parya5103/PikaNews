@@ -1,5 +1,65 @@
 [
   {
+    "id": "6f261e9f40b6c459f0c4bbf023189e8f089cd3320c0f1b59e38b1d231c069dd9",
+    "title": "What we know so far about Nvidia partner Megaspeed’s Asia footprint",
+    "summary": "Megaspeed is at the center of a U.S. probe over its role in sending billions of restricted Nvidia chips to China, and its executive's alleged affair with Jensen Huang.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html",
+    "published_at": "2026-11-12T03:02:03+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-12T03:17:43.389589+00:00",
+    "thin": false
+  },
+  {
+    "id": "85d131fc749e4323ba57ba64b1e10baf77c98676167f40f03ee90d186c022fbe",
+    "title": "Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be ousted",
+    "summary": "Jim Cramer said Wednesday night that he was saddened by a news report that indicated Nvidia's board of directors is preparing to fire Huang.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/11/jim-cramer-jensen-huang-nvidia-stock-advice.html",
+    "published_at": "2026-11-12T01:14:21+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-12T03:17:43.389745+00:00",
+    "thin": false
+  },
+  {
+    "id": "88bc5241fac004451eec3f003cf25ce1cc24b44659fdc936a7d23b0d28ad059a",
+    "title": "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks",
+    "summary": "The report comes days after Huang admitted to an affair with a woman who is believed by U.S. intelligence of being a Chinese spy.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+    "published_at": "2026-11-12T00:21:27+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-12T03:17:43.389398+00:00",
+    "thin": false
+  },
+  {
+    "id": "1cfd95470e565f27581a31a9b3115371ec95bf73ac16024c8bc8ca8c57125e3a",
+    "title": "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade deal by year end",
+    "summary": "While American voters are more affected by import duties on Canadian goods, experts said that a trade deal with India could blunt criticism against tariffs.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/12/us-india-trade-tariffs-trump-modi.html",
+    "published_at": "2026-11-11T23:57:38+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-12T03:17:43.390173+00:00",
+    "thin": false
+  },
+  {
+    "id": "9840897c377f3fdcc495168faf4455ce710f7786eba02b287a23c6f62e07bf38",
+    "title": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
+    "summary": "Scott Colom will be the first Democrat elected to the Senate from the state since 1982, and Mississippi's first Black senator since Reconstruction.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
+    "published_at": "2026-11-11T23:31:37+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-12T03:17:43.389911+00:00",
+    "thin": false
+  },
+  {
     "id": "c74b1407f802642de51cac7fd06485da17a7f2c32fe4945438073550f6b29b47",
     "title": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
     "summary": "American Airlines' first-class food options include sandwiches, fruit and chia bowls",
@@ -2351,66 +2411,6 @@
     "published_at": "2026-11-06T12:04:17+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-06T15:17:01.104967+00:00",
-    "thin": false
-  },
-  {
-    "id": "ef72c49ade53bb787dc8db8b5484169602edab907f32a50759392d4fad5f417f",
-    "title": "Small retailers brace for 'huge hit' this holiday season as shipping costs spike",
-    "summary": "As shipping costs surge due to high fuel prices, smaller and medium-sized retailers struggle to keep up, and they face a difficult holiday season.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/06/small-business-holiday-shipping-costs.html",
-    "published_at": "2026-11-06T12:00:01+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-06T15:17:01.104172+00:00",
-    "thin": false
-  },
-  {
-    "id": "d08d7a9de38a93de986fe628187746dc2152ebb80b5aba28ba5306d1009a1e4b",
-    "title": "Could CRISPR cure rare diseases before birth? Scientists are getting closer",
-    "summary": "Researchers are exploring fetal gene editing to treat rare genetic disorders before they cause lasting damage.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/06/could-crispr-cure-rare-diseases-before-birth.html",
-    "published_at": "2026-11-06T11:50:01+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-06T15:17:01.104639+00:00",
-    "thin": false
-  },
-  {
-    "id": "47a57312428466d1a3a320fcf5b76d7d255f621524df53631598a5c0208274e7",
-    "title": "AI debt concerns grow as ING reportedly seeks buyers for $500 million of data center loans",
-    "summary": "ING is reportedly seeking bids for about $500 million across 12 data center loans, including debt tied to a New Mexico Stargate site.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/06/ing-ai-data-center-loans-debt.html",
-    "published_at": "2026-11-06T11:24:52+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-06T15:17:01.103281+00:00",
-    "thin": false
-  },
-  {
-    "id": "fb4fdceb072a2ddbaea580dfa092657a7a5167bdc43077314eafa4bc537d30a1",
-    "title": "Drones are changing warfare. But defense giants are still making billions from old-school weapons",
-    "summary": "The world's biggest defense firms are finding that demand for traditional military equipment remains strong even as drones and AI reshape how wars are fought.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/06/defense-military-tech-earnings.html",
-    "published_at": "2026-11-06T10:39:51+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-06T15:17:01.105291+00:00",
-    "thin": false
-  },
-  {
-    "id": "8c123d03e5f6fd7ae715509ac4ff1966b9f32d0ddfcdb682af91b8d964bcda94",
-    "title": "Oil prices set for sharp weekly fall after midterm elections as investors weigh Iran conflict risk",
-    "summary": "Oil prices fell Friday as investors weighed the risk of renewed Iran war escalation after the midterms, alongside prospects for a diplomatic breakthrough.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
-    "published_at": "2026-11-06T10:00:54+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-06T15:17:01.105452+00:00",
     "thin": false
   }
 ]

@@ -1,5 +1,45 @@
 [
   {
+    "id": "06e7d7500f3f90c0ecb8407f187129693a7190cfac8e9e8cda4e02120578ae47",
+    "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
+    "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia",
+    "published_at": "2026-11-11T23:10:17+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
+    "collection_timestamp": "2026-11-12T03:17:43.382662+00:00",
+    "thin": false,
+    "author": "Demetri Sevastopulo, Financial Times",
+    "tags": [
+      "Tech",
+      "Jensen Huang",
+      "NVIDIA"
+    ]
+  },
+  {
+    "id": "da16741aa396158ba47abf98b64d1ea7bc62e33b2ceb9028067137d0f49beaad",
+    "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+    "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+    "published_at": "2026-11-11T17:44:36-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-12T03:17:43.382337+00:00",
+    "thin": false,
+    "author": "Lauren Feiner",
+    "tags": [
+      "AI",
+      "Business",
+      "News",
+      "Nvidia",
+      "Policy",
+      "Politics",
+      "Tech"
+    ]
+  },
+  {
     "id": "6951485adba2ce06162a812c7df5bd48fa906f73b0498f385d156a042aa9158c",
     "title": "Apple is shuttering its 28-year-old online community forum",
     "summary": "Apple has already made the forum read-only.",
@@ -2085,242 +2125,6 @@
       "iPhone",
       "Mobile",
       "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "dddfa8106a2f248788c69c88219733330148506e1958dc993e6a1ea26555e3bd",
-    "title": "AI is the new dating dealbreaker",
-    "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt where [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-    "published_at": "2026-11-06T12:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-06T20:59:31.684268+00:00",
-    "thin": false,
-    "author": "Helen Li",
-    "tags": [
-      "AI",
-      "Culture",
-      "Entertainment",
-      "Internet Culture"
-    ]
-  },
-  {
-    "id": "27cad51175894a7ba1d744f771d7ef0b0e18e5cc0974f134055a018162484720",
-    "title": "Meta’s refurbished Quest 3S headset is nearly $100 off right now",
-    "summary": "If you’re curious about virtual reality, Meta’s Quest 3S is a good entry-level headset for dipping your toes in, especially now it’s on sale in refurbished condition for $255.99 directly from Meta’s eBay storefront through November 8th when you use coupon code SAVE20TECH. For comparison, the headset recently dropped to $300 in new condition as [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1028372/meta-quest-3s-headset-philips-hue-gradient-lightstrip-deal-sale",
-    "published_at": "2026-11-06T11:39:15-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-06T20:59:31.684468+00:00",
-    "thin": false,
-    "author": "Sheena Vasani",
-    "tags": [
-      "Deals",
-      "Gadgets",
-      "Verge Shopping"
-    ]
-  },
-  {
-    "id": "b85f64ad77d74381db5515bf8c6baf56c49f9707004f1e6fd54fbc69bcf70e67",
-    "title": "Apple has a secret list of banned autocomplete phrases including ‘dictator Trump’ and ‘covid is a hoax’",
-    "summary": "A researcher found over 100,000 words and phrases in \"every major language\" that are blocked from autocomplete and swipe-type in iOS, Reuters reports. The researcher, Derik Kauffman, says you can still type the words on the blocklist one letter at a time. But they won't pop up as predictive text suggestions and iOS's keyboard may [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1028663/apple-ios-keyboard-blocked-words-autocomplete",
-    "published_at": "2026-11-06T10:10:28-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-06T15:17:01.091679+00:00",
-    "thin": false,
-    "author": "Stevie Bonifield",
-    "tags": [
-      "Apple",
-      "iOS",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "f3a843ccd609eb4ead34caed74c6c173a168a8c10424732b7197725ae1a2a05d",
-    "title": "Fox bought Roku",
-    "summary": "Fox has officially closed its $22 billion acquisition of Roku, the companies announced on Friday. With Roku under its umbrella, Fox now controls a major streaming platform that reaches more than 100 million households in the US. First announced in June, the deal will allow Fox to bring Fox Sports, news content, and local stations [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/streaming/1028629/fox-roku-acquisition-close",
-    "published_at": "2026-11-06T10:00:56-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-06T15:17:01.091901+00:00",
-    "thin": true,
-    "author": "Emma Roth",
-    "tags": [
-      "Business",
-      "Entertainment",
-      "News",
-      "Streaming"
-    ]
-  },
-  {
-    "id": "5053e2e87cc15ff59ded72c6ed64a420849bbe31eb997f54ef1c913b1f5de95d",
-    "title": "The Verge’s 2026 holiday gift guide",
-    "summary": "Gift-giving isn't just about grabbing something solid under a determined spending limit. It's an expression of love, a way to show someone how well you really know them. That doesn't mean you have to do it all on your own, though. Sometimes you just need a push in the right direction to get things rolling. [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026",
-    "published_at": "2026-11-06T10:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-06T15:17:01.092123+00:00",
-    "thin": false,
-    "author": "Ryan Waniata",
-    "tags": [
-      "Gadgets",
-      "Gift Guides",
-      "Verge Shopping"
-    ]
-  },
-  {
-    "id": "0f941d34bc5c05b982a702a51dd3cd354cea620af1198a256865bfd21ca7b072",
-    "title": "Stranger Things is getting a live-action spinoff called Other Worlds",
-    "summary": "Netflix isn't done with Hawkins, Indiana just yet. The streamer just announced a live-action spinoff of Stranger Things which is expected to debut in 2028. It's called Other Worlds: A Stranger Things Adventure. There aren't a lot of details, but the show will be going back in time quite a bit. According to Netflix, Other [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1028608/other-worlds-a-stranger-things-adventure-netflix-announce-trailer",
-    "published_at": "2026-11-06T09:25:48-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-06T15:17:01.092365+00:00",
-    "thin": false,
-    "author": "Andrew Webster",
-    "tags": [
-      "Entertainment",
-      "Netflix",
-      "News",
-      "Streaming",
-      "TV Shows"
-    ]
-  },
-  {
-    "id": "017d1b5617b24f0e968ea6c822bc250bffd4ee5a66d7afae91e33fd03990ac0d",
-    "title": "TikTok&#8217;s For You page needs to change, says the EU",
-    "summary": "The European Commission claims TikTok broke its online platform rules by offering a recommendation algorithm that creates a \"rabbit hole effect\" on users. In an announcement on Friday, the regulators allege TikTok's algorithm can harm users with \"endless and repeated exposure\" to content related to sadness, isolation, or body image. The findings come months after [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1028597/tiktok-eu-for-you-algorithm-rabbit-hole-effect",
-    "published_at": "2026-11-06T09:00:49-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-06T15:17:01.092599+00:00",
-    "thin": false,
-    "author": "Emma Roth",
-    "tags": [
-      "Creators",
-      "Policy",
-      "Social Media",
-      "Tech",
-      "TikTok"
-    ]
-  },
-  {
-    "id": "8f2145f605b5afa905f0794bc7d002c437da492cce1fc019dc7f0556eb675811",
-    "title": "Amazon will let you text Alexa your shopping list",
-    "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-    "published_at": "2026-11-06T09:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-06T15:17:01.092814+00:00",
-    "thin": false,
-    "author": "Jess Weatherbed",
-    "tags": [
-      "AI",
-      "Amazon",
-      "Amazon Alexa",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "fcda1d9da4a309f8317015882f92648bed5afbbbc740b01187d9152d59f6a117",
-    "title": "How Remedy designed Control Resonant’s wildest mission: ‘Anything kind of goes’",
-    "summary": "Note: Some spoilers for Control Resonant's \"Recursions and Iterations\" mission follow. One of Control Resonant's most memorable missions involves time travel - kind of. There are certainly multiple timelines intersecting, or maybe overlapping, or maybe running in parallel. As protagonist Dylan Faden, you meet some of the researchers who are trapped in and investigating these [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/1028159/control-resonant-recursions-and-iterations-mission-design-time-travel",
-    "published_at": "2026-11-06T08:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-06T15:17:01.093065+00:00",
-    "thin": false,
-    "author": "Kallie Plagge",
-    "tags": [
-      "Entertainment",
-      "Gaming",
-      "Interview",
-      "Report"
-    ]
-  },
-  {
-    "id": "7f02a57fe5eb977f1735b4359989b7cff4bc3d11cddeb07f6d3e4eba5cf32226",
-    "title": "I’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares",
-    "summary": "When I first read Allison and Nilay's Verge review of the iPhone Duo, I was immediately struck by one of their complaints: that the cover display is too small. That's not how the Samsung Galaxy Z Fold 8 feels, I thought. Had they got it wrong? After a week and a half using the Duo, [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
-    "published_at": "2026-11-06T07:30:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-06T15:17:01.093325+00:00",
-    "thin": false,
-    "author": "Dominic Preston",
-    "tags": [
-      "Android",
-      "Apple",
-      "Foldable Phones",
-      "Gadgets",
-      "Google",
-      "Google Pixel",
-      "iPhone",
-      "Mobile",
-      "Phones",
-      "Report",
-      "Samsung",
-      "Tech",
-      "Xiaomi"
-    ]
-  },
-  {
-    "id": "c274f802815ab057ce6c05742c1069c43e12ff055672ef7fc0b67b111ea67958",
-    "title": "After printing 40,000 whistles, this is the 3D printer I’d buy",
-    "summary": "I've been wanting to try 3D printing, people tell me. Which printer should I get? I finally have a fairly easy answer: the Bambu Lab P2S Combo. The auto-loading, fully enclosed touchscreen printer is one of the very few I can recommend. It's the only one I'd buy for myself. It's on sale for $649 [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1025984/best-3d-printer-bambu-p2s-review",
-    "published_at": "2026-11-06T07:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-06T15:17:01.093545+00:00",
-    "thin": false,
-    "author": "Sean Hollister",
-    "tags": [
-      "Gadgets",
-      "Reviews",
-      "Tech"
-    ]
-  },
-  {
-    "id": "dd61f94e09f1b5bc718bf6aa3e7b019134daafe65f0ebff5736dd195bd8aaa52",
-    "title": "The Enough Phone is made by and for people fed up with big screens",
-    "summary": "It's a bad time and maybe also a great time to make a new smartphone. Brennan Jordan and Austin Boer are two-thirds of the trio behind the Enough Phone, a small phone that will run your choice of stock Android or the minimalist OdysseyOS. They're currently seeking funding on Kickstarter, and just a day after [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1028160/enough-small-phone-kickstarter-sleke",
-    "published_at": "2026-11-06T07:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-06T15:17:01.093755+00:00",
-    "thin": false,
-    "author": "Allison Johnson",
-    "tags": [
-      "Gadgets",
-      "Mobile",
       "Tech"
     ]
   }
