@@ -1,5 +1,394 @@
 [
   {
+    "id": "051fc492eeb10e98b255d5264a13be3db455cbc0d110ec01c16a14b010935058",
+    "title": "Amazon MGM Studios India Comedy ‘VIBE’ Debuting On Prime Video",
+    "summary": "EXCLUSIVE: VIBE, Kunal Kemmu&#8217;s Amazon MGM Studios India&#8217;s movie, starts streaming on Prime Video today. The pic, which released theatrically in September, is high-stakes action-comedy focused on Hardik (Kemmu) and Bugs (Sparsh Shrivastava), two inseparable friends whose seemingly ordinary lives spiral into an unpredictable adventure when they are unexpectedly tasked with saving the nation from [&#8230;]",
+    "category": "technology",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/vibe-kunal-khemu-amazon-mgm-studios-prime-video-india-1237221969",
+    "published_at": "2026-11-12T18:57:12+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/VIBE-Exclusive-Global-Streaming-Premiere-4x5-1-e1794509663598.jpg",
+    "collection_timestamp": "2026-11-12T19:32:46.184632+00:00",
+    "thin": false,
+    "author": "Jesse Whittock",
+    "tags": [
+      "News",
+      "Amazon MGM Studios India",
+      "Prime Video",
+      "Vibe"
+    ]
+  },
+  {
+    "id": "c0d1c4737a10737c8d8f276d0e4186cd9a043b5b0be8bee8914ab84030ecd066",
+    "title": "Outlook Outage: Microsoft’s Email Service Goes Down Nationwide",
+    "summary": "Microsoft&#8217;s Outlook email service suffered a massive outage Thursday, affecting users across North America and potentially other regions. &#8220;We&#8217;re investigating reports of users experiencing issues accessing Exchange Online mailboxes through multiple connection methods in the Americas,&#8221; the company&#8217;s Microsoft 365 Status account on X posted at 12:54 p.m. ET. Both individual Outlook users and those [&#8230;]",
+    "category": "technology",
+    "source": "Variety",
+    "url": "https://variety.com/2026/digital/news/outlook-outage-microsoft-email-down-1236946411",
+    "published_at": "2026-11-12T18:39:34+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Microsoft-Outlook.png",
+    "collection_timestamp": "2026-11-12T19:32:46.183038+00:00",
+    "thin": false,
+    "author": "Todd Spangler",
+    "tags": [
+      "News",
+      "Microsoft"
+    ]
+  },
+  {
+    "id": "082ce66d9fe2e46eaff77d0b9e4b40b427e08f88d4788794ef4a71d43320679c",
+    "title": "Here's what Nvidia interim CEO Colette Kress and board chair Harvey Jones wrote to Nvidia employees",
+    "summary": "Interim CEO Colette Kress and board chair Harvey Jones emailed Nvidia employees, expressing gratitude for \"resilience, professionalism and continued dedication",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html",
+    "published_at": "2026-11-12T18:33:22+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-12T19:32:46.221319+00:00",
+    "thin": false
+  },
+  {
+    "id": "5ae53f784662914e2d7b63af0afe1c824899eba53549af766fadaa255b30bc50",
+    "title": "Jensen Huang's Nvidia exit casts shadow over Wall Street’s $500 billion AI financing bet",
+    "summary": "Nvidia's leadership crisis threatens to spill over into the AI financing boom.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html",
+    "published_at": "2026-11-12T17:41:46+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-12T19:32:46.221760+00:00",
+    "thin": false
+  },
+  {
+    "id": "b6cb6682f863eea2d50604caf0c8a2f55dc513b82331ce934fe8fa5a49bffb6a",
+    "title": "Jensen Huang's exit from Nvidia raises critical questions about the future of AI",
+    "summary": "Nvidia CEO Jensen Huang has been a singular figure in the development of the AI industry, which suddenly has to survive without him.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
+    "published_at": "2026-11-12T17:37:36+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-12T19:32:46.221651+00:00",
+    "thin": false
+  },
+  {
+    "id": "621d3b18a07648c1c88dc7c53e6ce72f04acf30c8afd608598c28b7ae58946dd",
+    "title": "Sitting on big gains in Nvidia? Jim Cramer's advice on what to do next",
+    "summary": "Cramer has been an Nvidia bull long before the generative AI boom.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/12/sitting-on-big-gains-in-nvidia-jim-cramers-advice-on-what-to-do-next.html",
+    "published_at": "2026-11-12T16:59:52+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-12T19:32:46.222758+00:00",
+    "thin": false
+  },
+  {
+    "id": "a8d503d4ea27c6b9f4adbcc09b6a020b0e8b21245962ebc401df099cb7b6d299",
+    "title": "Chicago schools tell Google they'd rather lose Search than be forced to accept AI",
+    "summary": "&#32; submitted by &#32; /u/Miserable_Phase_2519 &#32; to &#32; r/technology [link] &#32; [comments]",
+    "category": "technology",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/technology/comments/1xueam3/chicago_schools_tell_google_theyd_rather_lose",
+    "published_at": "2026-11-12T14:32:53+00:00",
+    "image_url": "https://external-preview.redd.it/JuczXkZeg2-M0qJurS2pjpA10Qrl4JkouYLvdVHBCtc.jpeg",
+    "collection_timestamp": "2026-11-12T19:32:46.228647+00:00",
+    "thin": false,
+    "author": "/u/Miserable_Phase_2519https://www.reddit.com/user/Miserable_Phase_2519",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "id": "7c1fc4fa853fe705bc9c319418ddc26c952fd297be59932e66cfead87a5191d2",
+    "title": "Microsoft Outlook is down",
+    "summary": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+    "published_at": "2026-11-12T14:07:21-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-12T19:32:46.191941+00:00",
+    "thin": false,
+    "author": "Richard Lawler",
+    "tags": [
+      "Apps",
+      "Microsoft",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "ce5e50b5cc4956187689cca6161888b0f92f1f215d7d4c7a0ce23ef1f6beb076",
+    "title": "Nvidia CEO Jensen Huang resigns after his affair raises national security concerns",
+    "summary": "&#32; submitted by &#32; /u/UncaringNonchalance &#32; to &#32; r/news [link] &#32; [comments]",
+    "category": "technology",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/news/comments/1xudmss/nvidia_ceo_jensen_huang_resigns_after_his_affair",
+    "published_at": "2026-11-12T14:06:05+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-12T19:32:46.231604+00:00",
+    "thin": false,
+    "author": "/u/UncaringNonchalancehttps://www.reddit.com/user/UncaringNonchalance",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": "ff7912306c0d6e6fa6a7765fdc034bb5653a22423dd3beb6b5689302aab5a5c9",
+    "title": "Nvidia CEO Jensen Huang has resigned",
+    "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia",
+    "published_at": "2026-11-12T14:05:17+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
+    "collection_timestamp": "2026-11-12T19:32:46.193688+00:00",
+    "thin": false,
+    "author": "Demetri Sevastopulo, Financial Times",
+    "tags": [
+      "Tech",
+      "Jensen Huang",
+      "NVIDIA"
+    ]
+  },
+  {
+    "id": "26cfbd8e4390e12ea3dc89af6b899299dc03d05a4a6b80767afd11ce6f99a406",
+    "title": "Hundreds of streaming services and nothing to watch",
+    "summary": "Most viewers wish there was a TV Guide for streaming.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/gadgets/2026/11/hundreds-of-streaming-services-and-nothing-to-watch",
+    "published_at": "2026-11-12T14:00:19+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2230766677-1024x648.jpg",
+    "collection_timestamp": "2026-11-12T19:32:46.193794+00:00",
+    "thin": false,
+    "author": "Scharon Harding",
+    "tags": [
+      "Tech",
+      "streaming"
+    ]
+  },
+  {
+    "id": "74ea2e25a6175891ab136bb74a2564e22e242f4feab15550d57e439ec5bcd03b",
+    "title": "Nvidia CEO Jensen Huang is stepping down as CEO",
+    "summary": "Nvidia CEO Jensen Huang is stepping down as CEO of the chipmaker he co-founded 33 years ago and built into a $4 trillion company that powered the artificial intelligence boom. After a meteoric rise to fame due to Nvidia’s central role in AI, Huang’s dramatic fall has been even more rapid, following a series of stinging revelations about his romantic ties to a woman believed by the U.S. intelligence community to be a Chinese spy. &#32; submitted by &#32; /u/TorukMaktoM &#32; to &#32; r/stocks [li",
+    "category": "technology",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/stocks/comments/1xuddr7/nvidia_ceo_jensen_huang_is_stepping_down_as_ceo",
+    "published_at": "2026-11-12T13:56:06+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-12T19:32:46.233351+00:00",
+    "thin": false,
+    "author": "/u/TorukMaktoMhttps://www.reddit.com/user/TorukMaktoM",
+    "tags": [
+      "stocks"
+    ]
+  },
+  {
+    "id": "abb9b3de20a75702f78609a589c91a3bbaf2737f61959e1f50e41f4f830993ef",
+    "title": "Oh, Palantir is ‘progressive’ now, is it?",
+    "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a \"vibe shift\" [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+    "published_at": "2026-11-12T13:06:54-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-12T19:32:46.192136+00:00",
+    "thin": false,
+    "author": "Elizabeth Lopatto",
+    "tags": [
+      "AI",
+      "Policy",
+      "Politics",
+      "Tech"
+    ]
+  },
+  {
+    "id": "94679d82efdf1c6d543328c105eb458a53256cc0cce019a97e0ca7e20ba595d8",
+    "title": "The Jensen Huang scandal is hardly over",
+    "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'&#233;tat c'est moi. Then [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+    "published_at": "2026-11-12T12:44:33-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-12T19:32:46.192310+00:00",
+    "thin": false,
+    "author": "Elizabeth Lopatto",
+    "tags": [
+      "AI",
+      "Analysis",
+      "Nvidia",
+      "Policy",
+      "Politics",
+      "Report",
+      "Tech"
+    ]
+  },
+  {
+    "id": "e82b2bb082fc63f08d290e7215e9438a737576c5dac149a8775cd86b13851b51",
+    "title": "Review: Apple's M6 iMac is pricey, but it's still a good choice for a clean desk",
+    "summary": "Apple's M6 keeps the iMac current without shaking things up much.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk",
+    "published_at": "2026-11-12T12:00:37+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9812-1152x648.jpeg",
+    "collection_timestamp": "2026-11-12T19:32:46.193918+00:00",
+    "thin": false,
+    "author": "Andrew Cunningham",
+    "tags": [
+      "Apple",
+      "Features",
+      "Tech",
+      "apple",
+      "apple m6",
+      "Apple silicon",
+      "iMac"
+    ]
+  },
+  {
+    "id": "6b593f4917f7342b5f84e47e1dbfff038c73a3985ec66c6d5e69c8bbdb846f56",
+    "title": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug",
+    "summary": "The Cybertruck is heading to that shiny cyber-dumpster in the sky, leaving the folks who built online identities around Elon Musk's polarizing pickup feeling bereft. Usually, Musk's fanbase treads lightly around their idol's mercurial decisions. This time, however, the truck's demise has sparked rare backlash within the Tesla community - aimed squarely at the guy [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash",
+    "published_at": "2026-11-12T12:00:17-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-12T19:32:46.192501+00:00",
+    "thin": false,
+    "author": "Andrew J. Hawkins",
+    "tags": [
+      "Electric Cars",
+      "Elon Musk",
+      "News",
+      "Tech",
+      "Tesla",
+      "Transportation"
+    ]
+  },
+  {
+    "id": "17551ee31a67b79a8fc425546588477d38fcf4c41a865db0bcaab122e364ea7c",
+    "title": "25 years later, Xbox is trying to reinvent itself again",
+    "summary": "Microsoft has spent the past 25 years trying to shake up the game console market. The original Xbox, which launched on November 15th in 2001, took on an industry dominated by Sony and Nintendo. Twenty-five years later, Xbox finds itself in a similar position. It's not starting from scratch this time around, but to reach [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad",
+    "published_at": "2026-11-12T12:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-12T19:32:46.192674+00:00",
+    "thin": false,
+    "author": "Tom Warren",
+    "tags": [
+      "Gaming",
+      "Microsoft",
+      "Notepad",
+      "Tech",
+      "Xbox"
+    ]
+  },
+  {
+    "id": "93e16ad74ae888e1d4d91bc7b6f1d98bd27a0022552ed78392b34923b5e55488",
+    "title": "AI chatbots are recommending fake retail websites, study finds",
+    "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+    "published_at": "2026-11-12T12:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-12T19:32:46.192848+00:00",
+    "thin": false,
+    "author": "Mia Sato",
+    "tags": [
+      "AI",
+      "Google",
+      "Online Shopping",
+      "OpenAI",
+      "Tech"
+    ]
+  },
+  {
+    "id": "9250e97ab5f253542a382c8382ab823d61dbe30bae257af84f87bf91403f6f58",
+    "title": "More game developers are starting to use generative AI",
+    "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025. Usage was higher with game developers that [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+    "published_at": "2026-11-12T12:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-12T19:32:46.193019+00:00",
+    "thin": false,
+    "author": "Jay Peters",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Gaming",
+      "News"
+    ]
+  },
+  {
+    "id": "c864c0ea3b4eb54a0dbf555161cf144cdbbec8dc119145bfc3a905a6a1ed1fa9",
+    "title": "Google Wallet can finally unlock doors with digital home keys",
+    "summary": "Google has added digital home key support to Google Wallet, allowing Android users to open smart locks by tapping their phone against them or simply approaching. The feature is currently available in public preview for the Google Home app, and will roll out to everyone \"over the coming weeks,\" according to Google's announcement. This was [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout",
+    "published_at": "2026-11-12T11:56:33-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-12T19:32:46.193200+00:00",
+    "thin": false,
+    "author": "Jess Weatherbed",
+    "tags": [
+      "Android",
+      "Google",
+      "Smart Home",
+      "Tech"
+    ]
+  },
+  {
+    "id": "0e1cc2e8d425b6c139cb38744c8eb8f27bc3fa5b06599c2e392ea563aab5a8bd",
+    "title": "Jensen Huang is out. What did China want from him?",
+    "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of Nvidia as news of his affairs, including with an alleged Chinese spy, threatened to engulf [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+    "published_at": "2026-11-12T11:30:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-12T19:32:46.193376+00:00",
+    "thin": false,
+    "author": "Nilay Patel",
+    "tags": [
+      "AI",
+      "Decoder",
+      "Nvidia",
+      "Podcasts",
+      "Policy",
+      "Politics",
+      "Tech"
+    ]
+  },
+  {
+    "id": "8dc8046af8d21bfd0337d35f1e7e8dade118fe79ecb1b6c4d1c2169846168407",
+    "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+    "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct report and an alleged Chinese spy. The new, and first, Chair of the Board, Harvey Jones, shared news of Huang's resignation [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+    "published_at": "2026-11-12T10:48:12-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-12T19:32:46.193558+00:00",
+    "thin": false,
+    "author": "Terrence O’Brien",
+    "tags": [
+      "AI",
+      "News",
+      "Nvidia",
+      "Tech"
+    ]
+  },
+  {
     "id": "429ab1cf984417e4e54774f95d0a3af9c854bf14c996afdf74f7240745a5a69e",
     "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
     "summary": "When (or if) Ring's security camera drone flies into our homes in January, you won't get the option to pilot it yourself. The Ring Drone Cam relies entirely on an \"AI Pilot\" system to follow pre-programmed routes and navigate autonomously around obstacles, with no manual control option available - and an embarrassing demonstration with CBS [&#8230;]",
@@ -1779,203 +2168,6 @@
       "undersea cable cuts",
       "undersea cables",
       "USA-Iran War"
-    ]
-  },
-  {
-    "id": "b2e8eec0d28fb46301f6db1c328441872126c29de3c1f22dedbc87d138443ea7",
-    "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
-    "summary": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas",
-    "published_at": "2026-11-06T20:05:30+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303158972-1152x648.jpg",
-    "collection_timestamp": "2026-11-06T20:59:31.684579+00:00",
-    "thin": false,
-    "author": "Nick Indge",
-    "tags": [
-      "Tech",
-      "Cargo theft",
-      "GPS spoofing",
-      "hijacking",
-      "NVIDIA"
-    ]
-  },
-  {
-    "id": "e705fb03773628b1efe230a210e20b222585c66c1bb2a59125c81ae0ab07cc94",
-    "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
-    "summary": "Developer: “I can’t be part of the Fox world.”",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition",
-    "published_at": "2026-11-06T19:50:18+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-134100-1152x648.jpg",
-    "collection_timestamp": "2026-11-06T20:59:31.684682+00:00",
-    "thin": false,
-    "author": "Scharon Harding",
-    "tags": [
-      "Tech",
-      "acquisitions",
-      "Fox",
-      "mergers",
-      "roku",
-      "streaming"
-    ]
-  },
-  {
-    "id": "64fb69172e1e452fc44cfc0cb55fb8a06d51770086fa862fdc1e1aca184dc18a",
-    "title": "Data center double-down: Hassett says blue wave won't stop AI build-out",
-    "summary": "Data centers are a crucial part of President Donald Trump's push to win the global artificial intelligence race, which he continues despite the midterm results.",
-    "category": "technology",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
-    "published_at": "2026-11-06T18:54:22+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-06T20:59:31.693168+00:00",
-    "thin": false
-  },
-  {
-    "id": "bb386888eee7971c514b49303f1f8b8fd574ef1cdbf1e04b60a316f9c1beaaf8",
-    "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-    "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-    "published_at": "2026-11-06T18:46:18-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-07T00:50:14.681078+00:00",
-    "thin": false,
-    "author": "Stevie Bonifield",
-    "tags": [
-      "AI",
-      "Business",
-      "News",
-      "OpenAI"
-    ]
-  },
-  {
-    "id": "ac4c8b0c13fe512b4e1c7b8b518bf75e327dc485313649b1138543d27b1d9f59",
-    "title": "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
-    "summary": "Microsoft is winding down the number of neoclouds it counts as partners, picking key suppliers and focusing on its own data centers.",
-    "category": "technology",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
-    "published_at": "2026-11-06T18:40:58+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-07T00:50:14.684949+00:00",
-    "thin": false
-  },
-  {
-    "id": "9e31959fd7269941f7c5f9c596722f482ea33bcd130d99f0ae6e2b793584c317",
-    "title": "AMD CEO enrages gamers by saying it's now a 'data center first' company — and predicts PC sales will plummet by a 'double-digit percentage' in 2027",
-    "summary": "&#32; submitted by &#32; /u/ReshadNoslen &#32; to &#32; r/gaming [link] &#32; [comments]",
-    "category": "technology",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/gaming/comments/1xpk1zk/amd_ceo_enrages_gamers_by_saying_its_now_a_data",
-    "published_at": "2026-11-06T18:20:37+00:00",
-    "image_url": "https://external-preview.redd.it/HMQRjSujts0Fc-9WAabhJazy_KJujjbjue6DcIn9Uy0.jpeg",
-    "collection_timestamp": "2026-11-07T00:50:14.692302+00:00",
-    "thin": false,
-    "author": "/u/ReshadNoslenhttps://www.reddit.com/user/ReshadNoslen",
-    "tags": [
-      "gaming"
-    ]
-  },
-  {
-    "id": "f7e4f7bb08e65f92e4f49db673b52d967b166788639b2b46813339aa2f3f41b2",
-    "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-    "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-    "published_at": "2026-11-06T18:00:44-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-07T00:50:14.681314+00:00",
-    "thin": false,
-    "author": "Jay Peters",
-    "tags": [
-      "AI",
-      "News",
-      "Nvidia",
-      "Tech"
-    ]
-  },
-  {
-    "id": "f6710cce09a070c0f4a064f0204a80d820b45709462ee0669b7b9916aaa3bbd3",
-    "title": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
-    "summary": "SpaceX has declared that it&#8217;s going to make Starlink Mobile a &#8220;major&#8221; mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival AT&#38;T, Verizon, and T-Mobile, SpaceX has inked a deal [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
-    "published_at": "2026-11-06T17:45:43-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-07T00:50:14.681555+00:00",
-    "thin": false,
-    "author": "Emma Roth",
-    "tags": [
-      "Elon Musk",
-      "Mobile",
-      "Science",
-      "Space",
-      "SpaceX",
-      "Tech"
-    ]
-  },
-  {
-    "id": "52a9c22c5ca40425121663b23204bb153f69de02b766de7fa3ba4450dedca34d",
-    "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
-    "summary": "Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated flick in 4K. But at just $24.99 from Barnes and Noble and Amazon instead of its original $49.95 [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
-    "published_at": "2026-11-06T16:50:32-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-07T00:50:14.681777+00:00",
-    "thin": false,
-    "author": "Cameron Faulkner",
-    "tags": [
-      "Deals",
-      "Entertainment",
-      "Gadgets",
-      "Verge Shopping"
-    ]
-  },
-  {
-    "id": "a58480a5716a4638c5f61408e730168dad69849b860a6e8b855d2c19f04095c5",
-    "title": "All the latest updates on AI data centers",
-    "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-    "published_at": "2026-11-06T15:02:22-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-06T20:59:31.683089+00:00",
-    "thin": false,
-    "author": "Verge Staff",
-    "tags": [
-      "AI",
-      "Energy",
-      "Environment",
-      "News",
-      "Science"
-    ]
-  },
-  {
-    "id": "71308c88a9e5d1a43fa3e1a03ec214284139ff6090a29b443b6060d6875b9b3d",
-    "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
-    "summary": "While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, including Amazon, Guitar Center, and directly from Shure. That’s almost $50 lower than its usual price, and just a few dollars [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale",
-    "published_at": "2026-11-06T14:47:02-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-06T20:59:31.683273+00:00",
-    "thin": false,
-    "author": "Brad Bourque",
-    "tags": [
-      "Deals",
-      "Gadgets",
-      "Verge Shopping"
     ]
   }
 ]
