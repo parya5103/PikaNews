@@ -1,5 +1,246 @@
 [
   {
+    "id": "9d3483dc08888fcf2ffccf2d265806c86c10ba7452341ac9341f8fd3515616c2",
+    "title": "Microsoft says email queues 'approaching normal levels' as Outlook issues persist",
+    "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+    "published_at": "2026-11-13T15:10:20+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T15:54:59.826897+00:00",
+    "thin": false
+  },
+  {
+    "id": "fb0bbed621941492fcf2cf1d3f02f2ead04f67ccc675601c2d530ffbca9ca6aa",
+    "title": "Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test",
+    "summary": "Like Apple, Nvidia now faces its own transition away from a founder-led company. But experts say Jensen Huang’s central role could make replacing him difficult.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html",
+    "published_at": "2026-11-13T15:03:10+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T15:54:59.827490+00:00",
+    "thin": false
+  },
+  {
+    "id": "6959bbc601aba067b395aab74a361990a425f792bb06b986ddde63e99bed4ccc",
+    "title": "Microsoft “Continuing To See Improvements” As Outlook Email, Other Services “Approaching Normal”",
+    "summary": "Microsoft says it is getting to the other side of a massive outage that took down Outlook email, Teams videoconferencing and other services Thursday. &#8220;We&#8217;re continuing to see improvements in service availability, with email queues significantly reduced and approaching normal levels,&#8221; the company posted Friday on an update page. &#8220;Some users may still experience intermittent [&#8230;]",
+    "category": "technology",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/microsoft-outlook-email-is-back-outage-recovery-1237222707",
+    "published_at": "2026-11-13T14:48:39+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Microsoft-office.jpg",
+    "collection_timestamp": "2026-11-13T15:54:59.783650+00:00",
+    "thin": false,
+    "author": "Dade Hayes",
+    "tags": [
+      "News",
+      "microsoft",
+      "microsoft 365",
+      "Microsoft outage",
+      "Microsoft Teams",
+      "outage",
+      "Outlook"
+    ]
+  },
+  {
+    "id": "9add6825a0d0e11de5d5914b33a9e17c52f5aba7beb273e326446d978bbc96a0",
+    "title": "Microsoft's massive M365 outage stretches past 15 hours as its fixes keep failing",
+    "summary": "&#32; submitted by &#32; /u/Logical_Welder3467 &#32; to &#32; r/technology [link] &#32; [comments]",
+    "category": "technology",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/technology/comments/1xv6c5l/microsofts_massive_m365_outage_stretches_past_15",
+    "published_at": "2026-11-13T12:15:06+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T15:54:59.836278+00:00",
+    "thin": false,
+    "author": "/u/Logical_Welder3467https://www.reddit.com/user/Logical_Welder3467",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "id": "1eea2c0090f0a11b64cda4461581ed3e0e7f62722e710768f37383fb6d54f340",
+    "title": "Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride",
+    "summary": "Specialized’s second-fastest bike may be the smart buy.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/gadgets/2026/11/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride",
+    "published_at": "2026-11-13T11:50:38+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/specialized_3170-1152x648.jpg",
+    "collection_timestamp": "2026-11-13T15:54:59.794374+00:00",
+    "thin": false,
+    "author": "Eric Bangeman",
+    "tags": [
+      "Tech",
+      "Aero bikes",
+      "bike review",
+      "Road bikes",
+      "Specialized",
+      "Specialized Tarmac SL9 S-Level"
+    ]
+  },
+  {
+    "id": "bd43b965d647f35f2e47074f3edb701ac6ff682fdb1e6130e45b0b8ce544f113",
+    "title": "Microsoft&#8217;s massive Outlook outage continues",
+    "summary": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state, some people (including Verge staffers) are reporting that access to their emails has been restored, though the flow of Outlook [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+    "published_at": "2026-11-13T10:29:21-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T15:54:59.792831+00:00",
+    "thin": false,
+    "author": "Jess Weatherbed",
+    "tags": [
+      "Microsoft",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "8f3e203e2bd2b6f5c1dd8b9c0240c8e62f349384c9d7f8cae062e36615dd1ccf",
+    "title": "Apple announces release dates for the first Apple Home Collection smart devices",
+    "summary": "The first few smart home devices and accessories that Apple co-developed with LG Electronics and Schneider Electric for its new Apple Home Collection are now available for preorder through the company's online store, with delivery expected in mid-December. Apple announced the collection a month ago as part of a stronger push into the smart home [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
+    "published_at": "2026-11-13T10:22:14-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T15:54:59.793085+00:00",
+    "thin": false,
+    "author": "Andrew Liszewski",
+    "tags": [
+      "Apple",
+      "Gadgets",
+      "News",
+      "Smart Home",
+      "Tech"
+    ]
+  },
+  {
+    "id": "cb4308872ed2b2617b803a829905a5ec3c3d45ac132dd952aa7a60526e869273",
+    "title": "What&#8217;s really at stake in the Jensen Huang saga",
+    "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+    "published_at": "2026-11-13T09:47:16-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T15:54:59.793298+00:00",
+    "thin": false,
+    "author": "David Pierce",
+    "tags": [
+      "AI",
+      "Nvidia",
+      "Podcasts",
+      "Policy",
+      "Tech",
+      "Vergecast"
+    ]
+  },
+  {
+    "id": "9b41d2f955c6633d05bfe79a63aa045162e0ae0d27d0a571c5f114fa0e8409cd",
+    "title": "They disappeared at the end of the 90s. Just like yearly raises",
+    "summary": "&#32; submitted by &#32; /u/Busy-Capital5604 &#32; to &#32; r/WeirdCareers [link] &#32; [comments]",
+    "category": "technology",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/WeirdCareers/comments/1xv3orh/they_disappeared_at_the_end_of_the_90s_just_like",
+    "published_at": "2026-11-13T09:43:29+00:00",
+    "image_url": "https://preview.redd.it/bthyhdr5pc1i1.png",
+    "collection_timestamp": "2026-11-13T15:54:59.839779+00:00",
+    "thin": false,
+    "author": "/u/Busy-Capital5604https://www.reddit.com/user/Busy-Capital5604",
+    "tags": [
+      "WeirdCareers"
+    ]
+  },
+  {
+    "id": "45688bec435823965757875e7e4633a4f3138bf8d5c3aba4a964cb1d775f347d",
+    "title": "Meta discussed attacking Jonathan Haidt — now even his haters are annoyed",
+    "summary": "Three years ago, Meta apparently considered a plan to turn public opinion against one of its most influential opponents, Jonathan Haidt. But since the proposal was revealed in court filings last month, it's backfired. In fact, if there's one thing Anxious Generation author Haidt and his critics can agree on, it's being mad at Meta. [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/1032645/jonathan-haidt-critics-response-meta",
+    "published_at": "2026-11-13T09:30:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T15:54:59.793531+00:00",
+    "thin": false,
+    "author": "Lauren Feiner",
+    "tags": [
+      "Meta",
+      "Policy",
+      "Report",
+      "Social Media",
+      "Tech"
+    ]
+  },
+  {
+    "id": "d56cb7d9ed833426155eeab75398e9cd2c9e155bc1a6ddabe37cb25f4f111b2d",
+    "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+    "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+    "published_at": "2026-11-13T09:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T15:54:59.793743+00:00",
+    "thin": false,
+    "author": "Allison Johnson",
+    "tags": [
+      "AI",
+      "Hands-on",
+      "Reviews",
+      "Tech"
+    ]
+  },
+  {
+    "id": "9a72b0f894879153a6fe2a4f26bfc273054134c4d7bf14ac0b7a234c1d75275d",
+    "title": "Apple should have made the MacBook logo RGB",
+    "summary": "When Apple CEO John Ternus announced the first touchscreen Mac last month, the biggest reaction in the room wasn't for the PROLED MacBook Pro's OLED touchscreen or the thinner and lighter chassis; it was for the illuminated lid logo. It's a throwback to the light-up logos on the old MacBooks, which Apple started phasing out [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors",
+    "published_at": "2026-11-13T08:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T15:54:59.793959+00:00",
+    "thin": false,
+    "author": "Antonio G. Di Benedetto",
+    "tags": [
+      "Analysis",
+      "Apple",
+      "Gadgets",
+      "Gaming",
+      "Laptops",
+      "macOS",
+      "PC Gaming",
+      "Report",
+      "Tech"
+    ]
+  },
+  {
+    "id": "07926327eeea238a2aa39095f5f64d35131ebda982f0d1195ad7914c3cb07548",
+    "title": "Let’s talk about Jensen Huang’s many affairs!",
+    "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+    "published_at": "2026-11-13T07:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T15:54:59.794172+00:00",
+    "thin": false,
+    "author": "Elizabeth Lopatto",
+    "tags": [
+      "AI",
+      "Nvidia",
+      "Policy",
+      "Politics",
+      "Tech"
+    ]
+  },
+  {
     "id": "4867f614fb89f8d96a4dbc2b742c564d65a84845d25d7d0454e364bc6b46ddf1",
     "title": "Microsoft Outlook Still Down In 365 Outage: Company Sees Sporadic Improvements, Though No Sustained Recovery",
     "summary": "UPDATED with latest company comments: Earlier this evening Microsoft posted an update on the outages to its 365 platform noting &#8220;positive results with our efforts to restart affected infrastructure and recover server availability.&#8221; The optimism was short lived. About an hour later, the company announced that their efforts were &#8220;not taking as expected.&#8221; The company [&#8230;]",
