@@ -1,5 +1,89 @@
 [
   {
+    "id": "3ec1e8ef535637fed1521ebedcdc0f59115cabfa57f92042d41b685a230d6150",
+    "title": "Trump’s Cabinet Is in Disarray Over Nvidia’s Honeypot Disaster",
+    "summary": "Commerce Secretary Howard Lutnick took it easy on disgraced CEO Jensen Huang. His colleagues aren't happy",
+    "category": "technology",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/politics/politics-news/scott-bessent-howard-lutnick-jensen-huang-honeypot-1235658029",
+    "published_at": "2026-11-13T20:55:55+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T21:48:04.661072+00:00",
+    "thin": false,
+    "author": "Jack Crosbie",
+    "tags": [
+      "Politics",
+      "Politics News",
+      "AI",
+      "controversy",
+      "Donald Trump",
+      "Economy",
+      "Howard Lutnick",
+      "Jensen Huang",
+      "NVIDIA",
+      "Scott Bessent"
+    ]
+  },
+  {
+    "id": "0d686629efe93d59a5ee613d1dd82da42b421511855a4eb569ed57d838b2dd04",
+    "title": "FAA ground stop shuts down flights nationwide",
+    "summary": "Takeoffs from airports throughout the US paused on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety.\" US Transportation Secretary Sean Duffy tweeted: The FAA issued a nationwide ground stop for all U.S. airports following a communication issue impacting all Air Route Traffic Control Centers. FAA [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+    "published_at": "2026-11-13T16:38:25-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T21:48:04.663366+00:00",
+    "thin": false,
+    "author": "Richard Lawler",
+    "tags": [
+      "Mass Transit",
+      "News",
+      "Transportation"
+    ]
+  },
+  {
+    "id": "8df035f3bee2e8e50491e55b32feeff6f232927cc69f51972ffa855eb71856cd",
+    "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+    "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+    "published_at": "2026-11-13T15:45:10-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T21:48:04.663560+00:00",
+    "thin": false,
+    "author": "Stevie Bonifield",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI",
+      "Tech"
+    ]
+  },
+  {
+    "id": "ec3d87814976b5ce7a42b9fb9da8dca4c2b4ad40f02ec13fbb5acf8d0010650a",
+    "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
+    "summary": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 discount and the lowest price we’ve seen on Nothing’s newfangled wireless speaker, [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
+    "published_at": "2026-11-13T15:30:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T21:48:04.663749+00:00",
+    "thin": false,
+    "author": "Brad Bourque",
+    "tags": [
+      "Black Friday",
+      "Cyber Monday",
+      "Deals",
+      "Gadgets",
+      "Speakers",
+      "Tech",
+      "Verge Shopping"
+    ]
+  },
+  {
     "id": "9d3483dc08888fcf2ffccf2d265806c86c10ba7452341ac9341f8fd3515616c2",
     "title": "Microsoft says email queues 'approaching normal levels' as Outlook issues persist",
     "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
@@ -46,6 +130,80 @@
     ]
   },
   {
+    "id": "effcef31a6c971199c1121077b1c10fe34aabd55c62dad68b3ae8ac592074c1b",
+    "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
+    "summary": "The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workaround to save you a few bucks on your digital copy. We found discounts on gift cards for both Sony PlayStation and Microsoft Xbox Series [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
+    "published_at": "2026-11-13T14:14:38-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T21:48:04.663925+00:00",
+    "thin": false,
+    "author": "Brad Bourque",
+    "tags": [
+      "Deals",
+      "Gadgets",
+      "Gaming",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "51bf448b15e9a3bb4e8b462552e5c19963ba06fd52fb0aa44deaad30c12a855e",
+    "title": "‘Broken and shattered’ Nvidia CEO Jensen Huang surrendered during resignation meeting, report claims — thousands of employees rally, calling for reinstatement on internal forum",
+    "summary": "&#32; submitted by &#32; /u/Mountain_Till_5868 &#32; to &#32; r/technology [link] &#32; [comments]",
+    "category": "technology",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/technology/comments/1xv8ixq/broken_and_shattered_nvidia_ceo_jensen_huang",
+    "published_at": "2026-11-13T13:56:22+00:00",
+    "image_url": "https://external-preview.redd.it/vsNLVdV7esgo9apmJNpn2lo5x8cijYAnuMkOAAJKFvM.png",
+    "collection_timestamp": "2026-11-13T21:48:04.716608+00:00",
+    "thin": false,
+    "author": "/u/Mountain_Till_5868https://www.reddit.com/user/Mountain_Till_5868",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "id": "ed679ef5eedd5488d4b999eb24d142a805682473bdf6d0a6393e895221398321",
+    "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
+    "summary": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like other trackball mice already available from companies like Logitech and Kensington with a 34mm ball positioned [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
+    "published_at": "2026-11-13T13:10:41-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T21:48:04.664098+00:00",
+    "thin": false,
+    "author": "Andrew Liszewski",
+    "tags": [
+      "Gadgets",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "fd3dc33dc898492ac547b452c842a885b390bd29e52a7b9ad1caf7b1d9e10e89",
+    "title": "Jensen Huang was reckless with the environment, too",
+    "summary": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power grids from inside massive data centers, and set the stage for a looming e-waste problem. Under Huang's [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
+    "published_at": "2026-11-13T12:44:22-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T21:48:04.664277+00:00",
+    "thin": false,
+    "author": "Justine Calma",
+    "tags": [
+      "Climate",
+      "Energy",
+      "Environment",
+      "Nvidia",
+      "Science",
+      "Tech"
+    ]
+  },
+  {
     "id": "9add6825a0d0e11de5d5914b33a9e17c52f5aba7beb273e326446d978bbc96a0",
     "title": "Microsoft's massive M365 outage stretches past 15 hours as its fixes keep failing",
     "summary": "&#32; submitted by &#32; /u/Logical_Welder3467 &#32; to &#32; r/technology [link] &#32; [comments]",
@@ -59,6 +217,45 @@
     "author": "/u/Logical_Welder3467https://www.reddit.com/user/Logical_Welder3467",
     "tags": [
       "technology"
+    ]
+  },
+  {
+    "id": "1c74c3411febeaf505d0c52d63ad080cf0e05d1e8afcce8d62d4f88565c279f1",
+    "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
+    "summary": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wasn't done shrinking its hardware. Camp Snap's new CS-8 Micro is even smaller than the [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
+    "published_at": "2026-11-13T12:12:56-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T21:48:04.664488+00:00",
+    "thin": false,
+    "author": "Andrew Liszewski",
+    "tags": [
+      "Cameras",
+      "Gadgets",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "1ecd64768c285e225a9992e87332ed51653b393300e7befc0d8279e781167880",
+    "title": "The new Apple TV has a YouTube problem",
+    "summary": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and an error message saying \"YouTube is not yet available on this device.\" In [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
+    "published_at": "2026-11-13T11:55:57-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T21:48:04.664643+00:00",
+    "thin": false,
+    "author": "Stevie Bonifield",
+    "tags": [
+      "Apple",
+      "News",
+      "Streaming",
+      "Tech",
+      "YouTube"
     ]
   },
   {
@@ -80,6 +277,42 @@
       "Road bikes",
       "Specialized",
       "Specialized Tarmac SL9 S-Level"
+    ]
+  },
+  {
+    "id": "520e16711dde1f514ff927f32a84c587fc8861d443b0c73e707012656f5297aa",
+    "title": "Microsoft&#8217;s massive Outlook outage might be over",
+    "summary": "Service is recovering for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state on Friday morning, some people (including Verge staffers) reported that access to their emails had been restored, though the flow of Outlook mail [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+    "published_at": "2026-11-13T11:17:11-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T21:48:04.664801+00:00",
+    "thin": false,
+    "author": "Jess Weatherbed",
+    "tags": [
+      "Microsoft",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "2aab0c5739a3cb09233140b8c4388a537e3dd02bc5d85b9a398f5f053ae18819",
+    "title": "The Verge’s 2026 gift guide for dads",
+    "summary": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we're here to guide you. We've curated this [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
+    "published_at": "2026-11-13T11:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T21:48:04.664951+00:00",
+    "thin": false,
+    "author": "Ryan Waniata",
+    "tags": [
+      "Gadgets",
+      "Gift Guides",
+      "Verge Shopping"
     ]
   },
   {
@@ -2243,122 +2476,6 @@
     "tags": [
       "AI",
       "News"
-    ]
-  },
-  {
-    "id": "fb4812d03b5cb52b61f7fd0fe606d45091e48a5e709f95107986d38b195cf3b4",
-    "title": "Apple is racing to make Siri more agentic",
-    "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-    "published_at": "2026-11-08T14:18:19-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.985178+00:00",
-    "thin": false,
-    "author": "Terrence O’Brien",
-    "tags": [
-      "AI",
-      "Apple",
-      "Apple Rumors",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "1eb74e9bf0e9bee6f2a6342102229b91ab1ecea8d4d975cd4c5e58302508a015",
-    "title": "Elvis and Eminem rights holders are suing Suno",
-    "summary": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-    "published_at": "2026-11-08T12:23:19-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.985364+00:00",
-    "thin": false,
-    "author": "Terrence O’Brien",
-    "tags": [
-      "AI",
-      "Entertainment",
-      "Music",
-      "News"
-    ]
-  },
-  {
-    "id": "1985536ad0e3d7e62687eaffe0e3661cb04094470ba6b832fcaeb7cd38442438",
-    "title": "A woman driving with her baby lost control of her car & drove into a river. While initially trapped, advice she learned from MythBusters helped save her & her child's lives. She recalled that to open the car door, she needed to wait for the water to fill the car & the pressure equalized. It worked.",
-    "summary": "&#32; submitted by &#32; /u/tyrion2024 &#32; to &#32; r/interesting [link] &#32; [comments]",
-    "category": "technology",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/interesting/comments/1xqw67g/a_woman_driving_with_her_baby_lost_control_of_her",
-    "published_at": "2026-11-08T11:18:22+00:00",
-    "image_url": "https://preview.redd.it/nniloy4dfd0i1.jpeg",
-    "collection_timestamp": "2026-11-08T15:47:08.540322+00:00",
-    "thin": false,
-    "author": "/u/tyrion2024https://www.reddit.com/user/tyrion2024",
-    "tags": [
-      "interesting"
-    ]
-  },
-  {
-    "id": "49008846688ffb2d3913f9c88680afa526e64874433431e019ebc1cec324af8e",
-    "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
-    "summary": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features Apple’s M5 processor, 16GB of RAM, and 512GB of storage — often sold for around $950 to $1,000 shortly after [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
-    "published_at": "2026-11-08T11:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.985561+00:00",
-    "thin": false,
-    "author": "Cameron Faulkner",
-    "tags": [
-      "Apple",
-      "Deals",
-      "Gadgets",
-      "Laptops",
-      "macOS",
-      "Tech",
-      "Verge Shopping"
-    ]
-  },
-  {
-    "id": "588852200f0321ae95a06716fd8ebfdc85cff2091159dd8304c846be68415cac",
-    "title": "Chatbots might be coming to Apple’s HomeView",
-    "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-    "published_at": "2026-11-08T10:00:30-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T15:47:08.532971+00:00",
-    "thin": false,
-    "author": "Terrence O’Brien",
-    "tags": [
-      "Apple",
-      "Apple Rumors",
-      "News",
-      "Smart Home",
-      "Tech"
-    ]
-  },
-  {
-    "id": "f7c90e9a5a1015cc2f0748b1f6de971243b8fe0863450ac06d5d433ecced5966",
-    "title": "There’s no slowing down media’s pivot-to-video 2.0",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Almost exactly a decade [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
-    "published_at": "2026-11-08T08:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T15:47:08.533161+00:00",
-    "thin": false,
-    "author": "Mia Sato",
-    "tags": [
-      "Column",
-      "Social Media",
-      "Tech",
-      "The Stepback"
     ]
   }
 ]
