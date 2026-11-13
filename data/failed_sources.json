@@ -1,6 +1,12 @@
 {
   "failed_sources": [
     {
+      "name": "Pinkvilla",
+      "url": "https://www.pinkvilla.com/feed",
+      "category": "bollywood",
+      "error": "Failed to fetch"
+    },
+    {
       "name": "Filmfare",
       "url": "https://www.filmfare.com/rss/news.xml",
       "category": "bollywood",
@@ -19,6 +25,6 @@
       "error": "Failed to fetch"
     }
   ],
-  "timestamp": "2026-11-13T00:53:50.392806+00:00",
-  "total_failed": 3
+  "timestamp": "2026-11-13T07:36:37.269980+00:00",
+  "total_failed": 4
 }

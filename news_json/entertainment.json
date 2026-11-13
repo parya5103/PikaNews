@@ -1,5 +1,399 @@
 [
   {
+    "id": "887a14c528f783a44c1c175cc3f83cdcd8f9d8a45cdbefa622368ed07cb6c871",
+    "title": "5 Things You Didn’t See on TV at the 2026 Latin Grammys",
+    "summary": "Here's everything that happened at the red carpet and media center.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/lists/latin-grammys-2026-things-you-didnt-see-tv",
+    "published_at": "2026-11-13T07:13:42+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.189819+00:00",
+    "thin": false,
+    "author": "Jessica Roiz",
+    "tags": [
+      "Latin",
+      "Music",
+      "genre latin",
+      "Latin Grammy"
+    ]
+  },
+  {
+    "id": "50e599bdce135e173c440dd9601363eefe8502e4414440d0f18169782b4e9784",
+    "title": "Dolly Parton Heals the Soul on Final Recording, ‘Torn,’ a Duet With Bono on U2’s New Album",
+    "summary": "The posthumous song appears on the band’s 16th album, Carnaval de Luz , out now",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/dolly-parton-final-recording-u2-torn-song-1235657413",
+    "published_at": "2026-11-13T07:00:29+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.191143+00:00",
+    "thin": false,
+    "author": "Charisma Madarang",
+    "tags": [
+      "Music",
+      "Music News",
+      "Dolly Parton"
+    ]
+  },
+  {
+    "id": "8c69fbe390c9f97b00ba5dd41723bacec6612d6077efc30b9dd43123a24f63c4",
+    "title": "‘The Hunger Games’ Soundtrack, ATEEZ, U2 Feat. Dolly Parton & More: New Music Friday Guide",
+    "summary": "Check out the must-hear releases of the week.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/music-news/ateez-u2-dolly-parton-new-music-friday-guide-1236379613",
+    "published_at": "2026-11-13T06:14:37+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.189940+00:00",
+    "thin": false,
+    "author": "Lyndsey Havens",
+    "tags": [
+      "Music",
+      "Music News",
+      "friday music guide",
+      "genre country",
+      "genre pop",
+      "genre rb",
+      "genre rock"
+    ]
+  },
+  {
+    "id": "f1efda537bf0a5d916cd947a4c45d23873c86edbcb0e732d903b07c54f9916f2",
+    "title": "Daddy Yankee Surprised by Janet Jackson Upon Receiving his POTY Award: ‘Your Music Has Inspired an Entire Generation’",
+    "summary": "The reggaeton icon received the recognition from the American legend at Thursday’s ceremony in Las Vegas.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/awards/daddy-yankee-janet-jackson-latin-grammys-2026-poty-1236381424",
+    "published_at": "2026-11-13T06:11:09+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.190081+00:00",
+    "thin": false,
+    "author": "Sigal Ratner-Arias",
+    "tags": [
+      "Awards",
+      "Music",
+      "genre latin",
+      "Latin Grammys"
+    ]
+  },
+  {
+    "id": "5b6be883d0bda63e0c48fe1e16236047432a3ae77ad80afedb2be1ca6ab4583a",
+    "title": "All the 2026 Latin Grammys Performances, Ranked",
+    "summary": "Which artists stood out at this year's ceremony?",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/lists/all-2026-latin-grammys-performances-ranked",
+    "published_at": "2026-11-13T06:08:16+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.190181+00:00",
+    "thin": false,
+    "author": "Isabela Raygoza",
+    "tags": [
+      "Latin",
+      "Music",
+      "genre latin",
+      "Latin GRAMMY Awards"
+    ]
+  },
+  {
+    "id": "e0de277529e518fbe1ab736834bd1c2412e3026be3e0a9169a0200292ee9bf22",
+    "title": "‘The Consummate Gentleman of Rock ‘n’ Roll’: Nile Rodgers Pays Tribute to Duran Duran’s Retiring Drummer Roger Taylor",
+    "summary": "\"I love you, and you’re wonderful. The consummate gentleman of rock ‘n’ roll,\" Nile Rodgers says of Duran Duran's Roger Taylor.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/rock/nile-rodgers-tribute-duran-duran-retiring-roger-taylor-1236381417",
+    "published_at": "2026-11-13T05:58:25+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.190325+00:00",
+    "thin": false,
+    "author": "Lars Brandle",
+    "tags": [
+      "Music",
+      "Rock",
+      "bbnews"
+    ]
+  },
+  {
+    "id": "79ce4d4e45a3e39e4db82943a808d1cf95a9f614ab4e294b2718e6abdb0db432",
+    "title": "Dolly Parton Sings ‘Her Heart Out’ on Posthumous U2 Collaboration ‘Torn’: Stream It Now",
+    "summary": "Co-written by U2, Parton and Snow Patrol‘s Johnny McDaid, \"Torn\" is the country great’s last recorded vocal performance.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/music-news/dolly-parton-posthumous-u2-collaboration-torn-stream-it-now-1236381318",
+    "published_at": "2026-11-13T05:00:54+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.190471+00:00",
+    "thin": false,
+    "author": "Lars Brandle",
+    "tags": [
+      "Music",
+      "Music News",
+      "bbnews",
+      "genre country",
+      "genre rock"
+    ]
+  },
+  {
+    "id": "e64281fba355a423209d9f91b2968ad6e570d032d28ce968047131533015e902",
+    "title": "Rosalía and Milo J Sweep the 2026 Latin Grammys: Full List of Winners",
+    "summary": "CA7RIEL &#38; Paco Amoroso, Jorge Drexler, Karol G and Grupo Frontera also won multiple awards on Thursday's (Nov. 12) ceremony.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/lists/latin-grammys-2026-list-of-winners",
+    "published_at": "2026-11-13T04:59:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.190597+00:00",
+    "thin": false,
+    "author": "Sigal Ratner-Arias",
+    "tags": [
+      "Awards",
+      "Music",
+      "genre latin",
+      "Latin Grammys",
+      "Winners"
+    ]
+  },
+  {
+    "id": "57fa752bef1aea6cbef9695a8c73e8d5de446ff6a96a98da5e6283808896ca30",
+    "title": "Feid Previews New Song With Snoop Dogg at Latin Grammys",
+    "summary": "The Colombian reggaeton star performed alongside Divino, Lil Supa, Baby Ranks, and DJ Premier",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-latin/feid-latin-grammys-snoop-dogg-song-1235655738",
+    "published_at": "2026-11-13T04:53:31+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.191262+00:00",
+    "thin": false,
+    "author": "Julyssa Lopez",
+    "tags": [
+      "Latin Music",
+      "Music",
+      "Feid",
+      "Latin Grammys",
+      "Latin Grammys 2026"
+    ]
+  },
+  {
+    "id": "f8d43c5f20e997c707808cc61b2006d9b3e427bc9a6756f22479e1f05e714426",
+    "title": "Sienna Spiro Cancels Appearance at 2026 ARIA Awards: ‘I Have to Listen to My Body’",
+    "summary": "Melbourne-based hyperpop trio Blusher will take Spiro's spot in the line-up for the the 40th annual ARIAs.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/awards/sienna-spiro-cancels-2026-aria-awards-1236381349",
+    "published_at": "2026-11-13T04:22:38+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.190721+00:00",
+    "thin": false,
+    "author": "Lars Brandle",
+    "tags": [
+      "Awards",
+      "Music",
+      "aria awards",
+      "ARIAS",
+      "bbnews"
+    ]
+  },
+  {
+    "id": "774e040f54708e2b8b78d03a3f14daf1f46defa527fbfddd36a0e7efdc0e8e65",
+    "title": "Rosalia Makes History With Third Album of the Year Win at the Latin Grammys",
+    "summary": "The Spanish singer took home the night's biggest award for her masterful LP Lux",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-latin/rosalia-wins-album-of-the-year-latin-grammys-1235655872",
+    "published_at": "2026-11-13T04:18:34+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.191380+00:00",
+    "thin": false,
+    "author": "Maya Georgi",
+    "tags": [
+      "Latin Music",
+      "Music",
+      "Latin Grammys",
+      "Latin Grammys 2026",
+      "Rosalia"
+    ]
+  },
+  {
+    "id": "e1a0ef2219529d5f8733b61bbc54cee4b7213c6e67c47302c90e38cefffabede",
+    "title": "Latin Grammys Celebrate 100 Years of José Alfredo Jiménez With Edgar Barrera, The Warning, More",
+    "summary": "Barrera was the musical producer for star-studded tribute featuring The Warning, Reik, Sofia Reyes, Yami Safdie, and Camila Fernández",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-latin/latin-grammys-jose-alfredo-jimenez-edgar-barrera-tribute-1235655750",
+    "published_at": "2026-11-13T03:49:56+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.191516+00:00",
+    "thin": false,
+    "author": "Julyssa Lopez",
+    "tags": [
+      "Latin Music",
+      "Music",
+      "Edgar Barrera",
+      "Latin Grammys",
+      "Latin Grammys 2026"
+    ]
+  },
+  {
+    "id": "1079ab2dd92164b58cd5cad3e6c3e1f86283b405f53a8c5b0491a62f62b23ec1",
+    "title": "Aria Vega Wins Best New Artist at the 2026 Latin Grammys: ‘Dreams Know No Fear’",
+    "summary": "At the media center backstage, the Colombian artist broke down crying in total awe of her first Latin Grammy win.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/latin/aria-vega-best-new-artist-2026-latin-grammys-speech-1236381295",
+    "published_at": "2026-11-13T03:22:18+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.190863+00:00",
+    "thin": false,
+    "author": "Jessica Roiz",
+    "tags": [
+      "Latin",
+      "Music",
+      "genre latin",
+      "Latin Grammys"
+    ]
+  },
+  {
+    "id": "131f072cc74a559dc7653a90633190ede6a99356f0df9643b316a155b885aaac",
+    "title": "Latin Grammys 2026 Winners: The Complete List",
+    "summary": "Rosalía took home several awards, including Album of the Year, Karol G had a big moment, and Milo J scored multiple wins",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-latin/latin-grammys-2026-winners-complete-list-1235655791",
+    "published_at": "2026-11-13T02:50:03+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.191636+00:00",
+    "thin": false,
+    "author": "Maya Georgi",
+    "tags": [
+      "Latin Music",
+      "Music",
+      "Edgar Barrera",
+      "Karol G",
+      "Latin Grammys",
+      "Latin Grammys 2026",
+      "Rosalia"
+    ]
+  },
+  {
+    "id": "c1a0ccc647e511a210e4dc792d81936637d769cdc5a82b0bea42a1f0f3b7d64c",
+    "title": "On Winning First Latin Grammy, Camila Fernández Thanks Expectant Baby for ‘Strength to be Here’",
+    "summary": "Moved to tears, the heiress to the Fernández dynasty received the award for best ranchera/mariachi music album.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/latin/camila-fernandez-latin-grammys-tears-baby-1236381244",
+    "published_at": "2026-11-13T02:41:48+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.191005+00:00",
+    "thin": false,
+    "author": "Sigal Ratner-Arias",
+    "tags": [
+      "Latin",
+      "Music",
+      "Awards",
+      "genre latin",
+      "Latin Grammys"
+    ]
+  },
+  {
+    "id": "64367b48f30ed0b590dd8895bb7f72adf080e96b7406b792007dd81fcc09213b",
+    "title": "Daddy Yankee’s Latin Grammys Medley Was a Supershow — And Possibly a Coachella Preview",
+    "summary": "The Latin music icon was joined by L Cool J, French Montana, Diljit Dosanjh, Feid, Bizarrap, Bad Gyal and more",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-latin/daddy-yankee-latin-grammys-coachella-preview-ll-cool-j-1235655734",
+    "published_at": "2026-11-13T02:38:36+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.191762+00:00",
+    "thin": false,
+    "author": "Julyssa Lopez",
+    "tags": [
+      "Latin Music",
+      "Music",
+      "Daddy Yankee",
+      "Latin Grammys",
+      "Latin Grammys 2026"
+    ]
+  },
+  {
+    "id": "3859f81a1ae12802da41734ccfda29a3bc0369a06b9c6a63b5e6db059b6e5ccc",
+    "title": "Karol G Embraces Mariachi Soul for Passionate Latin Grammys Performance",
+    "summary": "The Colombian superstar sang\"Ese Hombre Es Malo,\" which is up for Best Regional Song this year",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-latin/karol-g-latin-grammys-2026-performance-1235655783",
+    "published_at": "2026-11-13T02:20:17+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.191888+00:00",
+    "thin": false,
+    "author": "Maya Georgi",
+    "tags": [
+      "Latin Music",
+      "Music",
+      "Karol G",
+      "Latin Grammys",
+      "Latin Grammys 2026"
+    ]
+  },
+  {
+    "id": "02a98e28d3020a0042c474245d77161552b92acc3c67038055161b0191bfc6ce",
+    "title": "Anitta Shows Off Brazilian Roots and Powerhouse Moves at Latin Grammys",
+    "summary": "The Brazilian pop star is up for Album of the Year at this year's ceremony",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-latin/anitta-latin-grmamy-performance-1235655736",
+    "published_at": "2026-11-13T01:59:44+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.191998+00:00",
+    "thin": false,
+    "author": "Julyssa Lopez",
+    "tags": [
+      "Latin Music",
+      "Music",
+      "Anitta",
+      "Latin Grammys",
+      "Latin Grammys 2026"
+    ]
+  },
+  {
+    "id": "344676c43f2306f4f7a1eab12a420813ff5c9d171fd1f18845d00ed3b460159a",
+    "title": "Sting Is Officially a Latin Grammy Winner",
+    "summary": "The rocker won Best Pop/Rock Song for his work on Ca7riel &#38; Paco Amoroso's latest album",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/sting-first-latin-grammy-win-1235657253",
+    "published_at": "2026-11-13T01:45:50+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.192107+00:00",
+    "thin": false,
+    "author": "Maya Georgi",
+    "tags": [
+      "Music",
+      "Music News",
+      "CA7RIEL & Paco Amoroso",
+      "Sting"
+    ]
+  },
+  {
+    "id": "3a2f6490f2564c3162a76b2e574983712d2b33b31e922014fa5da728c40a7946",
+    "title": "Pink Floyd’s Roger Waters Files for Divorce From Fourth Wife Kamilah Chavis After 5 Years of Marriage",
+    "summary": "The case is listed as \"contested,\" meaning one or more terms of the divorce remains unresolved",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/pink-floyd-roger-waters-files-for-divorce-kamilah-chavis-1235657256",
+    "published_at": "2026-11-13T01:38:13+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.192234+00:00",
+    "thin": false,
+    "author": "Charisma Madarang",
+    "tags": [
+      "Music",
+      "Music News",
+      "Pink Floyd",
+      "Roger Waters"
+    ]
+  },
+  {
     "id": "42617279701a6b491be8fc94277960002a223ade2dfe0563aa1ee5c49c20ce0b",
     "title": "Days After Winning Congressional Race, Bobby Pulido Lands Third Latin Grammy",
     "summary": "The singer was awarded Best Tejano Album for 'Bobby Pulido &#38; Friends: Una Tuya y Una Mía (Vol. 2/En Vivo)'",
@@ -5134,88 +5528,6 @@
       "Adam Hamilton",
       "Donald Trump",
       "James Talarico"
-    ]
-  },
-  {
-    "id": "f0329053f541593bc0213ba8cadbd089b53a6a2a0fc444dd77dcc11fbf01c964",
-    "title": "Houndmouth’s Matt Myers No Longer Has to Be Sad to Write Great Songs",
-    "summary": "The leader of the Americana blues-rock band taps into a new feeling — reciprocated love — for the album Lordy : \"It’s not that you have to be sad to create, but I’m happy at home\"",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-features/houndmouth-matt-myers-interview-lordy-1235653878",
-    "published_at": "2026-11-07T14:30:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-07T18:28:26.681806+00:00",
-    "thin": false,
-    "author": "Joseph Hudak",
-    "tags": [
-      "Music",
-      "Music Features",
-      "Americana",
-      "Houndmouth"
-    ]
-  },
-  {
-    "id": "b6b20d9e785bf8172d823ee9938a8b6dac98b5113283d0316b14749777227ea4",
-    "title": "Robert Pattinson, Nicholas Hoult Screen-Tested for James Bond Role: Reports",
-    "summary": "Harry Styles also \"had discussions\" about playing 007 as audition process expands beyond the three actors considered the favorites to take over for Daniel Craig",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/robert-pattinson-nicholas-hoult-screen-test-james-bond-role-1235654335",
-    "published_at": "2026-11-07T14:11:09+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-07T18:28:26.682004+00:00",
-    "thin": false,
-    "author": "Daniel Kreps",
-    "tags": [
-      "TV & Movies",
-      "TV & Movies News",
-      "James Bond",
-      "Nicholas Hoult",
-      "Robert Pattinson"
-    ]
-  },
-  {
-    "id": "d00e6ace186e528638d9df7b2259cc73ff2c356b37f83137630dc0b830deadd9",
-    "title": "WWE Crown Jewel 2026: Here’s How to Watch the Premium Live Event Online for Free",
-    "summary": "Don't miss men's and women's matches for WWE Crown Jewel Championships during the wrestling event.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/culture/product-recommendations/wwe-crown-jewel-2026-how-to-watch-live-online-free-1236372909",
-    "published_at": "2026-11-07T14:00:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-07T18:28:26.680374+00:00",
-    "thin": false,
-    "author": "Rudie Obias",
-    "tags": [
-      "Culture",
-      "Product Recommendations",
-      "espn",
-      "how to watch",
-      "NOADS",
-      "streaming",
-      "wwe"
-    ]
-  },
-  {
-    "id": "467656dca26228842a4f739374b69bf5f153bb1c32e043b2460112740493ac14",
-    "title": "Can Labubu Lightning Strike Twice? POP MART Hopes So With Release of ‘KPop Demon Hunters’ Bag Charms",
-    "summary": "The official collab reimagines members of Peach Riot -- POP MART's fictional, female punk band -- as characters from the hit film",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/product-recommendations/lifestyle/pop-mart-kpop-demon-hunters-blind-box-charms-labubu-toys-1235654181",
-    "published_at": "2026-11-07T10:26:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-07T13:44:39.651433+00:00",
-    "thin": false,
-    "author": "Tim Chan",
-    "tags": [
-      "Lifestyle",
-      "RS Recommends",
-      "collectibles",
-      "KPop Demon Hunters",
-      "noads",
-      "toys"
     ]
   }
 ]

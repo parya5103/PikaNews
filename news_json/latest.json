@@ -1,5 +1,1111 @@
 [
   {
+    "id": "30cf033c897a01c8ed8684bf9b70abee92e6062da6f7f19fbbf29e1ab22613cb",
+    "title": "How Riley went from KSI's trainer to world-title dream",
+    "summary": "Viddal Riley - who defends his European cruiserweight title on Saturday - talks through his journey from training YouTuber KSI to nearing a world-title shot.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/boxing/articles/c623jlg88yymo",
+    "published_at": "2026-11-13T07:30:58+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/099d/live/4d635300-ddda-11f1-b865-d17d8611efca.jpg",
+    "collection_timestamp": "2026-11-13T07:36:37.212615+00:00",
+    "thin": false
+  },
+  {
+    "id": "c320fb7ce2a2034965fdff5e15fe5ffd8364c83558e304d54d2d312af969af17",
+    "title": "How big a problem is central defence for Pocognoli?",
+    "summary": "Amy Canavan assesses Scotland's central defensive dilemmas before Friday evening's must-win match against North Macedonia.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckwy9jyd2wq5o",
+    "published_at": "2026-11-13T07:23:18+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1721/live/73ca9230-ded2-11f1-a701-fddedf244c16.jpg",
+    "collection_timestamp": "2026-11-13T07:36:37.213667+00:00",
+    "thin": false
+  },
+  {
+    "id": "08d549b0b426146489feea6ee75893c0f83dadfc9a3399d5f7dcca9517aa3eb4",
+    "title": "26 Years Later, Charles Schulz' Final Comic Strip Is Still an All-Time Peanuts Classic",
+    "summary": "26 Years Later, Charles Schulz' Final Comic Strip Is Still an All-Time Peanuts Classic",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/peanuts-final-comic-strip-charlie-brown",
+    "published_at": "2026-11-13T07:23:17+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/charlie-brown-011-1024.jpg",
+    "collection_timestamp": "2026-11-13T07:36:37.211053+00:00",
+    "thin": false,
+    "author": "Brian VanHooker",
+    "tags": [
+      "Analysis",
+      "comic strip"
+    ]
+  },
+  {
+    "id": "da78f79411a86d47d97078e526975fb60f8307ee23d243fe270814985dfd2fb3",
+    "title": "Russell Brand Accused Of Sexual Misconduct By Six More Women After Rape Conviction",
+    "summary": "Russell Brand has been accused of sexual misconduct and predatory behavior by six new women after being jailed for rape and sexual assault. The Times of London reported on the fresh allegations after first exposing Brand&#8217;s behavior in a 2023 investigation that inspired women to report their experiences to the police. The Times&#8216; reporting was [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/russell-brand-accused-sexual-misconduct-six-more-women-1237222571",
+    "published_at": "2026-11-13T07:21:31+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2302359779-e1793702400683.jpg",
+    "collection_timestamp": "2026-11-13T07:36:37.187530+00:00",
+    "thin": false,
+    "author": "Jake Kanter",
+    "tags": [
+      "News",
+      "Russell Brand"
+    ]
+  },
+  {
+    "id": "a4b051058e036c9f99b37a003612a4f1d4edf11c60512cd3de169cc511da2db2",
+    "title": "Why Singapore keeps turning up in the fight over Nvidia chips and China",
+    "summary": "Singapore said it had barred Alice Huang from re-entering the country and that U.S. authorities had provided limited help with its yearlong investigations.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html",
+    "published_at": "2026-11-13T07:15:01+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.211911+00:00",
+    "thin": false
+  },
+  {
+    "id": "887a14c528f783a44c1c175cc3f83cdcd8f9d8a45cdbefa622368ed07cb6c871",
+    "title": "5 Things You Didn’t See on TV at the 2026 Latin Grammys",
+    "summary": "Here's everything that happened at the red carpet and media center.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/lists/latin-grammys-2026-things-you-didnt-see-tv",
+    "published_at": "2026-11-13T07:13:42+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.189819+00:00",
+    "thin": false,
+    "author": "Jessica Roiz",
+    "tags": [
+      "Latin",
+      "Music",
+      "genre latin",
+      "Latin Grammy"
+    ]
+  },
+  {
+    "id": "d6bdb7945903522989c738153adc5943c0656d73592f31305cf11d5a66a46b90",
+    "title": "Shilpa Shetty to Host Relationship Reality Show ‘Pyaar Ka Pressure Cooker’ for India’s JioHotstar and Colors",
+    "summary": "Bollywood star Shilpa Shetty will host &#8220;Pyaar Ka Pressure Cooker,&#8221; a reality series that pushes couples in stalled or undefined relationships to decide their future, for streamer JioHotstar and Hindi-language channel Colors. The show is being billed by the two JioStar-owned outlets as India&#8217;s first &#8220;relationship clarity show.&#8221; Participants will range from couples in early, [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/tv/news/shilpa-shetty-host-reality-show-pyaar-ka-pressure-cooker-1236946816",
+    "published_at": "2026-11-13T07:01:16+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Shilpa-Shetty-Pyar-Ka-Pressure-Cooker.jpg",
+    "collection_timestamp": "2026-11-13T07:36:37.186049+00:00",
+    "thin": false,
+    "author": "Naman Ramachandran",
+    "tags": [
+      "Asia",
+      "Global",
+      "News",
+      "JioHotstar",
+      "JioStar",
+      "Shilpa Shetty"
+    ]
+  },
+  {
+    "id": "50e599bdce135e173c440dd9601363eefe8502e4414440d0f18169782b4e9784",
+    "title": "Dolly Parton Heals the Soul on Final Recording, ‘Torn,’ a Duet With Bono on U2’s New Album",
+    "summary": "The posthumous song appears on the band’s 16th album, Carnaval de Luz , out now",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/dolly-parton-final-recording-u2-torn-song-1235657413",
+    "published_at": "2026-11-13T07:00:29+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.191143+00:00",
+    "thin": false,
+    "author": "Charisma Madarang",
+    "tags": [
+      "Music",
+      "Music News",
+      "Dolly Parton"
+    ]
+  },
+  {
+    "id": "ed1819b981ee0295e6e415a93f7cf83046ee0631c1d45b3713404a373779acb2",
+    "title": "Liverpool and Van Dijk have a decision to make",
+    "summary": "Virgil van Dijk says he is in no panic about his contract situation at Liverpool - BBC Sport takes a look at what could happen with his future.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ck4gnd2pgd06o",
+    "published_at": "2026-11-13T06:57:25+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87f4/live/e4ed5c50-ddeb-11f1-9204-cdcddf7d901c.jpg",
+    "collection_timestamp": "2026-11-13T07:36:37.212494+00:00",
+    "thin": false
+  },
+  {
+    "id": "621551d9044c80d25755b87f87249e0b001401f486c9be484844ac2aabf9b97c",
+    "title": "Who am I? Plus today's other quizzes",
+    "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6x298z10lg1o",
+    "published_at": "2026-11-13T06:42:18+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+    "collection_timestamp": "2026-11-13T07:36:37.212864+00:00",
+    "thin": false
+  },
+  {
+    "id": "8c69fbe390c9f97b00ba5dd41723bacec6612d6077efc30b9dd43123a24f63c4",
+    "title": "‘The Hunger Games’ Soundtrack, ATEEZ, U2 Feat. Dolly Parton & More: New Music Friday Guide",
+    "summary": "Check out the must-hear releases of the week.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/music-news/ateez-u2-dolly-parton-new-music-friday-guide-1236379613",
+    "published_at": "2026-11-13T06:14:37+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.189940+00:00",
+    "thin": false,
+    "author": "Lyndsey Havens",
+    "tags": [
+      "Music",
+      "Music News",
+      "friday music guide",
+      "genre country",
+      "genre pop",
+      "genre rb",
+      "genre rock"
+    ]
+  },
+  {
+    "id": "e4009a142a27bb9b5d1da4596f9ae2a6b206c9345a591861973f5e850f5fbc2e",
+    "title": "Whatever happened to the diamond that went missing in F1 crash?",
+    "summary": "Whatever happened to the diamond that went missing after the Formula 1 car it was attached to crashed?",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/formula1/articles/c60735md0jrpo",
+    "published_at": "2026-11-13T06:12:20+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8b0/live/da7ae610-deaa-11f1-8253-3f203a001288.jpg",
+    "collection_timestamp": "2026-11-13T07:36:37.212376+00:00",
+    "thin": false
+  },
+  {
+    "id": "f1efda537bf0a5d916cd947a4c45d23873c86edbcb0e732d903b07c54f9916f2",
+    "title": "Daddy Yankee Surprised by Janet Jackson Upon Receiving his POTY Award: ‘Your Music Has Inspired an Entire Generation’",
+    "summary": "The reggaeton icon received the recognition from the American legend at Thursday’s ceremony in Las Vegas.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/awards/daddy-yankee-janet-jackson-latin-grammys-2026-poty-1236381424",
+    "published_at": "2026-11-13T06:11:09+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.190081+00:00",
+    "thin": false,
+    "author": "Sigal Ratner-Arias",
+    "tags": [
+      "Awards",
+      "Music",
+      "genre latin",
+      "Latin Grammys"
+    ]
+  },
+  {
+    "id": "5b6be883d0bda63e0c48fe1e16236047432a3ae77ad80afedb2be1ca6ab4583a",
+    "title": "All the 2026 Latin Grammys Performances, Ranked",
+    "summary": "Which artists stood out at this year's ceremony?",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/lists/all-2026-latin-grammys-performances-ranked",
+    "published_at": "2026-11-13T06:08:16+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.190181+00:00",
+    "thin": false,
+    "author": "Isabela Raygoza",
+    "tags": [
+      "Latin",
+      "Music",
+      "genre latin",
+      "Latin GRAMMY Awards"
+    ]
+  },
+  {
+    "id": "92e2e611778a34241c1cff87fdddfadceb62c6296d93e1b2eb1e736777ffd7ad",
+    "title": "‘Pop Pop’ Dives Into Radicalization and Male Fragility in the Digital Age. Its Creator Says It’s “More Topical Every Day” – and Urges Us to Join Hands.",
+    "summary": "Writer-director Dylan Stephen Levers' debut feature is a cinematic parable, premiering at Tallinn, that was partly shot at alt-right marches and is full of memes and indie spirit.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/pop-pop-film-manosphere-trump-age-tallinn-2026-interview-1236752826",
+    "published_at": "2026-11-13T06:00:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.188744+00:00",
+    "thin": false,
+    "author": "Georg Szalai",
+    "tags": [
+      "Movie News",
+      "Movies",
+      "international",
+      "January 6 Riot",
+      "POFF",
+      "POFF 2026",
+      "President Donald Trump",
+      "Tallinn Black Nights Film Festival"
+    ]
+  },
+  {
+    "id": "e0de277529e518fbe1ab736834bd1c2412e3026be3e0a9169a0200292ee9bf22",
+    "title": "‘The Consummate Gentleman of Rock ‘n’ Roll’: Nile Rodgers Pays Tribute to Duran Duran’s Retiring Drummer Roger Taylor",
+    "summary": "\"I love you, and you’re wonderful. The consummate gentleman of rock ‘n’ roll,\" Nile Rodgers says of Duran Duran's Roger Taylor.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/rock/nile-rodgers-tribute-duran-duran-retiring-roger-taylor-1236381417",
+    "published_at": "2026-11-13T05:58:25+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.190325+00:00",
+    "thin": false,
+    "author": "Lars Brandle",
+    "tags": [
+      "Music",
+      "Rock",
+      "bbnews"
+    ]
+  },
+  {
+    "id": "41ffd36d68cc9d59886f91a5266764017f6ddcbc98e1f26ddc01f5ea8316ef81",
+    "title": "Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion",
+    "summary": "Jensen Huang's resignation added to Nvidia's market woes, with the stock already in a downward slide since early October.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+    "published_at": "2026-11-13T05:51:34+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.211674+00:00",
+    "thin": false
+  },
+  {
+    "id": "5a61aabf3bae733ff9edc813cc70abe7d136ce1a40d80fcf71474fa1c170db50",
+    "title": "How London-Based Facialist Keren Bartov Prepped Hollywood for This Fall’s Starriest Soirees",
+    "summary": "Cate Blanchett, Mikey Madison and Elizabeth Debicki made a pit stop at the aesthetician’s Notting Hill clinic ahead of the Harper’s Bazaar Women of the Year Awards.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/lifestyle/shopping/keren-bartov-celebrity-facialist-interview-skincare-products-1236754525",
+    "published_at": "2026-11-13T05:32:29+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.188908+00:00",
+    "thin": false,
+    "author": "Erin Lassner",
+    "tags": [
+      "Lifestyle",
+      "Shopping",
+      "beauty",
+      "shopping"
+    ]
+  },
+  {
+    "id": "602eb838ccd7ffa2bde3cb7020ea7ca37c17f27cc140d8f7a7350c0092f6b21f",
+    "title": "Latin Grammy Awards 2026 Winners: Rosalía Wins Her Third Album Of The Year — Full List",
+    "summary": "The 27th Latin Grammy Awards have concluded in Las Vegas, and Rosalía is walking away the night&#8217;s big winner. During Thursday&#8217;s awards ceremony, the Spanish artist won Album of the Year for Lux, marking her third victory in the category after El Mal Querer (2018) and Motomami (2022). She also won Song of the Year [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/latin-grammy-awards-2026-winners-full-list-1237222557",
+    "published_at": "2026-11-13T05:08:32+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/P108VLYR-e1794545596684.jpg",
+    "collection_timestamp": "2026-11-13T07:36:37.187714+00:00",
+    "thin": false,
+    "author": "Glenn Garner",
+    "tags": [
+      "News",
+      "Latin Grammy Awards",
+      "Rosalía"
+    ]
+  },
+  {
+    "id": "79ce4d4e45a3e39e4db82943a808d1cf95a9f614ab4e294b2718e6abdb0db432",
+    "title": "Dolly Parton Sings ‘Her Heart Out’ on Posthumous U2 Collaboration ‘Torn’: Stream It Now",
+    "summary": "Co-written by U2, Parton and Snow Patrol‘s Johnny McDaid, \"Torn\" is the country great’s last recorded vocal performance.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/music-news/dolly-parton-posthumous-u2-collaboration-torn-stream-it-now-1236381318",
+    "published_at": "2026-11-13T05:00:54+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.190471+00:00",
+    "thin": false,
+    "author": "Lars Brandle",
+    "tags": [
+      "Music",
+      "Music News",
+      "bbnews",
+      "genre country",
+      "genre rock"
+    ]
+  },
+  {
+    "id": "2b1c93fd1d7754927e554d23d588022556ab56d57db58afe16d3adc1b44c16f2",
+    "title": "Dolly Parton’s Last Recorded Song Released: Listen to Her Passionate Performance on U2’s ‘Torn’",
+    "summary": "Dolly Parton&#8217;s last words have arrived. The iconic singer&#8217;s last recorded vocals have been released on “Torn,” the final track on U2&#8217;s just-released album “Carnaval de Luz.” On the song, Parton and Bono sing about what seems to be a metaphor for our country’s politically divided landscape, with Parton at one point delivering, “Nothing hurts [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/music/news/dolly-parton-last-song-u2-torn-final-vocals-1236946788",
+    "published_at": "2026-11-13T05:00:41+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/08/P115RDF6.jpg",
+    "collection_timestamp": "2026-11-13T07:36:37.186279+00:00",
+    "thin": false,
+    "author": "William Earl",
+    "tags": [
+      "News",
+      "Dolly Parton",
+      "U2"
+    ]
+  },
+  {
+    "id": "42e0d60c1d38d3f5153d3e4f3124be4c463c6b7927bfc47801fe70e60aabea4f",
+    "title": "5 Funniest 'Peanuts' Comics About Food Only Charles Schulz Could Come Up With",
+    "summary": "Here's the World Famous Gastronomer reading 50 years of food gags",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/peanuts-best-comics-food",
+    "published_at": "2026-11-13T05:00:17+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/peanuts-welcome-home-franklin.jpg",
+    "collection_timestamp": "2026-11-13T07:36:37.211186+00:00",
+    "thin": false,
+    "author": "Thomas Hindmarch",
+    "tags": [
+      "Polygon Lists",
+      "comic strip"
+    ]
+  },
+  {
+    "id": "e64281fba355a423209d9f91b2968ad6e570d032d28ce968047131533015e902",
+    "title": "Rosalía and Milo J Sweep the 2026 Latin Grammys: Full List of Winners",
+    "summary": "CA7RIEL &#38; Paco Amoroso, Jorge Drexler, Karol G and Grupo Frontera also won multiple awards on Thursday's (Nov. 12) ceremony.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/lists/latin-grammys-2026-list-of-winners",
+    "published_at": "2026-11-13T04:59:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.190597+00:00",
+    "thin": false,
+    "author": "Sigal Ratner-Arias",
+    "tags": [
+      "Awards",
+      "Music",
+      "genre latin",
+      "Latin Grammys",
+      "Winners"
+    ]
+  },
+  {
+    "id": "57fa752bef1aea6cbef9695a8c73e8d5de446ff6a96a98da5e6283808896ca30",
+    "title": "Feid Previews New Song With Snoop Dogg at Latin Grammys",
+    "summary": "The Colombian reggaeton star performed alongside Divino, Lil Supa, Baby Ranks, and DJ Premier",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-latin/feid-latin-grammys-snoop-dogg-song-1235655738",
+    "published_at": "2026-11-13T04:53:31+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.191262+00:00",
+    "thin": false,
+    "author": "Julyssa Lopez",
+    "tags": [
+      "Latin Music",
+      "Music",
+      "Feid",
+      "Latin Grammys",
+      "Latin Grammys 2026"
+    ]
+  },
+  {
+    "id": "4867f614fb89f8d96a4dbc2b742c564d65a84845d25d7d0454e364bc6b46ddf1",
+    "title": "Microsoft Outlook Still Down In 365 Outage: Company Sees Sporadic Improvements, Though No Sustained Recovery",
+    "summary": "UPDATED with latest company comments: Earlier this evening Microsoft posted an update on the outages to its 365 platform noting &#8220;positive results with our efforts to restart affected infrastructure and recover server availability.&#8221; The optimism was short lived. About an hour later, the company announced that their efforts were &#8220;not taking as expected.&#8221; The company [&#8230;]",
+    "category": "technology",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/microsoft-outlook-is-down-email-365-1237221945",
+    "published_at": "2026-11-13T04:53:24+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2024/11/Microsoft-Exchange-Outlook-Microsoft-365.jpg",
+    "collection_timestamp": "2026-11-13T07:36:37.187918+00:00",
+    "thin": false,
+    "author": "Dade Hayes",
+    "tags": [
+      "News",
+      "email",
+      "microsoft",
+      "outage",
+      "Outlook"
+    ]
+  },
+  {
+    "id": "678b09315c0873ab4f95b9fc8e8b64d8b2a75d667c210605222027c4e2a2ec44",
+    "title": "Warburton out to impress the world against Adames",
+    "summary": "Welsh boxer Gerome Warburton plans to show the world he is a top contender in the middleweight division when he faces WBC champion Carlos Adames.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/boxing/articles/cmgqwdv1kg40o",
+    "published_at": "2026-11-13T04:52:44+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cc6/live/43ed57f0-d874-11f1-a364-a1fce50dd192.jpg",
+    "collection_timestamp": "2026-11-13T07:36:37.213141+00:00",
+    "thin": false
+  },
+  {
+    "id": "14c4291ec25a6abea7d71434b1d8942f0389c100f8ad37d8bb6860179d678341",
+    "title": "Cheating, scandal and drama - Wales agony v All Blacks",
+    "summary": "It is more than 70 years since Wales last beat New Zealand but the fixture has rarely failed to deliver drama.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cx5y131nlrvro",
+    "published_at": "2026-11-13T04:38:19+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dfb/live/76fe8550-ded8-11f1-a75a-dbf83836672c.jpg",
+    "collection_timestamp": "2026-11-13T07:36:37.212758+00:00",
+    "thin": false
+  },
+  {
+    "id": "ac7733dcef68ca90daefd301f2b6a86c1acf336e1c7f383489e32d4567737423",
+    "title": "Latin Grammys 2026: Rosalía Wins Album of the Year",
+    "summary": "Janet Jackson also presented Daddy Yankee with the person of the year honor.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/music/music-news/latin-grammys-2026-winners-rosalia-album-of-the-year-1236754523",
+    "published_at": "2026-11-13T04:25:05+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.189028+00:00",
+    "thin": false,
+    "author": "McKinley Franklin",
+    "tags": [
+      "Music",
+      "Music News",
+      "Daddy Yankee",
+      "Latin Grammys",
+      "rosalia"
+    ]
+  },
+  {
+    "id": "f8d43c5f20e997c707808cc61b2006d9b3e427bc9a6756f22479e1f05e714426",
+    "title": "Sienna Spiro Cancels Appearance at 2026 ARIA Awards: ‘I Have to Listen to My Body’",
+    "summary": "Melbourne-based hyperpop trio Blusher will take Spiro's spot in the line-up for the the 40th annual ARIAs.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/awards/sienna-spiro-cancels-2026-aria-awards-1236381349",
+    "published_at": "2026-11-13T04:22:38+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.190721+00:00",
+    "thin": false,
+    "author": "Lars Brandle",
+    "tags": [
+      "Awards",
+      "Music",
+      "aria awards",
+      "ARIAS",
+      "bbnews"
+    ]
+  },
+  {
+    "id": "774e040f54708e2b8b78d03a3f14daf1f46defa527fbfddd36a0e7efdc0e8e65",
+    "title": "Rosalia Makes History With Third Album of the Year Win at the Latin Grammys",
+    "summary": "The Spanish singer took home the night's biggest award for her masterful LP Lux",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-latin/rosalia-wins-album-of-the-year-latin-grammys-1235655872",
+    "published_at": "2026-11-13T04:18:34+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.191380+00:00",
+    "thin": false,
+    "author": "Maya Georgi",
+    "tags": [
+      "Latin Music",
+      "Music",
+      "Latin Grammys",
+      "Latin Grammys 2026",
+      "Rosalia"
+    ]
+  },
+  {
+    "id": "588c91973cc92f847ea4a56ec92a8bb702bda1d6c135a43de1b0a40d037829eb",
+    "title": "Latin Grammys Full Winners List: Rosalía Wins Big With Album and Song of the Year Honors",
+    "summary": "The 2026 Latin Grammys took place on Nov. 12 at the MGM Grand Garden Arena in Las Vegas. Going into the evening, Edgar Barrera led the nominees with ten nods, followed by Jorge Drexler, Rosalía, Karol G and Ca7riel &#38; Paco Amoroso with seven each. See the full winners list below. Album of the Year: [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/music/news/latin-grammys-winners-list-rosalia-1236946768",
+    "published_at": "2026-11-13T04:06:00+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/2304845347.jpg",
+    "collection_timestamp": "2026-11-13T07:36:37.186470+00:00",
+    "thin": false,
+    "author": "William Earl",
+    "tags": [
+      "News",
+      "Latin Grammys",
+      "Rosalía"
+    ]
+  },
+  {
+    "id": "0c3a548c0dd2906e48f31c6e80fdc7975984f5918f383765474ebfd5ad10424b",
+    "title": "8 Near-Perfect Xbox 360 Games That Are Forgotten Masterpieces",
+    "summary": "From Viva Piñata to The Saboteur, these forgotten Xbox 360 masterpieces deserve another shot today.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/xbox-360-forgotten-masterpieces",
+    "published_at": "2026-11-13T04:00:17+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/629968/sleeping-dogs-definitive-edition-world_1920.0.jpg",
+    "collection_timestamp": "2026-11-13T07:36:37.211324+00:00",
+    "thin": false,
+    "author": "Randy Rhodes",
+    "tags": [
+      "Polygon Lists",
+      "Sleeping Dogs",
+      "Lost Odyssey",
+      "Saints Row 2",
+      "Grand Theft Auto 6",
+      "Singularity",
+      "The Saboteur"
+    ]
+  },
+  {
+    "id": "e27db2447034368fe00ec80382d1b8af0837ea474acd585e7ecd0dad7a32401f",
+    "title": "As Nvidia reels from Huang's affairs, who stands to gain?",
+    "summary": "That shift comes as Nvidia grapples with the fallout from Huang's resignation, following revelations about his multiple affairs.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
+    "published_at": "2026-11-13T03:59:40+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.211794+00:00",
+    "thin": false
+  },
+  {
+    "id": "7e347d6aa869837f65c8355d549aabf8e1610d681a0c045b60e38bdd3bca47e8",
+    "title": "Everything is going according to plan",
+    "summary": "All at our expense &#32; submitted by &#32; /u/Unlucky_State_8779 &#32; to &#32; r/wallstreetbets [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xuxoya/everything_is_going_according_to_plan",
+    "published_at": "2026-11-13T03:51:01+00:00",
+    "image_url": "https://preview.redd.it/9q1jrnu2ya1i1.jpeg",
+    "collection_timestamp": "2026-11-13T07:36:37.216955+00:00",
+    "thin": false,
+    "author": "/u/Unlucky_State_8779https://www.reddit.com/user/Unlucky_State_8779",
+    "tags": [
+      "wallstreetbets"
+    ]
+  },
+  {
+    "id": "e1a0ef2219529d5f8733b61bbc54cee4b7213c6e67c47302c90e38cefffabede",
+    "title": "Latin Grammys Celebrate 100 Years of José Alfredo Jiménez With Edgar Barrera, The Warning, More",
+    "summary": "Barrera was the musical producer for star-studded tribute featuring The Warning, Reik, Sofia Reyes, Yami Safdie, and Camila Fernández",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-latin/latin-grammys-jose-alfredo-jimenez-edgar-barrera-tribute-1235655750",
+    "published_at": "2026-11-13T03:49:56+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.191516+00:00",
+    "thin": false,
+    "author": "Julyssa Lopez",
+    "tags": [
+      "Latin Music",
+      "Music",
+      "Edgar Barrera",
+      "Latin Grammys",
+      "Latin Grammys 2026"
+    ]
+  },
+  {
+    "id": "a34ccbc1eb568c6289c87c602b20af1fd87782159ef254d901a83b7d04426850",
+    "title": "A masterpiece of medieval engineering, crafted to protect every detail!",
+    "summary": "&#32; submitted by &#32; /u/JhonathanwickEx &#32; to &#32; r/interestingasfuck [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/interestingasfuck/comments/1xux7yj/a_masterpiece_of_medieval_engineering_crafted_to",
+    "published_at": "2026-11-13T03:26:46+00:00",
+    "image_url": "https://external-preview.redd.it/amEwMTV4Nnl0YTFpMeTrDi43dkTqeLF446Rgv9_ErA1sErhDBkZBAKMkC1EJ.png",
+    "collection_timestamp": "2026-11-13T07:36:37.215879+00:00",
+    "thin": false,
+    "author": "/u/JhonathanwickExhttps://www.reddit.com/user/JhonathanwickEx",
+    "tags": [
+      "interestingasfuck"
+    ]
+  },
+  {
+    "id": "fb4f072578873b4a1d8ba55da6551f7af3ab30b983f6b290c856eb3e7bafce31",
+    "title": "Hulu Series ‘The Spot’ Starring Claire Danes & Ewan McGregor Gets Release Date, First-Look Photos",
+    "summary": "The Spot, Hulu&#8217;s upcoming psychological thriller starring Claire Danes and Ewan McGregor, will premiere on Jan. 13. Along with the release date announcement, the streamer has released first-look images from the A24 drama series. Created and written by Ed Soloman, who serves as showrunner, The Spot follows a successful surgeon (Danes) and her schoolteacher husband [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/the-spot-release-date-claire-danes-ewan-mcgregor-hulu-photo-1237222480",
+    "published_at": "2026-11-13T03:24:43+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/184083_0007_R.jpg",
+    "collection_timestamp": "2026-11-13T07:36:37.188118+00:00",
+    "thin": false,
+    "author": "Nellie Andreeva",
+    "tags": [
+      "News",
+      "Claire Danes",
+      "Ewan McGregor",
+      "Hulu",
+      "The Spot"
+    ]
+  },
+  {
+    "id": "1079ab2dd92164b58cd5cad3e6c3e1f86283b405f53a8c5b0491a62f62b23ec1",
+    "title": "Aria Vega Wins Best New Artist at the 2026 Latin Grammys: ‘Dreams Know No Fear’",
+    "summary": "At the media center backstage, the Colombian artist broke down crying in total awe of her first Latin Grammy win.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/latin/aria-vega-best-new-artist-2026-latin-grammys-speech-1236381295",
+    "published_at": "2026-11-13T03:22:18+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.190863+00:00",
+    "thin": false,
+    "author": "Jessica Roiz",
+    "tags": [
+      "Latin",
+      "Music",
+      "genre latin",
+      "Latin Grammys"
+    ]
+  },
+  {
+    "id": "c3866e01cd9d1b4cbb20ed142e9a17009f9f8d5bf09fefe5cafcd9e8d9998a6c",
+    "title": "(OC) Spotted in rural SoCal",
+    "summary": "&#32; submitted by &#32; /u/QuestioningCentric &#32; to &#32; r/pics [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/pics/comments/1xuwta9/oc_spotted_in_rural_socal",
+    "published_at": "2026-11-13T03:06:36+00:00",
+    "image_url": "https://preview.redd.it/h2w1wrfdqa1i1.jpeg",
+    "collection_timestamp": "2026-11-13T07:36:37.216395+00:00",
+    "thin": false,
+    "author": "/u/QuestioningCentrichttps://www.reddit.com/user/QuestioningCentric",
+    "tags": [
+      "pics"
+    ]
+  },
+  {
+    "id": "790b0b17f1692939bc98d4cea0d9586af4a9c7cf412d4cd2e966012bd6f8c823",
+    "title": "‘SVU’ Star Mariska Hargitay Breaks Down Benson and Stabler’s Complicated Reunion and Her Final Choice: ‘There Are So Many Feelings’",
+    "summary": "SPOILER ALERT: This article contains major spoilers from the 600th episode of &#8220;Law &#38; Order: Special Victims Unit.&#8221; To say that Olivia Benson and Elliot Stabler have a complicated relationship would be an understatement. During the Nov. 12 600th episode of &#8220;Law &#38; Order: Special Victims Unit,&#8221; Benson (Mariska Hargitay) is forced to reopen a [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/tv/news/svu-mariska-hargitay-benson-stabler-reunion-1236945584",
+    "published_at": "2026-11-13T03:05:00+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/NUP_211501_00179.jpg",
+    "collection_timestamp": "2026-11-13T07:36:37.186681+00:00",
+    "thin": false,
+    "author": "Emily Longeretta",
+    "tags": [
+      "News",
+      "Christopher Meloni",
+      "Law & Order: Special Victims Unit",
+      "Mariska Hargitay"
+    ]
+  },
+  {
+    "id": "75e38feab94c9b5fd9d23459f397cc266e97343b183d16aef84516ffbfb15ab1",
+    "title": "‘The Body’ Creator on the Dance Team’s Sexuality, What Happened to Grace and Whether God Is Real",
+    "summary": "SPOILER ALERT: This story contains spoilers for “The Body,” now streaming on Netflix. If you’re looking for clear answers about whether or not God is real in the world of &#8220;The Body&#8221; — Netflix’s spooky new drama series about mass hysteria originating from a Catholic school dance team — you’re not going to find them. “If [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/tv/news/the-body-finale-sexuality-grace-god-1236946216",
+    "published_at": "2026-11-13T03:00:00+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/TheBody-postmortem.jpg",
+    "collection_timestamp": "2026-11-13T07:36:37.186892+00:00",
+    "thin": false,
+    "author": "Selome Hailu",
+    "tags": [
+      "News",
+      "Netflix",
+      "Quinn Shephard",
+      "The Body"
+    ]
+  },
+  {
+    "id": "0c9b4ac4eef036e75b90207e0f2a82af01fdc15104ec7a6953a9f3a7971681c0",
+    "title": "‘Law & Order: SVU’ Goes Back to (Before) the Beginning With Its 600th Episode",
+    "summary": "Showrunner Michele Fazekas breaks down Christopher Meloni's return and the state of the Benson-Stabler relationship.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/tv/tv-features/law-and-order-svu-600th-episode-showrunner-interview-1236754391",
+    "published_at": "2026-11-13T03:00:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.189162+00:00",
+    "thin": false,
+    "author": "Rick Porter",
+    "tags": [
+      "TV",
+      "TV Features",
+      "Christopher Meloni",
+      "Law & Order: SVU",
+      "Mariska Hargitay",
+      "Michele Fazekas",
+      "NBC"
+    ]
+  },
+  {
+    "id": "131f072cc74a559dc7653a90633190ede6a99356f0df9643b316a155b885aaac",
+    "title": "Latin Grammys 2026 Winners: The Complete List",
+    "summary": "Rosalía took home several awards, including Album of the Year, Karol G had a big moment, and Milo J scored multiple wins",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-latin/latin-grammys-2026-winners-complete-list-1235655791",
+    "published_at": "2026-11-13T02:50:03+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.191636+00:00",
+    "thin": false,
+    "author": "Maya Georgi",
+    "tags": [
+      "Latin Music",
+      "Music",
+      "Edgar Barrera",
+      "Karol G",
+      "Latin Grammys",
+      "Latin Grammys 2026",
+      "Rosalia"
+    ]
+  },
+  {
+    "id": "3190fa6db77c7291a11044654a4ffcaf4620fc1ed6ff7d59bcf61f85ade86705",
+    "title": "44 Years Later, Star Trek’s Best Quote About Grief Is Still a Near-Perfect Sci-Fi Moment",
+    "summary": "Star Trek has some of the best moments in science fiction. And its best quote about grief is part of that.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/star-trek-wrath-of-khan-best-quote-grief",
+    "published_at": "2026-11-13T02:45:17+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/spock-kirk-star-trek.jpeg",
+    "collection_timestamp": "2026-11-13T07:36:37.211464+00:00",
+    "thin": false,
+    "author": "Rachel Leishman",
+    "tags": [
+      "FYI",
+      "Star Trek"
+    ]
+  },
+  {
+    "id": "c1a0ccc647e511a210e4dc792d81936637d769cdc5a82b0bea42a1f0f3b7d64c",
+    "title": "On Winning First Latin Grammy, Camila Fernández Thanks Expectant Baby for ‘Strength to be Here’",
+    "summary": "Moved to tears, the heiress to the Fernández dynasty received the award for best ranchera/mariachi music album.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/latin/camila-fernandez-latin-grammys-tears-baby-1236381244",
+    "published_at": "2026-11-13T02:41:48+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.191005+00:00",
+    "thin": false,
+    "author": "Sigal Ratner-Arias",
+    "tags": [
+      "Latin",
+      "Music",
+      "Awards",
+      "genre latin",
+      "Latin Grammys"
+    ]
+  },
+  {
+    "id": "cf9ae21702b896318d1e92b4289e2f5e817ef778aaa12ad1acadb8ee24e3cb56",
+    "title": "Breaking News: Chris Van Hollen launches challenge against Chuck Schumer to lead Senate Democrats. How do you guys feel about that?",
+    "summary": "&#32; submitted by &#32; /u/Captain_Hawk111 &#32; to &#32; r/AskReddit [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/AskReddit/comments/1xuw9sz/breaking_news_chris_van_hollen_launches_challenge",
+    "published_at": "2026-11-13T02:40:04+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.218063+00:00",
+    "thin": false,
+    "author": "/u/Captain_Hawk111https://www.reddit.com/user/Captain_Hawk111",
+    "tags": [
+      "AskReddit"
+    ]
+  },
+  {
+    "id": "814a5a77cfd6ffbf048fc7ee26d8a674c717066d5c09b93ced51939eded2a772",
+    "title": "Alanis Morissette Recalls ‘Dogma’ Co-Star Ben Affleck Asking Her Why She Didn’t “Lead With My Sexuality”",
+    "summary": "Now that Dogma has gotten its long-awaited re-release, Alanis Morissette is revisiting some behind-the-scenes tension. During her Butterfly with a Knife residency at Inglewood&#8217;s YouTube Theater, the 7x Grammy winner called out Ben Affleck over an exchange about how she expressed her &#8220;sexuality&#8221; as they starred together in Kevin Smith&#8217;s 1999 religious satire. &#8220;I even [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/alanis-morissette-dogma-ben-affleck-lead-with-my-sexuality-1237222468",
+    "published_at": "2026-11-13T02:39:33+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/DOGMA-from-left-Matt-Damon-Ben-Affleck-1999-Lions-Gate-Filmscourtesy-Everett-Collection-1000.jpg",
+    "collection_timestamp": "2026-11-13T07:36:37.188314+00:00",
+    "thin": false,
+    "author": "Glenn Garner",
+    "tags": [
+      "News",
+      "Alanis Morissette",
+      "Ben Affleck",
+      "Dogma"
+    ]
+  },
+  {
+    "id": "64367b48f30ed0b590dd8895bb7f72adf080e96b7406b792007dd81fcc09213b",
+    "title": "Daddy Yankee’s Latin Grammys Medley Was a Supershow — And Possibly a Coachella Preview",
+    "summary": "The Latin music icon was joined by L Cool J, French Montana, Diljit Dosanjh, Feid, Bizarrap, Bad Gyal and more",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-latin/daddy-yankee-latin-grammys-coachella-preview-ll-cool-j-1235655734",
+    "published_at": "2026-11-13T02:38:36+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.191762+00:00",
+    "thin": false,
+    "author": "Julyssa Lopez",
+    "tags": [
+      "Latin Music",
+      "Music",
+      "Daddy Yankee",
+      "Latin Grammys",
+      "Latin Grammys 2026"
+    ]
+  },
+  {
+    "id": "79ae60582ee16fd9c3155a9c9bd6917cb080733c2702e3ee5b9f01ad07b91aef",
+    "title": "meirl",
+    "summary": "&#32; submitted by &#32; /u/EmergencyRead5254 &#32; to &#32; r/meirl [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/meirl/comments/1xuw0np/meirl",
+    "published_at": "2026-11-13T02:27:57+00:00",
+    "image_url": "https://preview.redd.it/wgg4019hja1i1.jpeg",
+    "collection_timestamp": "2026-11-13T07:36:37.215558+00:00",
+    "thin": true,
+    "author": "/u/EmergencyRead5254https://www.reddit.com/user/EmergencyRead5254",
+    "tags": [
+      "meirl"
+    ]
+  },
+  {
+    "id": "3859f81a1ae12802da41734ccfda29a3bc0369a06b9c6a63b5e6db059b6e5ccc",
+    "title": "Karol G Embraces Mariachi Soul for Passionate Latin Grammys Performance",
+    "summary": "The Colombian superstar sang\"Ese Hombre Es Malo,\" which is up for Best Regional Song this year",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-latin/karol-g-latin-grammys-2026-performance-1235655783",
+    "published_at": "2026-11-13T02:20:17+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.191888+00:00",
+    "thin": false,
+    "author": "Maya Georgi",
+    "tags": [
+      "Latin Music",
+      "Music",
+      "Karol G",
+      "Latin Grammys",
+      "Latin Grammys 2026"
+    ]
+  },
+  {
+    "id": "3a86d216882f731750983d95e6e331bcafddab36b8169ace5acf557082063fe0",
+    "title": "Senator Chris Van Hollen Announces He Is Running For Senate Majority Leader",
+    "summary": "&#32; submitted by &#32; /u/woke_dondraper &#32; to &#32; r/Fauxmoi [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/Fauxmoi/comments/1xuvmmx/senator_chris_van_hollen_announces_he_is_running",
+    "published_at": "2026-11-13T02:09:09+00:00",
+    "image_url": "https://preview.redd.it/1hezwhg4ga1i1.jpeg",
+    "collection_timestamp": "2026-11-13T07:36:37.218301+00:00",
+    "thin": false,
+    "author": "/u/woke_dondraperhttps://www.reddit.com/user/woke_dondraper",
+    "tags": [
+      "Fauxmoi"
+    ]
+  },
+  {
+    "id": "ac9becc76e50fbc8e64d7a50de57c5b6adf9cd7035bfdcb1a478e6f8c13adc48",
+    "title": "Chris Van Hollen Is Challenging Chuck Schumer for Democratic Leader",
+    "summary": "&#32; submitted by &#32; /u/TheWashingtonSun &#32; to &#32; r/politics [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/politics/comments/1xuvirm/chris_van_hollen_is_challenging_chuck_schumer_for",
+    "published_at": "2026-11-13T02:03:45+00:00",
+    "image_url": "https://external-preview.redd.it/dWPlgJSAUJoKxvFEkqYRbi_YBuLwXgC7rNNR0_ANGsg.jpeg",
+    "collection_timestamp": "2026-11-13T07:36:37.216149+00:00",
+    "thin": false,
+    "author": "/u/TheWashingtonSunhttps://www.reddit.com/user/TheWashingtonSun",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "id": "02a98e28d3020a0042c474245d77161552b92acc3c67038055161b0191bfc6ce",
+    "title": "Anitta Shows Off Brazilian Roots and Powerhouse Moves at Latin Grammys",
+    "summary": "The Brazilian pop star is up for Album of the Year at this year's ceremony",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-latin/anitta-latin-grmamy-performance-1235655736",
+    "published_at": "2026-11-13T01:59:44+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.191998+00:00",
+    "thin": false,
+    "author": "Julyssa Lopez",
+    "tags": [
+      "Latin Music",
+      "Music",
+      "Anitta",
+      "Latin Grammys",
+      "Latin Grammys 2026"
+    ]
+  },
+  {
+    "id": "344676c43f2306f4f7a1eab12a420813ff5c9d171fd1f18845d00ed3b460159a",
+    "title": "Sting Is Officially a Latin Grammy Winner",
+    "summary": "The rocker won Best Pop/Rock Song for his work on Ca7riel &#38; Paco Amoroso's latest album",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/sting-first-latin-grammy-win-1235657253",
+    "published_at": "2026-11-13T01:45:50+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.192107+00:00",
+    "thin": false,
+    "author": "Maya Georgi",
+    "tags": [
+      "Music",
+      "Music News",
+      "CA7RIEL & Paco Amoroso",
+      "Sting"
+    ]
+  },
+  {
+    "id": "07409a0148e4055fd5fc1249ac540764b3c603b00165b4e9f94411310e6068b9",
+    "title": "Laika’s ‘Wildwood’ Passes $60 Million Worldwide (EXCLUSIVE)",
+    "summary": "Laika&#8217;s stop-motion movie &#8220;Wildwood&#8221; has topped $60 million worldwide. After a sluggish start, the fantasy epic directed by Travis Knight has now amassed a box office of $41.86 million in the U.S. and Canada and $19.06 million across 49 international territories. The milestone follows a strong third weekend in North America, where &#8220;Wildwood&#8221; grossed $7.21 [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/global/wildwood-passes-60-million-worldwide-box-office-1236946750",
+    "published_at": "2026-11-13T01:43:39+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Wildwood.jpg",
+    "collection_timestamp": "2026-11-13T07:36:37.187089+00:00",
+    "thin": false,
+    "author": "Alex Ritman",
+    "tags": [
+      "Global",
+      "News",
+      "Fathom Entertainment",
+      "FilmNation",
+      "Laika",
+      "Wildwood"
+    ]
+  },
+  {
+    "id": "b1457df2f1503bb44785cc9b9eb0921b20ef5e8ef2dcd2b659485dc2aca6eaed",
+    "title": "Why Quentin Tarantino Initially Fired Mélanie Laurent and Isabelle Huppert From ‘Inglourious Basterds’",
+    "summary": "\"If it’s not right, it is not right. I don’t owe them sh**. I owe my film the best actors I can find. Period,\" the Oscar-winning filmmaker said in Jay Glennie’s new book.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/quentin-tarantino-fired-melanie-laurent-isabelle-huppert-inglourious-basterds-1236754336",
+    "published_at": "2026-11-13T01:40:43+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.189318+00:00",
+    "thin": false,
+    "author": "Carly Thomas",
+    "tags": [
+      "Movie News",
+      "Movies",
+      "Inglourious Basterds",
+      "Melanie Laurent",
+      "Quentin Tarantino"
+    ]
+  },
+  {
+    "id": "3a2f6490f2564c3162a76b2e574983712d2b33b31e922014fa5da728c40a7946",
+    "title": "Pink Floyd’s Roger Waters Files for Divorce From Fourth Wife Kamilah Chavis After 5 Years of Marriage",
+    "summary": "The case is listed as \"contested,\" meaning one or more terms of the divorce remains unresolved",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/pink-floyd-roger-waters-files-for-divorce-kamilah-chavis-1235657256",
+    "published_at": "2026-11-13T01:38:13+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.192234+00:00",
+    "thin": false,
+    "author": "Charisma Madarang",
+    "tags": [
+      "Music",
+      "Music News",
+      "Pink Floyd",
+      "Roger Waters"
+    ]
+  },
+  {
+    "id": "1d74d48809662430662bd5f45c895a7cec974720503ddaea0f3c25e2d19bfe20",
+    "title": "Pegula saves match point to beat Noskova & reach WTA Finals last four",
+    "summary": "A determined Jessica Pegula saves match point to beat Wimbledon champion Linda Noskova and reach the WTA Finals last four at the expense of Coco Gauff.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/tennis/articles/c57429mgdkjdo",
+    "published_at": "2026-11-13T01:23:06+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e42d/live/d07632f0-deff-11f1-93e1-3b657b665bcf.jpg",
+    "collection_timestamp": "2026-11-13T07:36:37.212984+00:00",
+    "thin": false
+  },
+  {
+    "id": "d07b485f3974feebfc218d6ea0b2a6ff26f320e21f80fe3b9d6c0594153656ef",
+    "title": "Frankie Muniz Posts Health Update After NASCAR Crash: “I’m Grateful To Be Walking Right Now”",
+    "summary": "Frankie Muniz says he is &#8220;grateful to be walking right now&#8221; after what he described as &#8220;a pretty bad wreck&#8221; in a NASCAR warmup yesterday that sent him to the hospital. Muniz was behind the wheel for Team Air Force in its No. 30 Ford, prepping for the Proud to Honor Veterans Day Classic exhibition [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/frankie-muniz-speaks-out-after-nascar-crash-1237222430",
+    "published_at": "2026-11-13T01:05:32+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Frankie-Muniz-NASCAR.jpg",
+    "collection_timestamp": "2026-11-13T07:36:37.188491+00:00",
+    "thin": false,
+    "author": "Tomt",
+    "tags": [
+      "News",
+      "Sports",
+      "Frankie Muniz",
+      "Malcolm in the Middle",
+      "NASCAR"
+    ]
+  },
+  {
+    "id": "c88c57b3ab1ed039707dad5f8abfb51e26a5572a50bbc6bc97eac4b3dad2f4dd",
+    "title": "‘The Witcher’ Star Freya Allan to Lead Joachim Rønning’s Horror Movie ‘System’ (EXCLUSIVE)",
+    "summary": "&#8220;The Witcher&#8221; and &#8220;Planet of the Apes&#8221; star Freya Allan is set to star in &#8220;System,&#8221; the upcoming horror film from Norwegian director Joachim Rønning. Plot details remain under wraps, but production is currently underway on location in the old, abandoned underground stations and tunnels under London. Freya will be joined by Denzel Baidoo (&#8220;Last [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/global/freya-allan-horror-movie-system-joachim-ronning-1236946732",
+    "published_at": "2026-11-13T01:04:29+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Freya-Allan.jpg",
+    "collection_timestamp": "2026-11-13T07:36:37.187297+00:00",
+    "thin": false,
+    "author": "Alex Ritman",
+    "tags": [
+      "Global",
+      "News",
+      "AFM",
+      "American Film Market",
+      "Freya Allan",
+      "Joachim Rønning"
+    ]
+  },
+  {
+    "id": "5bf2afa77b9bf26c68a4ca370d9e6e42327d2ef04a6be3c8627a31575e9ea8d5",
+    "title": "Mike Myers Says He “Might” Be in ‘Shrek’ Spinoff ‘Donkey,’ Calls Film “Long Overdue”",
+    "summary": "The veteran actor also confirmed to The Hollywood Reporter that a fourth 'Austin Powers' movie is in the works: \"I'm writing it right now; I'm having a great time.\"",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/mike-myers-shrek-spinoff-donkey-austin-powers-4-1236754333",
+    "published_at": "2026-11-13T01:00:29+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.189467+00:00",
+    "thin": false,
+    "author": "Lexi Carson",
+    "tags": [
+      "Movie News",
+      "Movies",
+      "Austin Powers",
+      "Eddie Murphy",
+      "Events",
+      "Mike Myers",
+      "Red Carpet",
+      "Shrek",
+      "Shrek 5"
+    ]
+  },
+  {
+    "id": "53aa96deccafa714ffd60ac22a5e8796cd1eb82fce58ddc4a550f9bf32bd3724",
+    "title": "Protest turns into chaos",
+    "summary": "&#32; submitted by &#32; /u/Brokenlingo &#32; to &#32; r/cringereels [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/cringereels/comments/1xuu1db/protest_turns_into_chaos",
+    "published_at": "2026-11-13T00:53:10+00:00",
+    "image_url": "https://external-preview.redd.it/c3BkbWlpcWgyYTFpMbTxz9NiVP00QA1dX8XibT3CTlzZzoqwGilJJd3iaOj2.jpeg",
+    "collection_timestamp": "2026-11-13T07:36:37.217182+00:00",
+    "thin": false,
+    "author": "/u/Brokenlingohttps://www.reddit.com/user/Brokenlingo",
+    "tags": [
+      "cringereels"
+    ]
+  },
+  {
     "id": "42617279701a6b491be8fc94277960002a223ade2dfe0563aa1ee5c49c20ce0b",
     "title": "Days After Winning Congressional Race, Bobby Pulido Lands Third Latin Grammy",
     "summary": "The singer was awarded Best Tejano Album for 'Bobby Pulido &#38; Friends: Una Tuya y Una Mía (Vol. 2/En Vivo)'",
@@ -354,6 +1460,44 @@
     ]
   },
   {
+    "id": "ea231280c3866277aa65d18bd6600afd849e94f5fd63bd66dadbc357cb10a38b",
+    "title": "NYC deli prices",
+    "summary": "These are just ridiculous. I dont care how good they are. And here i thought chopped liver meant cheap Is not katz [which are even higher] . This is 2nd av deli Are all jewish delis this pricy across the US? &#32; submitted by &#32; /u/andlg &#32; to &#32; r/KitchenConfidential [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/KitchenConfidential/comments/1xusd1d/nyc_deli_prices",
+    "published_at": "2026-11-12T23:37:49+00:00",
+    "image_url": "https://preview.redd.it/hv8uhl68o91i1.jpeg",
+    "collection_timestamp": "2026-11-13T07:36:37.216695+00:00",
+    "thin": true,
+    "author": "/u/andlghttps://www.reddit.com/user/andlg",
+    "tags": [
+      "KitchenConfidential"
+    ]
+  },
+  {
+    "id": "0575a5093b1f044cfb6aee79f0d21119b194925b0e40364a91b209cd2d188a3e",
+    "title": "Amanda Seyfried Eager to Campaign for ‘You Can See Everything’ as Awards Eligibility Comes Into Focus (Exclusive)",
+    "summary": "In her first one-on-one interview about the film, the actress, who could become the only person ever nominated at a major award show for a performance in a documentary, says she's excited to hit the trail: \"I’m very proud of the film, so I’m fully ready to engage in that.\"",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/amanda-seyfried-awards-eligibility-you-can-see-everything-1236753138",
+    "published_at": "2026-11-12T23:37:04+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.189693+00:00",
+    "thin": false,
+    "author": "Scott Feinberg",
+    "tags": [
+      "Movie News",
+      "Movies",
+      "A24",
+      "Amanda Seyfried",
+      "Lance Oppenheim",
+      "Nathan Fielder",
+      "You Can See Everything"
+    ]
+  },
+  {
     "id": "ebd074720542038e5912bbe5274357e22bed0cae13ccc4e7569b2a5520483549",
     "title": "New Clarity About Amanda Seyfried’s ‘You Can See Everything’ Awards Eligibility, Actress Is Excited to Campaign: “They’re Going to Let Me Loose” (Exclusive)",
     "summary": "In her first one-on-one interview about the film, the actress, who could become the first person ever nominated at a major award show for a performance in a documentary, tells THR that she's excited to hit the trail: \"I’m very proud of the film, so I’m fully ready to engage in that.\"",
@@ -547,6 +1691,22 @@
     ]
   },
   {
+    "id": "3a704fe0c7a112aa8a40bee7e744cae174ae430a144f7d4a2f822c33b435fd3e",
+    "title": "What animal do you think could successfully take down a large male polar bear?",
+    "summary": "&#32; submitted by &#32; /u/PangolinOk7523 &#32; to &#32; r/AskReddit [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/AskReddit/comments/1xuraoz/what_animal_do_you_think_could_successfully_take",
+    "published_at": "2026-11-12T22:50:38+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-13T07:36:37.217873+00:00",
+    "thin": false,
+    "author": "/u/PangolinOk7523https://www.reddit.com/user/PangolinOk7523",
+    "tags": [
+      "AskReddit"
+    ]
+  },
+  {
     "id": "8900621527c52398eff0c60cf649ee58c011460cd2de9a2cb3886f319402b7a2",
     "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
     "summary": "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.",
@@ -641,1121 +1801,6 @@
     "author": "/u/GutiVhttps://www.reddit.com/user/GutiV",
     "tags": [
       "wallstreetbets"
-    ]
-  },
-  {
-    "id": "bf29113ffaa4d5feb47edc9e8f64894966cc17f1dc94cb82281908e45435d395",
-    "title": "Sony's Bringing Back Spider-Man $2.5 Billion Hit With New Footage",
-    "summary": "Spider-Man: Brand New Day isn't done dominating movie theaters, with Sony planning an extended rerelease of 2026's Spider-Man cinematic feat.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/spider-man-brand-new-day-rerelease-extended-new-footage-cameos",
-    "published_at": "2026-11-12T22:31:22+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/mcdspma_sp146.jpg",
-    "collection_timestamp": "2026-11-13T00:53:50.329033+00:00",
-    "thin": false,
-    "author": "Michael McWhertor",
-    "tags": [
-      "Marvel",
-      "Spider-Man: Brand New Day",
-      "Spider-Man"
-    ]
-  },
-  {
-    "id": "5044b432424d490abf04de5d76b4e33c4d00ced2b12572d2ae7f8ed42110f849",
-    "title": "Ray Nicholson Was “Scared” to Tell His Dad Jack Nicholson He Wanted to Pursue Acting",
-    "summary": "\"My education really taught me that dad isn’t God. He’s not the only thing in this film industry. He’s a beautiful part of it, but a very small part,\" the actor said in a new Interview magazine conversation.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/ray-nicholson-scared-tell-dad-jack-nicholson-acting-1236754341",
-    "published_at": "2026-11-12T22:31:12+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.300383+00:00",
-    "thin": false,
-    "author": "McKinley Franklin",
-    "tags": [
-      "Movie News",
-      "Movies",
-      "Jack Nicholson",
-      "Ray Nicholson"
-    ]
-  },
-  {
-    "id": "33ae33ad68f1a19ebd10b51fbe122475c51ae94c2c1ac3d2695d3f7aa85d8b23",
-    "title": "Microsoft Goes Down, and the Media Business Takes Off Early",
-    "summary": "A global outage of Microsoft systems has the entertainment business (and frankly all of corporate America) reeling, and employees cutting out early.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/business/business-news/microsoft-down-offices-take-off-early-1236754346",
-    "published_at": "2026-11-12T22:31:04+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.300509+00:00",
-    "thin": false,
-    "author": "Alex Weprin",
-    "tags": [
-      "Business",
-      "Business News",
-      "Microsoft"
-    ]
-  },
-  {
-    "id": "c53b1e77cf529797796a50808a08579b8abbe9ab35393a8205519a12ed363b93",
-    "title": "Aspyn Ovard on Her Divorce, Being in a Throuple and Joining ‘The Secret Lives of Mormon Wives’ Universe: ‘I Hope People Can Understand Me a Little Bit Better’",
-    "summary": "SPOILER ALERT: This story contains major spoilers for “The Secret Lives of Mormon Wives,” now streaming on Hulu. Not even 15 years of living life online could have prepared Aspyn Ovard for the release of “The Secret Lives of Mormon Wives: Orange County.” The show, a spinoff of Hulu’s uber-popular, ever-controversial Utah-based franchise, hit small [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/tv/news/aspyn-ovard-secret-lives-mormon-wives-divorce-cancer-throuple-1236945276",
-    "published_at": "2026-11-12T22:30:00+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/AspynOvard-portrait-2.jpg",
-    "collection_timestamp": "2026-11-13T00:53:50.297252+00:00",
-    "thin": false,
-    "author": "Payton Turkeltaub",
-    "tags": [
-      "News",
-      "Aspyn Ovard",
-      "Hulu",
-      "The Secret Lives of Mormon Wives: Orange County"
-    ]
-  },
-  {
-    "id": "8ae70dca0b2eb11fef419e8a519a83b8d7ca7806e6c523ff0beed6cc454850e4",
-    "title": "Gauff battles through back injury to keep WTA Finals hopes alive",
-    "summary": "Coco Gauff shows all of her battling qualities as she fights through a back injury to beat Marta Kostyuk and keep her WTA Finals last-four hopes alive.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/tennis/articles/c57429mgdkjdo",
-    "published_at": "2026-11-12T22:27:18+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/543c/live/e0bdb750-dee6-11f1-93e1-3b657b665bcf.jpg",
-    "collection_timestamp": "2026-11-13T00:53:50.331899+00:00",
-    "thin": false
-  },
-  {
-    "id": "551f364b513f8c83d10fb6bb4ab6c9c7b1bd564b3d958ab7dbdcf0de10774956",
-    "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
-    "summary": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-    "published_at": "2026-11-12T22:24:12+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.330036+00:00",
-    "thin": false
-  },
-  {
-    "id": "00d4cfae6af68ee4be088a2c36b6e7294d0eca7f1777d352a7cc9abf424d7465",
-    "title": "‘Grand Theft Auto VI’ for PS5 and Xbox: Here’s Where to Buy the New Game Online",
-    "summary": "After 13 years, GTA 6 is finally available to download and play starting on Thursday, Nov. 19",
-    "category": "gaming",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/product-recommendations/lifestyle/how-to-buy-grand-theft-auto-vi-gta-6-ps5-xbox-download-online-1235656629",
-    "published_at": "2026-11-12T22:22:05+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.302486+00:00",
-    "thin": false,
-    "author": "Rudie Obias",
-    "tags": [
-      "Lifestyle",
-      "RS Recommends",
-      "gaming",
-      "Grand Theft Auto VI",
-      "noads",
-      "RS Gaming"
-    ]
-  },
-  {
-    "id": "a15bf344600fa7ebd353f8658c1112487ccef28b688dc8e6ffc16bc47aae112c",
-    "title": "Michael John Roberts Dies: ‘TripTank’, ‘BoJack Horseman’ Animator, Director & Producer Was 48",
-    "summary": "Michael John Roberts, an animator and director of such series as Comedy Central&#8217;s TripTank and Netflix&#8217;s BoJack Horseman, died November 11 of glioblastoma, in Los Angeles. He was 48. His death was announced by his family, including his wife, the One Life to Live and Gossip Girl actor Bree Williamson. The announcement states that Roberts [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/michael-john-roberts-dead-1237222107",
-    "published_at": "2026-11-12T22:18:11+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Michael-Roberts-e1794518806291.jpg",
-    "collection_timestamp": "2026-11-13T00:53:50.298560+00:00",
-    "thin": false,
-    "author": "Greg Evans",
-    "tags": [
-      "News",
-      "Obituaries",
-      "Bojack Horseman",
-      "Michael John Roberts",
-      "novid",
-      "Obituary",
-      "TripTank"
-    ]
-  },
-  {
-    "id": "0f43443056a25cca8e9b65b626e48ec0efe43b95b1c8df59db9d870c2b78315e",
-    "title": "Emmylou Harris, Sheryl Crow, Elvis Costello, More Celebrate Gram Parsons at the Troubadour",
-    "summary": "\"A Song for Gram\" paid tribute to the late psych-country pioneer ahead of his induction into the Rock &#38; Roll Hall of Fame",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-live-reviews/gram-parsons-tribute-emmylou-harris-sheryl-crow-perform-1235656742",
-    "published_at": "2026-11-12T22:15:53+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.302617+00:00",
-    "thin": false,
-    "author": "Althea Legaspi",
-    "tags": [
-      "Live Reviews",
-      "Music",
-      "Elvis Costello",
-      "Emmylou Harris",
-      "Gram Parsons",
-      "Sheryl Crow",
-      "The Black Crowes",
-      "Tribute"
-    ]
-  },
-  {
-    "id": "641a25abd470829eff412e6bcf624e1dd31161fe501e176439be1e9a48e7a225",
-    "title": "'Avatar: Seven Havens’ Season 2 Release Date Announcement Includes Some Shocking Good News",
-    "summary": "Avatar: Seven Havens seasons 2 and 3 will arrive next year, and Paramount has already revealed what Pavi and Nisha's journey will look like.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/avatar-seven-havens-season-2-release-date-announcement-season-3",
-    "published_at": "2026-11-12T22:15:32+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/avatar-seven-havens-pavi-nisha.webp",
-    "collection_timestamp": "2026-11-13T00:53:50.329180+00:00",
-    "thin": false,
-    "author": "Corey Plante",
-    "tags": [
-      "Analysis",
-      "Avatar: Seven Havens",
-      "The Legend of Korra",
-      "Fantasy",
-      "Animation"
-    ]
-  },
-  {
-    "id": "81858e2290c219de50cc00795180a49ac3a7998b692cd8a02c26255ea823c995",
-    "title": "‘Avatar: Seven Havens’ Sets Book 2 Release Date At Paramount+",
-    "summary": "Paramount+ has set a spring release date for Avatar: Seven Havens Book 2. The 13-episode sophomore season premieres globally on the streamer on Friday, May 21, rolling out weekly with Episodes 1-3 on May 21, 4-6 on May 28, 7-9 on June 4, and 10-13 on June 11. The news was revealed Thursday during an [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/avatar-seven-havens-book-2-release-date-paramount-plus-1237221752",
-    "published_at": "2026-11-12T22:15:00+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/07/Screenshot-2026-07-23-at-1.26.17-PM.png",
-    "collection_timestamp": "2026-11-13T00:53:50.298720+00:00",
-    "thin": false,
-    "author": "Denise Petski",
-    "tags": [
-      "News",
-      "Avatar: Seven Havens",
-      "Paramount+",
-      "premiere dates"
-    ]
-  },
-  {
-    "id": "aa546718c6c1d6bdbfac078b974e3ae51d379cd1bbf3c895ff2bbb4c7a61c456",
-    "title": "Could Jason & Travis Kelce Judge ‘DWTS’? Taylor Swift’s Backup Dancer Thinks It’d Be ‘Incredible’",
-    "summary": "Jan Ravnik wants to make it happen, even though the brothers know \"nothing about dance.\"",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/culture/tv-film/taylor-swift-dancer-jan-ravnik-travis-kelce-judge-dwts-1236380670",
-    "published_at": "2026-11-12T22:14:10+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.301569+00:00",
-    "thin": false,
-    "author": "Hannah Dailey",
-    "tags": [
-      "Culture",
-      "TV/Film",
-      "dancing with the stars",
-      "Music News",
-      "TV / Film"
-    ]
-  },
-  {
-    "id": "f2d22d29f57853eac33a61c48741a99240f88296ccaa60dc522fb3d5546ce421",
-    "title": "Grealish apologises for absence after breach of discipline",
-    "summary": "Jack Grealish issues an apology to Everton fans for his recent absence due to a disciplinary issue.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cr3wgp8e2ljxo",
-    "published_at": "2026-11-12T22:10:13+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ba4/live/6d670f60-dedf-11f1-a75a-dbf83836672c.jpg",
-    "collection_timestamp": "2026-11-13T00:53:50.331680+00:00",
-    "thin": false
-  },
-  {
-    "id": "ea8cc1b233c1e3e5e52fdaf3fde3a791663731f05df1605a19d00b7439fd5150",
-    "title": "Where does Kane rank among all-time England greats?",
-    "summary": "Harry Kane is England's all-time top scorer and record appearance maker, but where does he rank among the Three Lions' greatest players?",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo",
-    "published_at": "2026-11-12T22:09:59+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5525/live/60ecddc0-de97-11f1-a701-fddedf244c16.png",
-    "collection_timestamp": "2026-11-13T00:53:50.331334+00:00",
-    "thin": false
-  },
-  {
-    "id": "1a4220f323c818cc3ba1e2b180692014760a5f0f79963fe375797501942275df",
-    "title": "Daniel Craig's Most Disappointing Bond Film Quietly Exits Streaming This Month",
-    "summary": "James Bond fans have limited time to watch Quantum of Solace on Paramount+, as Daniel Craig’s 2008 action thriller prepares to leave.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/james-bond-quantum-of-solace-leaving-paramount-plus",
-    "published_at": "2026-11-12T22:09:54+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/quantum-of-solace-daniel-craig.jpg",
-    "collection_timestamp": "2026-11-13T00:53:50.329328+00:00",
-    "thin": false,
-    "author": "Sam Hill",
-    "tags": [
-      "News",
-      "James Bond",
-      "Quantum of Solace"
-    ]
-  },
-  {
-    "id": "e67a5bb682f300f5989e39405dc67aec8537616c147618a844f6c3fbcf9adfb3",
-    "title": "Without Jensen Huang, Nvidia's organizational structure isn't 'built to last,' management expert says",
-    "summary": "Nvidia's flat management structure could pose challenges for Huang's successor, according to experts.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/make-it/2026/11/12/nvidia-jensen-huang-management-structure.html",
-    "published_at": "2026-11-12T22:06:08+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.330728+00:00",
-    "thin": false
-  },
-  {
-    "id": "9d993d07f9759c2d00f2a4c5594aec11a6f087ab0332f3b3a024c5bc8bb2cfaa",
-    "title": "Ghost Rider Star Says He's Down to Return for Marvel's 2028 Reboot",
-    "summary": "Agents of SHIELD's Gabriel Luna is open to reprising his role as Ghost Rider Robbie Reyes if Marvel Studios calls.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/ghost-rider-ryan-reynolds-gabriel-luna-marvel-movie",
-    "published_at": "2026-11-12T22:05:59+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ghost-rider-agents-of-shield.jpg",
-    "collection_timestamp": "2026-11-13T00:53:50.329453+00:00",
-    "thin": false,
-    "author": "Michael McWhertor",
-    "tags": [
-      "Movies",
-      "Ghost Rider",
-      "Agents of S.H.I.E.L.D."
-    ]
-  },
-  {
-    "id": "c3dbb5aa8b90791daaaceec49b86a1affe2f09cf4234badb0b4cca745ba54d61",
-    "title": "Sathyavan Savithiri Trailer Review: Keerthy Suresh and Mysskin lock heads in whoduit battle to save her husband",
-    "summary": "Sathyavan Savithiri, starring Keerthy Suresh and Mysskin in the lead roles, is slated to release in theatres on November 20, 2026. Directed by Praveen S. Vijaay, the makers have unveiled the trailer for the whodunit thriller. Sathyavan Savithiri Trailer Review Sathyavan Savithiri &#39;s trailer runs for 2 minutes and 34 seconds and follows Keerthy Suresh as Savithiri. The movie begins with the protagonist showing little interest in getting married but being compelled to enter wedlock by her pare",
-    "category": "bollywood",
-    "source": "Pinkvilla",
-    "url": "https://www.pinkvilla.com/entertainment/south/sathyavan-savithiri-trailer-review-keerthy-suresh-and-mysskin-lock-heads-in-whoduit-battle-to-save-her-husband-1406417",
-    "published_at": "2026-11-12T22:02:03+05:30",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.131698+00:00",
-    "thin": false
-  },
-  {
-    "id": "1780fc8611eaf66ea91073d145e3284734813a83d33c096346f5bb42f549fa65",
-    "title": "‘Thursday Night Football’ 2026: How to Watch Washington Commanders vs. New York Giants Live Online",
-    "summary": "Watch the WAS Commanders take on the NY Giants on Thursday, Nov. 12 — keep an eye out for possible celebrity sightings at the game too.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/culture/product-recommendations/thursday-night-football-2026-watch-nfl-live-online-free-1236341946",
-    "published_at": "2026-11-12T22:00:06+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.301715+00:00",
-    "thin": false,
-    "author": "Rudie Obias",
-    "tags": [
-      "Culture",
-      "Product Recommendations",
-      "how to watch",
-      "nfl",
-      "NOADS",
-      "Prime Video",
-      "sports",
-      "streaming"
-    ]
-  },
-  {
-    "id": "488a1d83a7fee91245c369bb28b5711b2850f61aac8a257af230f610c2fc731f",
-    "title": "FLO, Ravyn Lenae & Durand Bernarr: Who’s Getting Nominated for Best Progressive R&B Album at the 2026 Grammys?",
-    "summary": "The field may not be as wide open as it appears.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/awards/2027-grammy-nomination-predictions-progressive-rb-album-flo-1236378518",
-    "published_at": "2026-11-12T22:00:03+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.301833+00:00",
-    "thin": false,
-    "author": "Kyle-Brandon Denis",
-    "tags": [
-      "Awards",
-      "Music",
-      "genre rb",
-      "Grammys",
-      "music"
-    ]
-  },
-  {
-    "id": "734202bcdcba5c98295b73625ac5e6ced491ab22af3c63a468e8e0a749fd1af0",
-    "title": "Candy Crush Is Celebrating Xbox’s 25th Anniversary With Halo, Fallout, And Doom Crossovers, Including Remixed Music",
-    "summary": "2026 is the 25th anniversary of Xbox, and it's been a tough year for the brand with mass layoffs, studio closures/divestitures, and game cancellations. But the celebrations are still going ahead, including an event from the Xbox-owned Candy Crush mobile game juggernaut. Announced today, Candy Crush Saga is marking the Xbox anniversary with a \"Game On\" season that brings items and elements from Halo, Fallout, Sea of Thieves, Forza, Doom, Banjo-Kazooie, Crash Bandicoot, and Spyro into the game thr",
-    "category": "gaming",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/candy-crush-is-celebrating-xboxs-25th-anniversary-with-halo-fallout-and-doom-crossovers-including-remixed-music",
-    "published_at": "2026-11-12T22:00:00+00:00",
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/doom.png",
-    "collection_timestamp": "2026-11-13T00:53:50.308302+00:00",
-    "thin": false,
-    "author": "Eddie Makuch",
-    "tags": [
-      "Gaming,News"
-    ]
-  },
-  {
-    "id": "84ebca9b207280adf34d23aa64e7923719d63f9034cf37c08fe1a820b3243219",
-    "title": "Kaylee Hottle’s Sister Will Step in to Finish ‘Godzilla vs. Kong’ Actress’ Final Movie Following Her Death",
-    "summary": "Kaylee died in July in a car crash in Maryland, her father, Joshua Hottle, confirmed at the time.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/godzilla-star-kaylee-hottle-sister-finish-final-movie-death-1236754194",
-    "published_at": "2026-11-12T21:58:17+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.300632+00:00",
-    "thin": false,
-    "author": "Carly Thomas",
-    "tags": [
-      "Movie News",
-      "Movies",
-      "Godzilla vs. Kong"
-    ]
-  },
-  {
-    "id": "4a8baa7f7702bd86f07d02a000489981d6876b9d022d92cad978fcfca7908b0f",
-    "title": "‘Survivor 51’ Star Danny Kilby on His Heartbreaking Elimination, Rivalry With Devin and Why His Exit Brought Castaways to Tears",
-    "summary": "The self-described unorthodox leader reveals the strategic move viewers never saw and why winning the million dollars meant so much to him.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/tv/tv-features/survivor-51-danny-kilby-exit-interview-1236754033",
-    "published_at": "2026-11-12T21:54:55+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.300778+00:00",
-    "thin": false,
-    "author": "Terry Terrones",
-    "tags": [
-      "TV",
-      "TV Features",
-      "cbs",
-      "Jeff Probst",
-      "Mark Burnett",
-      "Paramount Plus",
-      "Survivor"
-    ]
-  },
-  {
-    "id": "8d2b673dfdfe59d034455f213eef12a8a2f482bec1f97dc4754562f0e19550b7",
-    "title": "How to Stream the 2026 Latin Grammys Online",
-    "summary": "The 27th Annual Latin Grammy Awards air live on Nov. 12 from the MGM Garden Arena in Las Vegas. Here's how to catch the livestream.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-latin-grammys-2026-streaming-awards-show-free-online-1236754174",
-    "published_at": "2026-11-12T21:52:25+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.300898+00:00",
-    "thin": false,
-    "author": "Erin Lassner",
-    "tags": [
-      "TV",
-      "TV News",
-      "Awards",
-      "how to watch",
-      "Latin Grammys",
-      "Latin Grammys 2026",
-      "music"
-    ]
-  },
-  {
-    "id": "cda0dfa24c6a358de5c6c3185a7fb4024823e9cf44c0113e2a5740c4ee63b8aa",
-    "title": "Gritty Arsenal show different side in Barcelona draw",
-    "summary": "Could a resilient draw against European champions Barcelona be a turning point in Arsenal's season?",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cqe85vym242jo",
-    "published_at": "2026-11-12T21:50:59+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6057/live/b497a8a0-dede-11f1-a75a-dbf83836672c.jpg",
-    "collection_timestamp": "2026-11-13T00:53:50.331784+00:00",
-    "thin": false
-  },
-  {
-    "id": "84731e72ed8024bde0e36988c103e59182a5c25f7c855f0202080b36ebf0eefa",
-    "title": "I feel seen…",
-    "summary": "&#32; submitted by &#32; /u/EmergencyRead5254 &#32; to &#32; r/Millennials [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/Millennials/comments/1xupt3q/i_feel_seen",
-    "published_at": "2026-11-12T21:49:23+00:00",
-    "image_url": "https://preview.redd.it/rssa2lzr591i1.jpeg",
-    "collection_timestamp": "2026-11-13T00:53:50.334175+00:00",
-    "thin": true,
-    "author": "/u/EmergencyRead5254https://www.reddit.com/user/EmergencyRead5254",
-    "tags": [
-      "Millennials"
-    ]
-  },
-  {
-    "id": "e7dae99af4e25442b244fd83ec16ef12c5c6bb0f6c6b7dd854e4da7f914eab15",
-    "title": "I bet tigers would feel so dumb if they knew they were orange to us",
-    "summary": "&#32; submitted by &#32; /u/dooatito &#32; to &#32; r/BrandNewSentence [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/BrandNewSentence/comments/1xuprwp/i_bet_tigers_would_feel_so_dumb_if_they_knew_they",
-    "published_at": "2026-11-12T21:48:08+00:00",
-    "image_url": "https://preview.redd.it/bss7pzoj591i1.jpeg",
-    "collection_timestamp": "2026-11-13T00:53:50.334716+00:00",
-    "thin": false,
-    "author": "/u/dooatitohttps://www.reddit.com/user/dooatito",
-    "tags": [
-      "BrandNewSentence"
-    ]
-  },
-  {
-    "id": "346b2e196fa2300adab6e6031c9d83acd63f51d02a0d46e2d4082e38e51184a0",
-    "title": "Kane scores winner but who else made an impression? England player ratings",
-    "summary": "How did England's players fare in the Nations League match against Croatia? Senior football correspondent Sami Mokbel gives his verdict.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c64gnd7vd912o",
-    "published_at": "2026-11-12T21:47:36+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fbd/live/589bbd20-dee3-11f1-93e1-3b657b665bcf.jpg",
-    "collection_timestamp": "2026-11-13T00:53:50.332278+00:00",
-    "thin": false
-  },
-  {
-    "id": "ae46d53bd0d5ae6fb7439f19d3e49752e763f4bdbd1b6443bacc36224c9c149b",
-    "title": "It’s Not Just Timbaland: Why Are So Many Artists Suing Their Managers Right Now?",
-    "summary": "Disputes between artists and managers are nothing new, but the last year has seen a flood of lawsuits from Timbaland, Muni Long, Ellie Goulding and more.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/pro/why-timbaland-muni-long-artists-suing-their-managers",
-    "published_at": "2026-11-12T21:45:24+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.301966+00:00",
-    "thin": false,
-    "author": "Bill Donahue",
-    "tags": [
-      "Business",
-      "Legal News",
-      "analysis",
-      "lawsuit",
-      "Legal",
-      "Managers",
-      "Music News"
-    ]
-  },
-  {
-    "id": "7779c60ff8c3bf664b99d1fb4ae713cd4b5bc4c3e21b5d04b0ffd79cb7fc7f0d",
-    "title": "How to farm rupees in Zelda Ocarina of Time",
-    "summary": "You have a few rupee farming methods in Zelda Ocarina of Time depending on which timeline you're in. These are the best ways to get rupees in OoT.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-rupee-farming-methods",
-    "published_at": "2026-11-12T21:43:44+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ocarina-of-time-rupee-farm.jpg",
-    "collection_timestamp": "2026-11-13T00:53:50.329571+00:00",
-    "thin": false,
-    "author": "Josh Broadwell",
-    "tags": [
-      "Guides",
-      "The Legend of Zelda: Ocarina of Time"
-    ]
-  },
-  {
-    "id": "59e6d327d00ab2e1b802e34c3039f24a6051dbbbae358fa46f5552070d07cca6",
-    "title": "DMZ key and locations in Modern Warfare 4",
-    "summary": "This guide lists all keys that can be found in Modern Warfare 4's DMZ mode and where to use them.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/mw4-modern-warfare-4-dmz-keys-locations-all-list",
-    "published_at": "2026-11-12T21:30:35+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mw4-dmz-keys-header.jpg",
-    "collection_timestamp": "2026-11-13T00:53:50.329676+00:00",
-    "thin": false,
-    "author": "Ford James",
-    "tags": [
-      "Guides",
-      "Call of Duty: Modern Warfare 4"
-    ]
-  },
-  {
-    "id": "118ad7bf13bb00db88374df93f2c37728c2471cefacade4267c597a4d2729489",
-    "title": "2026 Latin Grammys Livestream: How to Watch the Awards Show Online Free",
-    "summary": "Here’s how to get a stream of tonight’s 27th Annual Latin Grammy Awards, live from Las Vegas",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/stream-latin-grammy-awards-2026-online-free-without-cable-1235656303",
-    "published_at": "2026-11-12T21:30:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.302740+00:00",
-    "thin": false,
-    "author": "Oscar Hartzog",
-    "tags": [
-      "TV & Movies",
-      "TV & Movies News",
-      "Daddy Yankee",
-      "Latin Grammys",
-      "noads",
-      "Rosalia",
-      "RS Recommends",
-      "streaming"
-    ]
-  },
-  {
-    "id": "4179fc7459f0c7b7479392b71f0cc2cddc0fd326d7a9882d5212c0209b13ff95",
-    "title": "WCGW trying to escape police grappler.",
-    "summary": "&#32; submitted by &#32; /u/Hessian_Rodriguez &#32; to &#32; r/Whatcouldgowrong [link] &#32; [comments]",
-    "category": "technology",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/Whatcouldgowrong/comments/1xup9g9/wcgw_trying_to_escape_police_grappler",
-    "published_at": "2026-11-12T21:27:53+00:00",
-    "image_url": "https://external-preview.redd.it/ZGI2MXVnOHcxOTFpMWwXKIjAkVTkifRi7AUP3wUHOBI6hZtPLHuxcpbJEVo2.png",
-    "collection_timestamp": "2026-11-13T00:53:50.336074+00:00",
-    "thin": false,
-    "author": "/u/Hessian_Rodriguezhttps://www.reddit.com/user/Hessian_Rodriguez",
-    "tags": [
-      "Whatcouldgowrong"
-    ]
-  },
-  {
-    "id": "d1d39bf55d5fdeb9f4c3296e3e0d76b9f4dd4adbe9d75648979164c2f75d5603",
-    "title": "Kim Gordon on Her Signature Fender Guitar: ‘It’s Just a Very Meaty Sound’",
-    "summary": "The rock icon discusses her new signature Jazzmaster, and why she's \"rethinking\" how to approach her next album",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/product-recommendations/lifestyle/kim-gordon-fender-signature-jazzmaster-guitar-interview-1235656111",
-    "published_at": "2026-11-12T21:25:39+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.302862+00:00",
-    "thin": false,
-    "author": "Jonathan Zavaleta",
-    "tags": [
-      "Lifestyle",
-      "RS Recommends",
-      "Guitar",
-      "Kim Gordon",
-      "noads"
-    ]
-  },
-  {
-    "id": "4fd29b00ff8332f1361c29ec98d0e6a81726c6ba61e6ef7f7655ebee7a5d95af",
-    "title": "Throwback to Senator-elect James Talarico confronting a Fox News host: \"You have made a lot of money personally, and you’ve enriched a lot of corporations with advertising by getting on here and spewing lies and conspiracy theories to folks who trust you.\" (July 14, 2021)",
-    "summary": "&#32; submitted by &#32; /u/No-Hall-3485 &#32; to &#32; r/Fauxmoi [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/Fauxmoi/comments/1xup680/throwback_to_senatorelect_james_talarico",
-    "published_at": "2026-11-12T21:24:26+00:00",
-    "image_url": "https://external-preview.redd.it/b3cwMWhkcTAxOTFpMYYdIo6hDr4G1vbd0bPFDnUy_mr6cmgMtRF6mv3uPHrs.png",
-    "collection_timestamp": "2026-11-13T00:53:50.338600+00:00",
-    "thin": false,
-    "author": "/u/No-Hall-3485https://www.reddit.com/user/No-Hall-3485",
-    "tags": [
-      "Fauxmoi"
-    ]
-  },
-  {
-    "id": "5caa21dc03c52b399102ad657ad4039aa009fd91d2fe5c86eca6430a252cdc8c",
-    "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
-    "summary": "Cisco is trying to become a bigger player in AI after missing out on the early years of the boom.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
-    "published_at": "2026-11-12T21:20:35+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.330271+00:00",
-    "thin": false
-  },
-  {
-    "id": "7ee9e0c3b04a2bd34665a2993a12bc00a569a0aae945b7c924c246a5cbb9ea3b",
-    "title": "Nvidia stock closes down over 4% after CEO Jensen Huang announces resignation",
-    "summary": "Chief Financial Officer Colette Kress will serve as interim CEO until a new leader is appointed.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
-    "published_at": "2026-11-12T21:17:21+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.331104+00:00",
-    "thin": false
-  },
-  {
-    "id": "7c354a90f1c86be7fcbb5cacaaa31ab8dd0992b7f469441a4a1eadc9d9cc1ddd",
-    "title": "SFA in talks with Boston officials over biennial friendly match",
-    "summary": "Discussions take place between Scottish football governing's body and a delegation of state senators to build on bonds forged during the World Cup.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/news/articles/cqdr1jd5mpp5o",
-    "published_at": "2026-11-12T21:16:56+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51fa/live/0eea4910-687a-11f1-be92-f5f7087bcfc7.jpg",
-    "collection_timestamp": "2026-11-13T00:53:50.332776+00:00",
-    "thin": false
-  },
-  {
-    "id": "eb922ef2677530cd3e685adfa57ade231102a972b0551e749e85b521b82f2933",
-    "title": "Man Utd & Man City in Gusto battle - Friday's gossip",
-    "summary": "Manchester United and Manchester City are going head-to-head for Chelsea defender Malo Gusto and Leeds United pursue Will Lankshear, plus more.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cmp86enlly13o",
-    "published_at": "2026-11-12T21:13:59+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f120/live/31d11dd0-ded3-11f1-b441-2b33b063138f.png",
-    "collection_timestamp": "2026-11-13T00:53:50.332152+00:00",
-    "thin": false
-  },
-  {
-    "id": "3acf384be2539ffa16b01242d1ac80cb1913162c6a719547ad3ba0d26eb73882",
-    "title": "NBC News Now To End West Coast-Based Primetime Show ‘Stay Tuned’",
-    "summary": "NBC News Now has dropped its primetime show Stay Tuned, one of the few network shows to originate from Los Angeles. Gadi Schwartz, anchor of the 8 p.m. ET streaming series, will remain with the network, according to a source familiar with the decision. The cancellation impacts about a dozen positions, with those staffers given [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/nbc-news-now-cancels-stay-tuned-gadi-schwartz-1237222077",
-    "published_at": "2026-11-12T21:11:42+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2023/01/Gadi-NNN.jpeg",
-    "collection_timestamp": "2026-11-13T00:53:50.298891+00:00",
-    "thin": false,
-    "author": "Ted Johnson",
-    "tags": [
-      "Cancellations and Renewals",
-      "News",
-      "Politics",
-      "ElectionLine",
-      "Gadi Schwartz",
-      "NBC News Now",
-      "Stay Tuned"
-    ]
-  },
-  {
-    "id": "52f100139a114a99ac3678c30a3c11c0c1e4721283590d8b4a09a2901f5a9db1",
-    "title": "New Doom Game Seemingly Announced In The Weirdest Way After Half The Studio Was Laid Off",
-    "summary": "Xbox CEO Asha Sharma has announced that id Software is officially working on a new game, believed to be another Doom title. This is happening after Sharma oversaw id Software losing half of its staff to layoffs that were part of the Xbox \"reset.\" Id Software replied to Sharma's post on Twitter to provide a few more details on the new game, which the team didn't say was a Doom game, but everyone suspects it will be. The studio said it's \"incredibly excited\" about the new game, which is in the wor",
-    "category": "gaming",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/new-doom-game-seemingly-announced-in-the-weirdest-way-after-half-the-studio-was-laid-off",
-    "published_at": "2026-11-12T21:07:28+00:00",
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/DoomGame.jpg",
-    "collection_timestamp": "2026-11-13T00:53:50.308980+00:00",
-    "thin": false,
-    "author": "Eddie Makuch",
-    "tags": [
-      "Gaming,News"
-    ]
-  },
-  {
-    "id": "8d3375006c93c42c3042259ed63e9e01f384d01093c56014beeaa77606016158",
-    "title": "‘The Body’ Creators Address Show’s “Unexplained Mysteries”, Tease Season 2 Hopes",
-    "summary": "SPOILER ALERT: This post contains spoilers for The Body now streaming on Netflix. Though Netflix’s new YA horror series The Body thrives on mass hysteria, or “group think” as creator Quinn Shephard calls it, Shephard and co-showrunner Gina Gammell stress that there are no wrong individual interpretations of the first season’s ending and what happened [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/the-body-ending-explained-by-creators-season-2-hopes-1237221976",
-    "published_at": "2026-11-12T21:00:00+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/The_Body_n_S1_E4_00_08_15_07RC.jpg",
-    "collection_timestamp": "2026-11-13T00:53:50.299080+00:00",
-    "thin": false,
-    "author": "Dessi Gomez",
-    "tags": [
-      "News",
-      "Gina Gammell",
-      "Netflix",
-      "Quinn Shephard",
-      "The Body"
-    ]
-  },
-  {
-    "id": "a16e3a0558f6d81f2ed551490c3b48150d1c255841bfa68dfee2ac0fd73e6523",
-    "title": "Here’s How to Watch ‘Southern Charm’ Season 12 Online for Free",
-    "summary": "The new season premieres on Bravo starting Thursday, Nov. 12 — watch online for free.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/culture/product-recommendations/southern-charm-nov-2026-how-to-watch-stream-online-free-1236379620",
-    "published_at": "2026-11-12T20:59:14+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.302089+00:00",
-    "thin": false,
-    "author": "Rudie Obias",
-    "tags": [
-      "Culture",
-      "Product Recommendations",
-      "bravo",
-      "how to watch",
-      "NOADS",
-      "peacock",
-      "streaming"
-    ]
-  },
-  {
-    "id": "3774a2ce24a4c983b177c1eaf621114dbe99c754194ceafafd3e3067036f6eab",
-    "title": "Meirl",
-    "summary": "&#32; submitted by &#32; /u/Spiritual-Pudding-70 &#32; to &#32; r/meirl [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/meirl/comments/1xuoihh/meirl",
-    "published_at": "2026-11-12T20:58:01+00:00",
-    "image_url": "https://preview.redd.it/xlhz8g5mw81i1.jpeg",
-    "collection_timestamp": "2026-11-13T00:53:50.336272+00:00",
-    "thin": true,
-    "author": "/u/Spiritual-Pudding-70https://www.reddit.com/user/Spiritual-Pudding-70",
-    "tags": [
-      "meirl"
-    ]
-  },
-  {
-    "id": "c33f7d4fe6700732bbcf67fe153096491d451d5e2e03bd4ff5d2d58c0dcd253f",
-    "title": "Deftones to Give ‘Private Music’ Public Offering on Spring Tour",
-    "summary": "Knocked Loose and Julie will support the alt-metal group on North American dates beginning in May",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-news/deftones-knocked-loose-julie-north-american-tour-1235656707",
-    "published_at": "2026-11-12T20:54:13+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.302976+00:00",
-    "thin": false,
-    "author": "Kory Grow",
-    "tags": [
-      "Music",
-      "Music News",
-      "Deftones",
-      "knocked loose"
-    ]
-  },
-  {
-    "id": "2b80301bdf354170e5bedc978faf6ac98f32539e15b5e10ab9f9b883b90c2fde",
-    "title": "Rapper Tay-K Loves Olivia Rodrigo’s Music, Listens to Her Behind Bars: ‘I F–k With That S–t’",
-    "summary": "\"If I told you the s--t I listen to, you wouldn't expect none of it,\" he said in a new interview.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/rb-hip-hop/tay-k-loves-olivia-rodrigo-music-behind-bars-1236380502",
-    "published_at": "2026-11-12T20:53:19+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.302209+00:00",
-    "thin": false,
-    "author": "Michael Saponara",
-    "tags": [
-      "Music",
-      "R&B/Hip-Hop",
-      "genre hiphop",
-      "Music News"
-    ]
-  },
-  {
-    "id": "6d2322ef2626fea26082cba5b6180dfa7e96d0a7a3396c9b40e24c2c71979e12",
-    "title": "‘The Two Popes’ Producer Mark Bauch Launches Film & TV Company One Day’s Walk",
-    "summary": "EXCLUSIVE: Producer Mark Bauch is opening the doors to One Day’s Walk, a film and television production company dedicated to championing visionary filmmakers, bold original storytelling and entertainment with substance. The new banner arrives with a slate of film and television projects including collaborations with Netflix, Artists Equity, Working Title, Rideback, Bosque Ranch and Jigsaw [&#8230;]",
-    "category": "entertainment",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/mark-bauch-one-days-walk-1237222061",
-    "published_at": "2026-11-12T20:52:53+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Mark-Bauch.jpg",
-    "collection_timestamp": "2026-11-13T00:53:50.299275+00:00",
-    "thin": false,
-    "author": "Anthonypauldalessandro",
-    "tags": [
-      "News",
-      "Mark Bauch",
-      "One Day&#039;s Walk"
-    ]
-  },
-  {
-    "id": "0239b4b84d10720bae8c18e6114bcacdbe8b4a020a9cab7a51ec1e7aea60b10d",
-    "title": "Jensen Huang Allegedly Had A Third Affair—With Another Nvidia Employee, Report Says",
-    "summary": "&#32; submitted by &#32; /u/DaRealAyman &#32; to &#32; r/pcmasterrace [link] &#32; [comments]",
-    "category": "technology",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/pcmasterrace/comments/1xunv8u/jensen_huang_allegedly_had_a_third_affairwith",
-    "published_at": "2026-11-12T20:32:15+00:00",
-    "image_url": "https://external-preview.redd.it/-5finBjJ4OQ_lgy3uITJWl56B9qdbiQlWEt38zZW1Uw.jpeg",
-    "collection_timestamp": "2026-11-13T00:53:50.338882+00:00",
-    "thin": false,
-    "author": "/u/DaRealAymanhttps://www.reddit.com/user/DaRealAyman",
-    "tags": [
-      "pcmasterrace"
-    ]
-  },
-  {
-    "id": "463b63dc18385e71c0772ccd3ff6a1323ac48b4f96e78e85a3fbf90d402ce858",
-    "title": "All That’s Left of a 12 Year Marriage",
-    "summary": "My former wife and I share the dog we got while we were married. 99% of our communication is about Jasmine. It’s been two years since the person I want to spend my life with told me she wanted a divorce. I try to respect the fact she wants nothing to do with me by keeping things brief and staying out of her way. I still love her and part of me still gets excited when I see a text from her for a fleeting moment until I remember it’s just about the dog. One day, the dog will be gone and I won’t ev",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/texts/comments/1xunp1x/all_thats_left_of_a_12_year_marriage",
-    "published_at": "2026-11-12T20:25:33+00:00",
-    "image_url": "https://preview.redd.it/fhyvjjktq81i1.jpeg",
-    "collection_timestamp": "2026-11-13T00:53:50.337330+00:00",
-    "thin": false,
-    "author": "/u/idle_wanderlusthttps://www.reddit.com/user/idle_wanderlust",
-    "tags": [
-      "texts"
-    ]
-  },
-  {
-    "id": "3eb34ee6e1c9183efcc34b0d176d707ddd75685842fdc65885873068d9063b91",
-    "title": "United Airlines won’t let AI agents book your flight. Expert says you shouldn't let a bot do that for you, anyway",
-    "summary": "AI agents can save you time, but an expert says decisions involving your health, wealth and privacy still need human input.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/make-it/2026/11/12/ai-agents-human-in-loop.html",
-    "published_at": "2026-11-12T20:24:59+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.330994+00:00",
-    "thin": false
-  },
-  {
-    "id": "b4047a735fea4ba078864cd68a35af91b37ddd1f423b22328feed231d17f1845",
-    "title": "Jensen Huang Had A Third Affair—With Another Nvidia Employee",
-    "summary": "&#32; submitted by &#32; /u/lebron_chitis &#32; to &#32; r/technology [link] &#32; [comments]",
-    "category": "technology",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/technology/comments/1xunjfl/jensen_huang_had_a_third_affairwith_another",
-    "published_at": "2026-11-12T20:19:32+00:00",
-    "image_url": "https://external-preview.redd.it/-5finBjJ4OQ_lgy3uITJWl56B9qdbiQlWEt38zZW1Uw.jpeg",
-    "collection_timestamp": "2026-11-13T00:53:50.335235+00:00",
-    "thin": false,
-    "author": "/u/lebron_chitishttps://www.reddit.com/user/lebron_chitis",
-    "tags": [
-      "technology"
-    ]
-  },
-  {
-    "id": "6554b47252a7ce6c5571dfdae9c40be38f6e8a14970df1765fa18e227777741d",
-    "title": "Joe Biden Says President Trump Sent Him a Letter That ‘Sounded Like It Was Coming From An Old Friend’",
-    "summary": "The contents of the letter are revealed for the first time in Promise Me, America , Biden's memoir about his time in the White House",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/product-recommendations/books/joe-biden-memoir-promise-me-america-trump-story-read-online-1235656783",
-    "published_at": "2026-11-12T20:17:51+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.303110+00:00",
-    "thin": false,
-    "author": "Tim Chan",
-    "tags": [
-      "Books",
-      "RS Recommends",
-      "Donald Trump",
-      "noads",
-      "President Joe Biden"
-    ]
-  },
-  {
-    "id": "bfbc55a24912593b64c3a34a5a66b1da3850bd7598ca3049c579a1fd56d0bd99",
-    "title": "Games Will Have A Physical Footprint Forever, Take-Two Boss Says, But It’ll Be “Very Small”",
-    "summary": "It's no secret that the market for physical video games is drying up, but don't expect physical media for gaming to go away entirely anytime soon, or ever, according to Take-Two's Strauss Zelnick. He told The Game Business that it \"may not be the end\" for physical media entirely in games, even with Sony killing off PlayStation discs in 2028 . He said there will \"always be some physical business\" for gaming, but it will be a \"very small part of the business.\" Lucia and Jason in GTA 6. He likened",
-    "category": "gaming",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/games-will-have-a-physical-footprint-forever-take-two-boss-says-but-itll-be-very-small",
-    "published_at": "2026-11-12T20:12:18+00:00",
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_17.jpg",
-    "collection_timestamp": "2026-11-13T00:53:50.309757+00:00",
-    "thin": false,
-    "author": "Eddie Makuch",
-    "tags": [
-      "Gaming,News"
-    ]
-  },
-  {
-    "id": "688e2b4e53b594e120c9d2678702914093f90312c074a3e0f7b9dc108e9aa19b",
-    "title": "Arsenal dig in for draw at Barcelona to extend unbeaten start",
-    "summary": "Arsenal extend their unbeaten start to four matches in the Uefa Women's Champions League, as they produce a dogged display to hold Barcelona to a 1-1 draw at the Camp Nou. The point moves Renee Slegers' side into the top four, putting them in a great position to automatically qualify for the knockout stages.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/crlye55q790yo",
-    "published_at": "2026-11-12T20:09:07+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17d7/live/103dfe40-ded3-11f1-b441-2b33b063138f.jpg",
-    "collection_timestamp": "2026-11-13T00:53:50.332465+00:00",
-    "thin": false
-  },
-  {
-    "id": "511f010ee64bde4c3cb01d87546bc571bf36416387491d12bda59ad5d34f5257",
-    "title": "Avengers Endgame Encore OTT Release: When and Where to Watch Superhero Film With Added Footage Online Before Doomsday",
-    "summary": "Avengers Endgame: Encore, a re-release version of 2019&#39;s Avengers: Endgame, was released in theatres on September 25, 2026. Ahead of the release of Avengers: Doomsday in December this year, here are the OTT details of the movie. When and where to watch Avengers Endgame: Encore Avengers Endgame: Encore is set to premiere on the OTT platform Disney+ and will be available to stream online from November 13, 2026. Viewers in India can watch the film on JioHotstar from Friday. Here are the officia",
-    "category": "entertainment",
-    "source": "Pinkvilla",
-    "url": "https://www.pinkvilla.com/entertainment/hollywood/avengers-endgame-encore-ott-release-when-and-where-to-watch-superhero-film-with-added-footage-online-before-doomsday-1406414",
-    "published_at": "2026-11-12T20:04:03+05:30",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.132793+00:00",
-    "thin": false
-  },
-  {
-    "id": "72593c3474afc5e743ea5195b91c5e263dd889d9577c86985c8f3831955b4ab4",
-    "title": "‘Ramayana: Rise Of A Legend’ Powers Past $100M+ At Global Box Office",
-    "summary": "Prime Focus Studio and Sony&#8217;s Diwali event movie Ramayana: Rise of a Legend has risen past the century mark at the worldwide box office, with $67.1M of that figure coming from its homeland of India alone. The Nitesh Tiwari-directed epic about Prince Rama from childhood to his 14-year exile counts a running global total of [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/box-office-ramayana-rise-of-a-legend-1237222031",
-    "published_at": "2026-11-12T20:03:22+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/MCDRAMA_SP002.jpg",
-    "collection_timestamp": "2026-11-13T00:53:50.299442+00:00",
-    "thin": false,
-    "author": "Anthonypauldalessandro",
-    "tags": [
-      "News",
-      "Ramayana: Rise of a Legend"
-    ]
-  },
-  {
-    "id": "bc83dbcba369fdd94c6f57f42140f0c6948d71cdd7d2c4e6b9d9304b457c2b6e",
-    "title": "Jensen Huang Allegedly Had Multiple Affairs. Did It Make Him More Vulnerable to Espionage?",
-    "summary": "‘Anyone who’s living a double life has vulnerabilities that could be exploited,’ says a former FBI agent",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/culture/culture-features/jensen-huang-nvidia-honeypot-espionage-1235656608",
-    "published_at": "2026-11-12T20:01:48+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.303235+00:00",
-    "thin": false,
-    "author": "Kate Storey",
-    "tags": [
-      "(Sub)Culture Features",
-      "Culture",
-      "Artificial intelligence",
-      "NVIDIA",
-      "spying"
-    ]
-  },
-  {
-    "id": "74cfdda04f9951519a920a73e77dd2ab0273ad68d03294be113bda0ecc562716",
-    "title": "Takeoff’s Estate Resolves Sex Assault Lawsuit Two Weeks Before Trial",
-    "summary": "The late rapper’s estate announced an expected dismissal of the lawsuit at a hearing Thursday",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-news/takeoff-estate-resolves-sex-assault-lawsuit-trial-1235656626",
-    "published_at": "2026-11-12T20:01:40+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.303370+00:00",
-    "thin": false,
-    "author": "Nancy Dillon",
-    "tags": [
-      "Music",
-      "Music News",
-      "controversy",
-      "courts and crime",
-      "Migos",
-      "Takeoff"
-    ]
-  },
-  {
-    "id": "189d5c6d514961bc898d72af5bc423c2d95643b8d537fc5b2afbfb72ee6dfd06",
-    "title": "Jensen Huang is out and Nvidia stock is down—what market pros say about buying dips",
-    "summary": "Nvidia stock fell 5% on Thursday following the departure of CEO Jensen Huang. Some see it as a signal to sell, others an opportunity to buy.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/make-it/2026/11/12/nvidia-what-market-pros-say-about-buying-dips.html",
-    "published_at": "2026-11-12T20:01:29+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.330387+00:00",
-    "thin": false
-  },
-  {
-    "id": "910b0f4cd5d015fb2e923bad066fbb8f76a9cdde7ca62a3a3a0fd39676f47517",
-    "title": "Who will replace Jensen Huang? Here's our early thoughts on the search for Nvidia's next CEO",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/11/12/jensen-huang-ceo-replacement-jim-cramer.html",
-    "published_at": "2026-11-12T20:00:42+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.330856+00:00",
-    "thin": false
-  },
-  {
-    "id": "dc97a35444fe69dfe825ffc579186a58cc06137c8837cd40ab8efd8c15cbfbdd",
-    "title": "Tash Sultana Turns ‘Hell Into Magic’ on New Album",
-    "summary": "On Sonic Alchemy , the musician lays bare the past two years, and collaborates with living legend Snoop Dogg and Free Nationals",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-features/tash-sultana-new-album-sonic-alchemy-1235656014",
-    "published_at": "2026-11-12T20:00:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.303491+00:00",
-    "thin": false,
-    "author": "Charisma Madarang",
-    "tags": [
-      "Music",
-      "Music Features",
-      "Tash Sultana"
-    ]
-  },
-  {
-    "id": "e82623a247f385f5c089118af7844ddae78760e71386c94de790571c3979672b",
-    "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-    "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers",
-    "published_at": "2026-11-12T19:59:59+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg",
-    "collection_timestamp": "2026-11-13T00:53:50.306866+00:00",
-    "thin": false,
-    "author": "Jeremy Hsu",
-    "tags": [
-      "AI",
-      "Tech",
-      "ai data centers",
-      "ars live",
-      "Ars Live Chat",
-      "Ars Live Conversations",
-      "data centers",
-      "donald trump iran war",
-      "Drone strikes",
-      "Iran",
-      "russia",
-      "Russia invasion of Ukraine",
-      "Russia war on Ukraine",
-      "Russian invasion of Ukraine",
-      "Russian war on Ukraine",
-      "Ukraine",
-      "Ukraine war",
-      "USA-Iran War"
-    ]
-  },
-  {
-    "id": "faf574bf60dd80adb802c551d9cb2118097d6fbf6bf00f9c356e710ec1cb6255",
-    "title": "A dad joke for you white collar folks",
-    "summary": "&#32; submitted by &#32; /u/CinemaSideBySides &#32; to &#32; r/funny [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/funny/comments/1xumzfw/a_dad_joke_for_you_white_collar_folks",
-    "published_at": "2026-11-12T19:58:14+00:00",
-    "image_url": "https://preview.redd.it/tajr850wl81i1.png",
-    "collection_timestamp": "2026-11-13T00:53:50.336952+00:00",
-    "thin": false,
-    "author": "/u/CinemaSideBySideshttps://www.reddit.com/user/CinemaSideBySides",
-    "tags": [
-      "funny"
-    ]
-  },
-  {
-    "id": "5fb1c56190138c005241fbe62200df154b37029bbb4955ab6f2690ddad2c48f9",
-    "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
-    "summary": "The retention of Wachtell, Lipton for the Nvidia probe comes on the heels of the law firm's investigation for the NBA into the Los Angeles Clippers.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
-    "published_at": "2026-11-12T19:58:11+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.330501+00:00",
-    "thin": false
-  },
-  {
-    "id": "0d0b7b7a67bd0f5650219b90d52b36bddaf7b450b9a9d82964c5cee2241dae13",
-    "title": "Marvel’s Kevin Feige Breaks Silence on MCU Doctor Doom Being a Tony Stark Variant",
-    "summary": "Marvel Studios Kevin Feige has shot down the idea that Avengers Doomsday's Doctor Doom is a variant of Tony Stark.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/avengers-doomsday-doctor-doom-tony-start-variant-theory",
-    "published_at": "2026-11-12T19:50:53+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/avengers_-doomsday-_-special-look-_-in-theaters-december-18-1-40-screenshot.jpg",
-    "collection_timestamp": "2026-11-13T00:53:50.329803+00:00",
-    "thin": false,
-    "author": "Austin Manchester",
-    "tags": [
-      "News",
-      "Movies",
-      "Marvel",
-      "Avengers: Doomsday"
     ]
   }
 ]
