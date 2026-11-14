@@ -1,5 +1,23 @@
 [
   {
+    "id": "025a8e79e82fa3e867ad3a8b86631586ecaa018c334a5e56fe139b59aed5feae",
+    "title": "BBC Studios Hires Former Amazon Exec Bree Frank In Production Role",
+    "summary": "BBC Studios has named Bree Frank as SVP, Production. The Dancing with the Stars producer has hired Frank from Evolution Media, the Amazon MGM Studios-owned producer, where she worked on series including The Real Housewives of Rhode Island, The Real Housewives of Beverly Hills and The Real Housewives of Orange County. In the role, she [&#8230;]",
+    "category": "technology",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/bbc-studios-bree-frank-1237223469",
+    "published_at": "2026-11-13T22:46:35+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/split-image-1500_018892.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.244499+00:00",
+    "thin": false,
+    "author": "Peterdeadline",
+    "tags": [
+      "News",
+      "BBC Studios",
+      "Bree Frank"
+    ]
+  },
+  {
     "id": "3ec1e8ef535637fed1521ebedcdc0f59115cabfa57f92042d41b685a230d6150",
     "title": "Trump’s Cabinet Is in Disarray Over Nvidia’s Honeypot Disaster",
     "summary": "Commerce Secretary Howard Lutnick took it easy on disgraced CEO Jensen Huang. His colleagues aren't happy",
@@ -22,6 +40,44 @@
       "Jensen Huang",
       "NVIDIA",
       "Scott Bessent"
+    ]
+  },
+  {
+    "id": "f20d99676a0e2850a986f4be57512c55fd440c8766a46e5e07154411df1a4321",
+    "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+    "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+    "published_at": "2026-11-13T20:53:04-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.249639+00:00",
+    "thin": false,
+    "author": "Richard Lawler",
+    "tags": [
+      "Mass Transit",
+      "News",
+      "Transportation"
+    ]
+  },
+  {
+    "id": "f2d4fd16391c6939bab92bdd5bed371402ffebbb28d998b05d8f5c62ba8b74f6",
+    "title": "Amazon has a plan to index the world’s online shopping data",
+    "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+    "published_at": "2026-11-13T18:49:11-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.249834+00:00",
+    "thin": false,
+    "author": "Stevie Bonifield",
+    "tags": [
+      "AI",
+      "Amazon",
+      "News",
+      "Online Shopping",
+      "Tech"
     ]
   },
   {
@@ -2388,94 +2444,6 @@
     "author": "Janko Roettgers",
     "tags": [
       "Features"
-    ]
-  },
-  {
-    "id": "73dbdaf22e4eb1a2363152b0573a33342f80dd75fa4a371ffff06f7160b1308e",
-    "title": "People are still bothered by my use of Android devices 😑",
-    "summary": "This one will be short. I&#39;ve always preferred Android over iOS. Always bought myself flagship devices, so they&#39;re just as capable as any other iPhone of that same year. I&#39;ve gotten complaints/disses of adding green bubbles to a group chat, not being able to receive anything over airdrop, not being able to Facetime, not taking pics &quot;as good&quot; as an iPhone Pro, etc etc. Why are these grown ass adults so triggered by their perceived inconveniences? This is getting SO old in thi",
-    "category": "technology",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/GirlDinnerDiaries/comments/1xr7deu/people_are_still_bothered_by_my_use_of_android",
-    "published_at": "2026-11-08T19:51:57+00:00",
-    "image_url": "https://preview.redd.it/9xlnhxg61g0i1.jpeg",
-    "collection_timestamp": "2026-11-09T04:38:17.310791+00:00",
-    "thin": false,
-    "author": "/u/giggly_pufffhttps://www.reddit.com/user/giggly_pufff",
-    "tags": [
-      "GirlDinnerDiaries"
-    ]
-  },
-  {
-    "id": "fa97c84e1c0cc9f09f077d08d0ba4b4a38f996dc7a912a2344cc5df2bb124278",
-    "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-    "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-    "published_at": "2026-11-08T17:54:50-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T23:53:11.673797+00:00",
-    "thin": false,
-    "author": "Terrence O’Brien",
-    "tags": [
-      "AI",
-      "News",
-      "Nvidia",
-      "Tech"
-    ]
-  },
-  {
-    "id": "4d87a67f289edad516b677cd4417541aa1ce7d71f5e07f3c3571e8b4dfd1fbd2",
-    "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
-    "summary": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems. [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
-    "published_at": "2026-11-08T17:37:22-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T23:53:11.674023+00:00",
-    "thin": false,
-    "author": "Terrence O’Brien",
-    "tags": [
-      "Column",
-      "Entertainment",
-      "Music",
-      "Music Review"
-    ]
-  },
-  {
-    "id": "8e7c19d3e83054524afa98b74c8c683ad96f1264fc2027ea2eeccbbc7e3cb380",
-    "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
-    "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-    "published_at": "2026-11-08T15:22:39-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T13:37:24.689800+00:00",
-    "thin": false,
-    "author": "Terrence O’Brien",
-    "tags": [
-      "AI",
-      "News"
-    ]
-  },
-  {
-    "id": "93b42eee543c8c795b0916d65fab6fabafe3dd0971db1e6759c352eb06fd160a",
-    "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-    "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-    "published_at": "2026-11-08T15:22:39-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T23:53:11.674485+00:00",
-    "thin": false,
-    "author": "Terrence O’Brien",
-    "tags": [
-      "AI",
-      "News"
     ]
   }
 ]

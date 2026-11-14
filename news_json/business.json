@@ -1,5 +1,53 @@
 [
   {
+    "id": "8c3bd390301c04be8b6bb5c7cae31716e461bff0cbdaf44cb09f301276433858",
+    "title": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
+    "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, disrupting thousands of departing of flights.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+    "published_at": "2026-11-14T01:54:38+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.266194+00:00",
+    "thin": false
+  },
+  {
+    "id": "7558cfd0d5e04d40da5c1228c2670fa14f058c423b6f204a7034b24a23d0b58a",
+    "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+    "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+    "published_at": "2026-11-14T01:34:11+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.266324+00:00",
+    "thin": false
+  },
+  {
+    "id": "e8637e73888c65e08d1f3591664c4b338e5d5b5d1d6d4cf53298b0f6aaeed005",
+    "title": "SpaceX launches Starship in key test flight of massive rocket",
+    "summary": "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
+    "published_at": "2026-11-14T01:18:51+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.266464+00:00",
+    "thin": false
+  },
+  {
+    "id": "704f561a3cf735b26db7b886aa37d29a1cbe6e6190807944e779ea549970c196",
+    "title": "Hackers stole $6.3 billion from Binance—2 habits that take 'a few seconds' can help you avoid similar traps",
+    "summary": "Researchers from the Digital Inquiry Group say that two habits that take just \"a few seconds up front\" can help keep you from being \"duped\" online.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/make-it/2026/11/13/binance-hack-2-online-habits-that-can-help-you-avoid-scams-.html",
+    "published_at": "2026-11-13T22:06:55+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.266696+00:00",
+    "thin": false
+  },
+  {
     "id": "96a49ef1af8e5418d054392968432e221f8324af7c3f9665df50ce69d267ddc7",
     "title": "Goldman Sachs looks to cash in on big IPOs twice. Anthropic’s historic deal is its next chance",
     "summary": "While co-leading the offering, Goldman also wants a shot at managing the billions of dollars in new wealth that the deal creates. It's not the only one.",
@@ -2481,54 +2529,6 @@
     "published_at": "2026-11-08T21:53:02+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-08T23:53:11.675836+00:00",
-    "thin": false
-  },
-  {
-    "id": "2abba1f7ba85af8c529f8e9bbfe4035e801a44e6de8130260ea3a64f5e942532",
-    "title": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
-    "summary": "Democrats have vowed to investigate both President Donald Trump's White House and businesses that have worked with the administration.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
-    "published_at": "2026-11-08T18:57:56+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.987354+00:00",
-    "thin": false
-  },
-  {
-    "id": "eb818f2324170e07a24204bd88a1e41a88708f81c4f09518e68fc21ca0015994",
-    "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
-    "summary": "Lawmakers want to question Nvidia CEO Jensen Huang following reports about his relationship with an alleged Chinese intelligence asset.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
-    "published_at": "2026-11-08T18:18:30+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.987239+00:00",
-    "thin": false
-  },
-  {
-    "id": "953df1772b48bb8d88c6d80a2a2a16f8498f87ddd2dba0bb33f48b11f90386f5",
-    "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
-    "summary": "CoreWeave earnings and inflation data will take center stage.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/11/08/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-    "published_at": "2026-11-08T17:40:15+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.987544+00:00",
-    "thin": false
-  },
-  {
-    "id": "ab72201be9123235dbe0842eb0abd42f7870a28112c78b0ce6cf002908b10dbd",
-    "title": "How Democrats will try to end Trump's tariffs",
-    "summary": "Rep. Hakeem Jeffries, D-N.Y., who is likely the next House speaker, has made clear that ending President Trump's tariffs is one of Democrats' top priorities.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
-    "published_at": "2026-11-08T15:36:39+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T15:47:08.535177+00:00",
     "thin": false
   }
 ]

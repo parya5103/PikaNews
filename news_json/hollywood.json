@@ -1,5 +1,573 @@
 [
   {
+    "id": "db3c8e6c7c18a1b3631e9092689d5dd63254881d7f7beac36bb5bf0a5be7f232",
+    "title": "Nationwide FAA Ground Stop Lifted; Radar “Instability,” Old System Was Root Of Airspace Shutdown, Transportation Secretary Insists",
+    "summary": "The Federal Aviation Administration has “lifted” today&#8217;s nationwide grounding of flights. According to Transportation Secretary Sean Duffy, the root cause of the crisis was a radar “instability&#8221; issue that led to the shutting down this afternoon of domestic airspace. In great part, the antiquated system was overwhelmed, Duffy said. &#8220;It was the old hardware that [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/faa-shutdown-lifted-radar-1237223564",
+    "published_at": "2026-11-14T01:48:37+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/sf-airports.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.243069+00:00",
+    "thin": false,
+    "author": "Dominic Patten",
+    "tags": [
+      "News",
+      "Politics",
+      "Donald Trump",
+      "FAA",
+      "FAA Shutdown"
+    ]
+  },
+  {
+    "id": "ec27e6f3ac0e4ffa2340d382f985c0c05a2eed9e88c22190be53e05141e9bfef",
+    "title": "FAA Ground Stoppage Could Impact One Of Hollywood’s Busiest Weekends",
+    "summary": "UPDATED with FAA lifting the ground stop: The FAA&#8217;s nationwide ground stoppage has been lifted, but, coming on the eve of one of the entertainment industry&#8217;s busiest weekends, the residual effects could affect numerous entertainment industry events as organizers scramble to determine if attendees will be able to make it to the events. One of [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/faa-ground-stoppage-hollywood-weekend-events-impact-1237223500",
+    "published_at": "2026-11-14T01:45:00+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2304487977.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.243257+00:00",
+    "thin": false,
+    "author": "Denise Petski",
+    "tags": [
+      "News",
+      "FAA",
+      "FAA Shutdown",
+      "Governors Awards",
+      "Oscars"
+    ]
+  },
+  {
+    "id": "b6ff25e990d0fd6c373941cff68a3a024801622e796440b81fc3b52d5d386e28",
+    "title": "AFM Dealmakers, Talent Agents and Hollywood Stars Left Stranded by Nationwide Flight Stoppage",
+    "summary": "The Federal Aviation Administration issued a halt on all U.S. flights on Friday at around 1 p.m. PT and didn&#8217;t lift the order until approximately four hours later. With the American Film Market, the Governors Awards and numerous FYC panels scheduled over the next several days, the stoppage left many Hollywood insiders grounded on one [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/news/agents-stars-stranded-flight-stoppage-afm-governors-awards-1236947477",
+    "published_at": "2026-11-14T01:38:17+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2295492926.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.241113+00:00",
+    "thin": false,
+    "author": "Jack Dunn",
+    "tags": [
+      "News",
+      "AFM",
+      "Governors Awards"
+    ]
+  },
+  {
+    "id": "bb83653476ecb0d2989d9e65144e4f442d49168f5366b530c4d32a6bdc4efc76",
+    "title": "New Regency Sues Michael Mann to Retain Rights to ‘Heat’",
+    "summary": "The production company is challenging the director's attempts to reclaim rights to the screenplay.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/new-regency-sues-michael-mann-retain-rights-heat-1236755347",
+    "published_at": "2026-11-14T01:35:37+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.244847+00:00",
+    "thin": false,
+    "author": "Winston Cho",
+    "tags": [
+      "Movie News",
+      "Movies",
+      "Heat",
+      "Michael Mann"
+    ]
+  },
+  {
+    "id": "e95a85597abdd1fd56c6fe28b41fb507d930c3bec7cc86f180e6f88c3f66b515",
+    "title": "Kamal Khera Named New Canadian Consul General In Los Angeles, Will Meet With Studios",
+    "summary": "Canadian Prime Minister Mark Carney has appointed a new Consul General in Los Angeles, who says she hopes to inspire a renewed sense of unity between Canada and the U.S. The Honourable Kamal Khera was introduced as Canada’s Consul General in Los Angeles on Thursday night at a reception at Canada House, the Consul General&#8217;s [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/biz/news/kamal-khera-canadian-consul-general-los-angeles-1236947219",
+    "published_at": "2026-11-14T01:24:58+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Kamal-Khera.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.241305+00:00",
+    "thin": false,
+    "author": "Tim Chan",
+    "tags": [
+      "News",
+      "Kamal Khera"
+    ]
+  },
+  {
+    "id": "9abaf06ed29ee1c420aac651ad5127f4d3b8f175e78f882e848310e582f6e4aa",
+    "title": "Rock & Roll Hall of Fame Induction Ceremony to Proceed as Planned Despite FAA Grounding Flights Nationwide",
+    "summary": "All of the artists set to participate in Saturday's event are already in Los Angeles.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/music/music-news/rock-roll-hall-of-fame-to-proceed-flights-grounded-1236755204",
+    "published_at": "2026-11-14T00:42:46+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.244972+00:00",
+    "thin": false,
+    "author": "Ethan Millman",
+    "tags": [
+      "Music",
+      "Music News",
+      "Rock & Roll Hall of Fame"
+    ]
+  },
+  {
+    "id": "f353c8a736df8082d4ca07403c42a00e5a4c11725848125738cd339baef9b242",
+    "title": "Isla Fisher & Blake Ritson Join Al Pacino In John Paul Getty III Kidnapping Pic ‘Captivated’",
+    "summary": "EXCLUSIVE: Isla Fisher and The Gilded Age&#8216;s Blake Ritson have boarded the Al Pacino thriller Captivated inspired by the extraordinary true story of the 1973 kidnapping of John Paul Getty III. Also joining the cast is Jackson Kelly (The Pitt, The Body). Dito Montiel is directing with production underway in Calabria and Rome, Italy. The [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/al-pacino-captiviated-isla-fisher-blake-ritson-1237223529",
+    "published_at": "2026-11-14T00:41:20+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Isla-Fisher-Blake-Ritson-Al-Pacino.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.243446+00:00",
+    "thin": false,
+    "author": "Anthonypauldalessandro",
+    "tags": [
+      "Casting",
+      "AFM",
+      "Al Pacino",
+      "Blake Ritson",
+      "Captivated",
+      "Isla Fisher",
+      "Jackson Kelly"
+    ]
+  },
+  {
+    "id": "885f3b6fff6f7d5686b29e2f4e50c285db5a9d0d52db82e6125a917e0d5afabb",
+    "title": "James Gunn Says “No One From Skydance Has Seen” ‘Man Of Tomorrow’: “There Are A Lot Of Untrue Rumors Going Around”",
+    "summary": "James Gunn is clearing up some rumors following his exit as co-head of DC Studios. With Skydance making changes amid the Paramount and Warner Bros. merger, Peter Safran and Gunn announced they would not be heading DC Studios. Amid their exits, many rumors have circulated. One prominent story was that Skydance saw the Superman sequel, [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/james-gunn-skydance-man-of-tomorrow-1237223531",
+    "published_at": "2026-11-14T00:35:06+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2025/07/james-gunn-superman.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.243627+00:00",
+    "thin": false,
+    "author": "Armando Tinoco",
+    "tags": [
+      "News",
+      "DC Studios",
+      "James Gunn",
+      "Skydance"
+    ]
+  },
+  {
+    "id": "4479c6bd0adeb83208eb8551ff42233968e05e24209c89c2ee13c3e73ff1edda",
+    "title": "Trump Says Federal Film Tax Credit Is Gaining Momentum",
+    "summary": "The proposal for film and TV tax incentives, which drew broad bipartisan support when it was introduced earlier this year, faces an uphill battle for passage in the lame-duck session.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/business/business-news/trump-federal-film-tax-credit-gaining-momentum-1236755258",
+    "published_at": "2026-11-14T00:11:56+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.245101+00:00",
+    "thin": false,
+    "author": "Winston Cho",
+    "tags": [
+      "Business",
+      "Business News",
+      "donald trump"
+    ]
+  },
+  {
+    "id": "df3d03f596719be62dc2f36da7acb257eef3f74453a78780ba9e8cbe5f742718",
+    "title": "How ‘The Basement Yard’ Host Joe Santagato Got Into the World of ‘Hot Ones’",
+    "summary": "The comedian and podcaster is hosting and executive producing a 'Hot Ones' spin-off 'Hot Ones: Game Night.'",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/business/digital/the-basement-yard-host-joe-santagato-hot-ones-1236754573",
+    "published_at": "2026-11-14T00:10:12+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.245226+00:00",
+    "thin": false,
+    "author": "Nicole Fell",
+    "tags": [
+      "Business",
+      "Digital",
+      "Hot Ones",
+      "Joe Santagato",
+      "Podcast"
+    ]
+  },
+  {
+    "id": "503b559ca99dfe18a7aff4d48c879b84bb218587cc06f5b898244bded9ffa592",
+    "title": "Ben Stiller Gives Update on His New York Knicks Documentary: “The Pressure Is on”",
+    "summary": "The actor tells The Hollywood Reporter that the multi-part doc, in development with HBO and A24, will explore the team's history and championship run.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-stiller-new-york-knicks-documentary-update-hbo-a24-1236754821",
+    "published_at": "2026-11-14T00:08:28+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.245384+00:00",
+    "thin": false,
+    "author": "Lexi Carson",
+    "tags": [
+      "Movie News",
+      "Movies",
+      "A24",
+      "Ben Stiller",
+      "Documentaries",
+      "documentary",
+      "Events",
+      "hbo",
+      "Knicks",
+      "nba",
+      "New York Knicks",
+      "Red Carpet",
+      "Sports"
+    ]
+  },
+  {
+    "id": "cafa75bb47078cb6a9ad7bc511943695ac74eba4d26a41ce07fdc4e99f6f8d48",
+    "title": "Jason Voorhees Makes His Animated Debut in New ‘Never Hike Alone’ Short",
+    "summary": "More than 46 years after his big-screen debut in the slasher classic “Friday the 13th,” hulking horror icon Jason Voorhees is about to prove that his machete cuts just as deep in animation. The hockey-masked killer returns in “Never Hike Alone: Ghosts in the Fog,” a new 10-minute animated film from independent production company Womp [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/digital/news/jason-voorhees-animated-debut-hike-alone-short-1236947225",
+    "published_at": "2026-11-13T23:45:40+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Jason-with-bloody-head.png",
+    "collection_timestamp": "2026-11-14T01:58:21.241490+00:00",
+    "thin": false,
+    "author": "Pat Saperstein",
+    "tags": [
+      "News",
+      "Jason Voorhees",
+      "Never Hike Alone"
+    ]
+  },
+  {
+    "id": "e5d3eb2a442e51d3c355e2d8f9e702cc616da761efe6e832f413a0a72ed60129",
+    "title": "Shane Gillis Addresses ‘SNL’ Monologue After He Promised Show “No Controversy”",
+    "summary": "One month later, Shane Gillis is addressing the fallout from his Saturday Night Live opening monologue. After sparking controversy for accusing women of &#8220;dressing like whores&#8221; at the gym, the comedian explained why the NBC sketch comedy show didn&#8217;t cut the joke from his monologue for the Oct. 10 episode he hosted. &#8220;Not to defend [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/shane-gillis-addresses-snl-monologue-promised-no-controversy-1237223484",
+    "published_at": "2026-11-13T23:38:08+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/NUP_212008_00014-1.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.243799+00:00",
+    "thin": false,
+    "author": "Glenn Garner",
+    "tags": [
+      "News",
+      "Saturday Night Live",
+      "Shane Gillis"
+    ]
+  },
+  {
+    "id": "ba1c81817cf5851392cfa8766e209aba58a182ebd7d51dc8ebfab96013b86dbb",
+    "title": "Producer Kevin J. Walsh Had Seen It All. Then ‘Being Heumann’ Came Along",
+    "summary": "The Oscar-nominated producer helped open doors for the disabled community on the set of Sian Heder's latest pic: \"I'm as proud of what we did behind the scenes to redefine access as I am of the quality of this movie.\"",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-features/being-heumann-kevin-j-walsh-1236754923",
+    "published_at": "2026-11-13T23:31:29+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.245534+00:00",
+    "thin": false,
+    "author": "Brian Davids",
+    "tags": [
+      "Movie Features",
+      "Movies",
+      "Being Heumann",
+      "Kevin J. Walsh",
+      "Ridley Scott",
+      "Sian Heder",
+      "The Walsh Company"
+    ]
+  },
+  {
+    "id": "76b093707e4601d9bb8211d9176fa45ec21d6efddb026d0efeb334bba93953e9",
+    "title": "Amid Flight Halt, Trump Meets With Jon Voight to Talk U.S. Film Incentive: ‘Get This Done!’",
+    "summary": "As flights across the U.S. came to a halt Friday amid a rare nationwide ground stop, President Donald Trump was in a meeting with actor Jon Voight to talk about jumpstarting support for a federal film incentive. Voight and his team, Steven Paul and Scott Karol, were at the White House to urge the president [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/news/trump-hasnt-commented-flight-shutdown-promoting-film-incentive-1236947426",
+    "published_at": "2026-11-13T23:28:40+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2304645430.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.241672+00:00",
+    "thin": false,
+    "author": "Pat Saperstein",
+    "tags": [
+      "News",
+      "Donald Trump",
+      "Federal film incentive"
+    ]
+  },
+  {
+    "id": "ab73df417f6030377d064e597bb820a09bdeebd4f2db0fad5e8b2214286026ab",
+    "title": "‘VisionQuest’ Sticks The Landing With Most-Watched Marvel Finale In 3 Years",
+    "summary": "VisionQuest brought the WandaVision trilogy to a close earlier this week with Marvel&#8217;s most-watched finale in three years. The episode, which debuted Tuesday, gathered 3.7 million views after one day of streaming globally on Disney+, marking a series high and a 44% viewership increase over the previous episode. It&#8217;s the best audience for a Marvel [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/visionquest-finale-viewership-record-marvel-1237223483",
+    "published_at": "2026-11-13T23:24:42+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/10/TM_Trailer2_Still_4.jpeg",
+    "collection_timestamp": "2026-11-14T01:58:21.243976+00:00",
+    "thin": false,
+    "author": "Katie Campione",
+    "tags": [
+      "News",
+      "Ratings",
+      "Marvel",
+      "TV Ratings",
+      "VisionQuest"
+    ]
+  },
+  {
+    "id": "f5d5063136a1f1042a57a190f70e4e30206ce80ba0dddcae6ae8e6a15e2506a7",
+    "title": "Joel Kinnaman to Star in Creature Thriller ‘The Cell’ for ‘Sleeping Dogs’ Director Adam Cooper (Exclusive)",
+    "summary": "Highland Film Group is launching sales at AFM on the project, which follows an investigative journalist whose body begins mutating inside a secret medical testing facility.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/joel-kinnaman-thriller-the-cell-director-adam-cooper-afm-1236755213",
+    "published_at": "2026-11-13T23:20:15+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.245678+00:00",
+    "thin": false,
+    "author": "Patrick Brzeski",
+    "tags": [
+      "Movie News",
+      "Movies",
+      "AFM",
+      "international"
+    ]
+  },
+  {
+    "id": "a71ad8a366f67720c4f6498222071f6e991c45d9f1312fedb7929a9ce21571df",
+    "title": "Seth Rogen on ‘The Invite,’ ‘Tangles,’ ‘The Studio’ Season 2, Reviving ‘Darkwing Duck’ and Why ‘Any A–hole Can Write That Joke’ Was the Best Advice He Ever Got",
+    "summary": "For years, people have told me that Seth Rogen and I are voice twins. Sitting across from him at the Middleburg Film Festival, deep in Virginia horse country, even Jeremy, the person recording our conversation, can confirm that the resemblance is very close. Even so, the year Rogen is having belongs entirely to him. Coming [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/awards/seth-rogen-the-invite-tangles-the-studio-season-2-1236946538",
+    "published_at": "2026-11-13T23:16:01+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Tangles-New-York-Screening-1000.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.241874+00:00",
+    "thin": false,
+    "author": "Clayton Davis",
+    "tags": [
+      "Awards",
+      "News",
+      "Podcasts",
+      "Awards Circuit Podcast",
+      "Seth Rogen",
+      "The Invite",
+      "The Studio"
+    ]
+  },
+  {
+    "id": "12eb97358a7c7fdcc0b3203dfba1c1ac6504d64f34e3b25b3587ebc72a44073a",
+    "title": "Donald Trump Urges Congress To Pass Federal Film & TV Tax Incentive Amid Worries Bill Will Languish: “Get This Done!”",
+    "summary": "As networks reported on a highly unusual nationwide ground stop of all flights in the United States, Donald Trump made another pitch for Congress to pass a federal film &#38; TV tax incentives. On Truth Social, Trump listed the bipartisan group of lawmakers who support the 20% incentive, even naming one of his frequent political [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/trump-federal-film-incentive-1237223479",
+    "published_at": "2026-11-13T23:14:55+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2292328576-e1792074477445.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.244158+00:00",
+    "thin": false,
+    "author": "Ted Johnson",
+    "tags": [
+      "News",
+      "Politics",
+      "Adam Schiff",
+      "Donald Trump",
+      "ElectionLine",
+      "film and TV incentive",
+      "Film incentives"
+    ]
+  },
+  {
+    "id": "fd190861cf69b31e8788cb283f6a76eea8bc216cefdf022f77cefb5a2eecff46",
+    "title": "Why Jordan Brand Is Using a ‘Space Jam’ Docuseries to Launch “Jordan TV”",
+    "summary": "The Nike-owned brand is planning to use its Jordan TV platforms to roll out content built around its products, and Michael Jordan himself.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/business/digital/beyond-the-jam-space-jam-youtube-docuseries-jordan-brand-1236755122",
+    "published_at": "2026-11-13T23:11:19+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.245805+00:00",
+    "thin": false,
+    "author": "Alex Weprin",
+    "tags": [
+      "Business",
+      "Digital",
+      "advertising",
+      "YouTube"
+    ]
+  },
+  {
+    "id": "cf66374cbc7c50cfd7c392db1c3d8ce9889d9f9251064b33e9fcdfea9a75a944",
+    "title": "Johnny Depp Pic ‘Ebenezer’ Opening To Spirited $20M+ U.S. – Box Office Update",
+    "summary": "FRIDAY AFTERNOON: Right now, Paramount&#8217;s Ebenezer, looks healthy for a Johnny Depp non-franchise opening with $20M+ after a $7.1M Friday/previews. That&#8217;s around where the actor&#8217;s 2015 Black Mass ($22.6M) and 2009 Public Enemies ($25.2M) began. Sure, those were R-rated movies, but a $20M beginning for any Hollywood star-driven vehicle is surely no bah-humbug. The Ti [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/box-office-ebenezer-1237222749",
+    "published_at": "2026-11-13T23:02:00+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/MCDEBAC_PA010.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.244340+00:00",
+    "thin": false,
+    "author": "Anthonypauldalessandro",
+    "tags": [
+      "News",
+      "Ebenezer",
+      "How To Rob A Bank"
+    ]
+  },
+  {
+    "id": "3b0cdb9473bf94803ea079cabbf4b56f7f1e401145504cfc8a076b6dc85a3ced",
+    "title": "Horror Man Gary Dauberman Signs First-Look Deal With Blumhouse Atomic (Exclusive)",
+    "summary": "The writer behind 'It' and the 'Annabelle' movies is teaming up with two of the biggest names in horror. What fresh hell will they conjure up?",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/gary-dauberman-signs-first-look-deal-blumhouse-atomic-1236755092",
+    "published_at": "2026-11-13T23:00:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.245930+00:00",
+    "thin": false,
+    "author": "Borys Kit",
+    "tags": [
+      "Movie News",
+      "Movies",
+      "Annabelle",
+      "Blumhouse Atomic Monster",
+      "Gary Dauberman"
+    ]
+  },
+  {
+    "id": "d542f93b04d763c06678ba8450e1251c03df4a29f8c8ce08ed508af5060b571a",
+    "title": "JB Smoove Talks Creativity and Fighting AI Fears, Evan Shapiro Breaks Down the Digital Entertainment Economy at Variety’s Business Managers Breakfast",
+    "summary": "JB Smoove brought his signature creative swagger and Evan Shapiro broke down the digital entertainment economy during lively conversations held as part of Variety&#8216;s annual Business Managers Breakfast presented by City National Bank. The event, held Thursday in West Hollywood, hosted Variety’s 2026 Business Managers Elite honorees and recognized Citrin Cooperman&#8217;s Arnie Herrmann as Business [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/biz/news/business-managers-variety-jb-smoove-shapiro-arnie-herrmann-1236947175",
+    "published_at": "2026-11-13T22:58:33+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/JC2_5659.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.242092+00:00",
+    "thin": false,
+    "author": "Mya Copeland",
+    "tags": [
+      "News",
+      "Business Managers Recap 2026",
+      "Daily Variety CNB"
+    ]
+  },
+  {
+    "id": "f6d8a6a95d0d46fbbef75a99ca3cd29a0c05d4eb7dae622065e9c6beb39172fa",
+    "title": "Indie Producer Sphere Media Bolsters Leadership, Names David Way as Unscripted Head (Exclusive)",
+    "summary": "The ‘Wayward’ and ‘The Service’ producer has made other executive moves as Jennifer Kawaja steps down as English scripted division president while remaining an executive producer on select projects.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/business/business-news/sphere-media-david-way-unscripted-head-1236755075",
+    "published_at": "2026-11-13T22:57:31+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.246076+00:00",
+    "thin": false,
+    "author": "Etan Vlessing",
+    "tags": [
+      "Business",
+      "Business News",
+      "international"
+    ]
+  },
+  {
+    "id": "b31bef10622a8c61f2c2d19bc5f22abf04215fec383ba6700e5be307c5d9a162",
+    "title": "Hollywood Still Faces Weekend Disruptions After FAA Lifts Flight Ground Stop",
+    "summary": "UPDATED: After a four-hour long flight ground stop, Hollywood still expects a weekend of disruptions after the Federal Aviation Administration lifted the shutdown Friday evening. Travel plans were thrown into question for talent, executives and buyers headed to and from Los Angeles and New York for one of the busiest stretches on the industry calendar. [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/news/faa-flights-ground-stop-hollywood-weekend-disruptions-1236947370",
+    "published_at": "2026-11-13T22:51:29+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2304485743.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.242275+00:00",
+    "thin": false,
+    "author": "Clayton Davis",
+    "tags": [
+      "News",
+      "faa",
+      "Governors Awards",
+      "Oscars"
+    ]
+  },
+  {
+    "id": "4b24bb7bd798f83c9916a7f1df4d5c86a2b624a4082bd2f48130bb95f3d40de4",
+    "title": "Gambit Gets Serious: Channing Tatum’s Superhero Is ‘Not All Laughs’ in ‘Avengers: Doomsday’ as Kevin Feige Promises Fans a ‘Fully-Rounded Character’",
+    "summary": "When Channing Tatum returns as Gambit in &#8220;Avengers: Doomsday,&#8221; he will be a &#8220;fully-rounded character&#8221; and not just a supporting player used for non-stop laughs and cool action scenes. That was mostly Gambit&#8217;s purpose during his Marvel Cinematic Universe debut in 2024&#8217;s &#8220;Deadpool &#38; Wolverine.&#8221; Fans have been wondering ever since Tatum was confirmed for [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/news/gambit-avengers-doomsday-kevin-feige-not-laughs-1236947232",
+    "published_at": "2026-11-13T22:48:20+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2025/03/gambit-2.webp",
+    "collection_timestamp": "2026-11-14T01:58:21.242479+00:00",
+    "thin": false,
+    "author": "Zack Sharf",
+    "tags": [
+      "News",
+      "Avengers: Doomsday",
+      "Channing Tatum",
+      "Gambit",
+      "Marvel Studios"
+    ]
+  },
+  {
+    "id": "20ad459435f9452b54b786316fd22b834b879c7aa4ae1130b7678e2c1cb2e519",
+    "title": "‘VisionQuest’ Finale Hits 3.7 Million Views in One Day",
+    "summary": "The finale of &#8220;VisionQuest&#8221; reached 3.7 million views globally in one day of streaming on Disney+. Measured by Disney, that total puts the episode above the finale of every other Marvel Cinematic Universe TV series in the last three years, since Season 2 of &#8220;Loki&#8221; in 2023. The other MCU series released since then include [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/tv/news/visionquest-finale-ratings-views-1236947348",
+    "published_at": "2026-11-13T22:34:23+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/10/VisionQuest_TF_1.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.242646+00:00",
+    "thin": false,
+    "author": "Selome Hailu",
+    "tags": [
+      "News",
+      "Marvel Cinematic Universe",
+      "VisionQuest"
+    ]
+  },
+  {
+    "id": "a96ecc7bbc95dbaf73c3f8db68883b8a47324608e6ff255ee666869346e4be22",
+    "title": "Jesse Eisenberg, Gina Prince-Bythewood, Beth de Araújo and Dawn Porter to Be Honored at Sundance Fundraiser Event",
+    "summary": "Sundance Institute will honor Jesse Eisenberg, Gina Prince-Bythewood, Beth de Araújo and Dawn Porter at its annual fundraiser, Celebrating Sundance Institute: The Boulder Debut, on Jan. 22. Recognizing an artist’s contributions to independent film, Eisenberg will receive the Sundance Institute Trailblazer Award, joining previous honorees including Chloé Zhao, James Mangold and Christopher Nolan. “Every time [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/news/jesse-eisenberg-gina-prince-bythewood-sundance-fundraiser-1236947327",
+    "published_at": "2026-11-13T22:21:32+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/image.jpeg",
+    "collection_timestamp": "2026-11-14T01:58:21.242853+00:00",
+    "thin": false,
+    "author": "Tanya Fedak",
+    "tags": [
+      "News",
+      "Jesse Eisenberg",
+      "Sundance Film Festial",
+      "Sundance Institue"
+    ]
+  },
+  {
+    "id": "ca0b1a9065dd1196ee9ac05d98aa4b33fab82fbeee085d51c03c98a2b8b16025",
+    "title": "‘Yellowjackets’ Co-Creator Bart Nickerson Hints That Unreleased Bonus Episode Didn’t Fit “Canon Of The Show”",
+    "summary": "As Yellowjackets reaches its final destination after four seasons, many fans are still curious about an episode that never made it to air. While discussing Season 4 of the supernatural survival thriller, which premieres Nov. 20, co-creators Bart Nickerson and Ashley Lyle shed some light on the unreleased bonus episode for Deadline after it was [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/yellowjackets-creator-unreleased-bonus-episode-didnt-fit-canon-1237223357",
+    "published_at": "2026-11-13T21:54:29+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Yellowjackets.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.244687+00:00",
+    "thin": false,
+    "author": "Glenn Garner",
+    "tags": [
+      "News",
+      "Ashley Lyle",
+      "Bart Nickerson",
+      "Paramount+",
+      "Showtime",
+      "Yellowjackets"
+    ]
+  },
+  {
     "id": "0dbe5570870ef974d563d8b0b5f3972fcc59a890372d0b06811d8e1097515c33",
     "title": "Sony’s Tom Rothman Hopes It Will Be A ‘Brand New Day’ For ‘Spider-Man’ As Studio Launches Major Best Picture Oscar Campaign: “Are You Telling Me There Are 10 Films Better Than This One?”",
     "summary": "EXCLUSIVE: Watch out Oscar. Spider-Man is aiming to get your attention. Sony Pictures and Marvel&#8217;s Spider-Man: Brand New Day is about to launch an all-out campaign to land a spot in the Best Picture race at the 99th annual Academy Awards. Can the highest-grossing movie of not just this year but all time at the [&#8230;]",
@@ -9563,537 +10131,6 @@
       "Passing Strange",
       "Stew",
       "Zhailon Levingston"
-    ]
-  },
-  {
-    "id": "fe01bc952be8619870a9571f6c95f2a5e6968979f554a04603af657d9d3832ae",
-    "title": "Taylor Swift and Karlie Kloss Reunite at Travis Kelce’s Chiefs Game Against Jets",
-    "summary": "Taylor Swift and Karlie Kloss attended the Kansas City Chiefs-New York Jets game at Arrowhead Stadium on Sunday, marking their first public appearance together in years. Cameras caught the model and the “Life of a Showgirl” singer sitting in a box at the Kansas City stadium, accompanied by Swift’s mom, Andrea, and dad, Scott. Travis [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/digital/news/taylor-swift-karlie-kloss-reunite-travis-kelce-chiefs-game-1236942684",
-    "published_at": "2026-11-08T20:39:25+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/New-York-Jets-v-Kansas-City-Chiefs-1000.jpg",
-    "collection_timestamp": "2026-11-08T23:53:11.669480+00:00",
-    "thin": false,
-    "author": "Payton Turkeltaub",
-    "tags": [
-      "News",
-      "Karlie Kloss",
-      "Taylor Swift"
-    ]
-  },
-  {
-    "id": "422e9efa56bd73b14c31a231446d86c4bc20a04abf669484e074ed0d5771456e",
-    "title": "Denis Villeneuve Praises Creative Process Over AI Prompts and Stops Short of Naming New Bond at LACMA Art+Film Gala",
-    "summary": "The stars were out Saturday night at the milestone 15th annual fundraiser, presented once again by Gucci and featuring a night-ending performance by global superstar Rosé.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/denis-villeneuve-dune-new-bond-lacma-artfilm-gala-2026-1236750330",
-    "published_at": "2026-11-08T20:15:09+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T23:53:11.671016+00:00",
-    "thin": false,
-    "author": "Chris Gardner",
-    "tags": [
-      "Lifestyle",
-      "Lifestyle News",
-      "Denis Villeneuve",
-      "Dune: Part Three",
-      "Kim Kardashian",
-      "LACMA",
-      "Leonardo DiCaprio"
-    ]
-  },
-  {
-    "id": "9c2e4a74b4d76fde3f70d07d0afb4dab37054e89a04d17592113ccacedf02c53",
-    "title": "‘I’ve Had It’ Podcast Hosts Jennifer Welch and Angie Sullivan Apologize for Laughing at Charlie Kirk Joke: ‘We Regret It’",
-    "summary": "Jennifer Welch and Angie Sullivan of the “I’ve Had It” podcast have issued an apology after facing backlash for laughing at a joke about Charlie Kirk during their latest episode, released on Thursday. “On Thursday’s show, we laughed at a joke about Charlie Kirk. It was an insensitive joke, and we should not have laughed. [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/politics/news/jennifer-welch-angie-sullivan-apologize-charlie-kirk-joke-1236942607",
-    "published_at": "2026-11-08T20:11:00+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/One-Story.-One-Future-GLAAD-Celebrates-Pride-2025-1000.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.977495+00:00",
-    "thin": false,
-    "author": "Isabelle Farina",
-    "tags": [
-      "News",
-      "I&#039;ve Had It"
-    ]
-  },
-  {
-    "id": "7d593d4102f748dba1581d451e5d5f2a0e4938df3b4c3dd87abda5bf0f9bf2cb",
-    "title": "Charlie Kirk’s Widow Calls Jokes About Him “Beyond Disgusting” After Outcry Over Dave Chappelle Stand-Up",
-    "summary": "As Dave Chappelle takes backlash for a joke at Charlie Kirk&#8217;s expense, the late Turning Point USA founder&#8217;s widow has responded. On Sunday, Erika Kirk called recent jokes by Chappelle and others &#8220;beyond disgusting,&#8221; following the comedian&#8217;s two-night Madison Square Garden stint for his Karmageddon Tour, where he made a morbid joke about Charlie&#8217;s Sept. [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/charlie-kirk-widow-jokes-beyond-disgusting-dave-chappelle-1237216849",
-    "published_at": "2026-11-08T20:05:41+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Erika-Kirk-Dave-Chappelle-2-shot.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.979555+00:00",
-    "thin": false,
-    "author": "Glenn Garner",
-    "tags": [
-      "News",
-      "Politics",
-      "Charlie Kirk",
-      "Dave Chappelle",
-      "Erika Kirk"
-    ]
-  },
-  {
-    "id": "4113677c87e136a9a59185242815071d685e9bfb7e7281354e34842893b189b5",
-    "title": "Maya Jama Exits ‘Love Island U.K.’ as Host After 9 Seasons: ‘All Good Things Must Come to an End’",
-    "summary": "“Love Island U.K.” host Maya Jama is exiting the dating series after nine seasons. Jama made the announcement on her Instagram account Sunday. “What an incredible era and what an unforgettable time I’ve had, it’s been far too much fun to put into words or a video,” she began her statement. “But as all good [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/tv/news/maya-jama-exits-love-island-uk-as-host-1236942610",
-    "published_at": "2026-11-08T19:59:45+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2025/11/maya.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.977725+00:00",
-    "thin": false,
-    "author": "Payton Turkeltaub",
-    "tags": [
-      "News",
-      "Maya Jama"
-    ]
-  },
-  {
-    "id": "6d588d535fe4189620ba40df5c887501c335de49e222b1e8ff568d20632a17a0",
-    "title": "Stephen Colbert Evacuated From Harvard Event Due to Fire Alarm After Being Accused of Crossing Picket Line",
-    "summary": "Dozens of Harvard Graduate Students Union members protested outside the event featuring the former late night host and famed cellist Yo-Yo Ma.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/news/general-news/stephen-colbert-accused-crossing-picket-line-harvard-event-1236750499",
-    "published_at": "2026-11-08T19:58:37+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.981707+00:00",
-    "thin": false,
-    "author": "Carly Thomas",
-    "tags": [
-      "General News",
-      "Protests",
-      "Stephen Colbert"
-    ]
-  },
-  {
-    "id": "110ed69831f79eadea9e28168411615d88f6053b03ec8c362cefcb7244a67599",
-    "title": "Indie & Alternative Cinema Surges From ‘Stray Kids’ To ‘Heated Rivalry’ – Specialty Box Office",
-    "summary": "Specialty distributors and alternative fare from live concerts to Indian films to faith-based fare and TV series ruled the top 10 at the box office and beyond this weekend, showcasing the strength of a market that’s helped the box office weather downturns and is now fueling its resurgence. Godzilla Minus Zero from independent distributor GKids [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/indie-film-box-office-independent-alternative-cinema-surges-1237216831",
-    "published_at": "2026-11-08T19:51:06+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2025/12/heated-rivalry-hbo-max.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.979820+00:00",
-    "thin": false,
-    "author": "Jillg366",
-    "tags": [
-      "News",
-      "Club Kid",
-      "Drummer Boy",
-      "Godzilla Minus Zero",
-      "Heated Rivalry",
-      "I Play Rocky",
-      "Jimmy",
-      "Ramayana: Rise of a Legend",
-      "Scene",
-      "Specialty Box Office",
-      "Stray Kids World Tour ‘RUN IT’ Live Viewing",
-      "The Only Living Pickpocket in New York",
-      "Wicker",
-      "Wild Horse Nine"
-    ]
-  },
-  {
-    "id": "d491324b792c87c66c007768d51ce6324845105e602888b06540665f4bb2e68e",
-    "title": "Maya Jama Exits As ‘Love Island UK’ Host After 9 Seasons",
-    "summary": "Maya Jama, the ultimate bombshell, is not returning as Love Island UK host after fronting the dating series for nine seasons. Jama took to social media to share a goodbye message with some of her best bits from the ITV reality series. &#8220;What an incredible era and what an unforgettable time I’ve had, it’s been [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/maya-jama-exits-love-island-uk-host-itv-1237216848",
-    "published_at": "2026-11-08T19:32:17+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/07/maya-jama-love-island-uk-host.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.980065+00:00",
-    "thin": false,
-    "author": "Armando Tinoco",
-    "tags": [
-      "News",
-      "Love Island",
-      "Maya Jama"
-    ]
-  },
-  {
-    "id": "eab90dd78d0d886988e9d56334a332ff15ab2cd0f978efcb21b1ab8c2323862c",
-    "title": "Alycia Baumgardner vs. Elif Nur Turhan on ESPN Unlimited: Here’s Where to Watch the Title Bout Live Online",
-    "summary": "The best boxers in the world travel to Texas for the Most Valuable Promotions boxing event. For the main event, American Alycia Baumgardner (18-1-0) takes on Turkish boxer Elif Nur Turhan (14-0-0). The unification title bout is scheduled for 10 rounds. Nur Turhan&#8217;s IBF championship belt is on the line, so the winner will receive [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/shopping/news/watch-baumgardner-nur-turhan-espn-boxing-live-online-free-1236938381",
-    "published_at": "2026-11-08T19:30:00+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/Boxing-MVP-Alycia-Baumgardner-Getty-VR-Featured.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.977932+00:00",
-    "thin": false,
-    "author": "Rudie Obias",
-    "tags": [
-      "News",
-      "Boxing",
-      "ESPN Unlimited",
-      "How to Watch",
-      "NOADS",
-      "sponsored",
-      "Sports"
-    ]
-  },
-  {
-    "id": "0cdf1f432c210d7ed8777c0a9217c61daaef1248aca187d3e3c45f3bedffdc0a",
-    "title": "Box Office: ‘Heated Rivalry’ Fans Drive Show’s Theatrical Release to $1.4 Million",
-    "summary": "Nearly a year after &#8220;Heated Rivalry&#8221; debuted on streaming, fans are venturing to movie theaters to rewatch the steamy romance between hockey superstars Shane Hollander (Hudson Williams) and Ilya Rozanov (Connor Storrie). The limited theatrical release, which is scheduled from Nov. 6 through Nov. 30, has generated $1.4 million from 945 theaters, according to distributor [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/box-office/heated-rivalry-theatrical-release-box-office-grosses-1236942444",
-    "published_at": "2026-11-08T19:19:59+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2025/12/Heated_Rivalry_-__Episode_103-15.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.978126+00:00",
-    "thin": false,
-    "author": "Rebecca Rubin",
-    "tags": [
-      "Box Office",
-      "Heated Rivalry"
-    ]
-  },
-  {
-    "id": "c76d3278710df5331f451e917214fb3394276f60964cef38d436a130e55937fd",
-    "title": "Jennifer Welch & Angie Sullivan Apologize For Laughing At “Insensitive” Charlie Kirk Joke On Podcast: “We Regret It”",
-    "summary": "After losing several advertisers, the hosts of the I&#8217;ve Had It podcast have apologized for making light of Charlie Kirk&#8217;s killing. On Saturday, co-hosts Jennifer Welch and Angie Sullivan expressed their regret in a statement over laughing at a midterms joke about the Sept. 10, 2025 shooting of the Turning Point USA founder, in addition [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/jennifer-welch-angie-sullivan-apologize-laughing-charlie-kirk-joke-1237216817",
-    "published_at": "2026-11-08T19:18:11+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2265010329.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.980300+00:00",
-    "thin": false,
-    "author": "Glenn Garner",
-    "tags": [
-      "News",
-      "Podcast",
-      "Angie Sullivan",
-      "Charlie Kirk",
-      "Jennifer Welch"
-    ]
-  },
-  {
-    "id": "aec995b8d73b4b91a45c01f41c4017eddbd8aec5888c68d37363186d27eb2df0",
-    "title": "Toxic Homes, Terrible Dilemma: Oscar Contender ‘Still Standing’ Documents Homeowner Nightmare After LA Wildfires – SFFILM Doc Stories",
-    "summary": "To shoot their Oscar-contending film Still Standing, directors Víctor Tadashi Suárez and Livia Albeck-Ripka donned hazmat suits – for good reason. Their documentary, winner of Oscar-qualifying awards at Full Frame, the Seattle International Film Festival, and Aspen Shortsfest, explores homes left toxic by the catastrophic Eaton fire that tore through the Altadena section of Los [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/still-standing-la-wildfires-documentary-pov-1237216814",
-    "published_at": "2026-11-08T19:12:09+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Still-Standing-1.png",
-    "collection_timestamp": "2026-11-08T20:11:24.980521+00:00",
-    "thin": false,
-    "author": "Matthew Carey",
-    "tags": [
-      "Documentary",
-      "News",
-      "LA Wildfires",
-      "Livia Albeck-Ripka",
-      "POV",
-      "Still Standing",
-      "Víctor Tadashi Suárez"
-    ]
-  },
-  {
-    "id": "b6b63dfff81a9035016a85685135c31143739cf4a9162b416fecb8af98201593",
-    "title": "‘Godzilla Minus Zero’ Is A Box Office Hero With $32M Live-Action Foreign-Language Opening Record, Best Ever For Gkids – Sunday AM Update",
-    "summary": "SUNDAY AM WRITETHRU: In what is a never-before-seen stat, 74% of Imax and PLFs combined drove the weekend gross of Gkids&#8217; Godzilla Minus Zero&#8216;s which is very close to the $32M opening that was reported yesterday, now at $31.6M. As we told you earlier today, the Takashi Yamazki directed movie is the No. 1 movie [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/box-office-godzilla-minus-zero-cat-in-the-hat-1237215161",
-    "published_at": "2026-11-08T19:10:00+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/『ゴジラ-0.0』パブカット㉒-e1793929665158.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.980747+00:00",
-    "thin": false,
-    "author": "Anthonypauldalessandro",
-    "tags": [
-      "News",
-      "Drummer Boy",
-      "Godzilla Minus Zero",
-      "Ramayana",
-      "The Cat In The Hat",
-      "Wild Horse Nine"
-    ]
-  },
-  {
-    "id": "9cc564c35c8f3c9f717cc90fb31548b097f58798e1ac162d0f04452ecb790918",
-    "title": "Bill Skarsgard Jokes About Using Pennywise Voice When His Kids Misbehave: “Schizophrenic Daddy”",
-    "summary": "The actor has played the iconic villain in two films and the HBO Max series 'It: Welcome to Derry.'",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/bill-skarsgard-pennywise-voice-kids-misbehave-1236750434",
-    "published_at": "2026-11-08T19:01:51+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.981852+00:00",
-    "thin": false,
-    "author": "Carly Thomas",
-    "tags": [
-      "Movie News",
-      "Movies",
-      "Bill Skarsgard",
-      "It: Welcome to Derry",
-      "Nosferatu"
-    ]
-  },
-  {
-    "id": "dabdc70f12a9066fce8a8140179e303dde0a845706887831049277a06cfd2a98",
-    "title": "Andy Serkis Says He Was ‘Evangelical’ About Performance Capture After Playing Gollum in ‘Lord of the Rings’ but Now Accepts It’s ‘Misunderstood’: ‘If You Get It? Great’",
-    "summary": "Andy Serkis, who played an instrumental role in bringing the on-screen version of Gollum (also known as Sméagol) to life in “The Lord of the Rings” franchise, is reflecting on the technology that helped him do so. Gollum, a central character in the films, is the result of both Serkis&#8217; performance and computer-generated elements through [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/news/andy-serkis-motion-capture-gollum-1236942445",
-    "published_at": "2026-11-08T18:58:21+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-1247589803.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.978341+00:00",
-    "thin": false,
-    "author": "Payton Turkeltaub",
-    "tags": [
-      "News",
-      "Andy Serkis",
-      "Lord Of The Rings"
-    ]
-  },
-  {
-    "id": "a8f94f3784a0d6a1b73500cf18533201bf73e22627e227fefc61382a0cf027f3",
-    "title": "Sanfic Prizes: ‘Monguen’ and ‘Narciso’ Win at Pared-Back Ceremony Due to Sudden Demise of ‘A Fantastic Woman’ Director Sebastian Lelio",
-    "summary": "The unexpected demise Nov. 6 of Chile’s Oscar-winning Sebastián Lelio (“A Fantastic Woman”) cast a pall over the closing ceremonies of both the festival and industry section of the Santiago Film Festival (Sanfic), which wraps Nov. 8. The red carpet portions of the industry and festival ceremonies held Nov. 6 and 7, respectively, were cancelled. [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/global/sanfic-prizes-monguen-narciso-sebastian-lelio-remembered-1236942162",
-    "published_at": "2026-11-08T18:27:06+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/Monguen_Still-3-Mariella-Chavez.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.978560+00:00",
-    "thin": false,
-    "author": "Anna Marie de la Fuente",
-    "tags": [
-      "Global",
-      "Markets & Festivals",
-      "News",
-      "Alex De La Iglesia",
-      "Cineplex",
-      "SANFIC",
-      "Sanfic Morbido Lab",
-      "Sitges Film Festival"
-    ]
-  },
-  {
-    "id": "fe8447ce9a25df712716fa925ade0fdc67acd120405b360902e981d8a2a158c9",
-    "title": "Benito Skinner Teases “2016 Millennial Hopecore” For ‘Overcompensating’ Season 2: “Sorry For The Wait”",
-    "summary": "While taking audiences back to the 2010s for Overcompensating, Benito Skinner wants to embrace a simpler time. The series creator and star explained that with Season 2, which Prime Video ordered last September, the show is &#8220;really going like 2016 millennial hopecore&#8221; with its approach to the decade. &#8220;I hope people like Season 2. We&#8217;ve [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/benito-skinner-2016-millennial-hopecore-overcompensating-season-2-1237216771",
-    "published_at": "2026-11-08T18:19:30+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/TCDOVER_ZU013.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.980947+00:00",
-    "thin": false,
-    "author": "Glenn Garner",
-    "tags": [
-      "News",
-      "Benito Skinner",
-      "Overcompensating",
-      "Prime Video"
-    ]
-  },
-  {
-    "id": "ab1cb7782ac2895d3bb380b8d1a5f17074e7e704a15d7ff6554b215d94e573dd",
-    "title": "Judi Dench Says Vin Diesel Sent Her Flowers ‘the Length of a Kayak’ to Persuade Her to Join ‘The Chronicles of Riddick’: I’m ‘Far Too Easily Wooed’",
-    "summary": "Judi Dench can’t say no to a big bouquet of flowers, especially if they’re kayak-sized and come from Vin Diesel. “He came to see me at the Haymarket Theatre to ask if I’d be in ‘The Chronicles of Riddick,’” Dench wrote in her new memoir, “Is It Too Late to Make a Run for It?” [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/news/judi-dench-reveals-she-was-wooed-1236942417",
-    "published_at": "2026-11-08T18:08:07+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/MCDCHOF_EC042.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.978764+00:00",
-    "thin": false,
-    "author": "Isabelle Farina",
-    "tags": [
-      "News",
-      "Judi Dench",
-      "Vin Diesel"
-    ]
-  },
-  {
-    "id": "1789e8bafb871d593593e96387a73cc926d389d8ad2d1eeb6893eb75ab0a266f",
-    "title": "Box Office: ‘You Can See Everything’ Becomes Second-Biggest Doc Ever in North America With $80 Million",
-    "summary": "&#8220;You Can See Everything&#8221; has remained a box office juggernaut, powering to $80 million in North America after just four weekends of release. At this rate, A24&#8217;s red-hot movie about Theranos fraudster Elizabeth Holmes is primed to surpass $100 million domestically, a hugely impressive milestone for a nearly three-hour documentary. Over the weekend, &#8220;You Can [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/box-office/you-can-see-everything-second-highest-grossing-documentary-north-america-box-office-1236942385",
-    "published_at": "2026-11-08T17:52:33+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/09/Screenshot-2026-09-06-at-7.57.52-PM.webp",
-    "collection_timestamp": "2026-11-08T20:11:24.978961+00:00",
-    "thin": false,
-    "author": "Rebecca Rubin",
-    "tags": [
-      "Box Office",
-      "A24",
-      "You Can See Everything"
-    ]
-  },
-  {
-    "id": "f648844962db83337ff3ea11b6badd3e0680317ded621bd4f8fc171b89ad8ef7",
-    "title": "Cineplex Boards Sanfic Title ‘La Residencia’ From ‘Algo Azul’ Director Mariel García Spooner",
-    "summary": "Latin American distributor Cineplex has picked up both North and South American sales rights to “La Residencia,” Mariel Garcia Spooner&#8217;s follow up to hit &#8220;Algo Azul.&#8221; &#8220;La Resdemcia&#8221; has just participated in the Sanfic Industria&#8217;s WIP Iberoamericana section, a competition of films from Latin America, Spain and Portugal screened in post-production at the industry arm [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/global/cineplex-la-residencia-mariel-garcia-spooner-algo-azul-1236941270",
-    "published_at": "2026-11-08T17:12:50+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/La-Residencia-still-2-1.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.979173+00:00",
-    "thin": false,
-    "author": "Anna Marie de la Fuente",
-    "tags": [
-      "Global",
-      "Markets & Festivals",
-      "News",
-      "Cineplex",
-      "HBO Max",
-      "MAFIZ",
-      "Prime Video",
-      "Sanfic Industria",
-      "Tallinn Black Nights"
-    ]
-  },
-  {
-    "id": "8371450f768f5be2a98867a29dda296904efa9ed7a86a5d1d7f11efffe96149c",
-    "title": "THR Visionary: 5 Janusz Kaminski Shots",
-    "summary": "The cinematographer, this year’s THR Visionary Award honoree, always lets film follow function, choosing a visual style to match the story being told.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/thr-visionary-janusz-kaminski-five-visual-styles-1236750395",
-    "published_at": "2026-11-08T17:05:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.981987+00:00",
-    "thin": false,
-    "author": "Scott Roxborough",
-    "tags": [
-      "Movie News",
-      "Movies",
-      "Camerimage 2026",
-      "international",
-      "Janusz Kaminski",
-      "Stephen Spielberg"
-    ]
-  },
-  {
-    "id": "9e7d0421106ccd08625478e1d9e4fa06b257effc362f0784ba2657bb6a91f211",
-    "title": "‘Godzilla Minus Zero’ Powers $31M in Historic Box Office Launch Against Subdued ‘Cat in the Hat’",
-    "summary": "The sequel to 2023's 'Godzilla Minus One' made noise as 'Ramayana' and 'Wild Horse Nine' also debuted.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-box-office-opening-the-cat-in-the-hat-1236750019",
-    "published_at": "2026-11-08T16:56:35+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.982140+00:00",
-    "thin": false,
-    "author": "Ryan Gajewski",
-    "tags": [
-      "Movie News",
-      "Movies",
-      "Bill Hader",
-      "box office",
-      "club kid",
-      "Godzilla Minus One",
-      "Godzilla Minus Zero",
-      "I Play Rocky",
-      "KJ Apa",
-      "Ramayana",
-      "Takashi Yamazaki",
-      "The Cat in the Hat",
-      "Wicker",
-      "Wild Horse Nine",
-      "You Can See Everything"
-    ]
-  },
-  {
-    "id": "5c230bc81846640981e9f6c656fe00aca0ac3256d5195bfa8f482c78f7e5f0db",
-    "title": "‘Godzilla Minus Zero’ Is King Of The Global Weekend Box Office With $63M, Towers Over ‘Ramayana’s $55M+ WW Opening",
-    "summary": "SUNDAY AM: Toho&#8217;s lizard had no plans to be undone by a Hindu deity in a fight at the global box office as Godzilla Minus Zero roared $63M WW over Prime Focus Studio and Sony&#8217;s Ramayana: Rise of a Legend&#8216;s $55.7M global, the bulk of that gross in India. Ramayana had good fortune in Europe, [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/box-office-global-godzilla-minus-zero-ramayana-rise-of-a-legend-1237216698",
-    "published_at": "2026-11-08T16:37:33+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Godzilla-Ramayana-2-shot.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.981124+00:00",
-    "thin": false,
-    "author": "Anthonypauldalessandro",
-    "tags": [
-      "News",
-      "Godzilla Minus Zero",
-      "Ramayana: Rise of a Legend"
-    ]
-  },
-  {
-    "id": "15a6ca9eecca1b9caf3d8defac34627490c2f7d52976ad9b27015b45667f5875",
-    "title": "‘SNL’ Makes Grok Do “Epic Vulgar Roast” Of Elon Musk On ‘Weekend Update’: “The Worst Thing South Africa Has Ever Done”",
-    "summary": "Elon Musk has returned to Saturday Night Live, through Jeremy Culhane&#8217;s hilarious impression, to give a postmortem of the midterm elections. As &#8220;Weekend Update&#8221; co-anchor Colin Jost noted, Musk has been in the news after he wasted half a billion dollars on backing candidates who lost, but the trillionaire disagreed with that take. &#8220;No, I&#8217;m [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/snl-grok-epic-vulgar-roast-elon-musk-weekend-update-1237216693",
-    "published_at": "2026-11-08T16:35:37+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Elon-Musk-SNL.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.981325+00:00",
-    "thin": false,
-    "author": "Glenn Garner",
-    "tags": [
-      "Late Night TV",
-      "News",
-      "Politics",
-      "Elon Musk",
-      "Jeremy Culhane",
-      "midterm elections",
-      "Saturday Night Live",
-      "Weekend Update"
-    ]
-  },
-  {
-    "id": "a0112ab5c146661ed87d98394af5bfc7bd70e972b2dc66afa9b2e9044764ff6d",
-    "title": "Box Office: ‘Godzilla Minus Zero’ Roars With $31 Million Debut, ‘Cat in the Hat’ Fizzles With $20 Million",
-    "summary": "The Cat in the Hat was no match for the mighty Godzilla. &#8220;Godzilla Minus Zero&#8221; climbed to the top of box office charts with $31.6 million from 3,254 theaters, a roaring start for a foreign-language epic in North America. Meanwhile, &#8220;The Cat in the Hat&#8221; stumbled with $20 million from 4,003 locations, a weak debut [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/box-office/godzilla-minus-zero-box-office-opening-weekend-cat-in-the-hat-fizzles-1236942363",
-    "published_at": "2026-11-08T16:01:33+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/MCDGOMI_EC019.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.979352+00:00",
-    "thin": false,
-    "author": "Rebecca Rubin",
-    "tags": [
-      "Box Office",
-      "Godzilla Minus Zero",
-      "The Cat in the Hat"
-    ]
-  },
-  {
-    "id": "d352c19da53e01f7d8f69f0c2d0dad221658fc5fa71a66d2d6ac2a7930943317",
-    "title": "Where to Watch the 2026 NASCAR Cup Series Championship Race Live Online",
-    "summary": "The 2026 season finale is set for Sunday, Nov. 8 at Homestead-Miami Speedway.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-nascar-cup-series-championship-race-2026-free-stream-1236750096",
-    "published_at": "2026-11-08T16:00:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.982254+00:00",
-    "thin": false,
-    "author": "Erin Lassner",
-    "tags": [
-      "TV",
-      "TV News",
-      "how to watch",
-      "NASCAR",
-      "Sports"
     ]
   }
 ]

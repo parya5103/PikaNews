@@ -1,5 +1,1283 @@
 [
   {
+    "id": "8c3bd390301c04be8b6bb5c7cae31716e461bff0cbdaf44cb09f301276433858",
+    "title": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
+    "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, disrupting thousands of departing of flights.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+    "published_at": "2026-11-14T01:54:38+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.266194+00:00",
+    "thin": false
+  },
+  {
+    "id": "c0646db5450146a32e2c91a320623b7bab6b2102da059e8466a925bdd4444af4",
+    "title": "Shane Gillis Grades His Own Mediocre ‘SNL’ Monologue a C Minus",
+    "summary": "The comedian called women who wear workout clothes at the gym \"whores\" on Saturday Night Live",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/shane-gillis-addresses-snl-monologue-1235658237",
+    "published_at": "2026-11-14T01:52:29+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.247502+00:00",
+    "thin": false,
+    "author": "Charisma Madarang",
+    "tags": [
+      "TV & Movies",
+      "TV & Movies News",
+      "Saturday Night Live"
+    ]
+  },
+  {
+    "id": "db3c8e6c7c18a1b3631e9092689d5dd63254881d7f7beac36bb5bf0a5be7f232",
+    "title": "Nationwide FAA Ground Stop Lifted; Radar “Instability,” Old System Was Root Of Airspace Shutdown, Transportation Secretary Insists",
+    "summary": "The Federal Aviation Administration has “lifted” today&#8217;s nationwide grounding of flights. According to Transportation Secretary Sean Duffy, the root cause of the crisis was a radar “instability&#8221; issue that led to the shutting down this afternoon of domestic airspace. In great part, the antiquated system was overwhelmed, Duffy said. &#8220;It was the old hardware that [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/faa-shutdown-lifted-radar-1237223564",
+    "published_at": "2026-11-14T01:48:37+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/sf-airports.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.243069+00:00",
+    "thin": false,
+    "author": "Dominic Patten",
+    "tags": [
+      "News",
+      "Politics",
+      "Donald Trump",
+      "FAA",
+      "FAA Shutdown"
+    ]
+  },
+  {
+    "id": "ec27e6f3ac0e4ffa2340d382f985c0c05a2eed9e88c22190be53e05141e9bfef",
+    "title": "FAA Ground Stoppage Could Impact One Of Hollywood’s Busiest Weekends",
+    "summary": "UPDATED with FAA lifting the ground stop: The FAA&#8217;s nationwide ground stoppage has been lifted, but, coming on the eve of one of the entertainment industry&#8217;s busiest weekends, the residual effects could affect numerous entertainment industry events as organizers scramble to determine if attendees will be able to make it to the events. One of [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/faa-ground-stoppage-hollywood-weekend-events-impact-1237223500",
+    "published_at": "2026-11-14T01:45:00+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2304487977.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.243257+00:00",
+    "thin": false,
+    "author": "Denise Petski",
+    "tags": [
+      "News",
+      "FAA",
+      "FAA Shutdown",
+      "Governors Awards",
+      "Oscars"
+    ]
+  },
+  {
+    "id": "a339df2d2694e8ea790a79be1438bfd30cd9035c9659e46dfb8b30a1aacc5d86",
+    "title": "O.M Trailer X Reactions: Read 11 tweets to know netizens found Dhanush, Sai Pallavi and Mammootty's action drama",
+    "summary": "The trailer of O.M Chapter 1 is out now, and netizens can&#39;t keep calm. Dhanush as a woodcutter caught in the red sandalwood war is being called mass and intense. Sai Pallavi&#39;s bold avatar as CBI officer Nithya Reddy, leading Operation Mole, is winning hearts. But it&#39;s Mammootty &#39;s grey-shaded powerful look that&#39;s stealing all the attention. Fans say Rajkumar Periasamy has packed a solid punch and the November 20 release can&#39;t come soon enough.&nbsp;Here&#39;s how netizens",
+    "category": "bollywood",
+    "source": "Pinkvilla",
+    "url": "https://www.pinkvilla.com/entertainment/south/o-m-trailer-x-reactions-read-11-tweets-to-know-netizens-found-dhanush-sai-pallavi-and-mammoottys-action-drama-1406433",
+    "published_at": "2026-11-14T01:39:53+05:30",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.085887+00:00",
+    "thin": false
+  },
+  {
+    "id": "b6ff25e990d0fd6c373941cff68a3a024801622e796440b81fc3b52d5d386e28",
+    "title": "AFM Dealmakers, Talent Agents and Hollywood Stars Left Stranded by Nationwide Flight Stoppage",
+    "summary": "The Federal Aviation Administration issued a halt on all U.S. flights on Friday at around 1 p.m. PT and didn&#8217;t lift the order until approximately four hours later. With the American Film Market, the Governors Awards and numerous FYC panels scheduled over the next several days, the stoppage left many Hollywood insiders grounded on one [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/news/agents-stars-stranded-flight-stoppage-afm-governors-awards-1236947477",
+    "published_at": "2026-11-14T01:38:17+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2295492926.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.241113+00:00",
+    "thin": false,
+    "author": "Jack Dunn",
+    "tags": [
+      "News",
+      "AFM",
+      "Governors Awards"
+    ]
+  },
+  {
+    "id": "b86304b66c4fa37e1c028041bed08b2b94e1929d7a2513d336f005e464ccf816",
+    "title": "Coachella Tickets Are Already Sold Out — Here’s What They’re Going for on Resale",
+    "summary": "Missed the general sale for Coachella 2027? Here's what to know about resale, the waitlist, and more",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/product-recommendations/tickets/coachella-tickets-where-to-buy-online-2027-1235658206",
+    "published_at": "2026-11-14T01:36:53+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.247633+00:00",
+    "thin": false,
+    "author": "Jonathan Zavaleta",
+    "tags": [
+      "RS Recommends",
+      "Tickets",
+      "Coachella",
+      "noads",
+      "tickets"
+    ]
+  },
+  {
+    "id": "bb83653476ecb0d2989d9e65144e4f442d49168f5366b530c4d32a6bdc4efc76",
+    "title": "New Regency Sues Michael Mann to Retain Rights to ‘Heat’",
+    "summary": "The production company is challenging the director's attempts to reclaim rights to the screenplay.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/new-regency-sues-michael-mann-retain-rights-heat-1236755347",
+    "published_at": "2026-11-14T01:35:37+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.244847+00:00",
+    "thin": false,
+    "author": "Winston Cho",
+    "tags": [
+      "Movie News",
+      "Movies",
+      "Heat",
+      "Michael Mann"
+    ]
+  },
+  {
+    "id": "7558cfd0d5e04d40da5c1228c2670fa14f058c423b6f204a7034b24a23d0b58a",
+    "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+    "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+    "published_at": "2026-11-14T01:34:11+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.266324+00:00",
+    "thin": false
+  },
+  {
+    "id": "e95a85597abdd1fd56c6fe28b41fb507d930c3bec7cc86f180e6f88c3f66b515",
+    "title": "Kamal Khera Named New Canadian Consul General In Los Angeles, Will Meet With Studios",
+    "summary": "Canadian Prime Minister Mark Carney has appointed a new Consul General in Los Angeles, who says she hopes to inspire a renewed sense of unity between Canada and the U.S. The Honourable Kamal Khera was introduced as Canada’s Consul General in Los Angeles on Thursday night at a reception at Canada House, the Consul General&#8217;s [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/biz/news/kamal-khera-canadian-consul-general-los-angeles-1236947219",
+    "published_at": "2026-11-14T01:24:58+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Kamal-Khera.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.241305+00:00",
+    "thin": false,
+    "author": "Tim Chan",
+    "tags": [
+      "News",
+      "Kamal Khera"
+    ]
+  },
+  {
+    "id": "e8637e73888c65e08d1f3591664c4b338e5d5b5d1d6d4cf53298b0f6aaeed005",
+    "title": "SpaceX launches Starship in key test flight of massive rocket",
+    "summary": "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
+    "published_at": "2026-11-14T01:18:51+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.266464+00:00",
+    "thin": false
+  },
+  {
+    "id": "12f565d81fc0bf1ef15a7c9f91aa9ac6bf7397ba014d43129dd5b8268796d350",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences",
+    "published_at": "2026-11-14T01:00:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.246198+00:00",
+    "thin": false,
+    "author": "Colin Stutz",
+    "tags": [
+      "Business",
+      "Business News",
+      "billboard pro",
+      "conferences",
+      "Events",
+      "festivals",
+      "Touring"
+    ]
+  },
+  {
+    "id": "623843e7dd304313677321c282ceb35b86a0f257371b5a012f95b2d51e2afb3b",
+    "title": "Kanye West Settles Lawsuit Over Sample Blocked by Descendant of Holocaust Survivors",
+    "summary": "The German singer-songwriter said she refused to let West, nown known as Ye, sample her song because of his antisemitic remarks",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/kanye-west-settles-lawsuit-alice-merton-holocaust-survivors-1235658191",
+    "published_at": "2026-11-14T00:59:53+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.247760+00:00",
+    "thin": false,
+    "author": "Nancy Dillon",
+    "tags": [
+      "Music",
+      "Music News",
+      "controversy",
+      "courts and crime",
+      "Kanye West",
+      "Ye"
+    ]
+  },
+  {
+    "id": "8114849106d0b842565918fe6bfaa3df1da79c10c0730e0ba40a0a589f662bfe",
+    "title": "Sabalenka's season ended by Svitolina at WTA Finals",
+    "summary": "Aryna Sabalenka's season ends in disappointment as Elina Svitolina beats the former world number one to claim her place in the knockout stage at the WTA Finals.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/tennis/articles/cw30gl912vq9o",
+    "published_at": "2026-11-14T00:51:25+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eab2/live/4631dfd0-dfbe-11f1-a785-cd5ce5e90c71.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.267301+00:00",
+    "thin": false
+  },
+  {
+    "id": "9abaf06ed29ee1c420aac651ad5127f4d3b8f175e78f882e848310e582f6e4aa",
+    "title": "Rock & Roll Hall of Fame Induction Ceremony to Proceed as Planned Despite FAA Grounding Flights Nationwide",
+    "summary": "All of the artists set to participate in Saturday's event are already in Los Angeles.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/music/music-news/rock-roll-hall-of-fame-to-proceed-flights-grounded-1236755204",
+    "published_at": "2026-11-14T00:42:46+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.244972+00:00",
+    "thin": false,
+    "author": "Ethan Millman",
+    "tags": [
+      "Music",
+      "Music News",
+      "Rock & Roll Hall of Fame"
+    ]
+  },
+  {
+    "id": "f353c8a736df8082d4ca07403c42a00e5a4c11725848125738cd339baef9b242",
+    "title": "Isla Fisher & Blake Ritson Join Al Pacino In John Paul Getty III Kidnapping Pic ‘Captivated’",
+    "summary": "EXCLUSIVE: Isla Fisher and The Gilded Age&#8216;s Blake Ritson have boarded the Al Pacino thriller Captivated inspired by the extraordinary true story of the 1973 kidnapping of John Paul Getty III. Also joining the cast is Jackson Kelly (The Pitt, The Body). Dito Montiel is directing with production underway in Calabria and Rome, Italy. The [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/al-pacino-captiviated-isla-fisher-blake-ritson-1237223529",
+    "published_at": "2026-11-14T00:41:20+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Isla-Fisher-Blake-Ritson-Al-Pacino.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.243446+00:00",
+    "thin": false,
+    "author": "Anthonypauldalessandro",
+    "tags": [
+      "Casting",
+      "AFM",
+      "Al Pacino",
+      "Blake Ritson",
+      "Captivated",
+      "Isla Fisher",
+      "Jackson Kelly"
+    ]
+  },
+  {
+    "id": "0b0f1ee2737b20b2ed242f6e921b2434a358e5d41bff5654ca426dde12e89dc7",
+    "title": "O.M Trailer Out: Dhanush's Operation Mole against red sandalwood mafia looks intense, Mammootty &amp; Sai Pallavi steal show",
+    "summary": "After much delay, the much-awaited trailer for Dhanush&#39;s O.M i.e., OPERATION MOLE Chapter 1: Udhiram - The Blood Wood, is finally out, and it lives up to the hype.&nbsp;The trailer introduces us to the world of red sandalwood smuggling. Dhanush plays a woodcutter who gets pulled deep into the dangerous syndicate.&nbsp;O.M i.e., OPERATION MOLE Sai Pallavi, who is currently winning hearts as Sita Mata in Ramayana , makes a powerful impact as Nithya Reddy, a CBI officer in O.M. Her character gl",
+    "category": "bollywood",
+    "source": "Pinkvilla",
+    "url": "https://www.pinkvilla.com/entertainment/south/o-m-trailer-out-dhanushs-operation-mole-against-red-sandalwood-mafia-looks-intense-mammootty-sai-pallavi-steal-show-1406432",
+    "published_at": "2026-11-14T00:38:32+05:30",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.086787+00:00",
+    "thin": false
+  },
+  {
+    "id": "885f3b6fff6f7d5686b29e2f4e50c285db5a9d0d52db82e6125a917e0d5afabb",
+    "title": "James Gunn Says “No One From Skydance Has Seen” ‘Man Of Tomorrow’: “There Are A Lot Of Untrue Rumors Going Around”",
+    "summary": "James Gunn is clearing up some rumors following his exit as co-head of DC Studios. With Skydance making changes amid the Paramount and Warner Bros. merger, Peter Safran and Gunn announced they would not be heading DC Studios. Amid their exits, many rumors have circulated. One prominent story was that Skydance saw the Superman sequel, [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/james-gunn-skydance-man-of-tomorrow-1237223531",
+    "published_at": "2026-11-14T00:35:06+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2025/07/james-gunn-superman.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.243627+00:00",
+    "thin": false,
+    "author": "Armando Tinoco",
+    "tags": [
+      "News",
+      "DC Studios",
+      "James Gunn",
+      "Skydance"
+    ]
+  },
+  {
+    "id": "e8c5fa476ba76e18200984f8dcf4639c1400fb97ba47e406944a2d473d93a014",
+    "title": "HBO’s 5-Part Crime Drama Has One of the Best Seasons in TV History",
+    "summary": "The Wire’s fourth season provided a far deeper look at Baltimore’s problems",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/the-wire-season-4-recommendation",
+    "published_at": "2026-11-14T00:20:17+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/roland-pryzbylewski-teached-a-class-in-the-wire-season-4.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.265606+00:00",
+    "thin": false,
+    "author": "Sam Nelson",
+    "tags": [
+      "What to Watch",
+      "The Wire"
+    ]
+  },
+  {
+    "id": "e78c1a018bf1fa2eaff88d15a8157b37721d2b7739669fc1d6c0eb79b7a84bb6",
+    "title": "Fallout 5 and Fallout Remasters Officially Announced",
+    "summary": "Bethesda Softworks updates fans on the future of Fallout, which includes new Fallout 3 and New Vegas releases and Fallout 5.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/fallout-5-fo3-remaster-new-games-bethesda-softworks",
+    "published_at": "2026-11-14T00:16:18+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/fallouts2tbimage3_3000.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.265733+00:00",
+    "thin": false,
+    "author": "Michael McWhertor",
+    "tags": [
+      "No social"
+    ]
+  },
+  {
+    "id": "4479c6bd0adeb83208eb8551ff42233968e05e24209c89c2ee13c3e73ff1edda",
+    "title": "Trump Says Federal Film Tax Credit Is Gaining Momentum",
+    "summary": "The proposal for film and TV tax incentives, which drew broad bipartisan support when it was introduced earlier this year, faces an uphill battle for passage in the lame-duck session.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/business/business-news/trump-federal-film-tax-credit-gaining-momentum-1236755258",
+    "published_at": "2026-11-14T00:11:56+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.245101+00:00",
+    "thin": false,
+    "author": "Winston Cho",
+    "tags": [
+      "Business",
+      "Business News",
+      "donald trump"
+    ]
+  },
+  {
+    "id": "df3d03f596719be62dc2f36da7acb257eef3f74453a78780ba9e8cbe5f742718",
+    "title": "How ‘The Basement Yard’ Host Joe Santagato Got Into the World of ‘Hot Ones’",
+    "summary": "The comedian and podcaster is hosting and executive producing a 'Hot Ones' spin-off 'Hot Ones: Game Night.'",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/business/digital/the-basement-yard-host-joe-santagato-hot-ones-1236754573",
+    "published_at": "2026-11-14T00:10:12+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.245226+00:00",
+    "thin": false,
+    "author": "Nicole Fell",
+    "tags": [
+      "Business",
+      "Digital",
+      "Hot Ones",
+      "Joe Santagato",
+      "Podcast"
+    ]
+  },
+  {
+    "id": "7ee67e378fd195b1f650cbcfe3dbfc1bbf52817d86898cf8b08e20d9e1a52388",
+    "title": "In Canada: Canada Music Fund to Receive $67M Boost; Women in Music Executive Award Winners Share Their Wisdom",
+    "summary": "Also this week: Sean Paul appears on the first episode of Billboard Canada News .",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/pro/canada-music-fund-67m-boost-canada-news",
+    "published_at": "2026-11-14T00:10:09+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.246334+00:00",
+    "thin": false,
+    "author": "Chris Eggertsen",
+    "tags": [
+      "Business",
+      "Business News",
+      "Billboard Canada",
+      "Canada",
+      "In Canada",
+      "International",
+      "Music News"
+    ]
+  },
+  {
+    "id": "503b559ca99dfe18a7aff4d48c879b84bb218587cc06f5b898244bded9ffa592",
+    "title": "Ben Stiller Gives Update on His New York Knicks Documentary: “The Pressure Is on”",
+    "summary": "The actor tells The Hollywood Reporter that the multi-part doc, in development with HBO and A24, will explore the team's history and championship run.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/ben-stiller-new-york-knicks-documentary-update-hbo-a24-1236754821",
+    "published_at": "2026-11-14T00:08:28+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.245384+00:00",
+    "thin": false,
+    "author": "Lexi Carson",
+    "tags": [
+      "Movie News",
+      "Movies",
+      "A24",
+      "Ben Stiller",
+      "Documentaries",
+      "documentary",
+      "Events",
+      "hbo",
+      "Knicks",
+      "nba",
+      "New York Knicks",
+      "Red Carpet",
+      "Sports"
+    ]
+  },
+  {
+    "id": "f58e8b85c3e8bcf50564f96affaf575b62e855fb5486734f4ae59445e94492a2",
+    "title": "Student of the Year After Dark Review: Shanaya Kapoor’s Gen Z whodunit is entertaining and racy with half baked moments",
+    "summary": "Student of the Year: After Dark, starring Shanaya Kapoor in the lead role, was released on the OTT platform JioHotstar and has been available for streaming since November 13, 2026. Directed, co-written, and co-created by Reema Maya, the 6-episode web series is a spin-off of the SOTY franchise and explores a whodunit mystery thriller instead of a&nbsp;college rom-com. If you&rsquo;re planning to watch it, here&rsquo;s the Pinkvilla review for you to check out. The Plot Student of the Year: After",
+    "category": "bollywood",
+    "source": "Pinkvilla",
+    "url": "https://www.pinkvilla.com/entertainment/reviews/student-of-the-year-after-dark-review-shanaya-kapoors-gen-z-whodunit-is-entertaining-and-racy-with-half-baked-moments-1406431",
+    "published_at": "2026-11-14T00:01:44+05:30",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.088332+00:00",
+    "thin": false
+  },
+  {
+    "id": "cafa75bb47078cb6a9ad7bc511943695ac74eba4d26a41ce07fdc4e99f6f8d48",
+    "title": "Jason Voorhees Makes His Animated Debut in New ‘Never Hike Alone’ Short",
+    "summary": "More than 46 years after his big-screen debut in the slasher classic “Friday the 13th,” hulking horror icon Jason Voorhees is about to prove that his machete cuts just as deep in animation. The hockey-masked killer returns in “Never Hike Alone: Ghosts in the Fog,” a new 10-minute animated film from independent production company Womp [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/digital/news/jason-voorhees-animated-debut-hike-alone-short-1236947225",
+    "published_at": "2026-11-13T23:45:40+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Jason-with-bloody-head.png",
+    "collection_timestamp": "2026-11-14T01:58:21.241490+00:00",
+    "thin": false,
+    "author": "Pat Saperstein",
+    "tags": [
+      "News",
+      "Jason Voorhees",
+      "Never Hike Alone"
+    ]
+  },
+  {
+    "id": "d6c8f8f59b7258c9f1e5f9c4b42f45d27ffe6d1180f7b796311cd04d49010c41",
+    "title": "France edge past South Africa after thriller in Nations Championship",
+    "summary": "France hold their nerve to beat South Africa by just two points, winning 21-19 at the Stade de France, to make it four wins from five in the Nations Championship and putting the home side in a strong position to top the northern hemisphere standings.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c6eq4npqy7e0o",
+    "published_at": "2026-11-13T23:43:05+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a01/live/d41f1040-dfbb-11f1-93e1-3b657b665bcf.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.267882+00:00",
+    "thin": false
+  },
+  {
+    "id": "be6f1f545048770847b1b4c3bd3ca3a7b9a0676afe828e89a73adb7462570e41",
+    "title": "Live updates: No timeline for resolving nationwide ground stop as flight cancellations climb",
+    "summary": "&#32; submitted by &#32; /u/usefsaeed &#32; to &#32; r/technology [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/technology/comments/1xvnevv/live_updates_no_timeline_for_resolving_nationwide",
+    "published_at": "2026-11-13T23:40:21+00:00",
+    "image_url": "https://external-preview.redd.it/C-mF0idPrZJYHZCvqdUw7NBcoISlC-JHa7pHZLfMPQ4.jpeg",
+    "collection_timestamp": "2026-11-14T01:58:21.272908+00:00",
+    "thin": false,
+    "author": "/u/usefsaeedhttps://www.reddit.com/user/usefsaeed",
+    "tags": [
+      "technology"
+    ]
+  },
+  {
+    "id": "e5d3eb2a442e51d3c355e2d8f9e702cc616da761efe6e832f413a0a72ed60129",
+    "title": "Shane Gillis Addresses ‘SNL’ Monologue After He Promised Show “No Controversy”",
+    "summary": "One month later, Shane Gillis is addressing the fallout from his Saturday Night Live opening monologue. After sparking controversy for accusing women of &#8220;dressing like whores&#8221; at the gym, the comedian explained why the NBC sketch comedy show didn&#8217;t cut the joke from his monologue for the Oct. 10 episode he hosted. &#8220;Not to defend [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/shane-gillis-addresses-snl-monologue-promised-no-controversy-1237223484",
+    "published_at": "2026-11-13T23:38:08+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/NUP_212008_00014-1.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.243799+00:00",
+    "thin": false,
+    "author": "Glenn Garner",
+    "tags": [
+      "News",
+      "Saturday Night Live",
+      "Shane Gillis"
+    ]
+  },
+  {
+    "id": "ba1c81817cf5851392cfa8766e209aba58a182ebd7d51dc8ebfab96013b86dbb",
+    "title": "Producer Kevin J. Walsh Had Seen It All. Then ‘Being Heumann’ Came Along",
+    "summary": "The Oscar-nominated producer helped open doors for the disabled community on the set of Sian Heder's latest pic: \"I'm as proud of what we did behind the scenes to redefine access as I am of the quality of this movie.\"",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-features/being-heumann-kevin-j-walsh-1236754923",
+    "published_at": "2026-11-13T23:31:29+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.245534+00:00",
+    "thin": false,
+    "author": "Brian Davids",
+    "tags": [
+      "Movie Features",
+      "Movies",
+      "Being Heumann",
+      "Kevin J. Walsh",
+      "Ridley Scott",
+      "Sian Heder",
+      "The Walsh Company"
+    ]
+  },
+  {
+    "id": "a0938b3a2c8a71640fa7faeb5282a7dbfa389b00dac4cb11beb57656ba8f342b",
+    "title": "Video shows the aftermath of the Atlantic Asphalt tanker crashing into the American Heritage riverboat on the Mississippi River in New Orleans. Everyone on board is accounted for, and no critical injuries have been reported.",
+    "summary": "&#32; submitted by &#32; /u/MilesLongthe3rd &#32; to &#32; r/interestingasfuck [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/interestingasfuck/comments/1xvn7o3/video_shows_the_aftermath_of_the_atlantic_asphalt",
+    "published_at": "2026-11-13T23:31:13+00:00",
+    "image_url": "https://external-preview.redd.it/bnh2cGsza3FzZzFpMeB-pvt1fe0BWAimAUjP-CS7Y-lDXaqjiylcjxNEN8Du.png",
+    "collection_timestamp": "2026-11-14T01:58:21.270878+00:00",
+    "thin": false,
+    "author": "/u/MilesLongthe3rdhttps://www.reddit.com/user/MilesLongthe3rd",
+    "tags": [
+      "interestingasfuck"
+    ]
+  },
+  {
+    "id": "76b093707e4601d9bb8211d9176fa45ec21d6efddb026d0efeb334bba93953e9",
+    "title": "Amid Flight Halt, Trump Meets With Jon Voight to Talk U.S. Film Incentive: ‘Get This Done!’",
+    "summary": "As flights across the U.S. came to a halt Friday amid a rare nationwide ground stop, President Donald Trump was in a meeting with actor Jon Voight to talk about jumpstarting support for a federal film incentive. Voight and his team, Steven Paul and Scott Karol, were at the White House to urge the president [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/news/trump-hasnt-commented-flight-shutdown-promoting-film-incentive-1236947426",
+    "published_at": "2026-11-13T23:28:40+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2304645430.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.241672+00:00",
+    "thin": false,
+    "author": "Pat Saperstein",
+    "tags": [
+      "News",
+      "Donald Trump",
+      "Federal film incentive"
+    ]
+  },
+  {
+    "id": "ab73df417f6030377d064e597bb820a09bdeebd4f2db0fad5e8b2214286026ab",
+    "title": "‘VisionQuest’ Sticks The Landing With Most-Watched Marvel Finale In 3 Years",
+    "summary": "VisionQuest brought the WandaVision trilogy to a close earlier this week with Marvel&#8217;s most-watched finale in three years. The episode, which debuted Tuesday, gathered 3.7 million views after one day of streaming globally on Disney+, marking a series high and a 44% viewership increase over the previous episode. It&#8217;s the best audience for a Marvel [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/visionquest-finale-viewership-record-marvel-1237223483",
+    "published_at": "2026-11-13T23:24:42+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/10/TM_Trailer2_Still_4.jpeg",
+    "collection_timestamp": "2026-11-14T01:58:21.243976+00:00",
+    "thin": false,
+    "author": "Katie Campione",
+    "tags": [
+      "News",
+      "Ratings",
+      "Marvel",
+      "TV Ratings",
+      "VisionQuest"
+    ]
+  },
+  {
+    "id": "f5d5063136a1f1042a57a190f70e4e30206ce80ba0dddcae6ae8e6a15e2506a7",
+    "title": "Joel Kinnaman to Star in Creature Thriller ‘The Cell’ for ‘Sleeping Dogs’ Director Adam Cooper (Exclusive)",
+    "summary": "Highland Film Group is launching sales at AFM on the project, which follows an investigative journalist whose body begins mutating inside a secret medical testing facility.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/joel-kinnaman-thriller-the-cell-director-adam-cooper-afm-1236755213",
+    "published_at": "2026-11-13T23:20:15+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.245678+00:00",
+    "thin": false,
+    "author": "Patrick Brzeski",
+    "tags": [
+      "Movie News",
+      "Movies",
+      "AFM",
+      "international"
+    ]
+  },
+  {
+    "id": "c6bea440c4ebb8023f7276b9d9de79e801123f406356021c365cc9b7f0218168",
+    "title": "John Summit, David Guetta, Alison Wonderland & More to Play College Football Playoff National Championship Weekend",
+    "summary": "The free AT&#38;T Playoff Playlist Live festival happens Jan. 23-24 in Las Vegas.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/music-news/las-vegas-college-football-champship-music-festival-summit-1236382125",
+    "published_at": "2026-11-13T23:16:54+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.246460+00:00",
+    "thin": false,
+    "author": "Katie Bain",
+    "tags": [
+      "Music",
+      "Music News",
+      "Dance",
+      "genre dance",
+      "sports"
+    ]
+  },
+  {
+    "id": "a71ad8a366f67720c4f6498222071f6e991c45d9f1312fedb7929a9ce21571df",
+    "title": "Seth Rogen on ‘The Invite,’ ‘Tangles,’ ‘The Studio’ Season 2, Reviving ‘Darkwing Duck’ and Why ‘Any A–hole Can Write That Joke’ Was the Best Advice He Ever Got",
+    "summary": "For years, people have told me that Seth Rogen and I are voice twins. Sitting across from him at the Middleburg Film Festival, deep in Virginia horse country, even Jeremy, the person recording our conversation, can confirm that the resemblance is very close. Even so, the year Rogen is having belongs entirely to him. Coming [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/awards/seth-rogen-the-invite-tangles-the-studio-season-2-1236946538",
+    "published_at": "2026-11-13T23:16:01+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Tangles-New-York-Screening-1000.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.241874+00:00",
+    "thin": false,
+    "author": "Clayton Davis",
+    "tags": [
+      "Awards",
+      "News",
+      "Podcasts",
+      "Awards Circuit Podcast",
+      "Seth Rogen",
+      "The Invite",
+      "The Studio"
+    ]
+  },
+  {
+    "id": "12eb97358a7c7fdcc0b3203dfba1c1ac6504d64f34e3b25b3587ebc72a44073a",
+    "title": "Donald Trump Urges Congress To Pass Federal Film & TV Tax Incentive Amid Worries Bill Will Languish: “Get This Done!”",
+    "summary": "As networks reported on a highly unusual nationwide ground stop of all flights in the United States, Donald Trump made another pitch for Congress to pass a federal film &#38; TV tax incentives. On Truth Social, Trump listed the bipartisan group of lawmakers who support the 20% incentive, even naming one of his frequent political [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/trump-federal-film-incentive-1237223479",
+    "published_at": "2026-11-13T23:14:55+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2292328576-e1792074477445.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.244158+00:00",
+    "thin": false,
+    "author": "Ted Johnson",
+    "tags": [
+      "News",
+      "Politics",
+      "Adam Schiff",
+      "Donald Trump",
+      "ElectionLine",
+      "film and TV incentive",
+      "Film incentives"
+    ]
+  },
+  {
+    "id": "6e9988f6b01bc46db7103e50048aee64e05e62c457d34152c42791d4e10e4452",
+    "title": "Young Thug Responds to Quavo’s Attempt to Have Him Reconcile With Gunna: ‘How Uma Fix Some Sh– I Didn’t Break Qua?’",
+    "summary": "Offset detailed why he stood by Gunna following the YSL RICO trial during a Popcast appearance.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/rb-hip-hop/young-thug-quavo-gunna-offset-reconciliation-ysl-trial-1236382064",
+    "published_at": "2026-11-13T23:13:43+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.246587+00:00",
+    "thin": false,
+    "author": "Michael Saponara",
+    "tags": [
+      "Music",
+      "R&B/Hip-Hop",
+      "genre hiphop",
+      "Music News"
+    ]
+  },
+  {
+    "id": "fd190861cf69b31e8788cb283f6a76eea8bc216cefdf022f77cefb5a2eecff46",
+    "title": "Why Jordan Brand Is Using a ‘Space Jam’ Docuseries to Launch “Jordan TV”",
+    "summary": "The Nike-owned brand is planning to use its Jordan TV platforms to roll out content built around its products, and Michael Jordan himself.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/business/digital/beyond-the-jam-space-jam-youtube-docuseries-jordan-brand-1236755122",
+    "published_at": "2026-11-13T23:11:19+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.245805+00:00",
+    "thin": false,
+    "author": "Alex Weprin",
+    "tags": [
+      "Business",
+      "Digital",
+      "advertising",
+      "YouTube"
+    ]
+  },
+  {
+    "id": "6e1558865ada289fb586c89e3e3fd9d7b3c17bc2478cf70a6667970f0650ffdf",
+    "title": "First time owning a cat! Is this normal??",
+    "summary": "This is Theo and I adopted her from a shelter a couple months ago! I’ve noticed every so often I’ll catch her just chillin in this position and I’ve never seen a cat do it before! Is this normal?! &#32; submitted by &#32; /u/Verycoolleaf &#32; to &#32; r/cats [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/cats/comments/1xvmmzg/first_time_owning_a_cat_is_this_normal",
+    "published_at": "2026-11-13T23:05:33+00:00",
+    "image_url": "https://preview.redd.it/oojojv0aog1i1.jpeg",
+    "collection_timestamp": "2026-11-14T01:58:21.269913+00:00",
+    "thin": false,
+    "author": "/u/Verycoolleafhttps://www.reddit.com/user/Verycoolleaf",
+    "tags": [
+      "cats"
+    ]
+  },
+  {
+    "id": "2115d4576e5edd0cca72812609ab73aad955dbfba1c032741ed57aea2bf1b171",
+    "title": "France hold nerve to edge past South Africa in thriller",
+    "summary": "France hold on to end their five-match losing run against South Africa at Stade de France with an enthralling 21-19 victory in Paris.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqm2j810r2m2o",
+    "published_at": "2026-11-13T23:03:36+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63fc/live/fe60f040-dfb0-11f1-be1f-9dae57fabf82.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.267052+00:00",
+    "thin": false
+  },
+  {
+    "id": "cf66374cbc7c50cfd7c392db1c3d8ce9889d9f9251064b33e9fcdfea9a75a944",
+    "title": "Johnny Depp Pic ‘Ebenezer’ Opening To Spirited $20M+ U.S. – Box Office Update",
+    "summary": "FRIDAY AFTERNOON: Right now, Paramount&#8217;s Ebenezer, looks healthy for a Johnny Depp non-franchise opening with $20M+ after a $7.1M Friday/previews. That&#8217;s around where the actor&#8217;s 2015 Black Mass ($22.6M) and 2009 Public Enemies ($25.2M) began. Sure, those were R-rated movies, but a $20M beginning for any Hollywood star-driven vehicle is surely no bah-humbug. The Ti [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/box-office-ebenezer-1237222749",
+    "published_at": "2026-11-13T23:02:00+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/MCDEBAC_PA010.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.244340+00:00",
+    "thin": false,
+    "author": "Anthonypauldalessandro",
+    "tags": [
+      "News",
+      "Ebenezer",
+      "How To Rob A Bank"
+    ]
+  },
+  {
+    "id": "3b0cdb9473bf94803ea079cabbf4b56f7f1e401145504cfc8a076b6dc85a3ced",
+    "title": "Horror Man Gary Dauberman Signs First-Look Deal With Blumhouse Atomic (Exclusive)",
+    "summary": "The writer behind 'It' and the 'Annabelle' movies is teaming up with two of the biggest names in horror. What fresh hell will they conjure up?",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/gary-dauberman-signs-first-look-deal-blumhouse-atomic-1236755092",
+    "published_at": "2026-11-13T23:00:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.245930+00:00",
+    "thin": false,
+    "author": "Borys Kit",
+    "tags": [
+      "Movie News",
+      "Movies",
+      "Annabelle",
+      "Blumhouse Atomic Monster",
+      "Gary Dauberman"
+    ]
+  },
+  {
+    "id": "3a1f41c3bf46b28c81d08a4bb915601318ee41580ded1fbe88095d5dcc77a514",
+    "title": "Who Is Sara Schell, The Newcomer Who Won Songwriter of the Year at the 2026 Latin Grammys?",
+    "summary": "Meet the Venezuelan behind hits by KATSEYE, Becky G, J Balvin &#38; other major stars.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/latin/meet-sara-schell-latin-grammy-songwriter-of-the-year-nominee-1236379607",
+    "published_at": "2026-11-13T23:00:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.246704+00:00",
+    "thin": false,
+    "author": "Sigal Ratner-Arias",
+    "tags": [
+      "Latin",
+      "Music",
+      "Awards",
+      "genre latin",
+      "interview",
+      "Latin Grammys",
+      "Music News"
+    ]
+  },
+  {
+    "id": "3c22940abf3ad144fe01e6d221180e71565b68b2b79fcd0238b18e6a4570c335",
+    "title": "Justin Bieber Pops Out at Rising British Star’s $30 Concert in L.A. in Surprise Cameo: ‘Who’s Gonna Pinch Me Then?’",
+    "summary": "The pop star jumped in on Finn Askew's song \"Music All Over Her Body.\"",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/music-news/justin-bieber-surprise-cameo-finn-askew-la-show-1236382042",
+    "published_at": "2026-11-13T22:58:37+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.246822+00:00",
+    "thin": false,
+    "author": "Hannah Dailey",
+    "tags": [
+      "Music",
+      "Music News",
+      "genre pop"
+    ]
+  },
+  {
+    "id": "d542f93b04d763c06678ba8450e1251c03df4a29f8c8ce08ed508af5060b571a",
+    "title": "JB Smoove Talks Creativity and Fighting AI Fears, Evan Shapiro Breaks Down the Digital Entertainment Economy at Variety’s Business Managers Breakfast",
+    "summary": "JB Smoove brought his signature creative swagger and Evan Shapiro broke down the digital entertainment economy during lively conversations held as part of Variety&#8216;s annual Business Managers Breakfast presented by City National Bank. The event, held Thursday in West Hollywood, hosted Variety’s 2026 Business Managers Elite honorees and recognized Citrin Cooperman&#8217;s Arnie Herrmann as Business [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/biz/news/business-managers-variety-jb-smoove-shapiro-arnie-herrmann-1236947175",
+    "published_at": "2026-11-13T22:58:33+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/JC2_5659.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.242092+00:00",
+    "thin": false,
+    "author": "Mya Copeland",
+    "tags": [
+      "News",
+      "Business Managers Recap 2026",
+      "Daily Variety CNB"
+    ]
+  },
+  {
+    "id": "f6d8a6a95d0d46fbbef75a99ca3cd29a0c05d4eb7dae622065e9c6beb39172fa",
+    "title": "Indie Producer Sphere Media Bolsters Leadership, Names David Way as Unscripted Head (Exclusive)",
+    "summary": "The ‘Wayward’ and ‘The Service’ producer has made other executive moves as Jennifer Kawaja steps down as English scripted division president while remaining an executive producer on select projects.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/business/business-news/sphere-media-david-way-unscripted-head-1236755075",
+    "published_at": "2026-11-13T22:57:31+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.246076+00:00",
+    "thin": false,
+    "author": "Etan Vlessing",
+    "tags": [
+      "Business",
+      "Business News",
+      "international"
+    ]
+  },
+  {
+    "id": "bec3b2094845e588822a719d83441b59b1ec3c34d9b51f1283ec51a906f0a0ad",
+    "title": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
+    "summary": "What can Manchester United fans expect from their new manager Mauricio Pochettino? BBC Sport gets an insight from Toby Alderweireld, who played under him at Spurs.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c85y13pv69xwo",
+    "published_at": "2026-11-13T22:53:17+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8125/live/1aaff900-dfb9-11f1-b154-657b8bcda5ea.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.266934+00:00",
+    "thin": false
+  },
+  {
+    "id": "85096fde216447cd1c16ee9f25d2cefe0eacff23cc703cf99befe9f1073ff7dc",
+    "title": "Blizzard Officially Responds to Disappointed Overwatch Fans Over Hero 55",
+    "summary": "Overwatch's next hero, Hudson, will be a Damage (DPS) character, not a support. Fans are disappointed by the switch and Blizzard is responding.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/overwatch-new-hero-55-hudson-damage-dps-blizzard",
+    "published_at": "2026-11-13T22:53:10+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/02/ow_s1_herolineup_keyart.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.265867+00:00",
+    "thin": false,
+    "author": "Michael McWhertor",
+    "tags": [
+      "News",
+      "Overwatch",
+      "Overwatch (Formerly Overwatch 2)"
+    ]
+  },
+  {
+    "id": "b31bef10622a8c61f2c2d19bc5f22abf04215fec383ba6700e5be307c5d9a162",
+    "title": "Hollywood Still Faces Weekend Disruptions After FAA Lifts Flight Ground Stop",
+    "summary": "UPDATED: After a four-hour long flight ground stop, Hollywood still expects a weekend of disruptions after the Federal Aviation Administration lifted the shutdown Friday evening. Travel plans were thrown into question for talent, executives and buyers headed to and from Los Angeles and New York for one of the busiest stretches on the industry calendar. [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/news/faa-flights-ground-stop-hollywood-weekend-disruptions-1236947370",
+    "published_at": "2026-11-13T22:51:29+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2304485743.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.242275+00:00",
+    "thin": false,
+    "author": "Clayton Davis",
+    "tags": [
+      "News",
+      "faa",
+      "Governors Awards",
+      "Oscars"
+    ]
+  },
+  {
+    "id": "4b24bb7bd798f83c9916a7f1df4d5c86a2b624a4082bd2f48130bb95f3d40de4",
+    "title": "Gambit Gets Serious: Channing Tatum’s Superhero Is ‘Not All Laughs’ in ‘Avengers: Doomsday’ as Kevin Feige Promises Fans a ‘Fully-Rounded Character’",
+    "summary": "When Channing Tatum returns as Gambit in &#8220;Avengers: Doomsday,&#8221; he will be a &#8220;fully-rounded character&#8221; and not just a supporting player used for non-stop laughs and cool action scenes. That was mostly Gambit&#8217;s purpose during his Marvel Cinematic Universe debut in 2024&#8217;s &#8220;Deadpool &#38; Wolverine.&#8221; Fans have been wondering ever since Tatum was confirmed for [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/news/gambit-avengers-doomsday-kevin-feige-not-laughs-1236947232",
+    "published_at": "2026-11-13T22:48:20+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2025/03/gambit-2.webp",
+    "collection_timestamp": "2026-11-14T01:58:21.242479+00:00",
+    "thin": false,
+    "author": "Zack Sharf",
+    "tags": [
+      "News",
+      "Avengers: Doomsday",
+      "Channing Tatum",
+      "Gambit",
+      "Marvel Studios"
+    ]
+  },
+  {
+    "id": "025a8e79e82fa3e867ad3a8b86631586ecaa018c334a5e56fe139b59aed5feae",
+    "title": "BBC Studios Hires Former Amazon Exec Bree Frank In Production Role",
+    "summary": "BBC Studios has named Bree Frank as SVP, Production. The Dancing with the Stars producer has hired Frank from Evolution Media, the Amazon MGM Studios-owned producer, where she worked on series including The Real Housewives of Rhode Island, The Real Housewives of Beverly Hills and The Real Housewives of Orange County. In the role, she [&#8230;]",
+    "category": "technology",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/bbc-studios-bree-frank-1237223469",
+    "published_at": "2026-11-13T22:46:35+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/split-image-1500_018892.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.244499+00:00",
+    "thin": false,
+    "author": "Peterdeadline",
+    "tags": [
+      "News",
+      "BBC Studios",
+      "Bree Frank"
+    ]
+  },
+  {
+    "id": "55f39a282091f9923dae0218e6ba812e915558a64d2e4162ef6e873864162b72",
+    "title": "Il Volo Reflect on 18 Years Together, Their Christmas Traditions and What’s Next",
+    "summary": "The Italian trio has just released a new album, Our Christmas , and will be touring major arenas in the U.S. and Italy from November-December.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/music-news/il-volo-our-christmas-billboard-italy-1236382101",
+    "published_at": "2026-11-13T22:42:25+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.246955+00:00",
+    "thin": false,
+    "author": "Joe Lynch",
+    "tags": [
+      "Music",
+      "Music News",
+      "Il Volo"
+    ]
+  },
+  {
+    "id": "8db57fbaf4f84d4acfa4333af8dc123bc8a792f6038f95af4548b6d396ec2d4d",
+    "title": "Journey Go Their Separate Ways With Longtime Drummer",
+    "summary": "Deen Castronovo has left Journey's stage mid-show at two recent stops due to a medical issue, and now is handing off his drum sticks to veteran musician Steve Murphy",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/journey-part-ways-with-drummer-1235658141",
+    "published_at": "2026-11-13T22:42:06+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.247898+00:00",
+    "thin": false,
+    "author": "Andy Greene",
+    "tags": [
+      "Music",
+      "Music News",
+      "Journey"
+    ]
+  },
+  {
+    "id": "d3da4db1c99b699f87d18058781644645d6db2a5ec168685cd0f4fb93caaeaf5",
+    "title": "Goalkeeper involved in fatal collision gets 12-game ban",
+    "summary": "Jesus Owono is given a 12-match suspension by the Spanish football federation's disciplinary committee after his challenge which resulted in the death of Jesus de Miguel.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cm98xy2j8k1ko",
+    "published_at": "2026-11-13T22:37:30+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e32e/live/2f147b80-dfa7-11f1-a701-fddedf244c16.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.267172+00:00",
+    "thin": false
+  },
+  {
+    "id": "a10a6bc3e524aff5798fab546ab4ab7c6e3adbc7283e65b96b4624ecff23256a",
+    "title": "Dashboard Confessional 2027: Where to Shop Affordable Unplugged 25th Anniversary Tour Tickets Online",
+    "summary": "Starting on Mar. 12, the iconic emo band hits the road with 14 tour dates across the United States.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/culture/product-recommendations/dashboard-confessional-2027-tour-tickets-buy-shop-online-1236379707",
+    "published_at": "2026-11-13T22:37:25+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.247079+00:00",
+    "thin": false,
+    "author": "Rudie Obias",
+    "tags": [
+      "Culture",
+      "Product Recommendations",
+      "NOADS",
+      "tickets",
+      "Touring"
+    ]
+  },
+  {
+    "id": "44229760570b6f9019da71be99987dc28db1cb498d66499d98faa0051fb5d405",
+    "title": "Plating a winter bird buffet for the neighborhood regulars",
+    "summary": "Source: @instant.birds on TikTok &#32; submitted by &#32; /u/danielminds &#32; to &#32; r/oddlysatisfying [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/oddlysatisfying/comments/1xvlxa3/plating_a_winter_bird_buffet_for_the_neighborhood",
+    "published_at": "2026-11-13T22:34:34+00:00",
+    "image_url": "https://external-preview.redd.it/OXlvbm5tcnFpZzFpMbuuvDDu4UqpNgQEcsy5XfgVF7_yH7rdF1vRxZtkskDy.png",
+    "collection_timestamp": "2026-11-14T01:58:21.272639+00:00",
+    "thin": false,
+    "author": "/u/danielmindshttps://www.reddit.com/user/danielminds",
+    "tags": [
+      "oddlysatisfying"
+    ]
+  },
+  {
+    "id": "20ad459435f9452b54b786316fd22b834b879c7aa4ae1130b7678e2c1cb2e519",
+    "title": "‘VisionQuest’ Finale Hits 3.7 Million Views in One Day",
+    "summary": "The finale of &#8220;VisionQuest&#8221; reached 3.7 million views globally in one day of streaming on Disney+. Measured by Disney, that total puts the episode above the finale of every other Marvel Cinematic Universe TV series in the last three years, since Season 2 of &#8220;Loki&#8221; in 2023. The other MCU series released since then include [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/tv/news/visionquest-finale-ratings-views-1236947348",
+    "published_at": "2026-11-13T22:34:23+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/10/VisionQuest_TF_1.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.242646+00:00",
+    "thin": false,
+    "author": "Selome Hailu",
+    "tags": [
+      "News",
+      "Marvel Cinematic Universe",
+      "VisionQuest"
+    ]
+  },
+  {
+    "id": "b3c366bbfdb139ea30320b4b37e8a92c9e4814f5cb6f73c717103dd9def01380",
+    "title": "'If that penalty is given against you, you're furious'",
+    "summary": "Sportscene pundits Leanne Crichton and Scott Brown discuss the penalty award that led to Scotland beating North Macedonia.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/c34gn5k2lk9lo",
+    "published_at": "2026-11-13T22:34:20+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb69/live/58b9cb60-dfb2-11f1-a701-fddedf244c16.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.267995+00:00",
+    "thin": false
+  },
+  {
+    "id": "6954bfde1bfaa6150614eed008d6ef15039a27eabde5edc0b56d20a8471d82b5",
+    "title": "Viva La Lisa! 5 Best Moments From LISA’s Opening Night in Las Vegas",
+    "summary": "The BLACKPINK superstar made history at The Colosseum at Caesars Palace with seven live debuts &#38; an unreleased song.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/lists/lisa-las-vegas-opening-night-review-best-moments",
+    "published_at": "2026-11-13T22:32:15+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.247201+00:00",
+    "thin": false,
+    "author": "Katie Atkinson",
+    "tags": [
+      "Music",
+      "Pop",
+      "genre kpop",
+      "Las Vegas",
+      "Music News"
+    ]
+  },
+  {
+    "id": "f110979dcbfadfa7d12fd7fcd5c7e61902d9566a4c4eb2b7426a29a0afbdb627",
+    "title": "We Shall See!",
+    "summary": "&#32; submitted by &#32; /u/EducationalElk8134 &#32; to &#32; r/BlackPeopleofReddit [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/BlackPeopleofReddit/comments/1xvlt3q/we_shall_see",
+    "published_at": "2026-11-13T22:29:50+00:00",
+    "image_url": "https://preview.redd.it/t8uthnnwhg1i1.jpeg",
+    "collection_timestamp": "2026-11-14T01:58:21.269611+00:00",
+    "thin": true,
+    "author": "/u/EducationalElk8134https://www.reddit.com/user/EducationalElk8134",
+    "tags": [
+      "BlackPeopleofReddit"
+    ]
+  },
+  {
+    "id": "b306ba7593040faac64ffe814fb41881eecc4f023fff50b23ba98a5f76084172",
+    "title": "Robert Garcia demands answers as Trump officials offer few details on nationwide ground stop stranding flyers",
+    "summary": "&#32; submitted by &#32; /u/Dull-Surprise-641 &#32; to &#32; r/politics [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/politics/comments/1xvlskv/robert_garcia_demands_answers_as_trump_officials",
+    "published_at": "2026-11-13T22:29:12+00:00",
+    "image_url": "https://external-preview.redd.it/quUbAXC5qgMNVRO1FySsQGszBIKkdedHYsU1iydPuv8.jpeg",
+    "collection_timestamp": "2026-11-14T01:58:21.273183+00:00",
+    "thin": false,
+    "author": "/u/Dull-Surprise-641https://www.reddit.com/user/Dull-Surprise-641",
+    "tags": [
+      "politics"
+    ]
+  },
+  {
+    "id": "a96ecc7bbc95dbaf73c3f8db68883b8a47324608e6ff255ee666869346e4be22",
+    "title": "Jesse Eisenberg, Gina Prince-Bythewood, Beth de Araújo and Dawn Porter to Be Honored at Sundance Fundraiser Event",
+    "summary": "Sundance Institute will honor Jesse Eisenberg, Gina Prince-Bythewood, Beth de Araújo and Dawn Porter at its annual fundraiser, Celebrating Sundance Institute: The Boulder Debut, on Jan. 22. Recognizing an artist’s contributions to independent film, Eisenberg will receive the Sundance Institute Trailblazer Award, joining previous honorees including Chloé Zhao, James Mangold and Christopher Nolan. “Every time [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/news/jesse-eisenberg-gina-prince-bythewood-sundance-fundraiser-1236947327",
+    "published_at": "2026-11-13T22:21:32+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/image.jpeg",
+    "collection_timestamp": "2026-11-14T01:58:21.242853+00:00",
+    "thin": false,
+    "author": "Tanya Fedak",
+    "tags": [
+      "News",
+      "Jesse Eisenberg",
+      "Sundance Film Festial",
+      "Sundance Institue"
+    ]
+  },
+  {
+    "id": "ee9a3b333f1cd822a8452cbe24a6dce79e06319ca8406590e7ef634cc81b250f",
+    "title": "Drake Finally Makes ‘Take Care’ Bonus Track ‘Hate Sleeping Alone’ Available Across All Streaming Platforms",
+    "summary": "The fan-favorite song wasn't previously available on YouTube or Spotify.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/rb-hip-hop/drake-hate-sleeping-alone-streaming-take-care-bonus-track-1236381994",
+    "published_at": "2026-11-13T22:15:30+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.247364+00:00",
+    "thin": false,
+    "author": "Angel Diaz",
+    "tags": [
+      "Music",
+      "R&B/Hip-Hop",
+      "genre hiphop",
+      "Music News",
+      "streaming"
+    ]
+  },
+  {
+    "id": "57c63e188cfa9aeb9ea90d6939d0bb7ce419f911fabfbb039f2b5fea047a4131",
+    "title": "Salah scores twice as Egypt and Nigeria win Afcon 2027 qualifiers",
+    "summary": "Nigeria beat Tanzania to boost their hopes of reaching the 2027 Africa Cup of Nations, while Mohamed Salah scores twice as Egypt cruise to victory over Malawi.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cw1md9jx2r3po",
+    "published_at": "2026-11-13T22:11:27+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/526a/live/09935180-dfaa-11f1-a701-fddedf244c16.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.267446+00:00",
+    "thin": false
+  },
+  {
+    "id": "e5108ba35ef1dbe2087d8ee77bacf2f4723b6754808df641594dccd75cb073ee",
+    "title": "meirl",
+    "summary": "&#32; submitted by &#32; /u/danielminds &#32; to &#32; r/meirl [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/meirl/comments/1xvlc7c/meirl",
+    "published_at": "2026-11-13T22:10:21+00:00",
+    "image_url": "https://preview.redd.it/319onmhfeg1i1.png",
+    "collection_timestamp": "2026-11-14T01:58:21.271072+00:00",
+    "thin": true,
+    "author": "/u/danielmindshttps://www.reddit.com/user/danielminds",
+    "tags": [
+      "meirl"
+    ]
+  },
+  {
+    "id": "704f561a3cf735b26db7b886aa37d29a1cbe6e6190807944e779ea549970c196",
+    "title": "Hackers stole $6.3 billion from Binance—2 habits that take 'a few seconds' can help you avoid similar traps",
+    "summary": "Researchers from the Digital Inquiry Group say that two habits that take just \"a few seconds up front\" can help keep you from being \"duped\" online.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/make-it/2026/11/13/binance-hack-2-online-habits-that-can-help-you-avoid-scams-.html",
+    "published_at": "2026-11-13T22:06:55+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.266696+00:00",
+    "thin": false
+  },
+  {
+    "id": "7ba1886bfe6e3ef737057f298d7f4dd6df1b9e52552d1200f6326401de95758e",
+    "title": "Man Utd want Paz, Chelsea target Kounde - Saturday's gossip",
+    "summary": "Manchester United are targeting Como midfielder Nico Paz as new manager Mauricio Pochettino prepares to receive backing in the transfer market at Old Trafford.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cq39glw42xkjo",
+    "published_at": "2026-11-13T22:05:14+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9ed/live/b5eb8580-dfb2-11f1-a701-fddedf244c16.png",
+    "collection_timestamp": "2026-11-14T01:58:21.267694+00:00",
+    "thin": false
+  },
+  {
+    "id": "d65d51e84ca127bf1600688ced76b2d6dad51389fcc413f2b0b9c30160d5a1f7",
+    "title": "A door I made, that’s meant to look like the sun setting over the ocean.",
+    "summary": "This was my first time making an exterior door so I’m not sure that everything I did was best practice, but I’m happy with the way it turned out, and we’ll see how it holds up. It’s made entirely of sapele, including the frame. The frame: The frame is dovetailed, has low angle beveled stops and a beveled threshold to match the angle cut on the bottom of the door. I did this in hopes that there would be more compressive force on the weather stripping without dragging so much, like ive seen on fla",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/woodworking/comments/1xvl6fs/a_door_i_made_thats_meant_to_look_like_the_sun",
+    "published_at": "2026-11-13T22:03:38+00:00",
+    "image_url": "https://preview.redd.it/j0gi05p7dg1i1.jpeg",
+    "collection_timestamp": "2026-11-14T01:58:21.270526+00:00",
+    "thin": false,
+    "author": "/u/redditaccount599901https://www.reddit.com/user/redditaccount599901",
+    "tags": [
+      "woodworking"
+    ]
+  },
+  {
+    "id": "754d9ab6073efe323f8bb2d29e3cb2161155140b04cb1db845789d5dd88fe799",
+    "title": "10 New Movies to Watch This Weekend on Netflix, Prime Video, and HBO Max (November 13 - 15)",
+    "summary": "On this week's streaming column, there's one of the biggest dinosaur blockbusters of the year, a big horror movie, and much more.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/new-movies-streaming-this-weekend-netflix-november-13-15",
+    "published_at": "2026-11-13T22:00:18+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/anne-hathaway-end-of-oak-street-032626-3eee5c3dcc1a4cd4b378d5646318c42c.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.266002+00:00",
+    "thin": false,
+    "author": "Maria Loreto",
+    "tags": [
+      "Polygon Lists",
+      "Other Mommy",
+      "The End of Oak Street",
+      "Movies"
+    ]
+  },
+  {
+    "id": "ca0b1a9065dd1196ee9ac05d98aa4b33fab82fbeee085d51c03c98a2b8b16025",
+    "title": "‘Yellowjackets’ Co-Creator Bart Nickerson Hints That Unreleased Bonus Episode Didn’t Fit “Canon Of The Show”",
+    "summary": "As Yellowjackets reaches its final destination after four seasons, many fans are still curious about an episode that never made it to air. While discussing Season 4 of the supernatural survival thriller, which premieres Nov. 20, co-creators Bart Nickerson and Ashley Lyle shed some light on the unreleased bonus episode for Deadline after it was [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/yellowjackets-creator-unreleased-bonus-episode-didnt-fit-canon-1237223357",
+    "published_at": "2026-11-13T21:54:29+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Yellowjackets.jpg",
+    "collection_timestamp": "2026-11-14T01:58:21.244687+00:00",
+    "thin": false,
+    "author": "Glenn Garner",
+    "tags": [
+      "News",
+      "Ashley Lyle",
+      "Bart Nickerson",
+      "Paramount+",
+      "Showtime",
+      "Yellowjackets"
+    ]
+  },
+  {
+    "id": "16278340cec12a026ed58184edcc749c0f257ca5a912f3841980a1c17284c8a1",
+    "title": "'Gloves are off' - how Australian papers reacted to Cummins on Khawaja",
+    "summary": "The Australian newpapers have their say after Pat Cummins' extraordinary 68-minute news conference.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cq1k97y4e1rxo",
+    "published_at": "2026-11-13T21:53:37+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/435c/live/a8e4b030-dfaa-11f1-93e1-3b657b665bcf.png",
+    "collection_timestamp": "2026-11-14T01:58:21.267554+00:00",
+    "thin": false
+  },
+  {
+    "id": "93ebe510b9b64fb3bf6b8698f47483a6343c11d502ca26e4460372a0dabc6a8f",
+    "title": "Megan Moroney, Teddy Swims, Ejae to Perform at 100th Macy’s Thanksgiving Parade",
+    "summary": "Queen Latifah, Devo, the Roots, and Keke Palmer are among the star-studded lineup for this year's edition of the annual event",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/megan-moroney-teddy-swims-ejae-macys-thanksgiving-parade-1235658100",
+    "published_at": "2026-11-13T21:49:29+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.248047+00:00",
+    "thin": false,
+    "author": "Althea Legaspi",
+    "tags": [
+      "Music",
+      "Music News",
+      "Devo",
+      "Huntr/x",
+      "Keke Palmer",
+      "Megan Moroney",
+      "Queen Latifah",
+      "Teddy Swims",
+      "The Roots"
+    ]
+  },
+  {
     "id": "0dbe5570870ef974d563d8b0b5f3972fcc59a890372d0b06811d8e1097515c33",
     "title": "Sony’s Tom Rothman Hopes It Will Be A ‘Brand New Day’ For ‘Spider-Man’ As Studio Launches Major Best Picture Oscar Campaign: “Are You Telling Me There Are 10 Films Better Than This One?”",
     "summary": "EXCLUSIVE: Watch out Oscar. Spider-Man is aiming to get your attention. Sony Pictures and Marvel&#8217;s Spider-Man: Brand New Day is about to launch an all-out campaign to land a spot in the Best Picture race at the 99th annual Academy Awards. Can the highest-grossing movie of not just this year but all time at the [&#8230;]",
@@ -20,6 +1298,22 @@
       "Tom Holland",
       "Tom Rothman",
       "Zendaya"
+    ]
+  },
+  {
+    "id": "6eccd1deb3fdf680790796336808a9a422665bd91bbff23c083303138818bf96",
+    "title": "A man trying to get his old job back 2,700 years ago complained about three unanswered letters. The letter containing his complaint was found unopened.",
+    "summary": "&#32; submitted by &#32; /u/jrralls &#32; to &#32; r/Damnthatsinteresting [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/Damnthatsinteresting/comments/1xvkpfd/a_man_trying_to_get_his_old_job_back_2700_years",
+    "published_at": "2026-11-13T21:44:36+00:00",
+    "image_url": "https://preview.redd.it/2blgrqhr9g1i1.jpeg",
+    "collection_timestamp": "2026-11-14T01:58:21.273483+00:00",
+    "thin": false,
+    "author": "/u/jrrallshttps://www.reddit.com/user/jrralls",
+    "tags": [
+      "Damnthatsinteresting"
     ]
   },
   {
@@ -52,6 +1346,22 @@
     "image_url": null,
     "collection_timestamp": "2026-11-13T21:48:04.689144+00:00",
     "thin": false
+  },
+  {
+    "id": "22983d7ef5bae313244ac7a6cc684cd1906c1aef7a8bceaea2fc68785cfcccd1",
+    "title": "TIL that the Titanic is slowly being eaten away by iron-consuming bacteria, losing an estimated 130-200 kg of iron every day. One researcher estimates that it could take several centuries for the entire wreck to disappear",
+    "summary": "&#32; submitted by &#32; /u/FuckASchwarzenegger &#32; to &#32; r/todayilearned [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/todayilearned/comments/1xvkoa2/til_that_the_titanic_is_slowly_being_eaten_away",
+    "published_at": "2026-11-13T21:43:16+00:00",
+    "image_url": "https://external-preview.redd.it/RRyqluF0MrQnhfzHY4F0DYI5UBol3rt5WKLWPS4kHxo.jpeg",
+    "collection_timestamp": "2026-11-14T01:58:21.274031+00:00",
+    "thin": false,
+    "author": "/u/FuckASchwarzeneggerhttps://www.reddit.com/user/FuckASchwarzenegger",
+    "tags": [
+      "todayilearned"
+    ]
   },
   {
     "id": "c07d98b86bfc168566a7cb6ef38d35fef7f1437b16417d5b06ea5c7c82b58775",
@@ -191,6 +1501,22 @@
       "TV News",
       "international",
       "Obituaries"
+    ]
+  },
+  {
+    "id": "80fc9154a8d4e87e3b787195d349c30421228d64fceeb8b558be876e9ce43fda",
+    "title": "Why are all flights in the USA grounded right now? What happened",
+    "summary": "&#32; submitted by &#32; /u/Optimal_Battle_185 &#32; to &#32; r/NoStupidQuestions [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/NoStupidQuestions/comments/1xvk9av/why_are_all_flights_in_the_usa_grounded_right_now",
+    "published_at": "2026-11-13T21:26:28+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.272350+00:00",
+    "thin": false,
+    "author": "/u/Optimal_Battle_185https://www.reddit.com/user/Optimal_Battle_185",
+    "tags": [
+      "NoStupidQuestions"
     ]
   },
   {
@@ -426,6 +1752,22 @@
     ]
   },
   {
+    "id": "93f4e2287e773837787807cc94c0e238b77485a60efe0d8aad76802d76bdbcbb",
+    "title": "FAA ISSUES NATIONWIDE GROUND STOP FOR ALL FLIGHTS.",
+    "summary": "MESSAGE: | EVENT TIME: 13/2053 - 14/0400 DUE TO EXTRAORDINARY CIRCUMSTANCES AND FOR REASONS OF SAFETY. ATTENTION ALL AIRCRAFT OPERATORS, BY ORDER OF THE FEDERAL AVIATION COMMAND CENTER ALL AIRPORTS ARE GROUND STOPPED. ALL DEPARTING TRAFFIC SHOULD REMAIN GROUND STOPPED UNTIL FURTHER NOTICE. INBOUND INTERNATIONAL FLIGHTS WILL BE MANAGED ON A CASE BY CASE BASIS. EFFECTIVE TIME: | 132054-140430 SIGNATURE: | 26/11/13 20:54 https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=13",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/delta/comments/1xvjlzt/faa_issues_nationwide_ground_stop_for_all_flights",
+    "published_at": "2026-11-13T21:01:03+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.271760+00:00",
+    "thin": false,
+    "author": "/u/ProcedureTasty2647https://www.reddit.com/user/ProcedureTasty2647",
+    "tags": [
+      "delta"
+    ]
+  },
+  {
     "id": "5463489f47876a05ecc750f6e56a8f557840d9ad54b31c99cb92af9ec287438c",
     "title": "Cities: Skylines' Best Replacement Is Finally Here and Better than Expected",
     "summary": "Transport Fever 3 turned me into a lover of logistics-based city builder games with how much more hands-on it is compared to Cities: Skylines",
@@ -566,6 +1908,24 @@
       "Huelva Ibero-American Film Festival",
       "Paulina Garcia",
       "The Riverbank"
+    ]
+  },
+  {
+    "id": "f20d99676a0e2850a986f4be57512c55fd440c8766a46e5e07154411df1a4321",
+    "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+    "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+    "published_at": "2026-11-13T20:53:04-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.249639+00:00",
+    "thin": false,
+    "author": "Richard Lawler",
+    "tags": [
+      "Mass Transit",
+      "News",
+      "Transportation"
     ]
   },
   {
@@ -1078,6 +2438,22 @@
     ]
   },
   {
+    "id": "7ffe23d56572367967e77020e5579686312bcb3aa0eb6bd4a3bb16800ec70bcf",
+    "title": "Italian artist Eduardo Castaldo has unveiled an artwork titled “Holy Mother of Gaza” inside the Pappacoda Chapel in Naples, peeling away the painting’s outer layer to reveal a real photograph from Gaza captured by Palestinian photojournalist Omar El Qattaa",
+    "summary": "&#32; submitted by &#32; /u/No-Hall-3485 &#32; to &#32; r/Fauxmoi [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/Fauxmoi/comments/1xvhwi9/italian_artist_eduardo_castaldo_has_unveiled_an",
+    "published_at": "2026-11-13T19:54:20+00:00",
+    "image_url": "https://external-preview.redd.it/MHR0dm84YmpwZjFpMbu56KeoND-S__dIhm6Lcq_yHQEnixCa5TZSPawPXeM6.png",
+    "collection_timestamp": "2026-11-14T01:58:21.274385+00:00",
+    "thin": false,
+    "author": "/u/No-Hall-3485https://www.reddit.com/user/No-Hall-3485",
+    "tags": [
+      "Fauxmoi"
+    ]
+  },
+  {
     "id": "5a02a6cb37c68518e2d9d0680acc1ba486f1ef54b4b087991bd4176706298d50",
     "title": "After Jensen Huang’s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
     "summary": "Advisors say investors should weigh their Nvidia exposure, time horizon and risk tolerance before reacting to the leadership change.",
@@ -1423,6 +2799,18 @@
     ]
   },
   {
+    "id": "9b1985ca2767f4f25552edb6f1e34cde7369ad1dd56d998a0ea7b9b9f14d4261",
+    "title": "Spider Man Brand New Day: Tom Holland’s Film to Re-release on December 4 With 10 Minutes of Additional Footage; REPORT",
+    "summary": "Spider-Man: Brand New Day, starring Tom Holland in the lead role, was released in theatres on July 31, 2026. Directed by Destin Daniel Cretton, the superhero film is reportedly set to return to theatres ahead of the release of Avengers: Doomsday, featuring around 10 minutes of additional footage. Spider-Man: Brand New Day to re-release with 10 minutes of additional footage? According to a report by Lets Cinema, Spider-Man: Brand New Day is set to receive a theatrical re-release with 10 minutes o",
+    "category": "bollywood",
+    "source": "Pinkvilla",
+    "url": "https://www.pinkvilla.com/entertainment/hollywood/spider-man-brand-new-day-tom-hollands-film-to-re-release-on-december-4-with-10-minutes-of-additional-footage-report-1406428",
+    "published_at": "2026-11-13T19:02:33+05:30",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.089215+00:00",
+    "thin": false
+  },
+  {
     "id": "422b838a45ffb7ee97471d78a6c5e78545a73aca4c40cca6671af71a46bcf831",
     "title": "Retirees sometimes tap savings for one-off expenses. Here’s what advisors say to consider first",
     "summary": "Retirees who need cash for a one-time expense may look to their 401(k) or IRA, but financial advisors say there are trade-offs to weigh first.",
@@ -1509,6 +2897,26 @@
     ]
   },
   {
+    "id": "f2d4fd16391c6939bab92bdd5bed371402ffebbb28d998b05d8f5c62ba8b74f6",
+    "title": "Amazon has a plan to index the world’s online shopping data",
+    "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+    "published_at": "2026-11-13T18:49:11-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.249834+00:00",
+    "thin": false,
+    "author": "Stevie Bonifield",
+    "tags": [
+      "AI",
+      "Amazon",
+      "News",
+      "Online Shopping",
+      "Tech"
+    ]
+  },
+  {
     "id": "bc1ed0728cc50ea2cfb2cb2cf646a6ff158c873d291312b859c53e1c4b195cf0",
     "title": "Has it really been that long...",
     "summary": "&#32; submitted by &#32; /u/VintageModified &#32; to &#32; r/gaming [link] &#32; [comments]",
@@ -1538,6 +2946,22 @@
     "author": "/u/UnknownVellichorhttps://www.reddit.com/user/UnknownVellichor",
     "tags": [
       "interesting"
+    ]
+  },
+  {
+    "id": "804c44008d2db1dd6e8f5857c2f163b58681876310e16ba83ba7fc0f778bc2a6",
+    "title": "Regret is rare among transgender youth who started hormone therapy, according to the largest study of its kind. Of 376 young people surveyed about 5 years after starting estrogen or testosterone, 96.8% said it was the right decision, only 2.7% regretted it, and 82.7% were still taking hormones.",
+    "summary": "&#32; submitted by &#32; /u/mvea &#32; to &#32; r/science [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/science/comments/1xvfvlp/regret_is_rare_among_transgender_youth_who",
+    "published_at": "2026-11-13T18:37:17+00:00",
+    "image_url": "https://external-preview.redd.it/VpOcZagy_w0YOH8c_o6Q9fuD1_e6nZ9ss2t12BQistM.jpeg",
+    "collection_timestamp": "2026-11-14T01:58:21.272152+00:00",
+    "thin": false,
+    "author": "/u/mveahttps://www.reddit.com/user/mvea",
+    "tags": [
+      "science"
     ]
   },
   {
@@ -1670,6 +3094,18 @@
     "thin": false
   },
   {
+    "id": "dfe895559268cdf9194a7a4fa5a7f343a1edb9eb9b13d54f63e8470b1339076b",
+    "title": "Anirudh Ravichander skips out on work till January 2027? Composer likely to resume with Sandiyar teaser",
+    "summary": "Anirudh Ravichander and businesswoman Kavya Maran reportedly tied the knot on November 11, 2026. As the musician takes a break following his wedding, it appears that he might return to work only in January 2027. Anirudh Ravichander to step away from work till 2027? According to a report by Valai Pechu, Anirudh Ravichander is planning to take a break from his musical commitments until January 2027. The composer is expected to resume work next year, reportedly beginning with the teaser for Kamal H",
+    "category": "bollywood",
+    "source": "Pinkvilla",
+    "url": "https://www.pinkvilla.com/entertainment/south/anirudh-ravichander-skips-out-on-work-till-january-2027-composer-likely-to-resume-with-sandiyar-teaser-1406427",
+    "published_at": "2026-11-13T17:48:39+05:30",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.090053+00:00",
+    "thin": false
+  },
+  {
     "id": "a45a47ef95ae7e810a85c479fe18b1501b81a4fbe854ed05c6cd9cf8fd3fe288",
     "title": "Let's be Friends (Part 3/3) - Gator Days",
     "summary": "&#32; submitted by &#32; /u/FieldExplores &#32; to &#32; r/comics [link] &#32; [comments]",
@@ -1778,6 +3214,18 @@
     "tags": [
       "Gaming,News"
     ]
+  },
+  {
+    "id": "595cbb0bdd01e4147cece07e90c850b767eb472047cccc8a3bd1d238b7244691",
+    "title": "Ramayana Opening Week Kerala Box Office: Ranbir Kapoor, Sai Pallavi and Yash starrer wrecks havoc, smashes Rs 28 crore in 8 days",
+    "summary": "Namit Malhotra&#39;s Ramayana is rewriting new box office records in God&#39;s own land, Kerala. The epic saga, starring Ranbir Kapoor, Sai Pallavi, and Yash, has gone berserk at the Malayalam box office ever since it hit the cinemas. It kicked off its box office run with Rs. 3 crore in Kerala and went on to collect over Rs. 13 crore in its 4-day opening weekend.&nbsp; Directed by Nitesh Tiwari, the movie gained even more momentum from Monday onwards and added Rs. 15.25 crore to the tally, bring",
+    "category": "bollywood",
+    "source": "Pinkvilla",
+    "url": "https://www.pinkvilla.com/entertainment/box-office/ramayana-opening-week-kerala-box-office-ranbir-kapoor-sai-pallavi-and-yash-starrer-wrecks-havoc-smashes-rs-28-crore-in-8-days-1406426",
+    "published_at": "2026-11-13T17:03:44+05:30",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.091015+00:00",
+    "thin": false
   },
   {
     "id": "9aa279a5dfc49ea10fcccc9d010cd5aebc9bba58f8696b2804a41bd00ca22657",
@@ -1933,6 +3381,18 @@
     "author": "D'Arcy Maine"
   },
   {
+    "id": "adb78442d342a488f68ebc3232226208811d5aba98d3bd73bf903a0d402dba62",
+    "title": "Top First 8 Days of All Time at Hindi Box Office: Ranbir Kapoor and Yash starrer takes 2nd spot, Who's ruling at No. 1?",
+    "summary": "Ramayana Part One, directed by Nitesh Tiwari, maintained a strong hold at the box office. The Ranbir Kapoor and Yash starrer epic saga wrapped up its extended opening week of 8 days at Rs. 429 crore nett at the Hindi box office. This includes 3D collections too. Without 3D, the opening week stands at Rs. 406 crore.&nbsp; In both cases, Ramayana recorded the second-biggest opening week of all time in Hindi. That&#39;s a huge feat considering it was released in the pre-Diwali period, which isn&#39",
+    "category": "bollywood",
+    "source": "Pinkvilla",
+    "url": "https://www.pinkvilla.com/entertainment/box-office/top-10-first-weeks-of-all-time-at-hindi-box-office-ranbir-kapoor-and-yash-starrer-takes-2nd-spot-whos-ruling-at-no-1-1406424",
+    "published_at": "2026-11-13T16:04:30+05:30",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.091952+00:00",
+    "thin": false
+  },
+  {
     "id": "a04ae75e55358cc56318049d89be76bc1709a1acb4034038433150abbc3e56a8",
     "title": "MLB offseason grades: Red Sox land Jake Bauers amid winter's first big moves",
     "summary": "We've got you covered with grades and analysis on every winter signing and big offseason trade.",
@@ -1957,6 +3417,18 @@
     "collection_timestamp": "2026-11-13T21:48:04.703014+00:00",
     "thin": false,
     "author": "Jorge Castillo and Alden Gonzalez and Jesse Rogers"
+  },
+  {
+    "id": "ba754151c3ed60579b48d638f10bf6d887dea3be9e909b1879eeb4c8b89045f0",
+    "title": "Mom to be Samantha Ruth Prabhu flaunts her baby bump in a pink bohemian look; WATCH",
+    "summary": "Samantha Ruth Prabhu and her husband, Raj Nidimoru, are expecting their first child this year. As the actress enjoys this new phase of her life, she was recently spotted stepping out of a salon in Bandra, Mumbai. Mom-to-be Samantha Ruth Prabhu flaunts her baby bump in pink floral look In a recent paparazzi video, Samantha Ruth Prabhu was spotted wearing a vibrant pink floral outfit that exuded effortless charm. Featuring playful ruffles and a breezy silhouette, the ensemble gave the actress a re",
+    "category": "bollywood",
+    "source": "Pinkvilla",
+    "url": "https://www.pinkvilla.com/entertainment/south/mom-to-be-samantha-ruth-prabhu-flaunts-her-baby-bump-in-a-pink-bohemian-look-watch-1406425",
+    "published_at": "2026-11-13T16:00:17+05:30",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.092821+00:00",
+    "thin": false
   },
   {
     "id": "edc8dcf31615b2be69bfbce1c2aac62c19d7389440f56a2c23db1dedf17bc7a6",
@@ -2563,6 +4035,22 @@
       "Box Office",
       "Ebenezer",
       "Johnny Depp"
+    ]
+  },
+  {
+    "id": "967e559466f601f419ee969603557959bcfa296b707c3818ef832c9ec67b5a20",
+    "title": "Thomas Jefferson",
+    "summary": "&#32; submitted by &#32; /u/Appropriate-Mall8517 &#32; to &#32; r/HistoryMemes [link] &#32; [comments]",
+    "category": "trending",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/HistoryMemes/comments/1xvaw65/thomas_jefferson",
+    "published_at": "2026-11-13T15:31:58+00:00",
+    "image_url": "https://preview.redd.it/rwe7rfjcfe1i1.jpeg",
+    "collection_timestamp": "2026-11-14T01:58:21.273689+00:00",
+    "thin": true,
+    "author": "/u/Appropriate-Mall8517https://www.reddit.com/user/Appropriate-Mall8517",
+    "tags": [
+      "HistoryMemes"
     ]
   },
   {
@@ -3409,6 +4897,18 @@
     ]
   },
   {
+    "id": "bdd1d41ff47c6e27e910231cff7d0ae51ca815d5340d70056da4da6a60b69141",
+    "title": "Ramayana Vs Dhurandhar The Revenge Box Office Comparison: Ranbir Kapoor and Yash starrer remains behind Ranveer Singh's film in first week",
+    "summary": "Ramayana is the latest entrant in the Rs. 1000 crore grosser at the worldwide box office. Earlier this year, Dhurandhar: The Revenge wrecked havoc at the box office and achieved this milestone. Here&#39;s a look at their first week&#39;s box office comparison.&nbsp; In Hindi, Dhurandhar: The Revenge has a big headstart, part of that is better release date for opening purpose and of course a higher initial demand. There is also lesser release of Hindi version in South India, which has probably co",
+    "category": "bollywood",
+    "source": "Pinkvilla",
+    "url": "https://www.pinkvilla.com/entertainment/box-office/ramayana-vs-dhurandhar-the-revenge-box-office-comparison-ranbir-kapoor-and-yash-starrer-remains-behind-ranveer-singhs-film-in-first-week-1406423",
+    "published_at": "2026-11-13T13:38:12+05:30",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.094049+00:00",
+    "thin": false
+  },
+  {
     "id": "fbf81d0fc89781fc03a4454905adcaee2c2893244fe1f88078788621932538de",
     "title": "McIlroy and Hatton tied as Chacarra stays in hunt",
     "summary": "Rory McIlroy is tied for the lead at the halfway mark of the season-ending DP World Tour Championship as he chases a record-equalling eighth Race to Dubai title.",
@@ -3418,6 +4918,18 @@
     "published_at": "2026-11-13T13:36:46+00:00",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74e5/live/c72c4680-df63-11f1-a8af-15d7a25dc0d1.png",
     "collection_timestamp": "2026-11-13T15:54:59.831387+00:00",
+    "thin": false
+  },
+  {
+    "id": "b229db110e79ac565b7fccc7c83bbd0d97c8dcfbe9bf00be2d4f1d790f0d15b1",
+    "title": "Itllu Arjuna Twitter Review: 9 Tweets to read before watching Anaswara Rajan and Sai Aniesh’s romantic action drama",
+    "summary": "Itllu Arjuna, starring Anaswara Rajan and Sai Aniesh in the lead roles, was released in theatres on November 13, 2026. Directed by Mahesh Uppala, the romantic action drama has received mixed reactions from audiences. Here&#39;s what viewers have to say about the film. Itllu Arjuna Twitter Review Taking it online, a user praised the first half, particularly the flashback episode, and appreciated the heroine&#39;s performance, Thaman&#39;s music and the hero&#39;s acting. The viewer also expressed",
+    "category": "bollywood",
+    "source": "Pinkvilla",
+    "url": "https://www.pinkvilla.com/entertainment/south/itllu-arjuna-twitter-review-9-tweets-to-read-before-watching-anaswara-rajan-and-sai-anieshs-romantic-action-drama-1406422",
+    "published_at": "2026-11-13T13:30:46+05:30",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.095432+00:00",
     "thin": false
   },
   {
@@ -3701,6 +5213,30 @@
     ]
   },
   {
+    "id": "0b3166d7f9672bc43a7bc31ee429e9a1efe090504fd2a8f25a6545eaf561fb01",
+    "title": "Scene Opening Week Worldwide Box Office Collections: Suriya starrer storms Rs 196 crore globally in 7 days",
+    "summary": "Scene, starring Suriya in the lead role, is performing well at the box office. The movie collected Rs. 6.25 crore on its Day 7, registering a 25 per cent drop from the previous day. The Tamil cop comedy drama wrapped up its first week at Rs. 126 crore gross at the Indian box office.&nbsp; Directed by Jithu Madhavan, the movie collected Rs. 63.25 crore in Tamil Nadu in its first week. It raked in over Rs. 23.50 crore in Kerala and Rs. 23.25 crore in AP/TS so far. The movie grossed Rs. 13.25 crore",
+    "category": "bollywood",
+    "source": "Pinkvilla",
+    "url": "https://www.pinkvilla.com/entertainment/box-office/scene-opening-week-worldwide-box-office-collections-suriya-starrer-storms-rs-196-crore-globally-in-7-days-1406421",
+    "published_at": "2026-11-13T12:52:19+05:30",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.096542+00:00",
+    "thin": false
+  },
+  {
+    "id": "21b149086244b9a709f85931b646203f59f1e4a347b394e520ecf92b29467860",
+    "title": "Ramayana Part One Box Office: Ranbir Kapoor and Yash starrer becomes eleventh Indian film and fastest ever to cross Rs. 1000 Cr worldwide",
+    "summary": "Ramayana: Part One entered the Rs. 1000 crore worldwide club yesterday, becoming the eleventh Indian film to do so. It took the film eight days to reach the coveted benchmark, which makes it the fastest, a day quicker than Baahubali: The Conclusion, Pushpa: The Rule and Dhurandhar: The Revenge. As of yesterday, the film has grossed Rs. 663 crore approx in India, while the international markets have contributed Rs. 342 crore (USD 36.20 million), giving it a grand total of Rs. 1005 crore worldwide",
+    "category": "bollywood",
+    "source": "Pinkvilla",
+    "url": "https://www.pinkvilla.com/entertainment/box-office/ramayana-part-one-box-office-ranbir-kapoor-and-yash-starrer-becomes-eleventh-indian-film-and-fastest-ever-to-cross-rs-1000-cr-worldwide-1406420",
+    "published_at": "2026-11-13T12:51:05+05:30",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.097622+00:00",
+    "thin": false
+  },
+  {
     "id": "be375e148ff3deb48a8b3931e6380b08f725980a30e66cbae947663569bedc20",
     "title": "Tevans makes a good case.",
     "summary": "&#32; submitted by &#32; /u/Veshaad &#32; to &#32; r/clevercomebacks [link] &#32; [comments]",
@@ -3821,6 +5357,18 @@
       "Matt Brittin",
       "Strictly Come Dancing"
     ]
+  },
+  {
+    "id": "fc63e8d4785e707d4acff75566a8d57c0669d6f73bf861cc203b465eb65cf92d",
+    "title": "Ranabaali Review: Vijay Deverakonda’s intensity as warrior gets undone by subpar writing and execution",
+    "summary": "Ranabaali, starring Vijay Deverakonda and Rashmika Mandanna in the lead roles, was released in theaters on October 16, 2026. Directed by Rahul Sankrityan, the period action drama is now available for streaming online. If planning to watch it, here&rsquo;s the Pinkvilla review for you to check out. The Plot Set in 19th-century British-ruled Rayalaseema, Ranabaali follows Singanamala Kapin Bobbili Ranabaali, a warrior born under a mysterious spiritual prophecy that determines his destiny. As he ma",
+    "category": "bollywood",
+    "source": "Pinkvilla",
+    "url": "https://www.pinkvilla.com/entertainment/south/ranabaali-review-vijay-deverakondas-intensity-as-warrior-gets-undone-by-subpar-writing-and-execution-1406419",
+    "published_at": "2026-11-13T12:39:23+05:30",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.099030+00:00",
+    "thin": false
   },
   {
     "id": "81bc7495f95061b2c74ecf2a6128953f16b90ed2c14f94f4f7abfce40f3d26c0",
@@ -3954,6 +5502,18 @@
     "published_at": "2026-11-13T12:09:48+00:00",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f043/live/468fa2e0-dddf-11f1-b465-b9821c2582d4.jpg",
     "collection_timestamp": "2026-11-13T15:54:59.829782+00:00",
+    "thin": false
+  },
+  {
+    "id": "75e03cfbc918f36df69f14738b3fa192c9491346b89e1aea44f5b8139b7eb53a",
+    "title": "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer posts Rs. 550 Cr extended first week in India",
+    "summary": "Ramayana: Part One concluded its extended first week, collecting Rs. 50.50 crore nett approx on Thursday at the Indian box office. Of that, the Hindi version collected Rs. 41 crore nett, while the South-dubbed versions brought in Rs. 9.50 crore nett. That takes its running total to Rs. 554 crore nett approx, splitting into Rs. 429 crore nett in Hindi and Rs. 125 crore nett in South-dubbed versions.&nbsp; The film is now almost out of the holiday period, with Gujarat the only market that saw a pr",
+    "category": "bollywood",
+    "source": "Pinkvilla",
+    "url": "https://www.pinkvilla.com/entertainment/box-office/ramayana-part-one-box-office-collections-ranbir-kapoor-and-yash-starrer-posts-rs-550-cr-extended-first-week-in-india-1406418",
+    "published_at": "2026-11-13T12:06:20+05:30",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.100762+00:00",
     "thin": false
   },
   {
@@ -32174,1557 +33734,5 @@
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8967/live/b01c8b60-dbaa-11f1-a701-fddedf244c16.jpg",
     "collection_timestamp": "2026-11-08T20:11:24.987955+00:00",
     "thin": false
-  },
-  {
-    "id": "071039c0694f4e4e0d565c960799e9e4fc7caa9bcfaa35e168816ed8c3b84bf3",
-    "title": "Olivia Rodrigo’s ‘you seem pretty sad for a girl so in love’ Notches Fourth Week Atop Billboard 200",
-    "summary": "Plus, Michael Jackson’s Thriller surges to No. 2, while ILLIT, BigXthaPlug and Queens of the Stone age debut in the top 10.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-you-seem-pretty-sad-back-no-1-billboard-200-1236377042",
-    "published_at": "2026-11-08T20:00:03+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.982619+00:00",
-    "thin": false,
-    "author": "Keith Caulfield",
-    "tags": [
-      "Chart Beat",
-      "Music",
-      "Billboard 200",
-      "breaking",
-      "genre pop",
-      "Music News"
-    ]
-  },
-  {
-    "id": "38d09064b937d71b810d1ae75315683ec7937d618fb61994e6d80c43b7372c53",
-    "title": "Bournemouth beat Ipswich to extend winning streak",
-    "summary": "Evanilson scores for the fifth Premier League game in a row as Bournemouth's impressive winning streak continued with a controlled victory over Ipswich.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cmx23rll2w0qo",
-    "published_at": "2026-11-08T19:59:53+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f40/live/739a24b0-dba3-11f1-a701-fddedf244c16.jpg",
-    "collection_timestamp": "2026-11-08T23:53:11.676657+00:00",
-    "thin": false
-  },
-  {
-    "id": "ec40b11ad420402ea65903ee5a2090c6759f77cb5ff21967cea63d26c67c8b3c",
-    "title": "Bournemouth continue winning streak with Ipswich win",
-    "summary": "Evanilson scores for the fifth Premier League game in a row as Bournemouth's impressive winning streak continued with a controlled victory over Ipswich.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cmx23rll2w0qo",
-    "published_at": "2026-11-08T19:59:53+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f40/live/739a24b0-dba3-11f1-a701-fddedf244c16.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.988313+00:00",
-    "thin": false
-  },
-  {
-    "id": "4113677c87e136a9a59185242815071d685e9bfb7e7281354e34842893b189b5",
-    "title": "Maya Jama Exits ‘Love Island U.K.’ as Host After 9 Seasons: ‘All Good Things Must Come to an End’",
-    "summary": "“Love Island U.K.” host Maya Jama is exiting the dating series after nine seasons. Jama made the announcement on her Instagram account Sunday. “What an incredible era and what an unforgettable time I’ve had, it’s been far too much fun to put into words or a video,” she began her statement. “But as all good [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/tv/news/maya-jama-exits-love-island-uk-as-host-1236942610",
-    "published_at": "2026-11-08T19:59:45+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2025/11/maya.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.977725+00:00",
-    "thin": false,
-    "author": "Payton Turkeltaub",
-    "tags": [
-      "News",
-      "Maya Jama"
-    ]
-  },
-  {
-    "id": "3df4c3fb7da152be2299e0dad000bb11990c085a76afbc51abe9e28a2959a122",
-    "title": "Liverpool dispatch Palace to pile pressure on Sage",
-    "summary": "Liverpool see off Crystal Palace 3-1 at Selhurst Park as Pierre Sage's side suffer their fourth defeat in a row in the Premier League.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c5djv1mn7gj8o",
-    "published_at": "2026-11-08T19:58:46+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd96/live/6ce7c2c0-dba9-11f1-93e1-3b657b665bcf.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.988074+00:00",
-    "thin": false
-  },
-  {
-    "id": "6d588d535fe4189620ba40df5c887501c335de49e222b1e8ff568d20632a17a0",
-    "title": "Stephen Colbert Evacuated From Harvard Event Due to Fire Alarm After Being Accused of Crossing Picket Line",
-    "summary": "Dozens of Harvard Graduate Students Union members protested outside the event featuring the former late night host and famed cellist Yo-Yo Ma.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/news/general-news/stephen-colbert-accused-crossing-picket-line-harvard-event-1236750499",
-    "published_at": "2026-11-08T19:58:37+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.981707+00:00",
-    "thin": false,
-    "author": "Carly Thomas",
-    "tags": [
-      "General News",
-      "Protests",
-      "Stephen Colbert"
-    ]
-  },
-  {
-    "id": "d40ba36f0840b5a0cdad4679c1fe618dff1299874e2ef8cba760382f977520c6",
-    "title": "Struggling Sunderland beat Chelsea to move off bottom of Premier League",
-    "summary": "Sunderland held on to their first Premier League win since August as Enzo le Fee's penalty help the hosts sink Chelsea at the Stadium of Light.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c64g1nj4v4rmo",
-    "published_at": "2026-11-08T19:58:31+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0cb/live/72a12510-dbab-11f1-a701-fddedf244c16.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.988193+00:00",
-    "thin": false
-  },
-  {
-    "id": "a3d3dc2a381cd2c91b143a79cb8d454680e02ab64546399e3bbf68bc1893d709",
-    "title": "Feyi-Waboso burns bright as England energy endorses Borthwick",
-    "summary": "Immanuel Feyi-Waboso's blistering first half display provides England fans with a glimpse of what could be in a much-needed statement of faith in coach Steve Borthwick.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c620r5dp51e0o",
-    "published_at": "2026-11-08T19:52:48+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ef6/live/208fffa0-dba9-11f1-93e1-3b657b665bcf.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.988433+00:00",
-    "thin": false
-  },
-  {
-    "id": "73dbdaf22e4eb1a2363152b0573a33342f80dd75fa4a371ffff06f7160b1308e",
-    "title": "People are still bothered by my use of Android devices 😑",
-    "summary": "This one will be short. I&#39;ve always preferred Android over iOS. Always bought myself flagship devices, so they&#39;re just as capable as any other iPhone of that same year. I&#39;ve gotten complaints/disses of adding green bubbles to a group chat, not being able to receive anything over airdrop, not being able to Facetime, not taking pics &quot;as good&quot; as an iPhone Pro, etc etc. Why are these grown ass adults so triggered by their perceived inconveniences? This is getting SO old in thi",
-    "category": "technology",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/GirlDinnerDiaries/comments/1xr7deu/people_are_still_bothered_by_my_use_of_android",
-    "published_at": "2026-11-08T19:51:57+00:00",
-    "image_url": "https://preview.redd.it/9xlnhxg61g0i1.jpeg",
-    "collection_timestamp": "2026-11-09T04:38:17.310791+00:00",
-    "thin": false,
-    "author": "/u/giggly_pufffhttps://www.reddit.com/user/giggly_pufff",
-    "tags": [
-      "GirlDinnerDiaries"
-    ]
-  },
-  {
-    "id": "110ed69831f79eadea9e28168411615d88f6053b03ec8c362cefcb7244a67599",
-    "title": "Indie & Alternative Cinema Surges From ‘Stray Kids’ To ‘Heated Rivalry’ – Specialty Box Office",
-    "summary": "Specialty distributors and alternative fare from live concerts to Indian films to faith-based fare and TV series ruled the top 10 at the box office and beyond this weekend, showcasing the strength of a market that’s helped the box office weather downturns and is now fueling its resurgence. Godzilla Minus Zero from independent distributor GKids [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/indie-film-box-office-independent-alternative-cinema-surges-1237216831",
-    "published_at": "2026-11-08T19:51:06+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2025/12/heated-rivalry-hbo-max.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.979820+00:00",
-    "thin": false,
-    "author": "Jillg366",
-    "tags": [
-      "News",
-      "Club Kid",
-      "Drummer Boy",
-      "Godzilla Minus Zero",
-      "Heated Rivalry",
-      "I Play Rocky",
-      "Jimmy",
-      "Ramayana: Rise of a Legend",
-      "Scene",
-      "Specialty Box Office",
-      "Stray Kids World Tour ‘RUN IT’ Live Viewing",
-      "The Only Living Pickpocket in New York",
-      "Wicker",
-      "Wild Horse Nine"
-    ]
-  },
-  {
-    "id": "6bedc4fc6812f383cddf8452c7c198e0f697a384f0f58e76dc60e6785235518b",
-    "title": "What can you read into Premier League table after 10 games?",
-    "summary": "With 10 games gone in the Premier League season, BBC Sport looks at what history tells us we can read into the table at this stage.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c91463n3mlzlo",
-    "published_at": "2026-11-08T19:40:34+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e2dd/live/fb15a380-db97-11f1-a42b-dbe60e973664.jpg",
-    "collection_timestamp": "2026-11-08T23:53:11.677180+00:00",
-    "thin": false
-  },
-  {
-    "id": "d491324b792c87c66c007768d51ce6324845105e602888b06540665f4bb2e68e",
-    "title": "Maya Jama Exits As ‘Love Island UK’ Host After 9 Seasons",
-    "summary": "Maya Jama, the ultimate bombshell, is not returning as Love Island UK host after fronting the dating series for nine seasons. Jama took to social media to share a goodbye message with some of her best bits from the ITV reality series. &#8220;What an incredible era and what an unforgettable time I’ve had, it’s been [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/maya-jama-exits-love-island-uk-host-itv-1237216848",
-    "published_at": "2026-11-08T19:32:17+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/07/maya-jama-love-island-uk-host.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.980065+00:00",
-    "thin": false,
-    "author": "Armando Tinoco",
-    "tags": [
-      "News",
-      "Love Island",
-      "Maya Jama"
-    ]
-  },
-  {
-    "id": "eab90dd78d0d886988e9d56334a332ff15ab2cd0f978efcb21b1ab8c2323862c",
-    "title": "Alycia Baumgardner vs. Elif Nur Turhan on ESPN Unlimited: Here’s Where to Watch the Title Bout Live Online",
-    "summary": "The best boxers in the world travel to Texas for the Most Valuable Promotions boxing event. For the main event, American Alycia Baumgardner (18-1-0) takes on Turkish boxer Elif Nur Turhan (14-0-0). The unification title bout is scheduled for 10 rounds. Nur Turhan&#8217;s IBF championship belt is on the line, so the winner will receive [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/shopping/news/watch-baumgardner-nur-turhan-espn-boxing-live-online-free-1236938381",
-    "published_at": "2026-11-08T19:30:00+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/Boxing-MVP-Alycia-Baumgardner-Getty-VR-Featured.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.977932+00:00",
-    "thin": false,
-    "author": "Rudie Obias",
-    "tags": [
-      "News",
-      "Boxing",
-      "ESPN Unlimited",
-      "How to Watch",
-      "NOADS",
-      "sponsored",
-      "Sports"
-    ]
-  },
-  {
-    "id": "528ccf039f5e7ea614a1bda3b643db60122065c831003d1eae29cb142873fced",
-    "title": "Are 'outstanding' Brighton now Arsenal's main title challengers?",
-    "summary": "After moving up to second in the Premier League, could Brighton really be Arsenal's main title challengers?",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cjx23rwxdn64o",
-    "published_at": "2026-11-08T19:24:36+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8de0/live/2f31e2f0-db93-11f1-9029-d35c55297624.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.988780+00:00",
-    "thin": false
-  },
-  {
-    "id": "4c24282f40a993c0fe9a36c47f9e53f679ac2b97d18c09799aad6bd5146ee9a4",
-    "title": "I still have samples from the 2010 BP oil spill",
-    "summary": "&#32; submitted by &#32; /u/Cloudy_Memory_Loss &#32; to &#32; r/mildlyinteresting [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/mildlyinteresting/comments/1xr6lhf/i_still_have_samples_from_the_2010_bp_oil_spill",
-    "published_at": "2026-11-08T19:20:25+00:00",
-    "image_url": "https://preview.redd.it/50b1l0xivf0i1.jpeg",
-    "collection_timestamp": "2026-11-08T23:53:11.682072+00:00",
-    "thin": false,
-    "author": "/u/Cloudy_Memory_Losshttps://www.reddit.com/user/Cloudy_Memory_Loss",
-    "tags": [
-      "mildlyinteresting"
-    ]
-  },
-  {
-    "id": "0cdf1f432c210d7ed8777c0a9217c61daaef1248aca187d3e3c45f3bedffdc0a",
-    "title": "Box Office: ‘Heated Rivalry’ Fans Drive Show’s Theatrical Release to $1.4 Million",
-    "summary": "Nearly a year after &#8220;Heated Rivalry&#8221; debuted on streaming, fans are venturing to movie theaters to rewatch the steamy romance between hockey superstars Shane Hollander (Hudson Williams) and Ilya Rozanov (Connor Storrie). The limited theatrical release, which is scheduled from Nov. 6 through Nov. 30, has generated $1.4 million from 945 theaters, according to distributor [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/box-office/heated-rivalry-theatrical-release-box-office-grosses-1236942444",
-    "published_at": "2026-11-08T19:19:59+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2025/12/Heated_Rivalry_-__Episode_103-15.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.978126+00:00",
-    "thin": false,
-    "author": "Rebecca Rubin",
-    "tags": [
-      "Box Office",
-      "Heated Rivalry"
-    ]
-  },
-  {
-    "id": "c76d3278710df5331f451e917214fb3394276f60964cef38d436a130e55937fd",
-    "title": "Jennifer Welch & Angie Sullivan Apologize For Laughing At “Insensitive” Charlie Kirk Joke On Podcast: “We Regret It”",
-    "summary": "After losing several advertisers, the hosts of the I&#8217;ve Had It podcast have apologized for making light of Charlie Kirk&#8217;s killing. On Saturday, co-hosts Jennifer Welch and Angie Sullivan expressed their regret in a statement over laughing at a midterms joke about the Sept. 10, 2025 shooting of the Turning Point USA founder, in addition [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/jennifer-welch-angie-sullivan-apologize-laughing-charlie-kirk-joke-1237216817",
-    "published_at": "2026-11-08T19:18:11+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2265010329.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.980300+00:00",
-    "thin": false,
-    "author": "Glenn Garner",
-    "tags": [
-      "News",
-      "Podcast",
-      "Angie Sullivan",
-      "Charlie Kirk",
-      "Jennifer Welch"
-    ]
-  },
-  {
-    "id": "2777adf48b5c5da97e60a98b3558613247092bf69a19477097e4b3ba33c810fc",
-    "title": "Norris wins gripping race after Antonelli and Russell errors",
-    "summary": "McLaren's Lando Norris wins a gripping Sao Paulo Grand Prix in difficult conditions, as Mercedes secure the 2026 constructors' championship.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/formula1/articles/c35yn19r7zkvo",
-    "published_at": "2026-11-08T19:13:53+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b718/live/a6329430-dba7-11f1-9580-17f5674d0b29.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.988548+00:00",
-    "thin": false
-  },
-  {
-    "id": "d07d7487909b30a7125420c58477e344d4afde18688d6cceda7d24f07d1269dd",
-    "title": "Man Utd making it 'hard on ourselves' - Carrick",
-    "summary": "Manchester United head coach Michael Carrick admits his side \"made it hard on themselves\" after they twice came back from two goals down to earn a 4-4 draw at home to Aston Villa.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c6rmyg80pk3wo",
-    "published_at": "2026-11-08T19:13:46+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/464b/live/95b255f0-dba7-11f1-a701-fddedf244c16.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.989481+00:00",
-    "thin": false
-  },
-  {
-    "id": "ace607655f672f9e6a55694034f89ea5f756716fc5ab365495848afb10e39c28",
-    "title": "Del Casher, Guitarist Who Invented the Wah-Wah Pedal, Dead at 88",
-    "summary": "Musician and inventor who played with artists like Elvis Presley, Gene Autry and Frank Zappa died October 1 after cancer battle",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-news/del-casher-guitarist-invented-wah-wah-pedal-dead-obituary-1235654482",
-    "published_at": "2026-11-08T19:13:11+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.983110+00:00",
-    "thin": false,
-    "author": "Daniel Kreps",
-    "tags": [
-      "Music",
-      "Music News",
-      "Guitar",
-      "obit",
-      "Obituary",
-      "RSX"
-    ]
-  },
-  {
-    "id": "aec995b8d73b4b91a45c01f41c4017eddbd8aec5888c68d37363186d27eb2df0",
-    "title": "Toxic Homes, Terrible Dilemma: Oscar Contender ‘Still Standing’ Documents Homeowner Nightmare After LA Wildfires – SFFILM Doc Stories",
-    "summary": "To shoot their Oscar-contending film Still Standing, directors Víctor Tadashi Suárez and Livia Albeck-Ripka donned hazmat suits – for good reason. Their documentary, winner of Oscar-qualifying awards at Full Frame, the Seattle International Film Festival, and Aspen Shortsfest, explores homes left toxic by the catastrophic Eaton fire that tore through the Altadena section of Los [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/still-standing-la-wildfires-documentary-pov-1237216814",
-    "published_at": "2026-11-08T19:12:09+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Still-Standing-1.png",
-    "collection_timestamp": "2026-11-08T20:11:24.980521+00:00",
-    "thin": false,
-    "author": "Matthew Carey",
-    "tags": [
-      "Documentary",
-      "News",
-      "LA Wildfires",
-      "Livia Albeck-Ripka",
-      "POV",
-      "Still Standing",
-      "Víctor Tadashi Suárez"
-    ]
-  },
-  {
-    "id": "d79d8cb0be6b96144a94b5b0d5574a5ba2171146e477c2193375beaf67d2808b",
-    "title": "Leeds condemn racist abuse of Bogle after Tel incident",
-    "summary": "Leeds United condemn the \"disgusting\" online racist abuse directed towards defender Jayden Bogle following Saturday's 1-0 win against Tottenham.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ck5yn1zzyr2jo",
-    "published_at": "2026-11-08T19:12:01+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/680c/live/40978c40-dba0-11f1-81e8-61c133a2b43c.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.989240+00:00",
-    "thin": false
-  },
-  {
-    "id": "b6b63dfff81a9035016a85685135c31143739cf4a9162b416fecb8af98201593",
-    "title": "‘Godzilla Minus Zero’ Is A Box Office Hero With $32M Live-Action Foreign-Language Opening Record, Best Ever For Gkids – Sunday AM Update",
-    "summary": "SUNDAY AM WRITETHRU: In what is a never-before-seen stat, 74% of Imax and PLFs combined drove the weekend gross of Gkids&#8217; Godzilla Minus Zero&#8216;s which is very close to the $32M opening that was reported yesterday, now at $31.6M. As we told you earlier today, the Takashi Yamazki directed movie is the No. 1 movie [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/box-office-godzilla-minus-zero-cat-in-the-hat-1237215161",
-    "published_at": "2026-11-08T19:10:00+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/『ゴジラ-0.0』パブカット㉒-e1793929665158.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.980747+00:00",
-    "thin": false,
-    "author": "Anthonypauldalessandro",
-    "tags": [
-      "News",
-      "Drummer Boy",
-      "Godzilla Minus Zero",
-      "Ramayana",
-      "The Cat In The Hat",
-      "Wild Horse Nine"
-    ]
-  },
-  {
-    "id": "f717a114ebf03df79350aaf174bb2d35f649e8720452aaa99972aadecd5ec54c",
-    "title": "Lando Norris breaks the champagne bottle on the podium",
-    "summary": "&#32; submitted by &#32; /u/randomseocb &#32; to &#32; r/formula1 [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/formula1/comments/1xr65f4/lando_norris_breaks_the_champagne_bottle_on_the",
-    "published_at": "2026-11-08T19:02:22+00:00",
-    "image_url": "https://external-preview.redd.it/GR40aCUBkgAOyanwQscKu3kGLK7tmhbohTBFnx5Hpgg.jpeg",
-    "collection_timestamp": "2026-11-08T23:53:11.681449+00:00",
-    "thin": false,
-    "author": "/u/randomseocbhttps://www.reddit.com/user/randomseocb",
-    "tags": [
-      "formula1"
-    ]
-  },
-  {
-    "id": "9cc564c35c8f3c9f717cc90fb31548b097f58798e1ac162d0f04452ecb790918",
-    "title": "Bill Skarsgard Jokes About Using Pennywise Voice When His Kids Misbehave: “Schizophrenic Daddy”",
-    "summary": "The actor has played the iconic villain in two films and the HBO Max series 'It: Welcome to Derry.'",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/bill-skarsgard-pennywise-voice-kids-misbehave-1236750434",
-    "published_at": "2026-11-08T19:01:51+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.981852+00:00",
-    "thin": false,
-    "author": "Carly Thomas",
-    "tags": [
-      "Movie News",
-      "Movies",
-      "Bill Skarsgard",
-      "It: Welcome to Derry",
-      "Nosferatu"
-    ]
-  },
-  {
-    "id": "ce5693db90615e25f189c7c5eeae266a958a5e2869f11856c15f49812d574f20",
-    "title": "AP Poll Week 10",
-    "summary": "&#32; submitted by &#32; /u/Efficient-Freedom517 &#32; to &#32; r/CFB [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/CFB/comments/1xr63nf/ap_poll_week_10",
-    "published_at": "2026-11-08T19:00:32+00:00",
-    "image_url": "https://external-preview.redd.it/k4E2FrT7fAc89VH-UQKN_5O8UOKOfqNNsdXy78SdRyc.jpeg",
-    "collection_timestamp": "2026-11-08T23:53:11.682341+00:00",
-    "thin": true,
-    "author": "/u/Efficient-Freedom517https://www.reddit.com/user/Efficient-Freedom517",
-    "tags": [
-      "CFB"
-    ]
-  },
-  {
-    "id": "f7a41b844b9cc771a96810799340ee56726f16077d7aa24b610d43c73be424df",
-    "title": "Celine Dion Goes Backstage With Metallica After Rocking Out at Sphere: ‘Loved the Show’",
-    "summary": "The Grammy-winning singer was spotted enjoying the show alongside Jack Black.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/music-news/celine-dion-metallica-backstage-photos-sphere-1236377038",
-    "published_at": "2026-11-08T18:58:39+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.982758+00:00",
-    "thin": false,
-    "author": "Mitchell Peters",
-    "tags": [
-      "Music",
-      "Music News",
-      "genre pop",
-      "genre rock",
-      "residency",
-      "Sphere"
-    ]
-  },
-  {
-    "id": "dabdc70f12a9066fce8a8140179e303dde0a845706887831049277a06cfd2a98",
-    "title": "Andy Serkis Says He Was ‘Evangelical’ About Performance Capture After Playing Gollum in ‘Lord of the Rings’ but Now Accepts It’s ‘Misunderstood’: ‘If You Get It? Great’",
-    "summary": "Andy Serkis, who played an instrumental role in bringing the on-screen version of Gollum (also known as Sméagol) to life in “The Lord of the Rings” franchise, is reflecting on the technology that helped him do so. Gollum, a central character in the films, is the result of both Serkis&#8217; performance and computer-generated elements through [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/news/andy-serkis-motion-capture-gollum-1236942445",
-    "published_at": "2026-11-08T18:58:21+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-1247589803.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.978341+00:00",
-    "thin": false,
-    "author": "Payton Turkeltaub",
-    "tags": [
-      "News",
-      "Andy Serkis",
-      "Lord Of The Rings"
-    ]
-  },
-  {
-    "id": "2abba1f7ba85af8c529f8e9bbfe4035e801a44e6de8130260ea3a64f5e942532",
-    "title": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
-    "summary": "Democrats have vowed to investigate both President Donald Trump's White House and businesses that have worked with the administration.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
-    "published_at": "2026-11-08T18:57:56+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.987354+00:00",
-    "thin": false
-  },
-  {
-    "id": "2c009600f195815ea42152de3041b08bf56c2b74d569b9952ba78eca2aa2a231",
-    "title": "Seventh-tier Wimborne knock out League Two Crawley in FA Cup upset",
-    "summary": "Seventh-tier Wimborne Town beat League Two Crawley in a huge FA Cup upset, to reach round two of the competition for the first time in their history.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cmy83620wq2wo",
-    "published_at": "2026-11-08T18:56:55+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a3b/live/3c193440-db99-11f1-b441-2b33b063138f.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.989597+00:00",
-    "thin": false
-  },
-  {
-    "id": "2fcfe45e1a3da5fb52f965f92b896022d634d84e5b65424a42f638e7b5bb1b32",
-    "title": "this pickup taking up FOUR parking spaces in a crowded lot",
-    "summary": "it’s also NY so he’s missing front plates &#32; submitted by &#32; /u/xyzxyz88 &#32; to &#32; r/mildlyinfuriating [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xr5s42/this_pickup_taking_up_four_parking_spaces_in_a",
-    "published_at": "2026-11-08T18:47:32+00:00",
-    "image_url": "https://preview.redd.it/l4o0mnnopf0i1.jpeg",
-    "collection_timestamp": "2026-11-08T23:53:11.680048+00:00",
-    "thin": false,
-    "author": "/u/xyzxyz88https://www.reddit.com/user/xyzxyz88",
-    "tags": [
-      "mildlyinfuriating"
-    ]
-  },
-  {
-    "id": "8c1810de660a85be3552c2f77573f666db13325677645c6ae6ec093083e7ab1a",
-    "title": "Dorgu makes dramatic impact - Man Utd v Aston Villa ratings",
-    "summary": "Man Utd fight back from two goals down twice in 4-4 draw with Aston Villa - but who did well and who didn't in player ratings?",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cwj34k7k54veo",
-    "published_at": "2026-11-08T18:46:45+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6507/live/8fdebc40-dba2-11f1-93e1-3b657b665bcf.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.989115+00:00",
-    "thin": false
-  },
-  {
-    "id": "08ba536d6e23fbd6692f9e965872429fa27e77599fce9f49da9852fee6662f34",
-    "title": "All vault locations in the Fortnite Chapter 7 mini season",
-    "summary": "Vaults are full of valuable loot in Fortnite Chapter 7's mini season. Here's where to find them all and how to open them.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/fortnite-chapter-7-vault-locations-c7ms",
-    "published_at": "2026-11-08T18:39:47+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/covered-vault_oot.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.986313+00:00",
-    "thin": false,
-    "author": "Johnny Yu",
-    "tags": [
-      "Guides",
-      "Fortnite"
-    ]
-  },
-  {
-    "id": "5bee48995bed9f6c0a0e075f6bb36b4ece665736ca840d9734e577b475c64393",
-    "title": "Jack Black and Celine Dion rocking out to Metallica in Las Vegas.",
-    "summary": "&#32; submitted by &#32; /u/sco-go &#32; to &#32; r/Amazing [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/Amazing/comments/1xr5k6n/jack_black_and_celine_dion_rocking_out_to",
-    "published_at": "2026-11-08T18:38:25+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T23:53:11.680878+00:00",
-    "thin": false,
-    "author": "/u/sco-gohttps://www.reddit.com/user/sco-go",
-    "tags": [
-      "Amazing"
-    ]
-  },
-  {
-    "id": "6231af5a044db83b9932548f83ecbc8fd80a6a0bc76ebada35d71d892d8954c7",
-    "title": "How are you feeling about the Democrats who want Chuck Schumer and Hakeem Jeffries to step down?",
-    "summary": "&#32; submitted by &#32; /u/InfamousHoneydew7537 &#32; to &#32; r/AskReddit [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/AskReddit/comments/1xr5hmk/how_are_you_feeling_about_the_democrats_who_want",
-    "published_at": "2026-11-08T18:35:27+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.995012+00:00",
-    "thin": false,
-    "author": "/u/InfamousHoneydew7537https://www.reddit.com/user/InfamousHoneydew7537",
-    "tags": [
-      "AskReddit"
-    ]
-  },
-  {
-    "id": "a8f94f3784a0d6a1b73500cf18533201bf73e22627e227fefc61382a0cf027f3",
-    "title": "Sanfic Prizes: ‘Monguen’ and ‘Narciso’ Win at Pared-Back Ceremony Due to Sudden Demise of ‘A Fantastic Woman’ Director Sebastian Lelio",
-    "summary": "The unexpected demise Nov. 6 of Chile’s Oscar-winning Sebastián Lelio (“A Fantastic Woman”) cast a pall over the closing ceremonies of both the festival and industry section of the Santiago Film Festival (Sanfic), which wraps Nov. 8. The red carpet portions of the industry and festival ceremonies held Nov. 6 and 7, respectively, were cancelled. [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/global/sanfic-prizes-monguen-narciso-sebastian-lelio-remembered-1236942162",
-    "published_at": "2026-11-08T18:27:06+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/Monguen_Still-3-Mariella-Chavez.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.978560+00:00",
-    "thin": false,
-    "author": "Anna Marie de la Fuente",
-    "tags": [
-      "Global",
-      "Markets & Festivals",
-      "News",
-      "Alex De La Iglesia",
-      "Cineplex",
-      "SANFIC",
-      "Sanfic Morbido Lab",
-      "Sitges Film Festival"
-    ]
-  },
-  {
-    "id": "91992b51ef33124d655e5e09608133a47e92c77d9f4ec9897822720d5f0216f6",
-    "title": "'Tinkerman' Alonso's Chelsea side still searching for identity",
-    "summary": "Xabi Alonso's frustration is evident as Chelsea's struggles for an identity continue with the disappointing 1-0 defeat by Sunderland.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c5m2ddz437nzo",
-    "published_at": "2026-11-08T18:20:56+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e917/live/61e70130-dba2-11f1-9580-17f5674d0b29.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.988662+00:00",
-    "thin": false
-  },
-  {
-    "id": "fe8447ce9a25df712716fa925ade0fdc67acd120405b360902e981d8a2a158c9",
-    "title": "Benito Skinner Teases “2016 Millennial Hopecore” For ‘Overcompensating’ Season 2: “Sorry For The Wait”",
-    "summary": "While taking audiences back to the 2010s for Overcompensating, Benito Skinner wants to embrace a simpler time. The series creator and star explained that with Season 2, which Prime Video ordered last September, the show is &#8220;really going like 2016 millennial hopecore&#8221; with its approach to the decade. &#8220;I hope people like Season 2. We&#8217;ve [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/benito-skinner-2016-millennial-hopecore-overcompensating-season-2-1237216771",
-    "published_at": "2026-11-08T18:19:30+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/TCDOVER_ZU013.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.980947+00:00",
-    "thin": false,
-    "author": "Glenn Garner",
-    "tags": [
-      "News",
-      "Benito Skinner",
-      "Overcompensating",
-      "Prime Video"
-    ]
-  },
-  {
-    "id": "eb818f2324170e07a24204bd88a1e41a88708f81c4f09518e68fc21ca0015994",
-    "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
-    "summary": "Lawmakers want to question Nvidia CEO Jensen Huang following reports about his relationship with an alleged Chinese intelligence asset.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
-    "published_at": "2026-11-08T18:18:30+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.987239+00:00",
-    "thin": false
-  },
-  {
-    "id": "793dfb22008025252f1097ef7284000f57e8ef79544a3e8215c9ff0c00813d06",
-    "title": "First Derry goal worth the wait for final hero Burns",
-    "summary": "Derry City's FAI Cup final hero Darragh Burns says there is \"nowhere better\" to get his first goal for the club than scoring the winner at the Aviva Stadium in the decider.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/articles/cwz0vkj87ngzo",
-    "published_at": "2026-11-08T18:10:20+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9f/live/d8c14f70-db9a-11f1-a42b-dbe60e973664.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.990840+00:00",
-    "thin": false
-  },
-  {
-    "id": "ab1cb7782ac2895d3bb380b8d1a5f17074e7e704a15d7ff6554b215d94e573dd",
-    "title": "Judi Dench Says Vin Diesel Sent Her Flowers ‘the Length of a Kayak’ to Persuade Her to Join ‘The Chronicles of Riddick’: I’m ‘Far Too Easily Wooed’",
-    "summary": "Judi Dench can’t say no to a big bouquet of flowers, especially if they’re kayak-sized and come from Vin Diesel. “He came to see me at the Haymarket Theatre to ask if I’d be in ‘The Chronicles of Riddick,’” Dench wrote in her new memoir, “Is It Too Late to Make a Run for It?” [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/news/judi-dench-reveals-she-was-wooed-1236942417",
-    "published_at": "2026-11-08T18:08:07+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/MCDCHOF_EC042.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.978764+00:00",
-    "thin": false,
-    "author": "Isabelle Farina",
-    "tags": [
-      "News",
-      "Judi Dench",
-      "Vin Diesel"
-    ]
-  },
-  {
-    "id": "1274336833dfc4dad2ea4255e109f82905f5d5ac7c627d9eef45d4c091108ba3",
-    "title": "England ease pressure on Borthwick after big win over Australia",
-    "summary": "England provide emphatic on-pitch backing for head coach Steve Borthwick as they score seven tries to swat aside a listless Australia at Allianz Stadium.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/rugby-union/videos/cked3q4z0y5xo",
-    "published_at": "2026-11-08T18:00:25+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcee/live/adfd0f20-db9c-11f1-a701-fddedf244c16.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.989831+00:00",
-    "thin": false
-  },
-  {
-    "id": "75e878cc0919c3b295ca0f7609873d7c973d43bdd954d41c8fff221976e65f64",
-    "title": "Alcaraz takes revenge on Shelton to win first Paris Masters title",
-    "summary": "Carlos Alcaraz takes revenge on Ben Shelton as the Spaniard's remarkable comeback from injury continues with victory in the final of the Paris Masters.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/tennis/articles/ck9qz8d2znl5o",
-    "published_at": "2026-11-08T17:56:35+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96ae/live/c1b3eb80-db95-11f1-a42b-dbe60e973664.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.988895+00:00",
-    "thin": false
-  },
-  {
-    "id": "fa97c84e1c0cc9f09f077d08d0ba4b4a38f996dc7a912a2344cc5df2bb124278",
-    "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-    "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-    "published_at": "2026-11-08T17:54:50-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T23:53:11.673797+00:00",
-    "thin": false,
-    "author": "Terrence O’Brien",
-    "tags": [
-      "AI",
-      "News",
-      "Nvidia",
-      "Tech"
-    ]
-  },
-  {
-    "id": "1789e8bafb871d593593e96387a73cc926d389d8ad2d1eeb6893eb75ab0a266f",
-    "title": "Box Office: ‘You Can See Everything’ Becomes Second-Biggest Doc Ever in North America With $80 Million",
-    "summary": "&#8220;You Can See Everything&#8221; has remained a box office juggernaut, powering to $80 million in North America after just four weekends of release. At this rate, A24&#8217;s red-hot movie about Theranos fraudster Elizabeth Holmes is primed to surpass $100 million domestically, a hugely impressive milestone for a nearly three-hour documentary. Over the weekend, &#8220;You Can [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/box-office/you-can-see-everything-second-highest-grossing-documentary-north-america-box-office-1236942385",
-    "published_at": "2026-11-08T17:52:33+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/09/Screenshot-2026-09-06-at-7.57.52-PM.webp",
-    "collection_timestamp": "2026-11-08T20:11:24.978961+00:00",
-    "thin": false,
-    "author": "Rebecca Rubin",
-    "tags": [
-      "Box Office",
-      "A24",
-      "You Can See Everything"
-    ]
-  },
-  {
-    "id": "3d8fb53d1980cd0b2948692d5939e5bdc7901e411b9c1b353bd46e7e438e62b3",
-    "title": "Qatar runner-up Marquez must wait for eighth title",
-    "summary": "Spaniard Marc Marquez misses the chance to clinch a record-equalling eighth MotoGP title after finishing second in Sunday's Qatar Grand Prix.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/motorsport/articles/cqy0re6xjg4wo",
-    "published_at": "2026-11-08T17:51:47+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4080/live/9e34af30-db9c-11f1-81e8-61c133a2b43c.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.990090+00:00",
-    "thin": false
-  },
-  {
-    "id": "d66471e3d9d61fc5ab054df730a8ef9948f1b4f69caf65025f7cde23d431e3a8",
-    "title": "Substitute Olme gives Man Utd deserved win over Aston Villa",
-    "summary": "Julia Zigiotti Olme comes off the bench to score the only goal of the game, as Manchester United defeat Aston Villa to move up to fourth in the WSL table.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c699ze5074n2o",
-    "published_at": "2026-11-08T17:47:38+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/239f/live/93e01be0-db84-11f1-93e1-3b657b665bcf.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.990214+00:00",
-    "thin": false
-  },
-  {
-    "id": "ec76b7b2904e4de16e42def84c7a78d9bad0d6dcb361fb6d740b2b3f3c4d832f",
-    "title": "Russo double gives Arsenal win over Liverpool at Anfield",
-    "summary": "Alessia Russo scores twice to give Arsenal a much-needed 2-1 win over Liverpool at Anfield, to move up to seventh place in the WSL.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c8qlnq73n6lyo",
-    "published_at": "2026-11-08T17:45:27+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bfb/live/d0b51af0-db81-11f1-93e1-3b657b665bcf.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.989716+00:00",
-    "thin": false
-  },
-  {
-    "id": "953df1772b48bb8d88c6d80a2a2a16f8498f87ddd2dba0bb33f48b11f90386f5",
-    "title": "Here are the 2 big things we're watching in the stock market in the week ahead",
-    "summary": "CoreWeave earnings and inflation data will take center stage.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/11/08/here-are-the-2-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-    "published_at": "2026-11-08T17:40:15+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.987544+00:00",
-    "thin": false
-  },
-  {
-    "id": "5a19438c32d32732e5078cf993c0f019f1dcc7b8db997f2fdb4f53a4265f3873",
-    "title": "10-man Stockport come from behind to survive huge scare at Cray",
-    "summary": "League One Stockport County survive a scare to beat Isthmian League side Cray Wanderers 3-2 after extra time in the FA Cup first round.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o",
-    "published_at": "2026-11-08T17:39:15+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75bc/live/f85f7240-db99-11f1-a701-fddedf244c16.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.989944+00:00",
-    "thin": false
-  },
-  {
-    "id": "4d87a67f289edad516b677cd4417541aa1ce7d71f5e07f3c3571e8b4dfd1fbd2",
-    "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
-    "summary": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album of 2022 - Diaspora Problems. [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
-    "published_at": "2026-11-08T17:37:22-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T23:53:11.674023+00:00",
-    "thin": false,
-    "author": "Terrence O’Brien",
-    "tags": [
-      "Column",
-      "Entertainment",
-      "Music",
-      "Music Review"
-    ]
-  },
-  {
-    "id": "e051ab254ee8d952fc7b4e712eecd325dfff41e3b4437111c52687bc7dcebeab",
-    "title": "All map fragment locations in the Fortnite Chapter 7 mini season",
-    "summary": "Here's where to find all the currently available map fragments in Fortnite's Chapter 7 mini season.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/fortnite-chapter-7-mini-season-c7ms-map-fragment-locations",
-    "published_at": "2026-11-08T17:33:11+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261101_1001_fn_mapfragment0.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.986435+00:00",
-    "thin": false,
-    "author": "Julia Lee",
-    "tags": [
-      "Guides",
-      "Fortnite"
-    ]
-  },
-  {
-    "id": "8da748672e41d93106200d8b0f6f1f821227c077a3ea5a9a7eddfe1d53d9a097",
-    "title": "University of Mississippi student Jakiyra Metcalf posted a video from her doorbell camera showing three neighboring students making gestures and sounds imitating a monkey - They’ll say I’m race-baiting by posting this and blame the victim in the video as well 👀😬",
-    "summary": "&#32; submitted by &#32; /u/Longjumping_Ask_4448 &#32; to &#32; r/JoeBuddenPodcasts [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/JoeBuddenPodcasts/comments/1xr3u80/university_of_mississippi_student_jakiyra_metcalf",
-    "published_at": "2026-11-08T17:27:51+00:00",
-    "image_url": "https://external-preview.redd.it/b2FvcDVscmZiZjBpMTWzFA52cKEuBXc22p5EwKlDZSTpyFMNoLgZM_XA_CCJ.png",
-    "collection_timestamp": "2026-11-08T20:11:24.993477+00:00",
-    "thin": false,
-    "author": "/u/Longjumping_Ask_4448https://www.reddit.com/user/Longjumping_Ask_4448",
-    "tags": [
-      "JoeBuddenPodcasts"
-    ]
-  },
-  {
-    "id": "706990682fc104da37e52b0d35c5940fd0a87722ba31892d59e4f46d4b0eb826",
-    "title": "All sprites in the Fortnite Chapter 7 mini season",
-    "summary": "Here's a list of the currently available sprite in Fortnite's Chapter 7 \"Treasure Hunters\" mini season, along with what they do.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/fortnite-chapter-7-mini-season-all-sprites-list-abilities",
-    "published_at": "2026-11-08T17:26:26+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261101_1001_fn_sprites.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.986555+00:00",
-    "thin": false,
-    "author": "Julia Lee",
-    "tags": [
-      "Guides",
-      "Fortnite"
-    ]
-  },
-  {
-    "id": "3aabe9cdab2eceecb71c8eaa168212ab933e75e890771b00de644765e303cf08",
-    "title": "The Strokes Get a Surprise Visit From Walton Goggins During ‘SNL’ Performance: Watch",
-    "summary": "The NYC band performed “Lonely in the Future” and “Going Shopping” during its Nov. 7 appearance on the show.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/rock/the-strokes-snl-walton-goggins-cameo-performance-video-1236377034",
-    "published_at": "2026-11-08T17:20:03+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.982897+00:00",
-    "thin": false,
-    "author": "Mitchell Peters",
-    "tags": [
-      "Music",
-      "Rock",
-      "genre rock",
-      "Music News",
-      "saturday night live",
-      "snl",
-      "TV / Film"
-    ]
-  },
-  {
-    "id": "a92057890e0c0bcfb81bb71eaf3183d256ebb4389005ddf0650d846e437e1221",
-    "title": "Godzilla Minus Zero Opening Weekend Box Office Breaks A Foreign-Language Film Records",
-    "summary": "Godzilla Minus Zero had a great first weekend in theaters",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/godzilla-minus-zero-opening-weekend-box-office",
-    "published_at": "2026-11-08T17:15:02+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/mcdgomi_ec019.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.986670+00:00",
-    "thin": false,
-    "author": "Tomas Franzese",
-    "tags": [
-      "Movies",
-      "Godzilla Minus Zero"
-    ]
-  },
-  {
-    "id": "f648844962db83337ff3ea11b6badd3e0680317ded621bd4f8fc171b89ad8ef7",
-    "title": "Cineplex Boards Sanfic Title ‘La Residencia’ From ‘Algo Azul’ Director Mariel García Spooner",
-    "summary": "Latin American distributor Cineplex has picked up both North and South American sales rights to “La Residencia,” Mariel Garcia Spooner&#8217;s follow up to hit &#8220;Algo Azul.&#8221; &#8220;La Resdemcia&#8221; has just participated in the Sanfic Industria&#8217;s WIP Iberoamericana section, a competition of films from Latin America, Spain and Portugal screened in post-production at the industry arm [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/global/cineplex-la-residencia-mariel-garcia-spooner-algo-azul-1236941270",
-    "published_at": "2026-11-08T17:12:50+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/La-Residencia-still-2-1.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.979173+00:00",
-    "thin": false,
-    "author": "Anna Marie de la Fuente",
-    "tags": [
-      "Global",
-      "Markets & Festivals",
-      "News",
-      "Cineplex",
-      "HBO Max",
-      "MAFIZ",
-      "Prime Video",
-      "Sanfic Industria",
-      "Tallinn Black Nights"
-    ]
-  },
-  {
-    "id": "6fe45a2e87326210668b7be05c489b180a30db15661f21dca94c0610087c23f1",
-    "title": "London City thump Birmingham to close gap on second",
-    "summary": "London City Lionesses defeat Birmingham City 4-1 to move to within four points of second-placed Chelsea in the WSL.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c62kel300wwxo",
-    "published_at": "2026-11-08T17:06:21+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab49/live/a17f5c70-db93-11f1-a701-fddedf244c16.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.990316+00:00",
-    "thin": false
-  },
-  {
-    "id": "8371450f768f5be2a98867a29dda296904efa9ed7a86a5d1d7f11efffe96149c",
-    "title": "THR Visionary: 5 Janusz Kaminski Shots",
-    "summary": "The cinematographer, this year’s THR Visionary Award honoree, always lets film follow function, choosing a visual style to match the story being told.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/thr-visionary-janusz-kaminski-five-visual-styles-1236750395",
-    "published_at": "2026-11-08T17:05:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.981987+00:00",
-    "thin": false,
-    "author": "Scott Roxborough",
-    "tags": [
-      "Movie News",
-      "Movies",
-      "Camerimage 2026",
-      "international",
-      "Janusz Kaminski",
-      "Stephen Spielberg"
-    ]
-  },
-  {
-    "id": "50199dcc46395078b74d6262a782d5d0c6b11b247db3fe3c23a01c8baaf86478",
-    "title": "England swat aside Wallabies to back up Borthwick",
-    "summary": "England provide emphatic on-pitch backing for head coach Steve Borthwick as they swat aside a listless Australia at Allianz Stadium.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c9rkyg1gl7rgo",
-    "published_at": "2026-11-08T17:04:08+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b3d/live/75da4d80-db9f-11f1-93e1-3b657b665bcf.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.989004+00:00",
-    "thin": false
-  },
-  {
-    "id": "df0a991935f2dbb9f4c77a29818bd97493ae46ef16c7f4da9c892218a717eee4",
-    "title": "Andy Richter Claims U2’s the Edge Wrote an ‘Elf’ Sequel Screenplay",
-    "summary": "\"It’s the weirdest story, but apparently it was fully written somewhere in the world,\" actor says. \"There is an Edge-penned Elf 2 out there\"",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/andy-richter-u2-the-edge-screenplay-elf-sequel-1235654475",
-    "published_at": "2026-11-08T17:01:27+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.983255+00:00",
-    "thin": false,
-    "author": "Daniel Kreps",
-    "tags": [
-      "TV & Movies",
-      "TV & Movies News",
-      "Elf",
-      "The Edge"
-    ]
-  },
-  {
-    "id": "3138ef2bf98472c7caf924ae4ae157c2dd1bf237a745214871eee46e23ed6d73",
-    "title": "The Legend of Zelda: Ocarina of Time Thankfully Resists FromSoftware’s Influence",
-    "summary": "The Legend of Zelda: Ocarina of Time makes a lot of modernizations to the original game, but there's one thing it doesn't add: parrying.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-parrying",
-    "published_at": "2026-11-08T17:00:19+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zelda-ocarina-of-time-remake-attack-deflection.png",
-    "collection_timestamp": "2026-11-08T20:11:24.986834+00:00",
-    "thin": false,
-    "author": "Giovanni Colantonio",
-    "tags": [
-      "Analysis",
-      "The Legend of Zelda: Ocarina of Time",
-      "Nintendo Switch 2"
-    ]
-  },
-  {
-    "id": "0e4d898718a7335a80f48bdda5a257e35799b47ba6027b56552e8b468d645b09",
-    "title": "Grimsby fight back from two goals down to edge Stafford on penalties",
-    "summary": "League Two side Grimsby Town recover from a two-goal deficit against the FA Cup first round's lowest-ranked team, Stafford Rangers. Grimsby battled back to level the tie at 3-3 before winning 3-2 in the penalty shootout to book their place in the second round.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cv5yn1w5j359o",
-    "published_at": "2026-11-08T17:00:00+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d55a/live/11e79f60-db8d-11f1-93e1-3b657b665bcf.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.990455+00:00",
-    "thin": false
-  },
-  {
-    "id": "9e7d0421106ccd08625478e1d9e4fa06b257effc362f0784ba2657bb6a91f211",
-    "title": "‘Godzilla Minus Zero’ Powers $31M in Historic Box Office Launch Against Subdued ‘Cat in the Hat’",
-    "summary": "The sequel to 2023's 'Godzilla Minus One' made noise as 'Ramayana' and 'Wild Horse Nine' also debuted.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/godzilla-minus-zero-box-office-opening-the-cat-in-the-hat-1236750019",
-    "published_at": "2026-11-08T16:56:35+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.982140+00:00",
-    "thin": false,
-    "author": "Ryan Gajewski",
-    "tags": [
-      "Movie News",
-      "Movies",
-      "Bill Hader",
-      "box office",
-      "club kid",
-      "Godzilla Minus One",
-      "Godzilla Minus Zero",
-      "I Play Rocky",
-      "KJ Apa",
-      "Ramayana",
-      "Takashi Yamazaki",
-      "The Cat in the Hat",
-      "Wicker",
-      "Wild Horse Nine",
-      "You Can See Everything"
-    ]
-  },
-  {
-    "id": "368ed4296847d38781ae7d0c069e0e51dcfb17d87985b63d879ace0ca8b43551",
-    "title": "Fan injured after falling through hole in stand",
-    "summary": "One fan is taken to hospital after a number of Bodo/Glimt supporters fall through a hole in the away stand at Tromso.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ck0j0x2e49j7o",
-    "published_at": "2026-11-08T16:53:37+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb05/live/a92d9140-db92-11f1-9029-d35c55297624.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.989346+00:00",
-    "thin": false
-  },
-  {
-    "id": "7eff3a2d1681e2d093263d73bc48e65d3052f70b1bf397056b0e360284d19a98",
-    "title": "This onion is trying to win a contest or something",
-    "summary": "&#32; submitted by &#32; /u/slyzzin &#32; to &#32; r/mildlyinteresting [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/mildlyinteresting/comments/1xr2tju/this_onion_is_trying_to_win_a_contest_or_something",
-    "published_at": "2026-11-08T16:46:20+00:00",
-    "image_url": "https://preview.redd.it/3x6y6z924f0i1.jpeg",
-    "collection_timestamp": "2026-11-08T20:11:24.991591+00:00",
-    "thin": false,
-    "author": "/u/slyzzinhttps://www.reddit.com/user/slyzzin",
-    "tags": [
-      "mildlyinteresting"
-    ]
-  },
-  {
-    "id": "871b31dd30b445f62c5acd2962138989c063fb971d829bc430d23a3bacf1e000",
-    "title": "NASCAR Cup Series Championship Livestream: How to Watch the Race Online for Free",
-    "summary": "A 2026 NASCAR Cup Series Champion will be crowned on Sunday — here’s how to watch the race online",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/stream-nascar-cup-series-championship-race-online-free-2026-1235653705",
-    "published_at": "2026-11-08T16:45:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.983387+00:00",
-    "thin": false,
-    "author": "Oscar Hartzog",
-    "tags": [
-      "TV & Movies",
-      "TV & Movies News",
-      "NASCAR",
-      "NBC",
-      "noads",
-      "racing",
-      "RS Recommends",
-      "sports",
-      "streaming"
-    ]
-  },
-  {
-    "id": "de1e59a6df32ce7a3607ec11adecd32938f8c3ebb04252c21567460200942b11",
-    "title": "How to Watch Tonight’s ’60 Minutes’ Interview With President Trump Live Online for Free",
-    "summary": "The episode marks the President's first official sit-down since Democrats flipped more than 40 House seats during the midterms",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/watch-60-minutes-president-trump-interview-free-stream-online-1235654417",
-    "published_at": "2026-11-08T16:41:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.983522+00:00",
-    "thin": false,
-    "author": "Tim Chan",
-    "tags": [
-      "TV & Movies",
-      "TV & Movies News",
-      "60 Minutes",
-      "Donald Trump",
-      "noads",
-      "RS Recommends"
-    ]
-  },
-  {
-    "id": "5c230bc81846640981e9f6c656fe00aca0ac3256d5195bfa8f482c78f7e5f0db",
-    "title": "‘Godzilla Minus Zero’ Is King Of The Global Weekend Box Office With $63M, Towers Over ‘Ramayana’s $55M+ WW Opening",
-    "summary": "SUNDAY AM: Toho&#8217;s lizard had no plans to be undone by a Hindu deity in a fight at the global box office as Godzilla Minus Zero roared $63M WW over Prime Focus Studio and Sony&#8217;s Ramayana: Rise of a Legend&#8216;s $55.7M global, the bulk of that gross in India. Ramayana had good fortune in Europe, [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/box-office-global-godzilla-minus-zero-ramayana-rise-of-a-legend-1237216698",
-    "published_at": "2026-11-08T16:37:33+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Godzilla-Ramayana-2-shot.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.981124+00:00",
-    "thin": false,
-    "author": "Anthonypauldalessandro",
-    "tags": [
-      "News",
-      "Godzilla Minus Zero",
-      "Ramayana: Rise of a Legend"
-    ]
-  },
-  {
-    "id": "15a6ca9eecca1b9caf3d8defac34627490c2f7d52976ad9b27015b45667f5875",
-    "title": "‘SNL’ Makes Grok Do “Epic Vulgar Roast” Of Elon Musk On ‘Weekend Update’: “The Worst Thing South Africa Has Ever Done”",
-    "summary": "Elon Musk has returned to Saturday Night Live, through Jeremy Culhane&#8217;s hilarious impression, to give a postmortem of the midterm elections. As &#8220;Weekend Update&#8221; co-anchor Colin Jost noted, Musk has been in the news after he wasted half a billion dollars on backing candidates who lost, but the trillionaire disagreed with that take. &#8220;No, I&#8217;m [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/snl-grok-epic-vulgar-roast-elon-musk-weekend-update-1237216693",
-    "published_at": "2026-11-08T16:35:37+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Elon-Musk-SNL.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.981325+00:00",
-    "thin": false,
-    "author": "Glenn Garner",
-    "tags": [
-      "Late Night TV",
-      "News",
-      "Politics",
-      "Elon Musk",
-      "Jeremy Culhane",
-      "midterm elections",
-      "Saturday Night Live",
-      "Weekend Update"
-    ]
-  },
-  {
-    "id": "df542bd104687d27b01d43a6eb721be95182195b5c44945f128d39202196eb28",
-    "title": "Speedrunners Already Breaking The Legend of Zelda: Ocarina of Time's Remake",
-    "summary": "The addition of jumping to The Legend of Zelda: Ocarina of Time has enabled a new speedrunning trick",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/ocarina-of-time-remake-speedrunning-actor-jumping",
-    "published_at": "2026-11-08T16:32:01+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ocarina-of-time-happy-mask-bunny-hood.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.986953+00:00",
-    "thin": false,
-    "author": "Tomas Franzese",
-    "tags": [
-      "The Legend of Zelda",
-      "The Legend of Zelda: Ocarina of Time"
-    ]
-  },
-  {
-    "id": "d8c573d0c22a9532fea1cf5b53564907a4a9cc3acb3c26feb3279bebd9cdff97",
-    "title": "U2 Sound Revitalized on ‘Carnaval de Luz’",
-    "summary": "The rock legends return with a tightly focused album that stands as a counterargument to pop-culture doomsaying",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-album-reviews/u2-carnaval-de-luz-album-review-1235645569",
-    "published_at": "2026-11-08T16:29:02+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.983641+00:00",
-    "thin": false,
-    "author": "Kory Grow",
-    "tags": [
-      "Album Reviews",
-      "Music",
-      "Adam Clayton",
-      "Bono",
-      "Larry Mullen Jr",
-      "The Edge",
-      "U2"
-    ]
-  },
-  {
-    "id": "104a04779d3582b38091577653e265e68d2b1b44457fcffc04bd38218f5848a4",
-    "title": "Kids without phones",
-    "summary": "&#32; submitted by &#32; /u/YogurtclosetOwn720 &#32; to &#32; r/interestingasfuck [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/interestingasfuck/comments/1xr1sii/kids_without_phones",
-    "published_at": "2026-11-08T16:02:58+00:00",
-    "image_url": "https://external-preview.redd.it/aHRiNmN4Y2F3ZTBpMQnHn2bCQIqIl1-YhcSNQQVr69a0SM389dcKPSTSxVKQ.png",
-    "collection_timestamp": "2026-11-08T20:11:24.991832+00:00",
-    "thin": true,
-    "author": "/u/YogurtclosetOwn720https://www.reddit.com/user/YogurtclosetOwn720",
-    "tags": [
-      "interestingasfuck"
-    ]
-  },
-  {
-    "id": "b8c037427993f28e56c65f6d0af4e64dd0db069af296ab227ccf76c696342310",
-    "title": "Wemby gets 8 FT in the second quarter and the Blazers announcers get annoyed",
-    "summary": "&#32; submitted by &#32; /u/TomlinSteelers &#32; to &#32; r/nba [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/nba/comments/1xr1rc2/wemby_gets_8_ft_in_the_second_quarter_and_the",
-    "published_at": "2026-11-08T16:01:41+00:00",
-    "image_url": "https://external-preview.redd.it/CmytZyU3VmHQGBffjyhz1dKxFfE2iNL9PLiLu45J-Ko.jpeg",
-    "collection_timestamp": "2026-11-08T23:53:11.683014+00:00",
-    "thin": false,
-    "author": "/u/TomlinSteelershttps://www.reddit.com/user/TomlinSteelers",
-    "tags": [
-      "nba"
-    ]
-  },
-  {
-    "id": "a0112ab5c146661ed87d98394af5bfc7bd70e972b2dc66afa9b2e9044764ff6d",
-    "title": "Box Office: ‘Godzilla Minus Zero’ Roars With $31 Million Debut, ‘Cat in the Hat’ Fizzles With $20 Million",
-    "summary": "The Cat in the Hat was no match for the mighty Godzilla. &#8220;Godzilla Minus Zero&#8221; climbed to the top of box office charts with $31.6 million from 3,254 theaters, a roaring start for a foreign-language epic in North America. Meanwhile, &#8220;The Cat in the Hat&#8221; stumbled with $20 million from 4,003 locations, a weak debut [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/box-office/godzilla-minus-zero-box-office-opening-weekend-cat-in-the-hat-fizzles-1236942363",
-    "published_at": "2026-11-08T16:01:33+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/MCDGOMI_EC019.jpg",
-    "collection_timestamp": "2026-11-08T20:11:24.979352+00:00",
-    "thin": false,
-    "author": "Rebecca Rubin",
-    "tags": [
-      "Box Office",
-      "Godzilla Minus Zero",
-      "The Cat in the Hat"
-    ]
-  },
-  {
-    "id": "5999bab87cca8f958bf3326b8c4b9e498449b2526d475b943a67113d081b85e1",
-    "title": "Zelda: Ocarina of Time Is Guaranteed a GOTY Nomination. It Will Never Win",
-    "summary": "Nintendo's Switch 2 remake of The Legend of Zelda: OoT will do well at The Game Awards 2026, but it can't win",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/zelda-ocarina-of-time-switch-2-remake-goty-game-awards",
-    "published_at": "2026-11-08T16:00:17+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ns2_thelegendofzeldaocarinaoftime_scrn_11.png",
-    "collection_timestamp": "2026-11-08T20:11:24.987076+00:00",
-    "thin": false,
-    "author": "Oli Welsh",
-    "tags": [
-      "GOTY Watch",
-      "The Legend of Zelda: Ocarina of Time",
-      "The Game Awards"
-    ]
-  },
-  {
-    "id": "d352c19da53e01f7d8f69f0c2d0dad221658fc5fa71a66d2d6ac2a7930943317",
-    "title": "Where to Watch the 2026 NASCAR Cup Series Championship Race Live Online",
-    "summary": "The 2026 season finale is set for Sunday, Nov. 8 at Homestead-Miami Speedway.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-nascar-cup-series-championship-race-2026-free-stream-1236750096",
-    "published_at": "2026-11-08T16:00:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.982254+00:00",
-    "thin": false,
-    "author": "Erin Lassner",
-    "tags": [
-      "TV",
-      "TV News",
-      "how to watch",
-      "NASCAR",
-      "Sports"
-    ]
-  },
-  {
-    "id": "92320747c5edb1a9924c2397e2ac8c35569fc25ea405e79a7ae4fa6dfc94e139",
-    "title": "Scene Worldwide Box Office: Suriya starrer emerges a SUCCESS; Set to hit Rs 100 crore globally in 3 days flat",
-    "summary": "Scene, starring Suriya, Nazriya, and Naslen, is doing well at the box office. The cop comedy drama, directed by Aavesham director&nbsp;Jithu Madhavan, added Rs. 23.50 crore to the tally on its second day, registering a nominal spike of 5 per cent. This took its domestic gross collection over two days to Rs. 46 crore at the Indian box office.&nbsp; Box Office Collections of Scene in India are as follows:&nbsp; Day&nbsp; Box Office &nbsp; &nbsp; 1 Rs. 22.50 crore 2 Rs. 23.50 crore &nbsp; &nbsp; To",
-    "category": "bollywood",
-    "source": "Pinkvilla",
-    "url": "https://www.pinkvilla.com/entertainment/box-office/scene-worldwide-box-office-suriya-starrer-emerges-a-success-set-to-hit-rs-100-crore-globally-in-3-days-flat-1406337",
-    "published_at": "2026-11-08T15:57:27+05:30",
-    "image_url": null,
-    "collection_timestamp": "2026-11-10T20:32:55.673687+00:00",
-    "thin": false
-  },
-  {
-    "id": "07f74ee67508edf0c813a123c7e91fce59795855db74a752ceda266a262fa9a0",
-    "title": "Indians farming aura on rented bmw's",
-    "summary": "&#32; submitted by &#32; /u/Drcold1O &#32; to &#32; r/cringereels [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/cringereels/comments/1xr1jy9/indians_farming_aura_on_rented_bmws",
-    "published_at": "2026-11-08T15:53:02+00:00",
-    "image_url": "https://external-preview.redd.it/YjF4eDNzaWd1ZTBpMUB9Jpr35WWbr5DsyW26vTkdzXYtXgy_qKI-vFjVEuxM.png",
-    "collection_timestamp": "2026-11-08T23:53:11.681772+00:00",
-    "thin": false,
-    "author": "/u/Drcold1Ohttps://www.reddit.com/user/Drcold1O",
-    "tags": [
-      "cringereels"
-    ]
-  },
-  {
-    "id": "f7e9d920907fcaa5bd0b6db515fe6504eb9c5d6c690808099f55eae815a4f716",
-    "title": "Epic Games Launcher is coming to SteamOS",
-    "summary": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications Director Jake Jones has confirmed SteamOS compatibility, along with a handful of other distros, to GamingOnLinux. In response [&#8230;]",
-    "category": "gaming",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
-    "published_at": "2026-11-08T15:52:05-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T23:53:11.674245+00:00",
-    "thin": false,
-    "author": "Terrence O’Brien",
-    "tags": [
-      "Fortnite",
-      "Gaming",
-      "News"
-    ]
-  },
-  {
-    "id": "635c0e47675ffe32b0a47bcf7e2a3a84d96789030c8aee92d6ac104f0f7fcf90",
-    "title": "Future-Prog Foursome Polyphia Want to Freak You Out on Their New Album",
-    "summary": "Next-gen guitar shredders Tim Henson and Scott LePage on why their band got heavy and scary while staying weird on ‘Be Not Afraid’",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-features/polyphia-interview-tim-henson-new-album-1235653994",
-    "published_at": "2026-11-08T15:38:35+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T15:47:08.530748+00:00",
-    "thin": false,
-    "author": "Brian Hiattt",
-    "tags": [
-      "Music",
-      "Music Features",
-      "Kanye West",
-      "Mike Dean",
-      "Polyphia",
-      "Scott LePage",
-      "Steve Vai",
-      "Tim Henson"
-    ]
-  },
-  {
-    "id": "040458c7cd4dbb9ce558999d6d3001c2eda7742fcd04ccd781a03dd8c2cebc4d",
-    "title": "The Legend Of Zelda: Ocarina of Time For Switch 2 Could Bring Back A Classic Mode",
-    "summary": "Master Quest might come to The Legend of Zelda: Ocarina of Time's Nintendo Switch 2 remake as DLC",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/ocarina-of-time-master-quest-switch-2",
-    "published_at": "2026-11-08T15:38:32+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/the-legend-of-zelda-ocarina-of-time-goron-and-link.png",
-    "collection_timestamp": "2026-11-08T15:47:08.533908+00:00",
-    "thin": false,
-    "author": "Tomas Franzese",
-    "tags": [
-      "The Legend of Zelda",
-      "The Legend of Zelda: Ocarina of Time"
-    ]
-  },
-  {
-    "id": "ab72201be9123235dbe0842eb0abd42f7870a28112c78b0ce6cf002908b10dbd",
-    "title": "How Democrats will try to end Trump's tariffs",
-    "summary": "Rep. Hakeem Jeffries, D-N.Y., who is likely the next House speaker, has made clear that ending President Trump's tariffs is one of Democrats' top priorities.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
-    "published_at": "2026-11-08T15:36:39+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T15:47:08.535177+00:00",
-    "thin": false
-  },
-  {
-    "id": "aebcb7709beedff2fb38a6e77ff5922637fbcbfb01c09d7377899c39796ca933",
-    "title": "Expressed political beliefs on FB and lost an entire side of my family",
-    "summary": "EDIT- ICE was in my neighborhood, I shared a post and said FUCK ICE AND EVERYTHING THIS ADMINISTRATION STANDS FOR. EDIT 2- https://imgur.com/a/P5eIedj &#32; submitted by &#32; /u/aljoy &#32; to &#32; r/texts [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/texts/comments/1xr15nx/expressed_political_beliefs_on_fb_and_lost_an",
-    "published_at": "2026-11-08T15:35:21+00:00",
-    "image_url": "https://preview.redd.it/axk2thgere0i1.jpeg",
-    "collection_timestamp": "2026-11-08T20:11:24.995512+00:00",
-    "thin": false,
-    "author": "/u/aljoyhttps://www.reddit.com/user/aljoy",
-    "tags": [
-      "texts"
-    ]
-  },
-  {
-    "id": "29ea7b512085a29e71860bdd7652f61523df18de08c0e466e53ed93eb7d4ad9a",
-    "title": "'Dreamland!' - Cray score brilliant free-kick as Stockport down to 10",
-    "summary": "Stockport goalkeeper Luca Ashby-Hammond is given a straight red card after a challenge on the edge of the box and from the subsequent free-kick Alex Hernandez doubles Cray Wanderers' lead with a fantastic free-kick.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c64g1n4w70p9o",
-    "published_at": "2026-11-08T15:31:43+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e26/live/01e0be90-db87-11f1-a701-fddedf244c16.jpg",
-    "collection_timestamp": "2026-11-08T15:47:08.536992+00:00",
-    "thin": false
-  },
-  {
-    "id": "0db8fcada4258a359bbdf8fe019435b594bf45735eefda87c17c8efc632d46b6",
-    "title": "Two C.I.A. Agents Walk Into a Bar on Rapa Nui: Inside ‘Wild Horse Nine’",
-    "summary": "A tangent-filled conversation with Martin McDonagh, John Malkovich, and Sam Rockwell about conspiracy theories, America, and their new movie",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/wild-horse-nine-interview-john-malkovich-martin-mcdonagh-1235651191",
-    "published_at": "2026-11-08T15:30:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T15:47:08.530893+00:00",
-    "thin": false,
-    "author": "David Fear",
-    "tags": [
-      "TV & Movies",
-      "TV & Movies Reviews",
-      "Cult Movies",
-      "John Malkovich",
-      "Martin McDonagh",
-      "Sam Rockwell"
-    ]
-  },
-  {
-    "id": "ecb212f251e93ed7e840f458663b63e65e5faf5ce12667f8c7d8e94ac59253e3",
-    "title": "This Former Physics Teacher Recorded an Album of Folky Songs Inspired by Sonar",
-    "summary": "On Echolocationism , Ben Labat, who once led the alt-rock band the Terms, looks to marine-life navigation for musical ideas: \"It’s really about finding that new path\"",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-features/ben-labat-the-terms-solo-album-1235654283",
-    "published_at": "2026-11-08T15:25:26+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T15:47:08.531038+00:00",
-    "thin": false,
-    "author": "Joseph Hudak",
-    "tags": [
-      "Music",
-      "Music Features",
-      "Americana",
-      "Ben LaBat",
-      "Country Music"
-    ]
-  },
-  {
-    "id": "8e7c19d3e83054524afa98b74c8c683ad96f1264fc2027ea2eeccbbc7e3cb380",
-    "title": "Nvidia is investigating Jensen Huang’s relationship with an alleged Chinese spy",
-    "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-    "published_at": "2026-11-08T15:22:39-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T13:37:24.689800+00:00",
-    "thin": false,
-    "author": "Terrence O’Brien",
-    "tags": [
-      "AI",
-      "News"
-    ]
-  },
-  {
-    "id": "93b42eee543c8c795b0916d65fab6fabafe3dd0971db1e6759c352eb06fd160a",
-    "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-    "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-    "published_at": "2026-11-08T15:22:39-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T23:53:11.674485+00:00",
-    "thin": false,
-    "author": "Terrence O’Brien",
-    "tags": [
-      "AI",
-      "News"
-    ]
-  },
-  {
-    "id": "44270e07fd0c7eda01327a22f10614b1f66ba09969fe2a201a365bb431ae7a63",
-    "title": "Assassin's Creed Hexe Reportedly Delayed As New Assassin's Creed Games Leak",
-    "summary": "Some new insider reporting has shed new light on the future of Assassin's Creed",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/assassins-creed-hexe-delay-leak",
-    "published_at": "2026-11-08T15:07:40+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/assassin-s-creed-codename-hexe-official-announcement-trailer-_-ubisoft-forward-2022-0-18-screenshot.jpg",
-    "collection_timestamp": "2026-11-08T15:47:08.534032+00:00",
-    "thin": false,
-    "author": "Tomas Franzese",
-    "tags": [
-      "Assassin's Creed",
-      "Assassin's Creed Black Flag Resynced"
-    ]
-  },
-  {
-    "id": "7b9d21cd469cd17c777f7e398638a515000460666c4b16b2026836a3d0cf80f3",
-    "title": "England await Guehi scan results after injury concern",
-    "summary": "Manchester City defender Marc Guehi will undergo a scan on a hip complaint on Sunday to determine whether he can report for England duty this week.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cmwyq8x6nx5lo",
-    "published_at": "2026-11-08T15:03:01+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1da8/live/ac3bb310-db7b-11f1-b1f1-3be4e895d0fe.jpg",
-    "collection_timestamp": "2026-11-08T15:47:08.536417+00:00",
-    "thin": false
-  },
-  {
-    "id": "9775bf8d28e5d858a9d0ddbb95ca7348c6514253f628a2b7ab0c70bed5c552d4",
-    "title": "Why Are So Many Artists Dropping Holiday Music?",
-    "summary": "Here's your guide to everyone releasing holiday projects, from Olivia Rodrigo to Alanis Morissette to Hilary Duff",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-features/olivia-rodrigo-holiday-music-artists-2026-1235653142",
-    "published_at": "2026-11-08T15:00:19+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T15:47:08.531151+00:00",
-    "thin": false,
-    "author": "Maya Georgi",
-    "tags": [
-      "Music",
-      "Music Features",
-      "Holiday"
-    ]
-  },
-  {
-    "id": "51e5ccde9d1e24abc1afc272f0ebc30a7cb111d977b52e66e9fe0d57bdde0ff5",
-    "title": "Magic’s Star Trek Set Doubles as a Must-Watch Guide to the Sci-Fi Franchise",
-    "summary": "From The Wrath of Khan to The Best of Both Worlds, discover the 14 Star Trek stories inspiring Magic: The Gathering's new Saga cards.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/star-trek-magic-the-gathering-saga-cards-episodes",
-    "published_at": "2026-11-08T15:00:17+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/worf-holds-at-bat-leth-in-art-from-magic-the-gathering-star-trek.jpg",
-    "collection_timestamp": "2026-11-08T15:47:08.534174+00:00",
-    "thin": false,
-    "author": "Terry Terrones",
-    "tags": [
-      "Polygon Lists",
-      "Star Trek",
-      "Magic: The Gathering",
-      "Tabletop Games",
-      "Trading Card Game"
-    ]
   }
 ]

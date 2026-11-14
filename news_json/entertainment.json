@@ -1,5 +1,307 @@
 [
   {
+    "id": "c0646db5450146a32e2c91a320623b7bab6b2102da059e8466a925bdd4444af4",
+    "title": "Shane Gillis Grades His Own Mediocre ‘SNL’ Monologue a C Minus",
+    "summary": "The comedian called women who wear workout clothes at the gym \"whores\" on Saturday Night Live",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/shane-gillis-addresses-snl-monologue-1235658237",
+    "published_at": "2026-11-14T01:52:29+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.247502+00:00",
+    "thin": false,
+    "author": "Charisma Madarang",
+    "tags": [
+      "TV & Movies",
+      "TV & Movies News",
+      "Saturday Night Live"
+    ]
+  },
+  {
+    "id": "b86304b66c4fa37e1c028041bed08b2b94e1929d7a2513d336f005e464ccf816",
+    "title": "Coachella Tickets Are Already Sold Out — Here’s What They’re Going for on Resale",
+    "summary": "Missed the general sale for Coachella 2027? Here's what to know about resale, the waitlist, and more",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/product-recommendations/tickets/coachella-tickets-where-to-buy-online-2027-1235658206",
+    "published_at": "2026-11-14T01:36:53+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.247633+00:00",
+    "thin": false,
+    "author": "Jonathan Zavaleta",
+    "tags": [
+      "RS Recommends",
+      "Tickets",
+      "Coachella",
+      "noads",
+      "tickets"
+    ]
+  },
+  {
+    "id": "12f565d81fc0bf1ef15a7c9f91aa9ac6bf7397ba014d43129dd5b8268796d350",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences",
+    "published_at": "2026-11-14T01:00:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.246198+00:00",
+    "thin": false,
+    "author": "Colin Stutz",
+    "tags": [
+      "Business",
+      "Business News",
+      "billboard pro",
+      "conferences",
+      "Events",
+      "festivals",
+      "Touring"
+    ]
+  },
+  {
+    "id": "623843e7dd304313677321c282ceb35b86a0f257371b5a012f95b2d51e2afb3b",
+    "title": "Kanye West Settles Lawsuit Over Sample Blocked by Descendant of Holocaust Survivors",
+    "summary": "The German singer-songwriter said she refused to let West, nown known as Ye, sample her song because of his antisemitic remarks",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/kanye-west-settles-lawsuit-alice-merton-holocaust-survivors-1235658191",
+    "published_at": "2026-11-14T00:59:53+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.247760+00:00",
+    "thin": false,
+    "author": "Nancy Dillon",
+    "tags": [
+      "Music",
+      "Music News",
+      "controversy",
+      "courts and crime",
+      "Kanye West",
+      "Ye"
+    ]
+  },
+  {
+    "id": "7ee67e378fd195b1f650cbcfe3dbfc1bbf52817d86898cf8b08e20d9e1a52388",
+    "title": "In Canada: Canada Music Fund to Receive $67M Boost; Women in Music Executive Award Winners Share Their Wisdom",
+    "summary": "Also this week: Sean Paul appears on the first episode of Billboard Canada News .",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/pro/canada-music-fund-67m-boost-canada-news",
+    "published_at": "2026-11-14T00:10:09+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.246334+00:00",
+    "thin": false,
+    "author": "Chris Eggertsen",
+    "tags": [
+      "Business",
+      "Business News",
+      "Billboard Canada",
+      "Canada",
+      "In Canada",
+      "International",
+      "Music News"
+    ]
+  },
+  {
+    "id": "c6bea440c4ebb8023f7276b9d9de79e801123f406356021c365cc9b7f0218168",
+    "title": "John Summit, David Guetta, Alison Wonderland & More to Play College Football Playoff National Championship Weekend",
+    "summary": "The free AT&#38;T Playoff Playlist Live festival happens Jan. 23-24 in Las Vegas.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/music-news/las-vegas-college-football-champship-music-festival-summit-1236382125",
+    "published_at": "2026-11-13T23:16:54+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.246460+00:00",
+    "thin": false,
+    "author": "Katie Bain",
+    "tags": [
+      "Music",
+      "Music News",
+      "Dance",
+      "genre dance",
+      "sports"
+    ]
+  },
+  {
+    "id": "6e9988f6b01bc46db7103e50048aee64e05e62c457d34152c42791d4e10e4452",
+    "title": "Young Thug Responds to Quavo’s Attempt to Have Him Reconcile With Gunna: ‘How Uma Fix Some Sh– I Didn’t Break Qua?’",
+    "summary": "Offset detailed why he stood by Gunna following the YSL RICO trial during a Popcast appearance.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/rb-hip-hop/young-thug-quavo-gunna-offset-reconciliation-ysl-trial-1236382064",
+    "published_at": "2026-11-13T23:13:43+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.246587+00:00",
+    "thin": false,
+    "author": "Michael Saponara",
+    "tags": [
+      "Music",
+      "R&B/Hip-Hop",
+      "genre hiphop",
+      "Music News"
+    ]
+  },
+  {
+    "id": "3a1f41c3bf46b28c81d08a4bb915601318ee41580ded1fbe88095d5dcc77a514",
+    "title": "Who Is Sara Schell, The Newcomer Who Won Songwriter of the Year at the 2026 Latin Grammys?",
+    "summary": "Meet the Venezuelan behind hits by KATSEYE, Becky G, J Balvin &#38; other major stars.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/latin/meet-sara-schell-latin-grammy-songwriter-of-the-year-nominee-1236379607",
+    "published_at": "2026-11-13T23:00:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.246704+00:00",
+    "thin": false,
+    "author": "Sigal Ratner-Arias",
+    "tags": [
+      "Latin",
+      "Music",
+      "Awards",
+      "genre latin",
+      "interview",
+      "Latin Grammys",
+      "Music News"
+    ]
+  },
+  {
+    "id": "3c22940abf3ad144fe01e6d221180e71565b68b2b79fcd0238b18e6a4570c335",
+    "title": "Justin Bieber Pops Out at Rising British Star’s $30 Concert in L.A. in Surprise Cameo: ‘Who’s Gonna Pinch Me Then?’",
+    "summary": "The pop star jumped in on Finn Askew's song \"Music All Over Her Body.\"",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/music-news/justin-bieber-surprise-cameo-finn-askew-la-show-1236382042",
+    "published_at": "2026-11-13T22:58:37+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.246822+00:00",
+    "thin": false,
+    "author": "Hannah Dailey",
+    "tags": [
+      "Music",
+      "Music News",
+      "genre pop"
+    ]
+  },
+  {
+    "id": "55f39a282091f9923dae0218e6ba812e915558a64d2e4162ef6e873864162b72",
+    "title": "Il Volo Reflect on 18 Years Together, Their Christmas Traditions and What’s Next",
+    "summary": "The Italian trio has just released a new album, Our Christmas , and will be touring major arenas in the U.S. and Italy from November-December.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/music-news/il-volo-our-christmas-billboard-italy-1236382101",
+    "published_at": "2026-11-13T22:42:25+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.246955+00:00",
+    "thin": false,
+    "author": "Joe Lynch",
+    "tags": [
+      "Music",
+      "Music News",
+      "Il Volo"
+    ]
+  },
+  {
+    "id": "8db57fbaf4f84d4acfa4333af8dc123bc8a792f6038f95af4548b6d396ec2d4d",
+    "title": "Journey Go Their Separate Ways With Longtime Drummer",
+    "summary": "Deen Castronovo has left Journey's stage mid-show at two recent stops due to a medical issue, and now is handing off his drum sticks to veteran musician Steve Murphy",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/journey-part-ways-with-drummer-1235658141",
+    "published_at": "2026-11-13T22:42:06+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.247898+00:00",
+    "thin": false,
+    "author": "Andy Greene",
+    "tags": [
+      "Music",
+      "Music News",
+      "Journey"
+    ]
+  },
+  {
+    "id": "a10a6bc3e524aff5798fab546ab4ab7c6e3adbc7283e65b96b4624ecff23256a",
+    "title": "Dashboard Confessional 2027: Where to Shop Affordable Unplugged 25th Anniversary Tour Tickets Online",
+    "summary": "Starting on Mar. 12, the iconic emo band hits the road with 14 tour dates across the United States.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/culture/product-recommendations/dashboard-confessional-2027-tour-tickets-buy-shop-online-1236379707",
+    "published_at": "2026-11-13T22:37:25+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.247079+00:00",
+    "thin": false,
+    "author": "Rudie Obias",
+    "tags": [
+      "Culture",
+      "Product Recommendations",
+      "NOADS",
+      "tickets",
+      "Touring"
+    ]
+  },
+  {
+    "id": "6954bfde1bfaa6150614eed008d6ef15039a27eabde5edc0b56d20a8471d82b5",
+    "title": "Viva La Lisa! 5 Best Moments From LISA’s Opening Night in Las Vegas",
+    "summary": "The BLACKPINK superstar made history at The Colosseum at Caesars Palace with seven live debuts &#38; an unreleased song.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/lists/lisa-las-vegas-opening-night-review-best-moments",
+    "published_at": "2026-11-13T22:32:15+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.247201+00:00",
+    "thin": false,
+    "author": "Katie Atkinson",
+    "tags": [
+      "Music",
+      "Pop",
+      "genre kpop",
+      "Las Vegas",
+      "Music News"
+    ]
+  },
+  {
+    "id": "ee9a3b333f1cd822a8452cbe24a6dce79e06319ca8406590e7ef634cc81b250f",
+    "title": "Drake Finally Makes ‘Take Care’ Bonus Track ‘Hate Sleeping Alone’ Available Across All Streaming Platforms",
+    "summary": "The fan-favorite song wasn't previously available on YouTube or Spotify.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/rb-hip-hop/drake-hate-sleeping-alone-streaming-take-care-bonus-track-1236381994",
+    "published_at": "2026-11-13T22:15:30+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.247364+00:00",
+    "thin": false,
+    "author": "Angel Diaz",
+    "tags": [
+      "Music",
+      "R&B/Hip-Hop",
+      "genre hiphop",
+      "Music News",
+      "streaming"
+    ]
+  },
+  {
+    "id": "93ebe510b9b64fb3bf6b8698f47483a6343c11d502ca26e4460372a0dabc6a8f",
+    "title": "Megan Moroney, Teddy Swims, Ejae to Perform at 100th Macy’s Thanksgiving Parade",
+    "summary": "Queen Latifah, Devo, the Roots, and Keke Palmer are among the star-studded lineup for this year's edition of the annual event",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/megan-moroney-teddy-swims-ejae-macys-thanksgiving-parade-1235658100",
+    "published_at": "2026-11-13T21:49:29+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T01:58:21.248047+00:00",
+    "thin": false,
+    "author": "Althea Legaspi",
+    "tags": [
+      "Music",
+      "Music News",
+      "Devo",
+      "Huntr/x",
+      "Keke Palmer",
+      "Megan Moroney",
+      "Queen Latifah",
+      "Teddy Swims",
+      "The Roots"
+    ]
+  },
+  {
     "id": "31de36559320f88cbed69bd030bd1fba9aa1c22d00d36fc6c920026e9d3287f9",
     "title": "‘I Didn’t Want to Become Fat, Bloated, Naked Elvis’: Why KISS Called It Quits on Touring (And What They’re Up to Now)",
     "summary": "Gene Simmons and Paul Stanley are gearing up for the release of the KISS: End of the Road documentary.",
@@ -5487,259 +5789,6 @@
       "genre pop",
       "genre rb",
       "Music News"
-    ]
-  },
-  {
-    "id": "071039c0694f4e4e0d565c960799e9e4fc7caa9bcfaa35e168816ed8c3b84bf3",
-    "title": "Olivia Rodrigo’s ‘you seem pretty sad for a girl so in love’ Notches Fourth Week Atop Billboard 200",
-    "summary": "Plus, Michael Jackson’s Thriller surges to No. 2, while ILLIT, BigXthaPlug and Queens of the Stone age debut in the top 10.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-you-seem-pretty-sad-back-no-1-billboard-200-1236377042",
-    "published_at": "2026-11-08T20:00:03+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.982619+00:00",
-    "thin": false,
-    "author": "Keith Caulfield",
-    "tags": [
-      "Chart Beat",
-      "Music",
-      "Billboard 200",
-      "breaking",
-      "genre pop",
-      "Music News"
-    ]
-  },
-  {
-    "id": "ace607655f672f9e6a55694034f89ea5f756716fc5ab365495848afb10e39c28",
-    "title": "Del Casher, Guitarist Who Invented the Wah-Wah Pedal, Dead at 88",
-    "summary": "Musician and inventor who played with artists like Elvis Presley, Gene Autry and Frank Zappa died October 1 after cancer battle",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-news/del-casher-guitarist-invented-wah-wah-pedal-dead-obituary-1235654482",
-    "published_at": "2026-11-08T19:13:11+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.983110+00:00",
-    "thin": false,
-    "author": "Daniel Kreps",
-    "tags": [
-      "Music",
-      "Music News",
-      "Guitar",
-      "obit",
-      "Obituary",
-      "RSX"
-    ]
-  },
-  {
-    "id": "f7a41b844b9cc771a96810799340ee56726f16077d7aa24b610d43c73be424df",
-    "title": "Celine Dion Goes Backstage With Metallica After Rocking Out at Sphere: ‘Loved the Show’",
-    "summary": "The Grammy-winning singer was spotted enjoying the show alongside Jack Black.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/music-news/celine-dion-metallica-backstage-photos-sphere-1236377038",
-    "published_at": "2026-11-08T18:58:39+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.982758+00:00",
-    "thin": false,
-    "author": "Mitchell Peters",
-    "tags": [
-      "Music",
-      "Music News",
-      "genre pop",
-      "genre rock",
-      "residency",
-      "Sphere"
-    ]
-  },
-  {
-    "id": "3aabe9cdab2eceecb71c8eaa168212ab933e75e890771b00de644765e303cf08",
-    "title": "The Strokes Get a Surprise Visit From Walton Goggins During ‘SNL’ Performance: Watch",
-    "summary": "The NYC band performed “Lonely in the Future” and “Going Shopping” during its Nov. 7 appearance on the show.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/rock/the-strokes-snl-walton-goggins-cameo-performance-video-1236377034",
-    "published_at": "2026-11-08T17:20:03+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.982897+00:00",
-    "thin": false,
-    "author": "Mitchell Peters",
-    "tags": [
-      "Music",
-      "Rock",
-      "genre rock",
-      "Music News",
-      "saturday night live",
-      "snl",
-      "TV / Film"
-    ]
-  },
-  {
-    "id": "df0a991935f2dbb9f4c77a29818bd97493ae46ef16c7f4da9c892218a717eee4",
-    "title": "Andy Richter Claims U2’s the Edge Wrote an ‘Elf’ Sequel Screenplay",
-    "summary": "\"It’s the weirdest story, but apparently it was fully written somewhere in the world,\" actor says. \"There is an Edge-penned Elf 2 out there\"",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/andy-richter-u2-the-edge-screenplay-elf-sequel-1235654475",
-    "published_at": "2026-11-08T17:01:27+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.983255+00:00",
-    "thin": false,
-    "author": "Daniel Kreps",
-    "tags": [
-      "TV & Movies",
-      "TV & Movies News",
-      "Elf",
-      "The Edge"
-    ]
-  },
-  {
-    "id": "871b31dd30b445f62c5acd2962138989c063fb971d829bc430d23a3bacf1e000",
-    "title": "NASCAR Cup Series Championship Livestream: How to Watch the Race Online for Free",
-    "summary": "A 2026 NASCAR Cup Series Champion will be crowned on Sunday — here’s how to watch the race online",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/stream-nascar-cup-series-championship-race-online-free-2026-1235653705",
-    "published_at": "2026-11-08T16:45:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.983387+00:00",
-    "thin": false,
-    "author": "Oscar Hartzog",
-    "tags": [
-      "TV & Movies",
-      "TV & Movies News",
-      "NASCAR",
-      "NBC",
-      "noads",
-      "racing",
-      "RS Recommends",
-      "sports",
-      "streaming"
-    ]
-  },
-  {
-    "id": "de1e59a6df32ce7a3607ec11adecd32938f8c3ebb04252c21567460200942b11",
-    "title": "How to Watch Tonight’s ’60 Minutes’ Interview With President Trump Live Online for Free",
-    "summary": "The episode marks the President's first official sit-down since Democrats flipped more than 40 House seats during the midterms",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/watch-60-minutes-president-trump-interview-free-stream-online-1235654417",
-    "published_at": "2026-11-08T16:41:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.983522+00:00",
-    "thin": false,
-    "author": "Tim Chan",
-    "tags": [
-      "TV & Movies",
-      "TV & Movies News",
-      "60 Minutes",
-      "Donald Trump",
-      "noads",
-      "RS Recommends"
-    ]
-  },
-  {
-    "id": "d8c573d0c22a9532fea1cf5b53564907a4a9cc3acb3c26feb3279bebd9cdff97",
-    "title": "U2 Sound Revitalized on ‘Carnaval de Luz’",
-    "summary": "The rock legends return with a tightly focused album that stands as a counterargument to pop-culture doomsaying",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-album-reviews/u2-carnaval-de-luz-album-review-1235645569",
-    "published_at": "2026-11-08T16:29:02+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T20:11:24.983641+00:00",
-    "thin": false,
-    "author": "Kory Grow",
-    "tags": [
-      "Album Reviews",
-      "Music",
-      "Adam Clayton",
-      "Bono",
-      "Larry Mullen Jr",
-      "The Edge",
-      "U2"
-    ]
-  },
-  {
-    "id": "635c0e47675ffe32b0a47bcf7e2a3a84d96789030c8aee92d6ac104f0f7fcf90",
-    "title": "Future-Prog Foursome Polyphia Want to Freak You Out on Their New Album",
-    "summary": "Next-gen guitar shredders Tim Henson and Scott LePage on why their band got heavy and scary while staying weird on ‘Be Not Afraid’",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-features/polyphia-interview-tim-henson-new-album-1235653994",
-    "published_at": "2026-11-08T15:38:35+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T15:47:08.530748+00:00",
-    "thin": false,
-    "author": "Brian Hiattt",
-    "tags": [
-      "Music",
-      "Music Features",
-      "Kanye West",
-      "Mike Dean",
-      "Polyphia",
-      "Scott LePage",
-      "Steve Vai",
-      "Tim Henson"
-    ]
-  },
-  {
-    "id": "0db8fcada4258a359bbdf8fe019435b594bf45735eefda87c17c8efc632d46b6",
-    "title": "Two C.I.A. Agents Walk Into a Bar on Rapa Nui: Inside ‘Wild Horse Nine’",
-    "summary": "A tangent-filled conversation with Martin McDonagh, John Malkovich, and Sam Rockwell about conspiracy theories, America, and their new movie",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/wild-horse-nine-interview-john-malkovich-martin-mcdonagh-1235651191",
-    "published_at": "2026-11-08T15:30:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T15:47:08.530893+00:00",
-    "thin": false,
-    "author": "David Fear",
-    "tags": [
-      "TV & Movies",
-      "TV & Movies Reviews",
-      "Cult Movies",
-      "John Malkovich",
-      "Martin McDonagh",
-      "Sam Rockwell"
-    ]
-  },
-  {
-    "id": "ecb212f251e93ed7e840f458663b63e65e5faf5ce12667f8c7d8e94ac59253e3",
-    "title": "This Former Physics Teacher Recorded an Album of Folky Songs Inspired by Sonar",
-    "summary": "On Echolocationism , Ben Labat, who once led the alt-rock band the Terms, looks to marine-life navigation for musical ideas: \"It’s really about finding that new path\"",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-features/ben-labat-the-terms-solo-album-1235654283",
-    "published_at": "2026-11-08T15:25:26+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T15:47:08.531038+00:00",
-    "thin": false,
-    "author": "Joseph Hudak",
-    "tags": [
-      "Music",
-      "Music Features",
-      "Americana",
-      "Ben LaBat",
-      "Country Music"
-    ]
-  },
-  {
-    "id": "9775bf8d28e5d858a9d0ddbb95ca7348c6514253f628a2b7ab0c70bed5c552d4",
-    "title": "Why Are So Many Artists Dropping Holiday Music?",
-    "summary": "Here's your guide to everyone releasing holiday projects, from Olivia Rodrigo to Alanis Morissette to Hilary Duff",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-features/olivia-rodrigo-holiday-music-artists-2026-1235653142",
-    "published_at": "2026-11-08T15:00:19+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T15:47:08.531151+00:00",
-    "thin": false,
-    "author": "Maya Georgi",
-    "tags": [
-      "Music",
-      "Music Features",
-      "Holiday"
     ]
   }
 ]
