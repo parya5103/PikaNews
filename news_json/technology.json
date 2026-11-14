@@ -1,5 +1,107 @@
 [
   {
+    "id": "5cc30ba88b259bc43ecf214168cce957980d8e5fe85b324ad9c72e5b06af20b1",
+    "title": "Here are our favorite deals from REI’s giant Holiday Sale",
+    "summary": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come across, but if you’re looking to save on outdoor gear or pick up something for an upcoming trip, [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+    "published_at": "2026-11-14T10:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T15:33:20.603748+00:00",
+    "thin": false,
+    "author": "Sheena Vasani",
+    "tags": [
+      "Black Friday",
+      "Cyber Monday",
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "c98921f43b1ebc418f89dca63ef2503a98f95740863e8c095c162024fd305b97",
+    "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+    "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+    "published_at": "2026-11-14T10:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T15:33:20.603929+00:00",
+    "thin": false,
+    "author": "Nilay Patel",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Decoder",
+      "OpenAI",
+      "Podcasts",
+      "Policy",
+      "Tech"
+    ]
+  },
+  {
+    "id": "3e9b165b87ecc371b3d2ab2249d3aaa051c7194a2c6b3e1d5e81a6c16c94e995",
+    "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+    "summary": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"only be available in supported service areas\" - meaning you'll only be able to buy one if you live in one [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+    "published_at": "2026-11-14T09:18:36-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T15:33:20.604100+00:00",
+    "thin": false,
+    "author": "Andrew J. Hawkins",
+    "tags": [
+      "Autonomous Cars",
+      "Electric Cars",
+      "Elon Musk",
+      "Tech",
+      "Tesla",
+      "Transportation"
+    ]
+  },
+  {
+    "id": "3cc7bbd6c403559ddf00aaa3ed88d5364581d8e18ecef60474a89f2ba181f121",
+    "title": "A gadget to make your dumb house smarter",
+    "summary": "Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about school apps [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
+    "published_at": "2026-11-14T08:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T15:33:20.604509+00:00",
+    "thin": false,
+    "author": "David Pierce",
+    "tags": [
+      "Apps",
+      "Gadgets",
+      "Installer",
+      "Streaming",
+      "Tech"
+    ]
+  },
+  {
+    "id": "e28280777944cc3a349b7c5e26d185fdc1b02b9681dbf4c1c03505327d1f766d",
+    "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+    "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+    "published_at": "2026-11-14T07:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T15:33:20.604674+00:00",
+    "thin": false,
+    "author": "Sean Hollister",
+    "tags": [
+      "AI",
+      "Nvidia",
+      "Report",
+      "Tech"
+    ]
+  },
+  {
     "id": "1c7d333502e5cd827bb98e6b034b771d60fa5967268f1cedebfb51590f519f7b",
     "title": "NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
     "summary": "&#32; submitted by &#32; /u/SnooSketches2164 &#32; to &#32; r/pcmasterrace [link] &#32; [comments]",
@@ -2425,41 +2527,6 @@
       "Ride-sharing",
       "Transportation",
       "Uber"
-    ]
-  },
-  {
-    "id": "8d68a44a66b8e2e6ab932616f839c9c5b67611f8f944213f57962fd6611ed66e",
-    "title": "Instagram’s AI age detection is expanding globally",
-    "summary": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven't correctly disclosed their age. The rollout will automatically place \"millions more teens on Instagram into Teen Account protections,\" according to Meta's announcement, after launching the AI-powered age assurance updates in the US, EU, and Brazil last year. The [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
-    "published_at": "2026-11-09T07:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T13:37:24.689272+00:00",
-    "thin": false,
-    "author": "Jess Weatherbed",
-    "tags": [
-      "Instagram",
-      "Meta",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "c8bbf131d5db44913e1c2d874f710b101bb2313598571e104820a7becaa1dc10",
-    "title": "Torrent underground",
-    "summary": "When Jane first heard about Memory and Imagination, a rare 1990s documentary about the Library of Congress, she was intrigued. But the Canadian writer in her 30s couldn’t find the movie anywhere — not on streaming services, not on YouTube, not on pirate sites — and her intrigue turned into obsession. Worried it might become [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/cs/features/1027614/torrent-movies-file-sharing-download-piracy",
-    "published_at": "2026-11-09T06:00:05-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T13:37:24.689520+00:00",
-    "thin": true,
-    "author": "Janko Roettgers",
-    "tags": [
-      "Features"
     ]
   }
 ]
