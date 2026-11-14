@@ -1,5 +1,53 @@
 [
   {
+    "id": "e477b5e9600f4897100c6bb98805b759dd77b752bc14ed62617376b09ff47786",
+    "title": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
+    "summary": "Despite the turbulence, the S&P 500 secured a weekly gain of 2.5%, while the tech-heavy Nasdaq added 2.3%.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html",
+    "published_at": "2026-11-14T18:48:39+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T20:24:33.451730+00:00",
+    "thin": false
+  },
+  {
+    "id": "d12769946ce9f0303c1c4b19cacabaeb9cdc6872fe98f5078a4eb4a3833c693b",
+    "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
+    "summary": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+    "published_at": "2026-11-14T18:32:47+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T20:24:33.451094+00:00",
+    "thin": false
+  },
+  {
+    "id": "0fa3f72068e19defa7b905562c8984eef6765b7a12720256d557dab421eedf26",
+    "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+    "summary": "Two Nvidia investors with about $2.13 billion of stock disclosed as of June 30 are calling for a deliberate leadership search after Huang’s resignation.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+    "published_at": "2026-11-14T17:46:06+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T20:24:33.451262+00:00",
+    "thin": false
+  },
+  {
+    "id": "3ea83daa799726b853d57ad028d41dfdd8a2d79dd189a18f0cdbcb0300d2455c",
+    "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+    "summary": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+    "published_at": "2026-11-14T15:50:43+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T20:24:33.451492+00:00",
+    "thin": false
+  },
+  {
     "id": "2b367e23d4b24cb1fbcb9d5007fcde1fe339cfbdcc2bbd821b0a00add88e535c",
     "title": "Flight disruptions continue after FAA lifts ground stop, some college football games delayed",
     "summary": "U.S. flights are resuming after the FAA ground stop, but delays and cancellations are still piling up.",
@@ -22,6 +70,22 @@
     "image_url": null,
     "collection_timestamp": "2026-11-14T15:33:20.621953+00:00",
     "thin": false
+  },
+  {
+    "id": "cf7ea3ea1fe90656ffaaaadfe1f618432a983d2030b5d5b412841d33b9d108f5",
+    "title": "Robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+    "summary": "&#32; submitted by &#32; /u/UltimateLionsFan &#32; to &#32; r/nottheonion [link] &#32; [comments]",
+    "category": "business",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/nottheonion/comments/1xw4s9z/robot_soldier_startup_cant_pay_staff_after",
+    "published_at": "2026-11-14T15:14:40+00:00",
+    "image_url": "https://external-preview.redd.it/EOhDJ8Yhf3gFNsvTErOcPhiVJbdhV3SfaVH41IEm1JQ.jpeg",
+    "collection_timestamp": "2026-11-14T20:24:33.461516+00:00",
+    "thin": false,
+    "author": "/u/UltimateLionsFanhttps://www.reddit.com/user/UltimateLionsFan",
+    "tags": [
+      "nottheonion"
+    ]
   },
   {
     "id": "bc002320aa3a4d866111cae90ddd561680a69ffcc7ae1fbb27a5e49915a45065",
@@ -2505,126 +2569,6 @@
     "published_at": "2026-11-09T17:09:44+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-09T23:16:48.194829+00:00",
-    "thin": false
-  },
-  {
-    "id": "9887fdb3b5dc47a471a2b840b7d66ef1443a448fccaeb6c8f52b96970d332eee",
-    "title": "Eli Lilly’s Foundayo obesity pill eases sleep apnea in late-stage trial, paving way for approval",
-    "summary": "Lilly plans to file by the end of the year for U.S. approval of the daily pill for moderate-to-severe obstructive sleep apnea in adults with obesity.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/09/eli-lilly-foundayo-sleep-apnea-trial.html",
-    "published_at": "2026-11-09T14:30:01+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T23:16:48.195581+00:00",
-    "thin": false
-  },
-  {
-    "id": "a39aed1ff8cfc641c9ada0889ebeaea47b4cfa0faa4f3ff2b6e727b835c5fd50",
-    "title": "Home listings pile up in October, but sellers won't slash prices",
-    "summary": "After a rough month in September, the housing market remained in a deep freeze in October as listings piled up. Sellers are still reluctant to cut prices.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/09/home-listings-pile-up-in-october-but-sellers-wont-slash-prices.html",
-    "published_at": "2026-11-09T13:54:29+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T23:16:48.195264+00:00",
-    "thin": false
-  },
-  {
-    "id": "72150cdea9421f47e6df2a18aa4fbaa91e4936a4e0ec477fa64c5121ec24c754",
-    "title": "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
-    "summary": "Nvidia said its board has launched an independent investigation following the reports that Huang was the target of a \"foreign intelligence effort.\"",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
-    "published_at": "2026-11-09T13:32:42+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T13:37:24.694006+00:00",
-    "thin": false
-  },
-  {
-    "id": "f0fe4787cdee804e7cde97db1fb91d065dc1701c68ffd4396822a75ce8f538b7",
-    "title": "Could supplements be the next big opportunity in the GLP-1 weight-loss drug boom?",
-    "summary": "Novonesis is exploring whether gut health supplements could benefit patients taking GLP-1 weight-loss drugs, opening up a potentially lucrative new market.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/09/novonesis-glp1-weight-loss-drugs-supplements-probiotics.html",
-    "published_at": "2026-11-09T13:27:57+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T13:37:24.694941+00:00",
-    "thin": false
-  },
-  {
-    "id": "ea4a0cd281634755ecec577ef2ffd7f2ef5873545d56b9bbdb6e37441e6e2a65",
-    "title": "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
-    "summary": "Nvidia CEO Jensen Huang's extramarital affair with an alleged Chinese spy comes as the company is already about to face heightened scrutiny.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
-    "published_at": "2026-11-09T13:13:52+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T13:37:24.694468+00:00",
-    "thin": false
-  },
-  {
-    "id": "eb51ffbe72221c62686fb8fade97233146c017182e2be4d9facceea947087ac8",
-    "title": "These states are offering extra ACA premium subsidies in 2027",
-    "summary": "Roughly a dozen states are offering some premium assistance for Obamacare enrollees, following the lapse of enhanced federal subsidies at the end of 2025.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/09/aca-state-subsidies-2027.html",
-    "published_at": "2026-11-09T13:00:01+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T13:37:24.695090+00:00",
-    "thin": false
-  },
-  {
-    "id": "d42f63bd1b700ff7ea569e5e39fef308a026fe0c4423508692f8126b4bb2c28a",
-    "title": "Restaurant chains refocus on food quality to bring back diners",
-    "summary": "Wendy's, Burger King, Chipotle and other chains are upgrading menu staples as restaurants look beyond discounts to win back diners.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/09/restaurant-chains-better-food-diners.html",
-    "published_at": "2026-11-09T12:00:01+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T13:37:24.694634+00:00",
-    "thin": false
-  },
-  {
-    "id": "21fbbab5ba45f576d8bdeb9ffda48b858ffeb20965277db724cc83087b7446ba",
-    "title": "CoreWeave confronts 'doom cycle' narrative as neocloud credit risk overshadows growth",
-    "summary": "Leading neoclouds CoreWeave and Nebius have both lost about half their value in the past month as they get set for earnings reports this week.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/09/coreweave-debt-credit-risk-neoclouds.html",
-    "published_at": "2026-11-09T12:00:01+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T13:37:24.694789+00:00",
-    "thin": false
-  },
-  {
-    "id": "3e72f62c84f938c631ade0cc39e7c33cd21143e982b7268d75d1888b0e41caa9",
-    "title": "Rubio sees little hope of diplomatic breakthrough to Mideast deadlock amid 'outrageous' Iranian demands",
-    "summary": "U.S. Secretary of State Marco Rubio told reporters that Iran negotiations remain unproductive.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/09/us-iran-war-trump-hormuz.html",
-    "published_at": "2026-11-09T11:09:14+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T13:37:24.694154+00:00",
-    "thin": false
-  },
-  {
-    "id": "aa0d1d9b1ce02b70c59aad3b7274c706f718976c66bad299e2fae00ea782025f",
-    "title": "Congress returns with government funding, Pete Hegseth and the debt limit on the agenda",
-    "summary": "Republicans have less than two months left with majorities in both the Senate and the House — and a long list of legislation to take up in the coming weeks.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/09/congress-government-funding-debt-limit-elections.html",
-    "published_at": "2026-11-09T11:00:01+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T13:37:24.694316+00:00",
     "thin": false
   }
 ]

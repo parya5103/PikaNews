@@ -1,5 +1,45 @@
 [
   {
+    "id": "4f25c08e84bcb1d40faa3f8c0dd8ba943a7dcc9e2ce5b6d27b82f939885d7d7b",
+    "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+    "summary": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first teased back in 2019 with Joe and Anthony Russo at [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+    "published_at": "2026-11-14T14:47:40-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T20:24:33.430476+00:00",
+    "thin": false,
+    "author": "Terrence O’Brien",
+    "tags": [
+      "Entertainment",
+      "Gaming",
+      "Netflix",
+      "News",
+      "Streaming",
+      "TV Shows"
+    ]
+  },
+  {
+    "id": "7f6c32d174f231a7b3b46a41d22091d547c73bbd6a7821113f014fc327a87172",
+    "title": "Work to replace old copper wire led to the FAA’s ground stop",
+    "summary": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote FAA facility.\" The secretary said that this was \"routine maintenance,\" rather than the result of a major modernization effort. He [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+    "published_at": "2026-11-14T12:44:28-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T20:24:33.430721+00:00",
+    "thin": false,
+    "author": "Terrence O’Brien",
+    "tags": [
+      "News",
+      "Policy",
+      "Politics",
+      "Transportation"
+    ]
+  },
+  {
     "id": "5cc30ba88b259bc43ecf214168cce957980d8e5fe85b324ad9c72e5b06af20b1",
     "title": "Here are our favorite deals from REI’s giant Holiday Sale",
     "summary": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come across, but if you’re looking to save on outdoor gear or pick up something for an upcoming trip, [&#8230;]",
@@ -2429,104 +2469,6 @@
       "Environment",
       "Policy",
       "Science"
-    ]
-  },
-  {
-    "id": "debb9f60dc3b178f9d30c94d424248488a05e78fb38ee3359f00f7f642d23376",
-    "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
-    "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-    "published_at": "2026-11-09T14:09:58-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T23:16:48.178539+00:00",
-    "thin": false,
-    "author": "Andrew Liszewski",
-    "tags": [
-      "AI",
-      "Apple",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "d31fd568f71b9564abe9b5e0fdd54294c08e0a7fffceba9ed6e6a589dd5490e4",
-    "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-    "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-    "published_at": "2026-11-09T14:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T23:16:48.178777+00:00",
-    "thin": false,
-    "author": "Jay Peters",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "News"
-    ]
-  },
-  {
-    "id": "5da68563251c0910441b937a15f560aa1c19dc45fab5ce9550aa0b20fbfd8a1b",
-    "title": "Instagram’s Effect Builder makes new filters from AI prompts",
-    "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-    "published_at": "2026-11-09T13:07:23-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T23:16:48.179207+00:00",
-    "thin": false,
-    "author": "Stevie Bonifield",
-    "tags": [
-      "AI",
-      "Creators",
-      "Instagram",
-      "Meta",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "a63385117294c5cc70d2caf67d6ad2029cc22b9b818d63a88904af91e5205ced",
-    "title": "The future of AI hinges on… Jensen Huang’s sex life?",
-    "summary": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgment about how to behave around women? Alice Huang - [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
-    "published_at": "2026-11-09T12:36:08-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T23:16:48.179619+00:00",
-    "thin": false,
-    "author": "Elizabeth Lopatto",
-    "tags": [
-      "AI",
-      "Nvidia",
-      "Policy",
-      "Politics",
-      "Tech"
-    ]
-  },
-  {
-    "id": "16b70ff84cb339e28046a57437756255dbb8e134dc0d24505a695bb004b3a429",
-    "title": "Uber wants to park your car now, too",
-    "summary": "Uber announced the launch of Uber Parking, a native in-app reservation feature that allows drivers to find, book, and pay for garage and lot spaces ahead of time. The new feature is a result of Uber's recent acquisition of SpotHero, integrating a network of over 13,000 facilities across more than 400 cities into the company's [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis",
-    "published_at": "2026-11-09T12:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T23:16:48.179833+00:00",
-    "thin": false,
-    "author": "Andrew J. Hawkins",
-    "tags": [
-      "Autonomous Cars",
-      "News",
-      "Ride-sharing",
-      "Transportation",
-      "Uber"
     ]
   }
 ]

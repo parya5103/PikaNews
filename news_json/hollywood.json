@@ -1,5 +1,600 @@
 [
   {
+    "id": "3e4aba4b7ebeaf334be72f3e22903b505be61d1a862106e355af13db8effa6c5",
+    "title": "Hoobastank, Simple Plan and More Bands Performed Mid-Flight During Nationwide Air Travel Ground Stop",
+    "summary": "Southwest Airlines brought back its “Live at 35” program during Friday&#8217;s nationwide grounding of air travel with performances from artists on their way to Vans Warped Tour. Hoobastank, The Used, Simple Plan and Lolo performed aboard a Southwest flight from Los Angeles to Orlando, Fla., on Nov. 13 as part of the music program, which [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/music/news/hoobastank-simple-plan-mid-flight-southwest-ground-stop-1236947751",
+    "published_at": "2026-11-14T20:06:51+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/download-e1794686307350.jpeg",
+    "collection_timestamp": "2026-11-14T20:24:33.419319+00:00",
+    "thin": false,
+    "author": "Mya Copeland",
+    "tags": [
+      "News",
+      "Hoobastank",
+      "Simple Plan",
+      "Vans Warped Tour"
+    ]
+  },
+  {
+    "id": "e5b7dc50c16e11010e3adaee2fd253748aceb0f73f8554853aff934462e78bf5",
+    "title": "‘Fatherland’ Wins Top Camerimage Prize as ‘Wild Horse Nine’ Nabs Audience Award",
+    "summary": "'Woman Unknown' and 'Minotaur' also picked up trophies at the film festival honoring cinematography.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/camerimage-awards-fatherland-wild-horse-nine-cinematography-1236755483",
+    "published_at": "2026-11-14T20:06:12+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T20:24:33.424718+00:00",
+    "thin": false,
+    "author": "Ryan Gajewski",
+    "tags": [
+      "Movie News",
+      "Movies",
+      "Awards",
+      "Camerimage",
+      "Fatherland",
+      "international",
+      "Minotaur",
+      "POland",
+      "Sandra Hüller",
+      "Wild Horse Nine",
+      "Woman Unknown"
+    ]
+  },
+  {
+    "id": "26a9c0a71f5b2083630acfae54969be85e55b9de9a091a37d8d63dc2ffb9ff21",
+    "title": "Philomena Cunk Comes for Hollywood",
+    "summary": "Diane Morgan, who plays the daft documentary presenter, and creator Charlie Brooker discuss making 'Cunk on Cinema' — and letting interview subjects in on the joke.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/tv/tv-features/cunk-on-cinema-diane-morgan-charlie-brooker-interview-1236755262",
+    "published_at": "2026-11-14T20:00:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T20:24:33.424899+00:00",
+    "thin": false,
+    "author": "Rick Porter",
+    "tags": [
+      "TV",
+      "TV Features",
+      "Charlie Brooker",
+      "Cunk on Cinema",
+      "Diane Morgan",
+      "Netflix"
+    ]
+  },
+  {
+    "id": "0f666f722dba038eaa0b6993f71cac9caaa53996054b98b2a9b3518ab0447fc3",
+    "title": "Where to Watch Texas vs. LSU Football Game Online",
+    "summary": "On Nov. 14, the Longhorns head to Baton Rouge for a Top-25 SEC showdown against the Tigers.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/watch-texas-longhorns-vs-lsu-tigers-football-game-free-2026-1236754917",
+    "published_at": "2026-11-14T20:00:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T20:24:33.425079+00:00",
+    "thin": false,
+    "author": "Erin Lassner",
+    "tags": [
+      "TV",
+      "TV News",
+      "college football",
+      "football",
+      "how to watch",
+      "Sports"
+    ]
+  },
+  {
+    "id": "6ae8944dac6f41e5ebf9f33f444be19d304491be71eba2b3ba4003aa552f37f5",
+    "title": "‘Project Hail Mary’ Editor Joel Negron Had 700 Hours Of Film To Work With To Help Directors Phil Lord & Christopher Miller “Leave Behind Something Useful” – Contenders L.A.",
+    "summary": "Just as Ryan Gosling’s Ryland Grace and Rocky (voiced by James Ortiz) spent quite a chunk of time relative to the human lifespan in space saving the world from a dying sun, Project Hail Mary’s editor Joel Negron spent time with nearly a month’s worth of footage to deliver the final cut at 2½ hours. [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/project-hail-mary-editor-interview-1237223887",
+    "published_at": "2026-11-14T19:50:07+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Project-Hail-Mary-Contenders.jpg",
+    "collection_timestamp": "2026-11-14T20:24:33.421938+00:00",
+    "thin": false,
+    "author": "Dessi Gomez",
+    "tags": [
+      "News",
+      "Amazon MGM Studios",
+      "Chris Miller",
+      "Contenders Los Angeles",
+      "novid",
+      "Phil Lord",
+      "Project Hail Mary"
+    ]
+  },
+  {
+    "id": "d98dc29c835580f13ffae57ac7750fbc5c3c3bc2f5a7efdac23b248bf5fa81bd",
+    "title": "‘Your Mother Your Mother Your Mother’ Star Mahershala Ali Says It Can Be “Dangerous That People End Up Believing Their Own Righteousness” — Contenders L.A.",
+    "summary": "Bassam Tariq’s Your Mother Your Mother Your Mother is a complex action movie that interweaves religion at its center. The film stars Mahershala Ali as Latif, a staunch Muslim and father of three, including an infant. Latif is employed as a contract killer, who after the death of his wife struggles to reconcile his faith [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/your-mother-your-mother-your-mother-mahershala-ali-interview-1237223884",
+    "published_at": "2026-11-14T19:39:59+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Your-Mother-Contenders.jpg",
+    "collection_timestamp": "2026-11-14T20:24:33.422233+00:00",
+    "thin": false,
+    "author": "Destiny Jackson",
+    "tags": [
+      "News",
+      "Amazon MGM Studios",
+      "Bassam Tariq",
+      "Contenders Los Angeles",
+      "John Cho",
+      "Mahershala Ali",
+      "Son Lux",
+      "Your Mother Your Mother Your Mother"
+    ]
+  },
+  {
+    "id": "7b96a38fd08f3ce25cbdf15b8845b4db0ae0bb6e7e748b503f33890371bbf3f9",
+    "title": "Hulu & ‘Secret Lives Of Mormon Wives’ Producers Accused Crafting “False Narrative” & “Staged Confrontations”",
+    "summary": "While it might not be a shock to some to know reality TV is not quite as real as presented, longtime The Secret Lives Of Mormon Wives cast member Dakota Mortensen claims the world needs to know he is not the &#8220;domestic abuser,&#8221; &#8220;serial adulterer&#8221; and overall heel the Hulu series made him out to [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/mormon-wives-hulu-lawsuit-defamation-1237223830",
+    "published_at": "2026-11-14T19:36:56+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/dakota-mortensen.jpg",
+    "collection_timestamp": "2026-11-14T20:24:33.422481+00:00",
+    "thin": false,
+    "author": "Dominic Patten",
+    "tags": [
+      "Legal",
+      "News",
+      "Dakota Mortensen",
+      "Hulu",
+      "Reality TV",
+      "Taylor Frankie Paul",
+      "The Secret Lives Of Mormon Wives",
+      "Utah"
+    ]
+  },
+  {
+    "id": "362115af2714c6b3a9525b914d1673b62082445740c5c3a2ba381416ebd21147",
+    "title": "Meet Plave, the Very Real Virtual K-pop Boy Group",
+    "summary": "As AI continues to push its way into the creative space, K-pop boy group Plave, powered by real performers and real artists, offers compelling and authentic counter-programming.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/music/music-features/k-pop-group-plave-virtual-idol-interview-1236755476",
+    "published_at": "2026-11-14T19:24:21+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T20:24:33.425258+00:00",
+    "thin": false,
+    "author": "Nicole Fell",
+    "tags": [
+      "Music",
+      "Music Features",
+      "K-Pop News",
+      "music"
+    ]
+  },
+  {
+    "id": "69e8bceebf5b9c856ca91fb77064a01d2bc939d172ad8c220bd107b39263c33a",
+    "title": "James Gunn Says “No One From Skydance Has Seen” ‘Man of Tomorrow,’ Addresses “Untrue Rumors” Over ‘Superman’ Sequel",
+    "summary": "The filmmaker, who is stepping down as DC Studios co-CEO alongside Peter Safran on Dec. 1, took to Threads to respond to speculation about the movie.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/james-gunn-skydance-man-of-tomorrow-superman-sequel-dc-exit-1236755480",
+    "published_at": "2026-11-14T19:11:54+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T20:24:33.425459+00:00",
+    "thin": false,
+    "author": "Lexi Carson",
+    "tags": [
+      "Movie News",
+      "Movies",
+      "DC",
+      "James Gunn",
+      "Man of Tomorrow",
+      "Skydance",
+      "superman"
+    ]
+  },
+  {
+    "id": "8c91865702c9e8ac5775027d11147116d0c59d6f7a041dc449247a7323afb24e",
+    "title": "Dawn Greenhalgh, Canadian Stage Veteran Who Voiced the Queen in ‘Babar,’ Dies at 93",
+    "summary": "Dawn Greenhalgh, a veteran Canadian actress of stage, film and television, died Nov. 6 in Toronto. She was 93. Born in Shanghai, China, she spent her childhood with her family in a Japanese prisoner of war camp, where she discovered a love for music, theater and dance. Greenhalgh moved to Canada with only a guardian [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/legit/news/dawn-greenhalgh-dead-queen-celeste-babar-1236947732",
+    "published_at": "2026-11-14T19:08:40+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/IMG_0508.jpg",
+    "collection_timestamp": "2026-11-14T20:24:33.419586+00:00",
+    "thin": false,
+    "author": "Pat Saperstein",
+    "tags": [
+      "News",
+      "Obituaries",
+      "People News",
+      "Babar",
+      "Sofia Coppola"
+    ]
+  },
+  {
+    "id": "7a93c70555dbf6d38bed565be01be274766a5fe00fa40f72483967a3553938aa",
+    "title": "Journey Announces Drummer Deen Castronovo Is Exiting Band, Days After Another Health Scare Forced His Second Mid-Show Departure",
+    "summary": "Journey drummer Deen Castronovo is out of the band, the group announced Friday, due to health issues that caused him to have to drop out of two shows mid-concert in the space of just over a month, the latest of which was Tuesday night in Boston. After he was replaced by his drum tech as [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/music/news/journey-drummer-deen-castronovo-exits-band-health-scare-1236947754",
+    "published_at": "2026-11-14T19:07:38+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/10/GettyImages-1247424881.jpg",
+    "collection_timestamp": "2026-11-14T20:24:33.419819+00:00",
+    "thin": false,
+    "author": "Chris Willman",
+    "tags": [
+      "News",
+      "Deen Castronovo",
+      "Journey",
+      "Neal Schon"
+    ]
+  },
+  {
+    "id": "b93df17cf9604c8e791e41d0167d5828c883d3f2891c97cee3f3f407dfe6d2f3",
+    "title": "John Turturro, Tatiana Maslany Created Raw Estrangement In ‘The Only Living Pickpocket In New York’ – Contenders L.A.",
+    "summary": "John Turturro and Tatiana Maslany have one scene together in The Only Living Pickpocket in New York. When Harry (Turturro) shows up on her doorstep, it has been years since they’ve seen each other. Both actors prepared for the scene, but Turturro had an idea to keep it raw. At Deadline’s Contenders Film Los Angeles, [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/only-living-pickpocket-in-new-york-john-turturro-tatiana-maslany-1237223855",
+    "published_at": "2026-11-14T19:02:47+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/The-Only-Living-Pickpockt-In-New-York-Contenders.jpg",
+    "collection_timestamp": "2026-11-14T20:24:33.422760+00:00",
+    "thin": false,
+    "author": "Denise Petski",
+    "tags": [
+      "News",
+      "Contenders Los Angeles",
+      "John Turturro",
+      "Sony Pictures Classic",
+      "Tatiana Maslany",
+      "The Only Living Pickpocket in New York"
+    ]
+  },
+  {
+    "id": "8599a5d092df6a30febe9ccac0bd781c46bd2d7ac5f553d2df093f80f7b2be26",
+    "title": "‘The Good Daughter’ Stars Rose Byrne and Meghann Fahy on Playing Sisters With Secrets and That Twisty Killer Ending",
+    "summary": "SPOILER ALERT: This interview contains major spoilers from “The Good Daughter,” now streaming on Peacock. For Sam and Charlie Quinn, the estranged sisters played by Rose Byrne and Meghann Fahy in “The Good Daughter,” the truth was always going to set them free. Adapted by author Karin Slaughter from her own bestselling novel of the [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/tv/news/the-good-daughter-spoilers-rose-byrne-meghann-fahy-season-finale-1236945641",
+    "published_at": "2026-11-14T19:00:00+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/TheGoodDaughter-MeghannFahy-RoseByrne.3.jpg",
+    "collection_timestamp": "2026-11-14T20:24:33.420103+00:00",
+    "thin": false,
+    "author": "Kate Aurthur",
+    "tags": [
+      "News",
+      "Meghann Fahy",
+      "Rose Byrne",
+      "The Good Daughter"
+    ]
+  },
+  {
+    "id": "8d47bf80894678ef9bd9f1517951fc9dd173b57bc42e6283c411a82a42f5fd62",
+    "title": "Penélope Cruz Guarded Against Marital Blowback Playing Opposite Javier Bardem In ‘Bunker’: “You Are Touching Things That Are Delicate” – Contenders L.A.",
+    "summary": "Penélope Cruz revealed that she had concerns that the fragile relationship between the husband-and-wife leads of filmmaker Florian Zeller’s Bunker might bleed over into her rock-solid union with husband Javier Bardem. “We&#8217;ve worked together every five or six years – we don&#8217;t plan it like that, but I think in a way we both want [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/penelope-cruz-bunker-interview-1237223831",
+    "published_at": "2026-11-14T18:48:29+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Penelope-Cruz-Contenders.jpg",
+    "collection_timestamp": "2026-11-14T20:24:33.423054+00:00",
+    "thin": false,
+    "author": "Erik Pedersen",
+    "tags": [
+      "News",
+      "Awardsline",
+      "Bunker",
+      "Contenders Los Angeles",
+      "Florian Zeller",
+      "novid",
+      "Penelope Cruz",
+      "Sony Pictures Classics"
+    ]
+  },
+  {
+    "id": "2ca898d5bbe55c62a43c630c9b9e5eb36a3cc4aeaf3b93a6de0e9b35a9a413a7",
+    "title": "Skip Hinnant Dies: ‘Electric Company’, ‘You’re A Good Man, Charlie Brown’ Actor, Voice Of Fritz The Cat Was 86",
+    "summary": "Skip Hinnant, an original cast member of PBS&#8217; The Electric Company in the 1970s and the prolific voice actor behind Fritz the Cat, My Little Pony and 1977&#8217;s stop-motion Easter Bunny, died Sunday, November 8, in Denver. He was 86. His death was announced by his family, who noted he passed peacefully surrounded by loved [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/skip-hinnant-dead-1237223791",
+    "published_at": "2026-11-14T18:35:15+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/DBDYOAG-EC001-THE-NINE-LIVES-OF-FRITZ-THE-CAT-1974-1000.jpg",
+    "collection_timestamp": "2026-11-14T20:24:33.423303+00:00",
+    "thin": false,
+    "author": "Greg Evans",
+    "tags": [
+      "News",
+      "Obituaries",
+      "Fritz the Cat",
+      "Obituary",
+      "Skip Hinnant",
+      "The Electric Company"
+    ]
+  },
+  {
+    "id": "c9895f7e71bd8ef5e026c9209d227e227bd422dfa8a4c877e4261b6db69162d1",
+    "title": "Skip Hinnant, ‘The Electric Company’ Actor and Voice of Ralph Bakshi’s ‘Fritz the Cat’ Movies, Dies at 86",
+    "summary": "Actor Skip Hinnant, best known for his work on the PBS children&#8217;s series “The Electric Company&#8217; and as the voice of Fritz the Cat in Ralph Bakshi&#8217;s racy animated films from the 1970s, has died. He was 86. Hinnant&#8217;s death was confirmed by his family in an obituary notice published by the New York Times. [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/tv/news/skip-hinnant-dead-electric-company-fritz-the-cat-bakshi-1236947741",
+    "published_at": "2026-11-14T18:13:00+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/TBDELCO_EC015.jpg",
+    "collection_timestamp": "2026-11-14T20:24:33.420359+00:00",
+    "thin": false,
+    "author": "Cynthia Littleton",
+    "tags": [
+      "News",
+      "Skip Hinnant",
+      "The Electric Company"
+    ]
+  },
+  {
+    "id": "9befc85daaf4a7a461e117c45f058afed2222f159aaebb1a2f055daa975aa3c0",
+    "title": "UFC 334 Livestream: How to Watch Gane vs. Hokit Online",
+    "summary": "After Alexander Volkanovski defeated Movsar Evloev in a TKO in the second round to retain the featherweight title during UFC 333 in late October, the Ultimate Fighting Championship travels from Abu Dhabi to New York City for UFC 334 on Saturday, Nov. 14. For the main event, French fighter Ciryl Gane (14-2-0) defends his UFC [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/shopping/news/how-to-watch-ufc-334-gane-vs-hokit-live-online-free-1236945089",
+    "published_at": "2026-11-14T18:00:00+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/UFC-Ciryl-Gane-vs.-Josh-Hokit-Getty-VR-Featured.jpg",
+    "collection_timestamp": "2026-11-14T20:24:33.420582+00:00",
+    "thin": false,
+    "author": "Rudie Obias",
+    "tags": [
+      "News",
+      "How to Watch",
+      "MMA",
+      "NOADS",
+      "Paramount Plus",
+      "Sports",
+      "UFC"
+    ]
+  },
+  {
+    "id": "641d762b9a3e810387ffe7b8c84f7ffb11ba74b93d12c1c59fe05a3e9138b339",
+    "title": "Shane Gillis Addresses ‘SNL’ Monologue Backlash, Says He Promised the Show There Would Be “No Controversy”",
+    "summary": "“Not to defend 'SNL,' they don’t approve it. I mean, they could shut it down. They could, but you don’t write your set and give it to them. Unless you’re not a comedian,\" he said on a podcast.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/shane-gillis-addresses-snl-monologue-backlash-1236755428",
+    "published_at": "2026-11-14T17:28:12+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T20:24:33.425682+00:00",
+    "thin": false,
+    "author": "Lexi Carson",
+    "tags": [
+      "TV",
+      "TV News",
+      "saturday night live",
+      "Shane Gillis",
+      "SNL"
+    ]
+  },
+  {
+    "id": "f0642ded82288e9c9aa3c882e88ede30a34836020fecdbbe2c3b73c4ff195f48",
+    "title": "Boston College vs. Notre Dame Livestream: Where to Watch the College Football Game Online for Free",
+    "summary": "Today's game marks the debut of Jason Benetti in the broadcast booth following the sudden passing of longtime sportscaster Dan Hicks.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/boston-college-notre-dame-football-game-free-stream-online-1236754220",
+    "published_at": "2026-11-14T17:26:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T20:24:33.425863+00:00",
+    "thin": false,
+    "author": "Tim Chan",
+    "tags": [
+      "TV",
+      "TV News",
+      "college football",
+      "ncaa",
+      "Sports"
+    ]
+  },
+  {
+    "id": "d2c34bb3e86c8661bc9be3d4264c02393a7ea529c466f820b079753affab90ac",
+    "title": "‘Scream’ Actor C.W. Morgan’s Cause Of Death Revealed",
+    "summary": "A cause of death for Scream actor C.W. Morgan has been determined by the Los Angeles County Department of Medical Examiner: atherosclerotic cardiovascular disease. Morgan, who died at 72 on August 30, played Hank Loomis, father of the one of the franchise&#8217;s Ghostface killers (played by Skeet Ulrich) and ex-husband of another (Scream 2&#8216;s Laurie [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/c-w-morgan-cause-of-death-1237223783",
+    "published_at": "2026-11-14T17:16:30+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/10/C.W.-Morgan.jpg",
+    "collection_timestamp": "2026-11-14T20:24:33.423539+00:00",
+    "thin": false,
+    "author": "Greg Evans",
+    "tags": [
+      "News",
+      "Obituaries",
+      "C.W. Morgan",
+      "Cause of Death",
+      "Obituary",
+      "Scream"
+    ]
+  },
+  {
+    "id": "57cd2e7e493570a3615e437798b9abdb8302a89822849f0123a8adfffc2de29b",
+    "title": "L.A.’s Most Celebrated French Chef Is Staging a Comeback",
+    "summary": "Onetime culinary wunderkind (and heartthrob) Ludo Lefebvre is keeping the city’s Gallic tradition alive with a handful of new concepts.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/los-angeles-french-chef-ludo-lefebvre-comeback-1236753231",
+    "published_at": "2026-11-14T17:00:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T20:24:33.426066+00:00",
+    "thin": false,
+    "author": "Kimberly Nordyke",
+    "tags": [
+      "Lifestyle",
+      "Lifestyle News",
+      "Dining",
+      "international"
+    ]
+  },
+  {
+    "id": "572ae4710c5566f028230a62662572bd2985514e4ca2a49b4e8efa12e7989a96",
+    "title": "Florence Pugh Was “So Nervous” to Release ‘East of Eden’ and Still Hasn’t Read the Reviews: “It Was Too Much With This One”",
+    "summary": "The actress both stars in and executive produced Netflix's hit adaptation of the 1952 John Steinbeck novel.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/florence-pugh-nervous-release-east-of-eden-reviews-1236755447",
+    "published_at": "2026-11-14T16:59:06+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T20:24:33.426259+00:00",
+    "thin": false,
+    "author": "Kirsten Chuba",
+    "tags": [
+      "TV",
+      "TV News",
+      "East of Eden",
+      "Events",
+      "Florence Pugh"
+    ]
+  },
+  {
+    "id": "e18d32e1ffd6ad365bc8f58fd7d93f90bc10f4d2b071984b30e9fb778de72a64",
+    "title": "Skip Hinnant, Actor on ‘The Electric Company’ and Voice of Fritz the Cat, Dies at 86",
+    "summary": "He also played Cathy’s boyfriend on ‘The Patty Duke Show’ and Schroeder on the stage in ‘You’re a Good Man, Charlie Brown.’",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/skip-hinnant-dead-electric-company-fritz-the-cat-1236755456",
+    "published_at": "2026-11-14T16:51:01+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T20:24:33.426450+00:00",
+    "thin": false,
+    "author": "Mike Barnes",
+    "tags": [
+      "TV",
+      "TV News",
+      "Fred Astaire",
+      "Mike Nichols",
+      "Obituaries"
+    ]
+  },
+  {
+    "id": "a59aecd90f34e2d040bdf1c7a57fbd46bbb57ac8f282b587b636114c591622e1",
+    "title": "Steen Ostergaard & Olivier Mourgue Die: Futuristic Furniture Designers For ‘Star Trek’ & ‘2001: A Space Odyssey’ Pass Away Within Weeks",
+    "summary": "Two designers of futuristic furniture, whose daring works were separately featured in the films 2001: A Space Odyssey and Star Trek II: The Wrath of Khan, died within weeks of each other last month. The deaths of Danish designer Steen Ostergaard, who died October 13 at age 90, and French designer Olivier Mourgue, who died [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/steen-ostergaard-olivier-mourgue-dead-1237223746",
+    "published_at": "2026-11-14T16:44:37+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/0edbbd83d194f2b72b3324b25f4f8640.jpg",
+    "collection_timestamp": "2026-11-14T20:24:33.424050+00:00",
+    "thin": false,
+    "author": "Greg Evans",
+    "tags": [
+      "News",
+      "Obituaries",
+      "2001: A Space Odyssey",
+      "novid",
+      "Olivier Mourgue",
+      "Star Trek II: The Wrath of Khan",
+      "Steen Ostergaard"
+    ]
+  },
+  {
+    "id": "c95dc12c2817acfaee4d6952abcf6e1d339fa91499dcafecbaaab608f982eeca",
+    "title": "‘Club Kid’ Cinematographer Adam Newport-Berra on Capturing Intimate and Authentic New York Moments",
+    "summary": "Cinematographer Adam Newport-Berra enjoys working with directors who also act in their films. This year alone, his work includes “The Invite” with director and actor Olivia Wilde, as well as teaming up with Jordan Firstman on A24’s “Club Kid,” in which Firstman directs and stars. Newport-Berra (Variety&#8217;s 10 Artisans to Watch 2026) says, “I tend [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/artisans/news/club-kid-cinematography-new-york-adam-newport-berra-1236938607",
+    "published_at": "2026-11-14T16:15:00+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/MCDCLKI_EC011-1-1.jpg",
+    "collection_timestamp": "2026-11-14T20:24:33.420847+00:00",
+    "thin": false,
+    "author": "Jazztangcay",
+    "tags": [
+      "News",
+      "Adam Newport-Berra",
+      "Club Kid",
+      "jordan firstman"
+    ]
+  },
+  {
+    "id": "9207f0ec5bba23670b2c94191fb712757218fefba7a89114e984d2f475924947",
+    "title": "Box Office: Johnny Depp’s ‘Ebenezer’ Leads With $6.7 Million on Opening Day, ‘How to Rob a Bank’ Struggling With $2.2 Million on Friday",
+    "summary": "“Ebenezer,” an adaptation of “A Christmas Carol” starring Johnny Depp as Scrooge, led the box office on Friday with $6.7 million on opening day. The PG-13 take on the Charles Dickens classic is projected to earn $18 million to $20 million from 3,535 North American theaters in its opening weekend. “Ebenezer” should bring in another [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/box-office/ebenezer-box-office-johnny-depp-opening-day-1236947684",
+    "published_at": "2026-11-14T16:05:34+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/MCDEBAC_PA014.jpg",
+    "collection_timestamp": "2026-11-14T20:24:33.421135+00:00",
+    "thin": false,
+    "author": "Rebecca Rubin",
+    "tags": [
+      "Box Office",
+      "Ebenezer",
+      "How to Rob a Bank",
+      "Johnny Depp"
+    ]
+  },
+  {
+    "id": "82d805ea6eb6b872ede89a9179264cac8e5e075fdc8af8a8c5087b3d5d3c1e13",
+    "title": "Adam Driver Says Disney Killing ‘The Hunt for Ben Solo’ Felt ‘Criminal’: ‘Steven Soderbergh Wants to Make a “Star Wars” Movie. What Are We Debating?’",
+    "summary": "Adam Driver continues to express his dissatisfaction with Disney over the decision to kill his “Star Wars” sequel movie “The Hunt for Ben Solo,” which he spent two-and-a-half years developing with director Steven Soderbergh. In a new interview with The Associated Press on his “Paper Tiger” press tour, the Oscar nominee said he was surprised [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/news/adam-driver-disney-hunt-for-ben-solo-criminal-1236947685",
+    "published_at": "2026-11-14T16:02:04+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/MCDSTWA_WD027.jpg",
+    "collection_timestamp": "2026-11-14T20:24:33.421409+00:00",
+    "thin": false,
+    "author": "Zack Sharf",
+    "tags": [
+      "News",
+      "Adam Driver",
+      "Star Wars",
+      "The Hunt for ben Solo"
+    ]
+  },
+  {
+    "id": "fa816be0a7bea8fdc3f45871cf4c417a783b32b831c8a09aabcea95c9e7482f4",
+    "title": "Johnny Depp Pic ‘Ebenezer’ Hoping For $20M+ U.S. – Saturday AM Box Office Update",
+    "summary": "SATURDAY AM: Paramount is still looking at a $20M opening for the Johnny Depp comeback movie, Ebenezer, but rivals see it lower. The hope is that families show up today as we hear the Ti West genre fans didn&#8217;t come out in droves last night; Friday and previews at $6.7M. One indication that it&#8217;s appealing [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/box-office-ebenezer-1237222749",
+    "published_at": "2026-11-14T16:02:00+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/MCDEBAC_PA010.jpg",
+    "collection_timestamp": "2026-11-14T20:24:33.424279+00:00",
+    "thin": false,
+    "author": "Anthonypauldalessandro",
+    "tags": [
+      "News",
+      "Ebenezer",
+      "How To Rob A Bank"
+    ]
+  },
+  {
+    "id": "52476538bfcc767e7245ef949bc1c93c5e28ec2609b347f2b56df6a530c506ac",
+    "title": "Shane Gillis Was Surprised by ‘SNL’ Monologue Backlash and Says He Doesn’t ‘Have a Problem’ With How Women Dress at the Gym",
+    "summary": "Shane Gillis is reflecting on his “Saturday Night Live” monologue about women’s gym attire that drew controversy. On the Oct. 10 episode this season, the comedian’s opening monologue included jokes about how women “dress like whores now” at the gym, which inspired a wave of criticism on social media. Gillis revealed on the Nov. 13 [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/tv/news/shane-gillis-snl-monologue-backlash-whores-joke-1236947671",
+    "published_at": "2026-11-14T15:43:35+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/P101UW5U.jpg",
+    "collection_timestamp": "2026-11-14T20:24:33.421666+00:00",
+    "thin": false,
+    "author": "William Earl",
+    "tags": [
+      "News",
+      "Saturday Night Live",
+      "Shane Gillis",
+      "SNL"
+    ]
+  },
+  {
     "id": "0e6c20c2b0d07a2d8baf74d1c07057e9c0951ab3ebb484698ce1f76ce3be94b3",
     "title": "James Gunn Says ‘No One From Skydance’ Has Seen ‘Superman’ Sequel ‘Man of Tomorrow’ as Rumors Fly After His DC Studios Exit",
     "summary": "James Gunn took to Threads to clarify a rumor about his exit from DC Studios: It had nothing to do with the upcoming &#8220;Superman&#8221; sequel &#8220;Man of Tomorrow&#8221; worrying executives at Warner Bros.&#8217; new parent company, Skydance. Rumors have circulated on social media alleging the film&#8217;s poor quality is one of the reasons Gunn got [&#8230;]",
@@ -96,6 +691,23 @@
       "News",
       "Jacqueline Lentzou",
       "Thessaloniki Film Festival"
+    ]
+  },
+  {
+    "id": "7e19010fb6a50bcc7702d49743935254fb528ba0c046c3a4e356f129d573bb9c",
+    "title": "2026-27 Premiere Dates For New & Returning Series On Broadcast, Streaming & Cable",
+    "summary": "Here is Deadline&#x2019;s annual list of premiere dates for new and returning TV series. Updated daily, the roster covers hundreds of broadcast, cable and streaming programs debuting in 2026 and early 2027, many still listed as TBA (to be announced). It includes series premieres, season debuts, shows returning from hiatus and some one-offs such as [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/feature/2026-tv-premiere-dates-1236391902",
+    "published_at": "2026-11-14T13:00:00+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/10/2026-27-TV-premiere-dates.jpg",
+    "collection_timestamp": "2026-11-14T20:24:33.424524+00:00",
+    "thin": false,
+    "author": "Erik Pedersen",
+    "tags": [
+      "News",
+      "premiere dates"
     ]
   },
   {
@@ -9389,396 +10001,6 @@
       "Julian Fellowes",
       "Taissa Farmiga",
       "The Gilded Age"
-    ]
-  },
-  {
-    "id": "0da8818af0d5820431dc0e1566f7bf7a414df0fac61a27d2ca826d6d41530ae6",
-    "title": "Danielle Fishel Gets Honest About ‘Girl Meets World’ Pay, Says She Knew She Was Disliked on Set for Setting Boundaries (EXCLUSIVE)",
-    "summary": "Danielle Fishel was a little different when she returned to TV on &#8220;Girl Meets World&#8221; 14 years after &#8220;Boy Meets World&#8221; wrapped — and not everyone was happy about it. In an exclsuive excerpt from &#8220;Book Meets World: The Definitive Inside Story of the Hit Sitcom Boy Meets World,&#8221; Fishel details her time on the [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/tv/news/danielle-fishel-girl-meets-world-pay-disliked-boundaries-1236941905",
-    "published_at": "2026-11-09T13:35:00+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/05/2274243582-e1794079700419.jpg",
-    "collection_timestamp": "2026-11-09T13:37:24.679445+00:00",
-    "thin": false,
-    "author": "Emily Longeretta",
-    "tags": [
-      "News",
-      "Boy Meets World",
-      "Danielle Fishel",
-      "Girl Meets World"
-    ]
-  },
-  {
-    "id": "568e1f7c51fcda5d16b56b0b9cbcb56c8a0a0f99fac49da5f328a69f40dddc90",
-    "title": "SiriusXM Names Former Tubi CEO Anjali Sud As New Chief Executive, Jennifer Witz Steps Down",
-    "summary": "SiriusXM today announced that former Tubi CEO Anjali Sud has been appointed chief executive effective January 1 as current CEO Jennifer Witz steps down News that Sud would depart Tubi came Friday as parent Fox Corp. closed its $22 billion acquisition of Roku, shuffling its org chart. Anajali has served as an independent director on [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/siriusxm-anjali-sud-new-ceo-former-tubi-chief-executive-1237217207",
-    "published_at": "2026-11-09T13:34:40+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2018/01/siriusxm-logo-featured.jpg",
-    "collection_timestamp": "2026-11-09T13:37:24.682193+00:00",
-    "thin": false,
-    "author": "Jillg366",
-    "tags": [
-      "Executives",
-      "News",
-      "Anjali Sud",
-      "SiriusXM",
-      "Tubi"
-    ]
-  },
-  {
-    "id": "8ebf0823c4bd8ad76ae0c42c72a9183944e848486595988a955190084cc78c31",
-    "title": "Pocket.watch Moving Into Creator-Led Features & Will Distribute ‘Reef To Ridge’ From Mark Vins",
-    "summary": "EXCLUSIVE: Pocket.watch is moving into creator-led features and has boarded wildlife filmmaker Mark Vins’ Reef to Ridge after its premiere at this year’s Toronto Film Festival. Creator-focused studio Pocket.watch, which has shows on a wide range of streaming services and digital platforms, has teamed with Vins’ label Brave Wilderness to take on distribution on Reef [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/pocket-watch-mark-vins-reef-to-ridge-wildlife-film-1237217183",
-    "published_at": "2026-11-09T13:13:43+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/mark-vins.jpg",
-    "collection_timestamp": "2026-11-09T13:37:24.682461+00:00",
-    "thin": false,
-    "author": "Stewart Clarke",
-    "tags": [
-      "News",
-      "Mark Vins",
-      "Pocket.watch",
-      "Reef to Ridge",
-      "TIFF",
-      "YouTube"
-    ]
-  },
-  {
-    "id": "3611f803995baa2f965301c5184a0c45f85a5003cdac3f9b64d5317bad33424f",
-    "title": "SiriusXM Names Tubi CEO Anjali Sud New Leader",
-    "summary": "The exec will take over as CEO of the audio giant as Jennifer Witz steps down.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/business/digital/siriusxm-names-tubi-ceo-anjali-sud-new-leader-1236750788",
-    "published_at": "2026-11-09T13:12:54+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T13:37:24.685065+00:00",
-    "thin": false,
-    "author": "Caitlin Huston",
-    "tags": [
-      "Business",
-      "Digital",
-      "siriusxm"
-    ]
-  },
-  {
-    "id": "baa99e3b7b2d737dd83444b60ceeed6319eaeb5e1460faba6dde9e0921cf46e0",
-    "title": "Anjali Sud Is SiriusXM’s New CEO",
-    "summary": "Anjali Sud, who recently led Fox&#8217;s Tubi streaming service, will take the reins at satellite broadcaster SiriusXM, a bet that her experience at the Fox service will help broaden the appeal of the Sirius offering. Sud will replace Jennifer Witz, who has worked at SiriusXM for nearly 25 years. Sud will start in her new [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/tv/news/anjali-sud-ceo-siriusxms-tubi-1236943001",
-    "published_at": "2026-11-09T13:11:48+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2017/09/anjali-sud-vimeo.jpg",
-    "collection_timestamp": "2026-11-09T13:37:24.679698+00:00",
-    "thin": false,
-    "author": "Brian Steinberg",
-    "tags": [
-      "News",
-      "Anjali Sud",
-      "Sirius Xm",
-      "Tubi"
-    ]
-  },
-  {
-    "id": "ccc77c177c7c7ad3331bc030742e8b61608e74d0ecb5c60043fbbe9e7d805fc2",
-    "title": "Russell Brand Survivor Attacks Channel 4 For Brushing Sexual Assault “Under Carpet”",
-    "summary": "A woman who was sexually assaulted by Russell Brand while working for Channel 4 has attacked the UK network for brushing her complaint under the carpet. Brand, who hosted Big Brother&#8217;s Big Mouth for Channel 4, was last week convicted of assaulting the woman in 2009 by placing his head in her groin area and [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/russell-brand-survivor-attacks-channel-4-1237217196",
-    "published_at": "2026-11-09T13:06:12+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2303452828-copy.jpg",
-    "collection_timestamp": "2026-11-09T13:37:24.682703+00:00",
-    "thin": false,
-    "author": "Jake Kanter",
-    "tags": [
-      "News",
-      "Channel 4",
-      "Russell Brand"
-    ]
-  },
-  {
-    "id": "221d220801d3c8eaf0d7e1aaedf2e9a58e6e8f28c0244ef1503f7254e2542ff6",
-    "title": "‘Henry’s Ebb’ Is a Haunting, Horror-Tinged Debut Film With a ‘Widow’s Bay’ Star, an Imaginary Friend — and Much to Unpeel",
-    "summary": "Writer-director Thomas Mendolia discusses his road movie, set in the American South and premiering at Tallinn, how he cast stars Kingston Rumi Southwick and Banks Repeta, and his love for Jeff Nichols' films.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/movies/movie-features/henrys-ebb-psych-horror-film-widows-bay-imaginary-friend-1236749624",
-    "published_at": "2026-11-09T13:01:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T13:37:24.685293+00:00",
-    "thin": false,
-    "author": "Georg Szalai",
-    "tags": [
-      "Movie Features",
-      "Movies",
-      "Armageddon Time",
-      "international",
-      "Kingston Rumi Southwick",
-      "POFF",
-      "POFF 2026",
-      "Tallinn Black Nights Film Festival",
-      "Widow's Bay"
-    ]
-  },
-  {
-    "id": "5ddcf8d44eb768519026eca8e1feaf4c125cb491e6271b4c4fc48ec7116c4507",
-    "title": "‘Longlegs’ Star Alicia Witt Toplines Colombian Horror Thriller ‘Incuba Project,’ Directed by Chile’s Juan Pablo Arias (EXCLUSIVE)",
-    "summary": "Alicia Witt, renowned for her star turn in box office hit &#8216;Longlegs” opposite Nicolas Cage, will play alongside María Camila Giraldo (“The Ritual&#8221;) in the upcoming Colombian horror thriller, &#8216;Incuba Project.&#8217; Chilean filmmaker Juan Pablo Arias will direct the English-language feature, which is slated to shoot in Colombia. “Incuba Project” is the first feature from [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/global/longlegs-alicia-witt-horror-incuba-project-juan-pablo-arias-1236935621",
-    "published_at": "2026-11-09T13:00:00+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/10/AliciaMaria-Camila-Juan-Pablo.png",
-    "collection_timestamp": "2026-11-09T13:37:24.679984+00:00",
-    "thin": false,
-    "author": "Anna Marie de la Fuente",
-    "tags": [
-      "Global",
-      "News",
-      "Alicia Witt",
-      "Djimon Hounsou",
-      "Longlegs"
-    ]
-  },
-  {
-    "id": "208105a3cf128c5fbb4c7c92c3d717eda317b524e11b3ddc840f62638cbbbe2b",
-    "title": "TV & BBC Radio Presenter Mollie King Signs With MVE",
-    "summary": "EXCLUSIVE: UK agency MVE has signed Mollie King, the BBC radio presenter, TV host and former member of girl group The Saturdays for 360 global representation. King will be managed by MVE Head of Talent Minnie Harding and Talent Director Matthew Harvey. The agency will look to grow her broadcasting and partnerships career alongside building [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/mollie-king-signs-with-mve-1237217177",
-    "published_at": "2026-11-09T13:00:00+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Mollie-1-e1794226865721.jpeg",
-    "collection_timestamp": "2026-11-09T13:37:24.682916+00:00",
-    "thin": false,
-    "author": "Jesse Whittock",
-    "tags": [
-      "Agencies",
-      "News",
-      "Mollie King",
-      "MVE"
-    ]
-  },
-  {
-    "id": "8ce6cc1312db2683a0110b8c6ad55fc37c1521871132502455517bb8286768e7",
-    "title": "Watch Disney’s Holiday Short ‘The Invisible Horse’ From ‘Paddington in Peru’ Director Dougal Wilson",
-    "summary": "Woody from 'Toy Story' and 'Frozen's' Elsa make cameos in the film, which is part of DIsney's broader campaign to \"make the holidays magic\" and follows two years of seasonal shorts from Taika Waititi.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/disney-christmas-holiday-short-film-2026-the-invisible-horse-1236749275",
-    "published_at": "2026-11-09T13:00:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T13:37:24.685514+00:00",
-    "thin": false,
-    "author": "Georg Szalai",
-    "tags": [
-      "Movie News",
-      "Movies",
-      "Disney",
-      "international",
-      "Paddington in Peru",
-      "Walt Disney"
-    ]
-  },
-  {
-    "id": "c57e0d12f1ea23bb6c02d6b7c5df995281ed46c1ad69c765a6ae9c064ed66125",
-    "title": "‘The Cry of Serankwa,’ an Indigenous Eco-Thriller and Triple Sanfic Industria Award Winner, Strikes Distribution Deal for Latin America",
-    "summary": "Films about Colombian Indigenous communities are few and far between, with perhaps Cristina Gallego and Ciro Guerra’s 2018 “Birds of Passage” among the last of the large-scale ones. For Colombian multi-hyphenate Yull Núñez, whose credits include “Birds of Passage” and Guerra’s 2009 “The Wind Journeys” where he played the lead, his sophomore feature, “The Cry [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/global/cry-of-serankwa-indigenous-eco-thriller-cineplex-sanfic-1236942851",
-    "published_at": "2026-11-09T12:42:18+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/1001020079.jpg",
-    "collection_timestamp": "2026-11-09T13:37:24.680278+00:00",
-    "thin": false,
-    "author": "Anna Marie de la Fuente",
-    "tags": [
-      "Global",
-      "Markets & Festivals",
-      "Spotlight",
-      "Birds of Passage",
-      "Cineplex",
-      "Ciro Guerra",
-      "SANFIC",
-      "Sanfic Industria"
-    ]
-  },
-  {
-    "id": "d2dcc002076055dc16231519bd86ed924f6ba4f2aa02fe819ace1212c1860713",
-    "title": "James Gunn is out as DC movie leader",
-    "summary": "Soon, James Gunn and Peter Safran will no longer head up Skydance's DC Studios. After taking the helm of DC Studios as co-CEOs in 2022, Gunn and Safran are being replaced by former Marvel SVP of Production and Development Jeremy Latcham, Deadline reports. However, Gunn and Safran will \"continue to produce on various DC projects\" [&#8230;]",
-    "category": "hollywood",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving",
-    "published_at": "2026-11-09T12:39:57-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T23:16:48.179411+00:00",
-    "thin": false,
-    "author": "Jay Peters",
-    "tags": [
-      "Comics",
-      "DC Comics",
-      "Entertainment",
-      "Film",
-      "News"
-    ]
-  },
-  {
-    "id": "82aa033ec3ec05346bc433b81f113e16344d74059cbce9b39de53e4f8d2bf888",
-    "title": "Russell Brand Survivor Says She Received Death Threats After Giving Evidence In Court",
-    "summary": "A woman who was sexually assaulted by Russell Brand said she received death threats on social media after giving evidence in the trial. Complainant 3 (C3), who was sexually assaulted by Brand at a TV industry party in London in 2004, read out a victim impact statement in court from behind a screen after the [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/russell-brand-survivor-death-threat-1237217147",
-    "published_at": "2026-11-09T12:08:46+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/10/GettyImages-2300487344-e1792482626737.jpg",
-    "collection_timestamp": "2026-11-09T13:37:24.683128+00:00",
-    "thin": false,
-    "author": "Jake Kanter",
-    "tags": [
-      "News",
-      "Russell Brand"
-    ]
-  },
-  {
-    "id": "38fe8696291a6b1f5d72eee4eeb8d9a6864ff72e8072a0545b3c7e376224729a",
-    "title": "Olympic Gold Medalist & ‘Love Is Blind: France’ Presenter Teddy Riner Enters French Presidential Race",
-    "summary": "French judo world champion Teddy Riner has announced his intention to run as a candidate in France&#8217;s presidential elections in 2027 to replace incumbent President Emmanuel Macron. Heavyweight Judoka Riner is a nine-time world champion in the heavyweight category and won a gold medal at the Summer Olympics in 2012, 2016 and 2024. He is [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/olympics-love-is-blind-teddy-riner-french-presidential-race-1237217163",
-    "published_at": "2026-11-09T11:36:23+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Louis-Vuitton-Photocall-Paris-Fashion-Week-Menswear-Fall-Winter-20252026-1000.jpg",
-    "collection_timestamp": "2026-11-09T13:37:24.683371+00:00",
-    "thin": false,
-    "author": "Melanie Goodfellow",
-    "tags": [
-      "News",
-      "Politics",
-      "Sports",
-      "France",
-      "Love Is Blind: France",
-      "Netflix",
-      "Olympics",
-      "Teddy Riner"
-    ]
-  },
-  {
-    "id": "32a8b2efd3b7416f0695eb2ea1944df8af6d9091f2db0e4333266d2ad34931c5",
-    "title": "Pubity Food Series ‘Try Each Other’s’ Launches On Tubi",
-    "summary": "EXCLUSIVE: Popular foodie series Try Each Other’s has launched on Tubi. The series is from digital-first publisher Pubity and this marks its first streaming deal with Fox-owned Tubi. Try Each Other’s is a long form food show. The format involves people from different generations and nationalities trying each other&#8217;s cuisines based on specific themes. They [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/pubity-food-series-try-each-others-launches-on-tubi-1237217150",
-    "published_at": "2026-11-09T11:12:14+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Try_Each_Others_X_Tubi_Talent3.jpg",
-    "collection_timestamp": "2026-11-09T13:37:24.683645+00:00",
-    "thin": false,
-    "author": "Stewart Clarke",
-    "tags": [
-      "News",
-      "Fox Corp.",
-      "Pubity",
-      "Roku",
-      "Try Each Other&#039;s",
-      "Tubi"
-    ]
-  },
-  {
-    "id": "336662b19d7211fdbfd9d58da266938c1245b27158574a2a81d271fd9f894baa",
-    "title": "Donald Trump Says He Was ‘Kidding’ About Making Dana White His Press Secretary",
-    "summary": "President Donald Trump has said he was only kidding about appointing Ultimate Fighting Championship president and CEO Dana White as his next White House press secretary. Following the ousting of Katie Zacharia from the role, Trump wrote on Truth Social Saturday: “I am pleased to announce that the Great Dana White, a violent Fighter and [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/politics/news/donald-trump-kidding-dana-white-press-secretary-1236942961",
-    "published_at": "2026-11-09T11:04:00+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2209982489.jpg",
-    "collection_timestamp": "2026-11-09T13:37:24.680573+00:00",
-    "thin": false,
-    "author": "Leo Barraclough",
-    "tags": [
-      "News",
-      "Dana White",
-      "Donald Trump"
-    ]
-  },
-  {
-    "id": "31fcea2b30cb23a982bceace5877d80b7f943e3184257ff9fc6d41142236a5f8",
-    "title": "Nicholas Denton, Hugh Bonneville and Tim Downie Board Elevated Folk Horror ‘Tragedy Man: The Making of Michael Reeves’ (EXCLUSIVE)",
-    "summary": "Nicholas Denton (“Talamasca: The Secret Order,” “Dangerous Liaisons”) is attached to portray cult British horror filmmaker Michael Reeves opposite Tim Downie (“Baldur’s Gate 3,” “Outlander”) as Hollywood horror legend Vincent Price in “Tragedy Man: The Making of Michael Reeves.” Hugh Bonneville (“Downton Abbey,” “Paddington”) joins as British producer and distributor Tony Tenser. The elevated folk [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/global/tragedy-man-the-making-of-michael-reeves-cast-1236942016",
-    "published_at": "2026-11-09T10:30:00+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/Tragedy-Man-The-Making-of-Michael-Reeves.jpg",
-    "collection_timestamp": "2026-11-09T13:37:24.680867+00:00",
-    "thin": false,
-    "author": "Leo Barraclough",
-    "tags": [
-      "Global",
-      "News",
-      "AFM",
-      "Hugh Bonneville",
-      "Nicholas Denton",
-      "Tim Downie"
-    ]
-  },
-  {
-    "id": "7f3a338419540bbf10169ecc7b517a86cf6307e048f25f4a934e751f4dbee3c4",
-    "title": "Jeff Goldblum, John Turturro & Younès Mégri To Be Honored At Marrakech; Rian Johnson & James Gray Set For Conversations",
-    "summary": "U.S. stars Jeff Goldblum, John Turturro, and Moroccan composer-actor Younès Mégri have been unveiled as the honorees of this 23rd Marrakech International Film Festival. Turturro is currently on the festival and awards with The Only Living Pickpocket in New York, which plays in the festival’s gala screenings lineup. The Marrakech honor follows a career marked [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/jeff-goldblum-john-turturro-marrakech-honors-1237215686",
-    "published_at": "2026-11-09T10:11:50+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/marrakch-tribute.jpg",
-    "collection_timestamp": "2026-11-09T13:37:24.683926+00:00",
-    "thin": false,
-    "author": "Melanie Goodfellow",
-    "tags": [
-      "Festivals",
-      "News",
-      "Cristian Mungiu",
-      "James Gray",
-      "Jeff Goldblum",
-      "John Turturro",
-      "Laïla Marrakchi",
-      "Luca Guadagnino",
-      "Marrakech",
-      "Marrakech International Film Festival",
-      "Monica Bellucci",
-      "Rian Johnson",
-      "Xavier Dolan"
-    ]
-  },
-  {
-    "id": "b1097a9d073454a3e25f2a1ce63d581d2faa731d33a0d3d98ec42b3d2286369d",
-    "title": "‘Somewhere In The South’ Takes Top Award At TCCF Pitching; ‘Reunion Dinner’ Scoops Three Prizes",
-    "summary": "Tan Ce Ding’s Somewhere In The South won the top award in the Pitching section of this year’s Taiwan Creative Content Fest (TCCF), the TAICCA x CNC Feature Film Grand Award, which comes with a cash prize of $35,000. Produced by Edward Lim’s Malaysia-based Evil Genius Studio and Anthony Chen’s Singapore-based Giraffe Pictures, the project [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/somewhere-in-the-south-saga-tccf-pitching-taicca-cnc-1237217100",
-    "published_at": "2026-11-09T10:00:00+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/TCCF-2026-generic.jpg",
-    "collection_timestamp": "2026-11-09T13:37:24.684174+00:00",
-    "thin": false,
-    "author": "Liz Shackleton",
-    "tags": [
-      "News",
-      "CNC",
-      "Somewhere In The South",
-      "TAICCA",
-      "TCCF"
     ]
   }
 ]
