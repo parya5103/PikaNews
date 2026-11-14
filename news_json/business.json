@@ -1,5 +1,41 @@
 [
   {
+    "id": "600e9d1bdd08415270c78690d49e41724b61fe4b242e0c4760933363c821f172",
+    "title": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one",
+    "summary": "Jensen Huang’s exit tests Nvidia’s succession planning and governance, and offers lessons for companies that elevate their CEOs to rockstar status.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
+    "published_at": "2026-11-14T07:08:45+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T08:48:08.324365+00:00",
+    "thin": false
+  },
+  {
+    "id": "a46921412adcc7ef0a7d4ef597b2e6af28358a98eea7467e553a1e7ad2cd9f38",
+    "title": "Ecuador wants to monetize its biodiversity — while still drilling for oil",
+    "summary": "Ecuador is planning to channel funds into its biodiversity, but faces a key challenge: its reliance on oil.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html",
+    "published_at": "2026-11-14T06:00:01+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T08:48:08.324513+00:00",
+    "thin": false
+  },
+  {
+    "id": "726cefdfd5305b9a6b3dc5a025f1b36f49b7c351f03123ccfe04e8c8c750df00",
+    "title": "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend",
+    "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, disrupting thousands of departing of flights.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+    "published_at": "2026-11-14T05:08:24+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-14T08:48:08.324188+00:00",
+    "thin": false
+  },
+  {
     "id": "8c3bd390301c04be8b6bb5c7cae31716e461bff0cbdaf44cb09f301276433858",
     "title": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
     "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, disrupting thousands of departing of flights.",
@@ -2505,30 +2541,6 @@
     "published_at": "2026-11-09T02:50:22+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-09T04:38:17.300774+00:00",
-    "thin": false
-  },
-  {
-    "id": "bc93fd70e8bc0423b5d5486fa6febbe5738b03aead20a6f6cecddcb830b423d8",
-    "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
-    "summary": "Huang told Nvidia staff in an email that he had an affair and that the company's board has opened an investigation into allegations the woman is a Chinese spy.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
-    "published_at": "2026-11-08T22:53:57+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T23:53:11.675669+00:00",
-    "thin": false
-  },
-  {
-    "id": "ea53788b4b594b2d39e4f65a177f145edee0f22b2f5af1cc4bb950c7b9940ace",
-    "title": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike",
-    "summary": "Trump tied avoiding renewed U.S. strikes to progress in talks over Iran’s nuclear program and the Strait of Hormuz.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
-    "published_at": "2026-11-08T21:53:02+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-08T23:53:11.675836+00:00",
     "thin": false
   }
 ]

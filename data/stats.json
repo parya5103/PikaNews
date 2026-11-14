@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-11-14T01:58:17.212309+00:00",
+  "timestamp": "2026-11-14T08:48:01.926268+00:00",
   "total_fetched": 513,
-  "new_articles": 233,
-  "duplicates": 280,
+  "new_articles": 186,
+  "duplicates": 327,
   "errors": 3,
   "expired_articles": 0,
   "articles_without_valid_date": 0,
@@ -24,13 +24,13 @@
     "Reddit Popular": 25
   },
   "by_category": {
-    "bollywood": 130,
-    "entertainment": 28,
-    "hollywood": 29,
-    "technology": 8,
-    "gaming": 6,
-    "business": 4,
+    "bollywood": 119,
+    "entertainment": 16,
+    "hollywood": 11,
     "sports": 13,
-    "trending": 15
+    "technology": 6,
+    "gaming": 7,
+    "business": 3,
+    "trending": 11
   }
 }
