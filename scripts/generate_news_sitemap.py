@@ -63,6 +63,19 @@ def parse_iso(value):
         return None
 
 
+def truncate_news_title(value, limit=110):
+    """Keep Google News sitemap titles within the 110-character limit."""
+    title = " ".join(str(value or "").split())
+    if len(title) <= limit:
+        return title
+    if limit < 2:
+        return title[:limit]
+    prefix = title[:limit - 1]
+    if " " in prefix:
+        prefix = prefix.rsplit(" ", 1)[0]
+    return prefix.rstrip(" ,:;—-") + "…"
+
+
 def generate_news_sitemap():
     all_articles_file = os.path.join(NEWS_JSON_DIR, "all_articles.json")
     articles = []
@@ -105,7 +118,7 @@ def generate_news_sitemap():
             continue
 
         loc = BASE_URL + "news/" + slug + "/"
-        title = article.get("title") or ""
+        title = truncate_news_title(article.get("title") or "")
 
         xml_parts.append("  <url>")
         xml_parts.append(f"    <loc>{escape_xml(loc)}</loc>")

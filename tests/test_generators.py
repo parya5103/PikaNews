@@ -31,6 +31,18 @@ def _article(article_id, title, summary="A sufficiently long summary that "
     }
 
 
+def test_google_news_sitemap_title_limit():
+    """Google News sitemap titles must not exceed 110 characters."""
+    from scripts.generate_news_sitemap import truncate_news_title
+
+    assert truncate_news_title("Short PikaNews headline") == "Short PikaNews headline"
+    long_title = "A very long news headline about an important developing story " * 4
+    shortened = truncate_news_title(long_title)
+    assert len(shortened) <= 110
+    assert shortened.endswith("…")
+    assert not shortened.endswith(" ")
+
+
 def test_sitemap_generator():
     """Test sitemap generation with static article URLs."""
     from scripts.generate_sitemap import generate_sitemap, escape_xml
