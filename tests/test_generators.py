@@ -380,3 +380,67 @@ if __name__ == "__main__":
     success = run_tests()
     sys.exit(0 if success else 1)
 
+
+
+
+def test_category_pages_prerender_source_attributed_stories(tmp_path):
+    """Category listings expose article links and summaries before JavaScript runs."""
+    from scripts.generate_article_pages import (
+        article_slug, write_category_pages,
+    )
+
+    article = _article(
+        "category01",
+        "A Detailed Report on a New Technology Release",
+        "The publisher reports a new technology release with details about features, availability and the company announcement.",
+    )
+    article.update({
+        "category": "technology",
+        "source": "Example Publisher",
+        "published_at": "2026-11-14T10:00:00+00:00",
+        "url": "https://publisher.example/story",
+    })
+    slug = article_slug(article["title"], article["id"])
+    page = tmp_path / "technology.html"
+    page.write_text(
+        '<main><div id="technology-news" class="news-grid">'
+        '<div class="loading-placeholder">Loading...</div></div></main>',
+        encoding="utf-8",
+    )
+
+    updated = write_category_pages([article], {slug}, frontend_dir=str(tmp_path))
+    html = page.read_text(encoding="utf-8")
+
+    assert updated == 1
+    assert "A Detailed Report on a New Technology Release" in html
+    assert 'href="news/' + slug + '/"' in html
+    assert "Example Publisher" in html
+    assert "publisher.example" not in html
+    assert "Loading..." not in html
+    assert '<time datetime="2026-11-14T10:00:00+00:00">' in html
+
+
+def test_category_page_prerender_keeps_other_page_markup(tmp_path):
+    """Updating one category grid does not remove headings or intro content."""
+    from scripts.generate_article_pages import (
+        article_slug, write_category_pages,
+    )
+
+    article = _article("category02", "A Useful Business Update With Details",
+                       "A publisher summary that explains the business update and its relevance to readers.")
+    article["category"] = "business"
+    article["source"] = "Business Desk"
+    article["published_at"] = "2026-11-14T10:00:00+00:00"
+    slug = article_slug(article["title"], article["id"])
+    page = tmp_path / "business.html"
+    page.write_text(
+        '<section><h1>Business News</h1><div class="category-intro">Original guidance</div>'
+        '<div id="business-news" class="news-grid"><div class="loading-placeholder">Loading</div></div>'
+        '</section>',
+        encoding="utf-8",
+    )
+    write_category_pages([article], {slug}, frontend_dir=str(tmp_path))
+    html = page.read_text(encoding="utf-8")
+    assert "<h1>Business News</h1>" in html
+    assert "Original guidance" in html
+    assert "Business Desk" in html
