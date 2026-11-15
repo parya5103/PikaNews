@@ -451,7 +451,6 @@ def build_category_cards(articles, generated_slugs):
     """Render a small, source-attributed article list into crawlable HTML."""
     cards = []
     for article in articles:
-        slug = article_slug(article.get("title"), article.get("id"))
         image = ""
         if article.get("image_url"):
             image = ('<img src="' + esc(article["image_url"]) + '" alt="' +
@@ -520,9 +519,11 @@ def write_category_pages(articles, generated_slugs, frontend_dir=None):
         selected = selected[:8]
         with open(path, "r", encoding="utf-8") as f:
             original = f.read()
-        rendered = _replace_div_contents(
-            original, page + "-news", build_category_cards(selected, generated_slugs) if selected else '<p class="form-hint">No stories available right now.</p>'
+        cards = (
+            build_category_cards(selected, generated_slugs)
+            if selected else '<p class="form-hint">No stories available right now.</p>'
         )
+        rendered = _replace_div_contents(original, page + "-news", cards)
         if rendered != original:
             with open(path, "w", encoding="utf-8") as f:
                 f.write(rendered)
