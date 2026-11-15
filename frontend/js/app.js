@@ -787,7 +787,9 @@ async function loadLatestNews() {
         const articles = await DataManager.loadLatestArticles(12);
         
         if (articles.length === 0) {
-            Utils.showEmpty(latestNewsEl, 'No latest articles yet');
+            if (!latestNewsEl.querySelector('.news-card')) {
+                Utils.showEmpty(latestNewsEl, 'No latest articles yet');
+            }
             return;
         }
         
@@ -838,7 +840,9 @@ async function loadLatestNews() {
         
     } catch (error) {
         console.error('Error loading latest news:', error);
-        Utils.showError(latestNewsEl, 'Failed to load latest news');
+        if (!latestNewsEl.querySelector('.news-card')) {
+            Utils.showError(latestNewsEl, 'Failed to load latest news');
+        }
     }
 }
 
@@ -916,7 +920,9 @@ async function loadCategoryNews() {
             const articles = await DataManager.loadCategoryArticles(category, 6);
             
             if (articles.length === 0) {
-                Utils.showEmpty(newsEl, `No ${category} articles yet`);
+                if (!newsEl.querySelector('.news-card')) {
+                    Utils.showEmpty(newsEl, `No ${category} articles yet`);
+                }
                 continue;
             }
             
@@ -967,7 +973,9 @@ async function loadCategoryNews() {
             
         } catch (error) {
             console.error(`Error loading ${category} news:`, error);
-            Utils.showError(newsEl, `Failed to load ${category} news`);
+            if (!newsEl.querySelector('.news-card')) {
+                Utils.showError(newsEl, `Failed to load ${category} news`);
+            }
         }
     }
 }
