@@ -1093,6 +1093,17 @@ body.menu-open {
     line-height: 1.5;
 }
 
+.sidebar-note a {
+    color: var(--text);
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+}
+
+.sidebar-note a:hover {
+    color: var(--accent);
+}
+
 /* ----------------------------------
    10. Advertisement slots
 ---------------------------------- */
