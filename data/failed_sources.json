@@ -17,8 +17,14 @@
       "url": "https://www.ign.com/feed",
       "category": "gaming",
       "error": "Failed to fetch"
+    },
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com/espn/rss/news",
+      "category": "sports",
+      "error": "Failed to fetch"
     }
   ],
-  "timestamp": "2026-11-15T14:34:27.228195+00:00",
-  "total_failed": 3
+  "timestamp": "2026-11-15T20:08:30.120493+00:00",
+  "total_failed": 4
 }
