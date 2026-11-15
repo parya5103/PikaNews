@@ -1,5 +1,65 @@
 [
   {
+    "id": "ba49f2d8f2a1affd0c3501e0304a22c8e57606438bc5919b2fd813d8e408089c",
+    "title": "Who am I? Plus today's other quizzes",
+    "summary": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c60mdnedvj2wo",
+    "published_at": "2026-11-15T06:47:10+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+    "collection_timestamp": "2026-11-15T06:57:00.569016+00:00",
+    "thin": false
+  },
+  {
+    "id": "a36438507ef086950b91824b8edbad1ccfc2ac251321c88c1c5037dbf3b691e6",
+    "title": "Respect? Exposure? Why England's star names are going abroad",
+    "summary": "Harry Kane, Jude Bellingham and Anthony Gordon are three of England's current biggest stars, but all have chosen to play their club football abroad.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckdd17mq2pvmo",
+    "published_at": "2026-11-15T06:25:41+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10a/live/d6b0c900-df4a-11f1-a48c-75dd2efdacb5.jpg",
+    "collection_timestamp": "2026-11-15T06:57:00.568785+00:00",
+    "thin": false
+  },
+  {
+    "id": "e12d0f1dc2fee09c643a1e20bf31c3b66ca1c4bac4bbfe1698af4070d1afd80c",
+    "title": "Barrett stops Gwynne for vacant lightweight title",
+    "summary": "Zelfa Barrett claimed the vacant WBA Intercontinental lightweight title with a fifth-round stoppage of Gavin Gwynne at Wembley Arena.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/boxing/articles/cmkg579gd821o",
+    "published_at": "2026-11-15T06:04:32+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d6f/live/441b8540-e0b6-11f1-b441-2b33b063138f.jpg",
+    "collection_timestamp": "2026-11-15T06:57:00.569344+00:00",
+    "thin": false
+  },
+  {
+    "id": "d87a5fe1a88800d66514062ded519bbdb7b3811404ef81b0f025d25cda6e9ccd",
+    "title": "Fiji 'did Ireland a favour' before South Africa game",
+    "summary": "Former South Africa head coach Jake White says his Fiji side \"did Ireland a favour\" in Saturday's Nations Championship match before they face the Springboks in Dublin next week.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c9e85d7mm0myo",
+    "published_at": "2026-11-15T00:29:26+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdda/live/ffe90a40-e089-11f1-87c6-ab9cb7f2aab2.jpg",
+    "collection_timestamp": "2026-11-15T06:57:00.569137+00:00",
+    "thin": false
+  },
+  {
+    "id": "65ce1bbf798ea579a650b98c121a6e21339f98b454318b10caf4b37c0de2b7df",
+    "title": "Svitolina races into WTA Finals showpiece against Andreeva",
+    "summary": "Elina Svitolina drops just three games as she thrashes Linda Noskova to set up a WTA Finals showpiece against Mirra Andreeva.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/tennis/articles/ck5y1xdrne28o",
+    "published_at": "2026-11-14T23:31:10+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e42/live/8d47a890-e082-11f1-b441-2b33b063138f.jpg",
+    "collection_timestamp": "2026-11-15T06:57:00.568917+00:00",
+    "thin": false
+  },
+  {
     "id": "447c2bdb2bb742bbc6bdb61e1f78af47b356924d1dad64d511f4885e725524f6",
     "title": "Svitolina races in WTA Finals showpiece against Andreeva",
     "summary": "Elina Svitolina drops just three games as she thrashes Linda Noskova to set up a WTA Finals showpiece against Mirra Andreeva.",
@@ -3593,86 +3653,6 @@
     "published_at": "2026-11-09T23:10:50+00:00",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d951/live/c238f920-dc89-11f1-93e1-3b657b665bcf.jpg",
     "collection_timestamp": "2026-11-09T23:16:48.196588+00:00",
-    "thin": false
-  },
-  {
-    "id": "51e3d361d5d60a9b4776e0496dc2a4e96623923c6fbda90c0c95a8fde3f6ae2f",
-    "title": "Brady ends association with Birmingham City",
-    "summary": "NFL legend Tom Brady ends his association with top-of-the-table Championship side Birmingham City after three years.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cmd6d63vegd4o",
-    "published_at": "2026-11-09T22:18:17+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e9a/live/f4e649d0-dc85-11f1-851a-19e868620cad.jpg",
-    "collection_timestamp": "2026-11-09T23:16:48.196420+00:00",
-    "thin": false
-  },
-  {
-    "id": "f32a5c95989c623ff5072c4e0e443d2cf68ab907c86b333b5ef19f4848a65797",
-    "title": "Wimborne to host Bradford in FA Cup second round - see full draw",
-    "summary": "Seventh-tier side Wimborne Town will host League One Bradford City in the second round of the FA Cup, while former winners Leicester City will visit National League South side Dover Athletic.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c6wyrynd848jo",
-    "published_at": "2026-11-09T22:10:22+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60ff/live/d7ef1b30-dc72-11f1-92b6-7dd459918707.jpg",
-    "collection_timestamp": "2026-11-09T23:16:48.197123+00:00",
-    "thin": false
-  },
-  {
-    "id": "142b690b356419c667a7b607a145a1a5c7942d5e584982694fafeb1937c7cd3b",
-    "title": "ESPN Extends College Football Playoff Rights Through 2032 As 24-Team Format Set For Next Season",
-    "summary": "ESPN has renewed its rights deal with the College Football Playoff through 2032, with an expanded 24-team format set to take effect next season. Barely a decade into its existence, the CFP has bumped up ratings and excitement around the sport, but its initial 4-team setup has grown exponentially and will once again reshape the [&#8230;]",
-    "category": "sports",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/espn-extends-college-football-playoff-rights-2032-1237217644",
-    "published_at": "2026-11-09T22:08:17+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/01/GettyImages-2256616656.jpg",
-    "collection_timestamp": "2026-11-09T23:16:48.169439+00:00",
-    "thin": false,
-    "author": "Dade Hayes",
-    "tags": [
-      "News",
-      "College Football",
-      "college football playoff",
-      "ESPN",
-      "sports rights"
-    ]
-  },
-  {
-    "id": "358ff4a4ebf30fd7d74f3ea5c44576cd96501bd1f1868573bda3660abbbf2962",
-    "title": "NI's O'Neill ruled out of Nations League matches",
-    "summary": "Arsenal forward Ceadach O'Neill is ruled out of Northern Ireland's final two Nations League fixtures against Ukraine in Belfast and Hungary in Budapest.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cm5ynylnd71yo",
-    "published_at": "2026-11-09T21:44:23+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e548/live/515bf500-dc88-11f1-851a-19e868620cad.jpg",
-    "collection_timestamp": "2026-11-09T23:16:48.199201+00:00",
-    "thin": false
-  },
-  {
-    "id": "f944e026a3dee0c496d663e2c80f835a006bf31958f906debe05463442333ebc",
-    "title": "Aberdeen hunt yet another manager after ill-fated Robinson reign",
-    "summary": "Stephen Robinson's tenure as head coach panned out as many Aberdeen fans feared it would, writes BBC Scotland's Liam McLeod.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cr0qkq8pnx4ko",
-    "published_at": "2026-11-09T21:39:37+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adbd/live/6fcf45b0-dc82-11f1-ba95-5f07efd49f42.jpg",
-    "collection_timestamp": "2026-11-09T23:16:48.197273+00:00",
-    "thin": false
-  },
-  {
-    "id": "1ca8a2df63bbd71a82c273bc8bf38fab79caea129b3cef70d369956fd5509f44",
-    "title": "Atletico target Zubimendi move - Tuesday's gossip",
-    "summary": "Arsenal midfielder Martin Zubimendi is a target for Atletico Madrid, Leeds United plan to step up contract talks with striker Dominic Calvert-Lewin, Barcelona are keen on Bayern Munich defender Jonathan Tah, plus more.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cjn5v5xypez2o",
-    "published_at": "2026-11-09T21:13:37+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7979/live/f8476210-dc78-11f1-b441-2b33b063138f.png",
-    "collection_timestamp": "2026-11-09T23:16:48.197441+00:00",
     "thin": false
   }
 ]

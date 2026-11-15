@@ -1,5 +1,17 @@
 [
   {
+    "id": "5ab0cbcf1c8b2c09777351c6e1500ef961b94fb6fe04f16ad7b24b2947565582",
+    "title": "Could Budapest be the next digital nomad hotspot?",
+    "summary": "With its mix of sights, cafés and culture, Hungary's capital Budapest has become popular with those embracing the \"work from anywhere\" trend.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
+    "published_at": "2026-11-15T06:00:01+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-15T06:57:00.568405+00:00",
+    "thin": false
+  },
+  {
     "id": "f85e5f6152b4420b5a53bcbec1118de45d9584b54c5df81356161b3049e1ed73",
     "title": "SpaceX catches upper stage of Starship rocket in historic first",
     "summary": "Starship Test Flight 15 marked the first time Elon Musk's company tried to catch both the booster and upper stage of the rocket.",
@@ -2341,114 +2353,6 @@
     "published_at": "2026-11-09T22:56:39+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-09T23:16:48.191965+00:00",
-    "thin": false
-  },
-  {
-    "id": "438c7a41a58be6b4eb3932fce97f74bc3d3491daf4f211043c9eee922e81fa76",
-    "title": "Hegseth impeachment articles introduced by Rep. Massie",
-    "summary": "The House is likely to vote this week on articles of impeachment against Defense Secretary Pete Hegseth filed by Republican Rep. Thomas Masie.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
-    "published_at": "2026-11-09T22:41:12+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T23:16:48.192103+00:00",
-    "thin": false
-  },
-  {
-    "id": "da3fee872f4ac156fb45dc7af4472ba0c6ccb8efa8438850fd5f7c64866c7923",
-    "title": "Trump questions midterm election results, revives voting-machine conspiracy",
-    "summary": "President Trump's questioning of the legitimacy of his loss in the 2020 election culminated with an attack on the U.S. Capitol by a mob of his supporters.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
-    "published_at": "2026-11-09T22:40:09+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T23:16:48.192777+00:00",
-    "thin": false
-  },
-  {
-    "id": "4939f5f040a482416d7de88a2baa29a70d8f3c2a2fb9e81cd86f645317803577",
-    "title": "Nvidia’s Trump ties draw scrutiny after reports Huang was targeted by Chinese intelligence",
-    "summary": "Nvidia CEO Jensen Huang's extramarital affair with an alleged Chinese spy comes as the company is already about to face heightened scrutiny.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html",
-    "published_at": "2026-11-09T22:40:04+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T23:16:48.193228+00:00",
-    "thin": false
-  },
-  {
-    "id": "be9c8bcbe154ce1d6f0e4ca40f01a8f99a9b288cdb41a7127141dda612f4aeaf",
-    "title": "3 unexpected reasons the October jobs report was so strong",
-    "summary": "October's jobs report blew past economist forecasts. Here are three reasons.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
-    "published_at": "2026-11-09T22:23:56+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T23:16:48.192364+00:00",
-    "thin": false
-  },
-  {
-    "id": "30911934411113a6d310ff56d462ecf683211e2f222b40a2907c289cc84bdc52",
-    "title": "Tokenization platform Securitize gains 10% postmarket on Q3 results, move into asset-backed finance",
-    "summary": "Securitize saw growth in tokenization last quarter and announced its expansion into asset-backed finance through the acquisition of River One.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/09/tokenization-platform-securitize-reports-gains-expands-into-asset-backed-finance.html",
-    "published_at": "2026-11-09T21:24:13+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T23:16:48.193395+00:00",
-    "thin": false
-  },
-  {
-    "id": "a010f3bd90e8ec3160866c6a2be51985d9378055dabbde316e55b726434baa1b",
-    "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
-    "summary": "The CPI headline reading is expected to show an increase of 0.3% while the core is forecast to increase 0.2%.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
-    "published_at": "2026-11-09T21:03:55+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T23:16:48.192241+00:00",
-    "thin": false
-  },
-  {
-    "id": "d8ce171f840c2b455242154922dca2fa80d8338da0d450b74d59b6642a238ccd",
-    "title": "Children’s Place files for bankruptcy protection, seeks buyer",
-    "summary": "The Children's Place has filed for chapter 11 bankruptcy protection and is seeking bids from potential new owners by Dec. 9.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/09/childrens-place-chapter-11-sale.html",
-    "published_at": "2026-11-09T20:57:46+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T23:16:48.193072+00:00",
-    "thin": false
-  },
-  {
-    "id": "193deeb58f330bc1a6bf0da116de963501a66fe6fc9c336acf63f9be69faee06",
-    "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
-    "summary": "PepsiCo plans to cut about 1,000 jobs across North America as it streamlines operations and works to revive sales in its home market.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
-    "published_at": "2026-11-09T20:41:38+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-09T23:16:48.192628+00:00",
-    "thin": false
-  },
-  {
-    "id": "34c8c8de8f3333a705f478e670cbf2a038dca5bec2c0cbf64d867e1a7cd13dd0",
-    "title": "Stocks extend recovery from Thursday's sell-off. Plus, new trial data from Lilly, J&J",
-    "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/11/09/stocks-extend-recovery-from-thursdays-sell-off-plus-new-trial-data-from-lilly-jj-.html",
-    "published_at": "2026-11-09T20:04:30+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-10T13:14:58.934948+00:00",
     "thin": false
   }
 ]
