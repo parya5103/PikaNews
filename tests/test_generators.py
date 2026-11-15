@@ -417,7 +417,7 @@ def test_category_pages_prerender_source_attributed_stories(tmp_path):
     assert "Example Publisher" in html
     assert "publisher.example" not in html
     assert "Loading..." not in html
-    assert '<time datetime="2026-11-14T10:00:00+00:00">' in html
+    assert '<time class="news-card-time" datetime="2026-11-14T10:00:00+00:00">' in html
 
 
 def test_category_page_prerender_keeps_other_page_markup(tmp_path):
