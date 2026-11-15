@@ -469,9 +469,9 @@ def build_category_cards(articles, generated_slugs):
             '<span class="news-card-category" style="background-color: var(--category-color);">' +
             esc(article.get("category") or "News") + '</span></div>'
             '<div class="news-card-content">'
-            '<h2 class="news-card-title"><a href="' +
+            '<h3 class="news-card-title"><a href="' +
             esc(link_for(article, generated_slugs)) + '">' +
-            esc(article.get("title") or "News story") + '</a></h2>'
+            esc(article.get("title") or "News story") + '</a></h3>'
             '<p class="news-card-summary">' + esc(truncate(article.get("summary"), 180)) + '</p>'
             '<div class="news-card-meta"><span class="news-card-source">' +
             esc(article.get("source") or "Original publisher") +
@@ -480,13 +480,13 @@ def build_category_cards(articles, generated_slugs):
             esc(format_display_date(article.get("published_at"))) +
             '</time></div></div></article>'
         )
-    return "\\n                ".join(cards)
+    return "\n                ".join(cards)
 
 
 def _replace_div_contents(html_text, element_id, contents):
     """Replace one div's inner HTML while respecting nested div elements."""
     opening = re.search(
-        r'<div\\b(?=[^>]*\\bid="' + re.escape(element_id) + r'")[^>]*>',
+        r'<div\b(?=[^>]*\bid="' + re.escape(element_id) + r'")[^>]*>',
         html_text,
         re.I,
     )
@@ -494,14 +494,14 @@ def _replace_div_contents(html_text, element_id, contents):
         return html_text
     inner_start = opening.end()
     depth = 1
-    for token in re.finditer(r'</?div\\b[^>]*>', html_text[inner_start:], re.I):
+    for token in re.finditer(r'</?div\b[^>]*>', html_text[inner_start:], re.I):
         if token.group(0).startswith("</"):
             depth -= 1
         else:
             depth += 1
         if depth == 0:
             inner_end = inner_start + token.start()
-            return html_text[:inner_start] + "\\n                " + contents + "\\n            " + html_text[inner_end:]
+            return html_text[:inner_start] + "\n                " + contents + "\n            " + html_text[inner_end:]
     return html_text
 
 
@@ -518,12 +518,10 @@ def write_category_pages(articles, generated_slugs, frontend_dir=None):
             if (article.get("category") or "").lower() in allowed_categories
         ]
         selected = selected[:8]
-        if not selected:
-            continue
         with open(path, "r", encoding="utf-8") as f:
             original = f.read()
         rendered = _replace_div_contents(
-            original, page + "-news", build_category_cards(selected, generated_slugs)
+            original, page + "-news", build_category_cards(selected, generated_slugs) if selected else '<p class="form-hint">No stories available right now.</p>'
         )
         if rendered != original:
             with open(path, "w", encoding="utf-8") as f:
