@@ -473,7 +473,7 @@ def build_category_cards(articles, generated_slugs):
             esc(article.get("title") or "News story") + '</a></h3>'
             '<p class="news-card-summary">' + esc(truncate(article.get("summary"), 180)) + '</p>'
             '<div class="news-card-meta"><span class="news-card-source">' +
-            esc(article.get("source") or "Original publisher") +
+            esc(article.get("source") or "Source not listed") +
             '</span><time class="news-card-time" datetime="' +
             esc(article.get("published_at") or "") + '">' +
             esc(format_display_date(article.get("published_at"))) +
