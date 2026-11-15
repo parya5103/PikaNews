@@ -247,6 +247,32 @@ def test_homepage_news_cards_have_accessible_bookmark_labels_and_contrast():
     assert "border-left: 3px solid var(--category-color" in css
 
 
+def test_category_pages_have_static_intro_and_correct_heading_hierarchy():
+    """News category/listing pages expose useful copy before JavaScript loads."""
+    frontend = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "frontend")
+    pages = {
+        "bollywood.html": "Latest Bollywood stories",
+        "business.html": "Latest business stories",
+        "entertainment.html": "Latest entertainment stories",
+        "gaming.html": "Latest gaming stories",
+        "hollywood.html": "Latest Hollywood stories",
+        "sports.html": "Latest sports stories",
+        "technology.html": "Latest technology stories",
+        "latest.html": "Latest PikaNews reports",
+        "trending.html": "Trending PikaNews stories",
+    }
+    for filename, heading in pages.items():
+        with open(os.path.join(frontend, filename), "r", encoding="utf-8") as f:
+            html = f.read()
+        assert 'class="category-intro"' in html, filename + " is missing static intro copy"
+        assert "<h2" in html and heading in html, filename + " is missing its section heading"
+
+    with open(os.path.join(frontend, "search.html"), "r", encoding="utf-8") as f:
+        search_html = f.read()
+    assert '<meta name="robots" content="noindex, follow">' in search_html
+    assert "Articles matching your search" in search_html
+
+
 def test_article_slug_matches_js_contract():
     """Python slug must match pikanewsSlug() in frontend/article.html."""
     from scripts.generate_article_pages import article_slug
