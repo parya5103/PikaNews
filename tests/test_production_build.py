@@ -9,6 +9,7 @@ would reintroduce a base-path, SEO, asset or advertising bug.
 
 import os
 import glob
+import re
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FRONTEND = os.path.join(REPO_ROOT, "frontend")
@@ -98,6 +99,15 @@ def test_no_github_pages_urls_remain():
             continue
         content = read(name)
         assert OLD_BASE not in content, f"old GitHub Pages URL still referenced in {name}"
+
+
+def test_homepage_title_is_concise():
+    """The PikaNews homepage title should identify the brand without overlong category stuffing."""
+    content = read("index.html")
+    match = re.search(r"<title>(.*?)</title>", content, re.S)
+    assert match, "homepage must have a title"
+    assert len(match.group(1)) <= 50, "homepage title should stay within 50 characters"
+    assert "PikaNews" in match.group(1), "homepage title must retain the product brand"
 
 
 def test_every_page_declares_production_canonical():
