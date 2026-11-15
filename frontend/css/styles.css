@@ -916,6 +916,8 @@ body.menu-open {
     letter-spacing: 0.09em;
     text-transform: uppercase;
     color: #fff;
+    background-color: #111827 !important;
+    border-left: 3px solid var(--category-color, #fff);
     border-radius: 2px;
 }
 
