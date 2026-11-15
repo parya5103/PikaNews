@@ -21,7 +21,7 @@ def test_category_pages_have_unique_concise_metadata_and_single_intro():
         titles.add(title)
         assert 40 <= len(title) <= 65, f"{page}: title length {len(title)}"
         assert 120 <= len(description) <= 160, f"{page}: description length {len(description)}"
-        assert len(re.findall(r"<h1\\b", html, re.I)) == 1, f"{page}: expected one H1"
+        assert len(re.findall(r"<h1\b", html, re.I)) == 1, f"{page}: expected one H1"
         assert len(re.findall(r'<div class="category-intro">', html)) == 1, f"{page}: duplicate/missing intro"
         assert len(re.findall(r'<h2 class="section-title">', html)) == 1, f"{page}: duplicate/missing section heading"
-        assert re.search(r'<link rel="canonical" href="https://gogocompany\\.in/pikanews/', html), f"{page}: missing canonical"
+        assert re.search(r'<link rel="canonical" href="https://gogocompany\.in/pikanews/', html), f"{page}: missing canonical"
