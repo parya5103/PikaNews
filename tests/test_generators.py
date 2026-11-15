@@ -81,7 +81,8 @@ def test_sitemap_generator():
                 assert "<loc>https://gogocompany.in/pikanews/</loc>" in content
                 assert "https://gogocompany.in/pikanews/index.html" not in content
                 assert "latest.html" in content
-                assert "search.html" in content
+                assert "search.html" not in content, \
+                    "internal search results must not be included in the sitemap"
                 assert "sources.html" in content
                 assert "editorial-policy.html" in content
 
