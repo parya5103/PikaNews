@@ -1,6 +1,12 @@
 {
   "failed_sources": [
     {
+      "name": "Pinkvilla",
+      "url": "https://www.pinkvilla.com/feed",
+      "category": "bollywood",
+      "error": "Failed to fetch"
+    },
+    {
       "name": "Filmfare",
       "url": "https://www.filmfare.com/rss/news.xml",
       "category": "bollywood",
@@ -11,14 +17,8 @@
       "url": "https://www.ign.com/feed",
       "category": "gaming",
       "error": "Failed to fetch"
-    },
-    {
-      "name": "ESPN",
-      "url": "https://www.espn.com/espn/rss/news",
-      "category": "sports",
-      "error": "Failed to fetch"
     }
   ],
-  "timestamp": "2026-11-15T06:57:00.628546+00:00",
+  "timestamp": "2026-11-15T14:34:27.228195+00:00",
   "total_failed": 3
 }
