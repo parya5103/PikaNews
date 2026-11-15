@@ -444,3 +444,12 @@ def test_category_page_prerender_keeps_other_page_markup(tmp_path):
     assert "<h1>Business News</h1>" in html
     assert "Original guidance" in html
     assert "Business Desk" in html
+
+
+def test_client_loader_preserves_static_story_fallbacks():
+    """Empty/error API responses must not erase server-rendered story cards."""
+    frontend = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "frontend")
+    with open(os.path.join(frontend, "js", "app.js"), "r", encoding="utf-8") as f:
+        app_js = f.read()
+    assert "if (!latestNewsEl.querySelector('.news-card'))" in app_js
+    assert "if (!newsEl.querySelector('.news-card'))" in app_js
