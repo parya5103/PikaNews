@@ -235,6 +235,18 @@ def test_article_metadata_stays_within_search_snippet_limits():
     assert "A Very Long Headline" in html, "full article headline must remain visible in the page body"
 
 
+def test_homepage_news_cards_have_accessible_bookmark_labels_and_contrast():
+    """Dynamic home-page cards expose a name for icon-only bookmark controls."""
+    frontend = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "frontend")
+    with open(os.path.join(frontend, "js", "app.js"), "r", encoding="utf-8") as f:
+        app_js = f.read()
+    with open(os.path.join(frontend, "css", "styles.css"), "r", encoding="utf-8") as f:
+        css = f.read()
+    assert 'aria-label="Bookmark ${Utils.escapeHtml(article.title)}"' in app_js
+    assert "background-color: #111827 !important;" in css
+    assert "border-left: 3px solid var(--category-color" in css
+
+
 def test_article_slug_matches_js_contract():
     """Python slug must match pikanewsSlug() in frontend/article.html."""
     from scripts.generate_article_pages import article_slug
