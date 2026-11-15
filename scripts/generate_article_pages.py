@@ -122,6 +122,20 @@ def truncate(text, length):
     return text[:length].rstrip() + "..."
 
 
+def truncate_html_attribute(text, max_escaped_length):
+    """Truncate visible text so its HTML-escaped form stays within a metadata limit."""
+    value = (text or "").strip()
+    if len(esc(value)) <= max_escaped_length:
+        return value
+    words = value.split()
+    while words:
+        candidate = " ".join(words).rstrip(" ,:;—-") + "…"
+        if len(esc(candidate)) <= max_escaped_length:
+            return candidate
+        words.pop()
+    return "…"
+
+
 def esc(text):
     return escape(str(text if text is not None else ""), quote=True)
 
@@ -252,7 +266,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <title>@@TITLE@@ - PikaNews</title>
+    <title>@@SEO_TITLE@@ - PikaNews</title>
     <script type="application/ld+json">@@NEWSARTICLE_JSONLD@@</script>
     <script type="application/ld+json">@@BREADCRUMB_JSONLD@@</script>
 </head>
@@ -346,7 +360,8 @@ def build_page(article, eligible, generated_slugs):
     original_url = article.get("url") or ""
 
     og_image = article.get("image_url") or LOGO_URL
-    description = truncate(summary, 160)
+    seo_title = truncate_html_attribute(title, 48)
+    description = truncate_html_attribute(summary, 155)
 
     # Summary as readable paragraphs (RSS excerpts are short; split on
     # sentence boundaries only when the excerpt is long enough).
@@ -389,7 +404,8 @@ def build_page(article, eligible, generated_slugs):
     replacements = {
         "@@REL_PATH@@": rel_path,
         "@@CANONICAL@@": canonical_url,
-        "@@OG_TITLE@@": esc(title),
+        "@@OG_TITLE@@": esc(seo_title),
+        "@@SEO_TITLE@@": esc(seo_title),
         "@@TITLE@@": esc(title),
         "@@OG_DESCRIPTION@@": esc(description),
         "@@DESCRIPTION@@": esc(description),
