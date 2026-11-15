@@ -193,6 +193,16 @@ def test_sitemap_contains_no_query_parameter_article_urls():
         "sitemap lists duplicate query-parameter article URLs instead of static pages"
 
 
+
+def test_internal_search_page_is_noindex_and_excluded_from_sitemap():
+    """Internal search results are useful to visitors, not standalone search landing pages."""
+    search = read("search.html")
+    assert '<meta name="robots" content="noindex, follow">' in search, \
+        "internal search results must not be indexed"
+    sitemap = read("sitemap.xml")
+    assert PROD_BASE + "search.html" not in sitemap, \
+        "internal search results must not be submitted in the sitemap"
+
 def test_footer_carries_gogo_branding_on_all_pages():
     for path in all_html_pages():
         name = os.path.basename(path)

@@ -916,6 +916,8 @@ body.menu-open {
     letter-spacing: 0.09em;
     text-transform: uppercase;
     color: #fff;
+    background-color: #111827 !important;
+    border-left: 3px solid var(--category-color, #fff);
     border-radius: 2px;
 }
 
@@ -2457,3 +2459,15 @@ body.menu-open {
 }
 
 
+
+
+/* Static category introductions keep useful context available before article cards load. */
+.category-intro {
+    max-width: 820px;
+    margin: 14px auto 0;
+    color: var(--text-secondary);
+    font-size: 14px;
+    line-height: 1.7;
+    text-align: center;
+}
+.category-intro p { margin: 0 0 10px; }

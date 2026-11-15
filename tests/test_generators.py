@@ -81,7 +81,8 @@ def test_sitemap_generator():
                 assert "<loc>https://gogocompany.in/pikanews/</loc>" in content
                 assert "https://gogocompany.in/pikanews/index.html" not in content
                 assert "latest.html" in content
-                assert "search.html" in content
+                assert "search.html" not in content, \
+                    "internal search results must not be included in the sitemap"
                 assert "sources.html" in content
                 assert "editorial-policy.html" in content
 
@@ -214,6 +215,64 @@ def test_rss_generator():
             rss_module.RSS_PATH = original_rss_path
 
 
+def test_article_metadata_stays_within_search_snippet_limits():
+    """Generated article metadata is concise even when source text needs HTML escaping."""
+    from scripts.generate_article_pages import build_page
+
+    article = _article(
+        "metadata01",
+        "A Very Long Headline With Apostrophes, Quotations and More Words Than a Search Title Should Carry",
+        """A publisher's report says the "new" plan will change readers' options. """ * 4,
+    )
+    html = build_page(article, [article], set())
+    import re
+    title_match = re.search(r"<title>(.*?)</title>", html, re.S)
+    description_match = re.search(r'<meta name="description" content="(.*?)">', html, re.S)
+    assert title_match, "generated page must have a title"
+    assert description_match, "generated page must have a description"
+    assert len(title_match.group(1)) <= 60, "SEO title must fit within 60 escaped characters"
+    assert len(description_match.group(1)) <= 160, "meta description must fit within 160 escaped characters"
+    assert "A Very Long Headline" in html, "full article headline must remain visible in the page body"
+
+
+def test_homepage_news_cards_have_accessible_bookmark_labels_and_contrast():
+    """Dynamic home-page cards expose a name for icon-only bookmark controls."""
+    frontend = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "frontend")
+    with open(os.path.join(frontend, "js", "app.js"), "r", encoding="utf-8") as f:
+        app_js = f.read()
+    with open(os.path.join(frontend, "css", "styles.css"), "r", encoding="utf-8") as f:
+        css = f.read()
+    assert 'aria-label="Bookmark ${Utils.escapeHtml(article.title)}"' in app_js
+    assert "background-color: #111827 !important;" in css
+    assert "border-left: 3px solid var(--category-color" in css
+
+
+def test_category_pages_have_static_intro_and_correct_heading_hierarchy():
+    """News category/listing pages expose useful copy before JavaScript loads."""
+    frontend = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "frontend")
+    pages = {
+        "bollywood.html": "Latest Bollywood stories",
+        "business.html": "Latest business stories",
+        "entertainment.html": "Latest entertainment stories",
+        "gaming.html": "Latest gaming stories",
+        "hollywood.html": "Latest Hollywood stories",
+        "sports.html": "Latest sports stories",
+        "technology.html": "Latest technology stories",
+        "latest.html": "Latest PikaNews reports",
+        "trending.html": "Trending PikaNews stories",
+    }
+    for filename, heading in pages.items():
+        with open(os.path.join(frontend, filename), "r", encoding="utf-8") as f:
+            html = f.read()
+        assert 'class="category-intro"' in html, filename + " is missing static intro copy"
+        assert "<h2" in html and heading in html, filename + " is missing its section heading"
+
+    with open(os.path.join(frontend, "search.html"), "r", encoding="utf-8") as f:
+        search_html = f.read()
+    assert '<meta name="robots" content="noindex, follow">' in search_html
+    assert "Articles matching your search" in search_html
+
+
 def test_article_slug_matches_js_contract():
     """Python slug must match pikanewsSlug() in frontend/article.html."""
     from scripts.generate_article_pages import article_slug
@@ -285,6 +344,7 @@ def run_tests():
         test_sitemap_skips_tombstoned_and_thin_articles()
         test_rss_generator()
         test_article_slug_matches_js_contract()
+        test_article_metadata_stays_within_search_snippet_limits()
         test_thin_detection()
         test_url_construction()
 
