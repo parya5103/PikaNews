@@ -101,6 +101,17 @@ def test_no_github_pages_urls_remain():
         assert OLD_BASE not in content, f"old GitHub Pages URL still referenced in {name}"
 
 
+def test_news_card_controls_and_sidebar_links_are_accessible():
+    """Dynamic article actions need names, and inline sidebar links need a non-colour cue."""
+    app = read("js/app.js")
+    assert app.count('aria-label="Read article: ${Utils.escapeHtml(article.title)}"') >= 4, \
+        "all dynamic Read article buttons must have an accessible name"
+    assert app.count('aria-label="Bookmark ${Utils.escapeHtml(article.title)}"') >= 4, \
+        "all dynamic bookmark buttons must have an accessible name"
+    css = read("css/styles.css")
+    assert ".sidebar-note a" in css and "text-decoration: underline" in css, \
+        "sidebar text links must be underlined as well as coloured"
+
 def test_homepage_title_is_concise():
     """The PikaNews homepage title should identify the brand without overlong category stuffing."""
     content = read("index.html")
