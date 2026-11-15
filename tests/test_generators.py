@@ -222,7 +222,7 @@ def test_article_metadata_stays_within_search_snippet_limits():
     article = _article(
         "metadata01",
         "A Very Long Headline With Apostrophes, Quotations and More Words Than a Search Title Should Carry",
-        "A publisher's report says the "new" plan will change readers' options. " * 4,
+        """A publisher's report says the "new" plan will change readers' options. """ * 4,
     )
     html = build_page(article, [article], set())
     import re
