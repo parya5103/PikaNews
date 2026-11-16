@@ -613,6 +613,7 @@ body.menu-open {
 
 .ticker-viewport {
     flex: 1;
+    min-width: 0;
     overflow: hidden;
     display: flex;
     align-items: center;
@@ -2539,4 +2540,16 @@ body { font-size: 15.5px; line-height: 1.68; }
 }
 @media (prefers-reduced-motion: reduce) {
   .news-card { transition: none !important; }
+}
+
+/* Responsive regression fixes: flex children must be allowed to shrink,
+   and the newsroom switches to its mobile navigation before the header
+   actions overflow at tablet widths. */
+@media (max-width: 1120px) {
+  .header-container { gap: 12px; padding-left: 14px; padding-right: 14px; }
+  .main-nav { display: none; }
+  .mobile-menu-toggle { display: flex; }
+}
+@media (min-width: 1121px) {
+  .mobile-menu-toggle { display: none; }
 }
