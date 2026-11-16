@@ -179,7 +179,20 @@ function initMobileMenu() {
     const closeBtn = mobileMenu.querySelector('.mobile-menu-close');
     closeBtn.addEventListener('click', closeMobileMenu);
 
-    // Close on touch/mouse press as well as click on the backdrop.
+    // Capture backdrop presses at document level so touch and mouse dismissals
+    // work consistently even when the drawer has its own stacking context.
+    document.addEventListener('pointerdown', (event) => {
+        if (event.target === mobileMenuBackdrop && mobileMenu && mobileMenu.classList.contains('open')) {
+            closeMobileMenu();
+        }
+    }, true);
+    document.addEventListener('click', (event) => {
+        if (event.target === mobileMenuBackdrop && mobileMenu && mobileMenu.classList.contains('open')) {
+            closeMobileMenu();
+        }
+    }, true);
+
+    // Keep direct listeners for compatibility with assistive and synthetic click activation.
     mobileMenuBackdrop.addEventListener('pointerdown', closeMobileMenu);
     mobileMenuBackdrop.addEventListener('click', closeMobileMenu);
 
