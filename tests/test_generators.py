@@ -453,3 +453,19 @@ def test_client_loader_preserves_static_story_fallbacks():
         app_js = f.read()
     assert "if (!latestNewsEl.querySelector('.news-card'))" in app_js
     assert "if (!newsEl.querySelector('.news-card'))" in app_js
+
+
+def test_homepage_has_clear_source_context_and_no_meta_keywords():
+    """The homepage explains aggregation and attribution in crawlable HTML."""
+    frontend = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "frontend")
+    with open(os.path.join(frontend, "index.html"), "r", encoding="utf-8") as f:
+        content = f.read()
+
+    normalized = content.lower()
+    assert 'name="keywords"' not in normalized
+    assert "original publisher remains responsible" in normalized
+    assert "publication time" in normalized
+    assert 'href="sources.html"' in normalized
+    assert 'href="editorial-policy.html"' in normalized
+    assert 'href="latest.html"' in normalized
+    assert 'href="trending.html"' in normalized
