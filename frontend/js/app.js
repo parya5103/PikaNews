@@ -75,6 +75,7 @@ let mobileMenuBackdrop;
 function openMobileMenu() {
     if (!mobileMenu) return;
     mobileMenu.classList.add('open');
+    mobileMenu.setAttribute('aria-modal', 'true');
     const toggle = document.getElementById('mobile-menu-toggle');
     if (toggle) {
         toggle.classList.add('active');
@@ -82,11 +83,14 @@ function openMobileMenu() {
     }
     if (mobileMenuBackdrop) mobileMenuBackdrop.classList.add('visible');
     document.body.classList.add('menu-open');
+    const firstLink = mobileMenu.querySelector('.mobile-menu-link');
+    if (firstLink) firstLink.focus();
 }
 
 function closeMobileMenu() {
     if (!mobileMenu) return;
     mobileMenu.classList.remove('open');
+    mobileMenu.removeAttribute('aria-modal');
     const toggle = document.getElementById('mobile-menu-toggle');
     if (toggle) {
         toggle.classList.remove('active');
@@ -94,6 +98,7 @@ function closeMobileMenu() {
     }
     if (mobileMenuBackdrop) mobileMenuBackdrop.classList.remove('visible');
     document.body.classList.remove('menu-open');
+    if (toggle) toggle.focus();
 }
 
 function initMobileMenu() {
@@ -174,7 +179,21 @@ function initMobileMenu() {
     const closeBtn = mobileMenu.querySelector('.mobile-menu-close');
     closeBtn.addEventListener('click', closeMobileMenu);
 
-    // Close on backdrop click
+    // Capture backdrop presses at document level so touch and mouse dismissals
+    // work consistently even when the drawer has its own stacking context.
+    document.addEventListener('pointerdown', (event) => {
+        if (event.target === mobileMenuBackdrop && mobileMenu && mobileMenu.classList.contains('open')) {
+            closeMobileMenu();
+        }
+    }, true);
+    document.addEventListener('click', (event) => {
+        if (event.target === mobileMenuBackdrop && mobileMenu && mobileMenu.classList.contains('open')) {
+            closeMobileMenu();
+        }
+    }, true);
+
+    // Keep direct listeners for compatibility with assistive and synthetic click activation.
+    mobileMenuBackdrop.addEventListener('pointerdown', closeMobileMenu);
     mobileMenuBackdrop.addEventListener('click', closeMobileMenu);
 
     // Close after a navigation link is selected
@@ -184,11 +203,26 @@ function initMobileMenu() {
         }
     });
 
-    // Close on Escape key
+    // Keep keyboard focus inside the open drawer and return it to the toggle on close.
     document.addEventListener('keydown', (e) => {
-        if (e.key === 'Escape' && mobileMenu.classList.contains('open')) {
+        if (!mobileMenu.classList.contains('open')) return;
+        if (e.key === 'Escape') {
             closeMobileMenu();
-            mobileMenuToggle.focus();
+            return;
+        }
+        if (e.key === 'Tab') {
+            const focusable = Array.from(mobileMenu.querySelectorAll('a[href], button:not([disabled]), input:not([disabled]), select:not([disabled]), textarea:not([disabled]), [tabindex]:not([tabindex="-1"])'))
+                .filter(el => el.getClientRects().length > 0);
+            if (!focusable.length) return;
+            const first = focusable[0];
+            const last = focusable[focusable.length - 1];
+            if (e.shiftKey && document.activeElement === first) {
+                e.preventDefault();
+                last.focus();
+            } else if (!e.shiftKey && document.activeElement === last) {
+                e.preventDefault();
+                first.focus();
+            }
         }
     });
 }

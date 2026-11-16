@@ -613,6 +613,7 @@ body.menu-open {
 
 .ticker-viewport {
     flex: 1;
+    min-width: 0;
     overflow: hidden;
     display: flex;
     align-items: center;
@@ -2482,3 +2483,78 @@ body.menu-open {
     text-align: center;
 }
 .category-intro p { margin: 0 0 10px; }
+
+
+/* ===== PikaNews interface refresh — editorial layout, all newsroom pages ===== */
+:root {
+  --accent: #a61f2b;
+  --accent-dark: #851923;
+  --accent-soft: #fff0f1;
+  --bg: #f7f7f4;
+  --surface: #ffffff;
+  --surface-alt: #efefeb;
+  --text: #17191d;
+  --text-secondary: #414650;
+  --muted: #656c77;
+  --hairline: #dedfdc;
+  --hairline-strong: #c4c7c4;
+  --radius: 8px;
+  --shadow: 0 5px 18px rgba(25,27,30,.055);
+}
+body { font-size: 15.5px; line-height: 1.68; }
+.utility-bar { border-bottom: 1px solid var(--hairline); }
+.header { box-shadow: 0 4px 18px rgba(25,27,30,.045); }
+.header-container { min-height: 68px; }
+.logo-text { letter-spacing: -.045em; }
+.nav-link { min-height: 44px; border-radius: 8px; padding: 10px 11px; }
+.nav-link:hover, .dropdown-link:hover { background: var(--surface-alt); }
+.ticker { border-bottom: 1px solid var(--hairline); }
+.news-grid, .search-results-grid { gap: 20px; }
+.news-card { border: 1px solid var(--hairline); border-radius: 12px; overflow: hidden; box-shadow: var(--shadow); transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease; }
+.news-card-title { line-height: 1.32; letter-spacing: -.018em; }
+.news-card-excerpt { color: var(--text-secondary); line-height: 1.65; }
+.news-card-meta { color: var(--muted); }
+.article-content { max-width: 780px; line-height: 1.82; font-size: 1.05rem; }
+.article-content h1, .article-content h2, .article-content h3 { line-height: 1.22; letter-spacing: -.025em; }
+.article-content p { margin: 0 0 1.2em; }
+.page-title { letter-spacing: -.035em; line-height: 1.15; }
+.category-card { border-radius: 10px; }
+.search-input, .search-submit { min-height: 46px; border-radius: 10px; }
+:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+@media (hover: hover) {
+  .news-card:hover { transform: translateY(-3px); border-color: var(--hairline-strong); box-shadow: 0 12px 28px rgba(25,27,30,.1); }
+}
+@media (max-width: 1023px) {
+  .main-nav { background: var(--surface); border-top: 1px solid var(--hairline); box-shadow: 0 14px 24px rgba(25,27,30,.08); }
+  .nav-list { padding: 8px 14px 14px; }
+  .nav-link { width: 100%; }
+}
+@media (max-width: 640px) {
+  body { font-size: 15px; }
+  .header-container { min-height: 60px; }
+  .news-grid, .category-section .news-grid, .search-results-grid { gap: 14px; }
+  .news-card { border-radius: 10px; }
+  .article-content { font-size: 1rem; line-height: 1.75; }
+  .search-form { gap: 6px; }
+  .search-input { min-width: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .news-card { transition: none !important; }
+}
+
+/* Responsive regression fixes: flex children must be allowed to shrink,
+   and the newsroom switches to its mobile navigation before the header
+   actions overflow at tablet widths. */
+@media (max-width: 1120px) {
+  .header-container { gap: 12px; padding-left: 14px; padding-right: 14px; }
+  .main-nav { display: none; }
+  .mobile-menu-toggle { display: flex; }
+}
+@media (min-width: 1121px) {
+  .mobile-menu-toggle { display: none; }
+}
+
+/* Keep the animated ticker clipped to the available viewport width. */
+.ticker { width: 100%; max-width: 100%; overflow-x: clip; contain: paint; }
+.ticker-inner { width: 100%; min-width: 0; }
+.ticker-viewport { width: 0; min-width: 0; flex: 1 1 0%; }
