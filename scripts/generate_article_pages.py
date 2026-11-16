@@ -435,6 +435,102 @@ def build_page(article, eligible, generated_slugs):
     return page
 
 
+CATEGORY_PAGE_FILTERS = {
+    "bollywood": {"bollywood"},
+    "hollywood": {"hollywood"},
+    "entertainment": {"bollywood", "hollywood", "entertainment"},
+    "technology": {"technology"},
+    "gaming": {"gaming"},
+    "business": {"business"},
+    "sports": {"sports"},
+    "latest": None,
+}
+
+
+def build_category_cards(articles, generated_slugs):
+    """Render a small, source-attributed article list into crawlable HTML."""
+    cards = []
+    for article in articles:
+        image = ""
+        if article.get("image_url"):
+            image = ('<img src="' + esc(article["image_url"]) + '" alt="' +
+                     esc(truncate(article.get("title"), 100)) +
+                     '" loading="lazy" onerror="this.style.display=\'none\'">')
+        else:
+            image = ('<div class="news-card-placeholder" aria-hidden="true">'
+                     '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">'
+                     '<rect x="3" y="3" width="18" height="18"/><path d="M9 9h6v6H9z"/>'
+                     '</svg></div>')
+        cards.append(
+            '<article class="news-card" style="--category-color: ' +
+            category_color(article.get("category")) + '">'
+            '<div class="news-card-image">' + image +
+            '<span class="news-card-category" style="background-color: var(--category-color);">' +
+            esc(article.get("category") or "News") + '</span></div>'
+            '<div class="news-card-content">'
+            '<h3 class="news-card-title"><a href="' +
+            esc(link_for(article, generated_slugs)) + '">' +
+            esc(article.get("title") or "News story") + '</a></h3>'
+            '<p class="news-card-summary">' + esc(truncate(article.get("summary"), 180)) + '</p>'
+            '<div class="news-card-meta"><span class="news-card-source">' +
+            esc(article.get("source") or "Source not listed") +
+            '</span><time class="news-card-time" datetime="' +
+            esc(article.get("published_at") or "") + '">' +
+            esc(format_display_date(article.get("published_at"))) +
+            '</time></div></div></article>'
+        )
+    return "\n                ".join(cards)
+
+
+def _replace_div_contents(html_text, element_id, contents):
+    """Replace one div's inner HTML while respecting nested div elements."""
+    opening = re.search(
+        r'<div\b(?=[^>]*\bid="' + re.escape(element_id) + r'")[^>]*>',
+        html_text,
+        re.I,
+    )
+    if not opening:
+        return html_text
+    inner_start = opening.end()
+    depth = 1
+    for token in re.finditer(r'</?div\b[^>]*>', html_text[inner_start:], re.I):
+        if token.group(0).startswith("</"):
+            depth -= 1
+        else:
+            depth += 1
+        if depth == 0:
+            inner_end = inner_start + token.start()
+            return html_text[:inner_start] + "\n                " + contents + "\n            " + html_text[inner_end:]
+    return html_text
+
+
+def write_category_pages(articles, generated_slugs, frontend_dir=None):
+    """Pre-render current stories into category HTML for crawler and no-JS fallback."""
+    frontend_dir = frontend_dir or FRONTEND_DIR
+    updated = 0
+    for page, allowed_categories in CATEGORY_PAGE_FILTERS.items():
+        path = os.path.join(frontend_dir, page + ".html")
+        if not os.path.isfile(path):
+            continue
+        selected = articles if allowed_categories is None else [
+            article for article in articles
+            if (article.get("category") or "").lower() in allowed_categories
+        ]
+        selected = selected[:8]
+        with open(path, "r", encoding="utf-8") as f:
+            original = f.read()
+        cards = (
+            build_category_cards(selected, generated_slugs)
+            if selected else '<p class="form-hint">No stories available right now.</p>'
+        )
+        rendered = _replace_div_contents(original, page + "-news", cards)
+        if rendered != original:
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(rendered)
+            updated += 1
+    return updated
+
+
 def generate_article_pages():
     all_articles_file = os.path.join(NEWS_JSON_DIR, "all_articles.json")
     if not os.path.exists(all_articles_file):
@@ -479,7 +575,9 @@ def generate_article_pages():
             f.write(html)
         written += 1
 
+    category_pages_updated = write_category_pages(eligible, generated_slugs)
     print(f"Static article pages generated: {written} (stale dirs removed: {removed_count})")
+    print(f"Category pages updated with crawlable stories: {category_pages_updated}")
     print(f"Output directory: {NEWS_DIR}")
     return written
 
