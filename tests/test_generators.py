@@ -461,10 +461,11 @@ def test_homepage_has_clear_source_context_and_no_meta_keywords():
     with open(os.path.join(frontend, "index.html"), "r", encoding="utf-8") as f:
         content = f.read()
 
-    assert 'name="keywords"' not in content.lower()
-    assert "original publisher remains responsible" in content
-    assert "publication time" in content
-    assert 'href="sources.html"' in content
-    assert 'href="editorial-policy.html"' in content
-    assert 'href="latest.html"' in content
-    assert 'href="trending.html"' in content
+    normalized = content.lower()
+    assert 'name="keywords"' not in normalized
+    assert "original publisher remains responsible" in normalized
+    assert "publication time" in normalized
+    assert 'href="sources.html"' in normalized
+    assert 'href="editorial-policy.html"' in normalized
+    assert 'href="latest.html"' in normalized
+    assert 'href="trending.html"' in normalized
