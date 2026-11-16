@@ -1,5 +1,25 @@
 [
   {
+    "id": "ce02a8cf9f1a6b5cafd3e9bae239917be652b1348d2f5b024c4736ba74665194",
+    "title": "From Artist-Approved Headphones to Diamonds and Decor, Here Are 20 Luxury Gifts Worth Giving This Year",
+    "summary": "From fancy tech to designer accessories, these are the best gifts for loved ones you want to spoil a little (or a lot)",
+    "category": "technology",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/product-recommendations/gift-guide/best-luxury-gift-guide-1234644291",
+    "published_at": "2026-11-15T22:29:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-16T00:10:34.209905+00:00",
+    "thin": false,
+    "tags": [
+      "Gift Guide",
+      "RS Recommends",
+      "Beauty",
+      "Fashion",
+      "gifts",
+      "noads"
+    ]
+  },
+  {
     "id": "74f543c88c5f8b87f85c50b408c8bef3da4e7fb5886612b254c5468e21f11f4d",
     "title": "The Best Tech Gifts to Shop at Best Buy This Holiday Season, From Bose Headphones to the Oura Ring",
     "summary": "Finding the perfect holiday gift for the tech enthusiast in your life can be tricky, especially when they&#8217;re already equipped with the latest smartphones, headphones and smart home gadgets. But this year&#8217;s most giftable electronics go beyond the usual upgrades, offering new ways to capture memories, stream entertainment and track wellness. Best Buy is the [&#8230;]",
@@ -16,6 +36,25 @@
       "Best Buy",
       "Bose",
       "Oura"
+    ]
+  },
+  {
+    "id": "d0a0ebe71c79cc08698dce3999d5c0c7ba9db68376965c1f918acc1f9229aeb6",
+    "title": "Listen to this: Armand Hammer’s Snakes &#038; Ladders",
+    "summary": "I open with this caveat: I haven't had a ton of time to digest the surprise Armand Hammer record that dropped this week. Billy Woods and Elucid rarely miss, though, and my initial reaction is that Snakes &#38; Ladders ranks among their best. It doesn't have the seamless throughline production-wise that their collabs with Alchemist [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
+    "published_at": "2026-11-15T16:49:22-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-16T00:10:34.214310+00:00",
+    "thin": false,
+    "author": "Terrence O’Brien",
+    "tags": [
+      "Column",
+      "Entertainment",
+      "Music",
+      "Music Review"
     ]
   },
   {
@@ -39,6 +78,47 @@
       "Rage Against the Machine",
       "Rock and Roll Hall of Fame",
       "St. Vincent"
+    ]
+  },
+  {
+    "id": "c6e740535f2464b3d9cb59af924dcd67d79c720d27d718751228b263b4f93959",
+    "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+    "summary": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the ground so far, putting only a small portion of the necessary satellites to challenge Starlink [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+    "published_at": "2026-11-15T16:05:02-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-16T00:10:34.214518+00:00",
+    "thin": false,
+    "author": "Terrence O’Brien",
+    "tags": [
+      "Amazon",
+      "News",
+      "Science",
+      "Space",
+      "Tech"
+    ]
+  },
+  {
+    "id": "144bc193a8b164c9edbcfa9b5a2e722e575fcc812f99395709ab56da11c0beb6",
+    "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+    "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes rumors that Jensen Huang might be trying to find a path back to CEO, [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+    "published_at": "2026-11-15T15:43:49-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-16T00:10:34.214700+00:00",
+    "thin": false,
+    "author": "Terrence O’Brien",
+    "tags": [
+      "AI",
+      "News",
+      "Nvidia",
+      "Policy",
+      "Politics",
+      "Tech"
     ]
   },
   {
@@ -2294,186 +2374,6 @@
       "News",
       "Tech",
       "Virtual Reality"
-    ]
-  },
-  {
-    "id": "f3ed612a7539f975d375c587421d3bc9958e8a23c2f427258eb56fd4e0926ca8",
-    "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
-    "summary": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the app to deliver AI-generated responses and insights based on users' health data reported from their [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
-    "published_at": "2026-11-10T16:40:31-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T01:00:04.419400+00:00",
-    "thin": false,
-    "author": "Stevie Bonifield",
-    "tags": [
-      "Business",
-      "Fitness",
-      "Gadgets",
-      "Health",
-      "News",
-      "Science",
-      "Tech",
-      "Wearable"
-    ]
-  },
-  {
-    "id": "f4e92e38b82529d69c9f30948c1eccd882225b3e8e3b94ae79e5828329fca2b8",
-    "title": "Sony cancels live-service shooter Fairgames",
-    "summary": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, including in the God of War and The Last of Us franchises, and it shut down [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
-    "published_at": "2026-11-10T16:06:12-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T01:00:04.419619+00:00",
-    "thin": false,
-    "author": "Jay Peters",
-    "tags": [
-      "Entertainment",
-      "Gaming",
-      "News",
-      "PlayStation"
-    ]
-  },
-  {
-    "id": "2c4c150f92a46758f72bc5542f58bbcb36b7990479656876137ca8a157d50035",
-    "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
-    "summary": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor",
-    "published_at": "2026-11-10T14:53:05+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/jensen_huang-1152x648.jpg",
-    "collection_timestamp": "2026-11-10T20:32:55.686588+00:00",
-    "thin": false,
-    "author": "Michael Acton, Financial Times",
-    "tags": [
-      "Tech",
-      "Jensen",
-      "NVIDIA",
-      "spying",
-      "syndication"
-    ]
-  },
-  {
-    "id": "c7f0197540f3e949337a39550e972d8e070cbfb30db02b2a212e0aecf62ed054",
-    "title": "The PlayStation Plus PC app is shutting down next month",
-    "summary": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, there aren't many people using that perk: \"With a very small number of eligible PlayStation Plus [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
-    "published_at": "2026-11-10T14:40:52-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-10T20:32:55.685085+00:00",
-    "thin": false,
-    "author": "Stevie Bonifield",
-    "tags": [
-      "Entertainment",
-      "Gaming",
-      "News",
-      "PC Gaming",
-      "PlayStation",
-      "Sony",
-      "Tech"
-    ]
-  },
-  {
-    "id": "ae4954caafc70067f893b6d9cd9e8d41015bd237a39856db5f27e55009054258",
-    "title": "Starlink Mini 2 adds a swappable battery",
-    "summary": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to some users on X who shared screenshots of invitations to order Starlink Mini 2, the dish is priced at $999, which includes [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
-    "published_at": "2026-11-10T14:19:12-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-10T20:32:55.685226+00:00",
-    "thin": false,
-    "author": "Andrew Liszewski",
-    "tags": [
-      "Gadgets",
-      "News",
-      "Science",
-      "Space",
-      "SpaceX",
-      "Tech"
-    ]
-  },
-  {
-    "id": "64e7db1eb81cdc5ebe8df9cf1defcff99b3a9a78f53f6e6db97832bab0c5731f",
-    "title": "The US is winning the AI race. Jensen Huang could have blown it",
-    "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-    "published_at": "2026-11-10T14:04:05-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-10T20:32:55.685363+00:00",
-    "thin": false,
-    "author": "Robert Hart",
-    "tags": [
-      "AI",
-      "Nvidia",
-      "Security",
-      "Tech"
-    ]
-  },
-  {
-    "id": "aa8e1ffe906e78eb6774cf67ce0b1f605617a41f580a8485edf7310e8895bec9",
-    "title": "Google’s Pixel Tag tracker is now available",
-    "summary": "After years of third-party Android trackers from companies like Samsung, Motorola, and Pebblebee, Google's Pixel Tag is now available for purchase. First announced in August, the Pixel Tag is designed to work with Google's tracking network and app that was renamed the Find Hub last year. The Pixel Tag is priced similar to Apple's AirTag [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
-    "published_at": "2026-11-10T14:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-10T20:32:55.685500+00:00",
-    "thin": false,
-    "author": "Andrew Liszewski",
-    "tags": [
-      "Gadgets",
-      "Google",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "60e0308a33c1472f40a6b14e270de4bf77a967220db1d95d2a64a144571ef251",
-    "title": "Google is making Pixel HiLight slightly more useful",
-    "summary": "Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: as part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure, it's a small addition to the disappointing ways you could use HiLight [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1031089/google-pixel-drop-november-2026-hilight",
-    "published_at": "2026-11-10T14:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-10T20:32:55.685623+00:00",
-    "thin": false,
-    "author": "Jay Peters",
-    "tags": [
-      "Google",
-      "Google Pixel",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "d33f69bfe7c33b599d95113c708d78c76d9f8803ecc1159546402d7ca50fdaeb",
-    "title": "One of our favorite multi-filament 3D printers is $100 off",
-    "summary": "If you’re tired of filament jams and clogged nozzles, perhaps it’s time for a new 3D printer. Through December 1st, the Bambu Lab P2S Combo, currently one of the best models that’s easy to use, is discounted. It’s $649 at Best Buy, as well as directly from Bambu Lab. That’s $100 off the list price [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1030970/bambu-p2s-combo-3d-printer-deal-sale",
-    "published_at": "2026-11-10T13:42:03-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-10T20:32:55.685756+00:00",
-    "thin": false,
-    "author": "Brad Bourque",
-    "tags": [
-      "Deals",
-      "Gadgets",
-      "Verge Shopping"
     ]
   }
 ]
