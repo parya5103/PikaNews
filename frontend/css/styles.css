@@ -2553,3 +2553,8 @@ body { font-size: 15.5px; line-height: 1.68; }
 @media (min-width: 1121px) {
   .mobile-menu-toggle { display: none; }
 }
+
+/* Keep the animated ticker clipped to the available viewport width. */
+.ticker { width: 100%; max-width: 100%; overflow-x: clip; contain: paint; }
+.ticker-inner { width: 100%; min-width: 0; }
+.ticker-viewport { width: 0; min-width: 0; flex: 1 1 0%; }
