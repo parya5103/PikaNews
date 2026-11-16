@@ -1,5 +1,53 @@
 [
   {
+    "id": "ec1c6d9d7156920396ea6ffdb81fd78404f9022ba279a6d2ea7a6eb9d7a6b554",
+    "title": "AI is reshaping banking jobs – but its ability to drive profits remains unclear",
+    "summary": "Europe's banks are using AI to cut routine work, redeploy staff and hire more technical talent.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/16/how-ai-is-changing-banking-jobs-hiring-and-revenue.html",
+    "published_at": "2026-11-16T06:20:55+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-16T07:02:25.962255+00:00",
+    "thin": false
+  },
+  {
+    "id": "dcc501b3dc495adffc0236fd02970e43b2d0fb21fc6586588465c4af9c37d418",
+    "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
+    "summary": "The talks are expected to focus on issues including nuclear non-proliferation, the Middle East war, trade policies and, possibly, the Ukraine war.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
+    "published_at": "2026-11-16T04:34:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-16T07:02:25.962053+00:00",
+    "thin": false
+  },
+  {
+    "id": "993772bbb678f0ee7b550d96744bff9f8f304444f8ae56a380053a5c8e3d60f6",
+    "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+    "summary": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+    "published_at": "2026-11-16T03:53:59+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-16T07:02:25.962165+00:00",
+    "thin": false
+  },
+  {
+    "id": "1a25176d2e1a5058f937a93ed71f1be475471f4aa9f9e9064ce6c0b2e47926b9",
+    "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+    "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+    "published_at": "2026-11-16T02:56:24+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-16T07:02:25.962354+00:00",
+    "thin": false
+  },
+  {
     "id": "c2e6cc7e0d3c348e74e7aab984df09793420557dad15cb2964887e9905e6bcb2",
     "title": "Japan's economy unexpectedly contracts for the first time in a year as third-quarter GDP shrinks 0.1%",
     "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
@@ -9,6 +57,18 @@
     "published_at": "2026-11-15T23:57:19+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-16T00:10:34.231552+00:00",
+    "thin": false
+  },
+  {
+    "id": "1b3ea38c68b6326c0bf3a0078cee776b4b9fa58815af0fa923d83b64099b76a6",
+    "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
+    "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+    "published_at": "2026-11-15T19:58:21+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-16T07:02:25.962491+00:00",
     "thin": false
   },
   {
@@ -45,6 +105,18 @@
     "published_at": "2026-11-15T18:10:18+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-15T20:08:30.061007+00:00",
+    "thin": false
+  },
+  {
+    "id": "0cb11df8d51394e600355875c140a18e8ce424a9622ecbbffec22868fcd8e522",
+    "title": "What I know and respect about Colette Kress, the person now leading Nvidia",
+    "summary": "Colette Kress is the steady hand that Nvidia needs in charge during this turbulent time.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/15/jim-cramer-nvidia-colette-kress-jensen-huang.html",
+    "published_at": "2026-11-15T17:14:17+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-16T07:02:25.962587+00:00",
     "thin": false
   },
   {
@@ -2077,42 +2149,6 @@
     "published_at": "2026-11-10T19:30:12+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-10T20:32:55.698340+00:00",
-    "thin": false
-  },
-  {
-    "id": "08a5c3cec8226051350da43430f0a2d59a638c8a1907bee5366197a5def9fc73",
-    "title": "Alphabet shares appear to have bottomed. How to play it for a quick rebound",
-    "summary": "After a brutal sell-off, Alphabet appears to be showing signs of a floor. Here's how to trade it with options",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/10/alphabet-shares-appear-to-have-bottomed-how-to-play-it-for-a-quick-rebound.html",
-    "published_at": "2026-11-10T18:15:24+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-10T20:32:55.698820+00:00",
-    "thin": false
-  },
-  {
-    "id": "5b3aa462724b5da36ba6b5a8d9d41a186747b78e17055feeba3c4dc353893b3e",
-    "title": "Credit card debt climbs to a record $1.29 trillion, New York Fed research finds",
-    "summary": "As high prices continue to strain household budgets, many consumers have turned to credit cards to help make ends meet.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/10/credit-card-debt-record.html",
-    "published_at": "2026-11-10T18:08:40+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-10T20:32:55.698488+00:00",
-    "thin": false
-  },
-  {
-    "id": "58dcc58e5f70f6fb9ee6ed43bfd10919c9c530b3dd1804e07289f633b6eab20e",
-    "title": "Pete Hegseth decries impeachment push, defends Iran war handling",
-    "summary": "GOP Rep. Thomas Massie, who has clashed with President Donald Trump, kicked off the Hegseth impeachment fight days after a blue wave midterm election.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
-    "published_at": "2026-11-10T17:48:47+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-10T20:32:55.698570+00:00",
     "thin": false
   }
 ]

@@ -1,5 +1,182 @@
 [
   {
+    "id": "b655c544bcaa69accc0959a86bf485b5768a795af86742d307d788db290d581a",
+    "title": "5 Funniest 'Peanuts' Comics About Dogs",
+    "summary": "These five comic strips starry Peanuts star Snoopy are all about the life of a dog",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/5-funniest-peanuts-comics-about-dogs",
+    "published_at": "2026-11-16T05:00:17+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/snoopy-snoopys-reunion.jpg",
+    "collection_timestamp": "2026-11-16T07:02:25.960929+00:00",
+    "thin": false,
+    "author": "Brian VanHooker",
+    "tags": [
+      "Polygon Lists",
+      "comic strip"
+    ]
+  },
+  {
+    "id": "0ac0341a510f56a81b4d021a97dc602967ac05b7bc6181c1c34d3db6982c1f39",
+    "title": "Netflix's Award-winning Dark Sci-fi Series is Officially Returning",
+    "summary": "Black Mirror's eighth season is currently in production for Netflix, with series creator Charlie Brooker returning to write and produce.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/black-mirror-season-8-update-netflix",
+    "published_at": "2026-11-16T04:20:17+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24610033/BM_FirstLook_7.jpg",
+    "collection_timestamp": "2026-11-16T07:02:25.961037+00:00",
+    "thin": false,
+    "author": "Elijah Gonzalez",
+    "tags": [
+      "News"
+    ]
+  },
+  {
+    "id": "0ec30ffd21ed089424ea038938ffffa8aa234dc7a0064105375ee3214984857a",
+    "title": "6 Upcoming Sci-Fi Movies, Ranked by Hype",
+    "summary": "Dune, Doom, and all the other theatrical sci-fi blockbusters headed to the big screen.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/upcoming-sci-fi-movies-ranked-by-hype",
+    "published_at": "2026-11-16T04:00:17+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/ray-gunn-brad-bird-3.jpg",
+    "collection_timestamp": "2026-11-16T07:02:25.961133+00:00",
+    "thin": false,
+    "author": "Ryan Epps",
+    "tags": [
+      "Polygon Lists",
+      "Movies",
+      "Avengers: Doomsday",
+      "Shiver",
+      "Star Wars: Starfighter",
+      "Ray Gunn",
+      "Dune: Part Three",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "id": "fd88ca100b7705ba132f153565cdda575ce906c26ce377a14408218ca1152385",
+    "title": "Marvel's Official Avengers: Doomsday Prep Launches on Nov. 18",
+    "summary": "Marvel revisits the Secret Wars event in new Incursion series with the X-Men and Fantastic Four ahead of Avengers: Doomsday",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/avengers-doomsday-marvel-comics-to-read-incursions-secret-wars",
+    "published_at": "2026-11-16T03:09:17+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/avengers_-doomsday-_-special-look-_-in-theaters-december-18-1-40-screenshot.jpg",
+    "collection_timestamp": "2026-11-16T07:02:25.961230+00:00",
+    "thin": false,
+    "author": "Willa Rowe",
+    "tags": [
+      "News",
+      "Avengers: Doomsday"
+    ]
+  },
+  {
+    "id": "3154bf1ba9259b321d7f5f8fc2bf2f993c021dc3a910a0b05528b5b1fbb29605",
+    "title": "All 10 Zelda: Ocarina of Time Bosses, Ranked From Worst to Best",
+    "summary": "Not all The Legend of Zelda: Ocarina of Time bosses are equal. We've ranked all boss fights by challenge, design, and excitement.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/legend-zelda-ocarina-time-bosses-ranked",
+    "published_at": "2026-11-16T02:49:38+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/zelda-ocarina-of-time-ganondorf-smirking.jpg",
+    "collection_timestamp": "2026-11-16T07:02:25.961324+00:00",
+    "thin": false,
+    "author": "Anthony Orlando",
+    "tags": [
+      "Polygon Lists",
+      "The Legend of Zelda: Ocarina of Time"
+    ]
+  },
+  {
+    "id": "4e65c71e419ea82864c99a6e1665ea8504552f0ba5cf610ab428470f05f48c65",
+    "title": "David Tennant Officially Returns to Doctor Who in 2027",
+    "summary": "David Tennant is reprising his role as the Tenth Doctor in a new 12-part audio drama series, Doctor Who — The Tenth Doctor and Rani .",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/doctor-who-david-tennant-returns-audio-drama-2027",
+    "published_at": "2026-11-16T02:01:18+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24138791/Screen_Shot_2022_10_25_at_10.11.48_AM.png",
+    "collection_timestamp": "2026-11-16T07:02:25.961436+00:00",
+    "thin": false,
+    "author": "Aimee Hart",
+    "tags": [
+      "News"
+    ]
+  },
+  {
+    "id": "bfadcfca0f677bc1b35815c6f4d9a3dd107bc733ca1218a233869c28440ebcbb",
+    "title": "Halo Defined a Generation of LAN Parties — Then It Killed Them",
+    "summary": "As Xbox and Halo turn 25, a look back at the chaotic LAN parties that made multiplayer unforgettable — and how Halo 2 helped make gathering optional.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/halo-combat-evolve-lan-party-memories",
+    "published_at": "2026-11-16T02:00:17+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/halo-2-map-pack-image.jpg",
+    "collection_timestamp": "2026-11-16T07:02:25.961568+00:00",
+    "thin": false,
+    "author": "Corey Plante",
+    "tags": [
+      "Opinion",
+      "Halo: Combat Evolved",
+      "xbox",
+      "Halo: Combat Evolved Anniversary",
+      "Halo"
+    ]
+  },
+  {
+    "id": "e6fc87a2dc6ffc7fc7033475febeebb453335af52a4448de27605af65015b8bf",
+    "title": "Extremely Rare Pokémon Game Found 20 Years Later",
+    "summary": "PSA Video Games confirms that a collector has unearthed a playable copy of PokéPark Fishing Rally DS, a previously lost piece of Pokémon history.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/pokemon-pokepark-fishing-rally-ds-found",
+    "published_at": "2026-11-16T00:59:53+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/pokemon-winds-and-waves-screen-wailord.png",
+    "collection_timestamp": "2026-11-16T07:02:25.961668+00:00",
+    "thin": false,
+    "author": "Ashely Claudino",
+    "tags": [
+      "Gaming",
+      "Pokemon"
+    ]
+  },
+  {
+    "id": "b4c32535dbb6761d53aa3b391ee01451fc2c33b9b9e1a48531a99df376dde926",
+    "title": "The 7 Best Star Wars: Galactic Racer Replacements You Can Play Right Now",
+    "summary": "Star Wars: Galactic Racer has no exact replicas, but there are plenty of obvious influences. Here are the best games like Star War: Galactic Racer.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/best-games-like-star-wars-galactic-racer",
+    "published_at": "2026-11-16T00:58:15+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/star-wars-galactic-racer-story-trailer-screenshot.jpg",
+    "collection_timestamp": "2026-11-16T07:02:25.961776+00:00",
+    "thin": false,
+    "author": "Oli Welsh",
+    "tags": [
+      "Polygon Lists",
+      "Star Wars: Galactic Racer"
+    ]
+  },
+  {
+    "id": "10b7535dc15a4f83669a9bde8a91c688afd3b54f0f9f49ea065a3869fa1bfb50",
+    "title": "10 Most Underrated RPGs of the Past Decade",
+    "summary": "Some stellar RPGs have arrived over the last decade, but their brilliance made 10 absolute gems easy to miss.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/most-underrated-new-rpgs",
+    "published_at": "2026-11-16T00:50:58+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/08/trails-in-the-sky-first-chapter-demo.jpg",
+    "collection_timestamp": "2026-11-16T07:02:25.961863+00:00",
+    "thin": false,
+    "author": "Jason Venter",
+    "tags": [
+      "Polygon Lists",
+      "Clair Obscur: Expedition 33"
+    ]
+  },
+  {
     "id": "c5ed3192215c70855390f4919db9965b17c1a72e7dd46bac4e35c23b6d46e314",
     "title": "5 Brilliant Books To Read Before Kicking the Bucket",
     "summary": "Add these five picks to your ever-expanding list of “must-read” books.",
@@ -3293,181 +3470,6 @@
     "tags": [
       "Opinion",
       "The Legend of Zelda: Ocarina of Time"
-    ]
-  },
-  {
-    "id": "e2842086d4c731fdd77a6ccc4ed8f82f143aa2680733b30ce5f506eebc38e82c",
-    "title": "Valve Is Giving You More Ways To Know If A Game Runs Well On Steam Deck",
-    "summary": "Valve's Steam Deck verification program has been a helpful, if somewhat flawed, method of determining if a game is a good fit for the company's handheld PC. But while many games might be granted a \"Verified\" badge, there have been many cases where real-world performance doesn't live up to the expectation of players. That's why Valve has introduced a more nuanced way for you to determine if a game is a good fit for the Steam Deck. Along with the Steam Deck verification status, games will now feat",
-    "category": "gaming",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/valve-is-giving-you-more-ways-to-know-if-a-game-runs-well-on-steam-deck",
-    "published_at": "2026-11-10T19:07:47+00:00",
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/2e7f9079b6be9a3c99c5014fc1ee0eaede8d5edb.jpg",
-    "collection_timestamp": "2026-11-10T20:32:55.687410+00:00",
-    "thin": false,
-    "author": "Alessandro Barbosa",
-    "tags": [
-      "Gaming,News"
-    ]
-  },
-  {
-    "id": "0a3b936568c33d04599d21ef5b16298c808af29912ff82f3a7f47b02245c1bcd",
-    "title": "2027's Most Stylish Action Game Looks Spectacular in First Official Gameplay",
-    "summary": "Tsarevna is an upcoming hack-and-slash action game that uses motion capture from a real ballerina for its dance-inspired melee combat.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/tsarevna-official-gameplay-trailer-dancer-slasher-game",
-    "published_at": "2026-11-10T19:07:20+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/tsarevna-screenshot.jpg",
-    "collection_timestamp": "2026-11-10T20:32:55.697080+00:00",
-    "thin": false,
-    "author": "Austin Manchester",
-    "tags": [
-      "News",
-      "PC"
-    ]
-  },
-  {
-    "id": "1a4d525997f68e34b9b1a37d0163532699711a74027b41e09d7000d89dc92d75",
-    "title": "WoW: Forever Just Received Its First Big Post-Launch Changes",
-    "summary": "World of Warcraft: Forever received its first post-launch updates over the weekend, giving players a good reason to run each dungeon more than once alongside upcoming class tweaks. On November 8, developer Blizzard issued a hotfix that increased kill experience while in dungeons by 50%. According to the forum post , Blizzard said this is so it \"feels better to go back for more runs,\" and made reference to a Wailing Caverns dungeon quest to collect Deviate Hides that often requires more than one",
-    "category": "gaming",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/wow-forever-just-received-its-first-big-post-launch-changes",
-    "published_at": "2026-11-10T19:03:44+00:00",
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-First-Post-Launch-Changes.jpg",
-    "collection_timestamp": "2026-11-10T20:32:55.688158+00:00",
-    "thin": false,
-    "author": "Cameron Koch",
-    "tags": [
-      "Gaming,News"
-    ]
-  },
-  {
-    "id": "1afa6356904a64b208189cdc4bdec3c294d58db1ed84acbc36e3184e73b464fb",
-    "title": "How to unlock Fire Arrows in Zelda Ocarina of Time",
-    "summary": "Here's how to unlock fire arrows in The Legend of Zelda: Ocarina of Time remake and the prerequisites you must meet.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-fire-arrow-how-to-unlock",
-    "published_at": "2026-11-10T19:02:49+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/fire-arrow_oot.jpg",
-    "collection_timestamp": "2026-11-10T20:32:55.697257+00:00",
-    "thin": false,
-    "author": "Paulo Kawanishi",
-    "tags": [
-      "Guides",
-      "The Legend of Zelda: Ocarina of Time"
-    ]
-  },
-  {
-    "id": "475dfa89de4636b7d649a555d0fb690d4ea51cb61949de3385d22f660dcd1394",
-    "title": "Monopoly Unveils Steamy ‘Heated Rivalry’ Edition With 17+ Rating",
-    "summary": "Get ready for a spicy version of the classic real-estate board game",
-    "category": "gaming",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/product-recommendations/lifestyle/heated-rivalry-monopoly-board-game-photos-buy-online-1235655203",
-    "published_at": "2026-11-10T18:53:29+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-10T20:32:55.683423+00:00",
-    "thin": false,
-    "author": "Tim Chan",
-    "tags": [
-      "Lifestyle",
-      "RS Recommends",
-      "Games",
-      "heated rivalry",
-      "noads"
-    ]
-  },
-  {
-    "id": "a076bd69bb4d24f97b431f78a357377d62575482fe9349b4453febed29d5913a",
-    "title": "Target's New 'Pokémon' 30th Anniversary Drawing Is A Must-See For TCG Fans",
-    "summary": "Target is raffling Ascended Heroes & the best Pokémon TCG set of 2026 for a limited time, and it's a good deal when you break down cost-per-pack",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/target-pokemon-drawing-30th-anniversary-booster-bundle-tcg-how-to-enter",
-    "published_at": "2026-11-10T18:23:18+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24836298/pikachu_artwork.jpg",
-    "collection_timestamp": "2026-11-10T20:32:55.697360+00:00",
-    "thin": false,
-    "author": "Patricia Hernandez",
-    "tags": [
-      "News",
-      "Pokemon",
-      "Pokemon Trading Card Game"
-    ]
-  },
-  {
-    "id": "38fdc72f7f71b3f4bd800fd110da849d89ba5d85774c554c582fc43393e2bba4",
-    "title": "PlayStation Plus November Games Lineup Officially Announced, Includes Death Stranding 2",
-    "summary": "PlayStation adds new games each month to its PS Plus Games Catalog for subscribers to enjoy. Here's what Extra/Premium users get in November 2026.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/ps-plus-game-catalog-november-2026-update-death-stranding-2",
-    "published_at": "2026-11-10T18:19:38+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/06/death-stranding-2-porter-grade-stats.jpg",
-    "collection_timestamp": "2026-11-10T20:32:55.697465+00:00",
-    "thin": false,
-    "author": "Austin Manchester",
-    "tags": [
-      "News",
-      "PlayStation",
-      "Death Stranding 2: On the Beach",
-      "Like a Dragon: Pirate Yakuza in Hawaii"
-    ]
-  },
-  {
-    "id": "dbc2a5f7c2c6a8d5295a04f8ac4b5adc786fd529edb49f6dbc009d26860ce6fb",
-    "title": "Costco’s New 'Pokémon' 30th Anniversary Bundle Is An Unbelievable Deal",
-    "summary": "Pokémon TCG collectors can nab a 30th Anniversary ETB and Booster Bundle cheaper than at Target, Walmart, and Best Buy",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/costco-pokemon-30th-anniversary-etb-booster-bundle-stock-price-when-locations",
-    "published_at": "2026-11-10T18:18:00+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/pikachu-025-thumbnail.jpg",
-    "collection_timestamp": "2026-11-10T20:32:55.697567+00:00",
-    "thin": false,
-    "author": "Patricia Hernandez",
-    "tags": [
-      "News",
-      "Pokemon",
-      "Pokemon Trading Card Game"
-    ]
-  },
-  {
-    "id": "ce0ed47a0b521bbdac8884df14e5fe8ab363275fb02da1e0744b022597073a2b",
-    "title": "Doomsday Officially Comes to Marvel Rivals With an X-Men Icon",
-    "summary": "Marvel Rivals announced its next two heroes coming to Season 11.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/marvel-rivals-new-heroes-nightcrawler-dracula-season-11",
-    "published_at": "2026-11-10T18:12:27+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/marvel-rivals-season-10-5-release-time.jpg",
-    "collection_timestamp": "2026-11-10T20:32:55.697648+00:00",
-    "thin": false,
-    "author": "Elijah Gonzalez",
-    "tags": [
-      "Gaming",
-      "Marvel Rivals",
-      "Avengers: Doomsday"
-    ]
-  },
-  {
-    "id": "13f7e4a55fad75601f8e7351517037cec0edefbc3602e5c94df6edf586e3c5fd",
-    "title": "Take-Two Boss Says Ocarina Of Time Is “Terrific,” But Is It Competing With GTA 6?",
-    "summary": "Take-Two boss Strauss Zelnick has reacted to the release of Nintendo's recent Switch 2 remake of The Legend of Zelda: Ocarina of Time . He said the game is \"terrific\" and that Nintendo should be \"very proud of the title.\" But is it a competitor to GTA 6 , which hails from Take-Two's Rockstar Games? Zelnick told GamesBeat that in the entertainment business, \"You compete against everything and nothing.\" Everything, he said, because consumers have so many choices about how to spend their time and m",
-    "category": "gaming",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/take-two-boss-says-ocarina-of-time-is-terrific-but-is-it-competing-with-gta-6",
-    "published_at": "2026-11-10T16:49:21+00:00",
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/ocarinaoftimeremake-1.png",
-    "collection_timestamp": "2026-11-10T20:32:55.690492+00:00",
-    "thin": false,
-    "author": "Eddie Makuch",
-    "tags": [
-      "Gaming,News"
     ]
   }
 ]
