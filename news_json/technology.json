@@ -1,5 +1,153 @@
 [
   {
+    "id": "08f31b058b59a2f1af7588beaca135c1be6ae36d5a76fbef3ae92e917b2d3ef1",
+    "title": "T-Mobile Is Offering the iPhone Duo for $1,200 Off",
+    "summary": "The latest offer comes amid high demand for Apple’s first foray into the foldable market",
+    "category": "technology",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/product-recommendations/tech/t-mobile-iphone-duo-deal-1235659171",
+    "published_at": "2026-11-17T00:00:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T00:57:08.423855+00:00",
+    "thin": false,
+    "author": "Jonathan Zavaleta",
+    "tags": [
+      "RS Recommends",
+      "Tech",
+      "Apple",
+      "noads",
+      "tech"
+    ]
+  },
+  {
+    "id": "b4785dff91115dab33530664af247940155c92c3b7d246d89c10289296f10fc7",
+    "title": "Priscilla Presley Scores Partial Win Over Fraud Suit, But Claims About Lisa Marie’s Death Can Stand",
+    "summary": "A judge tossed four claims from a memorabilia dealer’s fraud lawsuit against Priscilla Presley on Monday, but said allegations the court called “gratuitous and mean-spirited” can remain",
+    "category": "technology",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/priscilla-presley-fraud-lawsuit-lisa-marie-death-1235659137",
+    "published_at": "2026-11-16T22:18:58+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T00:57:08.424412+00:00",
+    "thin": false,
+    "author": "Nancy Dillon",
+    "tags": [
+      "Music",
+      "Music News",
+      "controversy",
+      "courts and crime",
+      "Elvis",
+      "Lisa Marie Presley",
+      "Priscilla Presley"
+    ]
+  },
+  {
+    "id": "481ae9b2db250792de2c2037889606da1a3aadb772b75970038033629d799cb5",
+    "title": "Three small failures combined to take down Microsoft 365",
+    "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage",
+    "published_at": "2026-11-16T21:56:39+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage.jpg",
+    "collection_timestamp": "2026-11-17T00:57:08.432699+00:00",
+    "thin": false,
+    "author": "Nick Indge",
+    "tags": [
+      "Tech",
+      "Cloud Gateway",
+      "Exchange Online",
+      "microsoft",
+      "microsoft 365",
+      "Windows"
+    ]
+  },
+  {
+    "id": "6c7d9eea72880d2b136f646d0047b66b91a34c6063bce5f83741de4489c11e80",
+    "title": "OpenAI Slapped By California AG For “Unfair & Unsafe Practices”; Sam Altman-Run Tech Firm Accuses State Of Improperly Singling Out Company",
+    "summary": "Already facing a Hollywood supported lawsuit from the New York Times, plus more legal actions by the state of Texas, a collection of non-profits, and a wrongful death case, OpenAI now will have to go up against the state of California in court. &#8220;Government intervention is necessary to stop OpenAI’s unfair and unsafe practices and [&#8230;]",
+    "category": "technology",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/openai-sued-by-california-1237225599",
+    "published_at": "2026-11-16T21:02:58+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Sam-Altman-openai-california-flag.jpg",
+    "collection_timestamp": "2026-11-17T00:57:08.419611+00:00",
+    "thin": false,
+    "author": "Dominic Patten",
+    "tags": [
+      "Legal",
+      "News",
+      "Politics",
+      "Artificial Intellegence",
+      "CAA",
+      "California",
+      "Donald Trump",
+      "ElectionLine",
+      "OpenAI",
+      "Rob Bonta",
+      "Robert De Niro",
+      "Sam Altman",
+      "technology",
+      "WME"
+    ]
+  },
+  {
+    "id": "9b95eec2fe639fc3bc66dd5d41dd5a5b9bc0b8265362dce8571a3f4fd8f75219",
+    "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+    "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). Kurtaj, who is now 21, hacked BT/EE sometime between August and November 2021, and starting in early November [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+    "published_at": "2026-11-16T18:35:58-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T00:57:08.430406+00:00",
+    "thin": false,
+    "author": "Jay Peters",
+    "tags": [
+      "Entertainment",
+      "Gaming",
+      "News"
+    ]
+  },
+  {
+    "id": "74f3cade31189ed70bc9ba1efa512164433803e25c8f948626710b6af342364c",
+    "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+    "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO. At the [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+    "published_at": "2026-11-16T18:17:34-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T00:57:08.430666+00:00",
+    "thin": false,
+    "author": "Emma Roth",
+    "tags": [
+      "AI",
+      "News",
+      "Nvidia",
+      "Policy",
+      "Tech"
+    ]
+  },
+  {
+    "id": "ae80ab4cf296890f09f3e97d6dd42069ea392e88b12f6f54d5d92a535c472e2f",
+    "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+    "summary": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. The airline has said it is working to get things up and running again as quickly as possible, but without much detail about the [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+    "published_at": "2026-11-16T17:54:59-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T00:57:08.430895+00:00",
+    "thin": false,
+    "author": "Richard Lawler",
+    "tags": [
+      "Mass Transit",
+      "News",
+      "Transportation"
+    ]
+  },
+  {
     "id": "eee5e521441762ee6a39ec61c7d636dde343f9353a5ea417fb1c4567b92554e5",
     "title": "Ubisoft Massive Entertainment Boss Christoph Hartmann on His Amazon Games Exit and Turning ‘Splinter Cell’ Studio Into ‘A24 of Video Gaming’ (EXCLUSIVE)",
     "summary": "Former Amazon Games chief Christoph Hartmann has been at the helm at Ubisoft&#8217;s Massive Entertainment for five months and he&#8217;s now prepared to share his early vision for the future of the label behind Tom Clancy’s “The Division,” “Ghost Recon” and “Splinter Cell.” Those staple Ubisoft franchises, along with new IP “March of Giants,” a [&#8230;]",
@@ -15,6 +163,129 @@
       "News",
       "Christoph Hartmann",
       "Ubisoft"
+    ]
+  },
+  {
+    "id": "68abf326513d94e8b47710e75d58d2c7315eccbda697547b64dae605221c8369",
+    "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
+    "summary": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive followings with content focused on chemical biohacking. Were it not for steroid-obsessed influencers like Anthony \"Tony Huge\" Hughes launching YouTube channels over a decade [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
+    "published_at": "2026-11-16T16:41:57-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T00:57:08.431153+00:00",
+    "thin": false,
+    "author": "Charles Pulliam-Moore",
+    "tags": [
+      "Creators",
+      "Entertainment",
+      "Film",
+      "Health",
+      "Hulu",
+      "Science",
+      "Streaming",
+      "Tech"
+    ]
+  },
+  {
+    "id": "b9e8e8c4270460afa86762a0dea6daf9d927f31117520f9eae4219cae7a6d662",
+    "title": "California sues OpenAI over rogue AI hacking incidents",
+    "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+    "published_at": "2026-11-16T15:46:01-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T00:57:08.431397+00:00",
+    "thin": false,
+    "author": "Emma Roth",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI",
+      "Policy",
+      "Politics"
+    ]
+  },
+  {
+    "id": "f68ff00da78cb7f96269dc1bb5241009e89846f5f90ca43dc3cdecf5bcf0c729",
+    "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+    "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+    "published_at": "2026-11-16T15:41:28-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T00:57:08.431609+00:00",
+    "thin": false,
+    "author": "Stevie Bonifield",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI",
+      "Tech"
+    ]
+  },
+  {
+    "id": "a726d3b20ed23ece977637ad7ea3ba7f954e0b529a45ae1d0215d6fcfe57bb5e",
+    "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+    "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he addressed the blue wave. \"I do think we've [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+    "published_at": "2026-11-16T15:29:37-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T00:57:08.432075+00:00",
+    "thin": false,
+    "author": "Ellen Thomas",
+    "tags": [
+      "AI",
+      "Energy",
+      "Policy",
+      "Science"
+    ]
+  },
+  {
+    "id": "9c738d209a07fdd8929e06aa3784a9ef9a0d8325e391b8676a735f39bab1fe9e",
+    "title": "US data centers now burn more electricity than a midsized country",
+    "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. The study homes in on hyperscale facilities - the [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+    "published_at": "2026-11-16T15:27:58-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T00:57:08.432309+00:00",
+    "thin": false,
+    "author": "Justine Calma",
+    "tags": [
+      "AI",
+      "Climate",
+      "Energy",
+      "Environment",
+      "Science"
+    ]
+  },
+  {
+    "id": "01e85cf27910752781a00f93f857b5e00f28eceba9c29cb2e9cfb807e22f0542",
+    "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+    "summary": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $329 at Amazon, Best Buy, and Walmart, beating the October Prime Day [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+    "published_at": "2026-11-16T14:50:47-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T00:57:08.432533+00:00",
+    "thin": false,
+    "author": "Sheena Vasani",
+    "tags": [
+      "Apple",
+      "Black Friday",
+      "Cyber Monday",
+      "Deals",
+      "Gadgets",
+      "Tech",
+      "Verge Shopping"
     ]
   },
   {
@@ -2220,279 +2491,6 @@
       "Physics",
       "quantum computing",
       "quantum mechanics"
-    ]
-  },
-  {
-    "id": "1abe91d0da0253b42e8ba6304a576ca370d54c10158f4fcfcb89a1658e1ac2f8",
-    "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
-    "summary": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers into spending more of their time and money online, [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
-    "published_at": "2026-11-11T13:13:52-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T22:28:36.027369+00:00",
-    "thin": false,
-    "author": "Jess Weatherbed",
-    "tags": [
-      "News",
-      "Policy",
-      "Politics",
-      "Regulation",
-      "Social Media",
-      "Tech"
-    ]
-  },
-  {
-    "id": "0c8fdaaddcaa9fe6c52e68e23d81decf9f075f032e973787fbe1ce696c1c09b5",
-    "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
-    "summary": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style kei truck built in Indiana. Kei vehicles, which are built to satisfy Japan's light vehicle regulations, are enjoying [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
-    "published_at": "2026-11-11T12:09:58-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T22:28:36.027610+00:00",
-    "thin": false,
-    "author": "Andrew J. Hawkins",
-    "tags": [
-      "Cars",
-      "News",
-      "Toyota",
-      "Transportation"
-    ]
-  },
-  {
-    "id": "ac83ac3d6915411e3ad9e1dc5f534114bf7221d179f2bdb66490842d10923bd4",
-    "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-    "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like Asana and Monday, but with a built-in AI feature that allows you to vibecode personalized interactive tools by describing [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-    "published_at": "2026-11-11T11:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T22:28:36.027866+00:00",
-    "thin": false,
-    "author": "Jess Weatherbed",
-    "tags": [
-      "AI",
-      "Google",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "e7227f7e7cd3197f88b65c0750c2549b5ec736f0e27af17361b8b53d0e33138a",
-    "title": "The best early Black Friday deals you can already shop",
-    "summary": "The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn&#8217;t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn&#8217;t necessarily mean you&#8217;re getting a historically low [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-    "published_at": "2026-11-11T10:53:55-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T22:28:36.028100+00:00",
-    "thin": false,
-    "author": "Sheena Vasani",
-    "tags": [
-      "Black Friday",
-      "Cyber Monday",
-      "Deals",
-      "Gadgets",
-      "Verge Shopping"
-    ]
-  },
-  {
-    "id": "b2a04f8592ae4a9143e8fc5cd682a2f78b455e21403e700d2748ff8acbffa2ff",
-    "title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
-    "summary": "Looking for a MacBook and device charger that’s as stylish as it is capable? Both Amazon and Sharge are selling the Pixel 140W GaN charger for $69.88 and $69.90, respectively, a $24 discount on its usual price. If you’re not in need of that much wattage but like the style, Sharge is also selling the [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale",
-    "published_at": "2026-11-11T10:30:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T15:51:04.853894+00:00",
-    "thin": false,
-    "author": "Brad Bourque",
-    "tags": [
-      "Deals",
-      "Gadgets",
-      "Verge Shopping"
-    ]
-  },
-  {
-    "id": "7a63cf23acfa8be22b5127704fe58b63b684d417fbd83112a2616c9f3a10600d",
-    "title": "Ocarina of Time is even better if you use a smartphone app",
-    "summary": "I never liked hunting for Golden Skulltulas in The Legend of Zelda: Ocarina of Time. The game has 100 of them tucked all over Hyrule, and even over my many hours with the N64 classic growing up, I can't remember ever actually finding all of them, or even wanting to. Jumping into the Ocarina of [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula",
-    "published_at": "2026-11-11T10:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T15:51:04.854125+00:00",
-    "thin": false,
-    "author": "Jay Peters",
-    "tags": [
-      "Entertainment",
-      "Gaming",
-      "News",
-      "Nintendo"
-    ]
-  },
-  {
-    "id": "64b79e635195f0f5ecca629e610529570f9540f23bea91ee8802ecb30639b092",
-    "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-    "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-    "published_at": "2026-11-11T10:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T15:51:04.854381+00:00",
-    "thin": false,
-    "author": "Robert Hart",
-    "tags": [
-      "AI",
-      "Google",
-      "Health",
-      "Science",
-      "Tech"
-    ]
-  },
-  {
-    "id": "2ee3c411e50808e0b465c5a297a082867aa6e61fdfd7f7c2612e8d6f49546738",
-    "title": "Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price",
-    "summary": "It's tempting to seek out the do-everything wireless gaming headset with noise cancellation, phenomenal sound quality, multiplatform connectivity, swappable batteries - you name it. But if you just want the basics done well, Sony's new $99.99 PlayStation Pulse headset is worth considering. It has very good sound and just enough extras, even if you use [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on",
-    "published_at": "2026-11-11T09:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T15:51:04.854629+00:00",
-    "thin": false,
-    "author": "Cameron Faulkner",
-    "tags": [
-      "Gaming",
-      "Hands-on",
-      "PlayStation",
-      "Reviews",
-      "Tech"
-    ]
-  },
-  {
-    "id": "e9efc8b08b745fa087e018b3a86e02763ef29a31d051d128f0caec56bacf7cf2",
-    "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-    "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
-    "published_at": "2026-11-11T09:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T15:51:04.854869+00:00",
-    "thin": false,
-    "author": "Jess Weatherbed",
-    "tags": [
-      "Adobe",
-      "AI",
-      "Creators",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "62404f8aa7de944811d0a6ce7b98d96b30a53e110225de1b2325084581c78d2b",
-    "title": "Streaming is still trying to be TikTok",
-    "summary": "At Skydance's first employee town hall after it acquired Warner Bros. Discovery in October, CEO David Ellison told staff that the company behind Paramount Plus and HBO Max was competing for people's attention with some of the world's biggest tech companies. Months earlier, he'd singled out a way to get viewers to spend more time [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/streaming/1030864/streaming-skydance-paramount-disney-hulu-earnings-tiktok-short-form-video",
-    "published_at": "2026-11-11T08:30:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T15:51:04.855085+00:00",
-    "thin": false,
-    "author": "Rani Molla",
-    "tags": [
-      "Disney",
-      "HBO",
-      "Hulu",
-      "Netflix",
-      "Streaming",
-      "YouTube"
-    ]
-  },
-  {
-    "id": "a5166b35cb34ef9b6a79798e0bc792e2638b6d50d1f49b08d7d9f106201fcafb",
-    "title": "I asked every TV manufacturer 17 questions about how they spy on you",
-    "summary": "Every TV company is spying on you, not just LG. Like other tech companies, they collect lots of information, and while some is necessary for products to work, not all of it is - and could include details you'd prefer to keep private. Many customers are concerned about how TVs and streaming devices might be [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
-    "published_at": "2026-11-11T08:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T15:51:04.855296+00:00",
-    "thin": false,
-    "author": "John Higgins",
-    "tags": [
-      "Gadgets",
-      "Privacy",
-      "Tech",
-      "TVs"
-    ]
-  },
-  {
-    "id": "7a04414ebc25a23fa2210dd55535915d9c0d2c06989b9fe2f684f8352fbb4409",
-    "title": "Not everyone is loving their new iPhone Duo",
-    "summary": "For most new relationships, two weeks probably isn't enough time to decide if you're ready for long-term commitment. But two weeks with a new phone? You probably know. The iPhone Duo launched just over two weeks ago, and that's been enough time for a subset of day-one buyers who aren't loving the phone to make [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1030398/iphone-duo-returns-screen-apps",
-    "published_at": "2026-11-11T08:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T15:51:04.855519+00:00",
-    "thin": false,
-    "author": "Allison Johnson",
-    "tags": [
-      "Apple",
-      "iPhone",
-      "Mobile",
-      "Tech"
-    ]
-  },
-  {
-    "id": "03c4b47a612c0400c6b7c953e43a77735f34d68f0fc503141ba9b6d44849f09b",
-    "title": "Serve Robotics wants to democratize sidewalk delivery robots",
-    "summary": "Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Portal, enabling third-party software engineers, independent businesses, and even autonomous AI agents to access its fleet of 2,000 sidewalk robots. With this new capability, [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
-    "published_at": "2026-11-11T07:30:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T15:51:04.855753+00:00",
-    "thin": false,
-    "author": "Andrew J. Hawkins",
-    "tags": [
-      "Food",
-      "Robot",
-      "Science",
-      "Tech",
-      "Transportation"
-    ]
-  },
-  {
-    "id": "89db2b1d321333ea74950e09ce2f538bb368cddb12d1d25223a73d1dd9c72c10",
-    "title": "Apple is killing its Support Community forum next week",
-    "summary": "It's the end of the road for the Apple Support Community. The dedicated discussion forum, which gave Apple users a place to exchange advice, troubleshoot, and generally chat about Apple products, has been placed into read-only mode, with a message from the company announcing that the Support Community will shut down for good on November [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
-    "published_at": "2026-11-11T07:19:10-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T15:51:04.855966+00:00",
-    "thin": false,
-    "author": "Jess Weatherbed",
-    "tags": [
-      "Apple",
-      "News",
-      "Tech"
     ]
   }
 ]
