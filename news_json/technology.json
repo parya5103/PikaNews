@@ -1,5 +1,49 @@
 [
   {
+    "id": "e98f0ff4787e05de780171c53e43e8a1c85994501b844e448644fa95b7473f24",
+    "title": "Late-Night Hosts Take Aim at Trump’s Reaction to the FAA Shutdown",
+    "summary": "\"Hey, you know what fail safe program we should design our aviation system to mirror? Christmas lights!\"",
+    "category": "technology",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/late-night-hosts-faa-shutdown-donald-trump-sean-duffy-1235659476",
+    "published_at": "2026-11-17T07:54:08+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T08:53:28.132886+00:00",
+    "thin": false,
+    "author": "Emily Zemler",
+    "tags": [
+      "TV & Movies",
+      "TV & Movies News",
+      "Donald Trump",
+      "FAA",
+      "Jimmy Fallon",
+      "Jimmy Kimmel",
+      "Jimmy Kimmel Live",
+      "Jon Stewart",
+      "Late-Night TV",
+      "Sean Duffy",
+      "Seth Meyers",
+      "The Daily Show",
+      "The Tonight Show"
+    ]
+  },
+  {
+    "id": "9218d56aaa602dbaa8cbf100c72a614224ba76862e22c2ce190d8040a832131d",
+    "title": "\"They Never Even Unpacked the Racks\": Police Raid on Nvidia Partner Megaspeed Finds Empty Server Frames and Missing H100 GPUs Amid Allegations Chips Were Flown to China During Retail Shortages",
+    "summary": "&#32; submitted by &#32; /u/chusskaptaan &#32; to &#32; r/pcmasterrace [link] &#32; [comments]",
+    "category": "technology",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/pcmasterrace/comments/1xybg6e/they_never_even_unpacked_the_racks_police_raid_on",
+    "published_at": "2026-11-17T04:48:39+00:00",
+    "image_url": "https://external-preview.redd.it/l2YpdNCCiL5raZhKQ5RttSLpKhtpqVYk_0KYFqnxZWo.jpeg",
+    "collection_timestamp": "2026-11-17T08:53:28.153498+00:00",
+    "thin": false,
+    "author": "/u/chusskaptaanhttps://www.reddit.com/user/chusskaptaan",
+    "tags": [
+      "pcmasterrace"
+    ]
+  },
+  {
     "id": "08f31b058b59a2f1af7588beaca135c1be6ae36d5a76fbef3ae92e917b2d3ef1",
     "title": "T-Mobile Is Offering the iPhone Duo for $1,200 Off",
     "summary": "The latest offer comes amid high demand for Apple’s first foray into the foldable market",
@@ -2391,106 +2435,6 @@
       "Tech",
       "Jensen Huang",
       "NVIDIA"
-    ]
-  },
-  {
-    "id": "da16741aa396158ba47abf98b64d1ea7bc62e33b2ceb9028067137d0f49beaad",
-    "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-    "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-    "published_at": "2026-11-11T17:44:36-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T03:17:43.382337+00:00",
-    "thin": false,
-    "author": "Lauren Feiner",
-    "tags": [
-      "AI",
-      "Business",
-      "News",
-      "Nvidia",
-      "Policy",
-      "Politics",
-      "Tech"
-    ]
-  },
-  {
-    "id": "6951485adba2ce06162a812c7df5bd48fa906f73b0498f385d156a042aa9158c",
-    "title": "Apple is shuttering its 28-year-old online community forum",
-    "summary": "Apple has already made the forum read-only.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum",
-    "published_at": "2026-11-11T17:04:26+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1560398364-966x648.jpg",
-    "collection_timestamp": "2026-11-11T22:28:36.028315+00:00",
-    "thin": false,
-    "author": "Scharon Harding",
-    "tags": [
-      "Apple",
-      "Tech"
-    ]
-  },
-  {
-    "id": "fc118ea4c42326aa2bd7236b510573cc32a560e4d51f828354360e1669d4f1d8",
-    "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
-    "summary": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly. And it's working. I've been testing the [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
-    "published_at": "2026-11-11T17:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T22:28:36.026884+00:00",
-    "thin": false,
-    "author": "Nathan Edwards",
-    "tags": [
-      "Reviews",
-      "Smart Home",
-      "Smart Home Reviews",
-      "Tech"
-    ]
-  },
-  {
-    "id": "fad3ef4c77c1023729ef037b11873f1332dd6dd7e970af7af7d617a3fe58d4cb",
-    "title": "United won’t let your AI agent book your flight",
-    "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-    "published_at": "2026-11-11T16:54:21-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T22:28:36.027131+00:00",
-    "thin": false,
-    "author": "Lauren Feiner",
-    "tags": [
-      "AI",
-      "Meta",
-      "News",
-      "OpenAI",
-      "Tech"
-    ]
-  },
-  {
-    "id": "1e0f1d13c9bcd60a7c4bccdf3f4ed2f13c7f021bec9e8eff5bc6f2ef6b70ba88",
-    "title": "IBM to offer access to a dual-processor quantum system in 2027",
-    "summary": "The company plans on linking two 520-qubit chips before next year is over.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027",
-    "published_at": "2026-11-11T16:33:08+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison-1152x648.jpg",
-    "collection_timestamp": "2026-11-11T22:28:36.028487+00:00",
-    "thin": false,
-    "author": "John Timmer",
-    "tags": [
-      "Science",
-      "Tech",
-      "Computer science",
-      "ibm",
-      "Physics",
-      "quantum computing",
-      "quantum mechanics"
     ]
   }
 ]

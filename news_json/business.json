@@ -1,5 +1,53 @@
 [
   {
+    "id": "f8c5f19d1c07e4317b94354b33f4597e7d842900226d7a777eb14fdd318de70f",
+    "title": "Treasury yields are broadly flat as investors await retail sales data",
+    "summary": "U.S. Treasury yields were little changed on Tuesday morning as investors awaited economic data and comments from Federal Reserve officials later in the session.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html",
+    "published_at": "2026-11-17T08:23:51+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T08:53:28.142321+00:00",
+    "thin": false
+  },
+  {
+    "id": "53243ba9b6499ffeedc34c279ac8b87dbc6246ab877ce4686734d77a1b0b30f2",
+    "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+    "summary": "The U.S. Commerce Department is making moves to tighten export controls.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
+    "published_at": "2026-11-17T07:07:35+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T08:53:28.142137+00:00",
+    "thin": false
+  },
+  {
+    "id": "cea977bff07e618d166fc726173d37672607ebe8bb97e42340741128d6430b3d",
+    "title": "U.S. agencies say they initiated investigation into Nvidia partner Megaspeed in 2024",
+    "summary": "The Commerce and Justice departments said in a joint statement that U.S. investigations into Megaspeed began in 2024.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html",
+    "published_at": "2026-11-17T06:59:42+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T08:53:28.142474+00:00",
+    "thin": false
+  },
+  {
+    "id": "f354ca859682c33ce2cbd06509a6b7b24ad28606eb73ac6a62f5490924286e15",
+    "title": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
+    "summary": "Iran has ratcheted up threats against U.S. forces as a third American aircraft carrier arrived in the Gulf, stoking fears of a resumption of military tensions.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+    "published_at": "2026-11-17T05:51:13+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T08:53:28.141999+00:00",
+    "thin": false
+  },
+  {
     "id": "d9c1d09a9b855305a7189e875e4ad7d640279c72e6d2e5597e73704dfc7cb28d",
     "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
     "summary": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
@@ -2005,102 +2053,6 @@
     "published_at": "2026-11-11T20:30:23+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-11T22:28:36.037370+00:00",
-    "thin": false
-  },
-  {
-    "id": "ed86114f6de7b007864ccd0ffd5b928444f31c99c2cbe39978898bbf52cdb777",
-    "title": "Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 votes",
-    "summary": "Tuesday was the deadline for provisional ballots to be resolved in Mississippi, and the deadline for the receipt of mail-in absentee ballots.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
-    "published_at": "2026-11-11T19:55:39+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T22:28:36.037682+00:00",
-    "thin": false
-  },
-  {
-    "id": "b8011e458bf3099461377eca505e2bd84344a873be43c7338d0a6e2adba36e8d",
-    "title": "Social Security could pay full benefits until 2059 if taxable payroll kept pace with GDP: AARP report",
-    "summary": "An aging work force is not the only reason Social Security's trust funds now have a looming shortfall, according to AARP Public Policy Institute research.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/11/social-security-benefits-taxable-payroll-gdp.html",
-    "published_at": "2026-11-11T19:54:27+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T22:28:36.038185+00:00",
-    "thin": false
-  },
-  {
-    "id": "f94645da480e5168b99c212b0b7ae0835238fb7751b2602a2c2c52fcf0d79e48",
-    "title": "Prediction markets tied to clinical trials and drug approvals draw lawmakers' ire",
-    "summary": "Sens. Angela Alsobrooks and Ron Wyden are asking what steps the Department of Health and Human Services has taken to mitigate risks from the markets.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/11/kalsi-polymarket-prediction-market-senators-hhs-drug-approval.html",
-    "published_at": "2026-11-11T19:16:23+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T22:28:36.038016+00:00",
-    "thin": false
-  },
-  {
-    "id": "bad44c927cf9cb57b3f1425ceafeea2647fab8bc3f4d846425603da0f6ed3d9f",
-    "title": "Meta head of infrastructure will leave and be succeeded by former AWS cloud exec",
-    "summary": "Meta's head of infrastructure and co-head of engineering Santosh Janardhan will leave in 2027, with former AWS senior vice president David Brown taking over.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html",
-    "published_at": "2026-11-11T18:57:38+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T22:28:36.038641+00:00",
-    "thin": false
-  },
-  {
-    "id": "4064788a8d822db9ece52d78661e7f246819624434f6ce19f685e82cccb68bed",
-    "title": "Bouncing Wynn Shares might be primed for the 'wheel strategy'",
-    "summary": "From a valuation standpoint, WYNN is trading very close to its five-year historical averages across key metrics. So how should traders play this setup?",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/11/bouncing-wynn-shares-might-be-primed-for-the-wheel-strategy.html",
-    "published_at": "2026-11-11T18:24:53+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T22:28:36.038488+00:00",
-    "thin": false
-  },
-  {
-    "id": "ae8c030c6b49519c6024c869c9aa838a0dbf6bcfe176833b67fa5b47d55f8e61",
-    "title": "Tired of spending time fixing other people's AI slop at work? How to talk to them about it",
-    "summary": "Executive coach Melody Wilding shares four ways to address the extra work landing on your plate without the conversation becoming confrontational.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/make-it/2026/11/11/push-back-coworker-boss-extra-work-ai.html",
-    "published_at": "2026-11-11T16:05:01+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T22:28:36.039137+00:00",
-    "thin": false
-  },
-  {
-    "id": "4c4ddd66f9152b06b946e3e8ce79e9e6419cf045b23cd7e2526074306f653820",
-    "title": "Mississippi Senate: Scott Colom leads Hyde-Smith by more than 3,000 votes",
-    "summary": "Tuesday was the deadline for provisional ballots to be resolved in Mississippi, and the deadline for the receipt of mail-in absentee ballots.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
-    "published_at": "2026-11-11T15:46:05+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T15:51:04.864779+00:00",
-    "thin": false
-  },
-  {
-    "id": "f1e496aba61dc2516b02fe99a560d8ec7b4ee82ed63c93471ee16a9548db5d8c",
-    "title": "CoreWeave CEO Intrator tells CNBC he has canceled his planned share sale program",
-    "summary": "After CoreWeave beat on revenue and upped its forecast, CEO Mike Intrator indicated the company will be fine despite last week's Democratic midterm sweep.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/11/coreweave-ceo-election-data-center-buildout.html",
-    "published_at": "2026-11-11T15:28:29+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T15:51:04.864184+00:00",
     "thin": false
   }
 ]

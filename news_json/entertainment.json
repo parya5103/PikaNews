@@ -1,5 +1,164 @@
 [
   {
+    "id": "464cb2499f33001695aa5ef8d05da396108338dc5b9140f82def54f6ca2902e5",
+    "title": "Duetti Secures $665 Million Financing Round",
+    "summary": "The company's latest round includes an asset-backed securitization worth $450 million anchored by global investment firm Carlyle.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/pro/duetti-665-million-financing-round",
+    "published_at": "2026-11-17T08:00:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T08:53:28.131674+00:00",
+    "thin": false,
+    "author": "Elizabeth Dilts Marshall",
+    "tags": [
+      "Business",
+      "Business News",
+      "Duetti",
+      "Finance",
+      "Music News"
+    ]
+  },
+  {
+    "id": "b2a97bd52e69c1827c6eeee7f30a84bac93dea0bb9787706684c04946a447c72",
+    "title": "Kelly Clarkson Calls ‘The Voice’ Contestant Kyle Davis ‘a Born Storyteller’ After Keane Cover",
+    "summary": "“I actually feel sorry for everyone else in this competition,” Clarkson told him.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/culture/tv-film/kelly-clarkson-the-voice-kyle-davis-keane-top-10-1236383820",
+    "published_at": "2026-11-17T06:29:02+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T08:53:28.131859+00:00",
+    "thin": false,
+    "author": "Jessica Lynch",
+    "tags": [
+      "Culture",
+      "TV/Film",
+      "The Voice"
+    ]
+  },
+  {
+    "id": "022069375e12a6e5a8b0b2abe661dafe423205f70b2bd53a9832019003b05c00",
+    "title": "Lawsuit Accusing Selena Gomez and Wondermind Co-Founders of Fraud Is Dismissed",
+    "summary": "A lawyer for Gomez said the star \"looks forward to putting the matter behind her\"",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/selena-gomez-wondermind-lawsuit-dismissed-1235659464",
+    "published_at": "2026-11-17T06:09:14+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T08:53:28.133053+00:00",
+    "thin": false,
+    "author": "Charisma Madarang",
+    "tags": [
+      "Music",
+      "Music News",
+      "controversy",
+      "courts and crime",
+      "Selena Gomez"
+    ]
+  },
+  {
+    "id": "ccbb13142a352a31d9a57b4a133ed8b1a63c131ea1459b6117f07f7574b4ae21",
+    "title": "Selena Gomez No Longer Facing Lawsuit Over Mental Health Startup Wondermind",
+    "summary": "A lawyer for Gomez, who was sued alongside her mother and former company exec Daniella Pierson, says she \"looks forward to putting this matter behind her.\"",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/pro/selena-gomez-mental-health-company-lawsuit-dropped-investor",
+    "published_at": "2026-11-17T03:05:23+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T08:53:28.132053+00:00",
+    "thin": false,
+    "author": "Rachel Scharf",
+    "tags": [
+      "Business",
+      "Legal News",
+      "lawsuit",
+      "Legal",
+      "Music News"
+    ]
+  },
+  {
+    "id": "cfa0f7edcb6e894c10fd8975bab0b8d3f3471e836dca03244258ff4a6f1131fe",
+    "title": "Stephen Wilson Jr. Announces Double Album and Unveils Stunning ‘I’m a Song’ With Chris Stapleton",
+    "summary": "Impressiøn of a Human // Children of the Cørnerman is slated for release in February",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/stephen-wilson-jr-double-album-chris-stapleton-song-1235659375",
+    "published_at": "2026-11-17T02:18:31+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T08:53:28.133247+00:00",
+    "thin": false,
+    "author": "Charisma Madarang",
+    "tags": [
+      "Music",
+      "Music News",
+      "Chris Stapleton",
+      "Stephen Wilson Jr."
+    ]
+  },
+  {
+    "id": "e6b421840f140c59bc724f71235a5897219f0695f7addc0219097f19721b7259",
+    "title": "Wale on Triumphant Pair of 2027 Grammy Nominations for ‘Everything Is a Lot’: ‘I Hope It Teaches a Lot of People About Resilience’",
+    "summary": "\"Vote for Wale. I'm gonna draft up the greatest speech of all time,\" the DMV rapper tells Billboard .",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/rb-hip-hop/wale-2027-grammy-nominations-interview-everything-is-a-lot-1236383275",
+    "published_at": "2026-11-17T02:17:37+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T08:53:28.132261+00:00",
+    "thin": false,
+    "author": "Michael Saponara",
+    "tags": [
+      "Music",
+      "R&B/Hip-Hop",
+      "Awards",
+      "genre hiphop",
+      "Grammys",
+      "Music News"
+    ]
+  },
+  {
+    "id": "96a18042243dc8a368151230cf9a2a5015e875562be66f89c16f4f445b1a5b26",
+    "title": "Snubs & Surprises in the 2027 Dance/Electronic Grammy Nominations",
+    "summary": "The nominations once again reveal the dance world's fractured factions.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/lists/2027-dance-electronic-grammys-snubs-and-surprises",
+    "published_at": "2026-11-17T01:27:26+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T08:53:28.132426+00:00",
+    "thin": false,
+    "author": "Katie Bain",
+    "tags": [
+      "Music",
+      "Music News",
+      "Dance",
+      "genre dance"
+    ]
+  },
+  {
+    "id": "9d5c947c9619c38ab69519795c62cdf217fd14b933ae203031a7fe8397c54c04",
+    "title": "HYBE, Home to BTS and KATSEYE, Forms Strategic Partnership With CAA",
+    "summary": "The new partnership leverages HYBE’s artist roster alongside CAA's expertise in live experiences, brand partnerships, content and more.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/pro/hybe-bts-katseye-partnership-caa",
+    "published_at": "2026-11-17T01:00:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T08:53:28.132613+00:00",
+    "thin": false,
+    "author": "Ariel King",
+    "tags": [
+      "Business",
+      "Business News",
+      "caa",
+      "genre kpop",
+      "genre pop",
+      "HYBE",
+      "Music News"
+    ]
+  },
+  {
     "id": "db6b74c142e519825a5119c6290cbaa4d19dfcfe2e836f6b5ecd9ff23b4c7396",
     "title": "Luke Bryan & Jason Aldean Fight $1.4 Million Legal Demand From Nashville Steakhouse Landlord",
     "summary": "The two country stars say they aren't liable for unpaid rent following the closure of E3 Chophouse.",
@@ -5364,160 +5523,6 @@
       "controversy",
       "Pete Hegseth",
       "Veterans Day"
-    ]
-  },
-  {
-    "id": "91ceb74c33058ec0621f6c48cd7083ad4d203b0c14f60691b38ee464e79e4263",
-    "title": "Bob Dylan’s Meeting With Pope Leo: People Fixated on the Hood, But the Hands Spoke Volumes",
-    "summary": "In a new interview, the Jesuit priest who brokered the summit between the pope and the poet shares more details of Dylan’s hood, his hands, and that multicolored BIC",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-features/bob-dylan-pope-leo-meeting-handshake-photo-pen-1235655979",
-    "published_at": "2026-11-11T19:53:03+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T22:28:36.023385+00:00",
-    "thin": false,
-    "author": "Joseph Hudak",
-    "tags": [
-      "Music",
-      "Music Features",
-      "Bob Dylan",
-      "Pope Leo XIV"
-    ]
-  },
-  {
-    "id": "2822660add806cafa3ed3ccfc839fb99c3eeec8f4d929900d88886fb089da4b1",
-    "title": "Kai Cenat on Creating Boundaries With His Streaming Audience: ‘I Got to Clock Certain Things’",
-    "summary": "In a new VIBE cover story, the streamer opens up about his new fashion line, dealing with controversy, and taking time for himself",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/culture/culture-news/kai-cenat-vibe-cover-interview-1235655503",
-    "published_at": "2026-11-11T19:38:29+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T22:28:36.023578+00:00",
-    "thin": false,
-    "author": "Elisabeth Garber-Paul",
-    "tags": [
-      "(Sub)Culture News",
-      "Culture",
-      "creator economy",
-      "Creators",
-      "Fashion",
-      "Kai Cenat"
-    ]
-  },
-  {
-    "id": "9cccf3da10aadba456780377368fb4244be3c2ebfc9acdbc1dae8d83390751a5",
-    "title": "Usher and Chris Brown Cancel Additional Shows on R&B Tour",
-    "summary": "Last month, a string of performances in Baltimore, Cincinnati, Indianapolis, and Columbia, South Carolina, on the R&#38;B tour were also canceled",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-news/usher-chris-brown-cancel-additional-shows-rb-tour-1235656008",
-    "published_at": "2026-11-11T19:31:57+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T22:28:36.023745+00:00",
-    "thin": false,
-    "author": "Larisha Paul",
-    "tags": [
-      "Music",
-      "Music News",
-      "Chris Brown",
-      "Usher"
-    ]
-  },
-  {
-    "id": "757bab0005db883c438dc423a4863ffc3eaecba3b6ad9b04560a33db7bf70422",
-    "title": "Coachella 2027 Lineup Takeaways: Madonna’s Special Spot, Indie Surprises, and… No Drake?",
-    "summary": "The poster for next year's festival is here, and we have questions",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-features/coachella-2027-lineup-takeaways-madonna-drake-snub-1235653885",
-    "published_at": "2026-11-11T18:41:19+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T22:28:36.023943+00:00",
-    "thin": false,
-    "author": "Simon Vozick-Levinson",
-    "tags": [
-      "Music",
-      "Music Features",
-      "Angine de Poitrine",
-      "Coachella",
-      "Coachella 2027",
-      "Daddy Yankee",
-      "Drake",
-      "Madonna"
-    ]
-  },
-  {
-    "id": "4bb0a7d545c6ade4fd77c0f99ad840a1db135c1dd537012dd17e7f7caa50d7d7",
-    "title": "Inji Vellam Release Date: Vijay Sethupathi and Sai Pallavi’s romantic film to hit big screens on January 29, 2027",
-    "summary": "Director Mani Ratnam&#39;s Inji Vellam is set to bring Vijay Sethupathi and Sai Pallavi together for a romantic drama. The makers have now officially confirmed that the film will arrive in theaters on January 29, 2027. Inji Vellam Release Date Taking to social media, the makers of Inji Vellam unveiled a motion poster, confirming the film&#39;s release date. The new promotional video features Vijay Sethupathi and Sai Pallavi as a couple and parents to two girls. Here&rsquo;s the post: From the lo",
-    "category": "entertainment",
-    "source": "Pinkvilla",
-    "url": "https://www.pinkvilla.com/entertainment/south/inji-vellam-release-date-vijay-sethupathi-and-sai-pallavis-romantic-film-to-hit-big-screens-on-january-29-2027-1406396",
-    "published_at": "2026-11-11T18:39:48+05:30",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.148151+00:00",
-    "thin": false
-  },
-  {
-    "id": "0a788c3d0e35b4b0eaca8dc8140152cedf2bde0c730c1c8da871f6ef73ea88f5",
-    "title": "He Thinks Malaysia Airlines Flight 370 Was Teleported. Thousands of People Believe Him",
-    "summary": "Ashton Forbes has found fame on the internet by spreading impossible claims about U.S. military might",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/culture/culture-features/malaysia-air-370-conspiracy-theory-ashton-forbes-1235655253",
-    "published_at": "2026-11-11T18:01:13+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T22:28:36.024115+00:00",
-    "thin": false,
-    "author": "Elisabeth Garber-Paul",
-    "tags": [
-      "(Sub)Culture Features",
-      "Culture",
-      "conspiracy theories",
-      "UFO",
-      "YouTube"
-    ]
-  },
-  {
-    "id": "5493d8f3c5c91916644ddcf62e02c4163ea236340ecbf49af2ad30436999cd2a",
-    "title": "10 Years Ago, Beyoncé and the Chicks Performed at the CMA Awards. It’s Still Making Waves",
-    "summary": "The controversy that followed their collab on “Daddy Lessons” in Nashville was an experience that deeply impacted the Cowboy Carter singer",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-features/beyonce-the-chicks-cma-awards-performance-1235654911",
-    "published_at": "2026-11-11T17:29:10+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T22:28:36.024322+00:00",
-    "thin": false,
-    "author": "Marissa Moss",
-    "tags": [
-      "Music",
-      "Music Features",
-      "Beyoncé",
-      "CMA Awards",
-      "Country Music",
-      "The Chicks"
-    ]
-  },
-  {
-    "id": "9a3d06be708bf9c9041db2fd439860fc48b6deeedeb8636d874c7998a0e7e074",
-    "title": "Angie Martinez’s Unaired Tupac Shakur Interview Set for Release After 30 Years",
-    "summary": "The radio personality who spent 28 years at New York’s Hot 97 will host Netflix’s The Tupac Tapes, a four-part podcast series premiering Nov. 27",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-news/lost-tupac-shakur-interview-netflix-1235655822",
-    "published_at": "2026-11-11T16:57:50+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-11T22:28:36.024522+00:00",
-    "thin": false,
-    "author": "Larisha Paul",
-    "tags": [
-      "Music",
-      "Music News",
-      "Netflix",
-      "Tupac Shakur"
     ]
   }
 ]
