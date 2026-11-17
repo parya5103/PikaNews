@@ -67,6 +67,10 @@ def test_background_worker_invariants():
     assert "notificationclick" in worker
     assert "tag:" in worker, "collapsing tag prevents duplicate ecosystem notifications"
     assert "addEventListener('fetch'" not in worker, "worker must not install a fetch handler"
+    assert "function isTrustedClientUrl" in worker
+    assert "client.url.indexOf" not in worker
+    assert "parsed.hostname === 'gogocompany.in'" in worker
+    assert "parsed.origin === self.location.origin" in worker
     assert "gogocompany.in" in worker, "link allowlist must be GoGo-domain-only"
 
 
