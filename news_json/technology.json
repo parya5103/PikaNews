@@ -1,5 +1,213 @@
 [
   {
+    "id": "f2a6d37ed0b81f04cf9314a03c1067ccd40885d3820888e3946686d3aed912d9",
+    "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+    "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers",
+    "published_at": "2026-11-17T15:28:59+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg",
+    "collection_timestamp": "2026-11-17T18:08:28.306116+00:00",
+    "thin": false,
+    "author": "Jeremy Hsu",
+    "tags": [
+      "AI",
+      "Tech",
+      "ai data centers",
+      "ars live",
+      "Ars Live Chat",
+      "Ars Live Conversations",
+      "data centers",
+      "donald trump iran war",
+      "Drone strikes",
+      "Iran",
+      "russia",
+      "Russia invasion of Ukraine",
+      "Russia war on Ukraine",
+      "Russian invasion of Ukraine",
+      "Russian war on Ukraine",
+      "Ukraine",
+      "Ukraine war",
+      "USA-Iran War"
+    ]
+  },
+  {
+    "id": "7973ecdfc077c1cda1333550cee9c7cdf8cef1685f52f29c5686e46f617ab1d3",
+    "title": "YouTube found a new way to inflate view counts",
+    "summary": "YouTube's view counts will now include the number of people that it estimates are watching a video together on TV. In an update on Monday, the platform says it's bringing \"co-views\" to public view counts across long-form videos, Shorts, and live content to provide a more \"complete picture\" of how people are using its platform. [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/streaming/1035683/youtube-co-views-count",
+    "published_at": "2026-11-17T12:50:22-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T18:08:28.303851+00:00",
+    "thin": false,
+    "author": "Emma Roth",
+    "tags": [
+      "Entertainment",
+      "News",
+      "Streaming",
+      "YouTube"
+    ]
+  },
+  {
+    "id": "00a224262197252919ced91d5f9d3e7f64460b625140602a6d6da5bc5f6d2e33",
+    "title": "The iPhone Duo feels far more intuitive with Apple’s new face unlock",
+    "summary": "Apple is testing adding face unlock to the iPhone Duo - not true Face ID, but something a little simpler and less secure. So far, it works great, and even with a few Apple-imposed security limitations, it makes the Duo quicker and more comfortable to use than relying on Touch ID every time. That's one [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1035437/iphone-duo-face-unlock-front-camera-hands-on",
+    "published_at": "2026-11-17T12:41:22-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T18:08:28.304119+00:00",
+    "thin": false,
+    "author": "Dominic Preston",
+    "tags": [
+      "Apple",
+      "Foldable Phones",
+      "Hands-on",
+      "iPhone",
+      "Mobile",
+      "Reviews",
+      "Tech"
+    ]
+  },
+  {
+    "id": "93662a7c6501c06b6d34b57aa615aabf32b3b2c5f4ba51c88c82167912cdf7ee",
+    "title": "Inside Microsoft’s giant Outlook outage",
+    "summary": "At 9AM last Thursday, everything seemed normal. Microsoft employees were arriving on campus, ready for a regular day of emails and meetings. But barely an hour later, one of Microsoft's worst outages in history started to unfold, leaving employees, businesses, and many governments without access to Outlook emails for nearly 24 hours. It all started [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad",
+    "published_at": "2026-11-17T12:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T18:08:28.304380+00:00",
+    "thin": false,
+    "author": "Tom Warren",
+    "tags": [
+      "Microsoft",
+      "Notepad",
+      "Tech"
+    ]
+  },
+  {
+    "id": "1df4dea4210835d9ba8ece1bdb4d4f3b40990407e28f28c4ed191773e93f37a9",
+    "title": "The DOJ says it’s investigating Megaspeed",
+    "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically comment on ongoing investigations, it is in the public interest to provide the facts and address [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+    "published_at": "2026-11-17T11:19:03-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T18:08:28.304614+00:00",
+    "thin": false,
+    "author": "Stevie Bonifield",
+    "tags": [
+      "AI",
+      "News",
+      "Nvidia",
+      "Policy",
+      "Tech"
+    ]
+  },
+  {
+    "id": "a27114a4658e84758f3293a713ea3e74d04f8fd42cbabaa2f2ce3d12e63ae248",
+    "title": "Banning phones really does help kids learn, researchers say",
+    "summary": "A new nationwide study found that in-school cellphone bans can lead to modest improvements in learning. Now, researchers want to understand whether kids' phone use outside the classroom might contribute to the rest of students' learning loss - using the conditions of Meta's multibillion-dollar settlement from earlier this year. Banning cellphones in schools has the [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/1035401/school-cell-phone-ban-study-meta-settlement",
+    "published_at": "2026-11-17T11:13:18-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T18:08:28.304836+00:00",
+    "thin": false,
+    "author": "Lauren Feiner",
+    "tags": [
+      "Policy",
+      "Politics",
+      "Report"
+    ]
+  },
+  {
+    "id": "01e3bdf3ea5d597279a19c6fc4757b6950287c9e25da20596cef20541124c1c7",
+    "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+    "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business partners, and customers for me [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+    "published_at": "2026-11-17T11:09:57-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T18:08:28.305046+00:00",
+    "thin": false,
+    "author": "Jay Peters",
+    "tags": [
+      "AI",
+      "News",
+      "Nvidia",
+      "Tech"
+    ]
+  },
+  {
+    "id": "d26d0df910705e3938c9b137bf7a9969111202209c4be8aeabd5eb9ee57ee971",
+    "title": "You can now preorder the Flipper One that puts a Linux computer in your pocket",
+    "summary": "After first announcing its Flipper One last May, which the company describes as an \"open Linux multi-tool built for high-performance computing and IP networking,\" Flipper Devices has launched a Kickstarter crowdfunding campaign where you can preorder the device for $399 with shipping expected to start in July 2027. The Flipper One is more expensive than [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1034392/flipper-devices-one-zero-pocket-linux-computer-multi-tool-preorder-kickstarte",
+    "published_at": "2026-11-17T11:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T18:08:28.305265+00:00",
+    "thin": false,
+    "author": "Andrew Liszewski",
+    "tags": [
+      "Gadgets",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "a5e769624ea182fd8469b2bcccc833a5eeb7af81b30bce9e80bb4c8cf66204f5",
+    "title": "Scoop up three great 4K Blu-ray movies for $33",
+    "summary": "Gruv always keeps its proverbial fire hose of deals on movies running with a steady stream throughout the year, but the online seller operated by Universal Pictures is really letting it rip now ahead of Black Friday. The site has a page filled with 4K Blu-rays eligible for a “three for $33” promotion, and the [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1034571/gruv-4k-blu-ray-movies-black-friday-deal-sale",
+    "published_at": "2026-11-17T11:00:00-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T18:08:28.305484+00:00",
+    "thin": false,
+    "author": "Cameron Faulkner",
+    "tags": [
+      "Black Friday",
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "b69fb84a3bd4e10e4e6456d79b4e555a5ee1644faf416fcdbe5730971faa68c9",
+    "title": "The aliens are coming in 3 Body Problem’s first season 2 trailer",
+    "summary": "The first season of Netflix's 3 Body Problem series ended with the remaining members of the Oxford Five disillusioned at the idea of humanity being utterly unprepared to deal with the San-Ti's arrival on Earth. But in the first trailer for the show's upcoming second season, it looks like the world's greatest minds have been [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/streaming/1035221/3-body-problem-season-two-trailer-premiere-date-netflix",
+    "published_at": "2026-11-17T10:04:20-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-17T18:08:28.305917+00:00",
+    "thin": false,
+    "author": "Charles Pulliam-Moore",
+    "tags": [
+      "Books",
+      "Entertainment",
+      "Netflix",
+      "News",
+      "Streaming",
+      "Trailers",
+      "TV Shows"
+    ]
+  },
+  {
     "id": "e98f0ff4787e05de780171c53e43e8a1c85994501b844e448644fa95b7473f24",
     "title": "Late-Night Hosts Take Aim at Trump’s Reaction to the FAA Shutdown",
     "summary": "\"Hey, you know what fail safe program we should design our aviation system to mirror? Christmas lights!\"",
@@ -2396,45 +2604,6 @@
       "News",
       "Nvidia",
       "Tech"
-    ]
-  },
-  {
-    "id": "429ab1cf984417e4e54774f95d0a3af9c854bf14c996afdf74f7240745a5a69e",
-    "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
-    "summary": "When (or if) Ring's security camera drone flies into our homes in January, you won't get the option to pilot it yourself. The Ring Drone Cam relies entirely on an \"AI Pilot\" system to follow pre-programmed routes and navigate autonomously around obstacles, with no manual control option available - and an embarrassing demonstration with CBS [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
-    "published_at": "2026-11-12T06:12:32-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T11:39:42.916166+00:00",
-    "thin": false,
-    "author": "Jess Weatherbed",
-    "tags": [
-      "Drones",
-      "Gadgets",
-      "News",
-      "Security",
-      "Smart Home",
-      "Tech"
-    ]
-  },
-  {
-    "id": "06e7d7500f3f90c0ecb8407f187129693a7190cfac8e9e8cda4e02120578ae47",
-    "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
-    "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia",
-    "published_at": "2026-11-11T23:10:17+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
-    "collection_timestamp": "2026-11-12T03:17:43.382662+00:00",
-    "thin": false,
-    "author": "Demetri Sevastopulo, Financial Times",
-    "tags": [
-      "Tech",
-      "Jensen Huang",
-      "NVIDIA"
     ]
   }
 ]
