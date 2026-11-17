@@ -23,7 +23,8 @@ def read(relative_path):
 def test_module_is_configured_and_fail_closed_on_empty_overrides():
     """apiBase + VAPID must be filled; the gate still guards empty overrides."""
     module = read("js/gogo-notifications.js")
-    assert "apiBase: 'https://gogo-central-backend-mg6z.onrender.com'" in module, "apiBase must point at the deployed GoGo Central backend"
+    assert "apiBase: 'https://gogo-central-backend.onrender.com'" in module, "apiBase must point at the current deployed GoGo Central backend"
+    assert "gogo-central-backend-mg6z.onrender.com" not in module, "retired backend host must not ship"
     assert "vapidPublicKey: 'B" in module, "vapidPublicKey must carry the Firebase Web Push public key"
     assert "validateConfig" in module, "module must validate its config"
     assert "disabled" in module, "validation must report the disabled state"
