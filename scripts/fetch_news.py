@@ -18,6 +18,8 @@ import os
 import sys
 import json
 import hashlib
+import ipaddress
+import socket
 import re
 from datetime import datetime, timezone, timedelta
 from typing import List, Dict, Any, Optional, Set, Tuple
@@ -503,17 +505,49 @@ def extract_image_from_html(html: str, base_url: str) -> Optional[str]:
     return None
 
 
-def fetch_article_image(article_url: str) -> Optional[str]:
-    """Best-effort short-timeout image lookup for feeds that omit thumbnails."""
+def is_public_http_url(url: str) -> bool:
+    """Allow only HTTP(S) URLs resolving exclusively to globally routable IPs."""
     try:
+        parsed = urlparse(url)
+        if parsed.scheme.lower() not in ("http", "https") or not parsed.hostname:
+            return False
+        if parsed.username is not None or parsed.password is not None:
+            return False
+        port = parsed.port or (443 if parsed.scheme.lower() == "https" else 80)
+        addresses = socket.getaddrinfo(parsed.hostname, port, type=socket.SOCK_STREAM)
+        if not addresses:
+            return False
+        return all(ipaddress.ip_address(item[4][0]).is_global for item in addresses)
+    except (OSError, TypeError, ValueError):
+        return False
+
+
+def fetch_article_image(article_url: str) -> Optional[str]:
+    """Best-effort image lookup with SSRF-safe URL and redirect validation."""
+    try:
+        candidate = normalize_url(article_url)
+        if not candidate or not is_public_http_url(candidate):
+            return None
         headers = {"User-Agent": USER_AGENT, "Accept": "text/html,application/xhtml+xml"}
+        # Never let HTTPX follow redirects automatically: every redirect target
+        # must pass the same public-address check before another request is made.
         with httpx.Client(timeout=httpx.Timeout(8.0, connect=3.0), headers=headers,
-                          follow_redirects=True) as client:
-            response = client.get(article_url)
-            response.raise_for_status()
-            if len(response.content) > 2_000_000:
-                return None
-            return extract_image_from_html(response.text, str(response.url))
+                          follow_redirects=False) as client:
+            for _ in range(4):
+                response = client.get(candidate)
+                if response.status_code in (301, 302, 303, 307, 308):
+                    location = response.headers.get("location")
+                    if not location:
+                        return None
+                    candidate = urljoin(candidate, location)
+                    if not is_public_http_url(candidate):
+                        return None
+                    continue
+                response.raise_for_status()
+                if len(response.content) > 2_000_000:
+                    return None
+                return extract_image_from_html(response.text, str(response.url))
+            return None
     except Exception as e:
         log(f"Image enrichment skipped for {article_url}: {e}", "DEBUG")
         return None
