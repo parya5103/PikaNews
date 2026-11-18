@@ -74,10 +74,12 @@ def is_thin(article):
     scripts/fetch_news.py normalize_article().
     """
     title = article.get("title") or ""
-    summary = article.get("summary") or ""
-    if article.get("thin") is True:
+    original_editorial = article.get("content_type") == "original_editorial"
+    body = (article.get("editorial_content") if original_editorial else article.get("summary")) or ""
+    if article.get("thin") is True and not original_editorial:
         return True
-    return len(title.strip()) < MIN_TITLE_LEN or len(summary.strip()) < MIN_SUMMARY_LEN
+    minimum = MIN_EDITORIAL_CONTENT_LEN if original_editorial else MIN_SUMMARY_LEN
+    return len(title.strip()) < MIN_TITLE_LEN or len(str(body).strip()) < minimum
 
 
 def is_original_editorial(article):
