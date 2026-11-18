@@ -1,5 +1,120 @@
 [
   {
+    "id": "d770ddf8e2ab4572a2e10b4241e94ae9a6b282b6263973258b0827ff7aec9031",
+    "title": "10 Sci-Fi Books You Need to Read Before At Least Once In Your Life",
+    "summary": "The ultimate reading list for mind-bending, genre-defining speculative fiction",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/essential-sci-fi-books-you-need-to-read-at-least-once",
+    "published_at": "2026-11-18T06:26:17+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/3-body-problem.jpg",
+    "collection_timestamp": "2026-11-18T08:52:05.428484+00:00",
+    "thin": false,
+    "author": "Jake Kleinman",
+    "tags": [
+      "Polygon Lists",
+      "Books",
+      "Dune",
+      "1984",
+      "Foundation",
+      "Blade Runner"
+    ]
+  },
+  {
+    "id": "400a82409b46af8d8ecd0da6de4139c1b4263f5509fca88b3791bf5e71231dc3",
+    "title": "Magic: The Gathering’s 10 Best Uncommon Star Trek Cards, Ranked",
+    "summary": "The most underrated uncommon cards from Magic's Star Trek set that deserve a place in your collection.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/mtg-best-star-trek-uncommon-magic-the-gathering-cards",
+    "published_at": "2026-11-18T05:00:18+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/70-000-light-years-from-home-art-1.jpg",
+    "collection_timestamp": "2026-11-18T08:52:05.428636+00:00",
+    "thin": false,
+    "author": "Ryan Epps",
+    "tags": [
+      "Polygon Lists",
+      "Magic: The Gathering",
+      "Tabletop Games",
+      "Trading Card Game",
+      "Star Trek"
+    ]
+  },
+  {
+    "id": "bcb5169035a1880b22c2b939798e41a98bf96d60fe67c4e25e0233dc751d63ef",
+    "title": "66 Years Later, William Shatner's Forgotten 'Twilight Zone' Is Still a Haunting Masterpiece",
+    "summary": "The Twilight Zone episode “Nick of Time” is top-tier Shatner",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/william-shatner-the-twilight-zone-nick-of-time",
+    "published_at": "2026-11-18T05:00:18+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/pmdwish_ec001.jpg",
+    "collection_timestamp": "2026-11-18T08:52:05.428764+00:00",
+    "thin": false,
+    "author": "Brian VanHooker",
+    "tags": [
+      "What to Watch",
+      "The Twilight Zone"
+    ]
+  },
+  {
+    "id": "1cbad8d5781d28c6c6d4edfc757a4a529d57dbbf4806f85d6e7d7132e768c1fe",
+    "title": "Amitabh Bachchan, Amish Tripathi-Backed AAA Game ‘The Age of Bhaarat’ Taps India’s Annapurna Studios for Motion Capture (EXCLUSIVE)",
+    "summary": "&#8220;The Age of Bhaarat,&#8221; the AAA video game from Tara Gaming, has signed on with A&#38;M MoCap Lab in Hyderabad for its motion capture production. The facility was jointly set up by Annapurna Studios and Mihira Visual Labs. Tara Gaming was co-founded by Amitabh Bachchan, author Amish Tripathi and veteran game producer Nouredine Abboud, with [&#8230;]",
+    "category": "gaming",
+    "source": "Variety",
+    "url": "https://variety.com/2026/gaming/news/amitabh-bachchan-backed-game-the-age-of-bhaarat-annapurna-studios-1236950323",
+    "published_at": "2026-11-18T04:30:00+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/The-Age-of-Bhaarat.jpg",
+    "collection_timestamp": "2026-11-18T08:52:05.416704+00:00",
+    "thin": false,
+    "author": "Naman Ramachandran",
+    "tags": [
+      "Asia",
+      "Global",
+      "News",
+      "Amitabh Bachchan",
+      "Annapurna Studios",
+      "Tara Gaming",
+      "The Age of Bhaarat"
+    ]
+  },
+  {
+    "id": "69c9ebebcd00ef1c0f9774bc3d1e030faed58a39f235d5a7f5448b3a851d0fed",
+    "title": "63 Years Later, the Best 'Peanuts' Sally Line Is Still an Iconic Comic Strip Quote",
+    "summary": "In Peanuts, it's Sally Brown vs. school",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/sally-brown-best-quotes-peanuts-charlie-brown",
+    "published_at": "2026-11-18T03:10:17+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/collage-maker-11-oct-2023-09-56-pm-1670.jpeg",
+    "collection_timestamp": "2026-11-18T08:52:05.428873+00:00",
+    "thin": true,
+    "author": "Thomas Hindmarch",
+    "tags": [
+      "Analysis",
+      "comic strip"
+    ]
+  },
+  {
+    "id": "2472041eac7bf110f97afb23faef3db629185fda2e52accff4913bbbe9c52581",
+    "title": "GTA 6's Release Will Stress The Internet Just As Everything's Falling Apart",
+    "summary": "GTA 6 is releasing within days of major outages for Apple, Microsoft, and Chase Bank",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/gta-6-release-apple-down-outages-microsoft-chase-bank-issues",
+    "published_at": "2026-11-18T01:29:36+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_duval_15-1.jpg",
+    "collection_timestamp": "2026-11-18T08:52:05.428993+00:00",
+    "thin": false,
+    "author": "Patricia Hernandez",
+    "tags": [
+      "News",
+      "Grand Theft Auto",
+      "Grand Theft Auto 6"
+    ]
+  },
+  {
     "id": "95709fb0d3d919386c865b023cf05d84f187a1288bfb89ebfc2a39a78ea7f96c",
     "title": "5 Big Takeaways From the 2026 Game Awards Nominations",
     "summary": "From GTA 6 to Control and Crimson Desert, these are the conclusions for the GOTY Race and TGA 2026",
@@ -3802,143 +3917,6 @@
       "Entertainment",
       "Gaming",
       "News"
-    ]
-  },
-  {
-    "id": "4d323aae60899d8c4f7370044916d7a217038b41bb3bb892ca4c799aeb205b41",
-    "title": "Where to find the Daikoku area in Forza Horizon 6",
-    "summary": "Here's where to find the Daikoku area in Forza Horizon 6, so you can complete the Series 7 \"City Life\" collectible Smashapon weekly challenge.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/forza-horizon-6-fh6-daikoku-location",
-    "published_at": "2026-11-12T17:57:19+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/fh6_guide_series7_daikoku_lead.jpg",
-    "collection_timestamp": "2026-11-12T19:32:46.220704+00:00",
-    "thin": false,
-    "author": "Paulo Kawanishi",
-    "tags": [
-      "Guides",
-      "Forza Horizon 6"
-    ]
-  },
-  {
-    "id": "c2cc6a2a8b798b4e0c09c903453434554db7e329cde6677dbce4759f3987a2df",
-    "title": "Star Wars 50th Anniversary Release Will Include New Music from John Williams",
-    "summary": "The original version of Star Wars is heading to theaters next year, and it will briefly include new music from Star Wars composer John Williams.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/star-wars-50th-anniversary-release-new-john-williams-music",
-    "published_at": "2026-11-12T17:53:01+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24039577/636486225664269079_Star_Wars_Episode_IV___A_New_Hope.jpg",
-    "collection_timestamp": "2026-11-12T19:32:46.220832+00:00",
-    "thin": false,
-    "author": "Austin Manchester",
-    "tags": [
-      "News",
-      "Movies",
-      "Star Wars",
-      "Star Wars: Episode IV - A New Hope"
-    ]
-  },
-  {
-    "id": "2b5efd8f48a3e77a55cd6d1418d8564efab806878a2db5331ca9eff18e00cecf",
-    "title": "All battle pass skins in the Fortnite Chapter 7 mini season",
-    "summary": "Here's a look at all of the Fortnite Chapter 7 mini season's battle pass skins, and the various styles they come in.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/fortnite-chapter-7-mini-season-pirate-battle-pass-skins-outfits",
-    "published_at": "2026-11-12T17:52:33+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/hvuc5u1amaatzos.jpg",
-    "collection_timestamp": "2026-11-12T19:32:46.220946+00:00",
-    "thin": false,
-    "author": "Julia Lee",
-    "tags": [
-      "Guides",
-      "Fortnite"
-    ]
-  },
-  {
-    "id": "3a181047c7f1a8492ada7aed3aac28f78f102477730604a5284762d2cfc1c610",
-    "title": "Witcher Multiplayer Game Adds Key Writer From Baldur’s Gate 3",
-    "summary": "CD Projekt Red’s multiplayer Witcher game adds Baldur’s Gate 3 writer responsible for Dark Urge and more",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/witcher-multiplayer-project-sirius-baldurs-gate-3-writer-joins-cdprojekt-red",
-    "published_at": "2026-11-12T17:28:33+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/25032936/WwG8Mh6.png",
-    "collection_timestamp": "2026-11-12T19:32:46.221086+00:00",
-    "thin": false,
-    "author": "Willa Rowe",
-    "tags": [
-      "News",
-      "The Witcher",
-      "Baldur's Gate 3"
-    ]
-  },
-  {
-    "id": "a6f0e7aed1dae5be1a6c80f5405eb1e5e24c517d27c934c0ffa9886a688d707c",
-    "title": "GTA 6 Map Seemingly Leaks at Merch Drop Event",
-    "summary": "Grand Theft Auto 6's map appears to have leaked early due to a Selfridges event.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/gta-6-map-leonidas-leak-merch-drop",
-    "published_at": "2026-11-12T17:14:54+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-6-release-time-header.jpg",
-    "collection_timestamp": "2026-11-12T19:32:46.221191+00:00",
-    "thin": false,
-    "author": "Elijah Gonzalez",
-    "tags": [
-      "Gaming",
-      "Grand Theft Auto 6",
-      "Grand Theft Auto"
-    ]
-  },
-  {
-    "id": "cb8b0114c96277771f3cd000b653be063e61590c703be3488a28d17cae2eaff2",
-    "title": "Xbox CEO’s 25th Anniversary Message Is About AI, Even If She Won’t Say It",
-    "summary": "As Xbox celebrates its 25th anniversary, Xbox CEO Asha Sharma has shared her thoughts on where gaming is going over the next 25 years, and people are saying her message is really more about pushing AI. Sharma said modern games demonstrate the \"heights of human craft in ways unimaginable just decades ago.\" However, the costs, resources, and risks that companies need to take on have \"grown just as dramatically,\" she said. \"As a result, too many ideas never become games, and too many games fall sho",
-    "category": "gaming",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/xbox-ceos-25th-anniversary-message-is-about-ai-even-if-she-wont-say-it",
-    "published_at": "2026-11-12T17:11:42+00:00",
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Xboxreset-1.png",
-    "collection_timestamp": "2026-11-12T19:32:46.197021+00:00",
-    "thin": false,
-    "author": "Eddie Makuch",
-    "tags": [
-      "Gaming,News"
-    ]
-  },
-  {
-    "id": "f76d7f072b9b268ad33c453e233ad66aa98641d15dfb1bc10a4782927f53bf4e",
-    "title": "The Internet Reacts To Jensen Huang’s Resignation From Nvidia",
-    "summary": "It's the end of an era for Nvidia , as its founder and longtime CEO, Jensen Huang, has resigned effective immediately. The face of one of the largest companies in the US and the growing AI boom, Huang's retirement comes after news broke of his two extramarital affairs, one of which was with a suspected Chinese spy. Nvidia has appointed its Chief Financial Officer, Colette Kress, to serve as interim CEO and Harvey C. Jones as Chair of the Board, but Huang's departure will leave a void that won't",
-    "category": "gaming",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/the-internet-reacts-to-jensen-huang-resignation-from-nvidia",
-    "published_at": "2026-11-12T16:39:44+00:00",
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Nvidia-Keynote-Huang.jpg",
-    "collection_timestamp": "2026-11-12T19:32:46.197778+00:00",
-    "thin": false,
-    "author": "Darryn Bonthuys",
-    "tags": [
-      "Gaming,News"
-    ]
-  },
-  {
-    "id": "06dfa4fd92ef7ad327616ea6a80af623cdb4c2ccc55975c82d03345a4b11998d",
-    "title": "Mario Kart World Switch 2 Bundle Black Friday Deal Brings The Price Back To 2025 Levels",
-    "summary": "Nintendo has announced its 2026 Black Friday deals, with a Mario Kart World Switch 2 hardware bundle as the centerpiece for $500. The Switch 2 launched in 2025 with a similar bundle for the same price, but it was discontinued at the end of the year. It later returned , but at a higher price point--$550. Now, the bundle is on \"sale\" again, though it's the same price as it was in 2025 before the price hikes. In addition to a digital copy of the game and the console, it comes with a three-month Nin",
-    "category": "gaming",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/mario-kart-world-switch-2-bundle-black-friday-deal-brings-the-price-back-to-2025-levels",
-    "published_at": "2026-11-12T14:55:06+00:00",
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Switch-2-Mario-Kart-bundle.jpg",
-    "collection_timestamp": "2026-11-12T19:32:46.212467+00:00",
-    "thin": false,
-    "author": "Eddie Makuch",
-    "tags": [
-      "Gaming,News"
     ]
   }
 ]
