@@ -18,7 +18,7 @@ import json
 from urllib.parse import urljoin
 
 try:
-    from scripts.generate_article_pages import article_slug, is_thin, load_removed_hashes
+    from scripts.generate_article_pages import article_slug, is_indexable_article, is_thin, load_removed_hashes
 except ImportError:
     from generate_article_pages import article_slug, is_thin, load_removed_hashes
 
@@ -82,7 +82,7 @@ def generate_sitemap():
                     continue
                 if article.get("id") in removed:
                     continue
-                if is_thin(article):
+                if not is_indexable_article(article):
                     continue
                 slug = article_slug(article.get("title"), article.get("id"))
                 article_urls.append({
