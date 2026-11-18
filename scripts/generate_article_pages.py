@@ -236,7 +236,9 @@ def build_newsarticle_jsonld(article, canonical_url):
         "description": truncate(article.get("editorial_content"), 160),
     }
     # Collection time is not a meaningful editorial modification timestamp.
-    if parse_iso(modified):
+    published_dt = parse_iso(published)
+    modified_dt = parse_iso(modified)
+    if published_dt and modified_dt and modified_dt >= published_dt:
         node["dateModified"] = modified
     if article.get("image_url"):
         node["image"] = [article["image_url"]]
