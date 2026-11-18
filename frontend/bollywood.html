@@ -138,6 +138,8 @@
                 <div class="category-intro">
                     <p>Follow news from Hindi cinema, including film announcements, releases, casting updates, box-office coverage and industry developments. PikaNews brings relevant reports together so readers can scan recent Bollywood coverage in one place.</p>
                     <p>Each story identifies its original publisher and links to the source report. Headlines and summaries are brief discovery aids; consult the linked publisher for full reporting, context, corrections and image rights.</p>
+                
+                    <p>Coverage spans Hindi-film announcements, trailers, release schedules, box-office reports, casting and celebrity interviews. Use each publisher link to check the original article and any updated release information.</p>
                 </div>
             </div>
         </section>
@@ -270,7 +272,7 @@
                     <div class="news-card" style="--category-color: ${Utils.getCategoryColor(article.category)}">
                         <div class="news-card-image">
                             ${article.image_url ? `
-                                <img src="${Utils.escapeHtml(article.image_url)}" alt="${Utils.escapeHtml(article.title)}" loading="lazy">
+                                <img src="${Utils.escapeHtml(article.image_url)}" alt="${Utils.escapeHtml(article.title)}" loading="lazy" onerror="this.onerror=null;this.src='images/pikanews-logo.svg'">
                             ` : `
                                 <div class="news-card-placeholder">
                                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
