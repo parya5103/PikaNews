@@ -16,6 +16,8 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from scripts.fetch_news import (
     normalize_url,
+    is_public_http_url,
+    fetch_article_image,
     generate_article_hash,
     extract_domain,
     clean_html_text,
@@ -45,6 +47,17 @@ class TestURLNormalization:
         assert normalize_url("https://user:pass@example.com/story") == ""
         assert normalize_url("https:///missing-host") == ""
         
+    def test_public_url_check_rejects_private_and_non_http_targets(self):
+        assert is_public_http_url("http://127.0.0.1/admin") is False
+        assert is_public_http_url("http://169.254.169.254/latest/meta-data") is False
+        assert is_public_http_url("javascript://alert(1)") is False
+        assert is_public_http_url("http://localhost/") is False
+
+    @patch("scripts.fetch_news.httpx.Client")
+    def test_image_enrichment_never_requests_private_addresses(self, client):
+        assert fetch_article_image("http://127.0.0.1/internal") is None
+        client.assert_not_called()
+
     def test_extract_domain(self):
         """Test domain extraction."""
         assert extract_domain("https://www.example.com/path") == "example.com"
