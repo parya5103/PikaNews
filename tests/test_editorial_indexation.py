@@ -44,6 +44,8 @@ def test_third_party_aggregated_excerpt_is_not_indexable_or_newsarticle():
 def test_original_editorial_requires_review_substantial_body_author_and_date():
     article = original_editorial_article()
     assert is_indexable_article(article)
+    no_rss_summary = {**article, "summary": "", "thin": True}
+    assert is_indexable_article(no_rss_summary)
     assert not is_indexable_article({**article, "editorial_reviewed": False})
     assert not is_indexable_article({**article, "editorial_content": "too short"})
     assert not is_indexable_article({**article, "author": ""})
