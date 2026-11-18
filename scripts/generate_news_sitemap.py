@@ -23,7 +23,7 @@ try:
     )
 except ImportError:
     from generate_article_pages import (
-        NEWS_DIR, article_slug, is_thin, load_removed_hashes,
+        NEWS_DIR, article_slug, is_indexable_article, is_thin, load_removed_hashes,
     )
 
 # Configuration
