@@ -1,5 +1,575 @@
 [
   {
+    "id": "8a7d6ffd5ebb8a9f3a6e225466e97ad240d9357348a71726da8c69abd6f33223",
+    "title": "Noah Kahan Address Grammy Snub in the Most Noah Kahan Way: ‘Let’s Move on Together’",
+    "summary": "\"I'm happy that I feel shitty because it means that I cared about something,\" said Kahan during his London stop",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/noah-kahan-grammys-snub-addresses-1235660017",
+    "published_at": "2026-11-18T01:05:12+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.362936+00:00",
+    "thin": false,
+    "author": "Charisma Madarang",
+    "tags": [
+      "Music",
+      "Music News",
+      "grammys",
+      "Noah Kahan"
+    ]
+  },
+  {
+    "id": "99c51dbf5f029e894bff2fcc46a5e2de321974db5859e708520d40f39eec39dc",
+    "title": "‘Dancing With the Stars’ Couples Perform Double Dances in Semi-Finals for a Shot at Season 35 Finale: See the Scores, Who Went Home (Updating Live)",
+    "summary": "Contestants will perform a ballroom dance, and a second performance in the Latin style in Tuesday's semi-finals.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-semi-finals-week-10-recap-scores-elimination-1236757850",
+    "published_at": "2026-11-18T00:58:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.360149+00:00",
+    "thin": false,
+    "author": "McKinley Franklin",
+    "tags": [
+      "TV",
+      "TV News",
+      "ABC",
+      "Dancing with the Stars",
+      "DWTS",
+      "Reality TV"
+    ]
+  },
+  {
+    "id": "d1d9f67e62cba606e121dc45c3fac9e8dd88df9a5fa206be97f9fca692836eed",
+    "title": "DistroKid Gives AI Upload Data to UMG and Sony for Suno Copyright Lawsuit After Initial Refusal",
+    "summary": "The leading DIY distributor responded to a subpoena requesting the data after UMG and Sony took legal action to force compliance.",
+    "category": "technology",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/pro/distrokid-ai-data-umg-sony-lawsuit-suno",
+    "published_at": "2026-11-18T00:49:19+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.361570+00:00",
+    "thin": false,
+    "author": "Rachel Scharf",
+    "tags": [
+      "Business",
+      "Legal News",
+      "A.I.",
+      "AI",
+      "Ai music",
+      "Artificial Intelligence",
+      "Legal",
+      "Music News",
+      "streaming",
+      "tech"
+    ]
+  },
+  {
+    "id": "c516b5049f5fb153f0749707d719cf71e0350f525a16ecd81b0f12e7d83b8747",
+    "title": "Ron Howard Says a Jim Carrey ‘Grinch’ Sequel Won’t Get Made Unless ‘It Has a Chance to Be Great’: We’re Moving ‘Cautiously’",
+    "summary": "Months after a “How the Grinch Stole Christmas” sequel was announced, director Ron Howard is setting the record straight on what it would take for the follow-up film to actually come to fruition. “I just have to caution everybody that Jim [Carrey] and I aren’t gonna go forward unless we think we have a great [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/news/ron-howard-jim-carrey-grinch-sequel-1236951121",
+    "published_at": "2026-11-18T00:47:42+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/M8DDRSU_EC003.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.355918+00:00",
+    "thin": false,
+    "author": "Payton Turkeltaub",
+    "tags": [
+      "News",
+      "How the Grinch Stole Christmas",
+      "Jim Carrey",
+      "Ron Howard"
+    ]
+  },
+  {
+    "id": "7c09f54e567a802ccc8a25b8c06a99a49694ab13b65c79369a0cf610b44908f8",
+    "title": "Don Toliver Announces Sixth Album ‘Nitrous,’ Due Next Month",
+    "summary": "Fresh off receiving five Grammy nominations, Don Toliver has announced that his sixth album &#8220;Nitrous&#8221; will be released on December 4 via Cactus Jack/Donnway &#38; Co/Atlantic Records. &#8220;Nitrous,&#8221; which Toliver has been teasing for some time, was recorded, produced and engineered entirely by himself. Toliver announced the album on social media with a clip that [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/music/news/don-toliver-announces-sixth-album-nitrous-release-date-1236951108",
+    "published_at": "2026-11-18T00:38:24+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/DON-TOLIVER-LEAD-PRESS-IMG.png",
+    "collection_timestamp": "2026-11-18T01:08:20.356139+00:00",
+    "thin": false,
+    "author": "Steven J. Horowitz",
+    "tags": [
+      "News",
+      "Don Toliver"
+    ]
+  },
+  {
+    "id": "a745d0cdc3d59b015f940ec9525143e0793a9cbe6fc8abadf435c891eb3ebd1d",
+    "title": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
+    "summary": "Semiconductor shipments spiked almost 50% year on year.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html",
+    "published_at": "2026-11-18T00:35:31+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.381701+00:00",
+    "thin": false
+  },
+  {
+    "id": "18260f6dc7370923185b444af38b49c727fe5b6236831ca06d1602e8eceb1170",
+    "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+    "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote",
+    "published_at": "2026-11-18T00:27:29+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png",
+    "collection_timestamp": "2026-11-18T01:08:20.370069+00:00",
+    "thin": false,
+    "author": "Nick Indge",
+    "tags": [
+      "AI",
+      "Tech",
+      "Agent365",
+      "copilot",
+      "Microsoft ignite"
+    ]
+  },
+  {
+    "id": "7c0e4adcd4386bc3d9b3409960f906e491eff9b91b3087f36fd8a8d026009c77",
+    "title": "DIRECTV’s Holiday Deal Gets You Christmas Movies & Musicals Across Multiple Streaming Platforms at a Low Price",
+    "summary": "With several streaming options and more than 60 live TV channels, DIRECTV’s deals on the MyEntertainment Genre Pack make it a worthy choice for watching festive movies and musicals this year.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/culture/product-recommendations/directv-entertainment-streaming-holiday-deal-prices-plans-1236384477",
+    "published_at": "2026-11-18T00:22:35+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.361744+00:00",
+    "thin": false,
+    "author": "Sophie Dunne",
+    "tags": [
+      "Culture",
+      "Product Recommendations",
+      "Billboard Family",
+      "Billboard Kids",
+      "christmas",
+      "holiday",
+      "NOADS",
+      "streaming",
+      "streaming deals"
+    ]
+  },
+  {
+    "id": "b817e5c3651da6b76a624b16d220cc9c065491fdc83d3596d311778ee9bc5b9b",
+    "title": "Cody Johnson on Why He’s Skipping 2026 CMA Awards: ‘Going 100 MPH All the Time Isn’t Healthy’",
+    "summary": "The 2026 entertainer of the year nominee says he's taking a step back due to \"mental and physical exhaustion.\"",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/country/cody-johnson-not-attending-2026-cma-awards-exhaustion-1236384493",
+    "published_at": "2026-11-18T00:18:21+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.361877+00:00",
+    "thin": false,
+    "author": "Katie Atkinson",
+    "tags": [
+      "Country",
+      "Music",
+      "Awards",
+      "CMA Awards",
+      "genre country",
+      "Music News"
+    ]
+  },
+  {
+    "id": "67e413e81bf0475692fced8dd488f6ba3ad0df1b7ef96c489351174d3b3fac92",
+    "title": "Jeff Bezos Describes How Amazon Decided On Robert Pattinson As The Next James Bond",
+    "summary": "If anyone knows the glitzy, globetrotting world of James Bond it&#8217;s Bezos, Jeff Bezos. The Amazon founder and world&#8217;s second-richest man today revealed that he brought his knowledge of that milieu to the process of choosing the next James Bond, who, if you haven&#8217;t heard yet, is Robert Pattinson. &#8220;I was heavily involved,&#8221; said Bezos [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/jeff-bezos-chose-robert-pattinson-james-bond-1237227282",
+    "published_at": "2026-11-18T00:08:39+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/2026-Vanity-Fair-Oscar-Party-Hosted-By-Mark-Guiducci-Arrivals-1000.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.357949+00:00",
+    "thin": false,
+    "author": "Tomt",
+    "tags": [
+      "Casting",
+      "News",
+      "Amazon",
+      "Amazon MGM Studios",
+      "James Bond",
+      "Jeff Bezos",
+      "Robert Pattinson"
+    ]
+  },
+  {
+    "id": "5a8b1df29a9701995b0818608d59cedc8e6c91706c11814c27cb63987b6e56ae",
+    "title": "Hollywood Reacts to Robert Pattinson’s James Bond Casting: Florence Pugh, Brad Pitt, Rami Malek, More",
+    "summary": "The actor was tapped as the next 007, taking over the iconic role from Daniel Craig, who concluded his run with 2021’s 'No Time to Die.'",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/hollywood-celebs-react-robert-pattinson-james-bond-casting-1236757856",
+    "published_at": "2026-11-18T00:06:22+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.360299+00:00",
+    "thin": false,
+    "author": "Carly Thomas",
+    "tags": [
+      "Movie News",
+      "Movies",
+      "James Bond",
+      "Robert Pattinson"
+    ]
+  },
+  {
+    "id": "95709fb0d3d919386c865b023cf05d84f187a1288bfb89ebfc2a39a78ea7f96c",
+    "title": "5 Big Takeaways From the 2026 Game Awards Nominations",
+    "summary": "From GTA 6 to Control and Crimson Desert, these are the conclusions for the GOTY Race and TGA 2026",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/2026-game-awards-nominations-goty-gta-analysis",
+    "published_at": "2026-11-18T00:00:16+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2024/11/game-awards.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.380191+00:00",
+    "thin": false,
+    "author": "Oli Welsh",
+    "tags": [
+      "GOTY Watch",
+      "Grand Theft Auto 6",
+      "Control Resonant",
+      "Crimson Desert"
+    ]
+  },
+  {
+    "id": "de9231f9671cf791f7e8dcaef817cb961351093735c9d27c6cb13a8f0201cab5",
+    "title": "The Best Watches to Gift This Holiday Season, According to a Shopping Editor",
+    "summary": "From glitzy statement pieces to timeless staples, these are the top Bulova watches they'll love unwrapping this year",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/product-recommendations/style/best-bulova-watches-to-gift-2026-1235659607",
+    "published_at": "2026-11-18T00:00:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.363062+00:00",
+    "thin": false,
+    "author": "Alexis Mikulski Ruiz",
+    "tags": [
+      "RS Recommends",
+      "Style",
+      "gift guide",
+      "noads",
+      "Shopping",
+      "watch"
+    ]
+  },
+  {
+    "id": "a4de0bfc22ba51d307238d9645b7c1d028d9cc6408c6ee568119aa2097e19a02",
+    "title": "Federal Appeals Court Judges Press Nexstar About Its Quest To Narrow Tegna Merger Order",
+    "summary": "A three-judge panel at the U.S. Court of Appeals for the Ninth Circuit peppered a Nexstar Media Group lawyer with questions about the company&#8217;s efforts to salvage its contested acquisition of rival Tegna. Pay-TV operator DirecTV and attorneys general of 13 states sued last March to block the $6.2 billion transaction, which would create a [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/federal-appeals-court-judges-nexstar-tegna-merger-1237226972",
+    "published_at": "2026-11-17T23:54:49+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/03/Nexstar-Tegna-no-deal.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.358130+00:00",
+    "thin": false,
+    "author": "Dade Hayes",
+    "tags": [
+      "Legal",
+      "News",
+      "antitrust",
+      "DirecTV",
+      "Lawsuit",
+      "Nexstar",
+      "Nexstar-Tegna Deal"
+    ]
+  },
+  {
+    "id": "c371efe067492dcca419fc64766f1b1d8e4fca09fbd108477cd0e463cb5c5722",
+    "title": "Belief and bench help Northern Ireland scale new heights as promotion secured",
+    "summary": "Manager Michael O'Neill hails the belief shown by his side after they come from behind against Hungary to earn the draw required for promotion to Nations League A.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po",
+    "published_at": "2026-11-17T23:49:31+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a30/live/f5d9d9d0-e2e1-11f1-a094-5fdc692f3e33.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.382375+00:00",
+    "thin": false
+  },
+  {
+    "id": "92bf67a063731548550b7062ed2a7c608bb89265f64446e5e1204901bdf595ac",
+    "title": "Belief and bench help NI scale new heights",
+    "summary": "Manager Michael O'Neill hails the belief shown by his side after they come from behind against Hungary to earn the draw required for promotion to Nations League A.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cwp9dxr80p3po",
+    "published_at": "2026-11-17T23:49:31+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a30/live/f5d9d9d0-e2e1-11f1-a094-5fdc692f3e33.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.384354+00:00",
+    "thin": false
+  },
+  {
+    "id": "3e4d6874f253d920872d9f98d6a9c7247cf1bdfb65960906c9138557ec05eea8",
+    "title": "Longtime Exec Howard Lee Departs as Skydance Confirms New Cable Structure and Division Name Under Channing Dungey",
+    "summary": "Skydance&#8217;s merged cable networks has a new division name: Skydance Global Cable Media. Warner Bros. TV Group and U.S. Networks head Channing Dungey also revealed the structure under the new entity, which combines the Warner Bros. Discovery and Paramount Global cable networks under one roof. As part of that new organization, longtime exec Howard Lee, [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/tv/news/howard-lee-exits-skydance-global-cable-media-1236951079",
+    "published_at": "2026-11-17T23:47:53+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2020/05/tlc-president-howard-lee.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.356339+00:00",
+    "thin": false,
+    "author": "Michael Schneider",
+    "tags": [
+      "News",
+      "Channing Dungey",
+      "Howard Lee",
+      "Skydance Global Cable Media"
+    ]
+  },
+  {
+    "id": "e2e5e1393cbc0ca431213a70b9d097e1b2003d6cb4668a7869ba0c68529df72d",
+    "title": "Comedians Leah Rudick & Jessica Michelle Singleton Launch ‘People Pleasers’ Podcast With PodcastOne",
+    "summary": "EXCLUSIVE: Comedian Leah Rudick and Jessica Michelle Singleton have announced the launch of People Pleasers, a new comedy podcast with a multi-year deal with PodcastOne, which will serve as its exclusive sales and distribution network. With People Pleasers, Rudick and Singleton are set to offer an unfiltered weekly conversation about self-improvement, self-sabotage, and the never-ending [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/leah-rudick-jessica-michelle-singleton-people-pleasers-podcast-1237227106",
+    "published_at": "2026-11-17T23:46:30+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/PP_1000x563_v2_FINAL.png",
+    "collection_timestamp": "2026-11-18T01:08:20.358339+00:00",
+    "thin": false,
+    "author": "Matthewgrobar",
+    "tags": [
+      "News",
+      "Podcast",
+      "Jessica Michelle Singleton",
+      "Leah Rudick",
+      "People Pleasers",
+      "PodcastOne"
+    ]
+  },
+  {
+    "id": "2b04b82ffa5de06ab004054a966fd4863d369d70006806ca0bfb33eed0a90b5a",
+    "title": "BioWare Is Dead, But Mass Effect’s Spiritual Successor Exodus Just Gave Us A Glimpse of A Spicy Romance",
+    "summary": "For the first time since its announcement during December 2023's The Game Awards, players are getting a look at the female player-character from its upcoming sci-fi RPG Exodus --which was full of Mass Effect DNA back when we previewed it in September. The default female version of main character Jun Aslan was revealed today via a seven-minute featurette showing off both female-Jun's face and a bit more of the game itself. The trailer also provided a glimpse of a brief romance scene between femal",
+    "category": "gaming",
+    "source": "GameSpot",
+    "url": "https://www.gamespot.com/articles/bioware-is-dead-but-mass-effects-spiritual-successor-exodus-just-gave-us-a-glimpse-of-a-spicy-romance",
+    "published_at": "2026-11-17T23:46:24+00:00",
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Exodus-romance.png",
+    "collection_timestamp": "2026-11-18T01:08:20.372624+00:00",
+    "thin": false,
+    "author": "Claire Lewis",
+    "tags": [
+      "Gaming,News"
+    ]
+  },
+  {
+    "id": "012148e33010a34ccf15237989744ff396735a1ac535e31c4fd7ff76046ac3e7",
+    "title": "Travis Scott and Don Toliver Sued Over Sample on Hit JACKBOYS Track ‘What To Do?’",
+    "summary": "A music producer says he deserves master royalties for providing a beat sampled in the 2019 song.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/pro/travis-scott-don-toliver-lawsuit-jackboys-song-sample",
+    "published_at": "2026-11-17T23:43:33+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.362008+00:00",
+    "thin": false,
+    "author": "Rachel Scharf",
+    "tags": [
+      "Business",
+      "Legal News",
+      "Copyright",
+      "genre hiphop",
+      "Hip Hop",
+      "lawsuit",
+      "Legal",
+      "Music News",
+      "samples"
+    ]
+  },
+  {
+    "id": "e0f9e836e7ae11e07e26ff31f9cdab267103c155de70367a56bfc90d6fe29cba",
+    "title": "Denis Villeneuve Says ‘Dune: Part Three’ Is “Something Even Better” Than The First Two Films",
+    "summary": "Denis Villeneuve is teasing Dune: Part Three, saying the third film in the trilogy is his best yet. In an interview with GQ, the filmmaker explained why he thinks the third one is his favorite. &#8220;The second one was much better than the first one because I had learned, because the storytelling was better and [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/denis-villeneuve-dune-part-three-something-even-better-1237227247",
+    "published_at": "2026-11-17T23:41:16+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/denis-villeneuve-dune-part-three.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.358537+00:00",
+    "thin": false,
+    "author": "Armando Tinoco",
+    "tags": [
+      "News",
+      "Denis Villeneuve",
+      "Dune: Part Three"
+    ]
+  },
+  {
+    "id": "771b453353dad2f35cce306b782df83dfe976686f5c120c5d317c48820014a0b",
+    "title": "Thom Velde, Former AMC Theatres Executive, Dies at 83",
+    "summary": "Thomas Velde, who served as head film buyer at AMC Theatres during his 27 years at the exhibitor, died Oct. 31. He was 83. Velde died of cancer at his home in Rancho Mirage, Calif.. For 27 years, he worked at AMC Theatres, where he negotiated film agreements with domestic and international studios while also [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/people-news/thom-velde-dead-amc-theatres-1236951046",
+    "published_at": "2026-11-17T23:41:15+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/thom-color.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.356521+00:00",
+    "thin": false,
+    "author": "Tanya Fedak",
+    "tags": [
+      "Obituaries",
+      "People News",
+      "AMC"
+    ]
+  },
+  {
+    "id": "47cf894a833f3e2c6dcd7287f091b59b61f319403d2dd04beb48fbf432f6eda4",
+    "title": "Bellamy convinced of Wales credentials despite defeat by Portugal",
+    "summary": "Wales finished bottom of their Nations League group, but boss Craig Bellamy believes his team showed they belong in the top flight.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmn507wn6gg3o",
+    "published_at": "2026-11-17T23:37:45+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5735/live/f46405e0-e2e5-11f1-8e58-ef8e322f3c98.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.382524+00:00",
+    "thin": false
+  },
+  {
+    "id": "15c25c136d486ce11ddc7e043899ecb34f222833f03cd830ff0eec1125deed6e",
+    "title": "How to Watch Billboard’s 2026 CMA Awards Red Carpet Livestream",
+    "summary": "The carpet will be hosted by Tetris Kelly &#38; Ellie Thumann ahead of Wednesday's night's Nashville awards show.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/awards/cma-awards-2026-red-carpet-livestream-how-watch-billboard-1236384444",
+    "published_at": "2026-11-17T23:35:56+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.362129+00:00",
+    "thin": false,
+    "author": "Hannah Dailey",
+    "tags": [
+      "Awards",
+      "Music",
+      "CMA Awards",
+      "genre country",
+      "Music News"
+    ]
+  },
+  {
+    "id": "02e88ea5fe9258947acf16d4b00ca466381c6c039ab7ebbfc761508069a7b634",
+    "title": "‘Wicker’ Star Alexander Skarsgard Will Be Pushed Differently for Golden Globes Than Other Awards (Exclusive)",
+    "summary": "The Golden Globe winner's portrayal of a hunk made of twigs has left many audience members as smitten as — and even envious of — Olivia Colman's lonely fisherwoman who commissioned him.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/wicker-alexander-skarsgard-awards-categories-1236757905",
+    "published_at": "2026-11-17T23:29:52+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.360464+00:00",
+    "thin": false,
+    "author": "Scott Feinberg",
+    "tags": [
+      "Movie News",
+      "Movies",
+      "Alexander Skarsgard",
+      "Olivia Colman",
+      "Wicker"
+    ]
+  },
+  {
+    "id": "91f6db8a8f6e20f9e3de03585d16c1a678e28977daf1b9ae411178abe3f4b55f",
+    "title": "‘Grand Theft Auto VI’ Speeds Away With Eight Game Awards Nominations For 2026",
+    "summary": "Grand Theft Auto VI already has racked up more than $1B in presales ahead of its release on Thursday, and now the hit title is being showered with awards glory as well. The Rockstar Games release notched eight Game Awards nominations when that list was announced today, including Game of The Year. The other Game [&#8230;]",
+    "category": "gaming",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/grand-theft-auto-vi-game-awards-nominations-1237227159",
+    "published_at": "2026-11-17T23:28:21+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/the-game-awards-2026-007-gta-zelda.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.358712+00:00",
+    "thin": false,
+    "author": "Tomt",
+    "tags": [
+      "News",
+      "Grand Theft Auto VI",
+      "The Game Awards"
+    ]
+  },
+  {
+    "id": "660527690224e0ce8c0087ca220dea6583492ff82917b24dd87b1d804a26c754",
+    "title": "Cody Johnson to Skip CMA Awards Due to ‘Mental and Physical Exhaustion’",
+    "summary": "The Entertainer of the Year nominee is up for four awards, and was scheduled to perform at the 60th annual broadcast",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-country/cody-johnson-skip-cma-awards-mental-physical-exhaustion-1235659915",
+    "published_at": "2026-11-17T23:27:32+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.363187+00:00",
+    "thin": false,
+    "author": "Marissa Moss",
+    "tags": [
+      "Music",
+      "Music Country",
+      "Cody Johnson"
+    ]
+  },
+  {
+    "id": "900ae2485c00d01efdcda87cc15d4fed9f0f4870f2b8367429b37ce1c9a81931",
+    "title": "Thom Velde Dies: Longtime Head Film Buyer For AMC Theatres Was 83",
+    "summary": "Thomas &#8220;Thom&#8221; Velde, a longtime head film buyer for AMC Theatres who also oversaw its Canadian operations, has died. He was 83. His family said he died October 31 of cancer in Rancho Mirage, near Palm Springs. Velde spent more than a quarter-century at AMC Theatres as head film buyer, negotiating film agreements with domestic [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/thom-velde-dead-amc-theatres-head-film-buyer-1237227193",
+    "published_at": "2026-11-17T23:26:32+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Thom-Velde.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.358881+00:00",
+    "thin": false,
+    "author": "Erik Pedersen",
+    "tags": [
+      "News",
+      "AMC Theatres",
+      "novid",
+      "Thom Velde"
+    ]
+  },
+  {
+    "id": "45bbe359ac335a60917d35611cf96b84a76bf8e62b1344094e3faf2ce90c4089",
+    "title": "Skydance Cable Shakeup: Betsy Sanner Ayala, Jason Sarlanis, Tina Perry & Michael Ouweleen To Oversee Programming; Howard Lee Exiting",
+    "summary": "EXCLUSIVE: Skydance has restructured its cable network division and named four executives to oversee programming, weeks after bringing together Warner Bros Discovery and Paramount. The company has formed Skydance Global Cable Media, which will include such brands as Adult Swim, BET, Comedy Central, Discovery, Food Network, HGTV, ID, MTV, TLC and Nickelodeon. This comes after [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/skydance-global-cable-media-restructure-1237227161",
+    "published_at": "2026-11-17T23:25:00+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/split-image-1500-1-2.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.359078+00:00",
+    "thin": false,
+    "author": "Peterdeadline",
+    "tags": [
+      "Executives",
+      "News",
+      "Betsy Sanner Ayala",
+      "Channing Dungey",
+      "Jason Sarlanis",
+      "Michael Ouweleen",
+      "Skydance",
+      "Skydance Global Cable Media",
+      "Tina Perry"
+    ]
+  },
+  {
+    "id": "d13b25c2dec0d37246f29eb8db15b0dee2ac738627b84865c2162ac7b8e4defa",
+    "title": "Terri J. Vaughn Signs With Zero Gravity Management",
+    "summary": "EXCLUSIVE: Actress, director, producer and creator Terri J. Vaughn has signed with Zero Gravity Management for acting and literary representation. Her signing with Zero Gravity Management will focus on expanding her acting and directing opportunities while also developing and packaging original film, television and new media projects through the company&#8217;s literary division. She most recently [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/terri-j-vaughn-zero-gravity-management-1237226966",
+    "published_at": "2026-11-17T23:21:18+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Terri-J.-Vaughn.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.359252+00:00",
+    "thin": false,
+    "author": "Rosy Cordero",
+    "tags": [
+      "Agencies",
+      "News",
+      "Zero Gravity Management"
+    ]
+  },
+  {
     "id": "6a027be23c3a358acad57b3ba079294c743d20ff0668302f3b91fa836ac27ec4",
     "title": "Only M*rders in London OTT Release: When And Where to Watch Season 6 of Selena Gomez, Steve Martin, Martin Short’s Show",
     "summary": "Only M*rders in London, the 6th season of Only M*rders in the Building, is all set to begin streaming online soon. Ahead of the new edition&rsquo;s debut, the trailer for the series has been unveiled. Here are the details. When and where to watch Only M*rders in London Only M*rders in the Building Season 6 - Only M*rders in London is all set to premiere on the OTT platform Hulu and Hulu on Disney+. The series will be available for streaming on December 8, 2026. While more details about the India",
@@ -12,6 +582,316 @@
     "thin": false
   },
   {
+    "id": "df79e4d5c217b3106ddb7cecdd524677edf8f19522b20fead10d82f43dac3e8f",
+    "title": "Netflix Eyes Return to Cannes After 10 Years as Festival Lobbies for Joel Coen’s ‘Jack of Spades,’ Starring Josh O’Connor",
+    "summary": "The ice appears to be thawing between Netflix and Cannes. The streamer, which hasn’t debuted a film at the festival in almost a decade due to France’s strict rules around theatrical releases, is eyeing a return to the south of France in 2027, Variety has learned. Ted Sarandos suggested as much earlier this year, when [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/global/netflix-return-to-cannes-joel-coen-jack-of-spades-1236948245",
+    "published_at": "2026-11-17T23:15:57+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2024/11/Josh-Oconnor.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.356732+00:00",
+    "thin": false,
+    "author": "Alex Ritman",
+    "tags": [
+      "Global",
+      "News",
+      "Cannes",
+      "Ethan Coen",
+      "Josh O'Connor",
+      "Netflix"
+    ]
+  },
+  {
+    "id": "4656850e936a44a108c545738f85d53580d178c0412475345e80a38804afb793",
+    "title": "Republic of Ireland talisman Parrott caps dream year with two more goals",
+    "summary": "Republic of Ireland striker Troy Parrott reflects on a transformative 12 months for both club and country after scoring a double in the win against Kosovo.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqzjr3yr2z0eo",
+    "published_at": "2026-11-17T23:10:33+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8700/live/18d492f0-e2d2-11f1-99ed-7de3e5932968.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.383077+00:00",
+    "thin": false
+  },
+  {
+    "id": "e2c954380770b8517e4b519ec17b649419a37b265ba4479d69b82ade2f0c67aa",
+    "title": "Jeff Daniels Set For Ramy Youssef’s ‘Martha & Muhammad’ At A24",
+    "summary": "EXCLUSIVE: Two-time Primetime Emmy winner Jeff Daniels is joining Ramy Youssef&#8217;s A24 feature comedy Martha &#38; Muhammad alongside previously announced Amanda Seyfried and Sharon Stone. Plot and character details are being kept secret in what is Ramy alum Youssef&#8217;s feature directorial debut. Daniels won a Drama Series Lead Actor Emmy for HBO&#8217;s The Newsroom in [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/jeff-daniels-ramy-youssef-martha-muhammad-1237227139",
+    "published_at": "2026-11-17T23:10:00+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Jeff-Daniels-Ramy-Youssef.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.359445+00:00",
+    "thin": false,
+    "author": "Anthonypauldalessandro",
+    "tags": [
+      "Casting",
+      "News",
+      "Jeff Daniels",
+      "Martha & Muhammad",
+      "Ramy Youssef"
+    ]
+  },
+  {
+    "id": "273eb69b3905f7c56304c0dbde0caa240715c5b1676d09ec2f5c75103c505177",
+    "title": "Jeff Bezos Was ‘Heavily Involved’ in Casting Robert Pattinson as James Bond and Admits Initial Fears ‘Because He’s Already So Famous’",
+    "summary": "Amazon founder and chairman Jeff Bezos revealed during a recent appearance at Semafor’s Silicon Valley &#38; The World event that he was &#8220;heavily involved&#8221; in Amazon MGM casting Robert Pattinson as the next James Bond. Bezos said that because Bond is traditionally a star-making role, they were at first &#8220;slightly biased&#8221; against casting Pattinson because [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/news/jeff-bezos-involved-casting-robert-pattinson-james-bond-1236950970",
+    "published_at": "2026-11-17T23:03:42+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/jeff-bezos-robert-pattinson-1.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.356947+00:00",
+    "thin": false,
+    "author": "Jack Dunn",
+    "tags": [
+      "News",
+      "James Bond",
+      "Jeff Bezos",
+      "Robert Pattinson"
+    ]
+  },
+  {
+    "id": "5a56e924b13c7459bc699190a38024a379342133658e707d2ed2d63e89dd666a",
+    "title": "Thom Velde, Longtime AMC Theatres Executive, Dies at 83",
+    "summary": "He served as head film buyer and oversaw Canadian operations and real estate ventures during his nearly three decades with the company.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/business/business-news/thom-velde-dead-amc-theatres-executive-1236757931",
+    "published_at": "2026-11-17T23:03:14+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.360591+00:00",
+    "thin": false,
+    "author": "Mike Barnes",
+    "tags": [
+      "Business",
+      "Business News",
+      "Obituaries"
+    ]
+  },
+  {
+    "id": "50f0ec8bd666b7b3e9a5818f1b8291fc7b39df401fcd533cf9aee6759f73f598",
+    "title": "IDA Documentary Awards Nominations: ‘Concrete Land,’ ‘To Hold a Mountain,’ ‘You Can See Everything’ Among Top Nominees",
+    "summary": "Other films up for multiple prizes include 'Rehearsals for a Revolution' and 'A Fox Under a Pink Moon.'",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/2026-ida-documentary-awards-nominations-nominees-list-1236757888",
+    "published_at": "2026-11-17T23:02:25+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.360741+00:00",
+    "thin": false,
+    "author": "Hilary Lewis",
+    "tags": [
+      "Movie News",
+      "Movies",
+      "Awards",
+      "Documentaries",
+      "documentary",
+      "IDA Documentary Awards",
+      "International Documentary Association",
+      "You Can See Everything"
+    ]
+  },
+  {
+    "id": "9b88bb3ce61842e0732e7ea77e2baf83cd26ffaba87ccfd4ab2279fd8c479d52",
+    "title": "Resident Evil Requiem’s Game Awards Nominee Is Ready for Resident Evil 10",
+    "summary": "Resident Evil Requiem was nominated for a number of TGA awards, including for Angela Sant'Albano. The actor thinks Grace could be in a sequel.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/resident-evil-requiem-grace-angela-santalbano-actor-game-awards-nomination-2026",
+    "published_at": "2026-11-17T23:00:17+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grace-ashcroft-holding-flashlight.png",
+    "collection_timestamp": "2026-11-18T01:08:20.380334+00:00",
+    "thin": false,
+    "author": "Matt Patches",
+    "tags": [
+      "Interview",
+      "Resident Evil Requiem"
+    ]
+  },
+  {
+    "id": "4dd3dc621c903b0c85dcc7975a0991e24935555d5bc1e121af717517ac81eae1",
+    "title": "Jeff Bezos Says He Was “Heavily Involved” in Casting Robert Pattinson as James Bond",
+    "summary": "The Amazon founder told a conference Tuesday that he and the film leadership were initially biased against Pattinson before realizing they found their man.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/jeff-bezos-chose-robert-pattinson-as-james-bond-amazon-mgm-1236757909",
+    "published_at": "2026-11-17T22:57:03+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.360884+00:00",
+    "thin": false,
+    "author": "Alex Weprin",
+    "tags": [
+      "Movie News",
+      "Movies",
+      "Amazon MGM Studios",
+      "James Bond",
+      "Jeff Bezos"
+    ]
+  },
+  {
+    "id": "76c1c9ce5470e235e2bfa66f9728f8ba6e1e8299a2ba1424b2df85eca3e6667e",
+    "title": "Humphries and Van Gerwen into Grand Slam knockouts",
+    "summary": "Luke Humphries and Michael van Gerwen book their places in the last 16 of the Grand Slam of Darts with victories in their final group matches.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/darts/articles/c6jd7el8d9kyo",
+    "published_at": "2026-11-17T22:57:02+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e72f/live/32bf1870-e2d2-11f1-99ed-7de3e5932968.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.382690+00:00",
+    "thin": false
+  },
+  {
+    "id": "4ae3c264c1e760ddda8bc00b76fef8dd32521ec4b6f7787354a0227984e6f72d",
+    "title": "Trae Crowder Sets Comedy Interview Series ‘Help Me Out Here’ With All Things Comedy; Minnesota Gov. Tim Walz Is His First Guest",
+    "summary": "EXCLUSIVE: Comedian Trae Crowder has teamed up with All Things Comedy for Help Me Out Here, a new weekly comedy/interview series set to premiere on Crowder&#8217;s YouTube channel on November 18. The series follows Crowder as he tries to make sense of what the hell is going on, with help from big-city experts and his [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/trae-crowder-sets-help-me-out-here-series-atc-1237227172",
+    "published_at": "2026-11-17T22:49:49+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/image_c7e0fd.png",
+    "collection_timestamp": "2026-11-18T01:08:20.359630+00:00",
+    "thin": false,
+    "author": "Matthewgrobar",
+    "tags": [
+      "News",
+      "Podcast",
+      "All Things Comedy",
+      "Help Me Out Here",
+      "Trae Crowder"
+    ]
+  },
+  {
+    "id": "e27210ff0dbf5ceae99b500672d28d1078190ea7aee5e18dac365c7a8bf06847",
+    "title": "Matt Shakman Launches Foolscap Production Banner, Unveils Exec Team",
+    "summary": "EXCLUSIVE: Matt Shakman, the multiple Emmy and DGA Award nominee behind the likes of WandaVision and The Fantastic Four: First Steps, has launched a new production banner, Foolscap. Shakman describes Foolscap as a filmmaker-first company that will work to redefine genre through elevated commercial storytelling. The company will work across film &#38; TV, always with [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/matt-shakman-launches-foolscap-production-banner-1237227137",
+    "published_at": "2026-11-17T22:45:00+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/MATT-SHAKMAN-Fools-Cap-logo.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.359802+00:00",
+    "thin": false,
+    "author": "Matthewgrobar",
+    "tags": [
+      "Executives",
+      "News",
+      "Alie Rivier Gutman",
+      "Andrew Stearn",
+      "Foolscap",
+      "Lulu Dillon",
+      "Matt Shakman"
+    ]
+  },
+  {
+    "id": "37e40a839746b5f7fea275f68be0d9efc742c15d39f7b111c181c88698030fd2",
+    "title": "‘Dancing With the Stars’: All 34 Winners",
+    "summary": "A Tony winner, several Olympians, Super Bowl champions, Bachelorettes and the Irwin siblings are just a few of the stars who have won the coveted mirrorball trophy throughout the show’s 20-year history.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/lists/dancing-with-the-stars-winners-list",
+    "published_at": "2026-11-17T22:44:43+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.361041+00:00",
+    "thin": false,
+    "author": "McKinley Franklin",
+    "tags": [
+      "TV",
+      "TV Features",
+      "ABC",
+      "Dancing with the Stars",
+      "Daniella Karagach",
+      "Donny Osmond",
+      "Jenna Johnson",
+      "Nicole Scherzinger",
+      "Valentin Chmerkovskiy",
+      "Witney Carson"
+    ]
+  },
+  {
+    "id": "4fe78abe717166232dc45e945496313d0abcbd16de25b86b2c86beb6cecfd236",
+    "title": "These 12 Follow-Ups to Grammy Album of the Year Winners Didn’t Receive a Single Nomination: Full List",
+    "summary": "Harry Styles is in good company. Such music legends as Carole King, George Harrison and Lionel Richie experienced the same fate.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/lists/grammy-album-of-the-year-winners-followups-not-nominated",
+    "published_at": "2026-11-17T22:43:55+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.362264+00:00",
+    "thin": false,
+    "author": "Paul Grein",
+    "tags": [
+      "Awards",
+      "Music",
+      "grammy award for album of the year",
+      "Grammys"
+    ]
+  },
+  {
+    "id": "d55c600055dd7e128820335f7665cdefc19940f08549b75cec0374a00f858516",
+    "title": "Jennifer Lawrence’s ‘Hunger Games’ Premiere Look Proves the Boudoir Coat Is Back: Here’s Where to Shop Similar Styles Online",
+    "summary": "Naked dressing out. Fur, in. At the premiere of &#x201C;The Hunger Games: Sunrise on the Reaping&#x201D; on Monday night, Jennifer Lawrence embraced one of the biggest outerwear trends this season: the fur-trimmed satin coat. The actress, who reprises her beloved role as Katniss in the prequel film, walked the carpet in a floor-length black silk [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/shopping/news/jennifer-lawrence-hunger-games-premiere-dior-fur-coat-shop-1236950905",
+    "published_at": "2026-11-17T22:43:29+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2305445903.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.357140+00:00",
+    "thin": false,
+    "author": "Atingley4",
+    "tags": [
+      "News",
+      "Jennifer Lawrence",
+      "The Hunger Games: Sunrise on the Reaping"
+    ]
+  },
+  {
+    "id": "0e2b381910530538bfa0b562c94f2c7f5f4f2957933c03522a60d9a2cd127af9",
+    "title": "CMA Awards Predictions: Expect Ella Langley to Get Everything but Male Vocalist, and Maybe Even That’s Not Safe",
+    "summary": "The suspense is unbearable: Will the 2026 CMA Awards see Ella Langley enjoying a total sweep, or just a near-sweep? That is a real question, not a rhetorical one. But before we start trying to anticipate the math, let&#8217;s remember that, although Langley had a leading nine nominations, the most she can win is seven, [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/music/news/cma-awards-predictions-2026-nominees-ella-langley-1236950822",
+    "published_at": "2026-11-17T22:41:27+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/09/GettyImages-2247560030.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.357336+00:00",
+    "thin": false,
+    "author": "Chris Willman",
+    "tags": [
+      "Columns",
+      "News",
+      "CMA Awards",
+      "Cody Johnson",
+      "Ella Langley",
+      "kacey musgraves",
+      "Tucker Wetmore"
+    ]
+  },
+  {
+    "id": "8fe7dcd44d491b3d2ce6598dc99a517a5ed3c7b6041354a398699d5dd088190c",
+    "title": "Madonna Calls Dance ‘The Hidden Language of the Soul’ in 2027 Grammy Nomination ‘Love Letter’",
+    "summary": "The Queen of Pop is nominated in all four of the dance categories at the 2027 awards.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/pop/madonna-grammy-nominations-letter-confession-ii-dance-1236384431",
+    "published_at": "2026-11-17T22:37:46+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.362387+00:00",
+    "thin": false,
+    "author": "Katie Bain",
+    "tags": [
+      "Music",
+      "Pop",
+      "Awards",
+      "Dance",
+      "genre dance",
+      "Grammys",
+      "Music News"
+    ]
+  },
+  {
     "id": "43ddcb75762f414d7b2806081f50268f6833b8ea06d9e344e353a58df0ad28ca",
     "title": "Hello Dear Release Date: Mamitha Baiju’s romantic comedy film to hit theaters on January 29, 2027",
     "summary": "Hello Dear, starring Mamitha Baiju and Sangeeth Prathap in the lead roles, is an upcoming romantic comedy directed by debutant director Dinoy Paulose. The makers have now unveiled a new poster for the film, officially announcing its theatrical release date. Hello Dear Release Date Hello Dear is slated to release in theatres worldwide on January 29, 2027. The production team announced the release date through a social media post featuring a new look from the film. The announcement read, &ldquo;He",
@@ -21,6 +901,200 @@
     "published_at": "2026-11-17T22:37:39+05:30",
     "image_url": null,
     "collection_timestamp": "2026-11-17T18:08:28.111412+00:00",
+    "thin": false
+  },
+  {
+    "id": "09763e995814f7a4249ca1997ac1eda36488dd11cb9a21ac124e470f0b4b6c4f",
+    "title": "Leading Cyber Expert: “We Are Entering the Flickers”",
+    "summary": "Former Defense Department Cyber Czar Brett J. Goldstein says Hollywood and media are about to get pummeled along with everyone else.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/business/digital/hack-cybersecurity-outages-flights-what-should-i-do-1236757846",
+    "published_at": "2026-11-17T22:36:17+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.361166+00:00",
+    "thin": false,
+    "author": "Steven Zeitchik",
+    "tags": [
+      "Business",
+      "Digital",
+      "AI",
+      "Cybersecurity"
+    ]
+  },
+  {
+    "id": "22cc52523fe151d0f2ab599c655b5070e36df8804ebb7af979744a0b6b6b7463",
+    "title": "‘Much Ado About Nothing’ With Tom Hiddleston & Hayley Atwell Takes Hefty $2.4M; Billy Crystal’s ‘860’ Breaks House Record – Broadway Box Office",
+    "summary": "Broadway got an early jump on the usual holiday business boost, with star-driven productions like Much Ado About Nothing, Billy Crystal&#8217;s 860 and Other Desert Cities with Julia Louis-Dreyfus doing excellent box office last week. In fact, Much Ado, the Jamie Lloyd staging starring Tom Hiddleston and Hayley Atwell, was standing room only at the [&#8230;]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/broadway-box-office-much-ado-about-nothing-billy-crystal-1237226593",
+    "published_at": "2026-11-17T22:33:50+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/bo.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.359992+00:00",
+    "thin": false,
+    "author": "Greg Evans",
+    "tags": [
+      "News",
+      "860",
+      "Broadway",
+      "Broadway Box Office",
+      "Galileo",
+      "Inter Alia",
+      "Much Ado About Nothing"
+    ]
+  },
+  {
+    "id": "d45929df6ee6279a9bf1ee54565870a1d77a6879341f10a8bd207cc5b161aaef",
+    "title": "Thomas Markle Facing New Child Sex Abuse Charges in the Philippines",
+    "summary": "Police have filed three charges with prosecutors in the city of Cebu, who will now decide whether or not to proceed with the case against Meghan Markle's estranged father",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/culture/culture-news/thomas-markle-child-abuse-charges-philippines-1235659794",
+    "published_at": "2026-11-17T22:30:51+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.363314+00:00",
+    "thin": false,
+    "author": "Jon Blistein",
+    "tags": [
+      "(Sub)Culture News",
+      "Culture",
+      "controversy",
+      "courts and crime",
+      "Meghan Markle",
+      "thomas markle"
+    ]
+  },
+  {
+    "id": "6da312d50ce07ed61eff35c604c26b30ae0b107f580e0c9d062fb5a65169cccf",
+    "title": "Ruthless Zverev through to ATP Finals knockout stage",
+    "summary": "World number one Alexander Zverev produces a serving masterclass to defeat Ben Shelton and qualify for the ATP Finals knockout stage with a match to spare.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/tennis/articles/c6x2eveyyxp0o",
+    "published_at": "2026-11-17T22:30:24+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa9e/live/2f3ee070-e2d4-11f1-99ed-7de3e5932968.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.383201+00:00",
+    "thin": false
+  },
+  {
+    "id": "156fdb456a1d03b030bee731c68a97654bb64fb1bb0e39a693f14e6fd340d3f8",
+    "title": "Cynthia Erivo to Host Rockefeller Center Tree Lighting Starring Kelly Clarkson, Alanis Morissette & More",
+    "summary": "Alex Warren, EJAE &#38; Wynonna Judd are also on the bill.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/music-news/cynthia-erivo-host-rockefeller-tree-lighting-lineup-1236384415",
+    "published_at": "2026-11-17T22:29:09+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.362512+00:00",
+    "thin": false,
+    "author": "Hannah Dailey",
+    "tags": [
+      "Music",
+      "Music News",
+      "genre pop",
+      "holiday"
+    ]
+  },
+  {
+    "id": "7995477bacd93ddde433ac59e3ff3fd43fe5b7c98e92c3305da1c974e1a1537d",
+    "title": "Shutters Opens Doors to Annual Membership Club",
+    "summary": "The oceanfront property, long a favored destination of entertainment industry insiders, has launched Shutters Reserve, a membership program featuring exclusive access and a slew of Shutters-style perks.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/shutters-on-the-beach-santa-monica-annual-membership-club-1236757829",
+    "published_at": "2026-11-17T22:27:59+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.361304+00:00",
+    "thin": false,
+    "author": "Chris Gardner",
+    "tags": [
+      "Lifestyle",
+      "Lifestyle News",
+      "santa monica",
+      "Shutters on the Beach"
+    ]
+  },
+  {
+    "id": "c515ed28382ee88a544d34cf61296bfcf0dd43262ca00c0b3e0fff6cb0f3af28",
+    "title": "Liverpool lead Chelsea in Camara race - Wednesday's gossip",
+    "summary": "Liverpool leading Chelsea in race for Monaco's Lamine Camara, Barcelona rule out moves for Virgil van Dijk and Bruno Fernandes, and ex-Crystal Palace winger Wilfried Zaha could rejoin the club.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cvx2xwx604y0o",
+    "published_at": "2026-11-17T22:25:16+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acd1/live/eaa3d110-e2d2-11f1-99ed-7de3e5932968.png",
+    "collection_timestamp": "2026-11-18T01:08:20.382925+00:00",
+    "thin": false
+  },
+  {
+    "id": "8c78a4daebaadd8e395f654fcc3a79b7abdac3a41dabf334466490e3edc3e3b5",
+    "title": "Anne Hathaway Welcomes Third Child With Husband Adam Shulman",
+    "summary": "The couple also shares two sons.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/anne-hathaway-welcomes-third-child-1236730455",
+    "published_at": "2026-11-17T22:22:26+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.361405+00:00",
+    "thin": true,
+    "author": "Carly Thomas",
+    "tags": [
+      "Lifestyle",
+      "Lifestyle News",
+      "Anne Hathaway"
+    ]
+  },
+  {
+    "id": "ae099ab2662a9cc3ea0c7ae63ce923f02bb24a9e8260ab084268d704d4938c0f",
+    "title": "Marvel Started Planning for Robert Downey Jr.’s Doctor Doom Before Jonathan Majors Was Fired and ‘Avengers: The Kang Dynasty’ Fell Apart, Says Kevin Feige",
+    "summary": "Before &#8220;Avengers: Doomsday,&#8221; there was &#8220;Avengers: The Kang Dynasty.&#8221; Marvel Studios boss Kevin Feige announced the latter title at Comic-Con in July 2022, with Jonathan Majors&#8217; Kang the Conqueror poised to become the Marvel Cinematic Universe&#8217;s next Thanos-sized villain starting with 2023&#8217;s &#8220;Ant-Man and the Wasp: Quantumania.&#8221; Those plans, however, were upended a few weeks [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/news/doctor-doom-avengers-kang-dynasty-jonathan-majors-fired-1236950563",
+    "published_at": "2026-11-17T22:20:09+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/MCDAVDO-WD017-MCDANMA-WD029-1000.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.357573+00:00",
+    "thin": false,
+    "author": "Zack Sharf",
+    "tags": [
+      "News",
+      "Avengers: Doomsday",
+      "Kevin Feige",
+      "Marvel Studios"
+    ]
+  },
+  {
+    "id": "8310d0625b3bcc3197c6967708ffd34c480b90be2e7d523dd99d30feb8d13f94",
+    "title": "The Next Bond Villain: From Idris Elba to Kristen Stewart, 22 Actors Who Should Face Off Against Robert Pattinson",
+    "summary": "Every James Bond is only as good as the person who’s trying to kill him. Throughout the franchise’s history, we’ve seen Sean Connery take on Gert Fröbe’s Goldfinger, Roger Moore tackle Christopher Walken’s Max Zorin and, in the Daniel Craig era, Mads Mikkelsen’s Le Chiffre in “Casino Royale” and Javier Bardem’s notorious Raoul Silva in [&#8230;]",
+    "category": "hollywood",
+    "source": "Variety",
+    "url": "https://variety.com/lists/robert-pattinson-james-bond-villains-actors-picks",
+    "published_at": "2026-11-17T22:15:00+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Bond-Villains.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.357769+00:00",
+    "thin": false,
+    "author": "Clayton Davis",
+    "tags": [
+      "Lists",
+      "News",
+      "James Bond",
+      "Kristen Stewart",
+      "Pierce Brosnan",
+      "Robert Pattinson"
+    ]
+  },
+  {
+    "id": "bb9ad4b3b49a27b7e3a7891278b9fa76ba6637c838f2f2b976d4d23a6138b9b3",
+    "title": "International Ice Hockey Federation website hacked after Russia banned from event",
+    "summary": "The International Ice Hockey Federation's website was targeted in a cyber attack, seemingly in response to Canada's decision to ban Russia from the World Junior Hockey Championship.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cv98x3d7jwndo",
+    "published_at": "2026-11-17T22:14:31+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f27/live/38d2f5c0-e132-11f1-a204-d95dd4dbb76b.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.383328+00:00",
     "thin": false
   },
   {
@@ -36,6 +1110,183 @@
     "thin": false
   },
   {
+    "id": "831ad82acdbbbf49efadf378e340e8a5669e6d2795d26111266e6bf49e0c8f98",
+    "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
+    "summary": "Major outages showcase the risks of interconnected tech in the age of AI.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
+    "published_at": "2026-11-17T22:03:57+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.381505+00:00",
+    "thin": false
+  },
+  {
+    "id": "089d69b2fd1aaf33081296b9c68558b2cf9ef0c99aad20699f185a5605da0bc7",
+    "title": "Highlights: Ten-man Portugal beat Wales to top group",
+    "summary": "Watch the best of the action as Portugal beat Wales in the Nations League in Cardiff.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cmwy8p49xp25o",
+    "published_at": "2026-11-17T21:56:04+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0223/live/e2dd87c0-e2d0-11f1-99a1-253766e7ad8b.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.383550+00:00",
+    "thin": false
+  },
+  {
+    "id": "c85acee19625c739167a53694d2af54471afd2ce785c85c6cebfceb4a8c77384",
+    "title": "VENU Honors Jorge Juárez With Disruptor Award at 2026 Billboard Live Music Summit | Billboard",
+    "summary": "This is partner content. Billboard and Live Music Summit presenting partner VENU honored Jorge Juárez with the Disruptor Award at the 2026 Billboard Live Music Summit. The festivities began the night before at VENU’s Music &#38; Money Cocktail Hour, where industry executives gathered for drinks and conversation, including a fireside chat with VENU Founder, Chairman [&#8230;]",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/video/venu-honors-jorge-juarez-with-disruptor-award",
+    "published_at": "2026-11-17T21:41:10+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.362694+00:00",
+    "thin": false,
+    "author": "Katie Cao",
+    "tags": [
+      "Media",
+      "Videos",
+      "Music News",
+      "Partner Content",
+      "VENUYEAR2"
+    ]
+  },
+  {
+    "id": "8abd41333f694995d0471784f6f17bf59ee59ad6415757de1ed668cde4fd7bfa",
+    "title": "Justice, Pretty Lights, Honey Dijon & RL Grime Lead Lightning In a Bottle 2027 Lineup",
+    "summary": "The festival returns to SoCal on May 26-30.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/music-news/lightning-in-a-bottle-2027-lineup-justice-pretty-lights-1236384006",
+    "published_at": "2026-11-17T21:33:29+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.362800+00:00",
+    "thin": false,
+    "author": "Katie Bain",
+    "tags": [
+      "Music",
+      "Music News",
+      "Dance",
+      "genre dance"
+    ]
+  },
+  {
+    "id": "7979324a2ef47ddb40267780bb636011834891718798f6c5c6578b14f8b8a23c",
+    "title": "When Are The Game Awards 2026: Date, Time, and How to Watch",
+    "summary": "Everything you need to know about where and when to watch The Game Awards 2026, including date, start time, and how long The Game Awards are.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/game-awards-2026-how-to-watch-when-date-time",
+    "published_at": "2026-11-17T21:20:01+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/signin-bg.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.380488+00:00",
+    "thin": false,
+    "author": "Elijah Gonzalez",
+    "tags": [
+      "Gaming",
+      "The Game Awards",
+      "Grand Theft Auto 6"
+    ]
+  },
+  {
+    "id": "9cb84b314883aaf058c68a435ff6d19170c9e578a9e3559fb4820befe72f033d",
+    "title": "Nvidia closes lower ahead of earnings as company reels from Huang resignation",
+    "summary": "Investors have been weighing the fallout from former CEO Jensen Huang's resignation.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html",
+    "published_at": "2026-11-17T21:05:24+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.381998+00:00",
+    "thin": false
+  },
+  {
+    "id": "9f8e10c88aab4c78f19038a17372dca2a751e964c2ca5f0ab25cd9cb3774cd24",
+    "title": "Rangers great Brand dies aged 89",
+    "summary": "Rangers have paid tribute to Ralph Brand, one of the most prolific goalscorers in the club's history, who has died aged 89.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c933g4eegmp8o",
+    "published_at": "2026-11-17T21:02:57+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1db1/live/95aec9c0-e2c9-11f1-99ed-7de3e5932968.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.383701+00:00",
+    "thin": false
+  },
+  {
+    "id": "d2a1361c2abffdc3a2db6d375edc9b3f8a3f9815f475d559b7f690ae77372c3b",
+    "title": "Magic: The Gathering Boss Reveals the Next Marvel Set’s Surprising Origin Story",
+    "summary": "Aaron Forsythe said Magic’s original narrative got ‘total buy-in’ from Marvel",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/mtg-marvels-darkhold-destiny-story-interview",
+    "published_at": "2026-11-17T21:00:17+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/magic-darkhold-destiny-3.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.380633+00:00",
+    "thin": false,
+    "author": "Sam Nelson",
+    "tags": [
+      "Interview",
+      "Magic: The Gathering",
+      "Marvel's Guardians of the Galaxy",
+      "Marvel",
+      "Tabletop Games",
+      "Trading Card Game"
+    ]
+  },
+  {
+    "id": "a10a814b56cf5b6c3f1a4d005311994427bbcd3446f20ed5086e083da0f28b7e",
+    "title": "This Fighting Game Is Nominated For A TGA Despite Development Shutting Down",
+    "summary": "Earlier today, Geoff Keighley announced all of the nominees for The Game Awards 2026 , the annual celebration of gaming held in Los Angeles. Among expected nominees Grand Theft Auto VI, The Legend of Zelda: Ocarina of Time, and Control Resonant was one surprising name: 2XKO has been nominated for Best Fighting Game, despite Riot Games announcing the end of the game's lifecycle earlier this year. Riot announced that \"active development\" for the fighting game, featuring characters from League of L",
+    "category": "gaming",
+    "source": "GameSpot",
+    "url": "https://www.gamespot.com/articles/this-fighting-game-is-nominated-for-a-tga-despite-development-shutting-down",
+    "published_at": "2026-11-17T20:59:17+00:00",
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/2xko.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.373199+00:00",
+    "thin": false,
+    "author": "Jason Fanelli",
+    "tags": [
+      "Gaming,News"
+    ]
+  },
+  {
+    "id": "8d446dcf99cd7cd499a44cc35a0997552ff6347b0327e8ecf973f883080fdab1",
+    "title": "GTA 6's Game Awards Nominations Are Exactly What Everyone Predicted",
+    "summary": "GTA 6 earned eight nomination at the 2026 Game Awards — the most of any nominated game, in pretty much every category it could've.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/gta-6-game-awards-nominations-expectations",
+    "published_at": "2026-11-17T20:52:32+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vice_city_18-1.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.380766+00:00",
+    "thin": false,
+    "author": "Ari Notis",
+    "tags": [
+      "Analysis",
+      "Grand Theft Auto 6"
+    ]
+  },
+  {
+    "id": "ba647da470d93017e1584584ee7f8234074e74d8c286dbaf93631cfe6ba126df",
+    "title": "Target Officially Reveals Big Pokémon TCG Deals On Black Friday",
+    "summary": "Target is expected to have a wide range of Pokémon 30th Anniversary TCG products for sale as doorbusters on Black Friday",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/target-black-friday-2026-pokemon-sale-30th-anniversary-product-list",
+    "published_at": "2026-11-17T20:47:30+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/poke-mon-tcg-pocket_-dual-fusion-_-official-trailer-1-13-screenshot.jpeg",
+    "collection_timestamp": "2026-11-18T01:08:20.380893+00:00",
+    "thin": false,
+    "author": "Patricia Hernandez",
+    "tags": [
+      "News",
+      "Pokemon",
+      "Pokemon Trading Card Game"
+    ]
+  },
+  {
     "id": "c29f2f3d85c918e8c12aea616c28401f51201df88e2a98f09aeed1b03f1d20a4",
     "title": "Seyon: Kamal Haasan to make a cameo appearance with ‘Virumandi’ look in Sivakarthikeyan starrer? Find Out",
     "summary": "Seyon, starring Sivakarthikeyan in the lead role, is an upcoming gritty action entertainer directed by Thaai Kizhavi fame Sivakumar Murugesan. Now, reports suggest that the film&#39;s co-producer Kamal Haasan might make a special cameo appearance, potentially reprising his iconic look from Virumaandi. Seyon: Kamal Haasan to make a cameo appearance in Sivakarthikeyan starrer? According to Valai Pechu, Kamal Haasan is likely to make a cameo appearance in Sivakarthikeyan&#39;s Seyon. The film is co",
@@ -46,6 +1297,212 @@
     "image_url": null,
     "collection_timestamp": "2026-11-17T18:08:28.113433+00:00",
     "thin": false
+  },
+  {
+    "id": "b3b7257cbe00e4cf44c04d646b322445950a5e691774b9db4c7406d169bb0dff",
+    "title": "We've almost reached Peak Sauron",
+    "summary": "Rings of Power showrunner Patrick McKay says Sauron isn't the Dark Lord yet... but he's getting there.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/video/we-ve-almost-reached-peak-sauron",
+    "published_at": "2026-11-17T20:34:00+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/we-ve-almost-reached-peak-sauron.png",
+    "collection_timestamp": "2026-11-18T01:08:20.381003+00:00",
+    "thin": false,
+    "author": "Corey Plante",
+    "tags": [
+      "No social",
+      "The Lord of the Rings: The Rings of Power"
+    ]
+  },
+  {
+    "id": "05987eec5a000c678e1adf27531b53ffbfec67354b3b5379ab422e1cfbbc5a1c",
+    "title": "A generational flight from tech to defensive stocks is underway. How we’re capitalizing",
+    "summary": "Jim Cramer has pushed the message that its important for investors to balance their portfolios.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/17/a-generational-flight-from-tech-to-defensive-stocks-is-underway-how-were-capitalizing.html",
+    "published_at": "2026-11-17T20:31:27+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.382110+00:00",
+    "thin": false
+  },
+  {
+    "id": "ef87bb70f4086339f977345eab8ea6e277c4109cf9a9721e3a8ad97ebfb06c32",
+    "title": "Wall Street's fear gauge is surging again and this time it's not just about AI jitters",
+    "summary": "VIX up four days in a row as options traders show fear unseen since April",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/17/wall-streets-fear-gauge-is-surging-again-and-this-time-its-not-just-about-ai-jitters.html",
+    "published_at": "2026-11-17T20:28:07+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.381607+00:00",
+    "thin": false
+  },
+  {
+    "id": "ead66c32efb205133798580ec748e9d2c64d909b011bc70f0873926885ce58ae",
+    "title": "Civilization Dev Lays Off 1/3 Of Staff, New XCOM Game Facing “Development Struggles” – Report",
+    "summary": "The video game industry's woes continue as Take-Two's 2K division has confirmed that one third of the staff at Civilization and XCOM developer Firaxis Games is being laid off. Bloomberg confirmed the cuts, which will impact around 60 people. As part of the downsizing, Firaxis studio head Heather Hazen is leaving. A spokesperson for Firaxis confirmed the restructuring to Bloomberg, saying the cuts are part of an effort to \"focus on design, technology, and player experience.\" \"These decisions are",
+    "category": "gaming",
+    "source": "GameSpot",
+    "url": "https://www.gamespot.com/articles/civilization-dev-lays-off-1-3-of-staff-new-xcom-game-facing-development-struggles-report",
+    "published_at": "2026-11-17T20:05:42+00:00",
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/civ7.png",
+    "collection_timestamp": "2026-11-18T01:08:20.374567+00:00",
+    "thin": false,
+    "author": "Eddie Makuch",
+    "tags": [
+      "Gaming,News"
+    ]
+  },
+  {
+    "id": "d3dbe6eed3c471e76e38ec0ab884355ae9414048fe008e3f4e5ab7196064299e",
+    "title": "Millwall open disciplinary proceedings against Baker",
+    "summary": "Millwall are undertaking disciplinary proceedings against forward Benicio Baker, BBC Sport understands.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6m2lelll4n1o",
+    "published_at": "2026-11-17T20:00:52+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b19e/live/34866790-e2a9-11f1-8226-87dfa5049e9a.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.383980+00:00",
+    "thin": false
+  },
+  {
+    "id": "5fa338025a4a52a116e641ccbb12c2de28d7822523fb148dd1d7f1abfb1183c0",
+    "title": "007 First Light Might Be The End Of The Line For James Bond’s Favorite Watch",
+    "summary": "After months of searching and numerous potential frontrunners, Robert Pattinson has been cast as the next James Bond . It's lead to some questions about whether he's too famous or too old for the role, whether or not he looks like Bond, and just how different his portrayal might be to those that came before him. For some others, however, the questions is far more direct: What watch is he going to wear? James Bond has long had recognizable brand associations, but one that has endured has been the",
+    "category": "gaming",
+    "source": "GameSpot",
+    "url": "https://www.gamespot.com/articles/007-first-light-might-be-the-end-of-the-line-for-james-bonds-favorite-watch",
+    "published_at": "2026-11-17T19:57:00+00:00",
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/omega-seamaster-diver-300m-chronograph-007-first-light-lead.webp",
+    "collection_timestamp": "2026-11-18T01:08:20.375405+00:00",
+    "thin": false,
+    "author": "Alessandro Barbosa",
+    "tags": [
+      "Gaming,News"
+    ]
+  },
+  {
+    "id": "108ad3fecff6ffe4770c52f256c0752af9206ded6f605d7b3eaf42593f172de3",
+    "title": "These Are Some Of The Biggest Snubs At The Game Awards 2026",
+    "summary": "The nominees for The Game Awards have been announced. Some of the biggest games--and those that aren't out yet--make appearances on the list, including Grand Theft Auto 6 and Phantom Blade Zero , but some of the games could've--and maybe should've--been nominated in multiple categories. So, let's go over some of the biggest snubs at this year's TGAs. Let's start with the big one: Game of the Year. You've got six games nominated here: 007 First Light , Control Resonant , Grand Theft Auto 6, Phant",
+    "category": "gaming",
+    "source": "GameSpot",
+    "url": "https://www.gamespot.com/articles/these-are-some-of-the-biggest-snubs-at-the-game-awards-2026",
+    "published_at": "2026-11-17T19:47:55+00:00",
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/tbod-image.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.376239+00:00",
+    "thin": false,
+    "author": "Levi Winslow",
+    "tags": [
+      "Gaming,News"
+    ]
+  },
+  {
+    "id": "636e581bf075cd97512fc924b13db8f9af00792d8cc3c6e2425bad92a4ea7eaa",
+    "title": "This GTA 6-Inspired Keycap Set Will Make The Wait For A PC Version Slightly Easier",
+    "summary": "Grand Theft Auto 6 is now just a couple of hours away in some parts of the world. That is, if you're planning to play on either Xbox or PlayStation. The wait for a PC version is still ongoing, with Rockstar yet to indicate when it plans to release that port. In the meantime, however, you can start ensuring that your setup is at least ready for when it arrives. High-end keycap manufacturer GMK has revealed a new set that is clearly inspired by GTA 6 and Vice City, without explicitly mentioning ei",
+    "category": "gaming",
+    "source": "GameSpot",
+    "url": "https://www.gamespot.com/articles/this-gta-6-inspired-keycap-set-will-make-the-wait-for-a-pc-version-slightly-easier",
+    "published_at": "2026-11-17T19:43:12+00:00",
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/W1AT_CloseUp_NeonVice-withoutNovelties_Edited_81fbc700-72cd-4e5f-99e7-3106364ba0fe.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.376883+00:00",
+    "thin": false,
+    "author": "Alessandro Barbosa",
+    "tags": [
+      "Gaming,News"
+    ]
+  },
+  {
+    "id": "e6e64637ac60c20f73e8e317eb1744cffb0f36056e2c45ead9b7fdbab0fefab3",
+    "title": "Madrid-bound Gabriel posts farewell Man Utd message",
+    "summary": "TeenagerJJ Gabriel posts a farewell message saying Manchester United will always be part of his story, as he prepares for a likely move to Real Madrid.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cqvg2e4208zmo",
+    "published_at": "2026-11-17T19:35:06+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ad8/live/9eaa4ed0-e2b7-11f1-a094-5fdc692f3e33.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.383449+00:00",
+    "thin": false
+  },
+  {
+    "id": "aa1fb061de1fd8060d91beacfeb0557f9d36c2df2cdff97e362a1e5bbb665308",
+    "title": "Dune Magic: The Gathering Crossover Officially Confirmed After Major Leak",
+    "summary": "Dune is coming to Magic: The Gathering with a new Secret Lair superdrop featuring new legendary creatures and reprints.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/dune-magic-the-gathering-secret-lair-superdrop-november-2026",
+    "published_at": "2026-11-17T19:22:17+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/01/Timothee-Chalamet-Paul-Atreides-Zendaya-Chani-Dune-Part-2.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.381126+00:00",
+    "thin": false,
+    "author": "Sam Hill",
+    "tags": [
+      "Tabletop Games",
+      "Dune",
+      "Magic: The Gathering",
+      "Wizards of the Coast",
+      "ER"
+    ]
+  },
+  {
+    "id": "2f56591588f82f6ff1344326d3ec5de730eec64efc5a06abb228c8eb4f79aad5",
+    "title": "Blink-182 and Pierce the Veil Lead When We Were Young 2027 Festival Lineup",
+    "summary": "5 Seconds of Summer, Limp Bizkit, and Third Eye Blind will also appear at the Las Vegas pop-punk festival",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/when-we-were-young-2027-lineup-1235659740",
+    "published_at": "2026-11-17T19:22:13+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.363445+00:00",
+    "thin": false,
+    "author": "Jaeden Pinder",
+    "tags": [
+      "Music",
+      "Music News",
+      "5 Seconds of Summer",
+      "Blink-182",
+      "festival announcement",
+      "Limp Bizkit",
+      "Pierce The Veil",
+      "When We Were Young Festival"
+    ]
+  },
+  {
+    "id": "d4925b34b2804407d45b842204320b0ff1c0396677d1a6e34fcec794142f3bde",
+    "title": "What Does It Take For World Of Warcraft To Be Nominated At The Game Awards?",
+    "summary": "The nominees for 2026's The Game Awards have been revealed, and just like every year before it, there is a glaring omission in the Best Ongoing Game Category: World of Warcraft . This year's nominees are Arc Raiders, Fortnite, No Man's Sky, The Witcher 3: Wild Hunt, and Final Fantasy 14 Online. Of particular note is Square Enix's MMORPG, which has been nominated in the category every year since 2021. Developer Blizzard's MMO, on the other hand, is nowhere to be seen.&nbsp; WoW is among the most",
+    "category": "gaming",
+    "source": "GameSpot",
+    "url": "https://www.gamespot.com/articles/what-does-it-take-for-world-of-warcraft-to-be-nominated-at-the-game-awards",
+    "published_at": "2026-11-17T19:20:56+00:00",
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-Game-Awards-Snub.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.378019+00:00",
+    "thin": false,
+    "author": "Cameron Koch",
+    "tags": [
+      "Gaming,News"
+    ]
+  },
+  {
+    "id": "1775dcc198755e7460c9a5170f660b033f420a64438e7cfb3bfe696730bd419e",
+    "title": "Scammers Tried to Trick Noah Kahan Fans With a Fake Show Outside an L.L. Bean Store",
+    "summary": "The clothing brand had to issue a warning after learning that tickets were being sold for a phony gig outside its flagship in Freeport, Maine",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/noah-kahan-ll-bean-store-concert-scam-1235659749",
+    "published_at": "2026-11-17T19:20:15+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.363569+00:00",
+    "thin": false,
+    "author": "Jon Blistein",
+    "tags": [
+      "Music",
+      "Music News",
+      "Noah Kahan"
+    ]
   },
   {
     "id": "4b0a5bd1a1f0e36342e2aead8755ecf6609e1db183e11d2998f5b2a547fcf982",
@@ -60,6 +1517,69 @@
     "thin": false
   },
   {
+    "id": "55f55c95596a9676d86e1bdd80da63789cd6e7d066fae17a2700a5c0b040105d",
+    "title": "8 Biggest Snubs in the 2026 Game Awards Nominations",
+    "summary": "The 2026 Game Awards snubbed several major games from several key categories. Here are the biggest Game Awards nominee snubs.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/game-awards-2026-nominees-snubs",
+    "published_at": "2026-11-17T19:06:38+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/crimson-desert-dlc.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.381249+00:00",
+    "thin": false,
+    "author": "Jen Glennon",
+    "tags": [
+      "Analysis",
+      "The Game Awards",
+      "Fire Emblem: Fortune's Weave",
+      "Fields of Mistria",
+      "Marathon",
+      "Crimson Desert"
+    ]
+  },
+  {
+    "id": "2feb0b52acd51a970b9afe12fa1b5528cbacba64381227d9c07fc8dabef74de4",
+    "title": "Fingers Point to RFK Jr. as U.S. Loses Measles Elimination Status",
+    "summary": "The Health and Human Services secretary is torching the nation's reputation as the global health leader",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/politics/politics-features/robert-f-kennedy-jr-us-loses-measles-elimination-status-1235659756",
+    "published_at": "2026-11-17T18:55:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.363685+00:00",
+    "thin": false,
+    "author": "Ryan Bort",
+    "tags": [
+      "Politics",
+      "Politics Features",
+      "controversy",
+      "measles",
+      "RFK Jr.",
+      "Robert F. Kennedy Jr."
+    ]
+  },
+  {
+    "id": "41d30fec3fde6e81e74f5a64aee40076462a9bfdbf817b6a742dd67c4a2cbb7b",
+    "title": "Gael Cameron Says Her ‘Below Deck’ Romance With Nathan Gallagher Was Abusive: ‘I Am Still Scared’",
+    "summary": "The reality star is speaking out for the first time since her ex Nathan Gallagher fled Australia following a domestic-violence default conviction",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/gael-cameron-below-deck-nathan-gallagher-abuse-1235659575",
+    "published_at": "2026-11-17T18:49:06+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.363826+00:00",
+    "thin": false,
+    "author": "Cheyenne Roundtree",
+    "tags": [
+      "TV & Movies",
+      "TV & Movies News",
+      "Below Deck",
+      "Bravo",
+      "courts and crime",
+      "domestic violence"
+    ]
+  },
+  {
     "id": "e7ce7972d31af44a14e2a1c1a75097d2d56460289e32ffc99ceba36e157b7fa8",
     "title": "Dark Clouds Loom Over Jr NTR's God of War As Actor Announces Film With Anil Ravipudi",
     "summary": "NTR's new film raising questions whether God of War has been put on hold",
@@ -72,6 +1592,76 @@
     "thin": false
   },
   {
+    "id": "71aabc306bb7236ea33fcf63fb21133663fe4f4ef670d67358145771ec809f7e",
+    "title": "Satya Nadella says he’s AGI-pilled now",
+    "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+    "published_at": "2026-11-17T18:41:18-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.368259+00:00",
+    "thin": false,
+    "author": "Nilay Patel",
+    "tags": [
+      "AI",
+      "Microsoft",
+      "Tech"
+    ]
+  },
+  {
+    "id": "172cd493309f508fac3312365154f2335c3bfcca52224336888368e7ca89194e",
+    "title": "De Boinville given extra security at Plumpton after threat",
+    "summary": "Jockey Nico de Boinville is given extra security support at Plumpton racecourse after being the subject of a threat.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/horse-racing/articles/cq5y17k34j5go",
+    "published_at": "2026-11-17T18:40:08+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/941e/live/8505b350-e2b4-11f1-8226-87dfa5049e9a.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.383836+00:00",
+    "thin": false
+  },
+  {
+    "id": "ccfc5fe1c41b71e36fe5f5a82650b5c91385e82b89a09c049eeab71a15d1b7eb",
+    "title": "Hayden Panettiere’s Mother Blames Brian Hickerson For Star’s Death",
+    "summary": "Lesley Vogel, mother of the late TV star, gave a fiery interview doubling down on her initial statements",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/culture/culture-news/hayden-panettiere-mother-vogel-brian-hickerson-claims-1235659706",
+    "published_at": "2026-11-17T18:32:59+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.363948+00:00",
+    "thin": false,
+    "author": "Jason Newman",
+    "tags": [
+      "(Sub)Culture News",
+      "Culture",
+      "controversy",
+      "courts and crime",
+      "Hayden Panettiere",
+      "Heroes"
+    ]
+  },
+  {
+    "id": "60064e54deb3fed4f139574c3093aceca0543f3d652935fb7a5b363539a8522f",
+    "title": "The Mighty Nein Season 2 Officially Has Fans Worried About One Major Plot Change",
+    "summary": "The Mighty Nein season 2 won’t hit our screens until March, but fans are already speculating about potential changes.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/the-mighty-nein-season-2-iron-shepherds",
+    "published_at": "2026-11-17T18:30:19+00:00",
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/mty104_a773_tk1_ih_v04_lr_still2.JPG",
+    "collection_timestamp": "2026-11-18T01:08:20.381382+00:00",
+    "thin": false,
+    "author": "Aimee Hart",
+    "tags": [
+      "Analysis",
+      "The Mighty Nein",
+      "Critical Role",
+      "TV"
+    ]
+  },
+  {
     "id": "580b637bd4c980bcbca37193a453a1a9b72f821c6508992d6bdfaff0ff9b59d5",
     "title": "“Sign Me Up for The Villain” - Brad Pitt Reacts To Robert Pattinson Becoming The Next James Bond",
     "summary": "Robert Pattinson's friend Brad Pitt has good things to say about James Bond casting.",
@@ -82,6 +1672,22 @@
     "image_url": null,
     "collection_timestamp": "2026-11-17T18:08:28.289030+00:00",
     "thin": false
+  },
+  {
+    "id": "79036cf6e81899dcf74d27bd192dfaca7b16e22fee9b5185e470c47e6e10b69f",
+    "title": "GTA 6 Leads TGA Nominations, And Reviews Aren’t Even Live Yet",
+    "summary": "The Keighleys, or more formally, The Game Awards, are right around the corner. Ahead of its December 10 air date, host Geoff Keighley announced the nominees for the myriad categories , including Game of the Year. Rockstar Games' Grand Theft Auto 6 made the cut, but in an unusual circumstance, it did so before any reviews of the game have been published. Before anyone has read any official take on GTA 6, Rockstar Games' action-adventure game has eight nominations, making it the most-nominated gam",
+    "category": "gaming",
+    "source": "GameSpot",
+    "url": "https://www.gamespot.com/articles/gta-6-leads-tga-nominations-and-reviews-arent-even-live-yet",
+    "published_at": "2026-11-17T18:22:57+00:00",
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/gta6-image.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.378620+00:00",
+    "thin": false,
+    "author": "Levi Winslow",
+    "tags": [
+      "Gaming,News"
+    ]
   },
   {
     "id": "1ecad288e03c37512543f9195ea5cadf253a222714909f37256b2b0af418ef1e",
@@ -105,6 +1711,18 @@
     "published_at": "2026-11-17T18:15:28+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-17T18:08:28.289161+00:00",
+    "thin": false
+  },
+  {
+    "id": "f70c0f496bc910c55920f93e99ec77a36573dd0a4cacd9be2b682f6947aa3adb",
+    "title": "England's Atkinson set for All Blacks dream date",
+    "summary": "Centre Seb Atkinson is set to return to the England backline for a \"dream\" encounter with the All Blacks on Saturday.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6rrg0l2gz5jo",
+    "published_at": "2026-11-17T18:12:46+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab2/live/23cd7e60-e2af-11f1-8226-87dfa5049e9a.jpg",
+    "collection_timestamp": "2026-11-18T01:08:20.382800+00:00",
     "thin": false
   },
   {
@@ -410,6 +2028,27 @@
     "thin": false
   },
   {
+    "id": "3ec969633595dd2b0c832abba27e5d3221eaa2613dc93278e35ca675351eb815",
+    "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
+    "summary": "Robert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon. But it turns out that Amazon founder Jeff Bezos played a significant role in making the final decision, too. During Semafor's Silicon Valley and the World conference today, Bezos [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
+    "published_at": "2026-11-17T17:38:41-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.368474+00:00",
+    "thin": false,
+    "author": "Charles Pulliam-Moore",
+    "tags": [
+      "Amazon",
+      "Entertainment",
+      "Film",
+      "News",
+      "Streaming",
+      "Tech"
+    ]
+  },
+  {
     "id": "ae1b8e7b695e1b5cb1e9a9409be3e7b06afcf3767eb299e858c3bac5a1d6b041",
     "title": "Natalie Portman to Present Sundance’s Inaugural Women Filmmakers Award as Part of Fest’s New Dior Partnership",
     "summary": "Dior is expanding its Hollywood footprint with a new partnership with the Sundance Institute, launching an award and fellowship program supporting women filmmakers ahead of the 2027 Sundance Film Festival. The partnership will introduce the Miss Dior x Women at Sundance Institute Award, honoring an emerging filmmaker whose work is making an impact on the [&#8230;]",
@@ -507,6 +2146,25 @@
     "image_url": null,
     "collection_timestamp": "2026-11-17T18:08:28.324801+00:00",
     "thin": false
+  },
+  {
+    "id": "8d52da1d4303c9c6f436147e7054f5a7d789cd13c7d73a8852ea6a68dada26b9",
+    "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
+    "summary": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports he had multiple affairs - including one with former Megaspeed executive and alleged Chinese asset Alice [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
+    "published_at": "2026-11-17T17:32:50-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.368667+00:00",
+    "thin": false,
+    "author": "Stevie Bonifield",
+    "tags": [
+      "Business",
+      "News",
+      "Nvidia",
+      "Tech"
+    ]
   },
   {
     "id": "d3ec754d6d6ab3a4784697325f6fe667f1c3ff7b7fd0345bf18a67346d44340f",
@@ -614,6 +2272,26 @@
     "tags": [
       "News",
       "BAFTA"
+    ]
+  },
+  {
+    "id": "82ef884c42986fae4420fe7f44be3ddf3a39601b81812a53a0ab983061da31bc",
+    "title": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
+    "summary": "After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks like a seven-inch tablet stuck to a smart speaker. The reality was much different and by the time they got the [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
+    "published_at": "2026-11-17T17:25:41-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.368858+00:00",
+    "thin": false,
+    "author": "Andrew Liszewski",
+    "tags": [
+      "Apple",
+      "Gadgets",
+      "News",
+      "Smart Home",
+      "Tech"
     ]
   },
   {
@@ -846,6 +2524,29 @@
     ]
   },
   {
+    "id": "e04221ab8ef4b272d89573ee83ab9a9ec64288d4545dd2f4be1651ef79dde6b7",
+    "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
+    "summary": "Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, \"the Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO.\" Jones added, \"We will not be addressing or taking questions on today's call regarding the circumstances of Jensen's resignation [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo",
+    "published_at": "2026-11-17T17:05:05-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.369045+00:00",
+    "thin": false,
+    "author": "Hayden Field",
+    "tags": [
+      "Analysis",
+      "Chips",
+      "Gadgets",
+      "Nvidia",
+      "Policy",
+      "Politics",
+      "Report",
+      "Tech"
+    ]
+  },
+  {
     "id": "0bc0e3be6fc06cc4bdf0008ca27ad0c49e7c3d949ef0256aab8e8ba6d443ad06",
     "title": "Skydance Movie Studio Shakeup: Kira Goldberg Departs Netflix to Run Paramount With Don Granger, Jeff Goldstein to Retire, WB Sets Leadership",
     "summary": "Skydance Motion Picture Group co-chairs Dana Goldberg and Josh Greenstein have set their leadership team following Paramount&#8217;s $111 billion acquisition of Warner Bros. Discovery. Kira Goldberg and Don Granger will serve as president of Paramount&#8217;s Motion Picture Group, and Jesse Ehrman has been elevated to president of Warner Bros. Motion Picture Group. Michael Ireland, who [&#8230;]",
@@ -946,6 +2647,18 @@
       "News",
       "Critical Role"
     ]
+  },
+  {
+    "id": "ac87790ff3282a14867f99ddab1e6c09b7fbec2c61b31e41f430e65cc55b272f",
+    "title": "Jensen Huang's Nvidia exit exposes succession and governance risks for companies and boards",
+    "summary": "The resignation of Jensen Huang as Nvidia's CEO spotlights the missteps of its board and why companies built around one powerful leader creates outsized risk.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-succession-board-lessons.html",
+    "published_at": "2026-11-17T17:00:01+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.381889+00:00",
+    "thin": false
   },
   {
     "id": "6e8861e02314ba798eed751c7248c211474fe5a198d7e417bbe6d385216cad80",
@@ -1221,6 +2934,28 @@
     ]
   },
   {
+    "id": "b20fa45eb5eb4df30a2ffa76fb10691423d654ce2aa73f7d30eaef4d1ec91616",
+    "title": "The MacBook Neo is receiving a rare $50 discount ahead of Black Friday",
+    "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $50 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $649 (Amazon, Best Buy, Target), while the 512GB model with Touch ID is [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+    "published_at": "2026-11-17T16:46:20-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.369224+00:00",
+    "thin": false,
+    "author": "Brad Bourque",
+    "tags": [
+      "Apple",
+      "Black Friday",
+      "Cyber Monday",
+      "Deals",
+      "Gadgets",
+      "Tech",
+      "Verge Shopping"
+    ]
+  },
+  {
     "id": "564947979278daa90191c3397ae7bbf98b0cbd0175ef1a3fe3e0aa6cb0d4fb42",
     "title": "Disney Unpacks $3 Billion In Planned Cost Savings",
     "summary": "Disney’s push to save $3 billion in run-rate savings by fiscal 2028 is going to “to come from a wide variety of places across the organization and across the functions that we have,” said CFO Hugh Johnston. Asked to elaborate, Johnston told analysts on a post-earnings call the &#8220;efficiencies&#8221; would come, “certainly, from procurement and [&#8230;]",
@@ -1297,6 +3032,26 @@
     ]
   },
   {
+    "id": "c1d721c8ba3ad11b739d6e3fb9a8cc11536467e4dde3989fdeffb7fdd01e7aae",
+    "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+    "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying the board \"does not intend to reinstate Huang [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+    "published_at": "2026-11-17T16:40:59-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.369412+00:00",
+    "thin": false,
+    "author": "Jay Peters",
+    "tags": [
+      "AI",
+      "Business",
+      "News",
+      "Nvidia",
+      "Tech"
+    ]
+  },
+  {
     "id": "58f74d150e5ed5f4751441e86a70492e61439a7b284363c3e5a4797987278c0d",
     "title": "Disney beats fourth-quarter estimates, targets $3 billion in savings through cost-cutting efforts",
     "summary": "Investors will be looking for more insight into CEO Josh D'Amaro's strategy following several rounds of layoffs.",
@@ -1319,6 +3074,24 @@
     "image_url": null,
     "collection_timestamp": "2026-11-17T18:08:28.324933+00:00",
     "thin": false
+  },
+  {
+    "id": "36c94dc9f301887070352f2de97f627f1fef7e2376ec373edb9bc2e2a53521d3",
+    "title": "Nike’s new air sole technology can mix soft and firm cushioning",
+    "summary": "In 2024, Nike announced its Air Max 1000 that were manufactured using a 3D-printing process resulting in a shoe that had a uniform silhouette but varying areas of support and flexibility throughout. The company is now doing something similar with its iconic air-filled soles using its new Tuned Air technology. While previously the level of [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1035911/nike-shoes-tuned-air-sole-printing-variable-cushioning",
+    "published_at": "2026-11-17T16:38:08-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.369594+00:00",
+    "thin": false,
+    "author": "Andrew Liszewski",
+    "tags": [
+      "Design",
+      "News",
+      "Tech"
+    ]
   },
   {
     "id": "390e10891a770b068c20805bb1b2c8a1a1c1a3d8b6bcc31605b1ccd0e31841ac",
@@ -1615,6 +3388,27 @@
     "thin": false
   },
   {
+    "id": "fe3367cf4b656f6d54e2410f7fc288d6572d7d0937b8b2abff2bd0e0af6dd99a",
+    "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+    "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent. In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+    "published_at": "2026-11-17T16:00:55-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.369767+00:00",
+    "thin": false,
+    "author": "Mia Sato",
+    "tags": [
+      "AI",
+      "Meta",
+      "News",
+      "OpenAI",
+      "Report",
+      "Tech"
+    ]
+  },
+  {
     "id": "2982a7b3850ae5bffe93390c7a4c4c14854e5c8ed3d512b6d0494dc1ae55bf08",
     "title": "Woods set to return next month after two years out",
     "summary": "Tiger Woods is set to return to competitive golf in December for the first time in more than two years.",
@@ -1656,6 +3450,25 @@
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a7f/live/592780e0-e29d-11f1-8dda-8925a81c3da5.jpg",
     "collection_timestamp": "2026-11-17T18:08:28.326515+00:00",
     "thin": false
+  },
+  {
+    "id": "c82e71f6daad0ad58511667c1d789d434196a0c6c0a9d74b88a8a1e031ac6d7d",
+    "title": "Instagram is helping creators crack down on copycat videos",
+    "summary": "Instagram is beginning to roll out a \"content protection\" feature that lets creators see and review copies of their videos posted to the platform. \"For eligible creators who enroll, content protection is a tool that automatically looks out for visual matches of your original videos, alerts you when we find a match across Instagram and [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1035943/instagram-creators-crack-down-copycat-videos",
+    "published_at": "2026-11-17T15:46:31-05:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.369936+00:00",
+    "thin": false,
+    "author": "Jay Peters",
+    "tags": [
+      "Instagram",
+      "Meta",
+      "News",
+      "Tech"
+    ]
   },
   {
     "id": "dcd6d1e8ea49193bc2d41f753a40df35a1b14f29d8aa9693cab8f062160d268a",
@@ -31656,1671 +33469,5 @@
     "tags": [
       "MadeMeSmile"
     ]
-  },
-  {
-    "id": "e530c67f312cfcfd56dad2472696ff9058c1e65cdf287662b7f02877ea71acbc",
-    "title": "Agree?",
-    "summary": "&#32; submitted by &#32; /u/Negative_1by12_aura &#32; to &#32; r/SipsTea [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/SipsTea/comments/1xuelk1/agree",
-    "published_at": "2026-11-12T14:45:26+00:00",
-    "image_url": "https://preview.redd.it/pcr2x614271i1.png",
-    "collection_timestamp": "2026-11-12T19:32:46.229053+00:00",
-    "thin": true,
-    "author": "/u/Negative_1by12_aurahttps://www.reddit.com/user/Negative_1by12_aura",
-    "tags": [
-      "SipsTea"
-    ]
-  },
-  {
-    "id": "c2c50126c2677df9d2444e71967aac6b3a3dc224598547aa35ec09484f93ff0e",
-    "title": "Full-back Barrett leads New Zealand for first time",
-    "summary": "Beauden Barrett will captain New Zealand for the first time when he leads out much-changed All Blacks against Wales.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cjg46y699v41o",
-    "published_at": "2026-11-12T14:41:30+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/930d/live/a97f4ff0-dea1-11f1-82bd-ab0398e9e082.jpg",
-    "collection_timestamp": "2026-11-12T19:32:46.225598+00:00",
-    "thin": false
-  },
-  {
-    "id": "a8d503d4ea27c6b9f4adbcc09b6a020b0e8b21245962ebc401df099cb7b6d299",
-    "title": "Chicago schools tell Google they'd rather lose Search than be forced to accept AI",
-    "summary": "&#32; submitted by &#32; /u/Miserable_Phase_2519 &#32; to &#32; r/technology [link] &#32; [comments]",
-    "category": "technology",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/technology/comments/1xueam3/chicago_schools_tell_google_theyd_rather_lose",
-    "published_at": "2026-11-12T14:32:53+00:00",
-    "image_url": "https://external-preview.redd.it/JuczXkZeg2-M0qJurS2pjpA10Qrl4JkouYLvdVHBCtc.jpeg",
-    "collection_timestamp": "2026-11-12T19:32:46.228647+00:00",
-    "thin": false,
-    "author": "/u/Miserable_Phase_2519https://www.reddit.com/user/Miserable_Phase_2519",
-    "tags": [
-      "technology"
-    ]
-  },
-  {
-    "id": "4c8e175269932ece687e9da9280e14ae30cada081a5736264a85d16af13b0390",
-    "title": "Rick Moranis mostly retired from acting in 1997 in order to raise his two children because it had become too difficult to be an actor & a single father. Now he is making his on screen return in Spaceballs: The New One.",
-    "summary": "He went on to explain the reason why it took so long for him to return was because he had found other ways to full his creative needs such as making comedy albums one of which was nominated for a grammy and is genuinely happy just being there for his loved ones especially his children. But his grateful, that he welcomed back in to acting with such open arms. Here&#39;s an article about it. Why Did Rick Moranis Leave Hollywood? Inside the Actor&#39;s Quiet Life Since &#32; submitted by &#32; /u/A",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/interesting/comments/1xue2c3/rick_moranis_mostly_retired_from_acting_in_1997",
-    "published_at": "2026-11-12T14:23:46+00:00",
-    "image_url": "https://preview.redd.it/4tla9xocp61i1.png",
-    "collection_timestamp": "2026-11-12T19:32:46.229690+00:00",
-    "thin": false,
-    "author": "/u/AdSpecialist6598https://www.reddit.com/user/AdSpecialist6598",
-    "tags": [
-      "interesting"
-    ]
-  },
-  {
-    "id": "4b69e3609659587005bc42e830ae3287ee78b581507d439ffd59ecf744be0225",
-    "title": "McNabney set for debut as Irish make seven changes",
-    "summary": "Ulster's James McNabney is poised to make his Ireland debut off the bench as head coach Andy Farrell makes seven changes for Saturday's Nations Championship match against Fiji.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqx2xg22w0k7o",
-    "published_at": "2026-11-12T14:22:06+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98c8/live/eda70ea0-dea3-11f1-82bd-ab0398e9e082.jpg",
-    "collection_timestamp": "2026-11-12T19:32:46.225182+00:00",
-    "thin": false
-  },
-  {
-    "id": "994e80950dc1b44be5da187bb1c1b37a6cfb7037826084a686ddeb2a00964a93",
-    "title": "GTA 6’s Jason Can Live His Best Life By Drinking A Beer And Eating A Donut Simultaneously",
-    "summary": "Rockstar's Grand Theft Auto 6 looks like it will have an impressive attention to detail, and that includes how one of the main characters, Jason, can drink a beer and eat a donut at the same time. Now that's living. Rockstar boss Rob Nelson geeked out to The Guardian about GTA 6's finer details, including this one. According to the report, Jason can \"take bites of a donut with one hand while sipping a beer with the other.\" Drink up. It’s unclear whether this is under the player’s active control",
-    "category": "gaming",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/gta-6s-jason-can-live-his-best-life-by-drinking-a-beer-and-eating-a-donut-simultaneously",
-    "published_at": "2026-11-12T14:20:40+00:00",
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_Duval_06.jpg",
-    "collection_timestamp": "2026-11-12T19:32:46.213250+00:00",
-    "thin": false,
-    "author": "Eddie Makuch",
-    "tags": [
-      "Gaming,News"
-    ]
-  },
-  {
-    "id": "877ffde1844e53526050334ad5bc4ca90221db2e1b336f47d655a88d04fb8212",
-    "title": "Look at this breakfast the Hilton Hotel in San Antonio is charging $15.95 for. This is the platonic ideal of a \"free hotel breakfast\".",
-    "summary": "&#32; submitted by &#32; /u/WerewolfHopeful1212 &#32; to &#32; r/mildlyinfuriating [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/mildlyinfuriating/comments/1xudx1i/look_at_this_breakfast_the_hilton_hotel_in_san",
-    "published_at": "2026-11-12T14:17:55+00:00",
-    "image_url": "https://preview.redd.it/g8b9u3qxw61i1.jpeg",
-    "collection_timestamp": "2026-11-12T19:32:46.230722+00:00",
-    "thin": false,
-    "author": "/u/WerewolfHopeful1212https://www.reddit.com/user/WerewolfHopeful1212",
-    "tags": [
-      "mildlyinfuriating"
-    ]
-  },
-  {
-    "id": "acfb6ecb0891d838b77d9a144f976435f88d9605b3b78dce34f9c5c67893224c",
-    "title": "McIlroy makes strong start in bid to equal Montgomerie's record",
-    "summary": "Rory McIlroy makes a strong start to his bid for a record-equalling eighth Race to Dubai title with a three under opening round at the DP World Tour Championship.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/golf/articles/cwlymny900ezo",
-    "published_at": "2026-11-12T14:13:27+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2bd/live/fc48f420-de9c-11f1-9afe-1f03bfe02283.jpg",
-    "collection_timestamp": "2026-11-12T19:32:46.224018+00:00",
-    "thin": false
-  },
-  {
-    "id": "7c1fc4fa853fe705bc9c319418ddc26c952fd297be59932e66cfead87a5191d2",
-    "title": "Microsoft Outlook is down",
-    "summary": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
-    "published_at": "2026-11-12T14:07:21-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T19:32:46.191941+00:00",
-    "thin": false,
-    "author": "Richard Lawler",
-    "tags": [
-      "Apps",
-      "Microsoft",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "ce5e50b5cc4956187689cca6161888b0f92f1f215d7d4c7a0ce23ef1f6beb076",
-    "title": "Nvidia CEO Jensen Huang resigns after his affair raises national security concerns",
-    "summary": "&#32; submitted by &#32; /u/UncaringNonchalance &#32; to &#32; r/news [link] &#32; [comments]",
-    "category": "technology",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/news/comments/1xudmss/nvidia_ceo_jensen_huang_resigns_after_his_affair",
-    "published_at": "2026-11-12T14:06:05+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T19:32:46.231604+00:00",
-    "thin": false,
-    "author": "/u/UncaringNonchalancehttps://www.reddit.com/user/UncaringNonchalance",
-    "tags": [
-      "news"
-    ]
-  },
-  {
-    "id": "ff7912306c0d6e6fa6a7765fdc034bb5653a22423dd3beb6b5689302aab5a5c9",
-    "title": "Nvidia CEO Jensen Huang has resigned",
-    "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia",
-    "published_at": "2026-11-12T14:05:17+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
-    "collection_timestamp": "2026-11-12T19:32:46.193688+00:00",
-    "thin": false,
-    "author": "Demetri Sevastopulo, Financial Times",
-    "tags": [
-      "Tech",
-      "Jensen Huang",
-      "NVIDIA"
-    ]
-  },
-  {
-    "id": "81b7f28acd1250a0b6bbb9da601632fdc0f6bf7cf19b626fcb748d0e994f1af4",
-    "title": "meirl",
-    "summary": "&#32; submitted by &#32; /u/danielminds &#32; to &#32; r/meirl [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/meirl/comments/1xudjr6/meirl",
-    "published_at": "2026-11-12T14:02:35+00:00",
-    "image_url": "https://preview.redd.it/qlcdoduhu61i1.png",
-    "collection_timestamp": "2026-11-12T19:32:46.227928+00:00",
-    "thin": true,
-    "author": "/u/danielmindshttps://www.reddit.com/user/danielminds",
-    "tags": [
-      "meirl"
-    ]
-  },
-  {
-    "id": "26cfbd8e4390e12ea3dc89af6b899299dc03d05a4a6b80767afd11ce6f99a406",
-    "title": "Hundreds of streaming services and nothing to watch",
-    "summary": "Most viewers wish there was a TV Guide for streaming.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/11/hundreds-of-streaming-services-and-nothing-to-watch",
-    "published_at": "2026-11-12T14:00:19+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2230766677-1024x648.jpg",
-    "collection_timestamp": "2026-11-12T19:32:46.193794+00:00",
-    "thin": false,
-    "author": "Scharon Harding",
-    "tags": [
-      "Tech",
-      "streaming"
-    ]
-  },
-  {
-    "id": "74ea2e25a6175891ab136bb74a2564e22e242f4feab15550d57e439ec5bcd03b",
-    "title": "Nvidia CEO Jensen Huang is stepping down as CEO",
-    "summary": "Nvidia CEO Jensen Huang is stepping down as CEO of the chipmaker he co-founded 33 years ago and built into a $4 trillion company that powered the artificial intelligence boom. After a meteoric rise to fame due to Nvidia’s central role in AI, Huang’s dramatic fall has been even more rapid, following a series of stinging revelations about his romantic ties to a woman believed by the U.S. intelligence community to be a Chinese spy. &#32; submitted by &#32; /u/TorukMaktoM &#32; to &#32; r/stocks [li",
-    "category": "technology",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/stocks/comments/1xuddr7/nvidia_ceo_jensen_huang_is_stepping_down_as_ceo",
-    "published_at": "2026-11-12T13:56:06+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T19:32:46.233351+00:00",
-    "thin": false,
-    "author": "/u/TorukMaktoMhttps://www.reddit.com/user/TorukMaktoM",
-    "tags": [
-      "stocks"
-    ]
-  },
-  {
-    "id": "513f3cc5aafcdcd00e8fb3f7a8250f7ab515c58edcc8bd0086f7acfc2f5c5607",
-    "title": "BREAKING: Jensen Huang has resigned as president, CEO and board member of Nvidia effective immediately",
-    "summary": "&#32; submitted by &#32; /u/realmandontnvidia &#32; to &#32; r/pcmasterrace [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/pcmasterrace/comments/1xudd44/breaking_jensen_huang_has_resigned_as_president",
-    "published_at": "2026-11-12T13:55:19+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T19:32:46.228120+00:00",
-    "thin": false,
-    "author": "/u/realmandontnvidiahttps://www.reddit.com/user/realmandontnvidia",
-    "tags": [
-      "pcmasterrace"
-    ]
-  },
-  {
-    "id": "323347f25af662a2abdb566fc68fa40cdb3077b5eab1d00fa397e4716303aa8b",
-    "title": "Intergalactic: The Heretic Prophet Has Some Unexpected Anime Influences",
-    "summary": "After years of post-apocalyptic survival stories and archaeological adventures, Intergalactic: The Heretic Prophet looks like a fresh opportunity for Naughty Dog to showcase a new sci-fi universe. Visually, the game draws on '80s sci-fi movies with analog technology and ancient hardware like CD players, but you can also thank a genre-defining anime film for shaping Intergalactic's look and feel. In an interview with Patton Oswalt during the Comic Creators Block Party 2026, Naughty Dog director N",
-    "category": "gaming",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/intergalactic-the-heretic-prophet-has-some-unexpected-anime-influences",
-    "published_at": "2026-11-12T13:55:00+00:00",
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Intergalactic-Akira.jpg",
-    "collection_timestamp": "2026-11-12T19:32:46.214754+00:00",
-    "thin": false,
-    "author": "Darryn Bonthuys",
-    "tags": [
-      "Anime,Entertainment,Gaming,News"
-    ]
-  },
-  {
-    "id": "55d30444351bb709335c64e7b1971da751b3627c8676c6fd3c0665dc8deee3e2",
-    "title": "NVIDIA Announces CEO Transition",
-    "summary": "&#32; submitted by &#32; /u/Revolutionz &#32; to &#32; r/wallstreetbets [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xud8bz/nvidia_announces_ceo_transition",
-    "published_at": "2026-11-12T13:49:40+00:00",
-    "image_url": "https://external-preview.redd.it/iA2GFMXF6Py1yLkMQ6hy17wAVIEUNVwDa-xtrbpBA1g.jpeg",
-    "collection_timestamp": "2026-11-12T19:32:46.228376+00:00",
-    "thin": false,
-    "author": "/u/Revolutionzhttps://www.reddit.com/user/Revolutionz",
-    "tags": [
-      "wallstreetbets"
-    ]
-  },
-  {
-    "id": "d690bc8b59766d0efdc38935b363f54a4bdf6e6ccb78a5521d4de3959c027a9b",
-    "title": "Intergalactic: The Heretic Prophet Is Entering Its Final Stage Of Development, With More To Come In 2027",
-    "summary": "Intergalactic: The Heretic Prophet developer Naughty Dog has been largely radio silent about its upcoming sci-fi game since it was first revealed in 2024, but it looks like 2027 will bring a lot more information. Speaking to Patton Oswalt during the Comic Creators Block Party 2026, director Neil Druckmann teased that the game is entering its \"final stage\" of production. \"We've only teased it, so I can't talk too much about it,\" Druckmann said. \"But we're kind of like at the last stages of produc",
-    "category": "gaming",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/intergalactic-the-heretic-prophet-is-entering-its-final-stage-of-development-with-more-to-come-in-2027",
-    "published_at": "2026-11-12T13:21:19+00:00",
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Intergalactic.jpg",
-    "collection_timestamp": "2026-11-12T19:32:46.216664+00:00",
-    "thin": false,
-    "author": "Darryn Bonthuys",
-    "tags": [
-      "Gaming,News"
-    ]
-  },
-  {
-    "id": "2517a1e2065f90a7b0083a2f151355af3a94426d3d536e1b92482a63bcf7eac7",
-    "title": "The oldest grudge in football",
-    "summary": "When Texas Tech and its brash benefactor bought their way into the college football big time, they were settling an old West Texas score.",
-    "category": "sports",
-    "source": "ESPN",
-    "url": "https://www.espn.com/college-football/story/_/id/50427039/texas-tech-puf-cody-campbell",
-    "published_at": "2026-11-12T13:16:23+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T21:48:04.706366+00:00",
-    "thin": false,
-    "author": "Dave Wilson"
-  },
-  {
-    "id": "f221112e4cdb504f7afaa8805af5abc39777ef4e2a958ae8b756add60d31bdc7",
-    "title": "As credit card balances hit a record high, medical bills can become 'shadow debt,' expert says",
-    "summary": "Medical bills can move onto credit cards and other borrowing, making the debt harder to track. Here's what consumers can check before financing care.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/medical-bills-credit-card-debt.html",
-    "published_at": "2026-11-12T13:15:02+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T19:32:46.223441+00:00",
-    "thin": false
-  },
-  {
-    "id": "5c158cbaefb7acadc2f20547a903a96da8ea8090237b7d6ba5499565e5856fec",
-    "title": "Police investigation into Vigar's death ongoing",
-    "summary": "The police investigation into Billy Vigar's death from a \"significant brain injury\" is unlikely to conclude for at least another two months.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ckm2mn2lvld9o",
-    "published_at": "2026-11-12T13:11:49+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4800/live/690b1270-de96-11f1-9afe-1f03bfe02283.jpg",
-    "collection_timestamp": "2026-11-12T19:32:46.224546+00:00",
-    "thin": false
-  },
-  {
-    "id": "abb9b3de20a75702f78609a589c91a3bbaf2737f61959e1f50e41f4f830993ef",
-    "title": "Oh, Palantir is ‘progressive’ now, is it?",
-    "summary": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem for all the wannabe fash founders who had tied their political fortunes to a \"vibe shift\" [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-    "published_at": "2026-11-12T13:06:54-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T19:32:46.192136+00:00",
-    "thin": false,
-    "author": "Elizabeth Lopatto",
-    "tags": [
-      "AI",
-      "Policy",
-      "Politics",
-      "Tech"
-    ]
-  },
-  {
-    "id": "bbb114cdf2ce736f5968187864f991608ea3259cbea019037e310006ca74c32d",
-    "title": "Scene Day 6 Box Office Collections: Suriya and Nazriya starrer collects Rs 8 crore on 1st Wednesday, to close first week at Rs 125 crore mark",
-    "summary": "Scene, starring Suriya in the lead role, along with Nazriya and Naslen, collected Rs. 8 crore on its Day 6 (Wednesday), registering a 40 per cent drop from the previous day. The drop seems higher since the holiday period is now over down South. The movie took its running cume of 6 days to Rs. 119 crore gross at the Indian box office. It is expected to close its first week at Rs. 125 crore gross, which will be a superb figure for the film.&nbsp; How far the Suriya movie can go at the box office w",
-    "category": "bollywood",
-    "source": "Pinkvilla",
-    "url": "https://www.pinkvilla.com/entertainment/box-office/scene-day-6-box-office-collections-suriya-and-nazriya-starrer-collects-rs-8-crore-on-1st-wednesday-to-close-first-week-at-rs-125-crore-mark-1406405",
-    "published_at": "2026-11-12T13:04:56+05:30",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.139952+00:00",
-    "thin": false
-  },
-  {
-    "id": "94679d82efdf1c6d543328c105eb458a53256cc0cce019a97e0ca7e20ba595d8",
-    "title": "The Jensen Huang scandal is hardly over",
-    "summary": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and famously had no succession plan at Nvidia. In fact, he's the only CEO Nvidia has ever had. L'&#233;tat c'est moi. Then [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-    "published_at": "2026-11-12T12:44:33-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T19:32:46.192310+00:00",
-    "thin": false,
-    "author": "Elizabeth Lopatto",
-    "tags": [
-      "AI",
-      "Analysis",
-      "Nvidia",
-      "Policy",
-      "Politics",
-      "Report",
-      "Tech"
-    ]
-  },
-  {
-    "id": "af349ec1e670b1b542eb479053a63f270b25b40f7fe2c942ebcbc81c2e2d001c",
-    "title": "Paralympic medallist Shuker ends 24-year tennis career",
-    "summary": "British wheelchair tennis player Lucy Shuker retires after 24 years as a professional and three Paralympic medals.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/tennis/articles/cm3vgxvwnrx9o",
-    "published_at": "2026-11-12T12:30:19+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3536/live/c7cae370-de92-11f1-9afe-1f03bfe02283.jpg",
-    "collection_timestamp": "2026-11-12T19:32:46.225840+00:00",
-    "thin": false
-  },
-  {
-    "id": "21c3cae1426bdb56c6476076f7ef1d8ae6a4ec5f930081b86cbae580bc400c32",
-    "title": "Dry weddings aren’t a big deal, it just makes people who complain look bad",
-    "summary": "I think it really shows how selfish and immature people are when they vehemently complain about a dry wedding. I have never understood this. You never learned how to be at an event without a drink? If you are a guest at a wedding, it’s not for you. I’m not sure when it became normal for weddings to be expected as just a party you throw for your friends, they aren’t. You are invited to witness a union, not to get drunk. That’s why you were invited. People who love you wanted you there to witness",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/unpopularopinion/comments/1xubhzt/dry_weddings_arent_a_big_deal_it_just_makes",
-    "published_at": "2026-11-12T12:28:02+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T19:32:46.231189+00:00",
-    "thin": false,
-    "author": "/u/Competitive_Law_4245https://www.reddit.com/user/Competitive_Law_4245",
-    "tags": [
-      "unpopularopinion"
-    ]
-  },
-  {
-    "id": "f69ec913a9abf4ba54d11f5ff5aadaa97ed449e39b47a88bcbe5ea05f04edefb",
-    "title": "To wear ai rayban sunglasses on the job",
-    "summary": "&#32; submitted by &#32; /u/ElkInevitable2037 &#32; to &#32; r/cringereels [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/cringereels/comments/1xubba1/to_wear_ai_rayban_sunglasses_on_the_job",
-    "published_at": "2026-11-12T12:18:36+00:00",
-    "image_url": "https://external-preview.redd.it/ZzJnNHJuYXZiNjFpMTU32C1Z3WZKbb_gLGllFjNHX3HZcdhJOOsENjIttY39.jpeg",
-    "collection_timestamp": "2026-11-12T19:32:46.232428+00:00",
-    "thin": false,
-    "author": "/u/ElkInevitable2037https://www.reddit.com/user/ElkInevitable2037",
-    "tags": [
-      "cringereels"
-    ]
-  },
-  {
-    "id": "7fc7cd19b70bdd6d389dc91b5b5768815727fc21c81703b7c4492880a82de6b6",
-    "title": "OM Synopsis: Dhanush, Mammootty starrer to be intense drama set in a gritty world; Runtime to be 3 hours long? Find Out",
-    "summary": "OM: Chapter 1, starring Dhanush and Mammootty in the lead roles, is slated to release in theatres on November 20, 2026. Directed by Rajkumar Periasamy, the action drama&#39;s synopsis and runtime appear to have been revealed. OM Chapter 1 Synopsis and Runtime According to a synopsis shared by Movies Singapore, Dhanush and Mammootty&#39;s film OM will follow: &ldquo;An emotional drama set in a gritty world ruled by lawbreakers and enforcers in close proximity, where greed, power and poverty unlea",
-    "category": "entertainment",
-    "source": "Pinkvilla",
-    "url": "https://www.pinkvilla.com/entertainment/south/om-synopsis-dhanush-mammootty-starrer-to-be-intense-drama-set-in-a-gritty-world-runtime-to-be-3-hours-long-find-out-1406404",
-    "published_at": "2026-11-12T12:02:12+05:30",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.140777+00:00",
-    "thin": false
-  },
-  {
-    "id": "e82b2bb082fc63f08d290e7215e9438a737576c5dac149a8775cd86b13851b51",
-    "title": "Review: Apple's M6 iMac is pricey, but it's still a good choice for a clean desk",
-    "summary": "Apple's M6 keeps the iMac current without shaking things up much.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk",
-    "published_at": "2026-11-12T12:00:37+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9812-1152x648.jpeg",
-    "collection_timestamp": "2026-11-12T19:32:46.193918+00:00",
-    "thin": false,
-    "author": "Andrew Cunningham",
-    "tags": [
-      "Apple",
-      "Features",
-      "Tech",
-      "apple",
-      "apple m6",
-      "Apple silicon",
-      "iMac"
-    ]
-  },
-  {
-    "id": "c3e7f0882a3fb79ec5fc53b6ad63a65b6ea4cef72039551b2e1d7993a1a2147a",
-    "title": "Pollock starts alongside Ojomoh and Joseph in bold England side",
-    "summary": "Free-scoring back row Henry Pollock will make only his second start for England in Saturday's Nations Championship meeting with Japan.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqkg727741xvo",
-    "published_at": "2026-11-12T12:00:28+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f35/live/e3446a30-de8e-11f1-9afe-1f03bfe02283.jpg",
-    "collection_timestamp": "2026-11-12T19:32:46.224269+00:00",
-    "thin": false
-  },
-  {
-    "id": "6b593f4917f7342b5f84e47e1dbfff038c73a3985ec66c6d5e69c8bbdb846f56",
-    "title": "‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug",
-    "summary": "The Cybertruck is heading to that shiny cyber-dumpster in the sky, leaving the folks who built online identities around Elon Musk's polarizing pickup feeling bereft. Usually, Musk's fanbase treads lightly around their idol's mercurial decisions. This time, however, the truck's demise has sparked rare backlash within the Tesla community - aimed squarely at the guy [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/transportation/1031991/elon-musk-cancels-cybertruck-tesla-fans-backlash",
-    "published_at": "2026-11-12T12:00:17-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T19:32:46.192501+00:00",
-    "thin": false,
-    "author": "Andrew J. Hawkins",
-    "tags": [
-      "Electric Cars",
-      "Elon Musk",
-      "News",
-      "Tech",
-      "Tesla",
-      "Transportation"
-    ]
-  },
-  {
-    "id": "17551ee31a67b79a8fc425546588477d38fcf4c41a865db0bcaab122e364ea7c",
-    "title": "25 years later, Xbox is trying to reinvent itself again",
-    "summary": "Microsoft has spent the past 25 years trying to shake up the game console market. The original Xbox, which launched on November 15th in 2001, took on an industry dominated by Sony and Nintendo. Twenty-five years later, Xbox finds itself in a similar position. It's not starting from scratch this time around, but to reach [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad",
-    "published_at": "2026-11-12T12:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T19:32:46.192674+00:00",
-    "thin": false,
-    "author": "Tom Warren",
-    "tags": [
-      "Gaming",
-      "Microsoft",
-      "Notepad",
-      "Tech",
-      "Xbox"
-    ]
-  },
-  {
-    "id": "93e16ad74ae888e1d4d91bc7b6f1d98bd27a0022552ed78392b34923b5e55488",
-    "title": "AI chatbots are recommending fake retail websites, study finds",
-    "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusively with The Verge prompted ChatGPT, Gemini, and Perplexity with a handful of shopping-related questions involving a selection of [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-    "published_at": "2026-11-12T12:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T19:32:46.192848+00:00",
-    "thin": false,
-    "author": "Mia Sato",
-    "tags": [
-      "AI",
-      "Google",
-      "Online Shopping",
-      "OpenAI",
-      "Tech"
-    ]
-  },
-  {
-    "id": "9250e97ab5f253542a382c8382ab823d61dbe30bae257af84f87bf91403f6f58",
-    "title": "More game developers are starting to use generative AI",
-    "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in 2025. Usage was higher with game developers that [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-    "published_at": "2026-11-12T12:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T19:32:46.193019+00:00",
-    "thin": false,
-    "author": "Jay Peters",
-    "tags": [
-      "AI",
-      "Entertainment",
-      "Gaming",
-      "News"
-    ]
-  },
-  {
-    "id": "c864c0ea3b4eb54a0dbf555161cf144cdbbec8dc119145bfc3a905a6a1ed1fa9",
-    "title": "Google Wallet can finally unlock doors with digital home keys",
-    "summary": "Google has added digital home key support to Google Wallet, allowing Android users to open smart locks by tapping their phone against them or simply approaching. The feature is currently available in public preview for the Google Home app, and will roll out to everyone \"over the coming weeks,\" according to Google's announcement. This was [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout",
-    "published_at": "2026-11-12T11:56:33-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T19:32:46.193200+00:00",
-    "thin": false,
-    "author": "Jess Weatherbed",
-    "tags": [
-      "Android",
-      "Google",
-      "Smart Home",
-      "Tech"
-    ]
-  },
-  {
-    "id": "6931b7d498af613dc052bee510b49a106825ec5053039b5d6768ea2c489a2970",
-    "title": "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks",
-    "summary": "Wednesday's unexpected rush of bets on Indiana raised some eyebrows at multiple sportsbooks.",
-    "category": "sports",
-    "source": "ESPN",
-    "url": "https://www.espn.com/espn/betting/story/_/id/49921234/college-football-betting-buzz-odds-updates-line-moves-spreads",
-    "published_at": "2026-11-12T11:45:59+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T21:48:04.709139+00:00",
-    "thin": false,
-    "author": "ESPN"
-  },
-  {
-    "id": "cb10d122562e4950b959da02512bef2aa9cf666b73c44581ce6dfff01b733926",
-    "title": "Best bets for LSU-Texas: Will points be hard to come by in Baton Rouge?",
-    "summary": "Let's find the best betting angle for Texas and LSU in a game neither team can afford to lose.",
-    "category": "sports",
-    "source": "ESPN",
-    "url": "https://www.espn.com/espn/betting/story/_/id/50444351/college-football-betting-week-11-lsu-texas",
-    "published_at": "2026-11-12T11:45:59+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T21:48:04.709404+00:00",
-    "thin": false,
-    "author": "Pamela Maldonado"
-  },
-  {
-    "id": "54a85835057756a7b31b65c5b1c2a5b074a7bc9ca9775304020376c408e3c2e8",
-    "title": "Smith's Netherlands switch sad - South Africa swimming boss",
-    "summary": "Tatjana Smith's decision to switch allegiance to the Netherlands is \"sad\" for South Africa, says the head of the nation's swimming federation.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/swimming/articles/cmy86x3y5dd8o",
-    "published_at": "2026-11-12T11:40:04+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00df/live/67590890-de89-11f1-b88b-3f1671ea859d.jpg",
-    "collection_timestamp": "2026-11-12T19:32:46.225306+00:00",
-    "thin": false
-  },
-  {
-    "id": "a840d1b0c751ffdd7cbc04e9d2958bb9e9742b0a4ac74657124b0b9b7957992f",
-    "title": "Tom Holland Says Starring in ‘The Odyssey’ Has Given Him an ‘Ambition to See What Else is Out There For Me’",
-    "summary": "Tom Holland has starred in two of this year’s biggest-grossing films – “Spider-Man: Brand New Day” and “The Odyssey” – but he says it’s the latter that will impact the next stage of his career. At a screening of Christopher Nolan’s Greek epic in London on Thursday, Holland was asked what he’d taken away from [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/global/tom-holland-the-odyssey-ambition-projects-1236945976",
-    "published_at": "2026-11-12T11:38:59+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/06/Tom-Holland-The-Odyssey.webp",
-    "collection_timestamp": "2026-11-12T11:39:42.905236+00:00",
-    "thin": false,
-    "author": "K.J. Yossman",
-    "tags": [
-      "Global",
-      "News",
-      "Christopher Nolan",
-      "Robert Pattinson",
-      "The Odyssey",
-      "Tom Holland"
-    ]
-  },
-  {
-    "id": "477b8c69dacad896144058ddc26cf182f63646169e7177525729313f127adb84",
-    "title": "CD Projekt Red Will Use AI to Bring Back Geralt’s Original Voice",
-    "summary": "The voice of Geralt's voice actor has changed significantly due to time and health conditions, so CD Projekt Red is using AI to restore it.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/the-witcher-3-cd-projekt-red-jacek-rozenek-ai-bring-back-geralt-voice",
-    "published_at": "2026-11-12T11:38:14+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/witcher-3-endings-guide-geralt-1.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.922899+00:00",
-    "thin": false,
-    "author": "Ashely Claudino",
-    "tags": [
-      "News",
-      "AI",
-      "The Witcher 3: Wild Hunt - Songs of the Past",
-      "The Witcher 3: Wild Hunt",
-      "The Witcher 3: Wild Hunt - Remastered"
-    ]
-  },
-  {
-    "id": "49b98ca07e25e67598d526bb241c36725f4020860942a9108de077043262b334",
-    "title": "Marvel 1943: Rise Of Hydra Isn’t Canceled, But Don’t Get Too Excited",
-    "summary": "Amid multiple delays and radio silence, a rumor that Marvel 1943: Rise of Hydra had been canceled began circulating this week. Developer Skydance quickly said the game is on track and nearly done—but it might not be what you expect. According to Kotaku , executive producer Lu Gigliotti told Skydance employees that he had spoken with the studio's executive leadership team, and that the game had not been canceled. \"They asked me to make sure you all hear that directly. There is no truth to these c",
-    "category": "gaming",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/marvel-1943-rise-of-hydra-isnt-canceled-but-dont-get-too-excited",
-    "published_at": "2026-11-12T11:35:04+00:00",
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Marvel-1943.jpg",
-    "collection_timestamp": "2026-11-12T19:32:46.217434+00:00",
-    "thin": false,
-    "author": "Darryn Bonthuys",
-    "tags": [
-      "Gaming,News"
-    ]
-  },
-  {
-    "id": "98f85e095bcbfa452d10468da061ae1e0590d41484f051deef75cad803232c6b",
-    "title": "Spain boss denies Lamine Yamal gets 'special privileges'",
-    "summary": "Spain head coach Luis de la Fuente denies claims Lamine Yamal received \"special privileges\" after being allowed to join the national team later than the rest of the squad.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cm0qjekqzwp0o",
-    "published_at": "2026-11-12T11:31:54+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7137/live/e8eba510-de85-11f1-b88b-3f1671ea859d.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.928274+00:00",
-    "thin": false
-  },
-  {
-    "id": "74d225389cc343ecfa3d52011f3d6464defb8ec3bf4ea669f8ec46eade7e4a0f",
-    "title": "BBC to show England-France wheelchair World Cup final",
-    "summary": "England's bid to retain the Wheelchair Rugby League World Cup will be shown live on the BBC on Friday.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c8dx16rnrpkxo",
-    "published_at": "2026-11-12T11:30:15+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c2f/live/c5ad7ec0-ddef-11f1-a701-fddedf244c16.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.927230+00:00",
-    "thin": false
-  },
-  {
-    "id": "0e1cc2e8d425b6c139cb38744c8eb8f27bc3fa5b06599c2e392ea563aab5a8bd",
-    "title": "Jensen Huang is out. What did China want from him?",
-    "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of Nvidia as news of his affairs, including with an alleged Chinese spy, threatened to engulf [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
-    "published_at": "2026-11-12T11:30:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T19:32:46.193376+00:00",
-    "thin": false,
-    "author": "Nilay Patel",
-    "tags": [
-      "AI",
-      "Decoder",
-      "Nvidia",
-      "Podcasts",
-      "Policy",
-      "Politics",
-      "Tech"
-    ]
-  },
-  {
-    "id": "108339c6883d437ddb36a21385b1d26b069b779b458db366316d822e6170a0ec",
-    "title": "Six matches that defined Carrick's Man Utd tenure",
-    "summary": "BBC Sport looks back at the six Premier League matches that defined the highs and lows of Michael Carrick's 10-month spell in charge of Manchester United.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c5ev37egv97mo",
-    "published_at": "2026-11-12T11:25:46+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f60a/live/0222d570-d167-11f1-b441-2b33b063138f.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.926541+00:00",
-    "thin": false
-  },
-  {
-    "id": "7035cb21e00dbc4414bb4aa8ed5f49155a513b3cec5c6746e4b6de9f4f302797",
-    "title": "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer phenomenal run continues Overseas, tops Rs. 900 Cr worldwide",
-    "summary": "Ramayana: Part One put up another USD 3 million-plus day overseas on Wednesday, grossing USD 3.35 million / Rs. 32 crore approx. That brings its seven-day running total to USD 34.15 million / Rs. 322 crore, which, with Rs. 603 crore from India, gives Rs. 925 crore globally. The film will be hitting the Rs. 1000 crore mark today.&nbsp; There are maybe ten Bollywood films that have ever collected over USD 3 million in a single day overseas. Here, this film is doing that much and more on weekdays.",
-    "category": "bollywood",
-    "source": "Pinkvilla",
-    "url": "https://www.pinkvilla.com/entertainment/box-office/ramayana-part-one-box-office-collections-ranbir-kapoor-and-yash-starrer-phenomenal-run-continues-overseas-tops-rs-900-cr-worldwide-1406403",
-    "published_at": "2026-11-12T11:25:24+05:30",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.142050+00:00",
-    "thin": false
-  },
-  {
-    "id": "f4c3d765bac039d823d85a6846288fa59af5d67b4bdbb4df1415665a6aaa57a0",
-    "title": "Nvidia stock falls 7% as investors await Jensen Huang’s fate",
-    "summary": "Nvidia's board met on Wednesday to discuss whether to oust Jensen Huang as CEO.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
-    "published_at": "2026-11-12T11:25:09+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T11:39:42.924035+00:00",
-    "thin": false
-  },
-  {
-    "id": "0aabc71f562c857cf7e0fa937281dae28199881e15a97d88f6cd5a4f8388f358",
-    "title": "‘Ghost Soldier’ Review: Jim Caviezel Is a Superheroic Soldier in an Uninspired, Retrograde Actioner",
-    "summary": "If “Walk Hard” was the parody that made it harder to take seriously subsequent music biopics, “MacGruber” did the same for a certain subset of action movies. Directed by William Eubank (“Underwater”), “Ghost Soldier” stacks up one-man-army cliches as early as the opening credits and continues as if no one’s ever told the story of [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/reviews/ghost-soldier-review-jim-caviezel-1236945980",
-    "published_at": "2026-11-12T11:24:37+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/ghost-soldier.webp",
-    "collection_timestamp": "2026-11-12T11:39:42.905524+00:00",
-    "thin": false,
-    "author": "Guy Lodge",
-    "tags": [
-      "Reviews",
-      "Ghost Soldier",
-      "Jim Caviezel",
-      "William Eubank"
-    ]
-  },
-  {
-    "id": "c3fd7c6b12e4d5e361dea567680cbaea6dc27a13ec8f03bb8641195c8887187b",
-    "title": "Palme d’Or Winner ‘Fjord’ to Open 26th European Film Festival Malaysia, Astro First to Stream Selected Titles",
-    "summary": "Cristian Mungiu&#8217;s Palme d&#8217;Or winner &#8220;Fjord&#8221; will open the 26th European Film Festival Malaysia (EUFF) on Nov. 26 at TGV Pavilion Kuala Lumpur. This year, for the first time, some of the festival&#8217;s films will also go to home audiences through Malaysian media and entertainment group Astro. The festival runs through Dec. 13 under the [&#8230;]",
-    "category": "entertainment",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/festivals/palme-dor-winner-fjord-european-film-festival-malaysia-1236945991",
-    "published_at": "2026-11-12T11:23:19+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/09/Sebastian-Stan-Fjord.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.905794+00:00",
-    "thin": false,
-    "author": "Naman Ramachandran",
-    "tags": [
-      "Asia",
-      "Festivals",
-      "Global",
-      "European Film Festival Malaysia",
-      "fjord"
-    ]
-  },
-  {
-    "id": "aad7932fcf5796b2a152e82d03317c68ed5668afec5d61886f6d4592a4a4bdfc",
-    "title": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin",
-    "summary": "Starshield is SpaceX's military-grade satellite network designed for government and national security use, building on the technology developed for Starlink.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html",
-    "published_at": "2026-11-12T11:23:04+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T11:39:42.924196+00:00",
-    "thin": false
-  },
-  {
-    "id": "24f47591a8f1b2d1871e73e7aad40a49de6399b5149e598454b161f1b5902fcc",
-    "title": "There are only 5 animals considered human hunters in the world, and polar bears are one of them.",
-    "summary": "&#32; submitted by &#32; /u/Lui_Belmont &#32; to &#32; r/interesting [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/interesting/comments/1xua627/there_are_only_5_animals_considered_human_hunters",
-    "published_at": "2026-11-12T11:15:34+00:00",
-    "image_url": "https://external-preview.redd.it/NGQyZjZnb28wNjFpMTlyQ4U0zO7GXsGeJljKULuKO1opfdFIlvERUwKxRpw5.png",
-    "collection_timestamp": "2026-11-13T00:53:50.335532+00:00",
-    "thin": false,
-    "author": "/u/Lui_Belmonthttps://www.reddit.com/user/Lui_Belmont",
-    "tags": [
-      "interesting"
-    ]
-  },
-  {
-    "id": "9376cde37f7bd8b45431e5c7d56f27ac8376cd79d7f4e305fca580760436d603",
-    "title": "BBC Boss Matt Brittin & Industry Leaders Set To Attend Culture Secretary’s Emergency Meeting Next Week Following Brand & Walliams Scandals",
-    "summary": "EXCLUSIVE: BBC Director General Matt Brittin is one of a number of industry bosses who will attend an emergency meeting convened by the UK Culture Secretary next week in the wake of the Russell Brand, David Walliams and MAFS scandals. Nandy will tell a meeting of leaders that if their response to the recent allegations [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/lisa-nandy-tv-industry-meeting-matt-brittin-brand-walliams-1237221451",
-    "published_at": "2026-11-12T11:08:27+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/09/GettyImages-2276303003-12.00.11.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.907980+00:00",
-    "thin": false,
-    "author": "Max Goldbart",
-    "tags": [
-      "News",
-      "BBC",
-      "CIISA",
-      "David Walliams",
-      "Lisa Nandy",
-      "Matt Brittin",
-      "Russell Brand"
-    ]
-  },
-  {
-    "id": "5522af529477c893acae03f4af26422202e8022aca8270cabf8e87977f5beaa5",
-    "title": "Lei Lei’s Hybrid Doc ‘Vertigo Garden,’ About a Botanist’s AI-Replicated Memories, Lands at Asian Shadows Ahead of IDFA Bow (EXCLUSIVE)",
-    "summary": "Boutique sales company Asian Shadows has acquired &#8220;Vertigo Garden,&#8221; the new feature from Chinese filmmaker and animation artist Lei Lei, ahead of its world premiere in the Envision Competition at the International Documentary Film Festival Amsterdam (IDFA). This is Lei&#8217;s second feature. IDFA has also nominated it for the Beeld en Geluid IDFA ReFrame Award, [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/news/lei-lei-hybrid-doc-vertigo-garden-asian-shadows-idfa-1236945987",
-    "published_at": "2026-11-12T11:07:25+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/Vertigo-Garden.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.906090+00:00",
-    "thin": false,
-    "author": "Naman Ramachandran",
-    "tags": [
-      "Asia",
-      "Festivals",
-      "Global",
-      "News",
-      "Asian Shadows",
-      "Idfa",
-      "Lei Lei",
-      "Vertigo Garden"
-    ]
-  },
-  {
-    "id": "09184164ab0b68dcca58effe770b25d7b91d802b27a288167e90ab53d1fce1cc",
-    "title": "[F1] BREAKING: Racing Bulls retain Arvid Lindblad and Liam Lawson for 2027",
-    "summary": "&#32; submitted by &#32; /u/wokwok__ &#32; to &#32; r/formula1 [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/formula1/comments/1xu9y4e/f1_breaking_racing_bulls_retain_arvid_lindblad",
-    "published_at": "2026-11-12T11:02:39+00:00",
-    "image_url": "https://preview.redd.it/shkf7secy51i1.jpeg",
-    "collection_timestamp": "2026-11-12T11:39:42.932552+00:00",
-    "thin": false,
-    "author": "/u/wokwok__https://www.reddit.com/user/wokwok__",
-    "tags": [
-      "formula1"
-    ]
-  },
-  {
-    "id": "b61b18c50787e5677caf3773cb31bf0fb65087a7c020ea35bb47b577aca09e8f",
-    "title": "7 Greatest Live-Service Games Killed Before Their Time, Ranked",
-    "summary": "Live-service games require a big budget and ongoing support, lest they die off far too soon.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/greatest-canceled-live-service-games",
-    "published_at": "2026-11-12T11:01:21+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24558013/Best_PC_Controllers.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.923083+00:00",
-    "thin": false,
-    "author": "Jason Venter",
-    "tags": [
-      "Polygon Lists",
-      "Highguard",
-      "Mobius Final Fantasy",
-      "Marvel's Avengers",
-      "Destruction AllStars",
-      "Paragon",
-      "Evolve",
-      "Gotham City Impostors"
-    ]
-  },
-  {
-    "id": "e699d80f667757217dcf9765ed998627e908753703d39fed66b55b944e930ab0",
-    "title": "Gang Dong-won, Kim Go-eun to Lead Netflix’s Period Romance-Action Drama ‘The Twilight Between Us’",
-    "summary": "The show comes from director Kim Won-suk and and writer Park Ji-eun.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/tv/tv-news/gang-dongwon-kim-goeun-netflix-the-twilight-between-us-1236753774",
-    "published_at": "2026-11-12T10:55:26+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T11:39:42.910732+00:00",
-    "thin": false,
-    "author": "Abid Rahman",
-    "tags": [
-      "TV",
-      "TV News",
-      "Asia",
-      "Gang Dong-won",
-      "international",
-      "K-Drama",
-      "Kim Go-eun",
-      "Netflix",
-      "South Korea",
-      "The Twilight Between Us"
-    ]
-  },
-  {
-    "id": "4f53886706cd414dbac5d52e727c48982e9f36013bb80c30536cfc88f82ba27f",
-    "title": "‘Line Of Duty’: Arnott, Fleming & Hastings Return To Service In First Look At Season 7 Of BBC’s Record-Setting Cop Drama",
-    "summary": "&#8220;Jesus, Mary, and Joseph and the wee donkey!&#8221; Martin Compston, Vicky McClure and Adrian Dunbar reprise their roles as Steve Arnott, Kate Fleming and Ted Hastings, respectively in the first look at the much anticipated return of record-setting BBC cop drama Line of Duty, along with a sight of Robert Carlyle&#8217;s character, Shaun Massie. Season [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/line-of-duty-bbc-season-7-first-look-images-1237221458",
-    "published_at": "2026-11-12T10:50:25+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Line-of-Duty-7-first-look.png",
-    "collection_timestamp": "2026-11-12T11:39:42.908251+00:00",
-    "thin": false,
-    "author": "Jesse Whittock",
-    "tags": [
-      "News",
-      "Adrian Dunbar",
-      "BBC",
-      "first-look images",
-      "Line Of Duty",
-      "Martin Compston",
-      "Robert Carlyle",
-      "Tom Weston-Jones",
-      "Vicky McClure"
-    ]
-  },
-  {
-    "id": "8dc8046af8d21bfd0337d35f1e7e8dade118fe79ecb1b6c4d1c2169846168407",
-    "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
-    "summary": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct report and an alleged Chinese spy. The new, and first, Chair of the Board, Harvey Jones, shared news of Huang's resignation [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
-    "published_at": "2026-11-12T10:48:12-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T19:32:46.193558+00:00",
-    "thin": false,
-    "author": "Terrence O’Brien",
-    "tags": [
-      "AI",
-      "News",
-      "Nvidia",
-      "Tech"
-    ]
-  },
-  {
-    "id": "36139a6a268c8a54505f9c57b9bf03655e272b3cf1f1deda277a6ae2e50d33ac",
-    "title": "Nvidia CEO Jensen Huang Resigns, Effective Immediately",
-    "summary": "Nvidia has announced that Jensen Huang has resigned as president and CEO of the company, effective immediately. Nvidia's current Chief Financial Officer, Colette Kress, will serve as interim CEO while keeping her CFO duties until a permanent replacement for Huang can be found. Harvey C. Jones, a longtime tech executive and investor, has been appointed as Nvidia's first-ever Chair of the Board, and the company says that operations, product plans, and customer commitments will continue without int",
-    "category": "gaming",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/nvidias-board-is-weighing-jensen-huangs-future-after-second-affair-revelation",
-    "published_at": "2026-11-12T10:43:30+00:00",
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Jensen-Huang-CTC-2026.jpg",
-    "collection_timestamp": "2026-11-12T19:32:46.214021+00:00",
-    "thin": false,
-    "author": "Darryn Bonthuys",
-    "tags": [
-      "Gaming,News"
-    ]
-  },
-  {
-    "id": "b93e0ddf912c4f2354a9b4775abbf2abd83151873a4d52a3fa5349dc78b38067",
-    "title": "Nvidia’s Board Is Weighing Jensen Huang’s Future After Second Affair Revelation",
-    "summary": "Things look dire for Nvidia CEO Jensen Huang, as his future at the company may be in jeopardy. Recently, it was revealed that Huang had been involved in an extramarital affair with a suspected Chinese spy, and this week, news broke that he'd been involved in a second affair with one of his executives. According to The New York Times , the Nvidia board of directors is meeting to discuss the situation, just days after launching an independent investigation into him. After the affair was first expo",
-    "category": "gaming",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/nvidias-board-is-weighing-jensen-huangs-future-after-second-affair-revelation",
-    "published_at": "2026-11-12T10:43:30+00:00",
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Jensen-Huang-CTC-2026.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.918214+00:00",
-    "thin": false,
-    "author": "Darryn Bonthuys",
-    "tags": [
-      "Gaming,News"
-    ]
-  },
-  {
-    "id": "df77a4f584a26eb4aa3f12ae6807f65212c6bd27829a04b6906b3185e071adb2",
-    "title": "Jensen Huang entering NVIDIA Office",
-    "summary": "&#32; submitted by &#32; /u/FitResearcher2865 &#32; to &#32; r/wallstreetbets [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/wallstreetbets/comments/1xu9ka5/jensen_huang_entering_nvidia_office",
-    "published_at": "2026-11-12T10:40:21+00:00",
-    "image_url": "https://external-preview.redd.it/dXBlaWs1aGV1NTFpMeOoqlVvsrja4-79yJ72ifWWSkAO6WqsHqWaOAveMhAi.png",
-    "collection_timestamp": "2026-11-12T11:39:42.931709+00:00",
-    "thin": false,
-    "author": "/u/FitResearcher2865https://www.reddit.com/user/FitResearcher2865",
-    "tags": [
-      "wallstreetbets"
-    ]
-  },
-  {
-    "id": "ce5b609bb633863424e30c4d3dd09cb1408f025d6af3886d2ad48d9433d3d457",
-    "title": "England's Mitchell faces prolonged spell out after hamstring operation",
-    "summary": "England scrum-half Alex Mitchell is facing a prolonged spell on the sidelines after an operation to fix recurring hamstring issues.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwr7grg25432o",
-    "published_at": "2026-11-12T10:39:44+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3e6/live/26892ed0-de84-11f1-b88b-3f1671ea859d.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.926897+00:00",
-    "thin": false
-  },
-  {
-    "id": "62c9d5481e4b294938e6f0a408945ae31893a2264046c4acc05af1602289875a",
-    "title": "Hawkins, Ponga and Waaka win Golden Boot awards",
-    "summary": "England's Rob Hawkins wins the International Rugby League's wheelchair Golden Boot award for the third year running.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c64gndn5xv9jo",
-    "published_at": "2026-11-12T10:32:59+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4067/live/99b6fd90-de81-11f1-b441-2b33b063138f.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.929467+00:00",
-    "thin": false
-  },
-  {
-    "id": "477eaf0377bfcae9ccf1587b0d783b003508029f8b56df29b6164de822d646a3",
-    "title": "A Careless Cigarette Toss Sparks a Fire in the Back of a Truck in China. The Driver Quickly Rushes to the Nearest Fire Station as Firefighters Come to the Rescue.",
-    "summary": "&#32; submitted by &#32; /u/JhonathanwickEx &#32; to &#32; r/interestingasfuck [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/interestingasfuck/comments/1xu9cf0/a_careless_cigarette_toss_sparks_a_fire_in_the",
-    "published_at": "2026-11-12T10:27:19+00:00",
-    "image_url": "https://external-preview.redd.it/YnNuMnU3ZzJzNTFpMa3QpF86Qe3AstqJcTCPoreQF0G5deOuFMqudD1dkszv.png",
-    "collection_timestamp": "2026-11-12T11:39:42.934618+00:00",
-    "thin": false,
-    "author": "/u/JhonathanwickExhttps://www.reddit.com/user/JhonathanwickEx",
-    "tags": [
-      "interestingasfuck"
-    ]
-  },
-  {
-    "id": "18d944d266032b05c3898a6a78a73dea85286acefe69b2a21658c2f400767527",
-    "title": "The chaos that took Carrick from two-year deal to sacked within 15 games",
-    "summary": "Michael Carrick becomes the third Manchester United manager to be sacked in three seasons - where did it go wrong?",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cm0rl4kwn8vqo",
-    "published_at": "2026-11-12T10:21:29+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e373/live/dbd80f70-de86-11f1-b88b-3f1671ea859d.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.925655+00:00",
-    "thin": false
-  },
-  {
-    "id": "2022983811c2d5d0569bac2f4a0d6eb775020c2baf69960ecb2519ccc669b220",
-    "title": "Nicole Kidman to Receive Honorary Cesar From French Film Academy",
-    "summary": "Nicole Kidman will receive an honorary Cesar at France&#8217;s Cesar Awards, with the presentation set for the 52nd ceremony on Feb. 25, 2027, at the Olympia in Paris. The Académie des Arts et Techniques du Cinéma, the French film academy behind the awards, announced the honor on Thursday alongside broadcaster Canal+. The two said the [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/news/nicole-kidman-honorary-cesar-french-film-academy-1236945969",
-    "published_at": "2026-11-12T10:12:24+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/03/GF2_3291.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.906329+00:00",
-    "thin": false,
-    "author": "Naman Ramachandran",
-    "tags": [
-      "Global",
-      "News",
-      "Cesar Awards",
-      "Nicole Kidman"
-    ]
-  },
-  {
-    "id": "ec95284366bef6224966fa8f2e167eeace67af33430c85ce009c7e1c90d4272a",
-    "title": "Elijah Wood Says “Muscle Memory” Kicked In Playing Frodo On ‘The Hunt For Gollum’ Set",
-    "summary": "Elijah Wood told Deadline tonight that playing Frodo again after more than two decades was &#8220;beautiful and surreal and it felt like no time had passed.&#8221; Wood reprised the role earlier this year on director Andy Serkis&#8217; new Middle-earth set tale, The Hunt For Gollum. The actor has spoken in anticipation of returning to the [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/elijah-wood-what-it-was-like-playing-frodo-hunt-for-gollum-1237221444",
-    "published_at": "2026-11-12T10:09:48+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/elijah-wood.png",
-    "collection_timestamp": "2026-11-12T11:39:42.908483+00:00",
-    "thin": false,
-    "author": "Tomt",
-    "tags": [
-      "News",
-      "Elijah Wood",
-      "LOTR",
-      "The Lord Of The Rings: The Hunt For Gollum"
-    ]
-  },
-  {
-    "id": "f108e7557acbefda36eefb8295e16b498ef2326a338815082f34684b91e1c950",
-    "title": "Oliver Laxe on Overcoming His Fears, Making Films as an Act of ‘Prayer’ and Allowing His ‘Wounds’ to Drive Him to ‘Take the Leap’",
-    "summary": "Oscar-nominated Spanish director Oliver Laxe opened up about the fear, vulnerability and self-doubt that undergird his work as a filmmaker, confessing in a deeply personal appearance at the Thessaloniki Film Festival that his career was born in part out of a &#8220;need to protect&#8221; himself. “Many times I am afraid to express what I truly [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/global/oliver-laxe-overcoming-fears-films-act-of-prayer-1236945075",
-    "published_at": "2026-11-12T10:09:30+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/MixCollage-11-Nov-2026-04-34-PM-209.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.906622+00:00",
-    "thin": false,
-    "author": "Postcardjunky",
-    "tags": [
-      "Global",
-      "Markets & Festivals",
-      "News",
-      "Oliver Laxe",
-      "Sirat",
-      "Thessaloniki Film Festival"
-    ]
-  },
-  {
-    "id": "8706a6f44a76cd5b2c55a7576ebe80a3fe6a3d2ab5210d68bf6e1e8e45a4702e",
-    "title": "Lutnick should ban Chinese memory maker CXMT from U.S., Sen. Cotton says",
-    "summary": "Sen. Tom Cotton is urging the Commerce secretary to add CXMT to its \"Entity List\" as the fast-growing Chinese memory maker expands in DRAM and pushes into HBM.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/lutnick-cxmt-china-cotton.html",
-    "published_at": "2026-11-12T10:00:01+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T11:39:42.924385+00:00",
-    "thin": false
-  },
-  {
-    "id": "3e18e90d2c07eb1fa4b580410a225489c2a7feb15c2500c0b11263408e94ff52",
-    "title": "‘Hamnet’ Play From Royal Shakespeare Company Sets First U.K. Tour",
-    "summary": "The Royal Shakespeare Company&#8217;s stage version of &#8220;Hamnet,&#8221; Lolita Chakrabarti&#8217;s adaptation of Maggie O&#8217;Farrell&#8217;s novel about William Shakespeare&#8217;s family and the death of his 11-year-old son, will tour the U.K. for the first time starting in September 2027. Fiery Angel and Neal Street Productions are presenting the RSC production, which previously played London&#8217;s West End. [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/theater/news/hamnet-play-royal-shakespeare-company-first-uk-tour-1236945057",
-    "published_at": "2026-11-12T10:00:00+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/Hamnet-play.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.906893+00:00",
-    "thin": false,
-    "author": "Naman Ramachandran",
-    "tags": [
-      "Global",
-      "News",
-      "Hamnet",
-      "Royal Shakespeare Company"
-    ]
-  },
-  {
-    "id": "42f801160992877b853b9c28b85f1bf96fa9afbf36964c40f045dc3f86ed14bf",
-    "title": "Ten years and three kids later... Oliva back for Olympic bid",
-    "summary": "Cyclist and mum-of-three Ciara Oliva says she has ‘unfinished business’ at the Olympics after returning to the British Cycling programme.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/cycling/articles/cm2kljnzjyzlo",
-    "published_at": "2026-11-12T09:59:47+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d586/live/5015d9c0-dde3-11f1-9cf4-b188db5b2d8c.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.927076+00:00",
-    "thin": false
-  },
-  {
-    "id": "ab59568515f18609fe627679a7c0a64663c88833cc9773a55c5a58a1cd47e1be",
-    "title": "Long-time James Bond Producer Barbara Broccoli Named President of U.K.’s National Film and Television School",
-    "summary": "\"With the opening of [NFTS'] Cubby Broccoli Building taking place in January, this is especially meaningful. My father believed in the power of filmmaking,\" Broccoli said.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/business/business-news/james-bond-barbara-broccoli-president-nfts-national-film-1236753762",
-    "published_at": "2026-11-12T09:59:43+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T11:39:42.910951+00:00",
-    "thin": false,
-    "author": "Lily Ford",
-    "tags": [
-      "Business",
-      "Business News",
-      "Barbara Broccoli",
-      "international",
-      "nfts",
-      "united kingdom"
-    ]
-  },
-  {
-    "id": "8db0730f60b74b821399f4d358bc1dadd7fb984c5a859e11f504c924387f7316",
-    "title": "Gal Gadot Tearfully Warns Against Rising Antisemitism at Simon Wiesenthal Center Gala",
-    "summary": "At the Beverly Wilshire ceremony, honoree Ynon Kreiz, Skydance's newly appointed co-CEO, tells The Hollywood Reporter he \"wholeheartedly\" backed the company's response to Mark Ruffalo.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/gal-gadot-antisemitism-warning-simon-wiesenthal-center-gala-1236753712",
-    "published_at": "2026-11-12T09:45:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T11:39:42.911158+00:00",
-    "thin": false,
-    "author": "Seth Abramovitch",
-    "tags": [
-      "Movie News",
-      "Movies",
-      "antisemitism",
-      "David Ellison",
-      "Gal Gadot",
-      "Gaza",
-      "international",
-      "Israel",
-      "Israel-Gaza Conflict",
-      "Skydance",
-      "Ynon Kreiz"
-    ]
-  },
-  {
-    "id": "de37639653286fcab99ad8d45fd49a48d83a09e0efa4691ef3e1fcb3e8b8123f",
-    "title": "Ramayana Part One Box Office Collections: Ranbir Kapoor and Yash starrer juggernaut rolls over to Rs. 500 Cr nett on Day 7",
-    "summary": "Ramayana: Part One collected Rs. 68 crore nett approx on its seventh day of release in India, down about 25 per cent from the previous day. This amount splits into Rs. 57 crore nett approx in Hindi and just over Rs. 11 crore nett in the South dubs. The film surpassed the Rs. 500 crore nett mark yesterday, standing at Rs. 503 crore nett approx, of which Hindi has contributed Rs. 387 crore nett, while South dubs are at a historic Rs. 116 crore nett. Yesterday was a holiday for Bhai Dooj, which led",
-    "category": "bollywood",
-    "source": "Pinkvilla",
-    "url": "https://www.pinkvilla.com/entertainment/box-office/ramayana-part-one-box-office-collections-ranbir-kapoor-and-yash-starrer-juggernaut-rolls-over-to-rs-500-cr-nett-on-day-7-1406402",
-    "published_at": "2026-11-12T09:40:24+05:30",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T00:53:50.143997+00:00",
-    "thin": false
-  },
-  {
-    "id": "34d7633a9eda5720f5b2abc455b6fc529dddb82093d824da1f3bf4a8d67a1c79",
-    "title": "Inside the 2026 Person of the Year Gala Honoring Daddy Yankee: ‘I Couldn’t Believe Everything I Had Built’",
-    "summary": "J Balvin, Feid, Trueno, The Sugar Hill Gang, and more artists celebrated the pioneering reggaetón star at the intimate event in Las Vegas.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/awards/2026-person-of-the-year-gala-daddy-yankee-highlights-1236379444",
-    "published_at": "2026-11-12T09:39:33+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T11:39:42.912799+00:00",
-    "thin": false,
-    "author": "Jessica Roiz",
-    "tags": [
-      "Awards",
-      "Music",
-      "genre latin",
-      "Latin Grammys"
-    ]
-  },
-  {
-    "id": "fa4a8b61e316a04af89dc6aa85dcfa9f5a52225a20ee2391e7a4d764ebb88244",
-    "title": "Bollywood Romance ‘Weekend’ Eyes First Indian Feature Shoot in Russia’s Yakutia as Picture Perfect Signs MoU With Sakhafilm, Saidam Baryl (EXCLUSIVE)",
-    "summary": "Indian romantic drama &#8220;Weekend&#8221; is eyeing a shoot in Russia&#8217;s remote Sakha Republic, also known as Yakutia, after producer Vivek Singhania&#8217;s banner Picture Perfect signed a memorandum of understanding with local outfits Saidam Baryl and Sakhafilm to explore taking the production there. The three-way MoU was signed during the recently concluded 9th Yakutsk International Film [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/news/bollywood-romance-weekend-shoot-russia-yakutia-1236945960",
-    "published_at": "2026-11-12T09:38:29+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/India-Yakutia.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.907180+00:00",
-    "thin": false,
-    "author": "Naman Ramachandran",
-    "tags": [
-      "Asia",
-      "Global",
-      "News",
-      "Picture Perfect",
-      "Saidam Baryl",
-      "Sakhafilm",
-      "Yakutia"
-    ]
-  },
-  {
-    "id": "3c354774ddef26148b66d712b3fa4407ab0ae37496dbce8b12263b94432db63a",
-    "title": "England legend Anderson, 44, joins Surrey",
-    "summary": "Legendary England bowler James Anderson extends his record-breaking career beyond his 45th birthday by signing for Surrey.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/cricket/articles/c6879g5z0v0wo",
-    "published_at": "2026-11-12T09:32:22+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4274/live/de53bba0-de77-11f1-9115-cfe6d179af3a.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.925809+00:00",
-    "thin": false
-  },
-  {
-    "id": "32a7c99902e56d7fbb1a5f8cb346ef1aed1bc0abb5bec6cf2a12d3b40b371a79",
-    "title": "Nicole Kidman to Receive Honorary Cesar Award From French Film Academy",
-    "summary": "The French Academy paid tribute to the 'Moulin Rouge!,' 'Eyes Wide Shut' and 'Practical Magic' actress, saying Kidman \"has never allowed her status as a star to dictate her artistic choices.\"",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/nicole-kidman-honorary-french-cesar-award-1236753736",
-    "published_at": "2026-11-12T09:30:21+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T11:39:42.911353+00:00",
-    "thin": false,
-    "author": "Scott Roxborough",
-    "tags": [
-      "Movie News",
-      "Movies",
-      "Cesar Awards",
-      "international",
-      "Léa Seydoux",
-      "Nicole Kidman"
-    ]
-  },
-  {
-    "id": "403962c7928cf8fa4d7d143a274077709aa29dae80e2591f9af42a9929434511",
-    "title": "Lord of the Rings Officially Reveals Gollum’s Replacement",
-    "summary": "The franchise has brought in a new character that fills the hole that Gollum once filled with Samwise and Frodo.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/lord-of-the-rings-gollum-orc-rings-of-power",
-    "published_at": "2026-11-12T09:30:18+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/gollum-with-ring.jpeg",
-    "collection_timestamp": "2026-11-12T11:39:42.923259+00:00",
-    "thin": false,
-    "author": "Rachel Leishman",
-    "tags": [
-      "FYI",
-      "The Lord of the Rings: The Rings of Power"
-    ]
-  },
-  {
-    "id": "84b824eb37c6b6138f4c154be0c2321ad9a5cdd23189bacfae98515bbc42d492",
-    "title": "Nicole Kidman To Receive Honorary César In France",
-    "summary": "Nicole Kidman will be feted with an Honorary César at the 52nd César Ceremony in Paris in February 2026. She follows in the wake of Jim Carrey (2026) Julia Roberts (2025), Christopher Nolan (2024), David Fincher (2023) Cate Blanchett (2022), Robert Redford (2019) and George Clooney (2017). The Australian actress has worked with a number [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/nicole-kidman-honorary-cesar-france-1237221446",
-    "published_at": "2026-11-12T09:30:03+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2288215753.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.908699+00:00",
-    "thin": false,
-    "author": "Melanie Goodfellow",
-    "tags": [
-      "News",
-      "Cesar",
-      "Nicole Kidman"
-    ]
-  },
-  {
-    "id": "dc06f60b4f6bf374d87aa1581cef88e4e33c20c4d2b9366baac5ce5d1128ec55",
-    "title": "‘Bridgerton’ Star Adjoa Andoh Co-Creating & Starring In ITV Detective Drama ‘Protect And Serve’",
-    "summary": "EXCLUSIVE: Bridgerton star Adjoa Andoh is swapping Shonda Rhimes&#8217; regency wonderland for an ITV detective drama. Andoh is creating her first drama series, Protect and Serve [working title], with Time scribe Helen Black. Andoh will play the lead, DI Araba Dadzie, a cop, mother and daughter. Araba is in the squeezed middle of her life, [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/adjoa-andoh-starring-itv-drama-protect-and-serve-1237220384",
-    "published_at": "2026-11-12T09:30:00+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/split-image-1000-2.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.908969+00:00",
-    "thin": false,
-    "author": "Max Goldbart",
-    "tags": [
-      "Casting",
-      "News",
-      "Adjoa Andoh",
-      "Big Talk Studios",
-      "Helen Black",
-      "ITV",
-      "ITV Studios",
-      "Protect And Serve"
-    ]
-  },
-  {
-    "id": "d91502b650d074497f012cd0840f0d460b067f8533a339953e2ccf5ac5ddd2a8",
-    "title": "Genesis Owusu Doubles Up at 2026 J Awards",
-    "summary": "Winners included Vika &#38; Linda, Swapmeet and Ninajirachi.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/awards/genesis-owusu-doubles-up-2026-j-awards-1236380130",
-    "published_at": "2026-11-12T09:23:58+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T11:39:42.912962+00:00",
-    "thin": false,
-    "author": "Lars Brandle",
-    "tags": [
-      "Awards",
-      "Music",
-      "bbnews"
-    ]
-  },
-  {
-    "id": "2a0499efba9da04de1ffd8ef028276e57f5622e67d0250923e791cd3adfc29d1",
-    "title": "‘The Bureau’ Producer Federation Studios Moves to Recapitalize as Lionel Uzan Succeeds Pascal Breton as President",
-    "summary": "Federation Studios, the Paris-based group behind French spy series &#8220;The Bureau,&#8221; is overhauling its finances and leadership, with co-founder Lionel Uzan succeeding Pascal Breton as president and Montefiore and the company&#8217;s financial shareholders set to take majority control. The company said Thursday that it settled on the plan after weighing a number of strategic alternatives. [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/tv/news/bureau-producer-federation-studios-recapitalize-1236945944",
-    "published_at": "2026-11-12T09:22:58+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/Pascal-Breton-Lionel-Uzan1.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.907442+00:00",
-    "thin": false,
-    "author": "Naman Ramachandran",
-    "tags": [
-      "Global",
-      "News",
-      "Federation Studios",
-      "Lionel Uzan",
-      "Pascal Breton",
-      "The Bureau"
-    ]
-  },
-  {
-    "id": "c5be2442380b2d80170192b39b13417d8b37c5dfd92557baa0c877cb57244f63",
-    "title": "James Bond Producer Barbara Broccoli to Be President of U.K.’s National Film and Television School",
-    "summary": "James Bond producer Barbara Broccoli has been revealed as the next president of the U.K.’s National Film and Television School. She succeeds Oscar-winning producer David Puttnam in the role. Broccoli will be the first female president in the NFTS&#8217;s history. Puttnam, whose credits include &#8220;Chariots of Fire,&#8221; &#8220;The Killing Fields&#8221; and &#8220;Midnight Express,&#8221; is to [&#8230;]",
-    "category": "entertainment",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/global/barbara-broccoli-national-film-and-television-school-1236945943",
-    "published_at": "2026-11-12T09:16:26+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/Barbara-Broccoli.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.907709+00:00",
-    "thin": false,
-    "author": "Leo Barraclough",
-    "tags": [
-      "Global",
-      "News",
-      "Barbara Broccoli",
-      "David Puttnam",
-      "National Film and Television School"
-    ]
-  },
-  {
-    "id": "a86f30b048b053eeb9ea455dbf6c90661578db6f6bafa0f1c83e5dc04d27ff32",
-    "title": "‘Russell Brand: Open Secret’ Documentary Set at Netflix",
-    "summary": "From the producers of 'Jimmy Savile: A British Horror Story,' the film promises to examine Brand's journey from superstar to convicted rapist.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/russell-brand-open-secret-documentary-netflix-rape-sentence-1236753738",
-    "published_at": "2026-11-12T09:08:16+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T11:39:42.911534+00:00",
-    "thin": false,
-    "author": "Lily Ford",
-    "tags": [
-      "Movie News",
-      "Movies",
-      "international",
-      "Russell Brand",
-      "united kingdom"
-    ]
-  },
-  {
-    "id": "84ae3f171a7ca0f5d65dd6e9693bef6b05bdb89ba30e2d995581968884b31505",
-    "title": "Ukrainian defense tech startup hits $6 billion valuation as investors bet on battle-tested drones",
-    "summary": "UFORCE's NEMESIS drones have completed 300,000 combat flights, and its MAGURA naval vessels have contributed to the destruction of Russian warships.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/uforce-defense-tech-drones-warfare-ukraine.html",
-    "published_at": "2026-11-12T09:05:22+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T11:39:42.925027+00:00",
-    "thin": false
-  },
-  {
-    "id": "2eb9f73ff7464b3bc8ea42c09df49770d6975662fe71e6c62b85458c3cb2f2cb",
-    "title": "Wales' Basham starts against All Blacks as Wainwright ruled out",
-    "summary": "Wales number eight Taine Basham will start his first international for four years as he replaces the injured Aaron Wainwright against New Zealand.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmvg2dwpyx70o",
-    "published_at": "2026-11-12T09:05:19+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caaa/live/27bf68e0-de58-11f1-b441-2b33b063138f.png",
-    "collection_timestamp": "2026-11-12T11:39:42.927547+00:00",
-    "thin": false
-  },
-  {
-    "id": "a22e48dc4b5c915187640c15b75cac0bd86f894b27e9c11896422b2c8a3302c9",
-    "title": "Basham starts for Wales as Wainwright ruled out",
-    "summary": "Wales number eight Taine Basham will start his first international for four years as he replaces the injured Aaron Wainwright against New Zealand.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmvg2dwpyx70o",
-    "published_at": "2026-11-12T09:05:19+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caaa/live/27bf68e0-de58-11f1-b441-2b33b063138f.png",
-    "collection_timestamp": "2026-11-12T11:39:42.930130+00:00",
-    "thin": false
-  },
-  {
-    "id": "b4468b05c319d4bfbd55a9c529f9c9423890f95abb775c96ebcd44520512f41d",
-    "title": "10 Funniest 'Far Side' Comics About Penguins That Prove Gary Larson Is Unbeatable",
-    "summary": "In addition to cows and dinosaurs, Gary Larson loved to make fun of penguins. Here are his 10 best penguin-focused Far Side comics",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/funniest-far-side-comics-about-penguins",
-    "published_at": "2026-11-12T09:00:18+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/screen-shot-2026-11-11-at-7-38-12-am-1.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.923437+00:00",
-    "thin": false,
-    "author": "Brian VanHooker",
-    "tags": [
-      "Analysis"
-    ]
-  },
-  {
-    "id": "cb38930c2cdd78a55edd27a9bd817c4cfc8a38540b0d7b9b14ee5321b6f8888a",
-    "title": "Barbara Broccoli Appointed President Of UK’s National Film & Television School",
-    "summary": "EXCLUSIVE: Barbara Broccoli has been named the first female president of the UK&#8217;s National Film and Television School (NFTS). The storied James Bond producer becomes President just a few weeks before the opening of a building dedicated to her father, the legendary Cubby Broccoli. Barbara Broccoli will build on her longstanding relationship with the NFTS [&#8230;]",
-    "category": "entertainment",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/barbara-broccoli-national-film-television-school-president-1237220238",
-    "published_at": "2026-11-12T09:00:00+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/split-image-1000_6676f5.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.909213+00:00",
-    "thin": false,
-    "author": "Max Goldbart",
-    "tags": [
-      "News",
-      "Barbara Broccoli",
-      "David Puttnam",
-      "National Film & Television School",
-      "NFTS"
-    ]
-  },
-  {
-    "id": "c398033dda97b525e527988bf523d4eda0e9357e8e086b740720d2f6dddb6f23",
-    "title": "Golshifteh Farahani Is a Widow Fighting the Exploitation of Kids as the Taliban Nears Kabul in ‘When She Hears the Bells’ (Exclusive Clip and Chat)",
-    "summary": "Chabname Zariab’s Tallinn-debuting debut feature includes images shot in Afghanistan and shines a light on women and a \"taboo\" topic in a story that is \"a personal responsibility and an act of quiet resistance.\"",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/golshifteh-farahani-film-when-she-hears-the-bells-clip-poff-1236748852",
-    "published_at": "2026-11-12T09:00:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T11:39:42.911780+00:00",
-    "thin": false,
-    "author": "Georg Szalai",
-    "tags": [
-      "Movie News",
-      "Movies",
-      "Golshifteh Farahani",
-      "international",
-      "POFF",
-      "POFF 2026",
-      "Taliban",
-      "Tallinn Black Nights Film Festival"
-    ]
-  },
-  {
-    "id": "956d3f525a714adf70c9b5dd63a9bf92ee36dd41df1e5d084ffb2b5876e93b6b",
-    "title": "Lionel Uzan Succeeding Pascal Breton As President Of Federation Studios; Montefiore Ups Stake",
-    "summary": "Federation Studios&#8217; Lionel Uzan is taking the reins at the French entertainment giant with Pascal Breton stepping back, as Montefiore Investments becomes a majority shareholder. Federation, which had been seeking a huge cash injection of hundreds of millions of euros for the past couple of years, will have a new structure with an increase of [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/federation-pascal-breton-lionel-uzan-president-restructure-1237221428",
-    "published_at": "2026-11-12T08:59:51+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/split-image-1000-3.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.909456+00:00",
-    "thin": false,
-    "author": "Max Goldbart",
-    "tags": [
-      "News",
-      "Federation Studios",
-      "Lionel Uzan",
-      "Montefiore Investments",
-      "Pascal Breton"
-    ]
-  },
-  {
-    "id": "13682dc0abedf34a77993cf5e6d9492b2935ac50cba4463dc1acfed82ddc92aa",
-    "title": "Baumgardner's win shakes up women's pound-for-pound rankings",
-    "summary": "Alycia Baumgardner's rise brings changes to ESPN's latest women's pound-for-pound rankings.",
-    "category": "sports",
-    "source": "ESPN",
-    "url": "https://www.espn.com/boxing/story/_/id/50445936/women-boxing-pound-pound-rankings",
-    "published_at": "2026-11-12T08:47:59+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T21:48:04.710662+00:00",
-    "thin": false,
-    "author": "ESPN"
-  },
-  {
-    "id": "f85fbfc8ab86364ea5060aff3854f52717843cb0ef977959ed6e6e15f9735361",
-    "title": "Lacrosse cheerleaders spelling out the team’s name with pompoms.",
-    "summary": "Buffalo Bandits &#32; submitted by &#32; /u/deathakissaway &#32; to &#32; r/oddlysatisfying [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/oddlysatisfying/comments/1xu7qco/lacrosse_cheerleaders_spelling_out_the_teams_name",
-    "published_at": "2026-11-12T08:45:52+00:00",
-    "image_url": "https://external-preview.redd.it/cGc1ODBtano5NTFpMYRKS8lIs65fWkpAVUqNsOl8NjhHw2zmTUdxyxQA1qZ6.png",
-    "collection_timestamp": "2026-11-12T11:39:42.934194+00:00",
-    "thin": false,
-    "author": "/u/deathakissawayhttps://www.reddit.com/user/deathakissaway",
-    "tags": [
-      "oddlysatisfying"
-    ]
-  },
-  {
-    "id": "27676aee625456375472923f665ca70d6b1395e89ef92c5f3853585d431146e8",
-    "title": "'Unfinished business' - Tuchel committed to England",
-    "summary": "England head coach Thomas Tuchel says he has \"no intention\" of leaving the job before Euro 2028 regardless of any offers from major clubs.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cqg7l9x9jnzko",
-    "published_at": "2026-11-12T08:42:47+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2bb/live/c56e31c0-de71-11f1-9115-cfe6d179af3a.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.928946+00:00",
-    "thin": false
-  },
-  {
-    "id": "ab80dab09b216d5ea846b4a095ecbd1a0dcab083099041def777f5f7d9609bd3",
-    "title": "Netflix to Release Documentary ‘Russell Brand: Open Secret’",
-    "summary": "The film, directed by Olivia Isaacs, centers on the comedian's life and the allegations of sexual offenses that led to his recent trial",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/russell-brand-open-secret-documentary-netflix-release-1235656419",
-    "published_at": "2026-11-12T08:41:55+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T11:39:42.913636+00:00",
-    "thin": false,
-    "author": "Emily Zemler",
-    "tags": [
-      "TV & Movies",
-      "TV & Movies News",
-      "Netflix",
-      "Russell Brand"
-    ]
-  },
-  {
-    "id": "29dc58c305554d3155d0f28c9317d25dda73c131f944c16f1c46c29bbf293695",
-    "title": "Britain's Kelly to face Ennis in February unification bout",
-    "summary": "Unbeaten two-weight world champion Jaron Ennis will look to end Josh Kelly's nine-fight winning streak.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/boxing/articles/c3wy04zvre15o",
-    "published_at": "2026-11-12T08:29:46+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2854/live/485ea930-de71-11f1-9115-cfe6d179af3a.jpg",
-    "collection_timestamp": "2026-11-12T11:39:42.928421+00:00",
-    "thin": false
-  },
-  {
-    "id": "d3913ef85afb3ffb3cdc1984ff9bf0ba6ead7e061551ec29784d6080fef17d76",
-    "title": "Arnold Schwarzenegger Calls for Democrats and Republicans to ‘Work Together’",
-    "summary": "\"You have to get together and accomplish and be a public servant rather than a party servant\"",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/arnold-schwarzenegger-kimmel-interview-politics-1235656415",
-    "published_at": "2026-11-12T08:22:42+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T11:39:42.913840+00:00",
-    "thin": false,
-    "author": "Emily Zemler",
-    "tags": [
-      "TV & Movies",
-      "TV & Movies News",
-      "Arnold Schwarzenegger",
-      "Donald Trump",
-      "Jimmy Kimmel",
-      "Jimmy Kimmel Live",
-      "Late-Night TV"
-    ]
-  },
-  {
-    "id": "cb286876fe03039fe36c1079a0da789bd13d9fb96ea2207d9c2b435568764bce",
-    "title": "His Childhood with her Flashed Before his Eyes",
-    "summary": "&#32; submitted by &#32; /u/Alternative-Dot-34 &#32; to &#32; r/MadeMeSmile [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/MadeMeSmile/comments/1xu7bzj/his_childhood_with_her_flashed_before_his_eyes",
-    "published_at": "2026-11-12T08:19:43+00:00",
-    "image_url": "https://external-preview.redd.it/cWQ3Y3JpZmI1NTFpMWfAL29uMXo7piCfopm11d_siclCw_wzL45Z48UdEw2J.png",
-    "collection_timestamp": "2026-11-12T11:39:42.935779+00:00",
-    "thin": false,
-    "author": "/u/Alternative-Dot-34https://www.reddit.com/user/Alternative-Dot-34",
-    "tags": [
-      "MadeMeSmile"
-    ]
-  },
-  {
-    "id": "b0834723e877244d082e79b7e97d347300cc3c4e358a70eaf883127b51034408",
-    "title": "Young duo at heart of Nations League's meanest defence",
-    "summary": "With Northern Ireland yet to concede a goal in the 2026-27 Nations League, young defenders Ruairi McConville and Tom Atcheson have been impressing for Michael O'Neill's side.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/articles/cw24epvmq96lo",
-    "published_at": "2026-11-12T08:17:52+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1cf/live/ea41ecb0-ddc9-11f1-93e1-3b657b665bcf.png",
-    "collection_timestamp": "2026-11-12T11:39:42.928600+00:00",
-    "thin": false
   }
 ]

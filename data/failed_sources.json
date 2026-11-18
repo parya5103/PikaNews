@@ -1,6 +1,12 @@
 {
   "failed_sources": [
     {
+      "name": "Pinkvilla",
+      "url": "https://www.pinkvilla.com/feed",
+      "category": "bollywood",
+      "error": "Failed to fetch"
+    },
+    {
       "name": "IGN",
       "url": "https://www.ign.com/feed",
       "category": "gaming",
@@ -19,6 +25,6 @@
       "error": "Failed to fetch"
     }
   ],
-  "timestamp": "2026-11-17T18:08:28.384371+00:00",
-  "total_failed": 3
+  "timestamp": "2026-11-18T01:08:20.436922+00:00",
+  "total_failed": 4
 }

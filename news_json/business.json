@@ -1,5 +1,53 @@
 [
   {
+    "id": "a745d0cdc3d59b015f940ec9525143e0793a9cbe6fc8abadf435c891eb3ebd1d",
+    "title": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
+    "summary": "Semiconductor shipments spiked almost 50% year on year.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html",
+    "published_at": "2026-11-18T00:35:31+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.381701+00:00",
+    "thin": false
+  },
+  {
+    "id": "9cb84b314883aaf058c68a435ff6d19170c9e578a9e3559fb4820befe72f033d",
+    "title": "Nvidia closes lower ahead of earnings as company reels from Huang resignation",
+    "summary": "Investors have been weighing the fallout from former CEO Jensen Huang's resignation.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html",
+    "published_at": "2026-11-17T21:05:24+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.381998+00:00",
+    "thin": false
+  },
+  {
+    "id": "05987eec5a000c678e1adf27531b53ffbfec67354b3b5379ab422e1cfbbc5a1c",
+    "title": "A generational flight from tech to defensive stocks is underway. How we’re capitalizing",
+    "summary": "Jim Cramer has pushed the message that its important for investors to balance their portfolios.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/17/a-generational-flight-from-tech-to-defensive-stocks-is-underway-how-were-capitalizing.html",
+    "published_at": "2026-11-17T20:31:27+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.382110+00:00",
+    "thin": false
+  },
+  {
+    "id": "ef87bb70f4086339f977345eab8ea6e277c4109cf9a9721e3a8ad97ebfb06c32",
+    "title": "Wall Street's fear gauge is surging again and this time it's not just about AI jitters",
+    "summary": "VIX up four days in a row as options traders show fear unseen since April",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/17/wall-streets-fear-gauge-is-surging-again-and-this-time-its-not-just-about-ai-jitters.html",
+    "published_at": "2026-11-17T20:28:07+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.381607+00:00",
+    "thin": false
+  },
+  {
     "id": "159adbb8d153bb5febeb4c220ca296b2721fe9dbafb6535b35571ea5a17274d5",
     "title": "Chase Home Lending CEO says he plans to 'go on offense' against non-bank lenders",
     "summary": "Sean Grzebin, the CEO of Chase Home Lending, the nation's largest bank mortgage lender, said he's hiring and bent on increasing market share.",
@@ -93,6 +141,18 @@
     "published_at": "2026-11-17T17:02:34+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-17T18:08:28.324295+00:00",
+    "thin": false
+  },
+  {
+    "id": "ac87790ff3282a14867f99ddab1e6c09b7fbec2c61b31e41f430e65cc55b272f",
+    "title": "Jensen Huang's Nvidia exit exposes succession and governance risks for companies and boards",
+    "summary": "The resignation of Jensen Huang as Nvidia's CEO spotlights the missteps of its board and why companies built around one powerful leader creates outsized risk.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-succession-board-lessons.html",
+    "published_at": "2026-11-17T17:00:01+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-18T01:08:20.381889+00:00",
     "thin": false
   },
   {
@@ -2118,66 +2178,6 @@
     "published_at": "2026-11-12T15:00:01+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-12T19:32:46.223575+00:00",
-    "thin": false
-  },
-  {
-    "id": "f221112e4cdb504f7afaa8805af5abc39777ef4e2a958ae8b756add60d31bdc7",
-    "title": "As credit card balances hit a record high, medical bills can become 'shadow debt,' expert says",
-    "summary": "Medical bills can move onto credit cards and other borrowing, making the debt harder to track. Here's what consumers can check before financing care.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/medical-bills-credit-card-debt.html",
-    "published_at": "2026-11-12T13:15:02+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T19:32:46.223441+00:00",
-    "thin": false
-  },
-  {
-    "id": "f4c3d765bac039d823d85a6846288fa59af5d67b4bdbb4df1415665a6aaa57a0",
-    "title": "Nvidia stock falls 7% as investors await Jensen Huang’s fate",
-    "summary": "Nvidia's board met on Wednesday to discuss whether to oust Jensen Huang as CEO.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
-    "published_at": "2026-11-12T11:25:09+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T11:39:42.924035+00:00",
-    "thin": false
-  },
-  {
-    "id": "aad7932fcf5796b2a152e82d03317c68ed5668afec5d61886f6d4592a4a4bdfc",
-    "title": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin",
-    "summary": "Starshield is SpaceX's military-grade satellite network designed for government and national security use, building on the technology developed for Starlink.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html",
-    "published_at": "2026-11-12T11:23:04+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T11:39:42.924196+00:00",
-    "thin": false
-  },
-  {
-    "id": "8706a6f44a76cd5b2c55a7576ebe80a3fe6a3d2ab5210d68bf6e1e8e45a4702e",
-    "title": "Lutnick should ban Chinese memory maker CXMT from U.S., Sen. Cotton says",
-    "summary": "Sen. Tom Cotton is urging the Commerce secretary to add CXMT to its \"Entity List\" as the fast-growing Chinese memory maker expands in DRAM and pushes into HBM.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/lutnick-cxmt-china-cotton.html",
-    "published_at": "2026-11-12T10:00:01+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T11:39:42.924385+00:00",
-    "thin": false
-  },
-  {
-    "id": "84ae3f171a7ca0f5d65dd6e9693bef6b05bdb89ba30e2d995581968884b31505",
-    "title": "Ukrainian defense tech startup hits $6 billion valuation as investors bet on battle-tested drones",
-    "summary": "UFORCE's NEMESIS drones have completed 300,000 combat flights, and its MAGURA naval vessels have contributed to the destruction of Russian warships.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/uforce-defense-tech-drones-warfare-ukraine.html",
-    "published_at": "2026-11-12T09:05:22+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-12T11:39:42.925027+00:00",
     "thin": false
   }
 ]
