@@ -374,7 +374,7 @@ def build_page(article, eligible, generated_slugs):
     summary = summary.strip() or "No excerpt available. Open the original story for the full report."
     category = (article.get("category") or "news").lower()
     color = category_color(category)
-    source = article.get("source") or "Unknown source"
+    source = "PikaNews Editorial" if indexable else (article.get("source") or "Unknown source")
     original_url = article.get("url") or ""
 
     og_image = article.get("image_url") or LOGO_URL
