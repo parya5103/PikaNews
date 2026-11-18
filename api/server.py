@@ -14,6 +14,8 @@ from pipelines.cache import RedisCachePipeline
 from api.security import (
     DEFAULT_ALLOWED_ORIGINS,
     RateLimiter,
+    PayloadTooLargeError,
+    collect_limited_body,
     rate_limit_client_key,
     WEBHOOK_MAX_BODY_BYTES,
     bearer_token_matches,
@@ -203,8 +205,16 @@ async def receive_webhook(request: Request):
         logger.warning("webhook_rejected", reason="secret_not_configured")
         raise HTTPException(status_code=403, detail="Webhook disabled")
 
-    body = await request.body()
-    if len(body) > WEBHOOK_MAX_BODY_BYTES:
+    content_length = request.headers.get("content-length")
+    if content_length:
+        try:
+            if int(content_length) > WEBHOOK_MAX_BODY_BYTES:
+                raise HTTPException(status_code=413, detail="Payload too large")
+        except ValueError:
+            raise HTTPException(status_code=400, detail="Invalid Content-Length")
+    try:
+        body = await collect_limited_body(request.stream(), WEBHOOK_MAX_BODY_BYTES)
+    except PayloadTooLargeError:
         raise HTTPException(status_code=413, detail="Payload too large")
 
     ok, reason = verify_webhook_signature(
