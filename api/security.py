@@ -207,3 +207,21 @@ def rate_limit_client_key(client_host: Optional[str]) -> str:
     boundary, so the safe default is the direct peer address.
     """
     return client_host or "unknown"
+
+
+class PayloadTooLargeError(ValueError):
+    """Raised when a streamed request body exceeds its configured limit."""
+
+
+async def collect_limited_body(chunks, max_bytes: int) -> bytes:
+    """Collect an async byte stream without buffering beyond max_bytes."""
+    if max_bytes <= 0:
+        raise ValueError("max_bytes must be positive")
+    body = bytearray()
+    async for chunk in chunks:
+        if not isinstance(chunk, bytes):
+            raise ValueError("request stream yielded a non-bytes chunk")
+        if len(body) + len(chunk) > max_bytes:
+            raise PayloadTooLargeError("request body exceeds limit")
+        body.extend(chunk)
+    return bytes(body)
