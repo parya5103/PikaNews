@@ -32,6 +32,7 @@ def original_editorial_article():
         "editorial_reviewed": True,
         "editorial_content": ("PikaNews original editorial analysis. " * 20),
         "author": "PikaNews Editorial Desk",
+        "author_type": "Organization",
     }
 
 
@@ -49,6 +50,7 @@ def test_original_editorial_requires_review_substantial_body_author_and_date():
     assert not is_indexable_article({**article, "editorial_reviewed": False})
     assert not is_indexable_article({**article, "editorial_content": "too short"})
     assert not is_indexable_article({**article, "author": ""})
+    assert not is_indexable_article({**article, "author_type": "Unknown"})
     assert not is_indexable_article({**article, "published_at": "not-a-date"})
 
 
@@ -57,6 +59,7 @@ def test_newsarticle_schema_uses_editorial_modified_date_not_collection_time():
     schema = json.loads(build_newsarticle_jsonld(article, BASE_URL + "news/editorial/"))
     assert schema["@type"] == "NewsArticle"
     assert schema["author"]["name"] == "PikaNews Editorial Desk"
+    assert schema["author"]["@type"] == "Organization"
     assert schema["datePublished"] == article["published_at"]
     assert "dateModified" not in schema
     article["modified_at"] = "2026-11-19T09:00:00+00:00"
