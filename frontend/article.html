@@ -160,7 +160,7 @@
                     </div>
                 </div>
 
-                ${article.image_url ? `<img src="${Utils.escapeHtml(article.image_url)}" alt="${Utils.escapeHtml(article.title)}" class="article-image" onerror="this.style.display='none'">` : ''}
+                ${article.image_url ? `<img src="${Utils.escapeHtml(article.image_url)}" alt="${Utils.escapeHtml(article.title)}" class="article-image" onerror="this.onerror=null;this.src='images/pikanews-logo.svg'">` : ''}
 
                 <div class="article-body">
                     <p>${Utils.escapeHtml(article.summary || 'No excerpt available. Open the original story for the full report.')}</p>
