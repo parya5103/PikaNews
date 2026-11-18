@@ -42,6 +42,7 @@ MAX_ARTICLES = 300          # keep the generated set small and fresh
 MAX_RELATED = 4
 MIN_TITLE_LEN = 20
 MIN_SUMMARY_LEN = 40
+MIN_EDITORIAL_CONTENT_LEN = 500
 
 CATEGORY_COLORS = {
     "bollywood": "#ec4899",
@@ -78,6 +79,24 @@ def is_thin(article):
         return True
     return len(title.strip()) < MIN_TITLE_LEN or len(summary.strip()) < MIN_SUMMARY_LEN
 
+
+def is_original_editorial(article):
+    """Only reviewed, substantial PikaNews-authored work qualifies as original editorial."""
+    if not isinstance(article, dict):
+        return False
+    content = article.get("editorial_content") or ""
+    return (
+        article.get("content_type") == "original_editorial"
+        and article.get("editorial_reviewed") is True
+        and len(str(content).strip()) >= MIN_EDITORIAL_CONTENT_LEN
+        and bool(str(article.get("author") or "").strip())
+        and parse_iso(article.get("published_at")) is not None
+    )
+
+
+def is_indexable_article(article):
+    """Aggregated RSS excerpts remain accessible but are not indexable articles."""
+    return not is_thin(article) and is_original_editorial(article)
 
 def load_removed_hashes():
     """Hashes of admin-removed articles (tombstones). Restore removes them."""
@@ -195,8 +214,11 @@ def build_related_block(article, eligible, generated_slugs):
 
 
 def build_newsarticle_jsonld(article, canonical_url):
-    published = article.get("published_at") or ""
-    modified = article.get("collection_timestamp") or published
+    """Emit NewsArticle only for substantial, reviewed original PikaNews editorial."""
+    if not is_indexable_article(article):
+        return ""
+    published = article.get("published_at")
+    modified = article.get("modified_at") or article.get("updated_at")
     node = {
         "@context": "https://schema.org",
         "@type": "NewsArticle",
@@ -204,23 +226,21 @@ def build_newsarticle_jsonld(article, canonical_url):
         "url": canonical_url,
         "mainEntityOfPage": canonical_url,
         "datePublished": published,
-        "dateModified": modified,
         "publisher": {
             "@type": "Organization",
             "name": "PikaNews, a digital platform by GoGo Company",
             "url": BASE_URL,
             "logo": {"@type": "ImageObject", "url": LOGO_URL},
         },
-        "isBasedOn": article.get("url") or canonical_url,
-        "image": [article.get("image_url") or LOGO_URL],
         "articleSection": article.get("category") or "",
-        "description": truncate(article.get("summary"), 160),
+        "description": truncate(article.get("editorial_content"), 160),
     }
-    # Author attribution only when truthful: RSS feeds rarely carry a
-    # byline. The originating publisher is credited via isBasedOn and the
-    # visible source box, never as a fabricated PikaNews author.
-    if article.get("author"):
-        node["author"] = {"@type": "Person", "name": article["author"]}
+    # Collection time is not a meaningful editorial modification timestamp.
+    if parse_iso(modified):
+        node["dateModified"] = modified
+    if article.get("image_url"):
+        node["image"] = [article["image_url"]]
+    node["author"] = {"@type": "Person", "name": article["author"]}
     return json.dumps(node, ensure_ascii=False)
 
 
@@ -250,7 +270,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="@@DESCRIPTION@@">
-    <meta name="robots" content="index, follow">
+    <meta name="robots" content="@@ROBOTS@@">
     <meta property="og:title" content="@@OG_TITLE@@">
     <meta property="og:description" content="@@OG_DESCRIPTION@@">
     <meta property="og:type" content="article">
@@ -352,6 +372,7 @@ def build_page(article, eligible, generated_slugs):
     rel_path = "../../"  # pages live at news/<slug>/index.html
 
     title = article.get("title") or "News story"
+    indexable = is_indexable_article(article)
     summary = (article.get("summary") or "").strip() or \
         "No excerpt available. Open the original story for the full report."
     category = (article.get("category") or "news").lower()
@@ -404,6 +425,7 @@ def build_page(article, eligible, generated_slugs):
     replacements = {
         "@@REL_PATH@@": rel_path,
         "@@CANONICAL@@": canonical_url,
+        "@@ROBOTS@@": "index, follow" if indexable else "noindex, follow",
         "@@OG_TITLE@@": esc(seo_title),
         "@@SEO_TITLE@@": esc(seo_title),
         "@@TITLE@@": esc(title),
