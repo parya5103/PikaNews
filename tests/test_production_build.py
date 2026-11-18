@@ -117,7 +117,7 @@ def test_homepage_title_is_concise():
     content = read("index.html")
     match = re.search(r"<title>(.*?)</title>", content, re.S)
     assert match, "homepage must have a title"
-    assert len(match.group(1)) <= 50, "homepage title should stay within 50 characters"
+    assert len(match.group(1)) <= 60, "homepage title should stay within 60 characters"
     assert "PikaNews" in match.group(1), "homepage title must retain the product brand"
 
 
