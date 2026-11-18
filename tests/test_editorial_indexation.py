@@ -60,6 +60,9 @@ def test_newsarticle_schema_uses_editorial_modified_date_not_collection_time():
     article["modified_at"] = "2026-11-19T09:00:00+00:00"
     schema = json.loads(build_newsarticle_jsonld(article, BASE_URL + "news/editorial/"))
     assert schema["dateModified"] == article["modified_at"]
+    article["modified_at"] = "2026-11-17T09:00:00+00:00"
+    schema = json.loads(build_newsarticle_jsonld(article, BASE_URL + "news/editorial/"))
+    assert "dateModified" not in schema
 
 
 def test_aggregated_article_page_is_noindex_and_discloses_source():
