@@ -1,13 +1,12 @@
 {
-  "timestamp": "2026-11-18T08:52:00.821999+00:00",
-  "total_fetched": 312,
-  "new_articles": 85,
-  "duplicates": 227,
-  "errors": 4,
+  "timestamp": "2026-11-18T17:47:45.971924+00:00",
+  "total_fetched": 292,
+  "new_articles": 157,
+  "duplicates": 135,
+  "errors": 5,
   "expired_articles": 0,
   "articles_without_valid_date": 0,
   "by_source": {
-    "Filmfare": 20,
     "Variety": 10,
     "Deadline": 12,
     "Hollywood Reporter": 10,
@@ -23,12 +22,11 @@
     "BuzzFeed World": 50
   },
   "by_category": {
-    "entertainment": 18,
-    "bollywood": 2,
-    "hollywood": 19,
-    "gaming": 8,
-    "technology": 15,
-    "business": 11,
-    "sports": 12
+    "hollywood": 29,
+    "technology": 27,
+    "sports": 24,
+    "entertainment": 19,
+    "gaming": 33,
+    "business": 25
   }
 }
