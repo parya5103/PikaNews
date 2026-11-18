@@ -20,7 +20,7 @@ from urllib.parse import urljoin
 try:
     from scripts.generate_article_pages import article_slug, is_indexable_article, is_thin, load_removed_hashes
 except ImportError:
-    from generate_article_pages import article_slug, is_thin, load_removed_hashes
+    from generate_article_pages import article_slug, is_indexable_article, is_thin, load_removed_hashes
 
 # Configuration
 BASE_URL = "https://gogocompany.in/pikanews/"
