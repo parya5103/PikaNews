@@ -411,7 +411,7 @@ def build_page(article, eligible, generated_slugs):
         image_tag = (
             '<img src="' + esc(article["image_url"]) + '"'
             ' alt="' + esc(truncate(title, 120)) + '"'
-            ' class="article-image"'
+            ' class="article-image" width="1200" height="675" fetchpriority="high" decoding="async"'
             ' loading="eager"'
             ' onerror="this.onerror=null;this.src=\'../../images/pikanews-logo.svg\'">'
         )
@@ -497,12 +497,15 @@ CATEGORY_PAGE_FILTERS = {
 def build_category_cards(articles, generated_slugs):
     """Render a small, source-attributed article list into crawlable HTML."""
     cards = []
-    for article in articles:
+    for card_index, article in enumerate(articles):
         image = ""
         if article.get("image_url"):
+            loading = "eager" if card_index == 0 else "lazy"
+            priority = ' fetchpriority="high"' if card_index == 0 else ""
             image = ('<img src="' + esc(article["image_url"]) + '" alt="' +
                      esc(truncate(article.get("title"), 100)) +
-                     '" loading="lazy" onerror="this.onerror=null;this.src=\'../../images/pikanews-logo.svg\'">')
+                     '" width="640" height="360" loading="' + loading + '"' + priority +
+                     ' decoding="async" onerror="this.onerror=null;this.src=\'../../images/pikanews-logo.svg\'">')
         else:
             image = ('<div class="news-card-placeholder" aria-hidden="true">'
                      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">'
