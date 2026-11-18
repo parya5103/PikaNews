@@ -215,3 +215,27 @@ if __name__ == "__main__":
             failures += 1
     print(f"api security tests: {'PASS' if failures == 0 else str(failures) + ' FAILURES'}")
     raise SystemExit(0 if failures == 0 else 1)
+
+
+def test_limited_body_reader_accepts_payload_at_limit():
+    import asyncio
+    from api.security import PayloadTooLargeError, collect_limited_body
+
+    async def chunks():
+        yield b"abc"
+        yield b"de"
+
+    assert asyncio.run(collect_limited_body(chunks(), 5)) == b"abcde"
+
+
+def test_limited_body_reader_stops_when_stream_exceeds_limit():
+    import asyncio
+    import pytest
+    from api.security import PayloadTooLargeError, collect_limited_body
+
+    async def chunks():
+        yield b"abc"
+        yield b"def"
+
+    with pytest.raises(PayloadTooLargeError):
+        asyncio.run(collect_limited_body(chunks(), 5))
