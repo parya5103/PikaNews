@@ -373,8 +373,8 @@ def build_page(article, eligible, generated_slugs):
 
     title = article.get("title") or "News story"
     indexable = is_indexable_article(article)
-    summary = (article.get("summary") or "").strip() or \
-        "No excerpt available. Open the original story for the full report."
+    summary = (article.get("editorial_content") if indexable else article.get("summary")) or ""
+    summary = summary.strip() or "No excerpt available. Open the original story for the full report."
     category = (article.get("category") or "news").lower()
     color = category_color(category)
     source = article.get("source") or "Unknown source"
