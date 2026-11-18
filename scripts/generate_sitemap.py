@@ -89,7 +89,7 @@ def generate_sitemap():
                     "url": "news/" + slug + "/",
                     "priority": 0.6,
                     "changefreq": "weekly",
-                    "lastmod": article.get("published_at", "")
+                    "lastmod": article.get("modified_at") or article.get("updated_at") or article.get("published_at", "")
                 })
         except Exception as e:
             print(f"Warning: could not load articles for sitemap: {e}")
