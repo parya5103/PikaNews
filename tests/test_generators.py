@@ -247,6 +247,21 @@ def test_article_metadata_stays_within_search_snippet_limits():
     assert "A Very Long Headline" in html, "full article headline must remain visible in the page body"
 
 
+def test_static_article_images_use_nested_logo_fallback():
+    """Broken remote images on nested static pages must show the local logo."""
+    from scripts.generate_article_pages import build_page
+
+    article = _article("image0001", LONG_TITLE_1)
+    article["image_url"] = "https://cdn.example.com/story.jpg"
+    related = _article("image0002", LONG_TITLE_2)
+    related["image_url"] = "https://cdn.example.com/related.jpg"
+    html = build_page(article, [article, related], set())
+
+    fallback = "this.onerror=null;this.src='../../images/pikanews-logo.svg'"
+    assert html.count(fallback) >= 2, "hero and related article images need a working local fallback"
+    assert "this.style.display=\\'none\\'" not in html, "broken images must not leave blank image slots"
+
+
 def test_homepage_news_cards_have_accessible_bookmark_labels_and_contrast():
     """Dynamic home-page cards expose a name for icon-only bookmark controls."""
     frontend = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "frontend")
