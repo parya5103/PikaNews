@@ -362,14 +362,24 @@ RSS_FEEDS = {
 
 
 def normalize_url(url: str) -> str:
-    """Normalize URL by removing query parameters and fragments."""
+    """Normalize a publisher URL, accepting only absolute HTTP(S) URLs."""
     if not url or not isinstance(url, str):
         return ""
-    
-    parsed = urlparse(url)
-    # Reconstruct without query and fragment
-    normalized = f"{parsed.scheme}://{parsed.netloc}{parsed.path}"
-    # Remove trailing slash
+
+    try:
+        parsed = urlparse(url.strip())
+        # Publisher URLs are rendered as clickable links and included in
+        # structured data. Reject script/data schemes, relative URLs, and
+        # credential-bearing URLs before they enter persistent article data.
+        if parsed.scheme.lower() not in ("http", "https") or not parsed.hostname:
+            return ""
+        if parsed.username is not None or parsed.password is not None:
+            return ""
+        parsed.port  # Force validation of malformed ports.
+    except (TypeError, ValueError):
+        return ""
+
+    normalized = f"{parsed.scheme.lower()}://{parsed.netloc}{parsed.path}"
     return normalized.rstrip("/")
 
 
