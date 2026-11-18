@@ -347,7 +347,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
                     <a class="article-action-btn" href="@@WHATSAPP_URL@@" target="_blank" rel="noopener noreferrer" aria-label="Share on WhatsApp"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg><span>WhatsApp</span></a>
                     <a class="article-action-btn" href="@@FACEBOOK_URL@@" target="_blank" rel="noopener noreferrer" aria-label="Share on Facebook"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg><span>Facebook</span></a>
                     <a class="article-action-btn" href="@@X_URL@@" target="_blank" rel="noopener noreferrer" aria-label="Share on X"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4l16 16M20 4L4 20"/></svg><span>Post</span></a>
-                    <a href="@@ORIGINAL_URL@@" target="_blank" rel="noopener noreferrer" class="article-action-btn"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg><span>Read Original at @@ORIGINAL_DOMAIN@@</span></a>
+                    @@ORIGINAL_ACTION@@
                 </div>
                 @@EDITORIAL_NOTE@@
             </div>
@@ -421,6 +421,10 @@ def build_page(article, eligible, generated_slugs):
         original_link = (' - <a href="' + esc(original_url) + '" target="_blank" rel="noopener noreferrer">read the full report at '
                           + esc(domain_of(original_url)) + ' &#8599;</a>')
 
+    original_action = (
+        "" if indexable or not original_url else
+        '<a href="' + esc(original_url) + '" target="_blank" rel="noopener noreferrer" class="article-action-btn">Read original report at ' + esc(domain_of(original_url)) + '</a>'
+    )
     related_block = build_related_block(article, eligible, generated_slugs)
     source_credit = "" if indexable else (
         "<div class=\"article-source\"><span class=\"source-tag\">Third-party source</span>"
@@ -437,6 +441,7 @@ def build_page(article, eligible, generated_slugs):
         "@@CANONICAL@@": canonical_url,
         "@@ROBOTS@@": "index, follow" if indexable else "noindex, follow",
         "@@SOURCE_CREDIT@@": source_credit,
+        "@@ORIGINAL_ACTION@@": original_action,
         "@@EDITORIAL_NOTE@@": editorial_note,
         "@@OG_TITLE@@": esc(seo_title),
         "@@SEO_TITLE@@": esc(seo_title),
@@ -450,7 +455,7 @@ def build_page(article, eligible, generated_slugs):
         "@@CRUMB_TITLE@@": esc(truncate(title, 60)),
         "@@SOURCE@@": esc(source),
         "@@PUBLISHED_DISPLAY@@": esc(format_display_date(article.get("published_at"))),
-        "@@COLLECTED_DISPLAY@@": esc(format_display_date(article.get("collection_timestamp"))),
+        "@@COLLECTED_DISPLAY@@": "" if indexable else esc(format_display_date(article.get("collection_timestamp"))),
         "@@IMAGE_TAG@@": image_tag,
         "@@SUMMARY_PARAGRAPHS@@": summary_paragraphs,
         "@@ORIGINAL_LINK@@": original_link,
