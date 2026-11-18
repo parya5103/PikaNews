@@ -42,7 +42,7 @@ MAX_ARTICLES = 300          # keep the generated set small and fresh
 MAX_RELATED = 4
 MIN_TITLE_LEN = 20
 MIN_SUMMARY_LEN = 40
-MIN_EDITORIAL_CONTENT_LEN = 500
+MIN_EDITORIAL_CONTENT_LEN = 1200
 
 CATEGORY_COLORS = {
     "bollywood": "#ec4899",
