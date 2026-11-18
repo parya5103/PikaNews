@@ -176,7 +176,7 @@ def build_related_block(article, eligible, generated_slugs):
         img = ""
         if a.get("image_url"):
             img = ('<img src="' + esc(a["image_url"]) + '" alt="'
-                   + esc(truncate(a.get("title"), 100)) + '" loading="lazy" onerror="this.style.display=\'none\'">')
+                   + esc(truncate(a.get("title"), 100)) + '" loading="lazy" onerror="this.onerror=null;this.src=\'../../images/pikanews-logo.svg\'">')
         else:
             img = ('<div class="news-card-placeholder"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18"/><path d="M9 9h6v6H9z"/></svg></div>')
         cards.append(
@@ -390,7 +390,7 @@ def build_page(article, eligible, generated_slugs):
             ' alt="' + esc(truncate(title, 120)) + '"'
             ' class="article-image"'
             ' loading="eager"'
-            ' onerror="this.style.display=\'none\'">'
+            ' onerror="this.onerror=null;this.src=\'../../images/pikanews-logo.svg\'">'
         )
 
     original_link = ""
@@ -455,7 +455,7 @@ def build_category_cards(articles, generated_slugs):
         if article.get("image_url"):
             image = ('<img src="' + esc(article["image_url"]) + '" alt="' +
                      esc(truncate(article.get("title"), 100)) +
-                     '" loading="lazy" onerror="this.style.display=\'none\'">')
+                     '" loading="lazy" onerror="this.onerror=null;this.src=\'../../images/pikanews-logo.svg\'">')
         else:
             image = ('<div class="news-card-placeholder" aria-hidden="true">'
                      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">'
