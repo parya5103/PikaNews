@@ -409,3 +409,33 @@ def run_tests():
 if __name__ == "__main__":
     success = run_tests()
     sys.exit(0 if success else 1)
+
+
+class TestImageRecovery:
+    def test_image_url_preserves_signed_query_parameters(self):
+        from scripts.fetch_news import normalize_image_url
+        url = "https://cdn.example.com/photo.jpg?width=1200&token=abc%2F123"
+        assert normalize_image_url(url) == url
+
+    def test_image_url_resolves_relative_and_rejects_unsafe_schemes(self):
+        from scripts.fetch_news import normalize_image_url
+        assert normalize_image_url("//cdn.example.com/photo.jpg", "https://news.example.com/story") == "https://cdn.example.com/photo.jpg"
+        assert normalize_image_url("../images/photo.jpg", "https://news.example.com/a/story") == "https://news.example.com/images/photo.jpg"
+        assert normalize_image_url("javascript:alert(1)", "https://news.example.com") is None
+
+    def test_html_image_extraction_supports_relative_og_and_lazy_images(self):
+        from scripts.fetch_news import extract_image_from_html
+        html = '<meta property="og:image" content="/media/lead.jpg?width=1200">'
+        assert extract_image_from_html(html, "https://publisher.example/story") == "https://publisher.example/media/lead.jpg?width=1200"
+        html = '<img data-src="//cdn.example.com/lazy.jpg" alt="story">'
+        assert extract_image_from_html(html, "https://publisher.example/story") == "https://cdn.example.com/lazy.jpg"
+
+    def test_feed_image_extraction_supports_media_thumbnail_and_content_html(self):
+        from bs4 import BeautifulSoup
+        from scripts.fetch_news import extract_image_from_feed
+        rss = '<item><media:thumbnail url="https://cdn.example.com/thumb.jpg"/></item>'
+        item = BeautifulSoup(rss, "xml").find("item")
+        assert extract_image_from_feed(item) == "https://cdn.example.com/thumb.jpg"
+        rss = '<item><description><![CDATA[<img src="https://cdn.example.com/content.jpg">]]></description></item>'
+        item = BeautifulSoup(rss, "xml").find("item")
+        assert extract_image_from_feed(item) == "https://cdn.example.com/content.jpg"
