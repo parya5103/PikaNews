@@ -287,7 +287,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
     <title>@@SEO_TITLE@@ - PikaNews</title>
-    <script type="application/ld+json">@@NEWSARTICLE_JSONLD@@</script>
+    @@NEWSARTICLE_SCRIPT@@
     <script type="application/ld+json">@@BREADCRUMB_JSONLD@@</script>
 </head>
 <body>
@@ -456,7 +456,10 @@ def build_page(article, eligible, generated_slugs):
         "@@X_URL@@": "https://twitter.com/intent/tweet?text=" + quote(title, safe="") + "&url=" + quote(canonical_url, safe=""),
         "@@RELATED_HEADING@@": "Related Stories",
         "@@RELATED_CARDS@@": related_block,
-        "@@NEWSARTICLE_JSONLD@@": build_newsarticle_jsonld(article, canonical_url),
+        "@@NEWSARTICLE_SCRIPT@@": (
+            "<script type=\"application/ld+json\">" + build_newsarticle_jsonld(article, canonical_url) + "</script>"
+            if is_indexable_article(article) else ""
+        ),
         "@@BREADCRUMB_JSONLD@@": build_breadcrumb_jsonld(article, canonical_url),
     }
     for token, value in replacements.items():
