@@ -14,6 +14,7 @@ from pipelines.cache import RedisCachePipeline
 from api.security import (
     DEFAULT_ALLOWED_ORIGINS,
     RateLimiter,
+    rate_limit_client_key,
     WEBHOOK_MAX_BODY_BYTES,
     bearer_token_matches,
     monitor_token_from_env,
@@ -78,10 +79,7 @@ _rate_limiter = RateLimiter(limit=int(os.getenv("PIKANEWS_RATE_LIMIT", "60") or 
 
 @app.middleware("http")
 async def rate_limit_middleware(request: Request, call_next):
-    client = (
-        request.headers.get("x-forwarded-for", "").split(",")[0].strip()
-        or (request.client.host if request.client else "unknown")
-    )
+    client = rate_limit_client_key(request.client.host if request.client else None)
     if not _rate_limiter.allow(client):
         return JSONResponse(status_code=429, content={"detail": "Too many requests"})
     return await call_next(request)
