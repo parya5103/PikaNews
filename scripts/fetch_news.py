@@ -1369,7 +1369,7 @@ def main():
     save_articles(
         normalized_articles,
         existing_articles,
-        always_write=bool(expired_articles),
+        always_write=bool(expired_articles or enriched),
         affected_categories=expiry_categories,
     )
     
