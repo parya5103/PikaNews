@@ -1,6 +1,7 @@
 """Indexation and structured-data policy for PikaNews articles."""
 
 import json
+from pathlib import Path
 
 from scripts.generate_article_pages import (
     BASE_URL,
@@ -38,6 +39,14 @@ def original_editorial_article():
     }
 
 
+
+
+def test_homepage_first_featured_image_is_eager_and_all_cards_reserve_space():
+    app_js = Path("frontend/js/app.js").read_text(encoding="utf-8")
+    assert 'width="640" height="360"' in app_js
+    assert "index === 0 ? 'eager' : 'lazy'" in app_js
+    assert 'fetchpriority="high"' in app_js
+    assert 'decoding="async"' in app_js
 
 def test_news_images_reserve_dimensions_and_prioritize_first_visible_image():
     cards = build_category_cards(
