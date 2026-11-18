@@ -78,6 +78,12 @@ const Utils = {
         return div.innerHTML;
     },
     
+    // Safely embed untrusted data as a JavaScript string literal inside an HTML attribute.
+    // JSON.stringify handles JavaScript quoting; escapeHtml protects the HTML attribute.
+    escapeJsString(value) {
+        return this.escapeHtml(JSON.stringify(String(value ?? '')));
+    },
+
     // Escape HTML entities
     escapeHtml(text) {
         if (!text) return '';
