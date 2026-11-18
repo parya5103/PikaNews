@@ -92,6 +92,7 @@ def is_original_editorial(article):
         and article.get("editorial_reviewed") is True
         and len(str(content).strip()) >= MIN_EDITORIAL_CONTENT_LEN
         and bool(str(article.get("author") or "").strip())
+        and article.get("author_type") in ("Person", "Organization")
         and parse_iso(article.get("published_at")) is not None
     )
 
@@ -244,7 +245,7 @@ def build_newsarticle_jsonld(article, canonical_url):
         node["dateModified"] = modified
     if article.get("image_url"):
         node["image"] = [article["image_url"]]
-    node["author"] = {"@type": "Person", "name": article["author"]}
+    node["author"] = {"@type": article["author_type"], "name": article["author"]}
     return json.dumps(node, ensure_ascii=False)
 
 
