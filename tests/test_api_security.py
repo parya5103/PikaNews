@@ -17,6 +17,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from api.security import (  # noqa: E402
     DEFAULT_ALLOWED_ORIGINS,
     RateLimiter,
+    rate_limit_client_key,
     bearer_token_matches,
     is_origin_allowed,
     monitor_token_from_env,
@@ -172,6 +173,11 @@ def test_monitor_bearer_check_is_fail_closed_and_constant_time():
 
 
 # ---------------------------------------------------------------- Rate limiting
+
+def test_rate_limit_key_uses_socket_peer_and_fails_closed():
+    assert rate_limit_client_key("203.0.113.10") == "203.0.113.10"
+    assert rate_limit_client_key(None) == "unknown"
+
 
 def test_rate_limiter_blocks_after_limit_within_window():
     rl = RateLimiter(limit=3, window=60)

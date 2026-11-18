@@ -197,3 +197,13 @@ class RateLimiter:
 
     def reset(self) -> None:
         self._hits.clear()
+
+
+def rate_limit_client_key(client_host: Optional[str]) -> str:
+    """Use the socket peer for rate limiting; never trust an arbitrary forwarded header.
+
+    X-Forwarded-For is attacker-controlled unless a trusted proxy explicitly
+    overwrites it. The static deployment does not configure a trusted-proxy
+    boundary, so the safe default is the direct peer address.
+    """
+    return client_host or "unknown"
