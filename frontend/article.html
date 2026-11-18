@@ -160,7 +160,7 @@
                     </div>
                 </div>
 
-                ${article.image_url ? `<img src="${Utils.escapeHtml(article.image_url)}" alt="${Utils.escapeHtml(article.title)}" class="article-image" onerror="this.style.display='none'">` : ''}
+                ${article.image_url ? `<img src="${Utils.escapeHtml(article.image_url)}" alt="${Utils.escapeHtml(article.title)}" class="article-image" onerror="this.onerror=null;this.src='images/pikanews-logo.svg'">` : ''}
 
                 <div class="article-body">
                     <p>${Utils.escapeHtml(article.summary || 'No excerpt available. Open the original story for the full report.')}</p>
@@ -294,7 +294,7 @@
                 relatedEl.innerHTML = articles.map(article => `
                     <div class="news-card" style="--category-color: ${Utils.getCategoryColor(article.category)}">
                         <div class="news-card-image">
-                            ${article.image_url ? `<img src="${Utils.escapeHtml(article.image_url)}" alt="${Utils.escapeHtml(article.title)}" loading="lazy">` : `<div class="news-card-placeholder"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 9h6v6H9z"/></svg></div>`}
+                            ${article.image_url ? `<img src="${Utils.escapeHtml(article.image_url)}" alt="${Utils.escapeHtml(article.title)}" loading="lazy" onerror="this.onerror=null;this.src='images/pikanews-logo.svg'">` : `<div class="news-card-placeholder"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 9h6v6H9z"/></svg></div>`}
                             <span class="news-card-category" style="background-color: var(--category-color);">${Utils.escapeHtml(article.category)}</span>
                         </div>
                         <div class="news-card-content">
