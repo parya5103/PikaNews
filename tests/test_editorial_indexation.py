@@ -41,6 +41,13 @@ def original_editorial_article():
 
 
 
+
+def test_dynamic_article_fallback_stays_noindex_and_reserves_image_space():
+    template = Path("frontend/article.html").read_text(encoding="utf-8")
+    assert '<meta name="robots" content="noindex, follow">' in template
+    assert 'class="article-image" width="1200" height="675" loading="eager" fetchpriority="high"' in template
+    assert 'width="640" height="360" loading="lazy"' in template
+
 def test_homepage_first_featured_image_is_eager_and_all_cards_reserve_space():
     app_js = Path("frontend/js/app.js").read_text(encoding="utf-8")
     assert 'width="640" height="360"' in app_js
