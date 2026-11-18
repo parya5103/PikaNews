@@ -5,7 +5,7 @@ import os
 def test_category_pages_never_hide_broken_remote_images():
     root = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "frontend")
     pages = (
-        "bollywood.html", "hollywood.html", "entertainment.html",
+        "article.html", "bollywood.html", "hollywood.html", "entertainment.html",
         "business.html", "technology.html", "gaming.html", "sports.html",
         "latest.html", "trending.html",
     )

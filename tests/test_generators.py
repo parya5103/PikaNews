@@ -242,8 +242,8 @@ def test_article_metadata_stays_within_search_snippet_limits():
     description_match = re.search(r'<meta name="description" content="(.*?)">', html, re.S)
     assert title_match, "generated page must have a title"
     assert description_match, "generated page must have a description"
-    assert len(title_match.group(1)) <= 55, "SEO title plus brand must fit within 55 escaped characters"
-    assert len(description_match.group(1)) <= 150, "meta description must fit within 150 escaped characters"
+    assert len(title_match.group(1)) <= 50, "SEO title plus brand must fit within 50 escaped characters"
+    assert len(description_match.group(1)) <= 140, "meta description must fit within 140 escaped characters"
     assert "A Very Long Headline" in html, "full article headline must remain visible in the page body"
 
 

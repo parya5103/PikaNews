@@ -360,8 +360,14 @@ def build_page(article, eligible, generated_slugs):
     original_url = article.get("url") or ""
 
     og_image = article.get("image_url") or LOGO_URL
-    seo_title = truncate_html_attribute(title, 42)
-    description = truncate_html_attribute(summary, 145)
+    seo_title = truncate_html_attribute(title, 38)
+    description_source = summary
+    if len(description_source) < 70:
+        description_source = (
+            title + ". " + summary +
+            " Read the original publisher report for full details."
+        )
+    description = truncate_html_attribute(description_source, 135)
 
     # Summary as readable paragraphs (RSS excerpts are short; split on
     # sentence boundaries only when the excerpt is long enough).
