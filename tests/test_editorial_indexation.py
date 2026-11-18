@@ -30,7 +30,7 @@ def original_editorial_article():
         "id": "edit123456789",
         "content_type": "original_editorial",
         "editorial_reviewed": True,
-        "editorial_content": ("PikaNews original editorial analysis. " * 20),
+        "editorial_content": ("PikaNews original editorial analysis. " * 40),
         "author": "PikaNews Editorial Desk",
         "author_type": "Organization",
     }
