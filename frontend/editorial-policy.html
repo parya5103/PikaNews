@@ -46,7 +46,7 @@
 <p class="policy-meta">PikaNews is a digital platform by GoGo Company. This policy explains our editorial standards and correction procedures. Last updated: November 2026.</p>
 
 <h2>1. What PikaNews Is</h2>
-<p>PikaNews is an automated news discovery and aggregation platform. It collects headlines, short excerpts and links from the public RSS feeds of third-party publishers. It is not a newsroom and does not employ reporters. We do not pretend that aggregated excerpts are original reporting: every article page names the original publisher, links to the original report, and is labelled as a third-party source.</p>
+<p>PikaNews is an automated news discovery and aggregation platform. It collects headlines, short excerpts and links from the public RSS feeds of third-party publishers. It is not currently a newsroom and does not employ reporters. All current individual story pages are third-party aggregations, not PikaNews original reporting; they remain accessible to readers but are marked noindex and excluded from article sitemaps. A future original editorial item may become indexable only after it has a named PikaNews author, at least 500 characters of substantive original editorial text, an explicit editorial review approval and a valid publication date. Such work will be labelled separately from third-party aggregation.</p>
 
 <h2>2. What We Never Do</h2>
 <ul>
@@ -62,7 +62,9 @@
 <p>Our pipeline automatically checks every collected story:</p>
 <ul>
 <li>Duplicate detection: stories with the same normalized title and URL are collected once.</li>
-<li>Thin-content detection: entries with extremely short or empty headlines or excerpts are not promoted to the homepage lead position, are not given their own article page, are not included in the Google News sitemap, and are not placed next to advertising.</li>
+<li>Thin-content detection: entries with extremely short or empty headlines or excerpts are not promoted to the homepage lead position, are not given their own article page, are not included in sitemaps, and are not placed next to advertising.</li>
+<li>Indexation quality: aggregated third-party story pages are noindex,follow and excluded from regular and Google News sitemaps. Category landing pages remain crawlable. NewsArticle structured data is reserved for explicitly reviewed, substantive PikaNews original editorial content.</li>
+<li>Metadata integrity: collection timestamps are not presented as editorial modification dates. dateModified is emitted only when a meaningful modified_at or updated_at value is supplied.</li>
 <li>Malformed entries (missing URL, missing title, invalid dates) are dropped during collection.</li>
 <li>Feed failures never erase previously collected stories.</li>
 </ul>
