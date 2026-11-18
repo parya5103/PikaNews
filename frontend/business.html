@@ -138,6 +138,8 @@
                 <div class="category-intro">
                     <p>Explore reporting on companies, startups, business leaders, markets, consumer brands and economic developments. This section brings together business stories from multiple publishers so readers can follow important updates across the wider economy.</p>
                     <p>PikaNews displays source attribution and links to the original report wherever available. Market and financial stories are informational summaries, not investment advice; verify figures and decisions with the publisher and relevant primary disclosures.</p>
+                
+                    <p>Browse updates on companies, markets, startups, consumer brands, leadership and economic developments. These news summaries are informational, not investment advice; consult original reporting before making financial decisions.</p>
                 </div>
             </div>
         </section>
@@ -270,7 +272,7 @@
                     <div class="news-card" style="--category-color: ${Utils.getCategoryColor(article.category)}">
                         <div class="news-card-image">
                             ${article.image_url ? `
-                                <img src="${Utils.escapeHtml(article.image_url)}" alt="${Utils.escapeHtml(article.title)}" loading="lazy">
+                                <img src="${Utils.escapeHtml(article.image_url)}" alt="${Utils.escapeHtml(article.title)}" loading="lazy" onerror="this.onerror=null;this.src='images/pikanews-logo.svg'">
                             ` : `
                                 <div class="news-card-placeholder">
                                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
