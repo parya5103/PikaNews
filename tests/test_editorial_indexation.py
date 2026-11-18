@@ -7,6 +7,7 @@ from scripts.generate_article_pages import (
     article_slug,
     build_newsarticle_jsonld,
     build_page,
+    build_category_cards,
     is_indexable_article,
 )
 
@@ -21,6 +22,7 @@ def aggregated_article():
         "url": "https://publisher.example/story",
         "published_at": "2026-11-18T10:00:00+00:00",
         "collection_timestamp": "2026-11-19T10:00:00+00:00",
+        "image_url": "https://images.example/story.jpg",
     }
 
 
@@ -35,6 +37,24 @@ def original_editorial_article():
         "author_type": "Organization",
     }
 
+
+
+def test_news_images_reserve_dimensions_and_prioritize_first_visible_image():
+    cards = build_category_cards(
+        [
+            {"title": "First story", "category": "technology", "image_url": "https://images.example/first.jpg"},
+            {"title": "Second story", "category": "technology", "image_url": "https://images.example/second.jpg"},
+        ],
+        set(),
+    )
+    assert 'width="640" height="360" loading="eager" fetchpriority="high"' in cards
+    assert 'width="640" height="360" loading="lazy"' in cards
+
+
+def test_article_hero_image_is_eager_and_has_reserved_dimensions():
+    page = build_page(aggregated_article(), [aggregated_article()], set())
+    assert 'width="1200" height="675" fetchpriority="high"' in page
+    assert 'loading="eager"' in page
 
 def test_third_party_aggregated_excerpt_is_not_indexable_or_newsarticle():
     article = aggregated_article()
