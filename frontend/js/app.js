@@ -385,7 +385,7 @@ function renderBookmarks() {
         return `
             <div class="bookmark-item">
                 ${article.image_url ? `
-                    <img src="${Utils.escapeHtml(article.image_url)}" alt="${Utils.escapeHtml(article.title)}" class="bookmark-image" onerror="this.style.display='none'">
+                    <img src="${Utils.escapeHtml(article.image_url)}" alt="${Utils.escapeHtml(article.title)}" class="bookmark-image" onerror="this.onerror=null;this.src='images/pikanews-logo.svg'">
                 ` : `
                     <div class="bookmark-image" style="background: var(--bg-tertiary); display: flex; align-items: center; justify-content: center;">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="width: 24px; height: 24px; color: var(--text-muted);"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 9h6v6H9z"/></svg>
@@ -543,7 +543,7 @@ function openArticleModal(article) {
         </div>
         
         ${article.image_url ? `
-            <img src="${Utils.escapeHtml(article.image_url)}" alt="${Utils.escapeHtml(article.title)}" class="article-image" onerror="this.style.display='none'">
+            <img src="${Utils.escapeHtml(article.image_url)}" alt="${Utils.escapeHtml(article.title)}" class="article-image" onerror="this.onerror=null;this.src='images/pikanews-logo.svg'">
         ` : ''}
         
         <div class="article-body">

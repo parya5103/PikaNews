@@ -424,81 +424,89 @@ def clean_text(text: str, max_length: int = 500) -> str:
     return text.strip()
 
 
+def normalize_image_url(image_url: Optional[str], base_url: str = "") -> Optional[str]:
+    """Resolve image URLs without stripping signed/CDN query parameters."""
+    if not image_url or not isinstance(image_url, str):
+        return None
+    candidate = urljoin(base_url, image_url.strip())
+    parsed = urlparse(candidate)
+    if parsed.scheme not in ("http", "https") or not parsed.netloc or parsed.username or parsed.password:
+        return None
+    return candidate
+
+
 def extract_image_from_feed(item) -> Optional[str]:
-    """Extract image URL from RSS/Atom feed item."""
-    # Try various image fields in RSS/Atom
-    image_url = None
-    
-    # Check for media:content
-    media_content = item.find("media:content", type=lambda x: x and "image" in x)
-    if media_content and media_content.get("url"):
-        image_url = media_content["url"]
-    
-    # Check for enclosure with image type
-    if not image_url:
-        enclosure = item.find("enclosure", type=lambda x: x and x.startswith("image/"))
-        if enclosure and enclosure.get("url"):
-            image_url = enclosure["url"]
-    
-    # Check for image tag in Atom
-    if not image_url:
-        image_tag = item.find("image")
-        if image_tag and image_tag.get("href"):
-            image_url = image_tag["href"]
-    
-    # Check for media:thumbnail
-    if not image_url:
-        media_thumbnail = item.find("media:thumbnail")
-        if media_thumbnail and media_thumbnail.get("url"):
-            image_url = media_thumbnail["url"]
-    
-    return image_url
+    """Extract image URLs from RSS/Atom media tags and embedded HTML."""
+    candidates = []
+    for tag in item.find_all(True):
+        local_name = (tag.name or "").lower().split(":")[-1]
+        media_type = (tag.get("type") or tag.get("medium") or "").lower()
+        if local_name in ("content", "thumbnail", "image", "enclosure"):
+            if local_name != "content" or "image" in media_type or tag.get("medium") == "image":
+                candidates.extend([tag.get("url"), tag.get("href")])
+    for tag in item.find_all(["description", "summary", "content", "encoded"]):
+        fragment = BeautifulSoup(tag.get_text() or str(tag), "html.parser")
+        for img in fragment.find_all("img"):
+            candidates.extend([img.get("src"), img.get("data-src"), img.get("data-original"), img.get("data-lazy-src")])
+            srcset = img.get("srcset") or img.get("data-srcset") or ""
+            candidates.extend(part.strip().split()[0] for part in srcset.split(",") if part.strip())
+    for candidate in candidates:
+        if candidate:
+            parsed = urlparse(str(candidate).strip())
+            if parsed.scheme in ("http", "https") and parsed.netloc:
+                return str(candidate).strip()
+    return None
 
 
 def extract_image_from_html(html: str, base_url: str) -> Optional[str]:
-    """Extract featured image URL from HTML content."""
+    """Extract publisher featured images, including relative and lazy-loaded URLs."""
     if not html:
         return None
-    
     try:
         soup = BeautifulSoup(html, "html.parser")
-        
-        # Try OpenGraph image
-        og_image = soup.find("meta", attrs={"property": "og:image"})
-        if og_image and og_image.get("content"):
-            img_url = og_image["content"].strip()
-            if img_url and img_url.startswith("http"):
-                return img_url
-        
-        # Try Twitter card image
-        twitter_image = soup.find("meta", attrs={"name": "twitter:image"})
-        if twitter_image and twitter_image.get("content"):
-            img_url = twitter_image["content"].strip()
-            if img_url and img_url.startswith("http"):
-                return img_url
-        
-        # Try schema.org image
-        schema_image = soup.find("meta", attrs={"itemprop": "image"})
-        if schema_image and schema_image.get("content"):
-            img_url = schema_image["content"].strip()
-            if img_url and img_url.startswith("http"):
-                return img_url
-        
-        # Try first img tag with src
-        img_tag = soup.find("img", src=True)
-        if img_tag and img_tag["src"]:
-            img_url = img_tag["src"].strip()
-            if img_url.startswith("http"):
-                return img_url
-            # If relative URL, make it absolute
-            if img_url.startswith("/"):
-                parsed = urlparse(base_url)
-                return f"{parsed.scheme}://{parsed.netloc}{img_url}"
-        
+        for attrs in ({"property": "og:image"}, {"property": "og:image:secure_url"},
+                      {"name": "twitter:image"}, {"name": "twitter:image:src"},
+                      {"itemprop": "image"}):
+            tag = soup.find("meta", attrs=attrs)
+            if tag and tag.get("content"):
+                resolved = normalize_image_url(tag["content"], base_url)
+                if resolved:
+                    return resolved
+        for img in soup.find_all("img"):
+            for attr in ("data-src", "data-lazy-src", "data-original", "src"):
+                resolved = normalize_image_url(img.get(attr), base_url)
+                if resolved:
+                    try:
+                        if int(img.get("width", 999)) <= 2 or int(img.get("height", 999)) <= 2:
+                            continue
+                    except (TypeError, ValueError):
+                        pass
+                    return resolved
+            srcset = img.get("data-srcset") or img.get("srcset") or ""
+            for part in srcset.split(","):
+                if part.strip():
+                    resolved = normalize_image_url(part.strip().split()[0], base_url)
+                    if resolved:
+                        return resolved
     except Exception as e:
         log(f"Error extracting image from HTML: {e}", "DEBUG")
-    
     return None
+
+
+def fetch_article_image(article_url: str) -> Optional[str]:
+    """Best-effort short-timeout image lookup for feeds that omit thumbnails."""
+    try:
+        headers = {"User-Agent": USER_AGENT, "Accept": "text/html,application/xhtml+xml"}
+        with httpx.Client(timeout=httpx.Timeout(8.0, connect=3.0), headers=headers,
+                          follow_redirects=True) as client:
+            response = client.get(article_url)
+            response.raise_for_status()
+            if len(response.content) > 2_000_000:
+                return None
+            return extract_image_from_html(response.text, str(response.url))
+    except Exception as e:
+        log(f"Image enrichment skipped for {article_url}: {e}", "DEBUG")
+        return None
 
 
 def extract_summary_from_html(html: str) -> str:
@@ -861,13 +869,8 @@ def normalize_article(article: Dict[str, Any], source_config: Dict[str, Any]) ->
         clean_desc = clean_text(description, max_length=500)
         
         # Get image URL
-        image_url = article.get("image_url")
-        if image_url:
-            # Normalize image URL
-            image_url = normalize_url(image_url)
-            # Validate image URL
-            if not image_url.startswith("http"):
-                image_url = None
+        # Preserve signed/CDN query parameters; image URLs are not article URLs.
+        image_url = normalize_image_url(article.get("image_url"), normalized_url)
         
         # Get author
         author = article.get("author")
@@ -1348,7 +1351,19 @@ def main():
     
     log(f"Normalized articles: {len(normalized_articles)}", "INFO")
     log(f"Duplicates skipped: {stats['duplicates']}", "INFO")
-    
+
+    # Repair missing thumbnails on new and existing stories, with bounded network work.
+    image_candidates = [a for a in normalized_articles + existing_articles if not a.get("image_url")]
+    image_candidates.sort(key=lambda a: a.get("published_at", ""), reverse=True)
+    enriched = 0
+    for article in image_candidates[:15]:
+        image_url = fetch_article_image(article.get("url", ""))
+        if image_url:
+            article["image_url"] = image_url
+            enriched += 1
+    if enriched:
+        log(f"Recovered {enriched} missing article thumbnails", "INFO")
+
     # Save articles (always rewrite feeds when expiry removed something,
     # so a zero-new-articles run still regenerates every public output)
     save_articles(
