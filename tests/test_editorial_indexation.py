@@ -88,3 +88,5 @@ def test_original_editorial_page_uses_editorial_body_and_does_not_claim_third_pa
     assert "Original editorial content by PikaNews" in page
     assert "PikaNews Editorial" in page
     assert "Third-party source" not in page
+    assert "Read Original at" not in page
+    assert "Collected" not in page
