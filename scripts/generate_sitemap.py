@@ -16,7 +16,6 @@ scripts/generate_news_sitemap.py) covers the freshest eligible stories.
 
 import os
 import json
-from datetime import datetime, timezone
 from urllib.parse import urljoin
 
 try:
@@ -87,11 +86,14 @@ def generate_sitemap():
                 if not is_indexable_article(article):
                     continue
                 slug = article_slug(article.get("title"), article.get("id"))
+                modified_raw = article.get("modified_at") or article.get("updated_at") or article.get("published_at")
+                modified_date = parse_iso(modified_raw)
+                lastmod = modified_date.date().isoformat() if modified_date else ""
                 article_urls.append({
                     "url": "news/" + slug + "/",
                     "priority": 0.6,
                     "changefreq": "weekly",
-                    "lastmod": (parse_iso(article.get("modified_at") or article.get("updated_at") or article.get("published_at")) or datetime.min.replace(tzinfo=timezone.utc)).date().isoformat() if parse_iso(article.get("modified_at") or article.get("updated_at") or article.get("published_at")) else ""
+                    "lastmod": lastmod
                 })
         except Exception as e:
             print(f"Warning: could not load articles for sitemap: {e}")
