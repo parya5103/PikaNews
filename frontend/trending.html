@@ -138,6 +138,8 @@
                 <div class="category-intro">
                     <p>This page highlights stories surfaced in the PikaNews trending feed across its news categories. Use it to discover topics that are currently being featured, then open individual reports for a summary and the original publisher's coverage.</p>
                     <p>Placement in this feed is a discovery aid, not a measure of importance or a substitute for independent verification. For developing stories, consult the linked publisher and relevant official sources for confirmed information.</p>
+                
+                    <p>Trending News highlights stories recently collected across categories. This list is ordered by collection recency, not audience popularity or page views; it does not claim to measure what readers are clicking.</p>
                 </div>
             </div>
         </section>
@@ -266,7 +268,7 @@
                     <div class="news-card" style="--category-color: ${Utils.getCategoryColor(article.category)}">
                         <div class="news-card-image">
                             ${article.image_url ? `
-                                <img src="${Utils.escapeHtml(article.image_url)}" alt="${Utils.escapeHtml(article.title)}" loading="lazy">
+                                <img src="${Utils.escapeHtml(article.image_url)}" alt="${Utils.escapeHtml(article.title)}" loading="lazy" onerror="this.onerror=null;this.src='images/pikanews-logo.svg'">
                             ` : `
                                 <div class="news-card-placeholder">
                                     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
