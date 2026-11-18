@@ -69,6 +69,7 @@ def test_aggregated_article_page_is_noindex_and_discloses_source():
     assert "Third-party source" in page
     assert "not original reporting by PikaNews" in page
     assert '"@type": "NewsArticle"' not in page
+    assert '<script type="application/ld+json"></script>' not in page
 
 
 def test_original_editorial_page_uses_editorial_body_and_does_not_claim_third_party_source():
@@ -77,4 +78,5 @@ def test_original_editorial_page_uses_editorial_body_and_does_not_claim_third_pa
     assert '<meta name="robots" content="index, follow">' in page
     assert article["editorial_content"] in page
     assert "Original editorial content by PikaNews" in page
+    assert "PikaNews Editorial" in page
     assert "Third-party source" not in page
