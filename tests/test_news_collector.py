@@ -39,6 +39,11 @@ class TestURLNormalization:
         assert normalize_url("https://example.com") == "https://example.com"
         assert normalize_url("") == ""
         assert normalize_url(None) == ""
+        assert normalize_url("javascript://alert(1)") == ""
+        assert normalize_url("data:text/html,<script>alert(1)</script>") == ""
+        assert normalize_url("//example.com/story") == ""
+        assert normalize_url("https://user:pass@example.com/story") == ""
+        assert normalize_url("https:///missing-host") == ""
         
     def test_extract_domain(self):
         """Test domain extraction."""
