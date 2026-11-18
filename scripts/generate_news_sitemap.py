@@ -4,9 +4,10 @@ PikaNews Google News Sitemap Generator.
 
 Emits a valid Google News sitemap (news namespace) at
 frontend/news-sitemap.xml containing only eligible articles:
+  - explicitly reviewed, substantial PikaNews original editorial only
   - published within the last 48 hours (Google News freshness window)
   - having a generated static page at frontend/news/<slug>/index.html
-  - not thin and not admin-removed (tombstoned)
+  - not admin-removed (tombstoned); third-party aggregated stories are excluded
 
 The file is regenerated on every collector run, right after
 scripts/generate_article_pages.py, so it never lists pages that do not
