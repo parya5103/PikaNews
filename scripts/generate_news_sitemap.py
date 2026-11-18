@@ -19,7 +19,7 @@ from datetime import datetime, timezone
 
 try:
     from scripts.generate_article_pages import (
-        NEWS_DIR, article_slug, is_thin, load_removed_hashes,
+        NEWS_DIR, article_slug, is_indexable_article, is_thin, load_removed_hashes,
     )
 except ImportError:
     from generate_article_pages import (
@@ -101,7 +101,7 @@ def generate_news_sitemap():
             break
         if not isinstance(article, dict) or not article.get("id"):
             continue
-        if article.get("id") in removed or is_thin(article):
+        if article.get("id") in removed or not is_indexable_article(article):
             continue
 
         published = parse_iso(article.get("published_at"))
