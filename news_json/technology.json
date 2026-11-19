@@ -1,5 +1,277 @@
 [
   {
+    "id": "d3e374fac14e77d3b5751daa215891531043b55a2980b19703df2e55beb5f053",
+    "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+    "summary": "Amazon now uses its shopping platform for political purposes.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up",
+    "published_at": "2026-11-19T22:16:37+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669-1024x648.jpg",
+    "collection_timestamp": "2026-11-19T22:44:17.079242+00:00",
+    "thin": false,
+    "author": "Scharon Harding",
+    "tags": [
+      "Policy",
+      "Tech",
+      "Amazon",
+      "amazon delivery",
+      "amazon delivery drivers"
+    ]
+  },
+  {
+    "id": "39409b90e605d4b25dac9257a59e836d8e622e55f8a5cf199169d5568a5b8ae6",
+    "title": "50+ Amazon Products That Are 50% Off (or More) for Black Friday – Scroll & Shop Here",
+    "summary": "We've combed through Amazon and done the price comparisons to find top brands on sale for 50% or more online",
+    "category": "technology",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/product-recommendations/electronics/amazon-black-friday-sale-2026-biggest-deals-discount-prices-1235660821",
+    "published_at": "2026-11-19T21:15:09+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-19T22:44:17.072946+00:00",
+    "thin": false,
+    "author": "Tim Chan",
+    "tags": [
+      "Electronics",
+      "RS Recommends",
+      "Amazon",
+      "black friday",
+      "noads"
+    ]
+  },
+  {
+    "id": "54be68547c202e92350dbed6e37d16e95afbe8049392a339f8a7aefe6c23c385",
+    "title": "Amazon app warns New York of higher costs if Mamdani delivery law passes",
+    "summary": "Amazon has lobbied heavily against the proposed legislation, while New York City Mayor Zohran Mamdani backed the bill earlier this year.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
+    "published_at": "2026-11-19T20:46:23+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-19T22:44:17.105433+00:00",
+    "thin": false
+  },
+  {
+    "id": "db0fd916581d1089d37fe5c57958c321d15c389fec2b38e590d1a4d335949fab",
+    "title": "Google will launch Android app verification requirement globally in January 2027",
+    "summary": "Google says almost all developers have already gotten on board with verification.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027",
+    "published_at": "2026-11-19T18:00:33+00:00",
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
+    "collection_timestamp": "2026-11-19T22:44:17.079384+00:00",
+    "thin": false,
+    "author": "Ryan Whitwam",
+    "tags": [
+      "Google",
+      "Tech",
+      "android",
+      "apps",
+      "google",
+      "security",
+      "smartphones"
+    ]
+  },
+  {
+    "id": "74abf94a84eeb110c942983682b873d17ff8525381ce9f6b95aa92dcace97239",
+    "title": "Apple is hiring engineers to build its own AI agent",
+    "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+    "published_at": "2026-11-19T17:31:41-05:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-19T22:44:17.077397+00:00",
+    "thin": false,
+    "author": "Emma Roth",
+    "tags": [
+      "AI",
+      "Apple",
+      "Apple Rumors",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "674839ee76de8d87c5f2e3f2314941ea6d1d8199e2bb2f163700e0e5d5917618",
+    "title": "A brief history of Nvidia’s recent stock fluctuations",
+    "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+    "published_at": "2026-11-19T16:59:35-05:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-19T22:44:17.077593+00:00",
+    "thin": false,
+    "author": "Ellen Thomas",
+    "tags": [
+      "AI",
+      "Business"
+    ]
+  },
+  {
+    "id": "57792d25eb7f12ee0e07d8fb9fd869380ae35948d072040c7edb15bab1cd8422",
+    "title": "Meta now sells 3D movies on Quest VR headsets",
+    "summary": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spider-Man: Far From Home, Jurassic World Rebirth, Wicked: For Good, and a Billie [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
+    "published_at": "2026-11-19T16:12:06-05:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24951506/236805_Quest_3_and_Ray_Ban_meta_glasses_BFarsace_0016.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-19T22:44:17.077784+00:00",
+    "thin": false,
+    "author": "Jay Peters",
+    "tags": [
+      "Entertainment",
+      "Film",
+      "Meta",
+      "News",
+      "Tech",
+      "Virtual Reality"
+    ]
+  },
+  {
+    "id": "0ba04afaa1d68fa347b4a8cfff1572c69c6c1601794dc592fa588f83d9d6e1df",
+    "title": "Meta’s Muse Charm might cost $300",
+    "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+    "published_at": "2026-11-19T15:22:17-05:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-19T22:44:17.077970+00:00",
+    "thin": false,
+    "author": "Jay Peters",
+    "tags": [
+      "AI",
+      "Meta",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "8cf5977f6a19f7e6c1c2c52d89df8e4d741c37d8134b9c3d10acdd26569c826c",
+    "title": "Google is putting AI chats right on the homepage",
+    "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+    "published_at": "2026-11-19T15:05:06-05:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-19T22:44:17.078145+00:00",
+    "thin": false,
+    "author": "Emma Roth",
+    "tags": [
+      "AI",
+      "Google",
+      "News",
+      "Tech",
+      "Web"
+    ]
+  },
+  {
+    "id": "e8c8f4b02aa074c2ee62ea964c25247d023eeda65d36db2a9f3f912fc8ae36d7",
+    "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
+    "summary": "The Federal Communications Commission voted unanimously to allow state and local prisons to jam cellphones. In an announcement on Thursday, the FCC argues the rule will help combat an \"influx of contraband cellphones\" used to carry out crimes from prison. Jammers are generally banned under Section 333 of the Communications Act of 1934, though they're [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
+    "published_at": "2026-11-19T14:40:28-05:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS513_FCC_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-19T22:44:17.078334+00:00",
+    "thin": false,
+    "author": "Emma Roth",
+    "tags": [
+      "Mobile",
+      "News",
+      "Policy",
+      "Politics",
+      "Tech"
+    ]
+  },
+  {
+    "id": "d33d37c291ebeeab625af94e921aa90396d30815e812d01cefe0b8d4a54fb31e",
+    "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
+    "summary": "Back in my day, the only “Doorbuster” sales were at physical retail stores. But now, you can get ultra-low prices before Black Friday whether you want to shop in-store or online. One that stands out is the previous-generation Sony WH-1000XM5 noise-canceling headphones, which are marked down to their lowest price ever, just $169.99 at Best [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
+    "published_at": "2026-11-19T14:35:52-05:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/DSCF7932.webp?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-19T22:44:17.078536+00:00",
+    "thin": false,
+    "author": "Brad Bourque",
+    "tags": [
+      "Black Friday",
+      "Cyber Monday",
+      "Deals",
+      "Gadgets",
+      "Headphones",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "17cc94bf552fe140252cfa758576e1cc8160c612a7b7ee9bf2ec87be69ee3b03",
+    "title": "You can now buy a Steam Machine without getting on a waitlist",
+    "summary": "Valve announced some updates about Steam Machine availability today, including good news if you want to buy one right now and potential bad news about future supply due to RAMaggedon. The good news: You can now purchase a 512GB Steam Machine without getting on a waitlist. Initially, interested buyers had to get on Valve's waitlist [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
+    "published_at": "2026-11-19T14:33:22-05:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-19T22:44:17.078716+00:00",
+    "thin": false,
+    "author": "Jay Peters",
+    "tags": [
+      "Entertainment",
+      "Gaming",
+      "News",
+      "PC Gaming"
+    ]
+  },
+  {
+    "id": "7ffcd09d30982dd504dd221c6d4f9f3de31b6833a45fbd8c4f7ee34c6608581e",
+    "title": "Some creators are skeptical of Instagram’s new affiliate program",
+    "summary": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to make it easier for influencers to make money from affiliate links - but some content creators are suspicious [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
+    "published_at": "2026-11-19T14:12:30-05:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-19T22:44:17.078918+00:00",
+    "thin": false,
+    "author": "Mia Sato",
+    "tags": [
+      "Creators",
+      "Instagram",
+      "Meta",
+      "News",
+      "Report",
+      "Tech"
+    ]
+  },
+  {
+    "id": "e68afc615efb06a1dd9d5bd6f227419dfe764d4eb5cab4e5c6a19965166b0b00",
+    "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
+    "summary": "Sonos speakers and soundbars aren&#8217;t exactly cheap, but thankfully the company&#8217;s Black Friday sale has already begun, making everything a little easier to afford through November 30th. Most notably, you can pick up the Arc Ultra soundbar for a new low of $849 ($250 off) from Sonos, Amazon, and Best Buy, or the newfangled Sonos [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
+    "published_at": "2026-11-19T13:33:08-05:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268417_Sonos_Play_speaker_JHiggins_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-19T22:44:17.079100+00:00",
+    "thin": false,
+    "author": "Sheena Vasani",
+    "tags": [
+      "Black Friday",
+      "Cyber Monday",
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ]
+  },
+  {
     "id": "9347826177a246300b26c7eb40c467578109c5aa36e91992fe10afcd4beac717",
     "title": "How Silicon Valley lost the public, with Crooked Media’s Jon Favreau",
     "summary": "Today, I’m talking with Jon Favreau, a political commentator and cofounder of Crooked Media. You probably know Jon best from a little show called Pod Save America, which Jon started with a group of fellow Obama staffers in the wake of Donald Trump’s election in 2016. It’s now one of the most popular podcasts in [&#8230;]",
@@ -2452,83 +2724,6 @@
       "Nvidia",
       "Report",
       "Tech"
-    ]
-  },
-  {
-    "id": "1c7d333502e5cd827bb98e6b034b771d60fa5967268f1cedebfb51590f519f7b",
-    "title": "NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
-    "summary": "&#32; submitted by &#32; /u/SnooSketches2164 &#32; to &#32; r/pcmasterrace [link] &#32; [comments]",
-    "category": "technology",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/pcmasterrace/comments/1xvqjor/nvidia_allegedly_engineered_scarcity_by_funding",
-    "published_at": "2026-11-14T02:10:01+00:00",
-    "image_url": "https://external-preview.redd.it/C8NSCr8mKLfe9yErn0jkpPniopg7h7fPHwU1LdMiDNg.jpeg",
-    "collection_timestamp": "2026-11-14T08:48:08.330953+00:00",
-    "thin": false,
-    "author": "/u/SnooSketches2164https://www.reddit.com/user/SnooSketches2164",
-    "tags": [
-      "pcmasterrace"
-    ]
-  },
-  {
-    "id": "025a8e79e82fa3e867ad3a8b86631586ecaa018c334a5e56fe139b59aed5feae",
-    "title": "BBC Studios Hires Former Amazon Exec Bree Frank In Production Role",
-    "summary": "BBC Studios has named Bree Frank as SVP, Production. The Dancing with the Stars producer has hired Frank from Evolution Media, the Amazon MGM Studios-owned producer, where she worked on series including The Real Housewives of Rhode Island, The Real Housewives of Beverly Hills and The Real Housewives of Orange County. In the role, she [&#8230;]",
-    "category": "technology",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/bbc-studios-bree-frank-1237223469",
-    "published_at": "2026-11-13T22:46:35+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/split-image-1500_018892.jpg",
-    "collection_timestamp": "2026-11-14T01:58:21.244499+00:00",
-    "thin": false,
-    "author": "Peterdeadline",
-    "tags": [
-      "News",
-      "BBC Studios",
-      "Bree Frank"
-    ]
-  },
-  {
-    "id": "3ec1e8ef535637fed1521ebedcdc0f59115cabfa57f92042d41b685a230d6150",
-    "title": "Trump’s Cabinet Is in Disarray Over Nvidia’s Honeypot Disaster",
-    "summary": "Commerce Secretary Howard Lutnick took it easy on disgraced CEO Jensen Huang. His colleagues aren't happy",
-    "category": "technology",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/politics/politics-news/scott-bessent-howard-lutnick-jensen-huang-honeypot-1235658029",
-    "published_at": "2026-11-13T20:55:55+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T21:48:04.661072+00:00",
-    "thin": false,
-    "author": "Jack Crosbie",
-    "tags": [
-      "Politics",
-      "Politics News",
-      "AI",
-      "controversy",
-      "Donald Trump",
-      "Economy",
-      "Howard Lutnick",
-      "Jensen Huang",
-      "NVIDIA",
-      "Scott Bessent"
-    ]
-  },
-  {
-    "id": "f20d99676a0e2850a986f4be57512c55fd440c8766a46e5e07154411df1a4321",
-    "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-    "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
-    "published_at": "2026-11-13T20:53:04-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-14T01:58:21.249639+00:00",
-    "thin": false,
-    "author": "Richard Lawler",
-    "tags": [
-      "Mass Transit",
-      "News",
-      "Transportation"
     ]
   }
 ]

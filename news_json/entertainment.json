@@ -1,5 +1,399 @@
 [
   {
+    "id": "b1f234bf6c607be470adf215b9b0f030e9987af915c479bcf3bc519e4155b2e5",
+    "title": "Paramount+ Black Friday Deal Drops Monthly Plans Down to $2.99 for Movies, Shows & Live Sports",
+    "summary": "From Nov. 19 to Nov. 30, subscribers can get any Paramount+ monthly plan for just $2.99 per month, with access to hit entertainment and live sports.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/culture/product-recommendations/paramount-plus-black-friday-sale-streaming-deal-tv-sports-1236384914",
+    "published_at": "2026-11-19T22:42:43+00:00",
+    "image_url": "https://www.billboard.com/wp-content/uploads/2026/11/Get-Paramount-Black-Friday-Offer-Sign-Up-Online.png?w=942&h=500&crop=1",
+    "collection_timestamp": "2026-11-19T22:44:17.070727+00:00",
+    "thin": false,
+    "author": "Sophie Dunne",
+    "tags": [
+      "Culture",
+      "Product Recommendations",
+      "black friday",
+      "Deals",
+      "kansas city chiefs",
+      "nfl",
+      "NOADS",
+      "Sales",
+      "shopping",
+      "sports",
+      "streaming",
+      "streaming deals"
+    ]
+  },
+  {
+    "id": "ac61fe9120011ed801686bdf09d82a1880d066cf665b513757b8af1bc863ab9d",
+    "title": "Marlon Jackson Reveals Stage 4 Prostate Cancer Diagnosis: ‘God Has Me’",
+    "summary": "The Jackson 5 member said he's been battling cancer for four years now and is keeping a positive outlook.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/pop/marlon-jackson-stage-4-prostate-cancer-diagnosis-1236385892",
+    "published_at": "2026-11-19T22:36:19+00:00",
+    "image_url": "https://www.billboard.com/wp-content/uploads/2026/11/marlon-jackson-screenshot-2026-1800.jpg?w=1024",
+    "collection_timestamp": "2026-11-19T22:44:17.070869+00:00",
+    "thin": false,
+    "author": "Angel Diaz",
+    "tags": [
+      "Music",
+      "Pop",
+      "genre pop",
+      "genre rb",
+      "Music News"
+    ]
+  },
+  {
+    "id": "37f014d09ed1600815fd18e21252705e8350e825919cc0d43ffd33e47ac3841f",
+    "title": "Billie Eilish & FINNEAS Follow Lucy Dickins to CAA for Global Touring, WME to Share in North America",
+    "summary": "Kirk Sommer will share North American representation for Eilish in North America and continue booking FINNEAS in the territory.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/pro/billie-eilish-moves-caa-global-booking-share-us-wme",
+    "published_at": "2026-11-19T22:25:49+00:00",
+    "image_url": "https://www.billboard.com/wp-content/uploads/2026/11/HYBE-CAA-Billboard-1800.png?w=237&h=147&crop=1",
+    "collection_timestamp": "2026-11-19T22:44:17.071026+00:00",
+    "thin": false,
+    "author": "Ariel King",
+    "tags": [
+      "Business",
+      "Touring",
+      "caa",
+      "Music News",
+      "WME"
+    ]
+  },
+  {
+    "id": "3c44a363bd9445528de6b8faf6b4b3f081ab0c81b82b997a2c6eac6d4aa7e326",
+    "title": "‘Thursday Night Football’ 2026: How to Watch Indianapolis Colts vs. Houston Texans Live Online",
+    "summary": "Watch the IND Colts take on the HOU Texans on Thursday, Nov. 19 — keep an eye out for possible celebrity sightings at the game too.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/culture/product-recommendations/thursday-night-football-2026-watch-nfl-live-online-free-1236341946",
+    "published_at": "2026-11-19T22:25:09+00:00",
+    "image_url": "https://www.billboard.com/wp-content/uploads/2026/08/Amazon_Prime_Video_blue_logo_1.svg__7e70c9.webp?w=500&h=500&crop=1",
+    "collection_timestamp": "2026-11-19T22:44:17.071196+00:00",
+    "thin": false,
+    "author": "Rudie Obias",
+    "tags": [
+      "Culture",
+      "Product Recommendations",
+      "how to watch",
+      "nfl",
+      "NOADS",
+      "Prime Video",
+      "sports",
+      "streaming"
+    ]
+  },
+  {
+    "id": "44af5024cfbfe1370577ba1c446dbf485f460849ebd9c15afbd4618e83366ffe",
+    "title": "Where to Stream ‘Yellowjackets’ Season 4 Online",
+    "summary": "The fourth and final season of the hit series premieres on Friday, Nov. 20",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/where-to-watch-yellowjackets-season-4-online-streaming-1235661472",
+    "published_at": "2026-11-19T22:11:11+00:00",
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/yellowjackets-s4.jpg?crop=0px%2C111px%2C1800px%2C1014px&resize=1600%2C900",
+    "collection_timestamp": "2026-11-19T22:44:17.072229+00:00",
+    "thin": false,
+    "author": "Oscar Hartzog",
+    "tags": [
+      "TV & Movies",
+      "TV & Movies News",
+      "noads",
+      "RS Recommends",
+      "streaming",
+      "Yellowjackets"
+    ]
+  },
+  {
+    "id": "c2f0d3456014523fa6f059a1ca316cc0085d03c9eb1580875f14f8e1ade16f35",
+    "title": "‘Canada’s Drag Race’ Season 7 Isn’t Streaming in the U.S., But We Found a Hack to Watch It Anyway",
+    "summary": "The beloved competition series is airing on Crave in Canada, but with this simple solution, you can watch every episode from the States",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/how-to-watch-canadas-drag-race-season-7-in-us-stream-1235659159",
+    "published_at": "2026-11-19T22:00:00+00:00",
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/GettyImages-2218212433.jpg?w=1600&h=900&crop=1",
+    "collection_timestamp": "2026-11-19T22:44:17.072377+00:00",
+    "thin": false,
+    "author": "Alexis Mikulski Ruiz",
+    "tags": [
+      "TV & Movies",
+      "TV & Movies News",
+      "noads",
+      "RS Recommends",
+      "RuPaul's Drag Race",
+      "streaming",
+      "vpn"
+    ]
+  },
+  {
+    "id": "977b4b059b3cf4d8ffe9cca6600ea2f09c3e16baedebb81fd0b90d2936b27d0e",
+    "title": "From Fitness to Gaming, AliExpress’ BFCM Sale Brings Deals From Every Category",
+    "summary": "Explore AliExpress' Black Friday Cyber Monday deals on brand-name finds for the holidays, from fitness gear and sneakers to beauty essentials and tech",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/product-recommendations/gift-guide/aliexpress-black-friday-sale-shop-online-fitness-style-tech-1235654304",
+    "published_at": "2026-11-19T21:53:13+00:00",
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/Best-AliExpress-BFCM-Sales.png?w=900&h=600&crop=1",
+    "collection_timestamp": "2026-11-19T22:44:17.072526+00:00",
+    "thin": false,
+    "author": "Sophie Dunne",
+    "tags": [
+      "Gift Guide",
+      "RS Recommends",
+      "Fashion",
+      "Fitness",
+      "gaming",
+      "Healthy Lifestyle",
+      "Lifestyle",
+      "noads",
+      "Shopping",
+      "sneakers",
+      "tech"
+    ]
+  },
+  {
+    "id": "41fbad97e2d7a93760e7ab42287f5dc6d9033aad025d1a94d575b08e0cf904c0",
+    "title": "Fiona, Cincinnati’s Zoo’s Beloved Miracle Hippo, Has Died",
+    "summary": "Community is “crushed” by her death, says zoo rep",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/culture/culture-news/fiona-hippo-1235661442",
+    "published_at": "2026-11-19T21:47:42+00:00",
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/fiona-the-hippo.jpg?crop=0px%2C51px%2C1800px%2C1014px&resize=1600%2C900",
+    "collection_timestamp": "2026-11-19T22:44:17.072648+00:00",
+    "thin": false,
+    "author": "CT Jones",
+    "tags": [
+      "(Sub)Culture News",
+      "Culture",
+      "fiona",
+      "internet culture",
+      "zoo"
+    ]
+  },
+  {
+    "id": "5cf0fb33702a153c1d6a993fedaf425feeeed2f330e88809934233d7d424e79b",
+    "title": "Willie Nelson’s Memoir Explains How His Wife Inspires His Creative Spirit: Here’s Where to Get Your Copy Online",
+    "summary": "Now available, The Last Leaf is a must-read for fans.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/culture/product-recommendations/willie-nelson-the-last-leaf-memoir-book-shop-buy-online-1236384774",
+    "published_at": "2026-11-19T21:46:35+00:00",
+    "image_url": "https://www.billboard.com/wp-content/uploads/2026/11/Willie-Nelson-The-Last-Leaf-Cover-BB-Embed.jpg?w=942&h=623&crop=1",
+    "collection_timestamp": "2026-11-19T22:44:17.071339+00:00",
+    "thin": false,
+    "author": "Rudie Obias",
+    "tags": [
+      "Culture",
+      "Product Recommendations",
+      "billboard book club",
+      "books",
+      "NOADS"
+    ]
+  },
+  {
+    "id": "aab4a99c26c249bd8d87d923237039384a324dd9622a838515f0762dc7c34f29",
+    "title": "IDFA Awards Ceremony: ‘The Year Of The Ghost’ And ‘Memories Of Lightning’ Earn Top Prizes",
+    "summary": "Director Louis HotHotHot is living up to his name. His feature documentary The Year of the Ghost won Best Film in International Competition Thursday as the 39th International Documentary Festival Amsterdam presented its awards. The Chinese-born filmmaker, also known as Louis Liu, also won Best Editing in International Competition, sharing that prize with his co-editor [&#8230;]",
+    "category": "entertainment",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/2026-idfa-awards-announcement-1237229526",
+    "published_at": "2026-11-19T21:34:03+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/IDFA-winners-2026-split-image-1000.jpg",
+    "collection_timestamp": "2026-11-19T22:44:17.068314+00:00",
+    "thin": false,
+    "author": "Matthew Carey",
+    "tags": [
+      "Documentary",
+      "Festivals",
+      "News",
+      "IDFA",
+      "International Documentary Festival Amsterdam",
+      "Memories of Lightning",
+      "The Year of the Ghost"
+    ]
+  },
+  {
+    "id": "ee5ba796e6b44008a2626a5fab8643cef219ee69c9d05880d03c0efb13086008",
+    "title": "‘The Year of the Ghost,’ About Misogyny in China, Wins Best Film at IDFA Documentary Festival",
+    "summary": "Louis HotHotHot&#8217;s &#8220;The Year of the Ghost&#8221; won best film in the International Competition section of leading documentary festival IDFA on Thursday. The award is accompanied by a €15,000 ($16,462) cash prize. The film, a co-production between Netherlands and China, focuses on the director’s mother and sister in China following his father&#8217;s death. He explores [&#8230;]",
+    "category": "entertainment",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/global/the-year-of-the-ghost-idfa-1236953608",
+    "published_at": "2026-11-19T21:30:00+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/The-Year-of-the-Ghost.jpg",
+    "collection_timestamp": "2026-11-19T22:44:17.066015+00:00",
+    "thin": false,
+    "author": "Leo Barraclough",
+    "tags": [
+      "Global",
+      "News",
+      "Documentaries to Watch",
+      "Idfa",
+      "Louis Hothothot"
+    ]
+  },
+  {
+    "id": "8da3dd883baf8420092acc2df9fe0acba0d5e8e32d8ea1c43f9dc39c9b511c0c",
+    "title": "Grimes & Elon Musk Feud Over AI ‘Sex Slave,’ Singer Urges Ex to ‘Step Up’ and Be ‘the King He Used to Be’",
+    "summary": "\"A man who worries so publicly abt the birth rate should not publicly advocate for its demise,\" she wrote.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/music-news/elon-musk-grimes-feud-ai-sex-slave-he-should-be-king-1236384843",
+    "published_at": "2026-11-19T21:29:09+00:00",
+    "image_url": "https://www.billboard.com/wp-content/uploads/2026/10/P114BTNF-e1791820875861.jpg?w=237&h=147&crop=1",
+    "collection_timestamp": "2026-11-19T22:44:17.071487+00:00",
+    "thin": false,
+    "author": "Hannah Dailey",
+    "tags": [
+      "Music",
+      "Music News",
+      "AI",
+      "Artificial Intelligence",
+      "genre pop"
+    ]
+  },
+  {
+    "id": "6ae29b71db21603950bdbe5af734775572a9318b7c89c9d566cc029f25c1d0d6",
+    "title": "Why the President (Any President) Shouldn’t Meddle In Who Receives Kennedy Center Honors: Critic’s Take",
+    "summary": "Barbra Streisand and George W. Bush showed us the way.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/awards/president-kennedy-center-honors-say-1236385920",
+    "published_at": "2026-11-19T21:29:01+00:00",
+    "image_url": "https://www.billboard.com/wp-content/uploads/2026/11/91261052-e1793729857458.jpg?w=237&h=147&crop=1",
+    "collection_timestamp": "2026-11-19T22:44:17.071623+00:00",
+    "thin": false,
+    "author": "Paul Grein",
+    "tags": [
+      "Awards",
+      "Music",
+      "Kennedy Center Honors"
+    ]
+  },
+  {
+    "id": "ccaa3992ac54bc7b96213771f5c80672454feeb9f5653e0d0b3341cae3f31d42",
+    "title": "Michelle Salas Has the Look and the Chisme to Go With It | Presented by Shark Beauty",
+    "summary": "This is partner content. Presented by Shark Beauty. Getting glam and getting the tea. Michelle Salas gets ready for one of Latin music’s biggest nights during Billboard’s Latin Music Week 2026 in Miami, using a few of her favorite Shark Beauty products. Meanwhile, loved ones call in with their takes on her look, and naturally, [&#8230;]",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/video/michelle-salas-has-the-look-and-the-chisme-to-go-with-it",
+    "published_at": "2026-11-19T21:15:01+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-19T22:44:17.071816+00:00",
+    "thin": false,
+    "author": "Katie Cao",
+    "tags": [
+      "Media",
+      "Videos",
+      "genre latin",
+      "Partner Content",
+      "SharkNinjaLMW2026"
+    ]
+  },
+  {
+    "id": "8f33ec166cccf627c75cf4bc986edef81470f2002d5c3781286e8dc59b113950",
+    "title": "2026 CMA Awards: 6 Things You Didn’t See on TV",
+    "summary": "From Ella Langley talking about \"Choosin' Texas\" and Miranda Lambert's advice on heartache, these moments didn't air onscreen.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/lists/cma-awards-2026-best-moments-behind-scenes",
+    "published_at": "2026-11-19T20:49:02+00:00",
+    "image_url": "https://www.billboard.com/wp-content/uploads/2026/11/taylor-swift-lainey-wilson-billboard-1800.jpg?w=237&h=147&crop=1",
+    "collection_timestamp": "2026-11-19T22:44:17.072103+00:00",
+    "thin": false,
+    "author": "Anna Chan",
+    "tags": [
+      "Awards",
+      "Music",
+      "CMA Awards",
+      "genre country",
+      "Music News"
+    ]
+  },
+  {
+    "id": "694c4f87174549284b729c2fba897184f99766f5dffcaff080e25a8d1dd64b2f",
+    "title": "Bachelor Party D'eux Twitter Review: 9 Tweets to read before watching Naslen, Tovino Thomas and Kunchacko Boban’s film",
+    "summary": "Bachelor Party D&rsquo;eux, starring Naslen, Kunchacko Boban, and Tovino Thomas in the lead roles, was released in theaters on November 19, 2026. Directed by Amal Neerad, here&rsquo;s what the netizens have to say about the action thriller. Bachelor Party D&rsquo;eux Twitter Review Taking to social media, one user compared Bachelor Party D&#39;eux to the experience of watching Avatar 2, stating that while the original Bachelor Party created a memorable first impression, its sequel failed to recr",
+    "category": "entertainment",
+    "source": "Pinkvilla",
+    "url": "https://www.pinkvilla.com/entertainment/south/bachelor-party-deux-twitter-review-9-tweets-to-read-before-watching-naslen-tovino-thomas-and-kunchacko-bobans-film-1406538",
+    "published_at": "2026-11-19T19:58:38+05:30",
+    "image_url": "https://www.pinkvilla.com/images/2026-11/335609253_bachelor-party-deux-webp.webp",
+    "collection_timestamp": "2026-11-19T22:44:16.929387+00:00",
+    "thin": false
+  },
+  {
+    "id": "566a26bd186f4385edd0aa0f65f40f33cdce49a89461001fad1f3571db917ed8",
+    "title": "Tinashe Crashes a Plane and Belts Out ‘Melatonin’ During Hilarious ‘GTA VI’ Stream",
+    "summary": "The pop star cracked fans up as she wreaked havoc in Vice City",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/gta-vi-tinashe-stream-1235660901",
+    "published_at": "2026-11-19T19:23:49+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-19T22:44:17.073089+00:00",
+    "thin": false,
+    "author": "Julyssa Lopez",
+    "tags": [
+      "Music",
+      "Music News",
+      "Grand Theft Auto VI",
+      "GTA VI",
+      "Tinashe"
+    ]
+  },
+  {
+    "id": "d4eefe32aae4166e2da5e83d9e6f2302eed73103da36546e6561fa770c3e6030",
+    "title": "Foo Fighters, Noah Kahan, the Who Lead New Orleans Jazz and Heritage Festival Lineup",
+    "summary": "Brandi Carlile, Gwen Stefani, James Taylor, Jack White, and the Red Clay Strays also set to perform in 2027",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/foo-fighters-noah-kahan-the-who-new-orleans-jazz-fest-1235661091",
+    "published_at": "2026-11-19T19:13:35+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-19T22:44:17.073223+00:00",
+    "thin": false,
+    "author": "Kory Grow",
+    "tags": [
+      "Music",
+      "Music News",
+      "Foo Fighters",
+      "New Orleans Jazz and Heritage Festival",
+      "New Orleans Jazz Fest",
+      "Noah Kahan",
+      "The Who"
+    ]
+  },
+  {
+    "id": "d8213ec9420f6122cfe911a430d0f532c5b23d2c873467a5ca8e1d41afefec65",
+    "title": "Marlon Jackson Reveals Stage 4 Prostate Cancer Diagnosis",
+    "summary": "“I’ve had my prostate gland removed and I’ve had radiation treatment and everything is fine,” Jackson 5 singer and Rock Hall inductee says of current condition",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/marlon-jackson-reveal-stage-4-prostate-cancer-diagnosis-1235661255",
+    "published_at": "2026-11-19T19:07:56+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-19T22:44:17.073363+00:00",
+    "thin": false,
+    "author": "Daniel Kreps",
+    "tags": [
+      "Music",
+      "Music News",
+      "cancer",
+      "Jackson 5",
+      "marlon jackson",
+      "Michael Jackson"
+    ]
+  },
+  {
     "id": "042c69e3fd3d747072d896222bcef413de4f70d445f8fd06c39523a5dbfd8d1f",
     "title": "Olivia Dean, Amy Lee & More Receive PLUS1 Impact Awards: Full List",
     "summary": "The awards, now in their third year, recognize artists and industry leaders making meaningful impact across communities worldwide.",
@@ -5137,567 +5531,6 @@
       "TV & Movies",
       "TV & Movies News",
       "Russell Brand"
-    ]
-  },
-  {
-    "id": "1954336dd9f33cd4963292b96ba44b898b69bd087ddf82faabbacc172aae692a",
-    "title": "Rock & Roll Hall of Fame Induction Ceremony to Kick Off as Planned Amid FAA Grounding Flights Debacle",
-    "summary": "There will be no changes to the artists set to appear and perform",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-news/rock-and-roll-hall-of-fame-induction-ceremony-flights-1235658269",
-    "published_at": "2026-11-14T02:49:03+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-14T08:48:08.301026+00:00",
-    "thin": false,
-    "author": "Charisma Madarang",
-    "tags": [
-      "Music",
-      "Music News",
-      "Rock and Roll Hall of Fame"
-    ]
-  },
-  {
-    "id": "c0646db5450146a32e2c91a320623b7bab6b2102da059e8466a925bdd4444af4",
-    "title": "Shane Gillis Grades His Own Mediocre ‘SNL’ Monologue a C Minus",
-    "summary": "The comedian called women who wear workout clothes at the gym \"whores\" on Saturday Night Live",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/shane-gillis-addresses-snl-monologue-1235658237",
-    "published_at": "2026-11-14T01:52:29+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-14T01:58:21.247502+00:00",
-    "thin": false,
-    "author": "Charisma Madarang",
-    "tags": [
-      "TV & Movies",
-      "TV & Movies News",
-      "Saturday Night Live"
-    ]
-  },
-  {
-    "id": "b86304b66c4fa37e1c028041bed08b2b94e1929d7a2513d336f005e464ccf816",
-    "title": "Coachella Tickets Are Already Sold Out — Here’s What They’re Going for on Resale",
-    "summary": "Missed the general sale for Coachella 2027? Here's what to know about resale, the waitlist, and more",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/product-recommendations/tickets/coachella-tickets-where-to-buy-online-2027-1235658206",
-    "published_at": "2026-11-14T01:36:53+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-14T01:58:21.247633+00:00",
-    "thin": false,
-    "author": "Jonathan Zavaleta",
-    "tags": [
-      "RS Recommends",
-      "Tickets",
-      "Coachella",
-      "noads",
-      "tickets"
-    ]
-  },
-  {
-    "id": "12f565d81fc0bf1ef15a7c9f91aa9ac6bf7397ba014d43129dd5b8268796d350",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "summary": "A complete rundown of the most important events across the music business.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences",
-    "published_at": "2026-11-14T01:00:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-14T01:58:21.246198+00:00",
-    "thin": false,
-    "author": "Colin Stutz",
-    "tags": [
-      "Business",
-      "Business News",
-      "billboard pro",
-      "conferences",
-      "Events",
-      "festivals",
-      "Touring"
-    ]
-  },
-  {
-    "id": "623843e7dd304313677321c282ceb35b86a0f257371b5a012f95b2d51e2afb3b",
-    "title": "Kanye West Settles Lawsuit Over Sample Blocked by Descendant of Holocaust Survivors",
-    "summary": "The German singer-songwriter said she refused to let West, nown known as Ye, sample her song because of his antisemitic remarks",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-news/kanye-west-settles-lawsuit-alice-merton-holocaust-survivors-1235658191",
-    "published_at": "2026-11-14T00:59:53+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-14T01:58:21.247760+00:00",
-    "thin": false,
-    "author": "Nancy Dillon",
-    "tags": [
-      "Music",
-      "Music News",
-      "controversy",
-      "courts and crime",
-      "Kanye West",
-      "Ye"
-    ]
-  },
-  {
-    "id": "7ee67e378fd195b1f650cbcfe3dbfc1bbf52817d86898cf8b08e20d9e1a52388",
-    "title": "In Canada: Canada Music Fund to Receive $67M Boost; Women in Music Executive Award Winners Share Their Wisdom",
-    "summary": "Also this week: Sean Paul appears on the first episode of Billboard Canada News .",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/pro/canada-music-fund-67m-boost-canada-news",
-    "published_at": "2026-11-14T00:10:09+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-14T01:58:21.246334+00:00",
-    "thin": false,
-    "author": "Chris Eggertsen",
-    "tags": [
-      "Business",
-      "Business News",
-      "Billboard Canada",
-      "Canada",
-      "In Canada",
-      "International",
-      "Music News"
-    ]
-  },
-  {
-    "id": "c6bea440c4ebb8023f7276b9d9de79e801123f406356021c365cc9b7f0218168",
-    "title": "John Summit, David Guetta, Alison Wonderland & More to Play College Football Playoff National Championship Weekend",
-    "summary": "The free AT&#38;T Playoff Playlist Live festival happens Jan. 23-24 in Las Vegas.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/music-news/las-vegas-college-football-champship-music-festival-summit-1236382125",
-    "published_at": "2026-11-13T23:16:54+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-14T01:58:21.246460+00:00",
-    "thin": false,
-    "author": "Katie Bain",
-    "tags": [
-      "Music",
-      "Music News",
-      "Dance",
-      "genre dance",
-      "sports"
-    ]
-  },
-  {
-    "id": "6e9988f6b01bc46db7103e50048aee64e05e62c457d34152c42791d4e10e4452",
-    "title": "Young Thug Responds to Quavo’s Attempt to Have Him Reconcile With Gunna: ‘How Uma Fix Some Sh– I Didn’t Break Qua?’",
-    "summary": "Offset detailed why he stood by Gunna following the YSL RICO trial during a Popcast appearance.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/rb-hip-hop/young-thug-quavo-gunna-offset-reconciliation-ysl-trial-1236382064",
-    "published_at": "2026-11-13T23:13:43+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-14T01:58:21.246587+00:00",
-    "thin": false,
-    "author": "Michael Saponara",
-    "tags": [
-      "Music",
-      "R&B/Hip-Hop",
-      "genre hiphop",
-      "Music News"
-    ]
-  },
-  {
-    "id": "3a1f41c3bf46b28c81d08a4bb915601318ee41580ded1fbe88095d5dcc77a514",
-    "title": "Who Is Sara Schell, The Newcomer Who Won Songwriter of the Year at the 2026 Latin Grammys?",
-    "summary": "Meet the Venezuelan behind hits by KATSEYE, Becky G, J Balvin &#38; other major stars.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/latin/meet-sara-schell-latin-grammy-songwriter-of-the-year-nominee-1236379607",
-    "published_at": "2026-11-13T23:00:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-14T01:58:21.246704+00:00",
-    "thin": false,
-    "author": "Sigal Ratner-Arias",
-    "tags": [
-      "Latin",
-      "Music",
-      "Awards",
-      "genre latin",
-      "interview",
-      "Latin Grammys",
-      "Music News"
-    ]
-  },
-  {
-    "id": "3c22940abf3ad144fe01e6d221180e71565b68b2b79fcd0238b18e6a4570c335",
-    "title": "Justin Bieber Pops Out at Rising British Star’s $30 Concert in L.A. in Surprise Cameo: ‘Who’s Gonna Pinch Me Then?’",
-    "summary": "The pop star jumped in on Finn Askew's song \"Music All Over Her Body.\"",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/music-news/justin-bieber-surprise-cameo-finn-askew-la-show-1236382042",
-    "published_at": "2026-11-13T22:58:37+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-14T01:58:21.246822+00:00",
-    "thin": false,
-    "author": "Hannah Dailey",
-    "tags": [
-      "Music",
-      "Music News",
-      "genre pop"
-    ]
-  },
-  {
-    "id": "55f39a282091f9923dae0218e6ba812e915558a64d2e4162ef6e873864162b72",
-    "title": "Il Volo Reflect on 18 Years Together, Their Christmas Traditions and What’s Next",
-    "summary": "The Italian trio has just released a new album, Our Christmas , and will be touring major arenas in the U.S. and Italy from November-December.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/music-news/il-volo-our-christmas-billboard-italy-1236382101",
-    "published_at": "2026-11-13T22:42:25+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-14T01:58:21.246955+00:00",
-    "thin": false,
-    "author": "Joe Lynch",
-    "tags": [
-      "Music",
-      "Music News",
-      "Il Volo"
-    ]
-  },
-  {
-    "id": "8db57fbaf4f84d4acfa4333af8dc123bc8a792f6038f95af4548b6d396ec2d4d",
-    "title": "Journey Go Their Separate Ways With Longtime Drummer",
-    "summary": "Deen Castronovo has left Journey's stage mid-show at two recent stops due to a medical issue, and now is handing off his drum sticks to veteran musician Steve Murphy",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-news/journey-part-ways-with-drummer-1235658141",
-    "published_at": "2026-11-13T22:42:06+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-14T01:58:21.247898+00:00",
-    "thin": false,
-    "author": "Andy Greene",
-    "tags": [
-      "Music",
-      "Music News",
-      "Journey"
-    ]
-  },
-  {
-    "id": "a10a6bc3e524aff5798fab546ab4ab7c6e3adbc7283e65b96b4624ecff23256a",
-    "title": "Dashboard Confessional 2027: Where to Shop Affordable Unplugged 25th Anniversary Tour Tickets Online",
-    "summary": "Starting on Mar. 12, the iconic emo band hits the road with 14 tour dates across the United States.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/culture/product-recommendations/dashboard-confessional-2027-tour-tickets-buy-shop-online-1236379707",
-    "published_at": "2026-11-13T22:37:25+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-14T01:58:21.247079+00:00",
-    "thin": false,
-    "author": "Rudie Obias",
-    "tags": [
-      "Culture",
-      "Product Recommendations",
-      "NOADS",
-      "tickets",
-      "Touring"
-    ]
-  },
-  {
-    "id": "6954bfde1bfaa6150614eed008d6ef15039a27eabde5edc0b56d20a8471d82b5",
-    "title": "Viva La Lisa! 5 Best Moments From LISA’s Opening Night in Las Vegas",
-    "summary": "The BLACKPINK superstar made history at The Colosseum at Caesars Palace with seven live debuts &#38; an unreleased song.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/lists/lisa-las-vegas-opening-night-review-best-moments",
-    "published_at": "2026-11-13T22:32:15+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-14T01:58:21.247201+00:00",
-    "thin": false,
-    "author": "Katie Atkinson",
-    "tags": [
-      "Music",
-      "Pop",
-      "genre kpop",
-      "Las Vegas",
-      "Music News"
-    ]
-  },
-  {
-    "id": "ee9a3b333f1cd822a8452cbe24a6dce79e06319ca8406590e7ef634cc81b250f",
-    "title": "Drake Finally Makes ‘Take Care’ Bonus Track ‘Hate Sleeping Alone’ Available Across All Streaming Platforms",
-    "summary": "The fan-favorite song wasn't previously available on YouTube or Spotify.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/rb-hip-hop/drake-hate-sleeping-alone-streaming-take-care-bonus-track-1236381994",
-    "published_at": "2026-11-13T22:15:30+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-14T01:58:21.247364+00:00",
-    "thin": false,
-    "author": "Angel Diaz",
-    "tags": [
-      "Music",
-      "R&B/Hip-Hop",
-      "genre hiphop",
-      "Music News",
-      "streaming"
-    ]
-  },
-  {
-    "id": "93ebe510b9b64fb3bf6b8698f47483a6343c11d502ca26e4460372a0dabc6a8f",
-    "title": "Megan Moroney, Teddy Swims, Ejae to Perform at 100th Macy’s Thanksgiving Parade",
-    "summary": "Queen Latifah, Devo, the Roots, and Keke Palmer are among the star-studded lineup for this year's edition of the annual event",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-news/megan-moroney-teddy-swims-ejae-macys-thanksgiving-parade-1235658100",
-    "published_at": "2026-11-13T21:49:29+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-14T01:58:21.248047+00:00",
-    "thin": false,
-    "author": "Althea Legaspi",
-    "tags": [
-      "Music",
-      "Music News",
-      "Devo",
-      "Huntr/x",
-      "Keke Palmer",
-      "Megan Moroney",
-      "Queen Latifah",
-      "Teddy Swims",
-      "The Roots"
-    ]
-  },
-  {
-    "id": "31de36559320f88cbed69bd030bd1fba9aa1c22d00d36fc6c920026e9d3287f9",
-    "title": "‘I Didn’t Want to Become Fat, Bloated, Naked Elvis’: Why KISS Called It Quits on Touring (And What They’re Up to Now)",
-    "summary": "Gene Simmons and Paul Stanley are gearing up for the release of the KISS: End of the Road documentary.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/rock/kiss-end-of-the-road-documentary-1236382015",
-    "published_at": "2026-11-13T21:44:17+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T21:48:04.659405+00:00",
-    "thin": false,
-    "author": "Joe Lynch",
-    "tags": [
-      "Music",
-      "Rock",
-      "Film",
-      "genre rock"
-    ]
-  },
-  {
-    "id": "ae32426aa451425ad64a044a7017d926452dcd81fd71ab96d7f55525f2733a48",
-    "title": "David Walliams: British Police Open Investigation Into Sexual Misconduct Allegations",
-    "summary": "Met Police confirm they're investigating \"a number of allegations of non-recent serious sexual offenses involving a man now in his fifties\"",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/david-walliams-london-police-investigation-sexual-misconduct-1235658096",
-    "published_at": "2026-11-13T21:34:14+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T21:48:04.660812+00:00",
-    "thin": false,
-    "author": "Daniel Kreps",
-    "tags": [
-      "TV & Movies",
-      "TV & Movies News",
-      "controversy",
-      "courts and crime",
-      "David Walliams"
-    ]
-  },
-  {
-    "id": "735970d340d7aff53a53be44d18e6c47c22ca2508ecf7f87653481bac4014608",
-    "title": "Going Green: Miss Monique Debuts Her Nature-Centric Biorhythm Show in the U.S. This Weekend — With Bigger Plans For America to Follow",
-    "summary": "“I feel like my relationship with the U.S. is having an amazing start,\" the Ukrainian producer says ahead of her Nov. 13 show at Brooklyn Pacha.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/music-news/miss-monique-biorhythm-brooklyn-pacha-interview-new-york-1236381968",
-    "published_at": "2026-11-13T21:26:16+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T21:48:04.659560+00:00",
-    "thin": false,
-    "author": "Katie Bain",
-    "tags": [
-      "Music",
-      "Music News",
-      "Dance",
-      "genre dance"
-    ]
-  },
-  {
-    "id": "f23df6750c75c51a34b1ff5fdbe33b02828c18af99535930169db1863d4fc79f",
-    "title": "Hear Tyler Childers Skewer Wealth Inequality on ‘Old Money’",
-    "summary": "The track, off The Hunger Games: Sunrise on the Reaping soundtrack, is Childers' first taste of new music since 2025's Snipe Hunter",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-country/tyler-childers-hunger-games-song-old-money-1235657980",
-    "published_at": "2026-11-13T21:20:35+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T21:48:04.660942+00:00",
-    "thin": false,
-    "author": "Marissa Moss",
-    "tags": [
-      "Music",
-      "Music Country",
-      "Hunger Games",
-      "Tyler Childers"
-    ]
-  },
-  {
-    "id": "34ada7cff0e56733c33bf9d13306d14608b98e37983e16664db6c14224c3ca0f",
-    "title": "Coachella 2027: Here’s Where to Shop Affordable Music Festival Tickets Online",
-    "summary": "In April, the 2027 music festival season kicks off — watch performances by Dua Lipa, Tame Impala, SZA, Madonna, Phoebe Bridgers, Don Toliver and others live.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/culture/product-recommendations/shop-coachella-2027-music-festival-tickets-online-1236381620",
-    "published_at": "2026-11-13T21:05:35+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T21:48:04.659707+00:00",
-    "thin": false,
-    "author": "Rudie Obias",
-    "tags": [
-      "Culture",
-      "Product Recommendations",
-      "Coachella Music Festival",
-      "festivals",
-      "NOADS",
-      "tickets"
-    ]
-  },
-  {
-    "id": "371b7a6b973ce5912440c9ace0aa6ca1198e702a076cf0fe975fef6122040e28",
-    "title": "A$AP Rocky & Rihanna’s Son Three-Year-Old Son Riot Rose Is Already a Fashion Magazine Cover Star",
-    "summary": "Riot Rose covers Arena HOMME+ .",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-rihanna-son-riot-rose-cover-arena-homme-1236381957",
-    "published_at": "2026-11-13T20:58:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T21:48:04.659829+00:00",
-    "thin": true,
-    "author": "Michael Saponara",
-    "tags": [
-      "Music",
-      "R&B/Hip-Hop",
-      "genre hiphop",
-      "Music News"
-    ]
-  },
-  {
-    "id": "3a675c96a92a072ac57266f19cc80fffd4effdfcc9cea4017d20875e804aa55d",
-    "title": "Beyoncé, Tems, Chris Brown & RAYE Lead 2027 R&B Grammys Race: Our Predictions",
-    "summary": "Will Queen Bey lock up her 100th Grammy nomination?",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/awards/2027-grammys-nominations-predictions-rb-song-performance-1236378517",
-    "published_at": "2026-11-13T20:48:21+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T21:48:04.659948+00:00",
-    "thin": false,
-    "author": "Kyle-Brandon Denis",
-    "tags": [
-      "Awards",
-      "Music",
-      "genre rb",
-      "Grammys",
-      "music"
-    ]
-  },
-  {
-    "id": "184d30fcb78bec156745c27a73aff95a8f322049d65131ea372fcfaf2c1ef323",
-    "title": "10 Huelva Festival Standouts From ‘La Bola Negra’ to a Vibrant ‘Funk’ Musical and the Latest from ‘Dive’ Director Lucía Puenzo",
-    "summary": "Look at the U.S. summer box office and beyond. ‘The Odyssey&#8217; is a film made for the public, but from a personal vision, as indeed is ‘La Bola Negra,’” says Huelva Ibero-American Film Festival Director Manuel H. Martín. This year’s 52nd edition indeed screens “La Bola Negra,” as well as “The Beloved,” in a catch-up [&#8230;]",
-    "category": "entertainment",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/global/huelva-festival-standouts-la-bola-negra-funk-lucia-puenzo-1236947244",
-    "published_at": "2026-11-13T20:45:55+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/Pepita.jpg",
-    "collection_timestamp": "2026-11-13T21:48:04.654817+00:00",
-    "thin": false,
-    "author": "John Hopewell",
-    "tags": [
-      "Global",
-      "Markets & Festivals",
-      "News",
-      "funk",
-      "Huelva Ibero-American Film Festival",
-      "La bola negra",
-      "Lucia Puenzo",
-      "The Beloved"
-    ]
-  },
-  {
-    "id": "ca24bb89cd8bbcf58b4e0fec2d4962989df529784dd95804e03e66792955e0c6",
-    "title": "‘The Body’ Was Meant to Be Dark. Geena Meszaros Also Makes It Hilarious",
-    "summary": "The star of Netflix's newest teen horror-comedy talks about letting her freak flag fly as an outcast suddenly thrust into the world of the popular girls",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/tv-movies/tv-movie-features/the-body-geena-meszaros-interview-1235644903",
-    "published_at": "2026-11-13T20:30:33+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T21:48:04.661204+00:00",
-    "thin": false,
-    "author": "CT Jones",
-    "tags": [
-      "TV & Movies",
-      "TV & Movies Features",
-      "Horror",
-      "Netflix"
-    ]
-  },
-  {
-    "id": "7dad54f88efbe890f31d48b9344a99012179483931a9257f97c3a35f34d2f59f",
-    "title": "Westside Gunn Talks ‘Heelmatic,’ WWE, 4th Rope & Status of Griselda: ‘I’m a Legend Now’",
-    "summary": "The Buffalo rapper decided to go back on his word of not making another album, because he was inspired by Mass Appeal's \"Legend Has It\" Series.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/rb-hip-hop/westside-gunn-heelmatic-interview-1236379726",
-    "published_at": "2026-11-13T20:21:07+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T21:48:04.660085+00:00",
-    "thin": false,
-    "author": "Angel Diaz",
-    "tags": [
-      "Music",
-      "R&B/Hip-Hop",
-      "Features",
-      "genre hiphop",
-      "interviews"
-    ]
-  },
-  {
-    "id": "80a063428aefa9b47322bc8592b98804684d2643099334fcca4e0e7b7972a919",
-    "title": "Raul Malo’s Widow Sues to Stop Remaining Members of The Mavericks from Using Band Name",
-    "summary": "The surviving band members have been performing as \"The Mavericks &#38; Friends\" since Malo's death from cancer in 2025.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/pro/raul-malo-widow-lawsuit-the-mavericks-band-name",
-    "published_at": "2026-11-13T20:19:48+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T21:48:04.660223+00:00",
-    "thin": false,
-    "author": "Rachel Scharf",
-    "tags": [
-      "Business",
-      "Legal News",
-      "americana",
-      "Country",
-      "genre country",
-      "lawsuit",
-      "Legal",
-      "Music News"
-    ]
-  },
-  {
-    "id": "cb973f7ff35220c52b1e8929b34d87b3ba1ce689816de3a1ca6594a7dab4bfb9",
-    "title": "Eminem Joins IDK for Hard-Hitting J Dilla-Produced ‘Welcome’ as DMV Rapper Signs to Shady Records",
-    "summary": "\"The first raps I made it a point to memorize were Eminem raps,\" IDK said in a statement.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/rb-hip-hop/eminem-idk-welcome-j-dilla-shady-records-1236381844",
-    "published_at": "2026-11-13T20:06:52+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T21:48:04.660358+00:00",
-    "thin": false,
-    "author": "Michael Saponara",
-    "tags": [
-      "Music",
-      "R&B/Hip-Hop",
-      "genre hiphop",
-      "Music News"
     ]
   }
 ]
