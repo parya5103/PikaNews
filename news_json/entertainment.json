@@ -1,5 +1,86 @@
 [
   {
+    "id": "0ca3f1c3797631a7e106a5fbcb8a0262d1e1dd73c9a05d15986e6a25d5cae5a3",
+    "title": "‘Never Go Backwards, Just Make Things Bigger and Better’: How Paul O’Neill Mapped Trans-Siberian Orchestra’s Ongoing Journey",
+    "summary": "\"Paul left us a huge body of unfinished work we need to get to,\" says Al Pitrelli, TSO's musical director.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/rock/trans-siberian-orchestra-interview-1236385507",
+    "published_at": "2026-11-19T07:07:23+00:00",
+    "image_url": "https://www.billboard.com/wp-content/uploads/2025/12/trans-siberian-orchestra-2025-billboard-1800.jpg?w=1024",
+    "collection_timestamp": "2026-11-19T07:08:06.568842+00:00",
+    "thin": false,
+    "author": "Lars Brandle",
+    "tags": [
+      "Music",
+      "Rock",
+      "bbnews",
+      "genre rock"
+    ]
+  },
+  {
+    "id": "9b74dda1662dd63efa958cbc0191952ef127335143970e21f617c75ebd9542ce",
+    "title": "Taylor Swift, Jaafar Jackson, ‘The Odyssey’ Among Hollywood Music in Media Awards Winners",
+    "summary": "The Hollywood Music in Media Awards (HMMA) unveiled its 2026 winners, which includes a star-studded lineup of Taylor Swift, Jaafar Jackson and Diane Warren. Celebrating the top film and television music moments of the year, the HMMAs honored Taylor Swift and Jack Antonoff for their animated song “I Knew It, I Knew You” from “Toy [&#8230;]",
+    "category": "entertainment",
+    "source": "Variety",
+    "url": "https://variety.com/2026/music/news/hollywood-music-in-media-awards-taylor-swift-1236952423",
+    "published_at": "2026-11-19T06:00:00+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/06/GettyImages-2280798638-e1781730790549.jpg",
+    "collection_timestamp": "2026-11-19T07:08:06.568107+00:00",
+    "thin": false,
+    "author": "Tanya Fedak",
+    "tags": [
+      "News",
+      "Jaafar Jackson",
+      "Taylor Swift",
+      "The Odyssey"
+    ]
+  },
+  {
+    "id": "bb95dead4f0272eaaeaef344eb25d3343ead9ef78e7586c92d93f6f35817acac",
+    "title": "Hollywood Music In Media Awards Winners Include Ludwig Göransson, ‘La Bola Negra,’ Taylor Swift, Diane Warren & Jaafar Jackson",
+    "summary": "La Bola Negra and Ludwig Göransson were among the big winners at the 17th annual Hollywood Music in Media Awards, which were handed out Wednesday night at the Avalon in Hollywood. See the full list below. La Bola Negra composer Raül Refree was a double winner for Independent Film Score and Song, the latter being [&#8230;]",
+    "category": "entertainment",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/hollywood-music-in-media-awards-2026-winners-list-1237227122",
+    "published_at": "2026-11-19T06:00:00+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Ludwig-Goransson-La-Bola-Negra-Taylor-Swift-Diane-Warren-Hollywood-Music-in-Media-Awards-logo.jpg",
+    "collection_timestamp": "2026-11-19T07:08:06.568422+00:00",
+    "thin": false,
+    "author": "Erik Pedersen",
+    "tags": [
+      "Below The Line",
+      "News",
+      "Awards",
+      "Awardsline",
+      "Diane Warren",
+      "Hollywood Music in Media Awards",
+      "La Bola Negra",
+      "Ludwig Göransson",
+      "novid",
+      "Taylor Swift"
+    ]
+  },
+  {
+    "id": "26556fcea3e7273eb821a400bd5c93b7b6742540f7bc6bedbe4b41d2f3e1bba4",
+    "title": "Taylor Swift & Jack Antonoff, Ludwig Göransson Win at 2026 Hollywood Music in Media Awards: Full Winners List",
+    "summary": "And so the long march to the Oscars begins.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/lists/2026-hollywood-music-in-media-awards-full-winners-list",
+    "published_at": "2026-11-19T06:00:00+00:00",
+    "image_url": "https://www.billboard.com/wp-content/uploads/2026/06/taylor-swift-2026-toy-story-5-premiere-billboard-1800.jpg?w=237&h=147&crop=1",
+    "collection_timestamp": "2026-11-19T07:08:06.568983+00:00",
+    "thin": false,
+    "author": "Paul Grein",
+    "tags": [
+      "Awards",
+      "Music",
+      "hollywood music in media awards"
+    ]
+  },
+  {
     "id": "9f2208d82fb425a78f7522bc8c6d2443a441bf7dab5fb4fd2dc26aa352f38393",
     "title": "2026 CMA Awards Performances, Ranked",
     "summary": "As Ella Langley dominated the CMA Awards' winners circle, Billboard looks at the night's performances.",
@@ -383,7 +464,7 @@
     "source": "Rolling Stone",
     "url": "https://www.rollingstone.com/music/music-country/taylor-swift-cma-awards-performance-1235656541",
     "published_at": "2026-11-19T02:26:31+00:00",
-    "image_url": null,
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/taylor-perform-cma.jpg?crop=0px%2C16px%2C1800px%2C1014px&resize=1600%2C900",
     "collection_timestamp": "2026-11-19T05:59:06.188095+00:00",
     "thin": false,
     "author": "Maya Georgi",
@@ -402,7 +483,7 @@
     "source": "Rolling Stone",
     "url": "https://www.rollingstone.com/music/music-country/ella-langley-sings-loving-life-again-2026-cma-awards-1235659276",
     "published_at": "2026-11-19T02:04:53+00:00",
-    "image_url": null,
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/ella-performs-cma.jpg?crop=0px%2C83px%2C1800px%2C1014px&resize=1600%2C900",
     "collection_timestamp": "2026-11-19T05:59:06.188220+00:00",
     "thin": false,
     "author": "Marissa Moss",
@@ -421,7 +502,7 @@
     "source": "Rolling Stone",
     "url": "https://www.rollingstone.com/music/music-country/watch-mumford-sons-chris-stapleton-here-cma-1235660385",
     "published_at": "2026-11-19T01:56:02+00:00",
-    "image_url": null,
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/mumford-chris.jpg?crop=0px%2C35px%2C1800px%2C1014px&resize=1600%2C900",
     "collection_timestamp": "2026-11-19T05:59:06.188337+00:00",
     "thin": false,
     "author": "Jonathan Bernstein",
@@ -5558,286 +5639,6 @@
       "controversy",
       "courts and crime",
       "Russell Brand"
-    ]
-  },
-  {
-    "id": "e21b395c10676aae05c0c83c968d79ec3d2d24d9f19f7928454475d75560685b",
-    "title": "Taylor Swift To Perform At CMA Awards For First Time In 13 Years",
-    "summary": "UPDATED: Taylor Swift will perform live at the 60th CMA Awards, returning to the stage for the first time since 2013, the Country Music Association announced Friday morning. A two-time CMA Entertainer of the Year, Swift is nominated this year for Single of the Year with “I Knew It, I Knew You,” marking her 26th [&#8230;]",
-    "category": "entertainment",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/cma-awards-performers-ella-langley-taylor-swift-1237213808",
-    "published_at": "2026-11-13T15:20:00+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2166919080.jpg",
-    "collection_timestamp": "2026-11-13T15:54:59.783321+00:00",
-    "thin": false,
-    "author": "Denise Petski",
-    "tags": [
-      "News",
-      "ABC",
-      "CMA Awards",
-      "Country Music Association",
-      "The 60th Annual CMA Awards"
-    ]
-  },
-  {
-    "id": "9f77614a24f879399fd771c255da1fedb4a158b1aaaaa0a537d293b13cd32e69",
-    "title": "Taylor Swift Sets First CMA Awards Performance in 13 Years",
-    "summary": "The singer-songwriter’s Toy Story 5 soundtrack song, “I Knew It, I Knew You,” is nominated for Single of the Year",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-news/taylor-swift-will-perform-2026-cma-awards-1235657442",
-    "published_at": "2026-11-13T15:06:04+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.790174+00:00",
-    "thin": false,
-    "author": "Larisha Paul",
-    "tags": [
-      "Music",
-      "Music News",
-      "CMA Awards",
-      "Taylor Swift"
-    ]
-  },
-  {
-    "id": "986cfe01491487ea8fc0a6c83e2ba672b060fbce893ad26174c63c07aa5465de",
-    "title": "Queen Latifah’s Full-Circle Moment: How the Rock Hall Honoree Is Giving Back to New Jersey",
-    "summary": "The rap pioneer reflects on her upcoming Rock &#38; Roll Hall of Fame induction and her mission to uplift her hometown in the new documentary, You Can Go Home Again .",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/rb-hip-hop/queen-latifah-rock-hall-you-can-go-home-doc-interview-1236378188",
-    "published_at": "2026-11-13T15:00:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.787930+00:00",
-    "thin": false,
-    "author": "Carl Lamarre",
-    "tags": [
-      "Music",
-      "R&B/Hip-Hop",
-      "genrehiphop"
-    ]
-  },
-  {
-    "id": "538779e8727d41048379cf871cbcb17205f65aa5a98beeef78edfaff061b4d08",
-    "title": "Taylor Swift to Perform at CMA Awards for First Time in 13 Years",
-    "summary": "The pop superstar is in the running for the single of the year award.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/awards/taylor-swift-perform-cma-awards-2026-1236381663",
-    "published_at": "2026-11-13T14:38:19+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.788085+00:00",
-    "thin": false,
-    "author": "Jessica Nicholson",
-    "tags": [
-      "Awards",
-      "Music",
-      "CMA Awards",
-      "genre country",
-      "Music News"
-    ]
-  },
-  {
-    "id": "6e292fcf85275bc9b127d59dc9d1956c50c80f268d16fdc44f5819b5882d71f6",
-    "title": "Gerry Griffith, Whitney Houston Discoverer, Dead at 87",
-    "summary": "The former Arista Records A&#38;R vp also worked with Aretha Franklin, Dionne Warwick &#38; Carlos Santana.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/pro/gerry-griffith-dead-at-87",
-    "published_at": "2026-11-13T14:18:46+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.788238+00:00",
-    "thin": false,
-    "author": "Ariel King",
-    "tags": [
-      "Business",
-      "Business News",
-      "genre jazz",
-      "genre pop",
-      "genre rb",
-      "Music News"
-    ]
-  },
-  {
-    "id": "8596d083fcc18566996e6255bb409a93a363b77a890df2e29b33349a6346a555",
-    "title": "HUNTR/X Hitting the Road for 2027 KPop Demon Hunters Golden World Tour: See Dates",
-    "summary": "Animated characters Rumi, Mira and Zoey will come to life in the show that will also feature live-action stunts and performers and fan-favorite songs.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/culture/tv-film/huntrx-2027-kpop-demon-hunters-golden-world-tour-dates-1236381638",
-    "published_at": "2026-11-13T14:05:37+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.788405+00:00",
-    "thin": false,
-    "author": "Gil Kaufman",
-    "tags": [
-      "Culture",
-      "TV/Film",
-      "Music News",
-      "netflix",
-      "tour"
-    ]
-  },
-  {
-    "id": "00315a0fed201d59821774adfbfcf661147d395f209bafd332aa9bbb77bc97ac",
-    "title": "Watch Peppa Pig Celebrate Baby Evie’s First Christmas With Merry Music Video From ‘Festive Fun’ Album",
-    "summary": "The four-song project, including \"What We Love About Christmas,\" comes ahead of Festive Fun With Peppa arriving in theaters this weekend.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/pop/peppa-pig-christmas-album-music-video-festive-fun-1236379686",
-    "published_at": "2026-11-13T14:00:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.788585+00:00",
-    "thin": false,
-    "author": "Katie Atkinson",
-    "tags": [
-      "Music",
-      "Pop",
-      "Billboard Family",
-      "christmas",
-      "holiday",
-      "Music News",
-      "peppa pig"
-    ]
-  },
-  {
-    "id": "c81473f35eda7666336df2035cdd934057b230ca2eac1b2af8cd0deeb542b9d8",
-    "title": "Laufey’s Cozy Cover of ‘Have Yourself a Merry Little Christmas’ Warms Up Snowy ’12 Days of Snoopy’ Clip",
-    "summary": "Snoopy Presents: 12 Days of Snoopy -- which also includes original songs from John Legend &#38; Kamasi Washington -- arrives Friday on Apple TV.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/culture/tv-film/laufey-have-yourself-a-merry-little-christmas-snoopy-clip-1236380525",
-    "published_at": "2026-11-13T14:00:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.788761+00:00",
-    "thin": false,
-    "author": "Katie Atkinson",
-    "tags": [
-      "Culture",
-      "TV/Film",
-      "apple tv",
-      "Billboard Family",
-      "Music News",
-      "peanuts"
-    ]
-  },
-  {
-    "id": "9362de82de4bbba6ad3cdda7bac117f71bf0f2a900c61fc67585702ceb942792",
-    "title": "MC Lyte ‘Tickled Pink’ by Rock & Roll Hall of Fame Induction",
-    "summary": "She joins Queen Latifah, Celia Cruz, Fela Kuti &#38; Gram Parsons as early influence honorees.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/rb-hip-hop/mc-lyte-rock-roll-hall-fame-induction-interview-1236381596",
-    "published_at": "2026-11-13T14:00:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.788923+00:00",
-    "thin": false,
-    "author": "Gail Mitchell",
-    "tags": [
-      "Music",
-      "R&B/Hip-Hop",
-      "genre hiphop",
-      "genre rb"
-    ]
-  },
-  {
-    "id": "15d83b3b46f27fcfd562afdcf2532554e2e9623422686ae72ec37c1f200b8476",
-    "title": "Blink-182, Bring Me the Horizon, Turnstile, Motley Crue and The Prodigy to Headline 2027 Download Festival",
-    "summary": "The 24th edition of the event will take place at Donington Park in Leicestershire, England from June 9-13.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/concerts/2027-download-festival-blink-182-evanescence-turnstile-lineup-1236381601",
-    "published_at": "2026-11-13T13:24:32+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.789093+00:00",
-    "thin": false,
-    "author": "Gil Kaufman",
-    "tags": [
-      "Concerts",
-      "Music",
-      "Billboard UK",
-      "festival",
-      "genre rock",
-      "Music News"
-    ]
-  },
-  {
-    "id": "abd35d7f5e7f52af033b390e673809f24d272537526fc01f4337a396a214e9d4",
-    "title": "Pearl Jam’s Mike McCready Debuts ‘Farewell to Seasons’ Title Track, an Ode to Seattle’s Music Scene",
-    "summary": "The musician released the single alongside an animated music video directed by Cyrus Entezam",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-news/pearl-jam-mike-mccready-farewell-to-seasons-title-track-1235657381",
-    "published_at": "2026-11-13T13:03:44+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.790349+00:00",
-    "thin": false,
-    "author": "Charisma Madarang",
-    "tags": [
-      "Music",
-      "Music News",
-      "Mike McCready",
-      "Pearl Jam"
-    ]
-  },
-  {
-    "id": "bedec8332652870c656fcc459eb43990d5257596425cc89573a3fc5043aa4055",
-    "title": "Ron Wood to Play Rare U.S. Solo Concert at New York’s Beacon Theatre",
-    "summary": "“Now that the Stones have got a little sabbatical,” Wood says. “I’m making the most of it and keeping my chops together, using my fingers, and getting the blood running”",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-news/ron-wood-solo-concert-beacon-theatre-1235657068",
-    "published_at": "2026-11-13T13:00:52+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.790541+00:00",
-    "thin": false,
-    "author": "Andy Greene",
-    "tags": [
-      "Music",
-      "Music News",
-      "Rolling Stones",
-      "Ron Wood"
-    ]
-  },
-  {
-    "id": "08428264c230ee15b4503083f0be4eb520d532d1992d8c58560aea0dfd2be738",
-    "title": "Post Malone Gets a New Collectible Figure With Three Variants, Including an Ultra-Rare Chrome Edition: Shop Here",
-    "summary": "Thrilljoy makes its celebrity collaboration debut with a limited-edition Post Malone vinyl collectible featuring three models, including a rare chrome figure with only one in existence. Shop now.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/culture/product-recommendations/post-malone-collectible-figure-extremely-rare-shop-online-1236380598",
-    "published_at": "2026-11-13T13:00:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.789287+00:00",
-    "thin": false,
-    "author": "Sophie Dunne",
-    "tags": [
-      "Culture",
-      "Product Recommendations",
-      "collectibles",
-      "NOADS",
-      "shopping"
-    ]
-  },
-  {
-    "id": "f7d992e8ca118f4de3b3a89033eadf431e33ee217835415584deccd51bfac268",
-    "title": "Sombr, Jamiroquai, Kings of Leon & More to Perform at The O2 Arena’s 20th Anniversary Celebrations: See Full Lineup",
-    "summary": "Maisie Peters will kick off the celebrations in May 2027.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/lists/o2-20th-anniversary-celebration-lineup-concerts",
-    "published_at": "2026-11-13T12:54:37+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.789451+00:00",
-    "thin": false,
-    "author": "Thomas Smith",
-    "tags": [
-      "Music",
-      "Music News",
-      "Billboard UK",
-      "Live",
-      "The O2",
-      "Touring"
     ]
   }
 ]

@@ -1,5 +1,41 @@
 [
   {
+    "id": "cd672c931b5af6b047daadafcfd00d155efde6f7874192f3b7265befb5a6c544",
+    "title": "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
+    "summary": "Takaichi received a subdued welcome on her trip to attend the APEC summit, as Beijing shows limited appetite for repairing ties strained by Taiwan dispute.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html",
+    "published_at": "2026-11-19T06:39:53+00:00",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108554895-1795063172662-gettyimages-2305255397-AFP_D7X963Y.jpeg?v=1795063183&w=1920&h=1080",
+    "collection_timestamp": "2026-11-19T07:08:06.576047+00:00",
+    "thin": false
+  },
+  {
+    "id": "35d46609c95e5fa0a08a2ac58ec43b7178a79360df5721b967cace1883c316cd",
+    "title": "Trump holds talks separately with Putin and Xi ahead of their historic trilateral meeting",
+    "summary": "U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
+    "published_at": "2026-11-19T06:29:34+00:00",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108554923-1795068346389-gettyimages-2305268004-AFP_D7XJ9WY.jpeg?v=1795068686&w=1920&h=1080",
+    "collection_timestamp": "2026-11-19T07:08:06.575927+00:00",
+    "thin": false
+  },
+  {
+    "id": "961cc697c3d4cece0daca3afd9717be2f5582cd9a7385bd8f7e329af8a54a193",
+    "title": "Musk accuses Zelenskyy of lying about Starshield restrictions in Ukraine",
+    "summary": "Elon Musk was asked about Zelenskyy claims over the Starshield network, and he said, \"I don't want to blow your mind, but Zelenskyy is not always truthful.\"",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/elon-musk-zelenskyy-starshield-ukraine.html",
+    "published_at": "2026-11-19T06:07:29+00:00",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108554743-1795041818068-gettyimages-2305777177-gry01697_cnhezrcf.jpeg?v=1795041926&w=1920&h=1080",
+    "collection_timestamp": "2026-11-19T07:08:06.575801+00:00",
+    "thin": false
+  },
+  {
     "id": "92b8aff99696f094baa624b5d7a1bf7c16ae82340036f57aa16ebf4db953362b",
     "title": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal",
     "summary": "Korean media, gaming and travel stocks surged on hopes of greater access to China.",
@@ -2298,102 +2334,6 @@
     "published_at": "2026-11-13T15:31:58+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-13T15:54:59.826614+00:00",
-    "thin": false
-  },
-  {
-    "id": "32f1f7efc5554638f88bfc207588a74729a50ab0e7c346960ce29038b2dc6073",
-    "title": "NHL’s next TV deal will test the league’s strength while media companies prepare for NFL rights increase",
-    "summary": "How do the world's biggest media companies judge the value of non-NFL rights? The NHL is giving us our first window into a new era in media values.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/13/nhls-next-media-deal-will-test-the-leagues-strength.html",
-    "published_at": "2026-11-13T15:04:10+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.828365+00:00",
-    "thin": false
-  },
-  {
-    "id": "e10fc60f2d9ddd1b03c3bc91c3e74ec21c9270f8cf2cf9a9fc01f2b640d202b9",
-    "title": "We're making 3 trades to adjust our consumer exposure after an analyst downgrade",
-    "summary": "We want to take protect gains heading into earnings results next week.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/11/13/were-making-3-trades-to-adjust-our-consumer-exposure-after-downgrade.html",
-    "published_at": "2026-11-13T14:59:57+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.828650+00:00",
-    "thin": false
-  },
-  {
-    "id": "e1b550e46383726a3228a21fe4ecf2c503db1295b75c8ccb321009319bf34799",
-    "title": "‘We will sue them’: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans",
-    "summary": "The dispute comes after Stellantis scrapped planned Jeep Compass production in Brampton and shifted future output to Illinois amid U.S. auto tariffs.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html",
-    "published_at": "2026-11-13T14:24:57+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.827929+00:00",
-    "thin": false
-  },
-  {
-    "id": "5598b0620bb1a54dc3c953846820ae9ae2184bf45614fc011db1ae8ba2cbaa5e",
-    "title": "Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation",
-    "summary": "The policymaker expressed concern about the latest inflation data, telling CNBC that the central bank likely will need to take action.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html",
-    "published_at": "2026-11-13T14:22:07+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.826758+00:00",
-    "thin": false
-  },
-  {
-    "id": "4e4494bc9e686cd027dee585fcfccad620b407aea88af08998582f1ed7d173e7",
-    "title": "Jensen Huang scandal casts doubt on Nvidia’s AI dominance — how we got here",
-    "summary": "Nvidia is facing its biggest crisis in its 33 year history, with founder Jensen Huang resigning as CEO. Here's the story of the rise and fall of Jensen Huang.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html",
-    "published_at": "2026-11-13T14:01:24+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.827641+00:00",
-    "thin": false
-  },
-  {
-    "id": "85df73f1d76270bf47391ccf7b90278302561d8a630bd8ee37c463437301f1d7",
-    "title": "CFTC Chair Selig tells CNBC crypto industry is embracing agency rules as legislation hopes fade",
-    "summary": "The top U.S. commodities regulator in October announced proposed crypto rules to assert its jurisdiction over the asset class.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/13/cftc-chair-selig-crypto-industry-opting-into-agencys-crypto-rules-.html",
-    "published_at": "2026-11-13T13:15:35+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.828211+00:00",
-    "thin": false
-  },
-  {
-    "id": "2d92e9f4b57a66e2c36a23e2ebdeb34a8ed2cba8af5f123d8a6fd838fb730a0e",
-    "title": "Trump says he wants to ‘get Cuba done’ before leaving office, would consider military force",
-    "summary": "It comes as the U.S. continues to enforce a comprehensive economic embargo against Cuba.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/13/trump-cuba-us-military-force-iran.html",
-    "published_at": "2026-11-13T13:04:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.827190+00:00",
-    "thin": false
-  },
-  {
-    "id": "5e24e4c950fb04f5972b7d485cf8fefe98fdfc9a23232ca652b3c354d5026eaf",
-    "title": "CNBC's Official NHL Team Valuations 2026: How the 32 franchises stack up",
-    "summary": "The average NHL team is worth $2.71 billion, 23% more than a year ago.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/13/cnbcs-official-nhl-team-valuations-2026-how-the-32-clubs-stack-up.html",
-    "published_at": "2026-11-13T12:47:16+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.827762+00:00",
     "thin": false
   }
 ]

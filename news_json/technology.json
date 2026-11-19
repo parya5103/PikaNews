@@ -1,5 +1,43 @@
 [
   {
+    "id": "cb8a7337777e5521b4ea61eb209ea210293a73a36b5a7b4c825b563b3a0cbc04",
+    "title": "What Happens When Documentary Makers Sell Their Footage to AI Aggregators?",
+    "summary": "Back in 2024, leading documentary film festival IDFA opened with Piotr Winiewicz’s “About a Hero,” a documentary that set out to test the premise of whether or not an AI model could conceive a Werner Herzog film. Back then, the film received some backlash for its use of the technology, with docmakers—including Herzog—openly rebuffing the [&#8230;]",
+    "category": "technology",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/global/docmakers-archive-sale-ai-training-dos-and-donts-1236951760",
+    "published_at": "2026-11-19T06:05:32+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2024/11/About-a-Hero-new.jpg",
+    "collection_timestamp": "2026-11-19T07:08:06.567694+00:00",
+    "thin": false,
+    "author": "Rafa Sales Ross",
+    "tags": [
+      "Global",
+      "News",
+      "AI",
+      "Documentaries to Watch",
+      "Idfa"
+    ]
+  },
+  {
+    "id": "ee367cae0e29b690e2fdd1b0cccdabe56cdb5142c3a8a7ed8cfa8f9450eb61a9",
+    "title": "Hila Klein Addresses Husband Ethan’s Alleged Affair: ‘My Whole Entire Life Just Shattered’",
+    "summary": "Last month, Hila accused Ethan of having a more than six-month-long affair with an unnamed person",
+    "category": "technology",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/culture/culture-news/hila-klein-husband-ethan-alleged-affair-1235660776",
+    "published_at": "2026-11-19T06:04:40+00:00",
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/Hila-Klein-controversy.jpg?w=1600&h=900&crop=1",
+    "collection_timestamp": "2026-11-19T07:08:06.569225+00:00",
+    "thin": false,
+    "author": "Charisma Madarang",
+    "tags": [
+      "(Sub)Culture News",
+      "Culture",
+      "Podcast"
+    ]
+  },
+  {
     "id": "0a22c6eb49f6f78b53b035b690a6b019fb2df4bc3e7aebbf2b1da69ea4018920",
     "title": "Metro by T-Mobile Is Offering a Free Samsung Smartphone for a Limited Time",
     "summary": "Sign up for Metro by T-Mobile and get a new Samsung Galaxy A37 5G at zero cost — no catches and no surprises.",
@@ -2390,105 +2428,6 @@
       "Speakers",
       "Tech",
       "Verge Shopping"
-    ]
-  },
-  {
-    "id": "9d3483dc08888fcf2ffccf2d265806c86c10ba7452341ac9341f8fd3515616c2",
-    "title": "Microsoft says email queues 'approaching normal levels' as Outlook issues persist",
-    "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
-    "category": "technology",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-    "published_at": "2026-11-13T15:10:20+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.826897+00:00",
-    "thin": false
-  },
-  {
-    "id": "fb0bbed621941492fcf2cf1d3f02f2ead04f67ccc675601c2d530ffbca9ca6aa",
-    "title": "Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test",
-    "summary": "Like Apple, Nvidia now faces its own transition away from a founder-led company. But experts say Jensen Huang’s central role could make replacing him difficult.",
-    "category": "technology",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html",
-    "published_at": "2026-11-13T15:03:10+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.827490+00:00",
-    "thin": false
-  },
-  {
-    "id": "6959bbc601aba067b395aab74a361990a425f792bb06b986ddde63e99bed4ccc",
-    "title": "Microsoft “Continuing To See Improvements” As Outlook Email, Other Services “Approaching Normal”",
-    "summary": "Microsoft says it is getting to the other side of a massive outage that took down Outlook email, Teams videoconferencing and other services Thursday. &#8220;We&#8217;re continuing to see improvements in service availability, with email queues significantly reduced and approaching normal levels,&#8221; the company posted Friday on an update page. &#8220;Some users may still experience intermittent [&#8230;]",
-    "category": "technology",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/microsoft-outlook-email-is-back-outage-recovery-1237222707",
-    "published_at": "2026-11-13T14:48:39+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Microsoft-office.jpg",
-    "collection_timestamp": "2026-11-13T15:54:59.783650+00:00",
-    "thin": false,
-    "author": "Dade Hayes",
-    "tags": [
-      "News",
-      "microsoft",
-      "microsoft 365",
-      "Microsoft outage",
-      "Microsoft Teams",
-      "outage",
-      "Outlook"
-    ]
-  },
-  {
-    "id": "effcef31a6c971199c1121077b1c10fe34aabd55c62dad68b3ae8ac592074c1b",
-    "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
-    "summary": "The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workaround to save you a few bucks on your digital copy. We found discounts on gift cards for both Sony PlayStation and Microsoft Xbox Series [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
-    "published_at": "2026-11-13T14:14:38-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T21:48:04.663925+00:00",
-    "thin": false,
-    "author": "Brad Bourque",
-    "tags": [
-      "Deals",
-      "Gadgets",
-      "Gaming",
-      "Verge Shopping"
-    ]
-  },
-  {
-    "id": "51bf448b15e9a3bb4e8b462552e5c19963ba06fd52fb0aa44deaad30c12a855e",
-    "title": "‘Broken and shattered’ Nvidia CEO Jensen Huang surrendered during resignation meeting, report claims — thousands of employees rally, calling for reinstatement on internal forum",
-    "summary": "&#32; submitted by &#32; /u/Mountain_Till_5868 &#32; to &#32; r/technology [link] &#32; [comments]",
-    "category": "technology",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/technology/comments/1xv8ixq/broken_and_shattered_nvidia_ceo_jensen_huang",
-    "published_at": "2026-11-13T13:56:22+00:00",
-    "image_url": "https://external-preview.redd.it/vsNLVdV7esgo9apmJNpn2lo5x8cijYAnuMkOAAJKFvM.png",
-    "collection_timestamp": "2026-11-13T21:48:04.716608+00:00",
-    "thin": false,
-    "author": "/u/Mountain_Till_5868https://www.reddit.com/user/Mountain_Till_5868",
-    "tags": [
-      "technology"
-    ]
-  },
-  {
-    "id": "ed679ef5eedd5488d4b999eb24d142a805682473bdf6d0a6393e895221398321",
-    "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
-    "summary": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like other trackball mice already available from companies like Logitech and Kensington with a 34mm ball positioned [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
-    "published_at": "2026-11-13T13:10:41-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T21:48:04.664098+00:00",
-    "thin": false,
-    "author": "Andrew Liszewski",
-    "tags": [
-      "Gadgets",
-      "News",
-      "Tech"
     ]
   }
 ]
