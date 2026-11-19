@@ -1,5 +1,185 @@
 [
   {
+    "id": "9347826177a246300b26c7eb40c467578109c5aa36e91992fe10afcd4beac717",
+    "title": "How Silicon Valley lost the public, with Crooked Media’s Jon Favreau",
+    "summary": "Today, I’m talking with Jon Favreau, a political commentator and cofounder of Crooked Media. You probably know Jon best from a little show called Pod Save America, which Jon started with a group of fellow Obama staffers in the wake of Donald Trump’s election in 2016. It’s now one of the most popular podcasts in [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/1036484/jon-favreau-pod-save-america-offline-crooked-media-trump-big-tech-ai-2028-election",
+    "published_at": "2026-11-19T10:00:00-05:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Jon-Favreau.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-19T15:14:54.237741+00:00",
+    "thin": false,
+    "author": "Nilay Patel",
+    "tags": [
+      "Decoder",
+      "Podcasts",
+      "Policy",
+      "Politics",
+      "Tech"
+    ]
+  },
+  {
+    "id": "6dabcba9f9f02d70963de433df515d50a7fa9a472435ec05d31549504f37345b",
+    "title": "The Analogue 3D can now update itself over Wi-Fi",
+    "summary": "Analogue has long been good at expanding the features and functionality of its consoles through regular firmware updates, but installing those updates has always required moving files around with a memory card. That's no longer the case with the Analogue 3D, the company's modernized version of the Nintendo 64. Although the console has had Wi-Fi [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1037552/analogue-3d-nintendo-64-console-wi-fi-activated-automatic-updates",
+    "published_at": "2026-11-19T09:32:33-05:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257891_Analogue_3D_AKrales_0002.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-19T15:14:54.238016+00:00",
+    "thin": false,
+    "author": "Andrew Liszewski",
+    "tags": [
+      "Gadgets",
+      "Gaming",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "73a555de7f3226b4c94665350ffdc119de3064bd443c2b1ee890d0b3462fccfc",
+    "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
+    "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea that it prioritized safety [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+    "published_at": "2026-11-19T09:25:37-05:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-19T15:14:54.238287+00:00",
+    "thin": false,
+    "author": "Hayden Field",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Policy",
+      "Report"
+    ]
+  },
+  {
+    "id": "c7f0755d877e5f8ed0d85ed11513e81851203eeb9475d7e02ec000886cd3566e",
+    "title": "The wait begins for GTA VI on PC",
+    "summary": "Grand Theft Auto VI is finally here for millions of players who own a PlayStation 5 or Xbox Series X / S, and those who plan to buy a console, despite rising costs this year, just to play it. As you have likely already noticed, the launch is inescapable, and that's especially tough if you're [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/1036550/grand-theft-auto-6-gta-vi-pc-version-fomo",
+    "published_at": "2026-11-19T09:00:00-05:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GTAVI-15-copy.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-19T15:14:54.238521+00:00",
+    "thin": false,
+    "author": "Cameron Faulkner",
+    "tags": [
+      "Analysis",
+      "Entertainment",
+      "Gaming",
+      "PC Gaming",
+      "Report"
+    ]
+  },
+  {
+    "id": "eb85f45f407677f79f93a99ace260f2e7a80a3b764664091f7802710efbb2eec",
+    "title": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
+    "summary": "Google is teaming up with Jeff Bezos' Blue Origin to launch its AI server satellites. The companies announced on Thursday that Blue Origin's New Glenn rocket will shuttle satellites equipped with Google's Tensor Processing Units (TPUs) into space in the first quarter of 2029. The partnership is part of Google's Project Suncatcher, a moonshot plan [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
+    "published_at": "2026-11-19T08:53:38-05:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/project-suncatcher-logo.png?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-19T15:14:54.238794+00:00",
+    "thin": false,
+    "author": "Emma Roth",
+    "tags": [
+      "Blue Origin",
+      "Google",
+      "News",
+      "Science",
+      "Space",
+      "Tech"
+    ]
+  },
+  {
+    "id": "37c2ca2ab9b18ae4ffef0c3d83a2c0ba8e8fdb7bc48f56a57bb4417d30aab79b",
+    "title": "Grand Theft Auto VI understands just how important a smartphone is",
+    "summary": "Grand Theft Auto VI, in many ways, tries to simulate real life. And life in 2026 would not be complete without a smartphone. GTA VI understands this and makes the phone not just a central part of the experience, but an object that exists within the world. You may try to escape into a fantasy [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1037106/grand-theft-auto-6-smartphone",
+    "published_at": "2026-11-19T08:30:00-05:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a1ef06931b17-screenshotUrl.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-19T15:14:54.239075+00:00",
+    "thin": false,
+    "author": "Andrew Webster",
+    "tags": [
+      "Analysis",
+      "Entertainment",
+      "Gaming",
+      "Report"
+    ]
+  },
+  {
+    "id": "baf79f967f0f68f3343e4d4d8d4761b45d79b3eee48c22c416db3cc92ed59ba5",
+    "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+    "summary": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+    "published_at": "2026-11-19T08:00:00-05:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268874_siri_recaps_AKrales_0070.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-19T15:14:54.239361+00:00",
+    "thin": false,
+    "author": "Victoria Song",
+    "tags": [
+      "AI",
+      "Apple",
+      "Gadgets",
+      "Hands-on",
+      "Reviews",
+      "Smartwatch",
+      "Smartwatch Reviews",
+      "Tech",
+      "Wearable"
+    ]
+  },
+  {
+    "id": "7e8a35d0b306e1b439c965b4406d98a698b620c0bcf94fd315950b475dc85b95",
+    "title": "Canva adds an AI ‘off’ button",
+    "summary": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot. This toggle doesn't turn off every AI-powered [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+    "published_at": "2026-11-19T07:30:00-05:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-19T15:14:54.239609+00:00",
+    "thin": false,
+    "author": "Emma Roth",
+    "tags": [
+      "AI",
+      "Apps",
+      "Creators",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "b6ec3c6d6b6b9192db3d50f1f4f42332d26084eb1fe2e3d861357d2831754d2b",
+    "title": "Roblox money is pushing a controversial anorexia treatment",
+    "summary": "In a dark room, a man with a camera makes his pitch: Therapy isn't the first treatment you should get if you have anorexia or bulimia, he says. He's in his late 20s, wearing a backward camo baseball cap and a silver chain. \"Instead of going straight to the therapy, let's do a keto diet [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/features/1034740/ketogenic-diet-anorexia-roblox-medical-funding",
+    "published_at": "2026-11-19T07:00:00-05:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Keto_Anorexia_Lede_B_v2.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-19T15:14:54.239840+00:00",
+    "thin": false,
+    "author": "Arielle Duhaime-Ross",
+    "tags": [
+      "Features",
+      "Health",
+      "Science"
+    ]
+  },
+  {
     "id": "cb8a7337777e5521b4ea61eb209ea210293a73a36b5a7b4c825b563b3a0cbc04",
     "title": "What Happens When Documentary Makers Sell Their Footage to AI Aggregators?",
     "summary": "Back in 2024, leading documentary film festival IDFA opened with Piotr Winiewicz’s “About a Hero,” a documentary that set out to test the premise of whether or not an AI model could conceive a Werner Herzog film. Back then, the film received some backlash for its use of the technology, with docmakers—including Herzog—openly rebuffing the [&#8230;]",
@@ -2349,63 +2529,6 @@
       "Mass Transit",
       "News",
       "Transportation"
-    ]
-  },
-  {
-    "id": "f2d4fd16391c6939bab92bdd5bed371402ffebbb28d998b05d8f5c62ba8b74f6",
-    "title": "Amazon has a plan to index the world’s online shopping data",
-    "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\" is meant to make it less likely that shoppers leave Amazon to do their [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-    "published_at": "2026-11-13T18:49:11-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-14T01:58:21.249834+00:00",
-    "thin": false,
-    "author": "Stevie Bonifield",
-    "tags": [
-      "AI",
-      "Amazon",
-      "News",
-      "Online Shopping",
-      "Tech"
-    ]
-  },
-  {
-    "id": "0d686629efe93d59a5ee613d1dd82da42b421511855a4eb569ed57d838b2dd04",
-    "title": "FAA ground stop shuts down flights nationwide",
-    "summary": "Takeoffs from airports throughout the US paused on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety.\" US Transportation Secretary Sean Duffy tweeted: The FAA issued a nationwide ground stop for all U.S. airports following a communication issue impacting all Air Route Traffic Control Centers. FAA [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
-    "published_at": "2026-11-13T16:38:25-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T21:48:04.663366+00:00",
-    "thin": false,
-    "author": "Richard Lawler",
-    "tags": [
-      "Mass Transit",
-      "News",
-      "Transportation"
-    ]
-  },
-  {
-    "id": "8df035f3bee2e8e50491e55b32feeff6f232927cc69f51972ffa855eb71856cd",
-    "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-    "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-    "published_at": "2026-11-13T15:45:10-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T21:48:04.663560+00:00",
-    "thin": false,
-    "author": "Stevie Bonifield",
-    "tags": [
-      "AI",
-      "News",
-      "OpenAI",
-      "Tech"
     ]
   }
 ]
