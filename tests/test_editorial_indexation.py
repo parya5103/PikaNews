@@ -126,3 +126,15 @@ def test_original_editorial_page_uses_editorial_body_and_does_not_claim_third_pa
     assert "Third-party source" not in page
     assert "Read Original at" not in page
     assert "Collected" not in page
+
+
+
+def test_dynamic_article_fallback_keeps_aggregated_items_noindex_without_newsarticle_schema():
+    from pathlib import Path
+
+    fallback = (Path(__file__).resolve().parents[1] / "frontend" / "article.html").read_text(encoding="utf-8")
+    assert "function isIndexableOriginalEditorial(article)" in fallback
+    assert "indexableEditorial ? 'index, follow' : 'noindex, follow'" in fallback
+    assert "if (indexableEditorial) injectArticleSchema(article)" in fallback
+    assert "if (!isIndexableOriginalEditorial(article)) return;" in fallback
+    assert "article.editorial_content" in fallback
