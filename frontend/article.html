@@ -40,7 +40,7 @@
     <header class="header">
         <div class="header-container">
             <button id="mobile-menu-toggle" class="mobile-menu-toggle" aria-label="Toggle menu"><span class="hamburger"></span></button>
-            <a href="index.html" class="logo"><img src="images/pikanews-logo.svg" alt="PikaNews Logo" class="logo-img"><span class="logo-text">Pika<span class="logo-accent">News</span></span></a>
+            <a href="index.html" class="logo"><img src="images/pikanews-logo.svg" alt="PikaNews Logo" class="logo-img" width="40" height="40"><span class="logo-text">Pika<span class="logo-accent">News</span></span></a>
             <nav class="main-nav"><ul class="nav-list">
                 <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
                 <li class="nav-item"><a href="latest.html" class="nav-link">Latest</a></li>
@@ -85,24 +85,38 @@
             if (el) el.setAttribute(attr, value);
         }
 
+        function isIndexableOriginalEditorial(article) {
+            const body = String(article.editorial_content || '').trim();
+            const published = Date.parse(article.published_at || '');
+            return article.content_type === 'original_editorial'
+                && article.editorial_reviewed === true
+                && body.length >= 1200
+                && Boolean(String(article.author || '').trim())
+                && ['Person', 'Organization'].includes(article.author_type)
+                && Number.isFinite(published);
+        }
+
         function injectArticleSchema(article) {
-            // Per-article structured data, built only from real collected fields.
+            // Never mark third-party RSS excerpts as PikaNews NewsArticle reporting.
+            if (!isIndexableOriginalEditorial(article)) return;
+            // Per-article structured data, built only from approved editorial fields.
             const canonical = 'https://gogocompany.in/pikanews/article.html?id=' + encodeURIComponent(article.id);
             const schema = {
                 '@context': 'https://schema.org',
                 '@type': 'NewsArticle',
                 headline: article.title,
                 datePublished: article.published_at || undefined,
-                dateModified: article.published_at || undefined,
+                dateModified: (article.modified_at && Date.parse(article.modified_at) >= Date.parse(article.published_at)) ? article.modified_at : undefined,
                 mainEntityOfPage: { '@type': 'WebPage', '@id': canonical },
                 image: article.image_url ? [article.image_url] : undefined,
-                description: article.summary || undefined,
+                description: article.editorial_content.slice(0, 160) || undefined,
                 publisher: {
                     '@type': 'Organization',
                     name: 'PikaNews',
                     url: 'https://gogocompany.in/pikanews/'
                 },
-                isBasedOn: article.url || undefined
+                author: { '@type': article.author_type, name: article.author },
+                isBasedOn: undefined
             };
             const breadcrumb = {
                 '@context': 'https://schema.org',
@@ -122,6 +136,7 @@
             const articleDetail = document.getElementById('article-detail');
             const categoryColor = Utils.getCategoryColor(article.category);
             const canonical = 'https://gogocompany.in/pikanews/article.html?id=' + encodeURIComponent(article.id);
+            const indexableEditorial = isIndexableOriginalEditorial(article);
 
             articleDetail.innerHTML = `
                 <nav class="breadcrumbs" aria-label="Breadcrumb">
@@ -139,7 +154,7 @@
                     <div class="article-meta">
                         <div class="article-meta-item">
                             <svg class="article-meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
-                            <span>${Utils.escapeHtml(article.source || 'Unknown')}</span>
+                            <span>${Utils.escapeHtml(indexableEditorial ? 'PikaNews Editorial' : (article.source || 'Unknown'))}</span>
                         </div>
                         <div class="article-meta-item">
                             <svg class="article-meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
@@ -151,7 +166,7 @@
                                 <span>${Utils.escapeHtml(article.author)}</span>
                             </div>
                         ` : ''}
-                        ${article.collection_timestamp ? `
+                        ${!indexableEditorial && article.collection_timestamp ? `
                             <div class="article-meta-item">
                                 <svg class="article-meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
                                 <span>Collected by PikaNews: ${Utils.escapeHtml(Utils.formatDate(article.collection_timestamp))}</span>
@@ -160,19 +175,18 @@
                     </div>
                 </div>
 
-                ${article.image_url ? `<img src="${Utils.escapeHtml(article.image_url)}" alt="${Utils.escapeHtml(article.title)}" class="article-image" onerror="this.onerror=null;this.src='images/pikanews-logo.svg'">` : ''}
+                ${article.image_url ? `<img src="${Utils.escapeHtml(article.image_url)}" alt="${Utils.escapeHtml(article.title)}" class="article-image" width="1200" height="675" loading="eager" fetchpriority="high" decoding="async" onerror="this.onerror=null;this.src='images/pikanews-logo.svg'">` : ''}
 
                 <div class="article-body">
-                    <p>${Utils.escapeHtml(article.summary || 'No excerpt available. Open the original story for the full report.')}</p>
+                    <p>${Utils.escapeHtml((isIndexableOriginalEditorial(article) ? article.editorial_content : article.summary) || 'No excerpt available. Open the original story for the full report.')}</p>
                 </div>
 
                 <div class="article-footer">
-                    <div class="article-source">
-                        <span class="source-tag">Third-party source</span>
-                        <span>Originally published by <strong>${Utils.escapeHtml(article.source || 'Unknown')}</strong>
-                        ${article.url ? `- <a href="${Utils.escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer">read the full report at ${Utils.escapeHtml(Utils.getDomain(article.url))} &#8599;</a>` : ''}
-                        </span>
-                    </div>
+                    ${indexableEditorial
+                        ? '<div class="article-source"><span class="source-tag">PikaNews Editorial</span><span>Original editorial content reviewed by the PikaNews editorial desk.</span></div>'
+                        : `<div class="article-source"><span class="source-tag">Third-party source</span><span>Originally published by <strong>${Utils.escapeHtml(article.source || 'Unknown')}</strong>
+                            ${article.url ? `- <a href="${Utils.escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer">read the full report at ${Utils.escapeHtml(Utils.getDomain(article.url))} &#8599;</a>` : ''}
+                        </span></div>`}
                     <div class="article-actions">
                         <button class="article-action-btn ${isBookmarked(article.id) ? 'bookmarked' : ''}" onclick="toggleBookmark('${article.id}')">
                             <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
@@ -194,12 +208,14 @@
                             <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
                             <span>Copy link</span>
                         </button>
-                        <a href="${Utils.escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer" class="article-action-btn">
-                            <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+                        ${!indexableEditorial && article.url ? `<a href="${Utils.escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer" class="article-action-btn">
+                            <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2-2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
                             <span>Read Original</span>
-                        </a>
+                        </a>` : ''}
                     </div>
-                    <p class="editorial-note">PikaNews aggregates headlines and short excerpts from third-party publishers and always links to the original report. This excerpt is not original reporting by PikaNews; the full story, photographs and copyright remain with the publisher above. See our <a href="sources.html">News Sources &amp; Disclaimer</a>.</p>
+                    ${indexableEditorial
+                        ? '<p class="editorial-note">Original editorial content by PikaNews. See our <a href="editorial-policy.html">Editorial &amp; Corrections Policy</a>.</p>'
+                        : '<p class="editorial-note">PikaNews aggregates headlines and short excerpts from third-party publishers. This excerpt is not original reporting by PikaNews; the full story, photographs and copyright remain with the publisher above. See our <a href="sources.html">News Sources &amp; Disclaimer</a>.</p>'}
                 </div>
             `;
 
@@ -219,15 +235,15 @@
             document.title = article.title + ' - PikaNews';
             setMetaAttribute('link[rel="canonical"]', 'href', canonical);
             setMetaAttribute('meta[property="og:title"]', 'content', article.title);
-            setMetaAttribute('meta[property="og:description"]', 'content', Utils.truncate(article.summary, 150) || 'Read the full story on PikaNews.');
+            setMetaAttribute('meta[property="og:description"]', 'content', Utils.truncate(indexableEditorial ? article.editorial_content : article.summary, 150) || 'Read the full story on PikaNews.');
             setMetaAttribute('meta[property="og:url"]', 'content', canonical);
             if (article.image_url) {
                 setMetaAttribute('meta[property="og:image"]', 'content', article.image_url);
                 setMetaAttribute('meta[name="twitter:image"]', 'content', article.image_url);
             }
             setMetaAttribute('meta[name="twitter:title"]', 'content', article.title);
-            setMetaAttribute('meta[name="robots"]', 'content', 'index, follow');
-            injectArticleSchema(article);
+            setMetaAttribute('meta[name="robots"]', 'content', indexableEditorial ? 'index, follow' : 'noindex, follow');
+            if (indexableEditorial) injectArticleSchema(article);
         }
 
         // Deterministic slug - must match scripts/generate_article_pages.py.
@@ -294,7 +310,7 @@
                 relatedEl.innerHTML = articles.map(article => `
                     <div class="news-card" style="--category-color: ${Utils.getCategoryColor(article.category)}">
                         <div class="news-card-image">
-                            ${article.image_url ? `<img src="${Utils.escapeHtml(article.image_url)}" alt="${Utils.escapeHtml(article.title)}" loading="lazy">` : `<div class="news-card-placeholder"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 9h6v6H9z"/></svg></div>`}
+                            ${article.image_url ? `<img src="${Utils.escapeHtml(article.image_url)}" alt="${Utils.escapeHtml(article.title)}" width="640" height="360" loading="lazy" decoding="async">` : `<div class="news-card-placeholder"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M9 9h6v6H9z"/></svg></div>`}
                             <span class="news-card-category" style="background-color: var(--category-color);">${Utils.escapeHtml(article.category)}</span>
                         </div>
                         <div class="news-card-content">

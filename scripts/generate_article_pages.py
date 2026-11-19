@@ -42,6 +42,7 @@ MAX_ARTICLES = 300          # keep the generated set small and fresh
 MAX_RELATED = 4
 MIN_TITLE_LEN = 20
 MIN_SUMMARY_LEN = 40
+MIN_EDITORIAL_CONTENT_LEN = 1200
 
 CATEGORY_COLORS = {
     "bollywood": "#ec4899",
@@ -73,11 +74,32 @@ def is_thin(article):
     scripts/fetch_news.py normalize_article().
     """
     title = article.get("title") or ""
-    summary = article.get("summary") or ""
-    if article.get("thin") is True:
+    original_editorial = article.get("content_type") == "original_editorial"
+    body = (article.get("editorial_content") if original_editorial else article.get("summary")) or ""
+    if article.get("thin") is True and not original_editorial:
         return True
-    return len(title.strip()) < MIN_TITLE_LEN or len(summary.strip()) < MIN_SUMMARY_LEN
+    minimum = MIN_EDITORIAL_CONTENT_LEN if original_editorial else MIN_SUMMARY_LEN
+    return len(title.strip()) < MIN_TITLE_LEN or len(str(body).strip()) < minimum
 
+
+def is_original_editorial(article):
+    """Only reviewed, substantial PikaNews-authored work qualifies as original editorial."""
+    if not isinstance(article, dict):
+        return False
+    content = article.get("editorial_content") or ""
+    return (
+        article.get("content_type") == "original_editorial"
+        and article.get("editorial_reviewed") is True
+        and len(str(content).strip()) >= MIN_EDITORIAL_CONTENT_LEN
+        and bool(str(article.get("author") or "").strip())
+        and article.get("author_type") in ("Person", "Organization")
+        and parse_iso(article.get("published_at")) is not None
+    )
+
+
+def is_indexable_article(article):
+    """Aggregated RSS excerpts remain accessible but are not indexable articles."""
+    return not is_thin(article) and is_original_editorial(article)
 
 def load_removed_hashes():
     """Hashes of admin-removed articles (tombstones). Restore removes them."""
@@ -195,8 +217,11 @@ def build_related_block(article, eligible, generated_slugs):
 
 
 def build_newsarticle_jsonld(article, canonical_url):
-    published = article.get("published_at") or ""
-    modified = article.get("collection_timestamp") or published
+    """Emit NewsArticle only for substantial, reviewed original PikaNews editorial."""
+    if not is_indexable_article(article):
+        return ""
+    published = article.get("published_at")
+    modified = article.get("modified_at") or article.get("updated_at")
     node = {
         "@context": "https://schema.org",
         "@type": "NewsArticle",
@@ -204,23 +229,23 @@ def build_newsarticle_jsonld(article, canonical_url):
         "url": canonical_url,
         "mainEntityOfPage": canonical_url,
         "datePublished": published,
-        "dateModified": modified,
         "publisher": {
             "@type": "Organization",
             "name": "PikaNews, a digital platform by GoGo Company",
             "url": BASE_URL,
             "logo": {"@type": "ImageObject", "url": LOGO_URL},
         },
-        "isBasedOn": article.get("url") or canonical_url,
-        "image": [article.get("image_url") or LOGO_URL],
         "articleSection": article.get("category") or "",
-        "description": truncate(article.get("summary"), 160),
+        "description": truncate(article.get("editorial_content"), 160),
     }
-    # Author attribution only when truthful: RSS feeds rarely carry a
-    # byline. The originating publisher is credited via isBasedOn and the
-    # visible source box, never as a fabricated PikaNews author.
-    if article.get("author"):
-        node["author"] = {"@type": "Person", "name": article["author"]}
+    # Collection time is not a meaningful editorial modification timestamp.
+    published_dt = parse_iso(published)
+    modified_dt = parse_iso(modified)
+    if published_dt and modified_dt and modified_dt >= published_dt:
+        node["dateModified"] = modified
+    if article.get("image_url"):
+        node["image"] = [article["image_url"]]
+    node["author"] = {"@type": article["author_type"], "name": article["author"]}
     return json.dumps(node, ensure_ascii=False)
 
 
@@ -250,7 +275,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="@@DESCRIPTION@@">
-    <meta name="robots" content="index, follow">
+    <meta name="robots" content="@@ROBOTS@@">
     <meta property="og:title" content="@@OG_TITLE@@">
     <meta property="og:description" content="@@OG_DESCRIPTION@@">
     <meta property="og:type" content="article">
@@ -267,7 +292,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
     <title>@@SEO_TITLE@@ - PikaNews</title>
-    <script type="application/ld+json">@@NEWSARTICLE_JSONLD@@</script>
+    @@NEWSARTICLE_SCRIPT@@
     <script type="application/ld+json">@@BREADCRUMB_JSONLD@@</script>
 </head>
 <body>
@@ -305,7 +330,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
                 <div class="article-meta">
                     <div class="article-meta-item"><svg class="article-meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg><span>@@SOURCE@@</span></div>
                     <div class="article-meta-item"><svg class="article-meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg><span>Published @@PUBLISHED_DISPLAY@@</span></div>
-                    <div class="article-meta-item"><svg class="article-meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg><span>Collected by PikaNews @@COLLECTED_DISPLAY@@</span></div>
+                    @@COLLECTED_META@@
                 </div>
             </div>
             @@IMAGE_TAG@@
@@ -317,17 +342,14 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
                 <ins class="adsbygoogle" style="display:block" data-ad-format="auto" data-full-width-responsive="true"></ins>
             </div>
             <div class="article-footer">
-                <div class="article-source">
-                    <span class="source-tag">Third-party source</span>
-                    <span>Originally published by <strong>@@SOURCE@@</strong>@@ORIGINAL_LINK@@</span>
-                </div>
+                @@SOURCE_CREDIT@@
                 <div class="article-actions">
                     <a class="article-action-btn" href="@@WHATSAPP_URL@@" target="_blank" rel="noopener noreferrer" aria-label="Share on WhatsApp"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg><span>WhatsApp</span></a>
                     <a class="article-action-btn" href="@@FACEBOOK_URL@@" target="_blank" rel="noopener noreferrer" aria-label="Share on Facebook"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg><span>Facebook</span></a>
                     <a class="article-action-btn" href="@@X_URL@@" target="_blank" rel="noopener noreferrer" aria-label="Share on X"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4l16 16M20 4L4 20"/></svg><span>Post</span></a>
-                    <a href="@@ORIGINAL_URL@@" target="_blank" rel="noopener noreferrer" class="article-action-btn"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg><span>Read Original at @@ORIGINAL_DOMAIN@@</span></a>
+                    @@ORIGINAL_ACTION@@
                 </div>
-                <p class="editorial-note">PikaNews aggregates headlines and short excerpts from third-party publishers and always links to the original report. This excerpt is not original reporting by PikaNews; the full story, photographs and copyright remain with the publisher above. See our <a href="@@REL_PATH@@sources.html">News Sources &amp; Disclaimer</a>.</p>
+                @@EDITORIAL_NOTE@@
             </div>
         </article>
     </div></section>
@@ -352,11 +374,12 @@ def build_page(article, eligible, generated_slugs):
     rel_path = "../../"  # pages live at news/<slug>/index.html
 
     title = article.get("title") or "News story"
-    summary = (article.get("summary") or "").strip() or \
-        "No excerpt available. Open the original story for the full report."
+    indexable = is_indexable_article(article)
+    summary = (article.get("editorial_content") if indexable else article.get("summary")) or ""
+    summary = summary.strip() or "No excerpt available. Open the original story for the full report."
     category = (article.get("category") or "news").lower()
     color = category_color(category)
-    source = article.get("source") or "Unknown source"
+    source = "PikaNews Editorial" if indexable else (article.get("source") or "Unknown source")
     original_url = article.get("url") or ""
 
     og_image = article.get("image_url") or LOGO_URL
@@ -388,7 +411,7 @@ def build_page(article, eligible, generated_slugs):
         image_tag = (
             '<img src="' + esc(article["image_url"]) + '"'
             ' alt="' + esc(truncate(title, 120)) + '"'
-            ' class="article-image"'
+            ' class="article-image" width="1200" height="675" fetchpriority="high" decoding="async"'
             ' loading="eager"'
             ' onerror="this.onerror=null;this.src=\'../../images/pikanews-logo.svg\'">'
         )
@@ -398,12 +421,33 @@ def build_page(article, eligible, generated_slugs):
         original_link = (' - <a href="' + esc(original_url) + '" target="_blank" rel="noopener noreferrer">read the full report at '
                           + esc(domain_of(original_url)) + ' &#8599;</a>')
 
+    collected_meta = "" if indexable else (
+        '<div class="article-meta-item"><span>Collected by PikaNews ' + esc(format_display_date(article.get("collection_timestamp"))) + '</span></div>'
+    )
+
+    original_action = (
+        "" if indexable or not original_url else
+        '<a href="' + esc(original_url) + '" target="_blank" rel="noopener noreferrer" class="article-action-btn">Read original report at ' + esc(domain_of(original_url)) + '</a>'
+    )
     related_block = build_related_block(article, eligible, generated_slugs)
+    source_credit = "" if indexable else (
+        "<div class=\"article-source\"><span class=\"source-tag\">Third-party source</span>"
+        + "<span>Originally published by <strong>" + esc(source) + "</strong>" + original_link + "</span></div>"
+    )
+    editorial_note = (
+        "<p class=\"editorial-note\">Original editorial content by PikaNews. See our <a href=\"../../editorial-policy.html\">Editorial &amp; Corrections Policy</a>.</p>"
+        if indexable else "<p class=\"editorial-note\">PikaNews aggregates headlines and short excerpts from third-party publishers. This excerpt is not original reporting by PikaNews; the full story, photographs and copyright remain with the publisher above. See our <a href=\"../../sources.html\">News Sources &amp; Disclaimer</a>.</p>"
+    )
 
     page = PAGE_TEMPLATE
     replacements = {
         "@@REL_PATH@@": rel_path,
         "@@CANONICAL@@": canonical_url,
+        "@@ROBOTS@@": "index, follow" if indexable else "noindex, follow",
+        "@@SOURCE_CREDIT@@": source_credit,
+        "@@ORIGINAL_ACTION@@": original_action,
+        "@@COLLECTED_META@@": collected_meta,
+        "@@EDITORIAL_NOTE@@": editorial_note,
         "@@OG_TITLE@@": esc(seo_title),
         "@@SEO_TITLE@@": esc(seo_title),
         "@@TITLE@@": esc(title),
@@ -416,7 +460,7 @@ def build_page(article, eligible, generated_slugs):
         "@@CRUMB_TITLE@@": esc(truncate(title, 60)),
         "@@SOURCE@@": esc(source),
         "@@PUBLISHED_DISPLAY@@": esc(format_display_date(article.get("published_at"))),
-        "@@COLLECTED_DISPLAY@@": esc(format_display_date(article.get("collection_timestamp"))),
+        "@@COLLECTED_DISPLAY@@": "" if indexable else esc(format_display_date(article.get("collection_timestamp"))),
         "@@IMAGE_TAG@@": image_tag,
         "@@SUMMARY_PARAGRAPHS@@": summary_paragraphs,
         "@@ORIGINAL_LINK@@": original_link,
@@ -427,7 +471,10 @@ def build_page(article, eligible, generated_slugs):
         "@@X_URL@@": "https://twitter.com/intent/tweet?text=" + quote(title, safe="") + "&url=" + quote(canonical_url, safe=""),
         "@@RELATED_HEADING@@": "Related Stories",
         "@@RELATED_CARDS@@": related_block,
-        "@@NEWSARTICLE_JSONLD@@": build_newsarticle_jsonld(article, canonical_url),
+        "@@NEWSARTICLE_SCRIPT@@": (
+            "<script type=\"application/ld+json\">" + build_newsarticle_jsonld(article, canonical_url) + "</script>"
+            if is_indexable_article(article) else ""
+        ),
         "@@BREADCRUMB_JSONLD@@": build_breadcrumb_jsonld(article, canonical_url),
     }
     for token, value in replacements.items():
@@ -450,12 +497,15 @@ CATEGORY_PAGE_FILTERS = {
 def build_category_cards(articles, generated_slugs):
     """Render a small, source-attributed article list into crawlable HTML."""
     cards = []
-    for article in articles:
+    for card_index, article in enumerate(articles):
         image = ""
         if article.get("image_url"):
+            loading = "eager" if card_index == 0 else "lazy"
+            priority = ' fetchpriority="high"' if card_index == 0 else ""
             image = ('<img src="' + esc(article["image_url"]) + '" alt="' +
                      esc(truncate(article.get("title"), 100)) +
-                     '" loading="lazy" onerror="this.onerror=null;this.src=\'../../images/pikanews-logo.svg\'">')
+                     '" width="640" height="360" loading="' + loading + '"' + priority +
+                     ' decoding="async" onerror="this.onerror=null;this.src=\'../../images/pikanews-logo.svg\'">')
         else:
             image = ('<div class="news-card-placeholder" aria-hidden="true">'
                      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">'

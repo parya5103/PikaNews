@@ -5,7 +5,8 @@ Generates XML sitemap for SEO purposes.
 
 Article URLs now point to the generated static article pages
 (news/<slug>/) instead of query-parameter URLs (article.html?id=...):
-  - thin entries are skipped (not indexable-quality pages)
+  - all third-party aggregated entries are excluded from indexation
+  - only explicitly reviewed, substantial original editorial pages are included
   - admin-removed (tombstoned) articles are skipped
   - capped at 1000 article URLs per Google sitemap limits
 
@@ -18,9 +19,9 @@ import json
 from urllib.parse import urljoin
 
 try:
-    from scripts.generate_article_pages import article_slug, is_thin, load_removed_hashes
+    from scripts.generate_article_pages import article_slug, is_indexable_article, is_thin, load_removed_hashes, parse_iso
 except ImportError:
-    from generate_article_pages import article_slug, is_thin, load_removed_hashes
+    from generate_article_pages import article_slug, is_indexable_article, is_thin, load_removed_hashes
 
 # Configuration
 BASE_URL = "https://gogocompany.in/pikanews/"
@@ -82,14 +83,17 @@ def generate_sitemap():
                     continue
                 if article.get("id") in removed:
                     continue
-                if is_thin(article):
+                if not is_indexable_article(article):
                     continue
                 slug = article_slug(article.get("title"), article.get("id"))
+                modified_raw = article.get("modified_at") or article.get("updated_at") or article.get("published_at")
+                modified_date = parse_iso(modified_raw)
+                lastmod = modified_date.date().isoformat() if modified_date else ""
                 article_urls.append({
                     "url": "news/" + slug + "/",
                     "priority": 0.6,
                     "changefreq": "weekly",
-                    "lastmod": article.get("published_at", "")
+                    "lastmod": lastmod
                 })
         except Exception as e:
             print(f"Warning: could not load articles for sitemap: {e}")
