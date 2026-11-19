@@ -199,7 +199,7 @@ RSS_FEEDS = {
             "name": "Filmfare",
             "category": "bollywood",
             "language": "en",
-            "enabled": True,
+            "enabled": False,
             "priority": 1
         },
         {
@@ -287,7 +287,7 @@ RSS_FEEDS = {
             "name": "IGN",
             "category": "gaming",
             "language": "en",
-            "enabled": True,
+            "enabled": False,
             "priority": 1
         },
         {
@@ -357,7 +357,7 @@ RSS_FEEDS = {
             "name": "Reddit Popular",
             "category": "trending",
             "language": "en",
-            "enabled": True,
+            "enabled": False,
             "priority": 1
         },
     ]

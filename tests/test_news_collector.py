@@ -27,6 +27,7 @@ from scripts.fetch_news import (
     parse_rss_item,
     normalize_article,
     load_existing_articles,
+    RSS_FEEDS,
 )
 
 
@@ -457,3 +458,17 @@ class TestImageRecovery:
         rss = '<item><description><![CDATA[<img src="https://cdn.example.com/content.jpg">]]></description></item>'
         item = BeautifulSoup(rss, "xml").find("item")
         assert extract_image_from_feed(item) == "https://cdn.example.com/content.jpg"
+
+
+class TestRSSFeedConfiguration:
+    def test_unavailable_sources_are_disabled_until_verified(self):
+        configured = {
+            feed["name"]: feed
+            for feeds in RSS_FEEDS.values()
+            for feed in feeds
+        }
+        assert configured["Filmfare"]["enabled"] is False
+        assert configured["IGN"]["enabled"] is False
+        assert configured["Reddit Popular"]["enabled"] is False
+        assert configured["Pinkvilla"]["enabled"] is True
+        assert configured["ESPN"]["enabled"] is True
