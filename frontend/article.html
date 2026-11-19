@@ -208,10 +208,10 @@
                             <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
                             <span>Copy link</span>
                         </button>
-                        <a href="${Utils.escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer" class="article-action-btn">
-                            <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+                        ${!indexableEditorial && article.url ? `<a href="${Utils.escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer" class="article-action-btn">
+                            <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2-2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
                             <span>Read Original</span>
-                        </a>
+                        </a>` : ''}
                     </div>
                     ${indexableEditorial
                         ? '<p class="editorial-note">Original editorial content by PikaNews. See our <a href="editorial-policy.html">Editorial &amp; Corrections Policy</a>.</p>'
