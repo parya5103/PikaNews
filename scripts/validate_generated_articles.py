@@ -6,14 +6,25 @@ import os
 import re
 import sys
 
-from scripts.generate_article_pages import (
-    NEWS_DIR,
-    NEWS_JSON_DIR,
-    article_slug,
-    is_indexable_article,
-    is_thin,
-    load_removed_hashes,
-)
+try:
+    from scripts.generate_article_pages import (
+        NEWS_DIR,
+        NEWS_JSON_DIR,
+        article_slug,
+        is_indexable_article,
+        is_thin,
+        load_removed_hashes,
+    )
+except ModuleNotFoundError:
+    # Direct execution sets sys.path[0] to scripts/, not the repository root.
+    from generate_article_pages import (
+        NEWS_DIR,
+        NEWS_JSON_DIR,
+        article_slug,
+        is_indexable_article,
+        is_thin,
+        load_removed_hashes,
+    )
 
 
 def validate_generated_page(article, page):
