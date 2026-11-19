@@ -317,7 +317,7 @@ PAGE_TEMPLATE = """<!DOCTYPE html>
         <nav class="breadcrumbs" aria-label="Breadcrumb">
             <a href="@@REL_PATH@@index.html">Home</a>
             <span class="sep">&rsaquo;</span>
-            <a href="@@REL_PATH@@CATEGORY@@.html">@@CATEGORY_LABEL@@</a>
+            <a href="@@REL_PATH@@@@CATEGORY@@.html">@@CATEGORY_LABEL@@</a>
             <span class="sep">&rsaquo;</span>
             <span>@@CRUMB_TITLE@@</span>
         </nav>

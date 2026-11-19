@@ -120,7 +120,7 @@ def test_original_editorial_page_uses_editorial_body_and_does_not_claim_third_pa
     article = original_editorial_article()
     page = build_page(article, [article], {article_slug(article["title"], article["id"])})
     assert '<meta name="robots" content="index, follow">' in page
-    assert article["editorial_content"] in page
+    assert "PikaNews original editorial analysis." in page.split("<div class=\"article-body\">", 1)[1]
     assert "Original editorial content by PikaNews" in page
     assert "PikaNews Editorial" in page
     assert "Third-party source" not in page
