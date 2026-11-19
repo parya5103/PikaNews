@@ -314,6 +314,26 @@
     ]
   },
   {
+    "id": "d26660021bba906125cdf36752c34deb2318a1f3a82fb2f29167d7bd23764dba",
+    "title": "See Miranda Lambert, Ella Langley Give Live Debut of ‘Snakeskin Boots’ at 2026 CMAs",
+    "summary": "The cinematic duet appears on Lambert's Seventies-inspired album Crisco",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-country/miranda-lambert-ella-langley-perform-snakeskin-boots-cma-1235659582",
+    "published_at": "2026-11-19T03:35:21+00:00",
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/miranda-ella-perform.jpg?crop=0px%2C69px%2C1800px%2C1014px&resize=1600%2C900",
+    "collection_timestamp": "2026-11-19T07:31:27.093891+00:00",
+    "thin": false,
+    "author": "Marissa Moss",
+    "tags": [
+      "Music",
+      "Music Country",
+      "CMA Awards",
+      "Ella Langley",
+      "Miranda Lambert"
+    ]
+  },
+  {
     "id": "1f7d50fae2d5148e0af8a03afde623d66d93ee4e21a0ecedd8b3c05c554021e2",
     "title": "Miranda Lambert, Ella Langley Give Live Debut of ‘Snakeskin Boots’ at 2026 CMAs",
     "summary": "The cinematic duet appears on Lambert's Seventies-inspired album Crisco",
@@ -702,7 +722,7 @@
     "source": "Billboard",
     "url": "https://www.billboard.com/video/billboard-hot-latin-songs-top-10-countdown-for-nov-21-2026",
     "published_at": "2026-11-18T21:48:07+00:00",
-    "image_url": null,
+    "image_url": "https://www.billboard.com/wp-content/uploads/2026/11/hotlatinsongs11.18.jpg?w=1024",
     "collection_timestamp": "2026-11-18T23:52:48.938197+00:00",
     "thin": false,
     "author": "Katie Cao",
@@ -744,7 +764,7 @@
     "source": "Rolling Stone",
     "url": "https://www.rollingstone.com/culture/culture-news/taylor-swift-exhibit-museum-of-fine-arts-boston-music-1235660439",
     "published_at": "2026-11-18T21:28:55+00:00",
-    "image_url": null,
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/taylor-swift-boston-museum.jpg?crop=0px%2C25px%2C1800px%2C1014px&resize=1600%2C900",
     "collection_timestamp": "2026-11-18T23:52:48.940311+00:00",
     "thin": false,
     "author": "CT Jones",
@@ -784,7 +804,7 @@
     "source": "Rolling Stone",
     "url": "https://www.rollingstone.com/music/music-features/snoh-aalegra-legendary-love-album-1235660481",
     "published_at": "2026-11-18T21:13:42+00:00",
-    "image_url": null,
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/Snoh-Alegra-feature.jpg?crop=0px%2C7px%2C1800px%2C1014px&resize=1600%2C900",
     "collection_timestamp": "2026-11-18T23:52:48.940506+00:00",
     "thin": false,
     "author": "Elise Brisco",

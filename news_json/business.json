@@ -2323,17 +2323,5 @@
     "image_url": null,
     "collection_timestamp": "2026-11-13T15:54:59.827047+00:00",
     "thin": false
-  },
-  {
-    "id": "5aa1c450459ca3a42142f686288b7023ebfe6fee5c40c18d5e65011a24450547",
-    "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
-    "summary": "OpenAI's ChatGPT Wallet partners with American Express, Mastercard and Visa, and those cardholders keep their existing credit card rewards.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
-    "published_at": "2026-11-13T15:31:58+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.826614+00:00",
-    "thin": false
   }
 ]

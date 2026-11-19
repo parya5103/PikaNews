@@ -1,5 +1,29 @@
 [
   {
+    "id": "dd9941e72c2d5f679e9ae4beadc68e42e184cea159528fbf0b246b4205c16072",
+    "title": "From Forest fringes to Glasner's go-to guy - the rise of McAtee",
+    "summary": "How has Nottingham Forest midfielder James McAtee gone from the bench to indispensable at the City Ground?",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ck98z842gp11o",
+    "published_at": "2026-11-19T07:14:11+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cfef/live/f045c5a0-dc43-11f1-95cf-a38331e6cb4b.jpg",
+    "collection_timestamp": "2026-11-19T07:31:27.100570+00:00",
+    "thin": false
+  },
+  {
+    "id": "5d6a850804cd7945e421e1fb87804087efab23df6b16d157b2b2f39d319ab6f0",
+    "title": "Verstappen 'trusts' F1 over Middle East decision",
+    "summary": "Max Verstappen says he trusts in Formula 1 after their decision to end the season in the Middle East, despite the ongoing conflicts in the area.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/formula1/articles/c6n0l14rjlw4o",
+    "published_at": "2026-11-19T07:11:36+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eae/live/43ce3ea0-e3e2-11f1-95b9-4f56547154ff.jpg",
+    "collection_timestamp": "2026-11-19T07:31:27.100696+00:00",
+    "thin": false
+  },
+  {
     "id": "f6d7b4c27e8f43d3fe7860e3ba2c5d4f68487b1927381ca616158028084edddc",
     "title": "Who am I? Plus today's other quizzes",
     "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
@@ -4860,17 +4884,5 @@
     "collection_timestamp": "2026-11-13T21:48:04.699360+00:00",
     "thin": false,
     "author": "Dan Graziano"
-  },
-  {
-    "id": "e66b1ebd918c975918996f6b7892d5ba89e9c3575635beea41bfbc66a51cebf9",
-    "title": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
-    "summary": "An emotional Mauricio Pochettino broke down as he explained why he was leaving the USA to take the Manchester United job.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cmd61qne8352o",
-    "published_at": "2026-11-13T15:28:06+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcb8/live/8a5ea400-df72-11f1-b844-3146c4983677.png",
-    "collection_timestamp": "2026-11-13T15:54:59.829621+00:00",
-    "thin": false
   }
 ]
