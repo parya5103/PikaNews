@@ -109,6 +109,29 @@
     ]
   },
   {
+    "id": "dbf8ae938ba625190b72293862e30c0212672a3eb88a9a6c3180846b9f7212b4",
+    "title": "Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink",
+    "summary": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes. Musk made the comments at The New York Times' DealBook Summit on Wednesday as he tried to explain the conflict following weeks of back and forth between [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+    "published_at": "2026-11-18T20:39:45-05:00",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-19T05:59:06.192712+00:00",
+    "thin": false,
+    "author": "Jay Peters",
+    "tags": [
+      "Elon Musk",
+      "News",
+      "Policy",
+      "Politics",
+      "Science",
+      "Space",
+      "SpaceX",
+      "Tech"
+    ]
+  },
+  {
     "id": "92be5833504ce548b810aef4029fd784d7e6b226a8cc7366e315e7cb08cd3856",
     "title": "Best Buy sells Blu-rays online and in-store again",
     "summary": "Popular titles like The Odyssey are being “sold &#038; shipped by Best Buy.\"",
@@ -2465,253 +2488,6 @@
     "tags": [
       "Gadgets",
       "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "fd3dc33dc898492ac547b452c842a885b390bd29e52a7b9ad1caf7b1d9e10e89",
-    "title": "Jensen Huang was reckless with the environment, too",
-    "summary": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power grids from inside massive data centers, and set the stage for a looming e-waste problem. Under Huang's [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
-    "published_at": "2026-11-13T12:44:22-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T21:48:04.664277+00:00",
-    "thin": false,
-    "author": "Justine Calma",
-    "tags": [
-      "Climate",
-      "Energy",
-      "Environment",
-      "Nvidia",
-      "Science",
-      "Tech"
-    ]
-  },
-  {
-    "id": "9add6825a0d0e11de5d5914b33a9e17c52f5aba7beb273e326446d978bbc96a0",
-    "title": "Microsoft's massive M365 outage stretches past 15 hours as its fixes keep failing",
-    "summary": "&#32; submitted by &#32; /u/Logical_Welder3467 &#32; to &#32; r/technology [link] &#32; [comments]",
-    "category": "technology",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/technology/comments/1xv6c5l/microsofts_massive_m365_outage_stretches_past_15",
-    "published_at": "2026-11-13T12:15:06+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.836278+00:00",
-    "thin": false,
-    "author": "/u/Logical_Welder3467https://www.reddit.com/user/Logical_Welder3467",
-    "tags": [
-      "technology"
-    ]
-  },
-  {
-    "id": "1c74c3411febeaf505d0c52d63ad080cf0e05d1e8afcce8d62d4f88565c279f1",
-    "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
-    "summary": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wasn't done shrinking its hardware. Camp Snap's new CS-8 Micro is even smaller than the [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
-    "published_at": "2026-11-13T12:12:56-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T21:48:04.664488+00:00",
-    "thin": false,
-    "author": "Andrew Liszewski",
-    "tags": [
-      "Cameras",
-      "Gadgets",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "1ecd64768c285e225a9992e87332ed51653b393300e7befc0d8279e781167880",
-    "title": "The new Apple TV has a YouTube problem",
-    "summary": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and an error message saying \"YouTube is not yet available on this device.\" In [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
-    "published_at": "2026-11-13T11:55:57-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T21:48:04.664643+00:00",
-    "thin": false,
-    "author": "Stevie Bonifield",
-    "tags": [
-      "Apple",
-      "News",
-      "Streaming",
-      "Tech",
-      "YouTube"
-    ]
-  },
-  {
-    "id": "1eea2c0090f0a11b64cda4461581ed3e0e7f62722e710768f37383fb6d54f340",
-    "title": "Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride",
-    "summary": "Specialized’s second-fastest bike may be the smart buy.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/11/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride",
-    "published_at": "2026-11-13T11:50:38+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/specialized_3170-1152x648.jpg",
-    "collection_timestamp": "2026-11-13T15:54:59.794374+00:00",
-    "thin": false,
-    "author": "Eric Bangeman",
-    "tags": [
-      "Tech",
-      "Aero bikes",
-      "bike review",
-      "Road bikes",
-      "Specialized",
-      "Specialized Tarmac SL9 S-Level"
-    ]
-  },
-  {
-    "id": "520e16711dde1f514ff927f32a84c587fc8861d443b0c73e707012656f5297aa",
-    "title": "Microsoft&#8217;s massive Outlook outage might be over",
-    "summary": "Service is recovering for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state on Friday morning, some people (including Verge staffers) reported that access to their emails had been restored, though the flow of Outlook mail [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
-    "published_at": "2026-11-13T11:17:11-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T21:48:04.664801+00:00",
-    "thin": false,
-    "author": "Jess Weatherbed",
-    "tags": [
-      "Microsoft",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "2aab0c5739a3cb09233140b8c4388a537e3dd02bc5d85b9a398f5f053ae18819",
-    "title": "The Verge’s 2026 gift guide for dads",
-    "summary": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve of, and we're here to guide you. We've curated this [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
-    "published_at": "2026-11-13T11:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T21:48:04.664951+00:00",
-    "thin": false,
-    "author": "Ryan Waniata",
-    "tags": [
-      "Gadgets",
-      "Gift Guides",
-      "Verge Shopping"
-    ]
-  },
-  {
-    "id": "bd43b965d647f35f2e47074f3edb701ac6ff682fdb1e6130e45b0b8ce544f113",
-    "title": "Microsoft&#8217;s massive Outlook outage continues",
-    "summary": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state, some people (including Verge staffers) are reporting that access to their emails has been restored, though the flow of Outlook [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
-    "published_at": "2026-11-13T10:29:21-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.792831+00:00",
-    "thin": false,
-    "author": "Jess Weatherbed",
-    "tags": [
-      "Microsoft",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "8f3e203e2bd2b6f5c1dd8b9c0240c8e62f349384c9d7f8cae062e36615dd1ccf",
-    "title": "Apple announces release dates for the first Apple Home Collection smart devices",
-    "summary": "The first few smart home devices and accessories that Apple co-developed with LG Electronics and Schneider Electric for its new Apple Home Collection are now available for preorder through the company's online store, with delivery expected in mid-December. Apple announced the collection a month ago as part of a stronger push into the smart home [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing",
-    "published_at": "2026-11-13T10:22:14-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.793085+00:00",
-    "thin": false,
-    "author": "Andrew Liszewski",
-    "tags": [
-      "Apple",
-      "Gadgets",
-      "News",
-      "Smart Home",
-      "Tech"
-    ]
-  },
-  {
-    "id": "cb4308872ed2b2617b803a829905a5ec3c3d45ac132dd952aa7a60526e869273",
-    "title": "What&#8217;s really at stake in the Jensen Huang saga",
-    "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
-    "published_at": "2026-11-13T09:47:16-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.793298+00:00",
-    "thin": false,
-    "author": "David Pierce",
-    "tags": [
-      "AI",
-      "Nvidia",
-      "Podcasts",
-      "Policy",
-      "Tech",
-      "Vergecast"
-    ]
-  },
-  {
-    "id": "9b41d2f955c6633d05bfe79a63aa045162e0ae0d27d0a571c5f114fa0e8409cd",
-    "title": "They disappeared at the end of the 90s. Just like yearly raises",
-    "summary": "&#32; submitted by &#32; /u/Busy-Capital5604 &#32; to &#32; r/WeirdCareers [link] &#32; [comments]",
-    "category": "technology",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/WeirdCareers/comments/1xv3orh/they_disappeared_at_the_end_of_the_90s_just_like",
-    "published_at": "2026-11-13T09:43:29+00:00",
-    "image_url": "https://preview.redd.it/bthyhdr5pc1i1.png",
-    "collection_timestamp": "2026-11-13T15:54:59.839779+00:00",
-    "thin": false,
-    "author": "/u/Busy-Capital5604https://www.reddit.com/user/Busy-Capital5604",
-    "tags": [
-      "WeirdCareers"
-    ]
-  },
-  {
-    "id": "45688bec435823965757875e7e4633a4f3138bf8d5c3aba4a964cb1d775f347d",
-    "title": "Meta discussed attacking Jonathan Haidt — now even his haters are annoyed",
-    "summary": "Three years ago, Meta apparently considered a plan to turn public opinion against one of its most influential opponents, Jonathan Haidt. But since the proposal was revealed in court filings last month, it's backfired. In fact, if there's one thing Anxious Generation author Haidt and his critics can agree on, it's being mad at Meta. [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/1032645/jonathan-haidt-critics-response-meta",
-    "published_at": "2026-11-13T09:30:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.793531+00:00",
-    "thin": false,
-    "author": "Lauren Feiner",
-    "tags": [
-      "Meta",
-      "Policy",
-      "Report",
-      "Social Media",
-      "Tech"
-    ]
-  },
-  {
-    "id": "d56cb7d9ed833426155eeab75398e9cd2c9e155bc1a6ddabe37cb25f4f111b2d",
-    "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-    "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-    "published_at": "2026-11-13T09:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.793743+00:00",
-    "thin": false,
-    "author": "Allison Johnson",
-    "tags": [
-      "AI",
-      "Hands-on",
-      "Reviews",
       "Tech"
     ]
   }

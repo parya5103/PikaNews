@@ -1,5 +1,65 @@
 [
   {
+    "id": "92b8aff99696f094baa624b5d7a1bf7c16ae82340036f57aa16ebf4db953362b",
+    "title": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal",
+    "summary": "Korean media, gaming and travel stocks surged on hopes of greater access to China.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/china-south-korea-trade-deal-films-gaming.html",
+    "published_at": "2026-11-19T03:43:38+00:00",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108554884-1795058798207-gettyimages-1205272308-pim_0097_2020021063843375.jpeg?v=1795058833&w=1920&h=1080",
+    "collection_timestamp": "2026-11-19T05:59:06.197164+00:00",
+    "thin": false
+  },
+  {
+    "id": "80aa0a26cd38b99ee5da6491bd9f6798044259aadece692afb2cac07670dcfc6",
+    "title": "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
+    "summary": "Elon Musk spoke about Jensen Huang, his U.S. midterms spending and overlaps between SpaceX and Tesla at the Dealbook Summit.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/elon-musk-jensen-huang-midterms.html",
+    "published_at": "2026-11-19T02:49:35+00:00",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108554741-1795041818210-gettyimages-2305777166-gry01703_gmyrhql4.jpeg?v=1795041926&w=1920&h=1080",
+    "collection_timestamp": "2026-11-19T05:59:06.196879+00:00",
+    "thin": false
+  },
+  {
+    "id": "8d702a8f489a7222fa139aef0c2cba7a6c12e1a7e02e044a9c59ddd5bf4d1575",
+    "title": "One of the world's most contested seas is proving too much for Asia's leaders to resolve",
+    "summary": "The ASEAN summit in the Philippines failed to conclude the Code of Conduct for the South China Sea despite Manila pledging it would happen this year.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/south-china-sea-china-asean-coc.html",
+    "published_at": "2026-11-19T00:31:00+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-19T05:59:06.197340+00:00",
+    "thin": false
+  },
+  {
+    "id": "eaa37725689099b376e5aa5cd86294595cc6e8c792483bebef9d7e346dd32b11",
+    "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
+    "summary": "Kash Patel missed a congressional hearing after appearing the night before at a Mar-a-Lago gala offering donors of $50,000 access to top officials.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
+    "published_at": "2026-11-19T00:08:14+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-19T05:59:06.197040+00:00",
+    "thin": false
+  },
+  {
+    "id": "d9f47127b4c8de8e95bca75948755e48e3e0dad32674c46b8667573376136666",
+    "title": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test",
+    "summary": "India’s inflation, which has been on the rise for 12 straight months, is becoming a risk to growth and to the reversal of foreign inflows.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/india-inflation-foreign-investor-nifty50.html",
+    "published_at": "2026-11-19T00:01:23+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-19T05:59:06.197493+00:00",
+    "thin": false
+  },
+  {
     "id": "c557d2198cf1a1f963e7c2b7971b75928cee84166d2f69d7a7fae225f9b094c9",
     "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
     "summary": "Nvidia's interim CEO Colette Kress urges staff forward and offers pay raises after Jensen Huang exit.",
@@ -2334,30 +2394,6 @@
     "published_at": "2026-11-13T12:47:16+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-13T15:54:59.827762+00:00",
-    "thin": false
-  },
-  {
-    "id": "5de8f942fa32b62518a807a03e8d4c3adf14f8855edf87b71e3e82b7d72069bd",
-    "title": "Russian crude production rebounds after Trump diesel deal, IEA says as oil markets return to surplus",
-    "summary": "Russia’s crude output rose to 8.73 million barrels a day in October as recovering Gulf exports pushed global supply above demand, the IEA said.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/13/russia-oil-exports-iea-diesel-deal.html",
-    "published_at": "2026-11-13T12:05:22+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.828808+00:00",
-    "thin": false
-  },
-  {
-    "id": "a3fdc1f31b86f07f6b45c7493f3caa76cadad1159cb299b5c94b4bf474155530",
-    "title": "U.S. seizes $1.2 billion in cryptocurrency stolen from Binance",
-    "summary": "The DOJ said it was taking action against the North Korean government's \"schemes to fund its regime through the massive theft of cryptocurrency.\"",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/13/us-seizes-binance-hack-crypto.html",
-    "published_at": "2026-11-13T12:03:24+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.827331+00:00",
     "thin": false
   }
 ]
