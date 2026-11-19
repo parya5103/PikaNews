@@ -43,7 +43,7 @@ os.makedirs(LOG_DIR, exist_ok=True)
 USER_AGENT = "PikaNews-Bot/2.0 (+https://github.com/parya5103/PikaNews)"
 
 # Global state for tracking
-seen_hashes: Set[str] = set()
+seen_hashes: Set[str] = set()\nmaster_feed_needs_repair = False
 failed_sources: List[Dict[str, str]] = []
 stats: Dict[str, Any] = {}
 
@@ -1101,21 +1101,52 @@ def load_removed_articles() -> Set[str]:
 
 
 def load_existing_articles() -> List[Dict[str, Any]]:
-    """Load existing articles from JSON file."""
+    """Load the master feed, recovering from category/latest feeds if it is empty or corrupt."""
+    global master_feed_needs_repair
     all_articles_file = os.path.join(NEWS_JSON_DIR, "all_articles.json")
-    
+    master_feed_needs_repair = False
+
     if os.path.exists(all_articles_file):
         try:
             with open(all_articles_file, "r", encoding="utf-8") as f:
                 existing_articles = json.load(f)
-                # Load hashes
+            if isinstance(existing_articles, list) and existing_articles:
                 for article in existing_articles:
-                    seen_hashes.add(article.get("id", ""))
+                    if isinstance(article, dict) and article.get("id"):
+                        seen_hashes.add(article["id"])
                 return existing_articles
+            master_feed_needs_repair = True
+            log("Master article feed is empty or invalid; recovering from available feed files.", "WARNING")
         except Exception as e:
-            log(f"Error loading existing articles: {e}", "ERROR")
-    
-    return []
+            master_feed_needs_repair = True
+            log(f"Error loading master article feed; recovering from available feed files: {e}", "WARNING")
+    else:
+        master_feed_needs_repair = True
+
+    recovered_by_id = {}
+    if os.path.isdir(NEWS_JSON_DIR):
+        for filename in sorted(os.listdir(NEWS_JSON_DIR)):
+            if not filename.endswith(".json") or filename == "all_articles.json":
+                continue
+            feed_path = os.path.join(NEWS_JSON_DIR, filename)
+            try:
+                with open(feed_path, "r", encoding="utf-8") as f:
+                    feed_articles = json.load(f)
+                if not isinstance(feed_articles, list):
+                    continue
+                for article in feed_articles:
+                    if not isinstance(article, dict) or not article.get("id"):
+                        continue
+                    recovered_by_id.setdefault(article["id"], article)
+            except (OSError, ValueError) as e:
+                log(f"Skipping unreadable recovery feed {filename}: {e}", "WARNING")
+
+    recovered = list(recovered_by_id.values())
+    recovered.sort(key=lambda item: item.get("published_at", ""), reverse=True)
+    for article in recovered:
+        seen_hashes.add(article["id"])
+    log(f"Recovered {len(recovered)} articles from secondary feed files.", "INFO")
+    return recovered
 
 
 def save_articles(new_articles: List[Dict[str, Any]], existing_articles: List[Dict[str, Any]],
@@ -1129,7 +1160,8 @@ def save_articles(new_articles: List[Dict[str, Any]], existing_articles: List[Di
     category emptied entirely by expiry gets its stale JSON rewritten
     (as an empty list) instead of keeping expired stories on disk.
     """
-    if not new_articles and not always_write:
+    global master_feed_needs_repair
+    if not new_articles and not always_write and not master_feed_needs_repair:
         return
     
     # Update stats
@@ -1159,6 +1191,7 @@ def save_articles(new_articles: List[Dict[str, Any]], existing_articles: List[Di
         all_articles_file = os.path.join(NEWS_JSON_DIR, "all_articles.json")
         with open(all_articles_file, "w", encoding="utf-8") as f:
             json.dump(unique_articles, f, indent=2, ensure_ascii=False)
+        master_feed_needs_repair = False
         log(f"Saved {len(unique_articles)} articles to {all_articles_file}", "INFO")
     except Exception as e:
         log(f"Error saving all articles: {e}", "ERROR")
