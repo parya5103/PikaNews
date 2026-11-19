@@ -56,7 +56,7 @@ jobs:
           status=$?
           cat pytest_output.txt
           if [ $status -ne 0 ]; then
-            tail -20 pytest_output.txt | tr -cd '\\40-\\176\\n' | while IFS= read -r line; do
+            tail -20 pytest_output.txt | tr -cd '\40-\176\n' | while IFS= read -r line; do
               [ -n "$line" ] && echo "::error::PYTEST: $line"
             done
             exit 1
