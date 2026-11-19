@@ -115,7 +115,8 @@
                     name: 'PikaNews',
                     url: 'https://gogocompany.in/pikanews/'
                 },
-                isBasedOn: article.url || undefined
+                author: { '@type': article.author_type, name: article.author },
+                isBasedOn: undefined
             };
             const breadcrumb = {
                 '@context': 'https://schema.org',
@@ -135,6 +136,7 @@
             const articleDetail = document.getElementById('article-detail');
             const categoryColor = Utils.getCategoryColor(article.category);
             const canonical = 'https://gogocompany.in/pikanews/article.html?id=' + encodeURIComponent(article.id);
+            const indexableEditorial = isIndexableOriginalEditorial(article);
 
             articleDetail.innerHTML = `
                 <nav class="breadcrumbs" aria-label="Breadcrumb">
@@ -152,7 +154,7 @@
                     <div class="article-meta">
                         <div class="article-meta-item">
                             <svg class="article-meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>
-                            <span>${Utils.escapeHtml(article.source || 'Unknown')}</span>
+                            <span>${Utils.escapeHtml(indexableEditorial ? 'PikaNews Editorial' : (article.source || 'Unknown'))}</span>
                         </div>
                         <div class="article-meta-item">
                             <svg class="article-meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
@@ -164,7 +166,7 @@
                                 <span>${Utils.escapeHtml(article.author)}</span>
                             </div>
                         ` : ''}
-                        ${article.collection_timestamp ? `
+                        ${!indexableEditorial && article.collection_timestamp ? `
                             <div class="article-meta-item">
                                 <svg class="article-meta-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
                                 <span>Collected by PikaNews: ${Utils.escapeHtml(Utils.formatDate(article.collection_timestamp))}</span>
@@ -180,12 +182,11 @@
                 </div>
 
                 <div class="article-footer">
-                    <div class="article-source">
-                        <span class="source-tag">Third-party source</span>
-                        <span>Originally published by <strong>${Utils.escapeHtml(article.source || 'Unknown')}</strong>
-                        ${article.url ? `- <a href="${Utils.escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer">read the full report at ${Utils.escapeHtml(Utils.getDomain(article.url))} &#8599;</a>` : ''}
-                        </span>
-                    </div>
+                    ${indexableEditorial
+                        ? '<div class="article-source"><span class="source-tag">PikaNews Editorial</span><span>Original editorial content reviewed by the PikaNews editorial desk.</span></div>'
+                        : `<div class="article-source"><span class="source-tag">Third-party source</span><span>Originally published by <strong>${Utils.escapeHtml(article.source || 'Unknown')}</strong>
+                            ${article.url ? `- <a href="${Utils.escapeHtml(article.url)}" target="_blank" rel="noopener noreferrer">read the full report at ${Utils.escapeHtml(Utils.getDomain(article.url))} &#8599;</a>` : ''}
+                        </span></div>`}
                     <div class="article-actions">
                         <button class="article-action-btn ${isBookmarked(article.id) ? 'bookmarked' : ''}" onclick="toggleBookmark('${article.id}')">
                             <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
@@ -212,7 +213,9 @@
                             <span>Read Original</span>
                         </a>
                     </div>
-                    <p class="editorial-note">PikaNews aggregates headlines and short excerpts from third-party publishers and always links to the original report. This excerpt is not original reporting by PikaNews; the full story, photographs and copyright remain with the publisher above. See our <a href="sources.html">News Sources &amp; Disclaimer</a>.</p>
+                    ${indexableEditorial
+                        ? '<p class="editorial-note">Original editorial content by PikaNews. See our <a href="editorial-policy.html">Editorial &amp; Corrections Policy</a>.</p>'
+                        : '<p class="editorial-note">PikaNews aggregates headlines and short excerpts from third-party publishers. This excerpt is not original reporting by PikaNews; the full story, photographs and copyright remain with the publisher above. See our <a href="sources.html">News Sources &amp; Disclaimer</a>.</p>'}
                 </div>
             `;
 
@@ -232,14 +235,13 @@
             document.title = article.title + ' - PikaNews';
             setMetaAttribute('link[rel="canonical"]', 'href', canonical);
             setMetaAttribute('meta[property="og:title"]', 'content', article.title);
-            setMetaAttribute('meta[property="og:description"]', 'content', Utils.truncate(article.summary, 150) || 'Read the full story on PikaNews.');
+            setMetaAttribute('meta[property="og:description"]', 'content', Utils.truncate(indexableEditorial ? article.editorial_content : article.summary, 150) || 'Read the full story on PikaNews.');
             setMetaAttribute('meta[property="og:url"]', 'content', canonical);
             if (article.image_url) {
                 setMetaAttribute('meta[property="og:image"]', 'content', article.image_url);
                 setMetaAttribute('meta[name="twitter:image"]', 'content', article.image_url);
             }
             setMetaAttribute('meta[name="twitter:title"]', 'content', article.title);
-            const indexableEditorial = isIndexableOriginalEditorial(article);
             setMetaAttribute('meta[name="robots"]', 'content', indexableEditorial ? 'index, follow' : 'noindex, follow');
             if (indexableEditorial) injectArticleSchema(article);
         }
