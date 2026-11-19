@@ -207,7 +207,7 @@ RSS_FEEDS = {
             "name": "Times of India Bollywood",
             "category": "bollywood",
             "language": "en",
-            "enabled": True,
+            "enabled": False,
             "priority": 2
         },
     ],
@@ -1101,6 +1101,21 @@ def load_removed_articles() -> Set[str]:
     return removed
 
 
+# Times of India RSS Terms of Use permit only personal, non-commercial use
+# and expressly forbid commercial display/aggregation without written consent.
+# Remove its already-collected feed records as well as disabling future fetches.
+RESTRICTED_COMMERCIAL_SOURCE_ALIASES = {
+    "times of india",
+    "times of india bollywood",
+    "toi",
+}
+
+
+def _is_restricted_commercial_source(article: Dict[str, Any]) -> bool:
+    source = str(article.get("source") or "").strip().casefold()
+    return source in RESTRICTED_COMMERCIAL_SOURCE_ALIASES
+
+
 def load_existing_articles() -> List[Dict[str, Any]]:
     """Load the master feed, recovering from category/latest feeds if it is empty or corrupt."""
     global master_feed_needs_repair
@@ -1112,10 +1127,22 @@ def load_existing_articles() -> List[Dict[str, Any]]:
             with open(all_articles_file, "r", encoding="utf-8") as f:
                 existing_articles = json.load(f)
             if isinstance(existing_articles, list) and existing_articles:
-                for article in existing_articles:
-                    if isinstance(article, dict) and article.get("id"):
+                permitted_articles = [
+                    article for article in existing_articles
+                    if isinstance(article, dict) and not _is_restricted_commercial_source(article)
+                ]
+                removed_count = len(existing_articles) - len(permitted_articles)
+                if removed_count:
+                    master_feed_needs_repair = True
+                    log(
+                        f"Removed {removed_count} previously collected Times of India article(s) "
+                        "because the publisher's RSS terms prohibit commercial aggregation.",
+                        "WARNING",
+                    )
+                for article in permitted_articles:
+                    if article.get("id"):
                         seen_hashes.add(article["id"])
-                return existing_articles
+                return permitted_articles
             master_feed_needs_repair = True
             log("Master article feed is empty or invalid; recovering from available feed files.", "WARNING")
         except Exception as e:
@@ -1136,7 +1163,8 @@ def load_existing_articles() -> List[Dict[str, Any]]:
                 if not isinstance(feed_articles, list):
                     continue
                 for article in feed_articles:
-                    if not isinstance(article, dict) or not article.get("id"):
+                    if (not isinstance(article, dict) or not article.get("id")
+                            or _is_restricted_commercial_source(article)):
                         continue
                     recovered_by_id.setdefault(article["id"], article)
             except (OSError, ValueError) as e:
