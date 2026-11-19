@@ -1,24 +1,18 @@
 {
   "failed_sources": [
     {
-      "name": "Filmfare",
-      "url": "https://www.filmfare.com/rss/news.xml",
+      "name": "Pinkvilla",
+      "url": "https://www.pinkvilla.com/feed",
       "category": "bollywood",
       "error": "Failed to fetch"
     },
     {
-      "name": "IGN",
-      "url": "https://www.ign.com/feed",
-      "category": "gaming",
-      "error": "Failed to fetch"
-    },
-    {
-      "name": "Reddit Popular",
-      "url": "https://www.reddit.com/r/popular/.rss",
-      "category": "trending",
+      "name": "ESPN",
+      "url": "https://www.espn.com/espn/rss/news",
+      "category": "sports",
       "error": "Failed to fetch"
     }
   ],
-  "timestamp": "2026-11-19T07:08:09.508294+00:00",
-  "total_failed": 3
+  "timestamp": "2026-11-19T07:10:59.597276+00:00",
+  "total_failed": 2
 }

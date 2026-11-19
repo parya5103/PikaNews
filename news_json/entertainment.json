@@ -1,5 +1,24 @@
 [
   {
+    "id": "d3196cf29ec25ad7c678906f5239ac950f50eea70bc7c591e354bc4db9b475dd",
+    "title": "‘Never Go Backwards, Just Make Things Bigger and Better’: How Paul O’Neill Chartered Trans-Siberian Orchestra’s Journey Ahead",
+    "summary": "\"Paul left us a huge body of unfinished work we need to get to,\" says Al Pitrelli, TSO's musical director.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/rock/trans-siberian-orchestra-interview-1236385507",
+    "published_at": "2026-11-19T07:07:23+00:00",
+    "image_url": "https://www.billboard.com/wp-content/uploads/2025/12/trans-siberian-orchestra-2025-billboard-1800.jpg?w=1024",
+    "collection_timestamp": "2026-11-19T07:10:56.859853+00:00",
+    "thin": false,
+    "author": "Lars Brandle",
+    "tags": [
+      "Music",
+      "Rock",
+      "bbnews",
+      "genre rock"
+    ]
+  },
+  {
     "id": "0ca3f1c3797631a7e106a5fbcb8a0262d1e1dd73c9a05d15986e6a25d5cae5a3",
     "title": "‘Never Go Backwards, Just Make Things Bigger and Better’: How Paul O’Neill Mapped Trans-Siberian Orchestra’s Ongoing Journey",
     "summary": "\"Paul left us a huge body of unfinished work we need to get to,\" says Al Pitrelli, TSO's musical director.",
@@ -5619,26 +5638,6 @@
       "Music",
       "Music Features",
       "Iron Maiden"
-    ]
-  },
-  {
-    "id": "3b91d9a33941e957af7f70089de3fcfe1c07e8336627b230d3d639946c3f73e4",
-    "title": "Russell Brand: Six More Women Come Forward With Sexual Misconduct Allegations",
-    "summary": "The Times UK 's new investigation, held from publication during Brand's rape trial, arrives just days after actor was sentenced to over 10 years in prison",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/russell-brand-more-women-sexual-misconduct-allegations-1235657449",
-    "published_at": "2026-11-13T15:25:22+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-13T15:54:59.790004+00:00",
-    "thin": false,
-    "author": "Daniel Kreps",
-    "tags": [
-      "TV & Movies",
-      "TV & Movies News",
-      "controversy",
-      "courts and crime",
-      "Russell Brand"
     ]
   }
 ]

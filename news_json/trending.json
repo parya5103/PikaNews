@@ -12,6 +12,25 @@
     "thin": false
   },
   {
+    "id": "d3196cf29ec25ad7c678906f5239ac950f50eea70bc7c591e354bc4db9b475dd",
+    "title": "‘Never Go Backwards, Just Make Things Bigger and Better’: How Paul O’Neill Chartered Trans-Siberian Orchestra’s Journey Ahead",
+    "summary": "\"Paul left us a huge body of unfinished work we need to get to,\" says Al Pitrelli, TSO's musical director.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/rock/trans-siberian-orchestra-interview-1236385507",
+    "published_at": "2026-11-19T07:07:23+00:00",
+    "image_url": "https://www.billboard.com/wp-content/uploads/2025/12/trans-siberian-orchestra-2025-billboard-1800.jpg?w=1024",
+    "collection_timestamp": "2026-11-19T07:10:56.859853+00:00",
+    "thin": false,
+    "author": "Lars Brandle",
+    "tags": [
+      "Music",
+      "Rock",
+      "bbnews",
+      "genre rock"
+    ]
+  },
+  {
     "id": "0ca3f1c3797631a7e106a5fbcb8a0262d1e1dd73c9a05d15986e6a25d5cae5a3",
     "title": "‘Never Go Backwards, Just Make Things Bigger and Better’: How Paul O’Neill Mapped Trans-Siberian Orchestra’s Ongoing Journey",
     "summary": "\"Paul left us a huge body of unfinished work we need to get to,\" says Al Pitrelli, TSO's musical director.",
@@ -866,27 +885,6 @@
       "genre country",
       "genre pop",
       "Music News"
-    ]
-  },
-  {
-    "id": "d7ed0f36a8e499809fbf4b4479e8191ac774204070aced5ec5add2a8874de0c2",
-    "title": "Taylor Swift Performs “Our Song” and “I Knew It, I Knew You” at the CMAs",
-    "summary": "The pop star, whose 'Toy Story 5' track marked a return to the country music world, is up for single of the year at the award show.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/music/music-news/taylor-swift-2026-cma-awards-performance-our-song-1236758939",
-    "published_at": "2026-11-19T02:35:33+00:00",
-    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-2305784410-e1795050128444.jpg?w=1440&h=810&crop=1",
-    "collection_timestamp": "2026-11-19T05:59:06.184886+00:00",
-    "thin": false,
-    "author": "Ethan Millman",
-    "tags": [
-      "Music",
-      "Music News",
-      "CMA Awards",
-      "Country Music",
-      "music",
-      "Taylor Swift"
     ]
   }
 ]

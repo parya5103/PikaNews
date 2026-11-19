@@ -12,6 +12,25 @@
     "thin": false
   },
   {
+    "id": "d3196cf29ec25ad7c678906f5239ac950f50eea70bc7c591e354bc4db9b475dd",
+    "title": "‘Never Go Backwards, Just Make Things Bigger and Better’: How Paul O’Neill Chartered Trans-Siberian Orchestra’s Journey Ahead",
+    "summary": "\"Paul left us a huge body of unfinished work we need to get to,\" says Al Pitrelli, TSO's musical director.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/rock/trans-siberian-orchestra-interview-1236385507",
+    "published_at": "2026-11-19T07:07:23+00:00",
+    "image_url": "https://www.billboard.com/wp-content/uploads/2025/12/trans-siberian-orchestra-2025-billboard-1800.jpg?w=1024",
+    "collection_timestamp": "2026-11-19T07:10:56.859853+00:00",
+    "thin": false,
+    "author": "Lars Brandle",
+    "tags": [
+      "Music",
+      "Rock",
+      "bbnews",
+      "genre rock"
+    ]
+  },
+  {
     "id": "0ca3f1c3797631a7e106a5fbcb8a0262d1e1dd73c9a05d15986e6a25d5cae5a3",
     "title": "‘Never Go Backwards, Just Make Things Bigger and Better’: How Paul O’Neill Mapped Trans-Siberian Orchestra’s Ongoing Journey",
     "summary": "\"Paul left us a huge body of unfinished work we need to get to,\" says Al Pitrelli, TSO's musical director.",
@@ -1261,7 +1280,7 @@
     "source": "Hollywood Reporter",
     "url": "https://www.hollywoodreporter.com/business/business-news/skyshowtime-to-shut-down-ceo-exiting-1236758993",
     "published_at": "2026-11-19T00:35:39+00:00",
-    "image_url": null,
+    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-2272453703.jpg?w=1440&h=810&crop=1",
     "collection_timestamp": "2026-11-19T05:59:06.185290+00:00",
     "thin": false,
     "author": "Erik Hayden",
@@ -1280,7 +1299,7 @@
     "source": "CNBC",
     "url": "https://www.cnbc.com/2026/11/19/south-china-sea-china-asean-coc.html",
     "published_at": "2026-11-19T00:31:00+00:00",
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/107281853-1691130754550-gettyimages-1150410055-AFP_1HL90P.jpeg?v=1691972262&w=1920&h=1080",
     "collection_timestamp": "2026-11-19T05:59:06.197340+00:00",
     "thin": false
   },
@@ -1331,7 +1350,7 @@
     "source": "Hollywood Reporter",
     "url": "https://www.hollywoodreporter.com/movies/movie-news/chris-pratt-to-star-in-sci-fi-movie-the-traveler-1236758984",
     "published_at": "2026-11-19T00:26:05+00:00",
-    "image_url": null,
+    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2025/10/GettyImages-2228557110-H-2025.jpg?w=1296&h=730&crop=1",
     "collection_timestamp": "2026-11-19T05:59:06.185409+00:00",
     "thin": false,
     "author": "Aaron Couch",
@@ -1389,7 +1408,7 @@
     "source": "Hollywood Reporter",
     "url": "https://www.hollywoodreporter.com/lifestyle/shopping/best-sams-club-home-decor-members-mark-buy-shop-online-1236757124",
     "published_at": "2026-11-19T00:18:54+00:00",
-    "image_url": null,
+    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Sams-Club-Members-Mark-Home-Decor-Spon-Con-H-MAIN-2026.jpg?w=1296&h=730&crop=1",
     "collection_timestamp": "2026-11-19T05:59:06.185541+00:00",
     "thin": false,
     "author": "Rudie Obias",
@@ -1446,7 +1465,7 @@
     "source": "Hollywood Reporter",
     "url": "https://www.hollywoodreporter.com/business/business-news/bryan-freedman-lawsuit-michael-jackson-estate-1236758968",
     "published_at": "2026-11-19T00:12:09+00:00",
-    "image_url": null,
+    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2025/02/Bryan-Freedman-court-hearing-getty-H-2025.png?w=1296&h=730&crop=1",
     "collection_timestamp": "2026-11-19T05:59:06.185678+00:00",
     "thin": false,
     "author": "Winston Cho",
@@ -1464,7 +1483,7 @@
     "source": "CNBC",
     "url": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
     "published_at": "2026-11-19T00:08:14+00:00",
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108295279-1776860361627-gettyimages-2272458684-0d6a2065_msqyjbqz.jpeg?v=1795046801&w=1920&h=1080",
     "collection_timestamp": "2026-11-19T05:59:06.197040+00:00",
     "thin": false
   },
@@ -1498,7 +1517,7 @@
     "source": "CNBC",
     "url": "https://www.cnbc.com/2026/11/19/india-inflation-foreign-investor-nifty50.html",
     "published_at": "2026-11-19T00:01:23+00:00",
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108553820-1794976008896-gettyimages-2304001530-AA_10112026_3035606.jpeg?v=1794976035&w=1920&h=1080",
     "collection_timestamp": "2026-11-19T05:59:06.197493+00:00",
     "thin": false
   },
@@ -1758,28 +1777,6 @@
       "Blumhouse Atomic",
       "Justin Theroux",
       "Michelle Monaghan"
-    ]
-  },
-  {
-    "id": "408f7a7c86ea35459b172b117118bed0146160d9f7b092ae678c3cbd8232098b",
-    "title": "‘Secret Lives of Mormon Wives’ EPs on How ‘Orange County’ Became the First Franchise Extension, Season 2 Hopes and “Exploring” More Spinoffs",
-    "summary": "Jeff Jenkins and Lisa Filipelli speak with THR about expanding the ‘Mormon Wives’ franchise, what spinoffs they hope to pursue in the future and how the cast set OC's first season up for success.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/tv/tv-features/secret-lives-mormon-wives-orange-county-season-2-future-spinoffs-1236758893",
-    "published_at": "2026-11-18T22:59:42+00:00",
-    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/184032_CL_03217-e1795035691554.jpg?w=1440&h=810&crop=1",
-    "collection_timestamp": "2026-11-18T23:52:48.935473+00:00",
-    "thin": false,
-    "author": "McKinley Franklin",
-    "tags": [
-      "TV",
-      "TV Features",
-      "Hulu",
-      "Jeff Jenkins",
-      "Reality TV",
-      "the secret lives of mormon wives",
-      "The Secret Lives of Mormon Wives: Orange County"
     ]
   }
 ]
