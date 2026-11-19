@@ -10,12 +10,14 @@ on:
   push:
     branches: [main]
     paths:
-      - 'scripts/fetch_news.py'\n      - 'scripts/generate_article_pages.py'
+      - 'scripts/fetch_news.py'
+      - 'scripts/generate_article_pages.py'
       - 'scripts/validate_generated_articles.py'
       - 'scripts/generate_sitemap.py'
       - 'scripts/generate_news_sitemap.py'
       - 'tests/test_editorial_indexation.py'
-      - 'tests/test_generated_article_validation.py'\n      - 'tests/test_empty_master_feed_recovery.py'
+      - 'tests/test_generated_article_validation.py'
+      - 'tests/test_empty_master_feed_recovery.py'
       - '.github/workflows/news_collector.yml'
 
 permissions:
