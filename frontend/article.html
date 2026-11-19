@@ -85,18 +85,31 @@
             if (el) el.setAttribute(attr, value);
         }
 
+        function isIndexableOriginalEditorial(article) {
+            const body = String(article.editorial_content || '').trim();
+            const published = Date.parse(article.published_at || '');
+            return article.content_type === 'original_editorial'
+                && article.editorial_reviewed === true
+                && body.length >= 1200
+                && Boolean(String(article.author || '').trim())
+                && ['Person', 'Organization'].includes(article.author_type)
+                && Number.isFinite(published);
+        }
+
         function injectArticleSchema(article) {
-            // Per-article structured data, built only from real collected fields.
+            // Never mark third-party RSS excerpts as PikaNews NewsArticle reporting.
+            if (!isIndexableOriginalEditorial(article)) return;
+            // Per-article structured data, built only from approved editorial fields.
             const canonical = 'https://gogocompany.in/pikanews/article.html?id=' + encodeURIComponent(article.id);
             const schema = {
                 '@context': 'https://schema.org',
                 '@type': 'NewsArticle',
                 headline: article.title,
                 datePublished: article.published_at || undefined,
-                dateModified: article.published_at || undefined,
+                dateModified: (article.modified_at && Date.parse(article.modified_at) >= Date.parse(article.published_at)) ? article.modified_at : undefined,
                 mainEntityOfPage: { '@type': 'WebPage', '@id': canonical },
                 image: article.image_url ? [article.image_url] : undefined,
-                description: article.summary || undefined,
+                description: article.editorial_content.slice(0, 160) || undefined,
                 publisher: {
                     '@type': 'Organization',
                     name: 'PikaNews',
@@ -163,7 +176,7 @@
                 ${article.image_url ? `<img src="${Utils.escapeHtml(article.image_url)}" alt="${Utils.escapeHtml(article.title)}" class="article-image" width="1200" height="675" loading="eager" fetchpriority="high" decoding="async" onerror="this.onerror=null;this.src='images/pikanews-logo.svg'">` : ''}
 
                 <div class="article-body">
-                    <p>${Utils.escapeHtml(article.summary || 'No excerpt available. Open the original story for the full report.')}</p>
+                    <p>${Utils.escapeHtml((isIndexableOriginalEditorial(article) ? article.editorial_content : article.summary) || 'No excerpt available. Open the original story for the full report.')}</p>
                 </div>
 
                 <div class="article-footer">
@@ -226,8 +239,9 @@
                 setMetaAttribute('meta[name="twitter:image"]', 'content', article.image_url);
             }
             setMetaAttribute('meta[name="twitter:title"]', 'content', article.title);
-            setMetaAttribute('meta[name="robots"]', 'content', 'index, follow');
-            injectArticleSchema(article);
+            const indexableEditorial = isIndexableOriginalEditorial(article);
+            setMetaAttribute('meta[name="robots"]', 'content', indexableEditorial ? 'index, follow' : 'noindex, follow');
+            if (indexableEditorial) injectArticleSchema(article);
         }
 
         // Deterministic slug - must match scripts/generate_article_pages.py.
