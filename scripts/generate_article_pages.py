@@ -181,6 +181,14 @@ def link_for(article, generated_slugs):
     return "article.html?id=" + str(article.get("id", ""))
 
 
+
+def article_page_link_for(article, generated_slugs):
+    """Resolve related-story links from frontend/news/<current-slug>/index.html."""
+    slug = article_slug(article.get("title"), article.get("id"))
+    if slug in generated_slugs:
+        return "../" + slug + "/"
+    return "../../article.html?id=" + str(article.get("id", ""))
+
 def build_related_block(article, eligible, generated_slugs):
     category = (article.get("category") or "").lower()
     related = [a for a in eligible
@@ -206,7 +214,7 @@ def build_related_block(article, eligible, generated_slugs):
             '<div class="news-card-image">' + img
             + '<span class="news-card-category" style="background-color: var(--category-color);">' + esc(a.get("category")) + '</span></div>'
             '<div class="news-card-content">'
-            '<h3 class="news-card-title"><a href="' + esc(link_for(a, generated_slugs)) + '">' + esc(a.get("title")) + '</a></h3>'
+            '<h3 class="news-card-title"><a href="' + esc(article_page_link_for(a, generated_slugs)) + '">' + esc(a.get("title")) + '</a></h3>'
             '<p class="news-card-summary">' + esc(truncate(a.get("summary"), 100)) + '</p>'
             '<div class="news-card-meta">'
             '<span class="news-card-source">' + esc(a.get("source")) + '</span>'

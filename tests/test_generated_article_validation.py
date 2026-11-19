@@ -60,3 +60,19 @@ def test_validator_detects_legacy_aggregate_schema_and_broken_category_breadcrum
     assert any("robots" in error.lower() for error in errors)
     assert any("newsarticle" in error.lower() for error in errors)
     assert any("breadcrumb" in error.lower() for error in errors)
+
+def test_related_article_links_resolve_from_nested_article_directory():
+    article = aggregated_article()
+    related = aggregated_article()
+    related.update({
+        "id": "related123456",
+        "title": "Another sufficiently descriptive related headline for navigation",
+    })
+    generated = {
+        article_slug(article["title"], article["id"]),
+        article_slug(related["title"], related["id"]),
+    }
+    html = build_page(article, [article, related], generated)
+
+    assert f'href="../{article_slug(related["title"], related["id"])}/"' in html
+    assert 'href="news/' not in html
