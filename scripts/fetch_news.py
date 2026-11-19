@@ -43,7 +43,8 @@ os.makedirs(LOG_DIR, exist_ok=True)
 USER_AGENT = "PikaNews-Bot/2.0 (+https://github.com/parya5103/PikaNews)"
 
 # Global state for tracking
-seen_hashes: Set[str] = set()\nmaster_feed_needs_repair = False
+seen_hashes: Set[str] = set()
+master_feed_needs_repair = False
 failed_sources: List[Dict[str, str]] = []
 stats: Dict[str, Any] = {}
 
