@@ -2580,3 +2580,31 @@ body { font-size: 15.5px; line-height: 1.68; }
 .ticker { width: 100%; max-width: 100%; overflow-x: clip; contain: paint; }
 .ticker-inner { width: 100%; min-width: 0; }
 .ticker-viewport { width: 0; min-width: 0; flex: 1 1 0%; }
+
+
+/* Keep the PikaNews wordmark inside the viewport on narrow screens.
+   The SVG is a wide 4:1 logo; a fixed 120px height makes it 480px wide. */
+@media (max-width: 767px) {
+    .hero-container {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 20px;
+    }
+
+    .hero-image {
+        width: 100%;
+        min-width: 0;
+        flex: 0 1 auto;
+        display: flex;
+        justify-content: center;
+    }
+
+    .hero-img {
+        display: block;
+        width: min(100%, 320px);
+        max-width: 100%;
+        height: auto;
+        margin-inline: auto;
+        object-fit: contain;
+    }
+}
