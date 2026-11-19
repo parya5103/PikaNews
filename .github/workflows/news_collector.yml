@@ -5,6 +5,18 @@ on:
     # Run every 30 minutes
     - cron: '*/30 * * * *'
   workflow_dispatch:
+  # Rebuild generated article HTML immediately after indexation/generator policy
+  # changes are merged; generated-content commits do not match these paths.
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/generate_article_pages.py'
+      - 'scripts/validate_generated_articles.py'
+      - 'scripts/generate_sitemap.py'
+      - 'scripts/generate_news_sitemap.py'
+      - 'tests/test_editorial_indexation.py'
+      - 'tests/test_generated_article_validation.py'
+      - '.github/workflows/news_collector.yml'
 
 permissions:
   contents: write
@@ -40,7 +52,7 @@ jobs:
       - name: Run collector test suite (gate - fail before publishing)
         run: |
           set +e
-          pytest tests/test_news_collector.py tests/test_news_expiry.py tests/test_generators.py tests/test_production_build.py tests/test_api_security.py -q > pytest_output.txt 2>&1
+          pytest tests/test_news_collector.py tests/test_news_expiry.py tests/test_generators.py tests/test_production_build.py tests/test_api_security.py tests/test_editorial_indexation.py tests/test_generated_article_validation.py -q > pytest_output.txt 2>&1
           status=$?
           cat pytest_output.txt
           if [ $status -ne 0 ]; then
@@ -65,6 +77,9 @@ jobs:
 
       - name: Generate Google News sitemap
         run: python scripts/generate_news_sitemap.py
+
+      - name: Validate generated article indexation, schema and breadcrumbs
+        run: python scripts/validate_generated_articles.py
 
       - name: Commit only when generated content changed
         run: |
