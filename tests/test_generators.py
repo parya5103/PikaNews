@@ -31,6 +31,17 @@ def _article(article_id, title, summary="A sufficiently long summary that "
     }
 
 
+def _editorial_article(article_id, title):
+    article = _article(article_id, title)
+    article.update({
+        "content_type": "original_editorial",
+        "editorial_reviewed": True,
+        "editorial_content": "PikaNews original editorial analysis with verified context and reporting. " * 25,
+        "author": "PikaNews Editorial Desk",
+        "author_type": "Organization",
+    })
+    return article
+
 def test_google_news_sitemap_title_limit():
     """Google News sitemap titles must not exceed 110 characters."""
     from scripts.generate_news_sitemap import truncate_news_title
@@ -65,8 +76,8 @@ def test_sitemap_generator():
         os.makedirs(news_json_dir)
 
         test_articles = [
-            _article("test1", LONG_TITLE_1),
-            _article("test2", LONG_TITLE_2),
+            _editorial_article("test1", LONG_TITLE_1),
+            _editorial_article("test2", LONG_TITLE_2),
         ]
         with open(os.path.join(news_json_dir, "all_articles.json"), "w") as f:
             json.dump(test_articles, f)
@@ -130,7 +141,7 @@ def test_sitemap_skips_tombstoned_and_thin_articles():
         news_json_dir = os.path.join(tmpdir, "news_json")
         os.makedirs(news_json_dir)
 
-        good = _article("keepme00000001", LONG_TITLE_1)
+        good = _editorial_article("keepme00000001", LONG_TITLE_1)
         removed_article = _article("removeme00001", LONG_TITLE_2)
         thin = {
             "id": "thinme0000001",
