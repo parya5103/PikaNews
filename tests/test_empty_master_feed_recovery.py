@@ -42,3 +42,23 @@ def test_no_new_articles_repairs_empty_master_feed_from_recovered_records(tmp_pa
 
     repaired = json.loads((tmp_path / "all_articles.json").read_text(encoding="utf-8"))
     assert [item["id"] for item in repaired] == ["existing-story"]
+
+
+def test_load_existing_articles_removes_commercially_restricted_source(tmp_path, monkeypatch):
+    import json
+    import scripts.fetch_news as fetch_news
+
+    monkeypatch.setattr(fetch_news, "NEWS_JSON_DIR", str(tmp_path))
+    monkeypatch.setattr(fetch_news, "seen_hashes", set())
+    monkeypatch.setattr(fetch_news, "master_feed_needs_repair", False)
+    (tmp_path / "all_articles.json").write_text(json.dumps([
+        {"id": "toi-1", "source": "Times of India Bollywood", "title": "Restricted story"},
+        {"id": "toi-2", "source": "Times of India", "title": "Restricted alias"},
+        {"id": "cnbc-1", "source": "CNBC", "title": "Permitted source record"},
+    ]), encoding="utf-8")
+
+    loaded = fetch_news.load_existing_articles()
+
+    assert [article["id"] for article in loaded] == ["cnbc-1"]
+    assert fetch_news.master_feed_needs_repair is True
+    assert fetch_news.seen_hashes == {"cnbc-1"}
