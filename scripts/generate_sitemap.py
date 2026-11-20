@@ -19,9 +19,9 @@ import json
 from urllib.parse import urljoin
 
 try:
-    from scripts.generate_article_pages import article_slug, is_indexable_article, is_thin, load_removed_hashes, parse_iso
+    from scripts.generate_article_pages import (article_slug, is_indexable_article, is_indexable_listing, is_thin, load_removed_hashes, parse_iso, CATEGORY_PAGE_FILTERS, MIN_INDEXABLE_LISTING_STORIES, MIN_INDEXABLE_CATEGORY_STORIES)
 except ImportError:
-    from generate_article_pages import article_slug, is_indexable_article, is_thin, load_removed_hashes
+    from generate_article_pages import (article_slug, is_indexable_article, is_indexable_listing, is_thin, load_removed_hashes, CATEGORY_PAGE_FILTERS, MIN_INDEXABLE_LISTING_STORIES, MIN_INDEXABLE_CATEGORY_STORIES)
 
 # Configuration
 BASE_URL = "https://gogocompany.in/pikanews/"
@@ -30,16 +30,6 @@ NEWS_JSON_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__f
 
 # Static pages
 STATIC_PAGES = [
-    {"url": "", "priority": 1.0, "changefreq": "daily"},  # "" -> urljoin gives the clean /pikanews/ root, matching the canonical URL
-    {"url": "latest.html", "priority": 0.9, "changefreq": "hourly"},
-    {"url": "trending.html", "priority": 0.9, "changefreq": "hourly"},
-    {"url": "bollywood.html", "priority": 0.8, "changefreq": "hourly"},
-    {"url": "hollywood.html", "priority": 0.8, "changefreq": "hourly"},
-    {"url": "entertainment.html", "priority": 0.8, "changefreq": "hourly"},
-    {"url": "technology.html", "priority": 0.8, "changefreq": "hourly"},
-    {"url": "gaming.html", "priority": 0.8, "changefreq": "hourly"},
-    {"url": "business.html", "priority": 0.8, "changefreq": "hourly"},
-    {"url": "sports.html", "priority": 0.8, "changefreq": "hourly"},
     {"url": "about.html", "priority": 0.5, "changefreq": "monthly"},
     {"url": "contact.html", "priority": 0.5, "changefreq": "monthly"},
     {"url": "sources.html", "priority": 0.5, "changefreq": "monthly"},
@@ -98,6 +88,27 @@ def generate_sitemap():
         except Exception as e:
             print(f"Warning: could not load articles for sitemap: {e}")
 
+    # Feed and category pages are indexable only when they contain enough
+    # reviewed, substantial PikaNews-authored editorial. Aggregated RSS volume
+    # never satisfies this gate.
+    listing_pages = []
+    if is_indexable_listing(articles, MIN_INDEXABLE_LISTING_STORIES):
+        listing_pages.extend([
+            {"url": "", "priority": 1.0, "changefreq": "daily"},
+            {"url": "latest.html", "priority": 0.9, "changefreq": "hourly"},
+            {"url": "trending.html", "priority": 0.9, "changefreq": "hourly"},
+        ])
+    for page, allowed_categories in CATEGORY_PAGE_FILTERS.items():
+        if page == "latest":
+            continue
+        selected = articles if allowed_categories is None else [
+            article for article in articles
+            if (article.get("category") or "").lower() in allowed_categories
+        ]
+        if is_indexable_listing(selected, MIN_INDEXABLE_CATEGORY_STORIES):
+            listing_pages.append({"url": page + ".html", "priority": 0.8, "changefreq": "hourly"})
+    static_pages = listing_pages + STATIC_PAGES
+
     # XML header
     xml_parts = [
         '<?xml version="1.0" encoding="UTF-8"?>',
@@ -105,7 +116,7 @@ def generate_sitemap():
     ]
 
     # Add static pages
-    for page in STATIC_PAGES:
+    for page in static_pages:
         url = urljoin(BASE_URL, page["url"])
 
         xml_parts.append('  <url>')
@@ -139,7 +150,7 @@ def generate_sitemap():
         f.write(xml_content)
 
     print(f"Sitemap generated: {SITEMAP_PATH}")
-    print(f"Total URLs: {len(STATIC_PAGES) + len(article_urls[:1000])}")
+    print(f"Total URLs: {len(static_pages) + len(article_urls[:1000])}")
 
     return xml_content
 

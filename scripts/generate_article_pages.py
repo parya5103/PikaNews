@@ -101,6 +101,45 @@ def is_indexable_article(article):
     """Aggregated RSS excerpts remain accessible but are not indexable articles."""
     return not is_thin(article) and is_original_editorial(article)
 
+MIN_INDEXABLE_LISTING_STORIES = 4
+MIN_INDEXABLE_CATEGORY_STORIES = 3
+
+
+def is_indexable_listing(articles, minimum=MIN_INDEXABLE_LISTING_STORIES):
+    """Only a useful volume of reviewed original stories can index a feed listing."""
+    if not isinstance(articles, (list, tuple)):
+        return False
+    return sum(1 for article in articles if is_indexable_article(article)) >= minimum
+
+
+def set_robots_meta(html, should_index):
+    """Set one explicit robots directive while preserving the rest of a page."""
+    directive = "index,follow" if should_index else "noindex,follow"
+    tag = '<meta name="robots" content="' + directive + '">'
+    pattern = re.compile(r"<meta\s+name=['\"]robots['\"][^>]*>", re.I)
+    if pattern.search(html):
+        return pattern.sub(tag, html, count=1)
+    head = re.search(r"<head\b[^>]*>", html, re.I)
+    if head:
+        return html[:head.end()] + "\n    " + tag + html[head.end():]
+    return html
+
+
+def update_root_listing_robots(articles, frontend_dir=None):
+    """Keep homepage and Trending feed out of search until editorial volume is adequate."""
+    frontend_dir = frontend_dir or FRONTEND_DIR
+    should_index = is_indexable_listing(articles, MIN_INDEXABLE_LISTING_STORIES)
+    for filename in ("index.html", "trending.html"):
+        path = os.path.join(frontend_dir, filename)
+        if not os.path.isfile(path):
+            continue
+        with open(path, "r", encoding="utf-8") as f:
+            original = f.read()
+        updated = set_robots_meta(original, should_index)
+        if updated != original:
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(updated)
+
 def load_removed_hashes():
     """Hashes of admin-removed articles (tombstones). Restore removes them."""
     removed = set()
@@ -582,6 +621,8 @@ def write_category_pages(articles, generated_slugs, frontend_dir=None):
             if selected else '<p class="form-hint">No stories available right now.</p>'
         )
         rendered = _replace_div_contents(original, page + "-news", cards)
+        minimum = MIN_INDEXABLE_LISTING_STORIES if page == "latest" else MIN_INDEXABLE_CATEGORY_STORIES
+        rendered = set_robots_meta(rendered, is_indexable_listing(selected, minimum))
         if rendered != original:
             with open(path, "w", encoding="utf-8") as f:
                 f.write(rendered)
@@ -634,6 +675,7 @@ def generate_article_pages():
         written += 1
 
     category_pages_updated = write_category_pages(eligible, generated_slugs)
+    update_root_listing_robots(eligible)
     print(f"Static article pages generated: {written} (stale dirs removed: {removed_count})")
     print(f"Category pages updated with crawlable stories: {category_pages_updated}")
     print(f"Output directory: {NEWS_DIR}")

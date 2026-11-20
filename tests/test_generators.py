@@ -101,9 +101,10 @@ def test_sitemap_generator():
                 assert "<?xml version=" in content
                 assert "<urlset" in content
                 assert "</urlset>" in content
-                assert "<loc>https://gogocompany.in/pikanews/</loc>" in content
+                assert "<loc>https://gogocompany.in/pikanews/</loc>" not in content, "homepage needs four reviewed original stories"
                 assert "https://gogocompany.in/pikanews/index.html" not in content
-                assert "latest.html" in content
+                assert "latest.html" not in content, "feed listings need sufficient reviewed original editorial"
+                assert "trending.html" not in content
                 assert "search.html" not in content, \
                     "internal search results must not be included in the sitemap"
                 assert "sources.html" in content
@@ -495,3 +496,68 @@ def test_homepage_has_clear_source_context_and_no_meta_keywords():
     assert 'href="editorial-policy.html"' in normalized
     assert 'href="latest.html"' in normalized
     assert 'href="trending.html"' in normalized
+
+
+def test_listing_pages_require_reviewed_original_editorial_volume():
+    """Aggregated feed volume alone must never make a news listing indexable."""
+    from scripts.generate_article_pages import is_indexable_listing
+
+    aggregated = [_article(f"feed{i:04d}", f"Aggregated news headline number {i}") for i in range(12)]
+    reviewed = [_editorial_article(f"edit{i:04d}", f"Reviewed original editorial story number {i}") for i in range(4)]
+
+    assert is_indexable_listing(aggregated, minimum=4) is False
+    assert is_indexable_listing(reviewed[:3], minimum=4) is False
+    assert is_indexable_listing(reviewed, minimum=4) is True
+    assert is_indexable_listing(aggregated + reviewed[:2], minimum=4) is False
+
+
+def test_listing_robots_directive_is_explicit_and_replaceable():
+    """The listing generator must switch robots directives without duplicating tags."""
+    from scripts.generate_article_pages import set_robots_meta
+
+    page = '<html><head><meta name="robots" content="index,follow"></head><body></body></html>'
+    noindex = set_robots_meta(page, False)
+    assert noindex.count('name="robots"') == 1
+    assert 'content="noindex,follow"' in noindex
+
+    indexable = set_robots_meta(noindex, True)
+    assert indexable.count('name="robots"') == 1
+    assert 'content="index,follow"' in indexable
+
+
+def test_sitemap_indexes_listing_pages_only_after_editorial_threshold():
+    """The homepage, latest feed and category listings require reviewed original stories."""
+    from scripts.generate_sitemap import generate_sitemap
+    import scripts.generate_article_pages as article_pages_module
+    import scripts.generate_sitemap as sitemap_module
+
+    with tempfile.TemporaryDirectory() as tmpdir:
+        news_json_dir = os.path.join(tmpdir, "news_json")
+        os.makedirs(news_json_dir)
+        articles = [
+            _editorial_article("editorial001", "Technology research update one"),
+            _editorial_article("editorial002", "Technology research update two"),
+            _editorial_article("editorial003", "Technology research update three"),
+            _editorial_article("editorial004", LONG_TITLE_1),
+            _article("feedonly001", "An aggregated technology headline without editorial"),
+        ]
+        with open(os.path.join(news_json_dir, "all_articles.json"), "w", encoding="utf-8") as f:
+            json.dump(articles, f)
+
+        original_removed = article_pages_module.REMOVED_ARTICLES_FILE
+        original_news = sitemap_module.NEWS_JSON_DIR
+        original_sitemap = sitemap_module.SITEMAP_PATH
+        article_pages_module.REMOVED_ARTICLES_FILE = os.path.join(tmpdir, "removed_articles.json")
+        sitemap_module.NEWS_JSON_DIR = news_json_dir
+        sitemap_module.SITEMAP_PATH = os.path.join(tmpdir, "sitemap.xml")
+        try:
+            content = generate_sitemap()
+            assert "<loc>https://gogocompany.in/pikanews/</loc>" in content
+            assert "latest.html" in content
+            assert "trending.html" in content
+            assert "technology.html" in content
+            assert "bollywood.html" not in content
+        finally:
+            article_pages_module.REMOVED_ARTICLES_FILE = original_removed
+            sitemap_module.NEWS_JSON_DIR = original_news
+            sitemap_module.SITEMAP_PATH = original_sitemap
