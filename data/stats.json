@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-11-19T22:44:08.218488+00:00",
-  "total_fetched": 539,
-  "new_articles": 300,
-  "duplicates": 239,
-  "errors": 0,
+  "timestamp": "2026-11-20T03:51:59.521400+00:00",
+  "total_fetched": 493,
+  "new_articles": 189,
+  "duplicates": 304,
+  "errors": 1,
   "expired_articles": 0,
   "articles_without_valid_date": 0,
   "by_source": {
@@ -19,17 +19,16 @@
     "GameSpot": 30,
     "Polygon": 10,
     "CNBC": 30,
-    "ESPN": 46,
     "BBC Sport": 69,
     "BuzzFeed World": 50
   },
   "by_category": {
-    "bollywood": 113,
-    "entertainment": 36,
-    "hollywood": 30,
-    "business": 15,
-    "gaming": 23,
-    "technology": 23,
-    "sports": 60
+    "bollywood": 104,
+    "entertainment": 30,
+    "hollywood": 25,
+    "gaming": 6,
+    "technology": 9,
+    "business": 7,
+    "sports": 8
   }
 }

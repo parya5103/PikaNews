@@ -1,5 +1,89 @@
 [
   {
+    "id": "b32c4b3d76c015cb4c3417c450a50586a72cb33102fa829a1161d0cb7294e4ca",
+    "title": "Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility",
+    "summary": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
+    "published_at": "2026-11-20T03:38:07+00:00",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108556065-1795129225164-gettyimages-2305353821-ANTHROPIC_IPO.jpeg?v=1795129353&w=1920&h=1080",
+    "collection_timestamp": "2026-11-20T03:52:04.299123+00:00",
+    "thin": false
+  },
+  {
+    "id": "452a35105d6da126cbc7d0270c9313823bea0c033a8b5a6bc6b60a96f89f9877",
+    "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+    "summary": "The permitting bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Trump's desk.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+    "published_at": "2026-11-20T03:30:45+00:00",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108251945-1768333647231-gettyimages-2256116889-dji_20260113072220_0857_d_cxyqgr0q.jpeg?v=1795128651&w=1920&h=1080",
+    "collection_timestamp": "2026-11-20T03:52:04.299007+00:00",
+    "thin": false
+  },
+  {
+    "id": "5feb792507384383570cb20f347e2894d5c417730d22b5abf28aefc4a8579de1",
+    "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+    "summary": "The declines in Asia come after the tech-heavy Nasdaq Composite fell more than 2% overnight following Anthropic's highly anticipated Wall Street debut.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+    "published_at": "2026-11-20T03:30:34+00:00",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108316517-1780554960547-gettyimages-2230425216-raa-intelsof250820_npZoK.jpeg?v=1780555182&w=1920&h=1080",
+    "collection_timestamp": "2026-11-20T03:52:04.299740+00:00",
+    "thin": false
+  },
+  {
+    "id": "4cf65cf8419c883ca7877a8a6ffbf5e1fa578c12e63ad31e345063facbd6eb4e",
+    "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
+    "summary": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+    "published_at": "2026-11-20T01:49:03+00:00",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108555014-1795079642832-gettyimages-2215845730-AFP_47TW9CP.jpeg?v=1795079673&w=1920&h=1080",
+    "collection_timestamp": "2026-11-20T03:52:04.299620+00:00",
+    "thin": false
+  },
+  {
+    "id": "03557412442d08673fb2e02ec4f020dc0ffce1a9f9139dedbdc1ec010ffe47a1",
+    "title": "AMD dives on short seller report of alleged China exposure",
+    "summary": "AMD closed down over 7% after a short seller alleged that its firmware showed up at a blacklisted Chinese company. AMD said it complies with U.S. law.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+    "published_at": "2026-11-20T00:08:34+00:00",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108475785-1793209626528-gettyimages-2298419069-SKOREA_AMD.jpeg?v=1793209658&w=1920&h=1080",
+    "collection_timestamp": "2026-11-20T03:52:04.299239+00:00",
+    "thin": false
+  },
+  {
+    "id": "4d19fd9ebee4098f4d31a8f2e489d1e4074563ade9b9d3db06d8c2a310c9be35",
+    "title": "Anthropic was supposed to save the AI trade. What went wrong?",
+    "summary": "Technology stocks tanked despite one of the most hotly anticipated tech IPOs in years. Why Anthropic couldn't revive AI animal spirits.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
+    "published_at": "2026-11-20T00:00:38+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-20T03:52:04.299480+00:00",
+    "thin": false
+  },
+  {
+    "id": "1d2262ccaa6a310659de85cc17151785b7a93e12fd21ad9ba7d5de880bbf3897",
+    "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
+    "summary": "The investigation by California Attorney General Rob Bonta comes on the heels of the resignation of Nvidia CEO Jensen Huang.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
+    "published_at": "2026-11-19T23:21:23+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-20T03:52:04.299356+00:00",
+    "thin": false
+  },
+  {
     "id": "42df2e9444f8cd989e0f06658788e7deaeaf6f008c019cb431b99e3964e255d6",
     "title": "Congress passes bill to protect older investors from financial fraud",
     "summary": "Both chambers of Congress have now approved the Financial Exploitation Prevention Act of 2025, which is aimed at protecting vulnerable investors from fraud.",
@@ -2348,42 +2432,6 @@
     "published_at": "2026-11-14T12:00:01+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-14T15:33:20.621199+00:00",
-    "thin": false
-  },
-  {
-    "id": "600e9d1bdd08415270c78690d49e41724b61fe4b242e0c4760933363c821f172",
-    "title": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one",
-    "summary": "Jensen Huang’s exit tests Nvidia’s succession planning and governance, and offers lessons for companies that elevate their CEOs to rockstar status.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
-    "published_at": "2026-11-14T07:08:45+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-14T08:48:08.324365+00:00",
-    "thin": false
-  },
-  {
-    "id": "a46921412adcc7ef0a7d4ef597b2e6af28358a98eea7467e553a1e7ad2cd9f38",
-    "title": "Ecuador wants to monetize its biodiversity — while still drilling for oil",
-    "summary": "Ecuador is planning to channel funds into its biodiversity, but faces a key challenge: its reliance on oil.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html",
-    "published_at": "2026-11-14T06:00:01+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-14T08:48:08.324513+00:00",
-    "thin": false
-  },
-  {
-    "id": "726cefdfd5305b9a6b3dc5a025f1b36f49b7c351f03123ccfe04e8c8c750df00",
-    "title": "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend",
-    "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, disrupting thousands of departing of flights.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-    "published_at": "2026-11-14T05:08:24+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-14T08:48:08.324188+00:00",
     "thin": false
   }
 ]
