@@ -894,9 +894,13 @@ def normalize_article(article: Dict[str, Any], source_config: Dict[str, Any]) ->
         
         seen_hashes.add(article_hash)
         
-        # Parse date
+        # Preserve publisher dates exactly: collection time is NOT the
+        # publication time. Guessing "now" here makes old/undated stories
+        # look fresh and defeats the retention policy. Unknown dates stay
+        # null, are counted by expire_old_articles(), and remain reviewable.
         date_str = article.get("date")
-        published_at = parse_date(date_str) if date_str else datetime.now(timezone.utc).isoformat()
+        published_at = parse_date(date_str) if date_str else None
+        date_unverified = published_at is None
         
         # Get source info
         source_name = source_config.get("name", "unknown")
@@ -936,6 +940,7 @@ def normalize_article(article: Dict[str, Any], source_config: Dict[str, Any]) ->
             "source": source_name,
             "url": normalized_url,
             "published_at": published_at,
+            "date_unverified": date_unverified,
             "image_url": image_url,
             "collection_timestamp": datetime.now(timezone.utc).isoformat(),
             "thin": bool(len(clean_title) < 20 or len(clean_desc.strip()) < 40)
