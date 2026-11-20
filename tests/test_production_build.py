@@ -119,6 +119,10 @@ def test_homepage_title_is_concise():
     assert match, "homepage must have a title"
     assert len(match.group(1)) <= 50, "homepage title should stay within 50 characters"
     assert "PikaNews" in match.group(1), "homepage title must retain the product brand"
+    assert "news-discovery service, not a newsroom" in content, "homepage must clearly disclose its aggregation model"
+    assert "How to use a news discovery feed" in content, "homepage must include original reader guidance"
+    assert "Compare important claims" in content, "homepage must explain how readers can assess important claims"
+    assert "does not independently report or verify every linked story" in content, "homepage must not imply independent reporting or verification"
 
 
 def test_every_page_declares_production_canonical():
