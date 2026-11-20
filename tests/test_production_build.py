@@ -180,6 +180,14 @@ def test_image_references_resolve_to_existing_assets():
         assert "hero-news.jpg" not in content, f"missing hero-news.jpg referenced in {name}"
 
 
+def test_missing_collection_timestamp_is_reported_honestly():
+    index = read("index.html")
+    app_js = read("js/app.js")
+    assert "Checking feed timestamp" in index
+    assert "Feed timestamp unavailable" in app_js
+    assert "Number.isFinite(lastUpdated.getTime())" in app_js
+
+
 def test_article_reader_loads_real_data_and_escapes_output():
     content = read("article.html")
     assert "getArticleById" in content, "article page must load articles from collected JSON"
