@@ -447,3 +447,31 @@ if __name__ == "__main__":
         fn()
         print(f"PASS: {name}")
     print("All news expiry regression tests passed.")
+
+
+
+def test_missing_or_invalid_rss_date_is_not_replaced_with_collection_time():
+    """Unknown publisher dates must remain unknown, not look freshly published."""
+    from scripts.fetch_news import normalize_article, seen_hashes
+
+    seen_hashes.clear()
+    source = {
+        "name": "Retention Test Source",
+        "category": "technology",
+        "url": "https://retention-test.example/feed",
+    }
+    for suffix, date_value in (("missing", None), ("invalid", "not-a-date")):
+        normalized = normalize_article(
+            {
+                "url": f"https://retention-test.example/{suffix}",
+                "title": f"A sufficiently descriptive test story with {suffix} date",
+                "description": "A sufficiently long description for the retention regression test.",
+                "date": date_value,
+            },
+            source,
+        )
+
+        assert normalized is not None
+        assert normalized["published_at"] is None
+        assert normalized["date_unverified"] is True
+        assert normalized["collection_timestamp"]
