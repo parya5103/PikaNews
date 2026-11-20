@@ -101,9 +101,10 @@ def test_sitemap_generator():
                 assert "<?xml version=" in content
                 assert "<urlset" in content
                 assert "</urlset>" in content
-                assert "<loc>https://gogocompany.in/pikanews/</loc>" in content
+                assert "<loc>https://gogocompany.in/pikanews/</loc>" not in content, "homepage needs four reviewed original stories"
                 assert "https://gogocompany.in/pikanews/index.html" not in content
-                assert "latest.html" in content
+                assert "latest.html" not in content, "feed listings need sufficient reviewed original editorial"
+                assert "trending.html" not in content
                 assert "search.html" not in content, \
                     "internal search results must not be included in the sitemap"
                 assert "sources.html" in content
