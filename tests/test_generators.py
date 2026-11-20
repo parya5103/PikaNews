@@ -522,3 +522,41 @@ def test_listing_robots_directive_is_explicit_and_replaceable():
     indexable = set_robots_meta(noindex, True)
     assert indexable.count('name="robots"') == 1
     assert 'content="index,follow"' in indexable
+
+
+def test_sitemap_indexes_listing_pages_only_after_editorial_threshold():
+    """The homepage, latest feed and category listings require reviewed original stories."""
+    from scripts.generate_sitemap import generate_sitemap
+    import scripts.generate_article_pages as article_pages_module
+    import scripts.generate_sitemap as sitemap_module
+
+    with tempfile.TemporaryDirectory() as tmpdir:
+        news_json_dir = os.path.join(tmpdir, "news_json")
+        os.makedirs(news_json_dir)
+        articles = [
+            _editorial_article("editorial001", "Technology research update one"),
+            _editorial_article("editorial002", "Technology research update two"),
+            _editorial_article("editorial003", "Technology research update three"),
+            _editorial_article("editorial004", LONG_TITLE_1),
+            _article("feedonly001", "An aggregated technology headline without editorial"),
+        ]
+        with open(os.path.join(news_json_dir, "all_articles.json"), "w", encoding="utf-8") as f:
+            json.dump(articles, f)
+
+        original_removed = article_pages_module.REMOVED_ARTICLES_FILE
+        original_news = sitemap_module.NEWS_JSON_DIR
+        original_sitemap = sitemap_module.SITEMAP_PATH
+        article_pages_module.REMOVED_ARTICLES_FILE = os.path.join(tmpdir, "removed_articles.json")
+        sitemap_module.NEWS_JSON_DIR = news_json_dir
+        sitemap_module.SITEMAP_PATH = os.path.join(tmpdir, "sitemap.xml")
+        try:
+            content = generate_sitemap()
+            assert "<loc>https://gogocompany.in/pikanews/</loc>" in content
+            assert "latest.html" in content
+            assert "trending.html" in content
+            assert "technology.html" in content
+            assert "bollywood.html" not in content
+        finally:
+            article_pages_module.REMOVED_ARTICLES_FILE = original_removed
+            sitemap_module.NEWS_JSON_DIR = original_news
+            sitemap_module.SITEMAP_PATH = original_sitemap
