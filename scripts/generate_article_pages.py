@@ -116,12 +116,12 @@ def set_robots_meta(html, should_index):
     """Set one explicit robots directive while preserving the rest of a page."""
     directive = "index,follow" if should_index else "noindex,follow"
     tag = '<meta name="robots" content="' + directive + '">'
-    pattern = re.compile(r'<meta\\s+name=["\\']robots["\\'][^>]*>', re.I)
+    pattern = re.compile(r"<meta\s+name=['\"]robots['\"][^>]*>", re.I)
     if pattern.search(html):
         return pattern.sub(tag, html, count=1)
-    head = re.search(r'<head\\b[^>]*>', html, re.I)
+    head = re.search(r"<head\b[^>]*>", html, re.I)
     if head:
-        return html[:head.end()] + "\\n    " + tag + html[head.end():]
+        return html[:head.end()] + "\n    " + tag + html[head.end():]
     return html
 
 
