@@ -63,7 +63,7 @@
 <ul>
 <li>Duplicate detection: stories with the same normalized title and URL are collected once.</li>
 <li>Thin-content detection: entries with extremely short or empty headlines or excerpts are not promoted to the homepage lead position, are not given their own article page, are not included in sitemaps, and are not placed next to advertising.</li>
-<li>Indexation quality: aggregated third-party story pages are noindex,follow and excluded from regular and Google News sitemaps. Category landing pages remain crawlable. NewsArticle structured data is reserved for explicitly reviewed, substantive PikaNews original editorial content.</li>
+<li>Indexation quality: aggregated third-party story pages are noindex,follow and excluded from regular and Google News sitemaps. Homepage, latest, trending and category listings remain noindex and outside the sitemap until they contain a minimum of four reviewed original stories (three for an individual category). NewsArticle structured data and article indexation are reserved for explicitly reviewed, substantive PikaNews original editorial content.</li>
 <li>Metadata integrity: collection timestamps are not presented as editorial modification dates. dateModified is emitted only when a meaningful modified_at or updated_at value is supplied.</li>
 <li>Malformed entries (missing URL, missing title, invalid dates) are dropped during collection.</li>
 <li>Feed failures never erase previously collected stories.</li>
