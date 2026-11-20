@@ -739,10 +739,12 @@ async function loadCategoryCounts() {
 }
 
 async function loadLastUpdated() {
+    const lastUpdatedEl = document.getElementById('last-updated');
+    if (!lastUpdatedEl) return;
+    lastUpdatedEl.textContent = 'Feed timestamp unavailable';
     try {
         const lastUpdated = await DataManager.getLastUpdated();
-        const lastUpdatedEl = document.getElementById('last-updated');
-        if (lastUpdatedEl && lastUpdated) {
+        if (lastUpdated instanceof Date && Number.isFinite(lastUpdated.getTime())) {
             lastUpdatedEl.textContent = lastUpdated.toLocaleString();
         }
     } catch (error) {
