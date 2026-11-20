@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-11-20T19:50:52.170439+00:00",
+  "timestamp": "2026-11-20T20:40:14.809842+00:00",
   "total_fetched": 285,
-  "new_articles": 141,
-  "duplicates": 144,
+  "new_articles": 46,
+  "duplicates": 239,
   "errors": 2,
   "expired_articles": 0,
   "articles_without_valid_date": 0,
@@ -22,11 +22,11 @@
     "BuzzFeed World": 50
   },
   "by_category": {
-    "hollywood": 30,
-    "entertainment": 21,
-    "technology": 20,
-    "gaming": 20,
-    "business": 24,
-    "sports": 26
+    "hollywood": 18,
+    "entertainment": 6,
+    "technology": 8,
+    "gaming": 7,
+    "business": 2,
+    "sports": 5
   }
 }

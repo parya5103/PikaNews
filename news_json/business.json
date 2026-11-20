@@ -1,5 +1,31 @@
 [
   {
+    "id": "e13eb6814fde5de4c90f9c8e12f6e6001ad166149d22c6acbb3b48f539de2b08",
+    "title": "Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright spot",
+    "summary": "Every weekday, the Investing Club releases the Homestretch, an actionable afternoon update just in time for the last hour of trading.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html",
+    "published_at": "2026-11-20T20:06:12+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108476687-1793279712869-108476687-1793220441401-gettyimages-2286485901-ALPHABET_EARNS.jpg?v=1793279719&w=1920&h=1080",
+    "collection_timestamp": "2026-11-20T20:40:18.167108+00:00",
+    "thin": false
+  },
+  {
+    "id": "db7ceded6435df2f2e033584c8a73a173d065b191563fdbbed0088d183611528",
+    "title": "Nvidia stock plunges 12%, rides longest weekly losing streak since 2008 financial crisis",
+    "summary": "Once the most valuable company in the world, Nvidia now ranks third behind Apple and Microsoft.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+    "published_at": "2026-11-20T19:54:31+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108553456-1794947798558-gettyimages-2304901358-P1276597.jpeg?v=1794947939&w=1920&h=1080",
+    "collection_timestamp": "2026-11-20T20:40:18.166831+00:00",
+    "thin": false
+  },
+  {
     "id": "430a74b49c7165e7d15c0e1b230d41aab919eaf9055fc134cd4c0af373cde5f9",
     "title": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
     "summary": "Former Nvidia CEO Jensen Huang has faced a flurry of criticism on Capitol Hill in the wake of his involvement with a suspected Chinese spy.",
@@ -125,7 +151,7 @@
     "url": "https://www.cnbc.com/2026/11/20/bitcoin-price-catalysts-tokenization-regulation.html",
     "published_at": "2026-11-20T18:07:18+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108273480-17726356822026-03-04t141724z_59018783_rc22pgawuafa_rtrmadp_0_usa-britain-cryptocurrency.jpeg?v=1772635700&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T19:50:58.407604+00:00",
     "thin": false
   },
