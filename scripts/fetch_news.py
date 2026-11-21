@@ -1212,7 +1212,7 @@ def load_existing_articles() -> List[Dict[str, Any]]:
                 log(f"Skipping unreadable recovery feed {filename}: {e}", "WARNING")
 
     recovered = list(recovered_by_id.values())
-    recovered.sort(key=lambda item: item.get("published_at", ""), reverse=True)
+    recovered.sort(key=lambda item: item.get("published_at") or "", reverse=True)
     for article in recovered:
         seen_hashes.add(article["id"])
     log(f"Recovered {len(recovered)} articles from secondary feed files.", "INFO")
@@ -1250,7 +1250,7 @@ def save_articles(new_articles: List[Dict[str, Any]], existing_articles: List[Di
             unique_articles.append(article)
     
     # Sort by published_at (newest first)
-    unique_articles.sort(key=lambda x: x.get("published_at", ""), reverse=True)
+    unique_articles.sort(key=lambda x: x.get("published_at") or "", reverse=True)
     
     # Apply limits
     if len(unique_articles) > MAX_TOTAL_ARTICLES:
@@ -1271,7 +1271,7 @@ def save_articles(new_articles: List[Dict[str, Any]], existing_articles: List[Di
     categories = set(a["category"] for a in unique_articles)
     for category in categories:
         category_articles = [a for a in unique_articles if a["category"] == category]
-        category_articles.sort(key=lambda x: x.get("published_at", ""), reverse=True)
+        category_articles.sort(key=lambda x: x.get("published_at") or "", reverse=True)
         
         # Apply category limit
         if len(category_articles) > MAX_ARTICLES_PER_CATEGORY:
@@ -1507,7 +1507,7 @@ def main():
         a for a in normalized_articles + existing_articles
         if not a.get("image_url") and a.get("image_policy") != "none"
     ]
-    image_candidates.sort(key=lambda a: a.get("published_at", ""), reverse=True)
+    image_candidates.sort(key=lambda a: a.get("published_at") or "", reverse=True)
     enriched = 0
     for article in image_candidates[:15]:
         image_url = fetch_article_image(article.get("url", ""))
