@@ -5639,7 +5639,7 @@
     "url": "https://www.cnbc.com/2026/11/20/bitcoin-pre-ipo-selloff-pattern-anthropic-spacex.html",
     "published_at": "2026-11-20T14:34:14+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108268517-1771860022960-gettyimages-2260490322-AFP_96YR6Q2.jpeg?v=1789476137&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T19:50:58.406632+00:00",
     "thin": false
   },
@@ -5665,7 +5665,7 @@
     "url": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
     "published_at": "2026-11-20T14:15:29+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108555311-1795100709058-gettyimages-2305894647-mms24821_52qceprh.jpeg?v=1795100757&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T19:50:58.404749+00:00",
     "thin": false
   },
@@ -5742,7 +5742,7 @@
     "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
     "published_at": "2026-11-20T14:07:24+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108295661-1776885403878-gettyimages-2271955278-boivin-notitle260422_npyod.jpeg?v=1776885479&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T19:50:58.407109+00:00",
     "thin": false
   },
@@ -6780,6 +6780,70 @@
       "News",
       "Maverick: The Epic Adventures of David Lean"
     ]
+  },
+  {
+    "id": "035a0b1f0eecd56bd1bf679111f85c7e12448bfaf24b7ba0e1e30d2ff45ed204",
+    "title": "Children in the EU – check our new infographic for more",
+    "summary": "In 2025, the French outermost regions of Mayotte, Guyane, and La Réunion had the highest percentage of children (0-17 years) among regions at level 2 of the nomenclature of territorial units for statistics (NUTS 2) with available data. Mayotte was by far the youngest region in the EU, with 50.6% ...",
+    "category": "world",
+    "source": "Eurostat News",
+    "url": "https://ec.europa.eu/eurostat/product?code=edn-20261120-1",
+    "published_at": "2026-11-20T10:00:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-21T12:41:07.999562+00:00",
+    "thin": false,
+    "region": "europe",
+    "image_policy": "none",
+    "author": "Eurostat http://ec.europa.eu/eurostat"
+  },
+  {
+    "id": "8495c58a79d850cf36c96993257a5e2f39b4ded546175cd0210ccb25c1339dcc",
+    "title": "EU records over 560 000 mastectomies in 2024",
+    "summary": "In 2024, there were 560 730 surgeries in the EU to remove part of a mammary gland (partial excision) or all of it (total mastectomy), mainly to prevent or treat breast cancer. Overall, 160 928 total mastectomies were performed across the EU, equivalent to 70.1 total mastectomies per 100 000 fema...",
+    "category": "world",
+    "source": "Eurostat News",
+    "url": "https://ec.europa.eu/eurostat/product?code=ddn-20261120-3",
+    "published_at": "2026-11-20T10:00:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-21T12:41:07.999779+00:00",
+    "thin": false,
+    "region": "europe",
+    "image_policy": "none",
+    "author": "Eurostat http://ec.europa.eu/eurostat"
+  },
+  {
+    "id": "0aa9a4b8e2d697e12dfd98915069a5330d01917fa1f3990a1691ec34d7de0aa2",
+    "title": "Are households with kids becoming less common in EU?",
+    "summary": "In 2025, 76.6% of EU households did not include children. The share of households with children has steadily decreased over time. It fell from 26.9% in 2010 to 25.9% in 2015 and 25.0% in 2020, before dropping to 23.3% in 2025. Compared with 2015, there was a notable increase in the share of singl...",
+    "category": "world",
+    "source": "Eurostat News",
+    "url": "https://ec.europa.eu/eurostat/product?code=ddn-20261120-2",
+    "published_at": "2026-11-20T10:00:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-21T12:41:07.999988+00:00",
+    "thin": false,
+    "region": "europe",
+    "image_policy": "none",
+    "author": "Eurostat http://ec.europa.eu/eurostat"
+  },
+  {
+    "id": "7cbff3470114d63baca993dd1b1be0b54f8834f381f214a70ea8c4b4b1ebd522",
+    "title": "Share of government debt held by resident financial corporations highest in Czechia and Sweden",
+    "summary": "Across the EU, the structure of general government gross debt differs significantly between countries. These differences relate, for example, to the initial and remaining maturity of debt, the debt instruments used and the main institutional sectors holding the debt. At the end of 2025, the shar...",
+    "category": "politics",
+    "source": "Eurostat News",
+    "url": "https://ec.europa.eu/eurostat/product?code=ddn-20261120-1",
+    "published_at": "2026-11-20T10:00:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-21T12:41:08.000206+00:00",
+    "thin": false,
+    "region": "europe",
+    "image_policy": "none",
+    "author": "Eurostat http://ec.europa.eu/eurostat"
   },
   {
     "id": "f94466f3f96b0cf2dd229607e6148d4685bf7c462706a5fbae3d3663599f3812",
@@ -12843,6 +12907,54 @@
       "Politics",
       "Tech"
     ]
+  },
+  {
+    "id": "01f4d0b5f2f538bdcb2b298aea97277c963faf538842f26866562a089adf7a94",
+    "title": "Production in construction up by 0.1% in the euro area and down by 0.5% in the EU",
+    "summary": "In September 2026, compared with August 2026, seasonally adjusted production in construction increased by 0.1% in the euro area and decreased by 0.5% in the EU, according to first estimates from Eurostat, the statistical office of the European Union. In August 2026, production in construction fel...",
+    "category": "world",
+    "source": "Eurostat Press Releases",
+    "url": "https://ec.europa.eu/eurostat/product?code=4-19112026-ap",
+    "published_at": "2026-11-19T10:00:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-21T12:41:07.997148+00:00",
+    "thin": false,
+    "region": "europe",
+    "image_policy": "none",
+    "author": "Eurostat http://ec.europa.eu/eurostat"
+  },
+  {
+    "id": "6af73cacac0b9096c13f145115293198f1ad2533eff7211cb4912efc62be01ed",
+    "title": "Air travel made up 17.2% of trips in 2025",
+    "summary": "In 2025, EU residents made 1.2 billion trips, of which 81.4% were made by land, 17.2% by air and 1.4% by waterways. Cars accounted for the largest share of land-based trips, with 63.3% of all trips. Another 13.3% of all trips were taken by railways and 3.8% by buses and coaches. Source dataset:...",
+    "category": "world",
+    "source": "Eurostat News",
+    "url": "https://ec.europa.eu/eurostat/product?code=ddn-20261119-2",
+    "published_at": "2026-11-19T10:00:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-21T12:41:08.000418+00:00",
+    "thin": false,
+    "region": "europe",
+    "image_policy": "none",
+    "author": "Eurostat http://ec.europa.eu/eurostat"
+  },
+  {
+    "id": "b921ee943bf22c5bb43ef0a417200ee8a48e5fe72fa636b7aacffd777d64f6a8",
+    "title": "Average gender employment gap in EU regions at 9.7 pp",
+    "summary": "In 2025, the EU employment rate for men aged 20 to 64 was 80.9%, while the rate for women was 71.2%. This resulted in a gender employment gap of 9.7 percentage points (pp), down from 10.0 pp in 2024. As part of its target to raise the overall employment rate to 78% by 2030, the European Pillar of...",
+    "category": "world",
+    "source": "Eurostat News",
+    "url": "https://ec.europa.eu/eurostat/product?code=ddn-20261119-1",
+    "published_at": "2026-11-19T10:00:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-21T12:41:08.000647+00:00",
+    "thin": false,
+    "region": "europe",
+    "image_policy": "none",
+    "author": "Eurostat http://ec.europa.eu/eurostat"
   },
   {
     "id": "eba2d0dc4cb448acf1b7ced778a1ac9bb473dc3646b408cd4ab6f72844c25b21",
@@ -18931,6 +19043,22 @@
     "author": "Tristan H. Cockcroft and Eric Karabell"
   },
   {
+    "id": "6d693f8cd0a934a495876dbbcd816fe7de3a54553867cda113bdce120b23a4ea",
+    "title": "European Statistical Monitor: November edition",
+    "summary": "Today, Eurostat released the European Statistical Monitor, a dashboard with monthly and quarterly indicators covering different areas, such as economy, environment, business, health and work. This monthly updated dashboard is designed to track developments within the EU as a whole and its members...",
+    "category": "business",
+    "source": "Eurostat News",
+    "url": "https://ec.europa.eu/eurostat/product?code=wdn-20261118-1",
+    "published_at": "2026-11-18T14:00:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-21T12:41:08.000856+00:00",
+    "thin": false,
+    "region": "europe",
+    "image_policy": "none",
+    "author": "Eurostat http://ec.europa.eu/eurostat"
+  },
+  {
     "id": "a847ad0747093a7ed420910be1aa2195b0142a48154c115ad4687985daf7b844",
     "title": "The Irresistible Alchemy of Man / Woman / Chainsaw",
     "summary": "Six-piece London group makes music that defies description and gets people dancing",
@@ -19651,6 +19779,38 @@
       "Gift Guides",
       "Verge Shopping"
     ]
+  },
+  {
+    "id": "ea20fc5e76c7e5f59a7a7d30db2c75d0f0259d69e3ff817a35e5b0bba9e67a67",
+    "title": "Annual inflation up to 4.0% in the euro area",
+    "summary": "The euro area annual inflation rate was 4.0% in October 2026, up from 3.8% in September. A year earlier, the rate was 2.1%. European Union annual inflation was 4.0% in October 2026, up from 3.8% in September. A year earlier, the rate was 2.5%. These figures are published by Eurostat, the statisti...",
+    "category": "business",
+    "source": "Eurostat Press Releases",
+    "url": "https://ec.europa.eu/eurostat/product?code=2-18112026-ap",
+    "published_at": "2026-11-18T10:00:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-21T12:41:07.997428+00:00",
+    "thin": false,
+    "region": "europe",
+    "image_policy": "none",
+    "author": "Eurostat http://ec.europa.eu/eurostat"
+  },
+  {
+    "id": "3e4b6ce2415c940db1a9a2991967f3b79128d7b08c2fd32ebb6281fd48f78260",
+    "title": "8.5% EU people aged 15-74 had STEM tertiary education",
+    "summary": "In 2025, people with tertiary education in science, technology, engineering, and mathematics (STEM) fields accounted for 8.5% of the EU population aged 15–74. Ireland had the highest share of people aged 15-74 with tertiary attainment in STEM, at 12.0%, followed by Sweden (11.9%), Lithuania (11....",
+    "category": "technology",
+    "source": "Eurostat News",
+    "url": "https://ec.europa.eu/eurostat/product?code=ddn-20261118-1",
+    "published_at": "2026-11-18T10:00:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-21T12:41:08.001071+00:00",
+    "thin": false,
+    "region": "europe",
+    "image_policy": "none",
+    "author": "Eurostat http://ec.europa.eu/eurostat"
   },
   {
     "id": "fe85649904ee2f8f9dc9b2f9ec2462b660463e6709363eecc5c686b63a94dcc3",
@@ -25274,6 +25434,38 @@
       "Trailers",
       "TV Shows"
     ]
+  },
+  {
+    "id": "9e6303c12f5672c90cc6a87ab0c811d96104ad72566627290acfe558ca949fd9",
+    "title": "Record number of students from abroad in the EU",
+    "summary": "In 2024, 1.65 million students from abroad studied at tertiary level across the EU, accounting for 8.7% of all students. Of these, around 514 590 students came from other EU countries, while the remaining 1.14 million came from outside the EU. The number of students from abroad in EU universitie...",
+    "category": "world",
+    "source": "Eurostat News",
+    "url": "https://ec.europa.eu/eurostat/product?code=edn-20261117-1",
+    "published_at": "2026-11-17T10:00:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-21T12:41:08.001283+00:00",
+    "thin": false,
+    "region": "europe",
+    "image_policy": "none",
+    "author": "Eurostat http://ec.europa.eu/eurostat"
+  },
+  {
+    "id": "caeb1c3bdb3c762cad039680053edfcf5bbf5ff4d79a34207a5dc64b47404a24",
+    "title": "EU severe material and social deprivation rate: 6.3%",
+    "summary": "In 2025, 6.3% of the EU’s population experienced severe material and social deprivation, slightly down from 6.4% in 2024. Women (6.6%) recorded a slightly higher severe material and social deprivation rate than men (6.0%). This higher rate for women was observed across age groups, except among th...",
+    "category": "world",
+    "source": "Eurostat News",
+    "url": "https://ec.europa.eu/eurostat/product?code=ddn-20261117-1",
+    "published_at": "2026-11-17T10:00:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-21T12:41:08.001510+00:00",
+    "thin": false,
+    "region": "europe",
+    "image_policy": "none",
+    "author": "Eurostat http://ec.europa.eu/eurostat"
   },
   {
     "id": "4cb45be8afc4c8181cef865c2bce6085ad04a879bcf44bc9aa64b53d34673693",
@@ -31337,6 +31529,38 @@
     ]
   },
   {
+    "id": "9e23cdb8b9be99fba2796bb23007bafd9e864f59f4961a1fc5e29e6258aa0970",
+    "title": "Industrial production up by 0.2% in the euro area and by 0.5% in the EU",
+    "summary": "In September 2026, compared with August 2026, seasonally adjusted industrial production increased by 0.2% in the euro area and by 0.5% in the EU, according to first estimates from Eurostat, the statistical office of the European Union. In August 2026, industrial production fell by 0.5% in the eur...",
+    "category": "world",
+    "source": "Eurostat Press Releases",
+    "url": "https://ec.europa.eu/eurostat/product?code=4-16112026-ap",
+    "published_at": "2026-11-16T10:00:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-21T12:41:07.997670+00:00",
+    "thin": false,
+    "region": "europe",
+    "image_policy": "none",
+    "author": "Eurostat http://ec.europa.eu/eurostat"
+  },
+  {
+    "id": "d4706df830548caabfa517ca14eef3f7884ffd0638904201770c4899844786b4",
+    "title": "EU counted 45 road fatalities per million people in 2024",
+    "summary": "In 2024, there were 20 210 road fatalities across the EU’s territory, equivalent to 45 per million inhabitants. The regional distribution was relatively even: among the 244 regions at level 2 of the nomenclature of territorial units for statistics (NUTS 2) for which data are available, 129 recor...",
+    "category": "world",
+    "source": "Eurostat News",
+    "url": "https://ec.europa.eu/eurostat/product?code=edn-20261116-1",
+    "published_at": "2026-11-16T10:00:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-21T12:41:08.001729+00:00",
+    "thin": false,
+    "region": "europe",
+    "image_policy": "none",
+    "author": "Eurostat http://ec.europa.eu/eurostat"
+  },
+  {
     "id": "77163b8256b3e9c40d7b64bccfa395a5189c82c0785c2911245d17205c0b45d5",
     "title": "(Hated Trope) Accidentally racist race swaps",
     "summary": "Making Butler black in the Artemis Fowl movie carried the implication that his ancestors serving the family were not so much hired as they were purchased. Snape in the Harry Potter reboot makes pretty much all the protagonists look racist &#32; submitted by &#32; /u/GoldenMilk-8765 &#32; to &#32; r/TopCharacterTropes [link] &#32; [comments]",
@@ -33621,252 +33845,5 @@
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45e6/live/30f37df0-e116-11f1-a7db-d90284d21c62.jpg",
     "collection_timestamp": "2026-11-15T20:08:30.062017+00:00",
     "thin": false
-  },
-  {
-    "id": "33e6de404f72da9cac4e7eac7d021f85c522d40083634dab1f2e94d3a11a8382",
-    "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
-    "summary": "&#32; submitted by &#32; /u/AdSpecialist6598 &#32; to &#32; r/technology [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/technology/comments/1xx4f37/reddits_traffic_is_down_13_partly_thanks_to_ai",
-    "published_at": "2026-11-15T19:31:00+00:00",
-    "image_url": "https://external-preview.redd.it/iSXucelVQvxZ0ji2wP6839OGWpvW4horYXq2lbY1KxE.jpeg",
-    "collection_timestamp": "2026-11-16T00:10:34.237177+00:00",
-    "thin": false,
-    "author": "/u/AdSpecialist6598https://www.reddit.com/user/AdSpecialist6598",
-    "tags": [
-      "technology"
-    ]
-  },
-  {
-    "id": "3cc19055f21ee4314a238fd1527a8b5c838bd0c6405aac673f5a69178663eaab",
-    "title": "Pros are seriously some of the most obtuse people on the planet.",
-    "summary": "&#32; submitted by &#32; /u/shapedbydreams &#32; to &#32; r/antiai [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/antiai/comments/1xx4ezq/pros_are_seriously_some_of_the_most_obtuse_people",
-    "published_at": "2026-11-15T19:30:54+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T00:10:34.235800+00:00",
-    "thin": false,
-    "author": "/u/shapedbydreamshttps://www.reddit.com/user/shapedbydreams",
-    "tags": [
-      "antiai"
-    ]
-  },
-  {
-    "id": "8ab77e8a93588d2ede8cb6df7f124008bf4d9a0e2075b33a4a815b211c70b239",
-    "title": "'Portaferry's win was for Ciara' - Turpin",
-    "summary": "Portaferry's Finn Turpin dedicates his side's win to the late Ciara Mageean.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/articles/crgqxypqxq21o",
-    "published_at": "2026-11-15T19:25:02+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5984/live/71ab6610-e11f-11f1-a7a2-7bb21fac8f0b.jpg",
-    "collection_timestamp": "2026-11-15T20:08:30.064313+00:00",
-    "thin": false
-  },
-  {
-    "id": "04ee12ff48d0d38bae8648f3aad3688f9bf11d04a767be065f9b6438335c2cab",
-    "title": "Kevin Feige Felt Bringing X-Men Into ‘Avengers’ Franchise Was “Fun Way” To Celebrate 25 Years",
-    "summary": "As Avengers: Doomsday assembles into theaters next month, Kevin Feige is celebrating more than 25 years of Marvel&#8217;s cinematic journey. The Marvel Studios president, who was also an associate producer on 2000&#8217;s X-Men, recently explained that it &#8220;just felt right&#8221; to bring the mutant superherhoes of Xavier&#8217;s School for Gifted Youngsters into the MCU with [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/kevin-feige-x-men-avengerss-fun-way-celebrate-25-years-1237224515",
-    "published_at": "2026-11-15T19:21:52+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/X-MEN-Hugh-Jackman-James-Marsden-Patrick-Stewart-Halle-Berry-Famke-Janssen-2000.-TM-and-Copyri-MCDAVDO-WD014-1000.jpg",
-    "collection_timestamp": "2026-11-15T20:08:30.034685+00:00",
-    "thin": false,
-    "author": "Glenn Garner",
-    "tags": [
-      "News",
-      "Avengers: Doomsday",
-      "Kevin Feige",
-      "Marvel",
-      "Marvel Studios",
-      "MCU",
-      "X-Men"
-    ]
-  },
-  {
-    "id": "7b3d3d49cc517595b550e54968701e55d2e232520b82caa5afeb4033b30be511",
-    "title": "‘SNL’ Sets December Return With Amanda Seyfried as Host & Don Toliver as Musical Guest",
-    "summary": "The Dec. 5 episode will mark hosting and musical guest debuts for both stars.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/culture/tv-film/snl-amanda-seyfried-don-toliver-december-2026-1236382445",
-    "published_at": "2026-11-15T19:14:59+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-15T20:08:30.037215+00:00",
-    "thin": false,
-    "author": "Mitchell Peters",
-    "tags": [
-      "Culture",
-      "TV/Film",
-      "genre hiphop",
-      "Music News",
-      "saturday night live",
-      "snl",
-      "TV / Film"
-    ]
-  },
-  {
-    "id": "8bc95074f002340755a01927f9e93f4a828313756f67bd823d5dec777f64bd9f",
-    "title": "Phil Collins Says He’s a ‘Well Man’ Now and Hints at the ‘Possibility of Doing Some Shows’ Amid Health Battle: ‘You Haven’t Heard the Last of Me’",
-    "summary": "Phil Collins made a rare public appearance to accept his induction into the Rock &#38; Roll Hall of Fame at the ceremony in Los Angeles on Saturday, where he addressed his health, calling himself “a well man now.” “Thank you so much. Thank you. I’m really not as bad as it looks. I’m much better,” [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/music/news/phil-collins-rock-roll-hall-of-fame-induction-health-1236948171",
-    "published_at": "2026-11-15T19:12:41+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2304672686.jpg",
-    "collection_timestamp": "2026-11-15T20:08:30.032940+00:00",
-    "thin": false,
-    "author": "Isabelle Farina",
-    "tags": [
-      "News",
-      "Phil Collins"
-    ]
-  },
-  {
-    "id": "bb68cd42f3958ebce4e1b81aa622c0fd102c65aed1a13b43c804018d9816b85d",
-    "title": "A Man Has Just Retired, But the Government Insists He Is Dead. Welcome to ‘When I Existed’! (Exclusive Trailer, Plus Chat With the Directors)",
-    "summary": "Uruguayan writers-directors Alejandro Damiani and Martin Avdolov discuss their feature debut, premiering at Tallinn, full of black humor. Plus, watch the exclusive trailer. Kafka sends his regards!",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/tallinn-film-satire-when-i-existed-uruguay-pensioner-dead-1236753960",
-    "published_at": "2026-11-15T19:12:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-15T20:08:30.036065+00:00",
-    "thin": false,
-    "author": "Georg Szalai",
-    "tags": [
-      "Movie News",
-      "Movies",
-      "international",
-      "POFF",
-      "POFF 2026",
-      "Tallinn Black Nights Film Festival"
-    ]
-  },
-  {
-    "id": "7b9a24c4a306190a38f3ba57893c253518663bd0a03dabb5b92475cebb561365",
-    "title": "All Blacks win can keep Welsh fans roaring - James",
-    "summary": "Eddie James and Taine Basham are hungry for more after helping Wales make history against New Zealand, with Australia next up in Cardiff.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6n83gn2mv3vo",
-    "published_at": "2026-11-15T19:10:43+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf0d/live/a6470c80-e10b-11f1-b3df-4961589d9b68.jpg",
-    "collection_timestamp": "2026-11-15T20:08:30.064218+00:00",
-    "thin": false
-  },
-  {
-    "id": "24c95e0812eebafdd81a5c1ea7f92f88788fd554d71606faedfe1d7e3662d7ab",
-    "title": "Box Office: Domestic Ticket Sales Up 20% From Last Year as Hollywood Awaits ‘Hunger Games’ Prequel, ‘Dune 3’ and ‘Avengers: Doomsday’",
-    "summary": "It&#8217;s been a triumphant year for movie theater owners, who are basking in the long-awaited box office rebound. Domestic ticket sales are already 20% above the same point in 2025, and that&#8217;s before a &#8220;Hunger Games&#8221; prequel, a third &#8220;Dune&#8221; and another &#8220;Avengers&#8221; installment hit the big screen. With revenues at $8.76 billion through Nov. [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/box-office/box-office-domestic-ticket-sales-increase-hunger-games-dune-3-avengers-doomsday-1236948160",
-    "published_at": "2026-11-15T19:04:29+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/MCDHUGA_LG049.jpg",
-    "collection_timestamp": "2026-11-15T20:08:30.033194+00:00",
-    "thin": false,
-    "author": "Rebecca Rubin",
-    "tags": [
-      "Box Office",
-      "Avengers: Doomsday",
-      "Dune: Part Three",
-      "The Hunger Games: Sunrise on the Reaping"
-    ]
-  },
-  {
-    "id": "8451a6347e3c8b90a148eba06c7d94692636f93d350eadf139e12e1e89683ddc",
-    "title": "Slayer’s Tom Araya Pauses Concert to Reprimand Unruly Fans: ‘Maintain Yourself’",
-    "summary": "“We’re gonna pause until you guys get your shit and your act together,” singer told destructive crowd. “There’s no one to blame but you”",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-news/slayer-tom-araya-pauses-concert-reprimand-unruly-fans-1235658570",
-    "published_at": "2026-11-15T19:01:08+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-15T20:08:30.037671+00:00",
-    "thin": false,
-    "author": "Daniel Kreps",
-    "tags": [
-      "Music",
-      "Music News",
-      "Slayer"
-    ]
-  },
-  {
-    "id": "3502fd6404eaa3d054a7259fccf60a85431f7f4bfdf53ffdb85602b8f1583ae0",
-    "title": "Nintendo Switch 2 Is Finally Getting Capcom’s Fastest-Selling Game Ever",
-    "summary": "Monster Hunter Wilds is coming to Switch 2, just in time for the holiday season. And it's also a cool 25% off ahead of launch.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/monster-hunter-wilds-nintendo-switch-2-release-date",
-    "published_at": "2026-11-15T19:00:17+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/capcom-characters.jpg",
-    "collection_timestamp": "2026-11-15T20:08:30.059839+00:00",
-    "thin": false,
-    "author": "Jen Glennon",
-    "tags": [
-      "FYI",
-      "Monster Hunter Wilds: Ascendance",
-      "Monster Hunter Wilds"
-    ]
-  },
-  {
-    "id": "52d3e6a0b76217e82603ef260db76297f5fd642c8cfd1f0470cda0034ea34384",
-    "title": "Soho House Creator Nick Jones Is Reinventing the Hotel — Again",
-    "summary": "The hospitality pioneer is back with St. Clement, the U.K. capital’s buzziest launch of 2026, already attracting rock stars, film icons and the fashion set. Does it deliver on the hype?",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/soho-house-creator-nick-jones-new-london-hotel-st-clement-1236753229",
-    "published_at": "2026-11-15T19:00:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-15T20:08:30.036224+00:00",
-    "thin": false,
-    "author": "Kimberly Nordyke",
-    "tags": [
-      "Lifestyle",
-      "Lifestyle News",
-      "international",
-      "London",
-      "Travel"
-    ]
-  },
-  {
-    "id": "9b66ec354990cafbe5669c6286fc1d44b652d697849cc4db8976d68428fce416",
-    "title": "GTA 6 Trophy Count and Full Completion Time Leaks in New Reports",
-    "summary": "Thanks to animal studies and RNG-based achievements, completionists will have to spend hundreds of hours in Grand Theft Auto 6 to 100% the game.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/gta-6-platinum-trophy-mythic-achievement-time-to-get",
-    "published_at": "2026-11-15T18:41:30+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/jason_and_lucia_04.jpg",
-    "collection_timestamp": "2026-11-15T20:08:30.059976+00:00",
-    "thin": false,
-    "author": "Ashely Claudino",
-    "tags": [
-      "Gaming",
-      "Grand Theft Auto 6"
-    ]
-  },
-  {
-    "id": "e051ab254ee8d952fc7b4e712eecd325dfff41e3b4437111c52687bc7dcebeab",
-    "title": "All map fragment locations in the Fortnite Chapter 7 mini season",
-    "summary": "Here's where to find all the currently available map fragments in Fortnite's Chapter 7 mini season.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/fortnite-chapter-7-mini-season-c7ms-map-fragment-locations",
-    "published_at": "2026-11-15T18:38:01+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261101_1001_fn_mapfragment0.jpg",
-    "collection_timestamp": "2026-11-15T20:08:30.060096+00:00",
-    "thin": false,
-    "author": "Julia Lee",
-    "tags": [
-      "Guides",
-      "Fortnite"
-    ]
   }
 ]

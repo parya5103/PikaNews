@@ -453,7 +453,7 @@
     "url": "https://www.cnbc.com/2026/11/20/bitcoin-pre-ipo-selloff-pattern-anthropic-spacex.html",
     "published_at": "2026-11-20T14:34:14+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108268517-1771860022960-gettyimages-2260490322-AFP_96YR6Q2.jpeg?v=1789476137&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T19:50:58.406632+00:00",
     "thin": false
   },
@@ -466,7 +466,7 @@
     "url": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
     "published_at": "2026-11-20T14:15:29+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108555311-1795100709058-gettyimages-2305894647-mms24821_52qceprh.jpeg?v=1795100757&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T19:50:58.404749+00:00",
     "thin": false
   },
@@ -479,7 +479,7 @@
     "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
     "published_at": "2026-11-20T14:07:24+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108295661-1776885403878-gettyimages-2271955278-boivin-notitle260422_npyod.jpeg?v=1776885479&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T19:50:58.407109+00:00",
     "thin": false
   },
@@ -1593,6 +1593,22 @@
     "thin": false
   },
   {
+    "id": "6d693f8cd0a934a495876dbbcd816fe7de3a54553867cda113bdce120b23a4ea",
+    "title": "European Statistical Monitor: November edition",
+    "summary": "Today, Eurostat released the European Statistical Monitor, a dashboard with monthly and quarterly indicators covering different areas, such as economy, environment, business, health and work. This monthly updated dashboard is designed to track developments within the EU as a whole and its members...",
+    "category": "business",
+    "source": "Eurostat News",
+    "url": "https://ec.europa.eu/eurostat/product?code=wdn-20261118-1",
+    "published_at": "2026-11-18T14:00:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-21T12:41:08.000856+00:00",
+    "thin": false,
+    "region": "europe",
+    "image_policy": "none",
+    "author": "Eurostat http://ec.europa.eu/eurostat"
+  },
+  {
     "id": "abd40b14336ff995d32f4a93581b27eda99d35d76f5aba137884f442f8568a15",
     "title": "U.S. soldier taken into military custody over suspected spying for Russia",
     "summary": "The senior serviceman was arrested in the U.K. last week on suspicion of espionage and national security offenses.",
@@ -1651,6 +1667,22 @@
     "image_url": null,
     "collection_timestamp": "2026-11-18T17:47:58.250657+00:00",
     "thin": false
+  },
+  {
+    "id": "ea20fc5e76c7e5f59a7a7d30db2c75d0f0259d69e3ff817a35e5b0bba9e67a67",
+    "title": "Annual inflation up to 4.0% in the euro area",
+    "summary": "The euro area annual inflation rate was 4.0% in October 2026, up from 3.8% in September. A year earlier, the rate was 2.1%. European Union annual inflation was 4.0% in October 2026, up from 3.8% in September. A year earlier, the rate was 2.5%. These figures are published by Eurostat, the statisti...",
+    "category": "business",
+    "source": "Eurostat Press Releases",
+    "url": "https://ec.europa.eu/eurostat/product?code=2-18112026-ap",
+    "published_at": "2026-11-18T10:00:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-21T12:41:07.997428+00:00",
+    "thin": false,
+    "region": "europe",
+    "image_policy": "none",
+    "author": "Eurostat http://ec.europa.eu/eurostat"
   },
   {
     "id": "300645a083788c3354cfda9ea1731dbb1a490cd80521fe203d18983d8422dd30",

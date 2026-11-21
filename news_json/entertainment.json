@@ -6272,45 +6272,5 @@
       "genre pop",
       "Music News"
     ]
-  },
-  {
-    "id": "7b3d3d49cc517595b550e54968701e55d2e232520b82caa5afeb4033b30be511",
-    "title": "‘SNL’ Sets December Return With Amanda Seyfried as Host & Don Toliver as Musical Guest",
-    "summary": "The Dec. 5 episode will mark hosting and musical guest debuts for both stars.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/culture/tv-film/snl-amanda-seyfried-don-toliver-december-2026-1236382445",
-    "published_at": "2026-11-15T19:14:59+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-15T20:08:30.037215+00:00",
-    "thin": false,
-    "author": "Mitchell Peters",
-    "tags": [
-      "Culture",
-      "TV/Film",
-      "genre hiphop",
-      "Music News",
-      "saturday night live",
-      "snl",
-      "TV / Film"
-    ]
-  },
-  {
-    "id": "8451a6347e3c8b90a148eba06c7d94692636f93d350eadf139e12e1e89683ddc",
-    "title": "Slayer’s Tom Araya Pauses Concert to Reprimand Unruly Fans: ‘Maintain Yourself’",
-    "summary": "“We’re gonna pause until you guys get your shit and your act together,” singer told destructive crowd. “There’s no one to blame but you”",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-news/slayer-tom-araya-pauses-concert-reprimand-unruly-fans-1235658570",
-    "published_at": "2026-11-15T19:01:08+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-15T20:08:30.037671+00:00",
-    "thin": false,
-    "author": "Daniel Kreps",
-    "tags": [
-      "Music",
-      "Music News",
-      "Slayer"
-    ]
   }
 ]
