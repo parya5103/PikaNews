@@ -93,7 +93,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add news_json/ data/ frontend/news/ frontend/sitemap.xml frontend/news-sitemap.xml frontend/feed.xml frontend/bollywood.html frontend/hollywood.html frontend/entertainment.html frontend/technology.html frontend/gaming.html frontend/business.html frontend/sports.html frontend/latest.html
+          git add news_json/ data/ frontend/news/ frontend/sitemap.xml frontend/news-sitemap.xml frontend/feed.xml frontend/bollywood.html frontend/hollywood.html frontend/entertainment.html frontend/technology.html frontend/gaming.html frontend/business.html frontend/sports.html frontend/world.html frontend/science.html frontend/latest.html
           if git diff --cached --quiet; then
             echo "No new content - no commit created."
           else
