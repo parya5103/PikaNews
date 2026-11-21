@@ -128,10 +128,10 @@ def set_robots_meta(html, should_index):
 
 
 def update_root_listing_robots(articles, frontend_dir=None):
-    """Keep homepage and Trending feed out of search until editorial volume is adequate."""
+    """Keep the Trending feed gated; the main discovery homepage is always indexable."""
     frontend_dir = frontend_dir or FRONTEND_DIR
     should_index = is_indexable_listing(articles, MIN_INDEXABLE_LISTING_STORIES)
-    for filename in ("index.html", "trending.html"):
+    for filename in ("trending.html",):
         path = os.path.join(frontend_dir, filename)
         if not os.path.isfile(path):
             continue
