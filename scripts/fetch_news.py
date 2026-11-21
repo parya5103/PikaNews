@@ -192,7 +192,7 @@ CATEGORY_KEYWORDS = {
 RSS_FEEDS = {
     "bollywood": [
         {
-            "url": "https://www.pinkvilla.com/feed",
+            "url": "https://www.pinkvilla.com/rss.xml",
             "name": "Pinkvilla",
             "category": "bollywood",
             "language": "en",
