@@ -385,7 +385,7 @@ RSS_FEEDS = {
             "name": "NASA News Releases",
             "category": "science",
             "language": "en",
-            "region": "global",
+            "region": "us",
             "enabled": True,
             "priority": 1,
             "image_policy": "none",
