@@ -946,7 +946,7 @@ async function loadTrendingNews() {
 }
 
 async function loadCategoryNews() {
-    const categories = ['bollywood', 'hollywood', 'technology', 'gaming', 'business', 'sports'];
+    const categories = ['bollywood', 'hollywood', 'technology', 'gaming', 'business', 'sports', 'world', 'science'];
     
     for (const category of categories) {
         const newsEl = document.getElementById(`${category}-news`);
