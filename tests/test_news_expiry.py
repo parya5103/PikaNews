@@ -526,3 +526,83 @@ def test_recovery_feed_sorts_missing_published_dates_safely():
             fetch_news.seen_hashes = old_seen_hashes
             fetch_news.master_feed_needs_repair = old_master_repair
             _restore_fetch_news(fetch_news, originals)
+
+
+def test_global_article_cap_preserves_a_recent_sample_from_each_source():
+    import scripts.fetch_news as fetch_news
+
+    with tempfile.TemporaryDirectory() as tmpdir:
+        fetch_news, originals = _patched_fetch_news(tmpdir)
+        old_stats = fetch_news.stats
+        old_failed_sources = fetch_news.failed_sources
+        old_master_repair = fetch_news.master_feed_needs_repair
+        old_total_cap = fetch_news.MAX_TOTAL_ARTICLES
+        old_source_minimum = fetch_news.MIN_ARTICLES_PER_SOURCE
+        try:
+            fetch_news.stats = {"new_articles": 0}
+            fetch_news.failed_sources = []
+            fetch_news.master_feed_needs_repair = False
+            fetch_news.MAX_TOTAL_ARTICLES = 5
+            fetch_news.MIN_ARTICLES_PER_SOURCE = 1
+            articles = []
+            for source in ("High volume", "World primary", "Science primary"):
+                for index in range(3):
+                    article = _article(
+                        f"{source.lower().replace(' ', '-')}-{index}",
+                        (NOW - timedelta(days=index)).isoformat(),
+                    )
+                    article["source"] = source
+                    articles.append(article)
+
+            fetch_news.save_articles([], articles, always_write=True)
+
+            saved = _read_feed(fetch_news.NEWS_JSON_DIR, "all_articles.json")
+            saved_sources = {article["source"] for article in saved}
+            assert len(saved) == 5
+            assert saved_sources == {"High volume", "World primary", "Science primary"}
+        finally:
+            fetch_news.stats = old_stats
+            fetch_news.failed_sources = old_failed_sources
+            fetch_news.master_feed_needs_repair = old_master_repair
+            fetch_news.MAX_TOTAL_ARTICLES = old_total_cap
+            fetch_news.MIN_ARTICLES_PER_SOURCE = old_source_minimum
+            _restore_fetch_news(fetch_news, originals)
+
+
+def test_world_and_science_json_feeds_merge_related_categories():
+    import scripts.fetch_news as fetch_news
+
+    with tempfile.TemporaryDirectory() as tmpdir:
+        fetch_news, originals = _patched_fetch_news(tmpdir)
+        old_stats = fetch_news.stats
+        old_failed_sources = fetch_news.failed_sources
+        old_master_repair = fetch_news.master_feed_needs_repair
+        try:
+            fetch_news.stats = {"new_articles": 0}
+            fetch_news.failed_sources = []
+            fetch_news.master_feed_needs_repair = False
+            articles = [
+                _article("world-story", NOW.isoformat(), "world"),
+                _article("politics-story", (NOW - timedelta(hours=1)).isoformat(), "politics"),
+                _article("health-story", (NOW - timedelta(hours=2)).isoformat(), "health"),
+                _article("climate-story", (NOW - timedelta(hours=3)).isoformat(), "climate"),
+                _article("science-story", (NOW - timedelta(hours=4)).isoformat(), "science"),
+                _article("technology-story", (NOW - timedelta(hours=5)).isoformat(), "technology"),
+            ]
+
+            fetch_news.save_articles([], articles, always_write=True)
+
+            world = _read_feed(fetch_news.NEWS_JSON_DIR, "world.json")
+            science = _read_feed(fetch_news.NEWS_JSON_DIR, "science.json")
+            assert {article["category"] for article in world} == {
+                "world", "politics", "health", "climate"
+            }
+            assert {article["category"] for article in science} == {
+                "science", "climate"
+            }
+            assert all(article["id"] != "technology-story" for article in world + science)
+        finally:
+            fetch_news.stats = old_stats
+            fetch_news.failed_sources = old_failed_sources
+            fetch_news.master_feed_needs_repair = old_master_repair
+            _restore_fetch_news(fetch_news, originals)
