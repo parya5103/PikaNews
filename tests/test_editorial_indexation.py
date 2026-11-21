@@ -175,3 +175,55 @@ def test_root_listing_robots_never_noindexes_the_discovery_homepage(tmp_path):
 
     assert 'content="index,follow"' in homepage.read_text(encoding="utf-8")
     assert 'content="noindex,follow"' in trending.read_text(encoding="utf-8")
+
+
+def test_category_cards_beyond_base_cap_get_unique_static_article_pages(tmp_path, monkeypatch):
+    import json
+    from scripts import generate_article_pages as generator
+
+    data_dir = tmp_path / "data"
+    frontend_dir = tmp_path / "frontend"
+    news_dir = frontend_dir / "news"
+    data_dir.mkdir()
+    frontend_dir.mkdir()
+    articles = [
+        {
+            "id": "tech00000001",
+            "title": "Recent technology story with a sufficiently long headline",
+            "summary": "A sufficiently detailed summary for the technology story. " + ("Details " * 8),
+            "category": "technology",
+            "source": "Tech Publisher",
+            "url": "https://example.com/tech",
+            "published_at": "2026-11-21T10:00:00+00:00",
+        },
+        {
+            "id": "world0000002",
+            "title": "Older international affairs story with a sufficiently long headline",
+            "summary": "A sufficiently detailed summary for the world story. " + ("Details " * 8),
+            "category": "world",
+            "source": "World Publisher",
+            "url": "https://example.com/world",
+            "published_at": "2026-11-18T10:00:00+00:00",
+        },
+    ]
+    (data_dir / "all_articles.json").write_text(json.dumps(articles), encoding="utf-8")
+    (frontend_dir / "world.html").write_text(
+        '<html><head><meta name="robots" content="noindex,follow"></head>'
+        '<body><div id="world-news"></div></body></html>',
+        encoding="utf-8",
+    )
+    monkeypatch.setattr(generator, "NEWS_JSON_DIR", str(data_dir))
+    monkeypatch.setattr(generator, "NEWS_DIR", str(news_dir))
+    monkeypatch.setattr(generator, "REMOVED_ARTICLES_FILE", str(tmp_path / "removed.json"))
+    monkeypatch.setattr(generator, "MAX_ARTICLES", 1)
+    monkeypatch.setattr(generator, "MAX_CATEGORY_STATIC_ARTICLES", 1)
+    monkeypatch.setattr(generator, "CATEGORY_PAGE_FILTERS", {"world": {"world"}})
+    monkeypatch.setattr(generator, "update_root_listing_robots", lambda articles: None)
+
+    assert generator.generate_article_pages() == 2
+    slug = generator.article_slug(articles[1]["title"], articles[1]["id"])
+    assert (news_dir / slug / "index.html").is_file()
+    category_html = (frontend_dir / "world.html").read_text(encoding="utf-8")
+    assert f'href="news/{slug}/"' in category_html
+    assert "article.html?id=world0000002" not in category_html
+
