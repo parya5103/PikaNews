@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-11-21T12:25:21.756348+00:00",
+  "timestamp": "2026-11-21T12:32:00.704782+00:00",
   "total_fetched": 305,
-  "new_articles": 23,
-  "duplicates": 282,
+  "new_articles": 22,
+  "duplicates": 283,
   "errors": 2,
   "expired_articles": 0,
   "articles_without_valid_date": 0,
@@ -24,8 +24,8 @@
     "NASA News Releases": 10
   },
   "by_category": {
-    "entertainment": 2,
     "technology": 6,
+    "entertainment": 1,
     "science": 1,
     "gaming": 2,
     "sports": 4,
