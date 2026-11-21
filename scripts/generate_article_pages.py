@@ -131,16 +131,17 @@ def is_indexable_listing(articles, minimum=MIN_INDEXABLE_LISTING_STORIES,
         if not isinstance(article, dict):
             continue
         summary = str(article.get("summary") or "").strip()
-        source = str(article.get("source") or "").strip().casefold()
+        source = str(article.get("source") or "").strip()
+        source_domain = domain_of(article.get("url")).casefold()
         published = parse_iso(article.get("published_at"))
-        if len(summary) < MIN_INDEXABLE_SUMMARY_LEN or not source or published is None:
+        if len(summary) < MIN_INDEXABLE_SUMMARY_LEN or not source or not source_domain or published is None:
             continue
         if published.tzinfo is None:
             published = published.replace(tzinfo=timezone.utc)
         if published < cutoff or published > now:
             continue
         qualified.append(article)
-        sources.add(source)
+        sources.add(source_domain)
     return len(qualified) >= minimum and len(sources) >= min_sources
 
 
