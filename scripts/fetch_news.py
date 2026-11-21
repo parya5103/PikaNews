@@ -27,6 +27,11 @@ from urllib.parse import urlparse, urljoin
 import httpx
 from bs4 import BeautifulSoup
 
+try:
+    from scripts.classification_rules import classify_article
+except ImportError:  # direct script execution from the scripts directory
+    from classification_rules import classify_article
+
 # Configure paths
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(REPO_ROOT, "data")
@@ -639,61 +644,16 @@ def parse_date(date_str: Optional[str]) -> Optional[str]:
     return None
 
 
-def categorize_article(title: str, description: str, source_name: str, 
+def categorize_article(title: str, description: str, source_name: str,
                         source_category: str, source_url: str) -> str:
-    """Determine the best category for an article using multiple signals."""
-    if not title:
-        return source_category if source_category else "entertainment"
-    
-    title_lower = title.lower()
-    desc_lower = (description or "").lower()
-    source_lower = (source_name or "").lower()
-    
-    # Score each category
-    category_scores = {}
-    
-    for category, config in CATEGORY_KEYWORDS.items():
-        score = 0
-        
-        # Check title for keywords
-        for keyword in config["keywords"]:
-            if keyword in title_lower:
-                score += config["priority"] * 2
-            if keyword in desc_lower:
-                score += config["priority"]
-        
-        # Check source name
-        for keyword in config["keywords"]:
-            if keyword in source_lower:
-                score += config["priority"] * 3
-        
-        # Check source URL
-        source_domain = extract_domain(source_url)
-        for keyword in config["keywords"]:
-            if keyword in source_domain:
-                score += config["priority"] * 2
-        
-        category_scores[category] = score
-    
-    # If we have a clear winner, use it
-    if category_scores:
-        max_score = max(category_scores.values())
-        if max_score > 0:
-            winners = [c for c, s in category_scores.items() if s == max_score]
-            if len(winners) == 1:
-                return winners[0]
-            # If tie, prefer source category
-            if source_category in winners:
-                return source_category
-            return winners[0]
-    
-    # Use source category if available
-    if source_category:
-        return source_category
-    
-    # Default to entertainment
-    return "entertainment"
-
+    """Classify by article text; publisher identity is not a topic label."""
+    return classify_article(
+        title,
+        description,
+        source_name=source_name,
+        source_category=source_category,
+        source_url=source_url,
+    )
 
 def fetch_with_retry(url: str, max_retries: int = 3, timeout: float = 30.0) -> Optional[str]:
     """Fetch URL with retry logic."""
