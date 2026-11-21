@@ -1,5 +1,18 @@
 [
   {
+    "id": "220792a66752e290ccb456f742961739fbdab24d8704b6f8cc4df9cdffe9a899",
+    "title": "S&P 500 correction: Five forces behind the market sell-off",
+    "summary": "The S&P 500 and Dow Jones Industrial Average closed in correction territory, off 10% from their records. The Nasdaq Composite lost its gain for the year.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html",
+    "published_at": "2026-11-21T11:29:25+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108554307-17950192062026-11-18t162223z_189106541_rc2dqoahnid0_rtrmadp_0_usa-stocks.jpeg?v=1795019320&w=1920&h=1080",
+    "collection_timestamp": "2026-11-21T11:55:22.203392+00:00",
+    "thin": false
+  },
+  {
     "id": "365c459167ddac3290cec8ed20433ecd7794ae5d8df2f8ac85c34ddff6ce0377",
     "title": "How China is using summits to expand its global influence",
     "summary": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
@@ -36,6 +49,19 @@
     "date_unverified": false,
     "image_url": "https://image.cnbcfm.com/api/v1/image/108328441-1782780337378-gettyimages-527099783-20141125034845_1245_IMG_4146JPG_149607.jpeg?v=1782781855&w=1920&h=1080",
     "collection_timestamp": "2026-11-21T09:26:51.965404+00:00",
+    "thin": false
+  },
+  {
+    "id": "5ff9684d5b80d9edc5890feb1b3b6aa253003706dd9940b823730a7f7671f1e3",
+    "title": "Why Anthropic's blockbuster IPO couldn't escape the market correction",
+    "summary": "Anthropic's IPO was a big public market success for the company, but Friday's selloff shows that valuing the AI stock will remain volatile for investors.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-ai-stock-market-selloff.html",
+    "published_at": "2026-11-21T05:30:09+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108556065-1795129225164-gettyimages-2305353821-ANTHROPIC_IPO.jpeg?v=1795129353&w=1920&h=1080",
+    "collection_timestamp": "2026-11-21T11:55:22.203538+00:00",
     "thin": false
   },
   {
@@ -2712,90 +2738,6 @@
     "published_at": "2026-11-15T18:10:18+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-15T20:08:30.061007+00:00",
-    "thin": false
-  },
-  {
-    "id": "0cb11df8d51394e600355875c140a18e8ce424a9622ecbbffec22868fcd8e522",
-    "title": "What I know and respect about Colette Kress, the person now leading Nvidia",
-    "summary": "Colette Kress is the steady hand that Nvidia needs in charge during this turbulent time.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/11/15/jim-cramer-nvidia-colette-kress-jensen-huang.html",
-    "published_at": "2026-11-15T17:14:17+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T07:02:25.962587+00:00",
-    "thin": false
-  },
-  {
-    "id": "12e71f74cb11fcbdadc3e1ea2520f98a2a6491fd459bd4abcb1bd3da2e85c3c7",
-    "title": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
-    "summary": "Trump blamed the Biden administration for the FAA’s aging system after a nationwide ground stop disrupted air travel and urged Congress to approve more funding.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
-    "published_at": "2026-11-15T16:56:40+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-15T20:08:30.061260+00:00",
-    "thin": false
-  },
-  {
-    "id": "17cfd7ab24551f7a3bd333ad00946bde8eb0ffd77aa6dc6068c0a7fac4aa9020",
-    "title": "3 big things we're watching in the stock market in the week ahead",
-    "summary": "Nvidia and Anthropic will share the spotlight in a pivotal week for the AI trade.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/11/15/3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
-    "published_at": "2026-11-15T15:26:20+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-15T20:08:30.061565+00:00",
-    "thin": false
-  },
-  {
-    "id": "dcc7906ece55954d1c36076bac5a03c415d91a638ebc3cec72251de329b65171",
-    "title": "Social Security and the blue wave: What could happen to payroll taxes and senior tax breaks",
-    "summary": "Democrats advocated taxing high earners to shore up Social Security in the runup to the midterms. Plus, a senior deduction is slated to expire in two years.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/15/social-security-tax-changes-midterm-election.html",
-    "published_at": "2026-11-15T14:30:01+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-15T14:34:27.156685+00:00",
-    "thin": false
-  },
-  {
-    "id": "1b9ef743d150c877b9ee71f5e11bb0da50c5a541f84f9ff6ef0fd5bf66aef6cb",
-    "title": "'We slept here.' Flight delays linger as airlines scramble to recover from ground stop",
-    "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-    "published_at": "2026-11-15T14:24:18+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-15T14:34:27.156420+00:00",
-    "thin": false
-  },
-  {
-    "id": "01b3dd65cb41be34504c4ad412b92f7113ecce62c89ff160dca6dac99f0c5397",
-    "title": "I'm a psychologist who studies couples—5 signs you've fallen into a common rut: 'It builds through small habits that each look harmless'",
-    "summary": "Couples today are vulnerable to \"coexistence without contact,\" says psychologist Mark Travers. Here are the symptoms — and what you can do to counteract them.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/make-it/2026/11/15/couples-coexisting-without-connecting.html",
-    "published_at": "2026-11-15T13:48:01+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-15T14:34:27.157092+00:00",
-    "thin": false
-  },
-  {
-    "id": "7c839b17b4f21cd0c2378d73bf45476e816353207e4f23635bb22044202735d5",
-    "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
-    "summary": "EV makers have had to contend with flip-flopping regulatory support from Washington over the years.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
-    "published_at": "2026-11-15T13:00:02+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-15T14:34:27.156547+00:00",
     "thin": false
   }
 ]
