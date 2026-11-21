@@ -124,7 +124,7 @@ def append_audit(action, reason, records):
 
 def rewrite_feeds(all_articles, affected_categories):
     """Rewrite all JSON feeds after an insert/remove (mirrors save_articles)."""
-    all_articles.sort(key=lambda x: x.get("published_at", ""), reverse=True)
+    all_articles.sort(key=lambda x: x.get("published_at") or "", reverse=True)
     all_articles = all_articles[:MAX_TOTAL_ARTICLES]
     save_json(os.path.join(NEWS_JSON_DIR, "all_articles.json"), all_articles)
 
@@ -134,6 +134,19 @@ def rewrite_feeds(all_articles, affected_categories):
         ]
         category_articles = category_articles[:MAX_PER_CATEGORY]
         save_json(os.path.join(NEWS_JSON_DIR, f"{category.lower()}.json"), category_articles)
+
+    # Keep the World and Science discovery feeds aligned with their page
+    # filters when articles are unpublished, deleted or restored.
+    aggregate_categories = {
+        "world": {"world", "politics", "health", "climate"},
+        "science": {"science", "climate"},
+    }
+    for aggregate_name, member_categories in aggregate_categories.items():
+        aggregate_articles = [
+            a for a in all_articles
+            if (a.get("category") or "").lower() in member_categories
+        ][:MAX_PER_CATEGORY]
+        save_json(os.path.join(NEWS_JSON_DIR, f"{aggregate_name}.json"), aggregate_articles)
 
     save_json(os.path.join(NEWS_JSON_DIR, "latest.json"), all_articles[:LATEST_LIMIT])
     save_json(os.path.join(NEWS_JSON_DIR, "trending.json"), all_articles[:TRENDING_LIMIT])
