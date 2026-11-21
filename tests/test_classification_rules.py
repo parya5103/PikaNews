@@ -210,3 +210,31 @@ def test_explicit_game_coverage_still_qualifies_for_gaming():
         "Rockstar has brought L.A. Noire and Red Dead Redemption to Nintendo platforms.",
         source_category="gaming",
     ) == "gaming"
+
+
+def test_existing_articles_are_reclassified_once_using_the_updated_topic_rules(tmp_path, monkeypatch):
+    import json
+    from scripts import fetch_news
+
+    article = {
+        "id": "polygon-book-story",
+        "title": "George R.R. Martin's 7 Best Non-Game of Thrones Books, Ranked",
+        "summary": "From antebellum Mississippi vampires to cat-loving space traders.",
+        "category": "gaming",
+        "source": "Polygon",
+        "url": "https://www.polygon.com/books/example-story",
+        "published_at": "2026-11-21T10:00:00+00:00",
+    }
+    (tmp_path / "all_articles.json").write_text(json.dumps([article]), encoding="utf-8")
+    monkeypatch.setattr(fetch_news, "NEWS_JSON_DIR", str(tmp_path))
+    monkeypatch.setattr(fetch_news, "RSS_FEEDS", {
+        "gaming": [{"name": "Polygon", "category": "gaming", "url": "https://www.polygon.com/rss"}]
+    })
+    fetch_news.seen_hashes.clear()
+    fetch_news.master_feed_needs_repair = False
+
+    loaded = fetch_news.load_existing_articles()
+
+    assert loaded[0]["category"] == "entertainment"
+    assert loaded[0]["classification_version"] == 2
+    assert fetch_news.master_feed_needs_repair is True
