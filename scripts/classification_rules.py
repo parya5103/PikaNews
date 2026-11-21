@@ -99,7 +99,7 @@ def classify_article(
         title_hits = _phrase_hits(title_text, phrases)
         summary_hits = _phrase_hits(summary_text, phrases)
         score = title_hits * _TITLE_WEIGHT + summary_hits * _SUMMARY_WEIGHT
-        if category == str(source_category or "").strip().casefold():
+        if category == str(source_category or "").strip().casefold() and (title_hits or summary_hits):
             score += _SOURCE_CATEGORY_WEIGHT
         if score:
             scores[category] = (score, title_hits, summary_hits)
