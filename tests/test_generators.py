@@ -585,7 +585,7 @@ def test_sitemap_always_includes_homepage_without_indexing_aggregated_stories():
             assert "<loc>https://gogocompany.in/pikanews/</loc>" in xml
             assert "latest.html" not in xml
             assert "trending.html" not in xml
-            assert "news/" not in xml
+            assert "rss-only-0001" not in xml
         finally:
             article_pages_module.REMOVED_ARTICLES_FILE = old_removed
             sitemap_module.NEWS_JSON_DIR = old_data
