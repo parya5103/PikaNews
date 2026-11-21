@@ -56,6 +56,8 @@ stats: Dict[str, Any] = {}
 # Maximum articles to keep per category to prevent bloating
 MAX_ARTICLES_PER_CATEGORY = 500
 MAX_TOTAL_ARTICLES = 2000
+# Reserve a small recent sample from every active publisher before the global cap.
+MIN_ARTICLES_PER_SOURCE = 10
 
 # Automatic old-news retention policy: an article is removed from ALL
 # public PikaNews content once its ORIGINAL published_at is more than
@@ -1260,12 +1262,34 @@ def save_articles(new_articles: List[Dict[str, Any]], existing_articles: List[Di
             seen_ids.add(article_id)
             unique_articles.append(article)
     
-    # Sort by published_at (newest first)
+    # Sort by published_at (newest first); missing dates stay last.
     unique_articles.sort(key=lambda x: x.get("published_at") or "", reverse=True)
-    
-    # Apply limits
+
+    # Preserve publisher diversity when the global cap is reached. Without
+    # this reservation, high-volume feeds can crowd out smaller primary
+    # sources (for example climate/science feeds) even while their stories
+    # remain inside the 30-day retention window.
     if len(unique_articles) > MAX_TOTAL_ARTICLES:
-        unique_articles = unique_articles[:MAX_TOTAL_ARTICLES]
+        by_source = {}
+        for article in unique_articles:
+            source_name = article.get("source") or "Unknown"
+            by_source.setdefault(source_name, []).append(article)
+
+        reserved = []
+        for source_articles in by_source.values():
+            reserved.extend(source_articles[:MIN_ARTICLES_PER_SOURCE])
+
+        reserved.sort(key=lambda x: x.get("published_at") or "", reverse=True)
+        if len(reserved) >= MAX_TOTAL_ARTICLES:
+            unique_articles = reserved[:MAX_TOTAL_ARTICLES]
+        else:
+            reserved_ids = {article.get("id") for article in reserved}
+            remaining = [
+                article for article in unique_articles
+                if article.get("id") not in reserved_ids
+            ]
+            unique_articles = reserved + remaining[:MAX_TOTAL_ARTICLES - len(reserved)]
+            unique_articles.sort(key=lambda x: x.get("published_at") or "", reverse=True)
     
     # Save all articles
     try:
@@ -1311,6 +1335,29 @@ def save_articles(new_articles: List[Dict[str, Any]], existing_articles: List[Di
         except Exception as e:
             log(f"Error clearing {category} articles: {e}", "ERROR")
     
+    # World and Science are discovery views spanning related topics.
+    # Their client-side loaders request world.json/science.json by page name,
+    # so publish merged feeds rather than only the literal category label.
+    aggregate_categories = {
+        "world": {"world", "politics", "health", "climate"},
+        "science": {"science", "climate"},
+    }
+    for aggregate_name, member_categories in aggregate_categories.items():
+        aggregate_articles = [
+            article for article in unique_articles
+            if (article.get("category") or "").lower() in member_categories
+        ]
+        aggregate_articles.sort(
+            key=lambda x: x.get("published_at") or "", reverse=True
+        )
+        aggregate_articles = aggregate_articles[:MAX_ARTICLES_PER_CATEGORY]
+        aggregate_file = os.path.join(NEWS_JSON_DIR, f"{aggregate_name}.json")
+        try:
+            with open(aggregate_file, "w", encoding="utf-8") as f:
+                json.dump(aggregate_articles, f, indent=2, ensure_ascii=False)
+        except Exception as e:
+            log(f"Error saving aggregated {aggregate_name} feed: {e}", "ERROR")
+
     # Save latest (last 100 articles)
     latest_file = os.path.join(NEWS_JSON_DIR, "latest.json")
     latest_articles = unique_articles[:100]
