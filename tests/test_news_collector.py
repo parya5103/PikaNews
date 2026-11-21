@@ -492,4 +492,5 @@ class TestRSSFeedConfiguration:
         assert configured["IGN"]["enabled"] is False
         assert configured["Reddit Popular"]["enabled"] is False
         assert configured["Pinkvilla"]["enabled"] is True
+        assert configured["Pinkvilla"]["url"] == "https://www.pinkvilla.com/rss.xml"
         assert configured["ESPN"]["enabled"] is True
