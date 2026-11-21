@@ -26,6 +26,8 @@ on:
       - 'scripts/validate_generated_articles.py'
       - 'scripts/generate_sitemap.py'
       - 'scripts/generate_news_sitemap.py'
+      - 'scripts/generate_rss.py'
+      - 'tests/test_generators.py'
       - 'tests/test_editorial_indexation.py'
       - 'tests/test_generated_article_validation.py'
       - 'tests/test_empty_master_feed_recovery.py'
