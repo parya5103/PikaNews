@@ -1,3 +1,17 @@
+// Load the shared GoGo Tag Manager container on every PikaNews page that
+// includes this application bundle (home, topic pages and generated articles).
+(function loadGoGoTagManager() {
+    if (window.__gogoGtmLoaded) return;
+    window.__gogoGtmLoaded = true;
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+    const firstScript = document.getElementsByTagName('script')[0];
+    const tag = document.createElement('script');
+    tag.async = true;
+    tag.src = 'https://www.googletagmanager.com/gtm.js?id=GTM-TH4NX8MH';
+    firstScript.parentNode.insertBefore(tag, firstScript);
+})();
+
 // PikaNews Main Application
 
 // Initialize when DOM is ready
