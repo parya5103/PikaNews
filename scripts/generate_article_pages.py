@@ -687,7 +687,7 @@ def generate_article_pages():
         written += 1
 
     category_pages_updated = write_category_pages(category_eligible, generated_slugs)
-    update_root_listing_robots(category_eligible)
+    update_root_listing_robots(article_eligible)
     print(f"Static article pages generated: {written} (stale dirs removed: {removed_count})")
     print(f"Category pages updated with crawlable stories: {category_pages_updated}")
     print(f"Output directory: {NEWS_DIR}")
