@@ -540,7 +540,7 @@ CATEGORY_PAGE_FILTERS = {
     "gaming": {"gaming"},
     "business": {"business"},
     "sports": {"sports"},
-    "world": {"world"},
+    "world": {"world", "politics", "health", "climate"},
     "science": {"science"},
     "latest": None,
 }
