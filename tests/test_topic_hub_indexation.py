@@ -7,7 +7,7 @@ from scripts.generate_article_pages import is_indexable_listing
 NOW = datetime(2026, 11, 22, 12, 0, tzinfo=timezone.utc)
 
 
-def stories(count=12, sources=6, summary_length=150, age_days=1):
+def stories(count=12, sources=6, age_days=1):
     published = (NOW - timedelta(days=age_days)).isoformat()
     return [
         {
@@ -89,3 +89,10 @@ def test_topic_hub_sitemap_rejects_low_quality_category_feed(tmp_path, monkeypat
 
     assert "https://gogocompany.in/pikanews/technology.html" not in xml
     assert "https://gogocompany.in/pikanews/latest.html" not in xml
+
+def test_topic_hub_requires_distinct_publisher_domains_not_just_source_labels():
+    same_publisher = stories()
+    for index, story in enumerate(same_publisher):
+        story["source"] = f"Publisher label {index}"
+        story["url"] = f"https://same-publisher.example/story/{index}"
+    assert not is_indexable_listing(same_publisher, minimum=12, min_sources=5, now=NOW)
