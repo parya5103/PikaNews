@@ -102,3 +102,23 @@ def test_topic_hub_rejects_missing_or_invalid_publisher_urls():
     for story in invalid:
         story["url"] = "not-a-valid-publisher-url"
     assert not is_indexable_listing(invalid, minimum=12, min_sources=5, now=NOW)
+
+def test_sitemap_does_not_count_tombstoned_stories_toward_topic_hub_threshold(tmp_path, monkeypatch):
+    import json
+    from scripts import generate_sitemap as sitemap
+
+    data_dir = tmp_path / "news_json"
+    data_dir.mkdir()
+    articles = stories()
+    (data_dir / "all_articles.json").write_text(json.dumps(articles), encoding="utf-8")
+    output = tmp_path / "sitemap.xml"
+    removed_ids = {article["id"] for article in articles[:5]}
+    monkeypatch.setattr(sitemap, "NEWS_JSON_DIR", str(data_dir))
+    monkeypatch.setattr(sitemap, "SITEMAP_PATH", str(output))
+    monkeypatch.setattr(sitemap, "CATEGORY_PAGE_FILTERS", {"technology": {"technology"}, "latest": None})
+    monkeypatch.setattr(sitemap, "load_removed_hashes", lambda: removed_ids)
+
+    xml = sitemap.generate_sitemap()
+
+    assert "https://gogocompany.in/pikanews/technology.html" not in xml
+    assert "https://gogocompany.in/pikanews/latest.html" not in xml
