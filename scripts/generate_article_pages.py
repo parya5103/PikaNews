@@ -24,7 +24,7 @@ import json
 import os
 import re
 import shutil
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from html import escape
 from urllib.parse import quote, urljoin
 
@@ -39,7 +39,7 @@ REMOVED_ARTICLES_FILE = os.path.join(REPO_ROOT, "data", "removed_articles.json")
 LOGO_URL = urljoin(BASE_URL, "images/pikanews-logo.svg")
 
 MAX_ARTICLES = 300          # base static article-page cap
-MAX_CATEGORY_STATIC_ARTICLES = 8  # keep every pre-rendered category card crawlable
+MAX_CATEGORY_STATIC_ARTICLES = 12  # keep every pre-rendered topic-hub card crawlable
 MAX_RELATED = 4
 MIN_TITLE_LEN = 20
 MIN_SUMMARY_LEN = 40
@@ -104,15 +104,44 @@ def is_indexable_article(article):
     """Aggregated RSS excerpts remain accessible but are not indexable articles."""
     return not is_thin(article) and is_original_editorial(article)
 
-MIN_INDEXABLE_LISTING_STORIES = 4
-MIN_INDEXABLE_CATEGORY_STORIES = 3
+MIN_INDEXABLE_LISTING_STORIES = 12
+MIN_INDEXABLE_CATEGORY_STORIES = 8
+MIN_INDEXABLE_LISTING_SOURCES = 5
+MIN_INDEXABLE_CATEGORY_SOURCES = 4
+MIN_INDEXABLE_SUMMARY_LEN = 120
+MAX_INDEXABLE_LISTING_AGE_DAYS = 14
 
 
-def is_indexable_listing(articles, minimum=MIN_INDEXABLE_LISTING_STORIES):
-    """Only a useful volume of reviewed original stories can index a feed listing."""
+def is_indexable_listing(articles, minimum=MIN_INDEXABLE_LISTING_STORIES,
+                         min_sources=MIN_INDEXABLE_LISTING_SOURCES, now=None):
+    """Index a topic hub only when it is fresh, substantial and source-diverse.
+
+    Individual third-party article pages remain noindex. This gate applies only
+    to curated listing pages that provide multiple recent publisher excerpts.
+    """
     if not isinstance(articles, (list, tuple)):
         return False
-    return sum(1 for article in articles if is_indexable_article(article)) >= minimum
+    now = now or datetime.now(timezone.utc)
+    if now.tzinfo is None:
+        now = now.replace(tzinfo=timezone.utc)
+    cutoff = now - timedelta(days=MAX_INDEXABLE_LISTING_AGE_DAYS)
+    qualified = []
+    sources = set()
+    for article in articles:
+        if not isinstance(article, dict):
+            continue
+        summary = str(article.get("summary") or "").strip()
+        source = str(article.get("source") or "").strip().casefold()
+        published = parse_iso(article.get("published_at"))
+        if len(summary) < MIN_INDEXABLE_SUMMARY_LEN or not source or published is None:
+            continue
+        if published.tzinfo is None:
+            published = published.replace(tzinfo=timezone.utc)
+        if published < cutoff or published > now:
+            continue
+        qualified.append(article)
+        sources.add(source)
+    return len(qualified) >= minimum and len(sources) >= min_sources
 
 
 def set_robots_meta(html, should_index):
@@ -619,7 +648,7 @@ def write_category_pages(articles, generated_slugs, frontend_dir=None):
             article for article in articles
             if (article.get("category") or "").lower() in allowed_categories
         ]
-        selected = selected[:8]
+        selected = selected[:MAX_CATEGORY_STATIC_ARTICLES]
         with open(path, "r", encoding="utf-8") as f:
             original = f.read()
         cards = (
@@ -628,7 +657,8 @@ def write_category_pages(articles, generated_slugs, frontend_dir=None):
         )
         rendered = _replace_div_contents(original, page + "-news", cards)
         minimum = MIN_INDEXABLE_LISTING_STORIES if page == "latest" else MIN_INDEXABLE_CATEGORY_STORIES
-        rendered = set_robots_meta(rendered, is_indexable_listing(selected, minimum))
+        min_sources = MIN_INDEXABLE_LISTING_SOURCES if page == "latest" else MIN_INDEXABLE_CATEGORY_SOURCES
+        rendered = set_robots_meta(rendered, is_indexable_listing(selected, minimum, min_sources))
         if rendered != original:
             with open(path, "w", encoding="utf-8") as f:
                 f.write(rendered)
