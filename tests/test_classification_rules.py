@@ -62,6 +62,20 @@ def test_global_sources_are_enabled_and_do_not_reuse_remote_images():
     assert science["image_policy"] == "none"
 
 
+def test_eurostat_world_feeds_are_enabled_and_region_tagged():
+    from scripts.fetch_news import RSS_FEEDS
+
+    eurostat = RSS_FEEDS["world"][1:]
+    assert [source["name"] for source in eurostat] == [
+        "Eurostat Press Releases",
+        "Eurostat News",
+    ]
+    assert all(source["enabled"] for source in eurostat)
+    assert all(source["region"] == "europe" for source in eurostat)
+    assert all(source["image_policy"] == "none" for source in eurostat)
+    assert all("CC BY 4.0" in source["reuse_policy"] for source in eurostat)
+
+
 def test_primary_source_image_policy_is_preserved_during_normalization():
     from scripts import fetch_news
 
