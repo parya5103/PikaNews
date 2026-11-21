@@ -412,6 +412,17 @@ RSS_FEEDS = {
             "priority": 1,
             "image_policy": "none",
             "reuse_policy": "Use factual headlines and short attributed excerpts only; do not reuse feed images or NASA identifiers."
+        },
+        {
+            "url": "https://www.climate.gov/feeds/news-features/highlights.rss",
+            "name": "NOAA Climate.gov",
+            "category": "science",
+            "language": "en",
+            "region": "global",
+            "enabled": True,
+            "priority": 1,
+            "image_policy": "none",
+            "reuse_policy": "NOAA Climate.gov permits reuse of content credited to NOAA Climate.gov with attribution; exclude third-party credited material and images, and do not imply NOAA endorsement."
         }
     ]
 }
