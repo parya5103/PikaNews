@@ -366,6 +366,32 @@ RSS_FEEDS = {
             "priority": 1
         },
     ]
+    "world": [
+        {
+            "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+            "name": "UN News",
+            "category": "world",
+            "language": "en",
+            "region": "global",
+            "enabled": True,
+            "priority": 1,
+            "image_policy": "none",
+            "reuse_policy": "UN News RSS is used for headline discovery; display only a short attributed excerpt and link to the original."
+        }
+    ],
+    "science": [
+        {
+            "url": "https://www.nasa.gov/news-release/feed/",
+            "name": "NASA News Releases",
+            "category": "science",
+            "language": "en",
+            "region": "global",
+            "enabled": True,
+            "priority": 1,
+            "image_policy": "none",
+            "reuse_policy": "Use factual headlines and short attributed excerpts only; do not reuse feed images or NASA identifiers."
+        }
+    ]
 }
 
 
@@ -879,7 +905,10 @@ def normalize_article(article: Dict[str, Any], source_config: Dict[str, Any]) ->
         
         # Get image URL
         # Preserve signed/CDN query parameters; image URLs are not article URLs.
-        image_url = normalize_image_url(article.get("image_url"), normalized_url)
+        image_url = (
+            None if source_config.get("image_policy") == "none"
+            else normalize_image_url(article.get("image_url"), normalized_url)
+        )
         
         # Get author
         author = article.get("author")
@@ -906,6 +935,11 @@ def normalize_article(article: Dict[str, Any], source_config: Dict[str, Any]) ->
             "thin": bool(len(clean_title) < 20 or len(clean_desc.strip()) < 40)
         }
         
+        if source_config.get("region"):
+            normalized["region"] = source_config["region"]
+        if source_config.get("image_policy") == "none":
+            normalized["image_policy"] = "none"
+
         if author:
             normalized["author"] = author
         
@@ -1368,7 +1402,10 @@ def main():
             source_config = {
                 "name": source_name,
                 "category": source_category,
-                "url": url
+                "url": url,
+                "region": feed_info.get("region", ""),
+                "image_policy": feed_info.get("image_policy", "allow"),
+                "reuse_policy": feed_info.get("reuse_policy", "")
             }
             
             try:
@@ -1424,7 +1461,10 @@ def main():
     log(f"Duplicates skipped: {stats['duplicates']}", "INFO")
 
     # Repair missing thumbnails on new and existing stories, with bounded network work.
-    image_candidates = [a for a in normalized_articles + existing_articles if not a.get("image_url")]
+    image_candidates = [
+        a for a in normalized_articles + existing_articles
+        if not a.get("image_url") and a.get("image_policy") != "none"
+    ]
     image_candidates.sort(key=lambda a: a.get("published_at", ""), reverse=True)
     enriched = 0
     for article in image_candidates[:15]:
