@@ -5,8 +5,9 @@ Generates XML sitemap for SEO purposes.
 
 Article URLs now point to the generated static article pages
 (news/<slug>/) instead of query-parameter URLs (article.html?id=...):
-  - all third-party aggregated entries are excluded from indexation
-  - only explicitly reviewed, substantial original editorial pages are included
+  - individual third-party aggregated article pages are excluded from indexation
+  - fresh, substantial, source-diverse topic listings may be included
+  - original editorial articles are included only after explicit review
   - admin-removed (tombstoned) articles are skipped
   - capped at 1000 article URLs per Google sitemap limits
 
