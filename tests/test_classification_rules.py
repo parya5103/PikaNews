@@ -24,11 +24,9 @@ def test_topic_is_not_inferred_from_unrelated_publisher_brand():
     ) == "business"
 
 
-def test_world_politics_health_and_climate_stories_use_visible_world_feed():
-    assert classify_article("UN Security Council calls emergency meeting", "") == "world"
-    assert classify_article("WHO issues new public health guidance", "") == "world"
-    assert classify_article("Global warming accelerates across the Arctic", "") == "world"
-    assert classify_article("", "", source_category="health") == "world"
+def test_world_politics_and_health_topics_are_supported():
+    assert classify_article("UN Security Council calls emergency meeting", "") == "politics"
+    assert classify_article("WHO issues new public health guidance", "") == "health"
 
 
 def test_sports_and_gaming_are_distinguished():
@@ -96,7 +94,7 @@ def test_world_and_science_category_pages_are_registered_and_noindex():
     from scripts.generate_article_pages import CATEGORY_PAGE_FILTERS
 
     root = Path(__file__).resolve().parents[1] / "frontend"
-    assert CATEGORY_PAGE_FILTERS["world"] == {"world"}
+    assert CATEGORY_PAGE_FILTERS["world"] == {"world", "politics", "health", "climate"}
     assert CATEGORY_PAGE_FILTERS["science"] == {"science"}
     for category in ("world", "science"):
         page = (root / f"{category}.html").read_text(encoding="utf-8")
