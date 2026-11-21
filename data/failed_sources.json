@@ -11,8 +11,14 @@
       "url": "https://www.espn.com/espn/rss/news",
       "category": "sports",
       "error": "Failed to fetch"
+    },
+    {
+      "name": "UN Meetings Coverage and Press Releases",
+      "url": "https://www.un.org/press/en/feed",
+      "category": "world",
+      "error": "Failed to fetch"
     }
   ],
-  "timestamp": "2026-11-21T12:59:13.625687+00:00",
-  "total_failed": 2
+  "timestamp": "2026-11-21T13:11:50.478191+00:00",
+  "total_failed": 3
 }

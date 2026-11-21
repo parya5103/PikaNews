@@ -13,6 +13,65 @@
     "thin": false
   },
   {
+    "id": "095ad4e75f20b5136ad79efdccf4fb15ec01f4c3e07ae2232ba023abd3ac455e",
+    "title": "Warren Buffett quadruples Thanksgiving gifts: A breakdown of how much wealth he's giving away",
+    "summary": "Warren Buffett more than quadrupled his Thanksgiving donations to four family foundations this year to $5.5 billion.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/21/warren-buffett-quadruples-thanksgiving-gifts.html",
+    "published_at": "2026-11-21T13:01:44+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108140490-1746283733049-BUFFETT_3.jpg?v=1747341825&w=1920&h=1080",
+    "collection_timestamp": "2026-11-21T13:11:49.608444+00:00",
+    "thin": false
+  },
+  {
+    "id": "5497adc2ba8ee0f9fe0d9e616620864a177bc7220f42b327fed55b7c441c0508",
+    "title": "Nintendo’s Long History with GTA Seems to Have Met Its End",
+    "summary": "There's no sign of GTA 6 on Switch 2, or even GTA 5, yet Rockstar has brought L.A. Noire and Red Dead Redemption to Switch",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/switchboard-nintendo-switch-2-gta-6-rockstar",
+    "published_at": "2026-11-21T13:00:17+00:00",
+    "date_unverified": false,
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-3-switch.jpg",
+    "collection_timestamp": "2026-11-21T13:11:49.607906+00:00",
+    "thin": false,
+    "author": "Oli Welsh",
+    "tags": [
+      "Switchboard",
+      "Grand Theft Auto",
+      "Nintendo",
+      "Nintendo Switch 2"
+    ]
+  },
+  {
+    "id": "af8acc32a30a8e5f842629877733df8348dcd926bebd9ba932de35dfd22da043",
+    "title": "England call up McKinney for South Africa Tests",
+    "summary": "England call up uncapped Durham opener Ben McKinney for the Test tour of South Africa after Jacob Bethell's injury withdrawal.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cwx2evg5pez6o",
+    "published_at": "2026-11-21T13:00:06+00:00",
+    "date_unverified": false,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c829/live/c276d470-e5a8-11f1-99a1-253766e7ad8b.jpg",
+    "collection_timestamp": "2026-11-21T13:11:49.609061+00:00",
+    "thin": false
+  },
+  {
+    "id": "920973e37d3d86e09cb711bd49672704c351c5356c50bd75939c68857f3c86d6",
+    "title": "Tech outages are fueling a new doomsday economy",
+    "summary": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
+    "published_at": "2026-11-21T13:00:01+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108556652-1795196759983-261119_cg_32_doomsday_preppers_2.jpg?v=1795196815&w=1920&h=1080",
+    "collection_timestamp": "2026-11-21T13:11:49.608245+00:00",
+    "thin": false
+  },
+  {
     "id": "2f9826248eecc8c48d4aa5c594617bd09ed3062e01a6216c2ee176840d3ad754",
     "title": "Hanu-Man 2 The Rise of Vanaras: Makers announce Panja Vaisshnav Tej to lead sequel; Did the actor replace Teja Sajja?",
     "summary": "The makers of Hanu-Man have announced a new fantasy venture titled Hanu-Man 2: The Rise of Vanaras, featuring Panja Vaisshnav Tej in the lead role. The announcement has sparked buzz, especially as Teja Sajja headlined the original film. Hanu-Man 2: The Rise of Vanaras announced The announcement poster offers a glimpse into the ambitious fantasy world, featuring a man rising through the clouds against a striking divine backdrop. Sharing the announcement, the production house wrote, &ldquo;What be",
@@ -709,6 +768,49 @@
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/618b/live/83c124c0-e57a-11f1-a5f6-b3028adf2d6d.jpg",
     "collection_timestamp": "2026-11-21T09:26:51.966010+00:00",
     "thin": false
+  },
+  {
+    "id": "f0c6738268e813263c6ce0ce2dafb17e2f3f8fab1637f4915cf19fe488482edb",
+    "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+    "summary": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+    "published_at": "2026-11-21T08:00:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/xiaomi-18-pro-max-11.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-21T13:11:49.588252+00:00",
+    "thin": false,
+    "author": "Dominic Preston",
+    "tags": [
+      "Gadgets",
+      "Mobile",
+      "Phone Reviews",
+      "Phones",
+      "Reviews",
+      "Tech",
+      "Xiaomi"
+    ]
+  },
+  {
+    "id": "4c4599f39f860238b834c6b3c270691c5c373baf3441fcee915422297e745f1a",
+    "title": "The game of the year is finally here",
+    "summary": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about nuclear radiation [&#8230;]",
+    "category": "gaming",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
+    "published_at": "2026-11-21T08:00:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-153.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-21T13:11:49.588527+00:00",
+    "thin": false,
+    "author": "David Pierce",
+    "tags": [
+      "Gadgets",
+      "Installer",
+      "Streaming",
+      "Tech"
+    ]
   },
   {
     "id": "4bcfb1204471b501778e5d73845c0a3c003e8a74b8794967314979bf824fa9d3",
@@ -33763,95 +33865,6 @@
       "Doctor Who",
       "TV",
       "Sci-Fi"
-    ]
-  },
-  {
-    "id": "6cd0f14a91bff3b29d4e5a718542ca1a037b93c5b52a2b86218855641f94fe35",
-    "title": "Olivia Rodrigo’s ‘you seem pretty sad for a girl so in love’ Scores Fifth Week at No. 1 on Billboard 200",
-    "summary": "The set ties SOUR for her longest reign. Plus, Lil Baby and P1Harmony debut in the top five.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-pretty-sad-fifth-week-atop-billboard-200-1236382448",
-    "published_at": "2026-11-15T20:00:09+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-15T20:08:30.037082+00:00",
-    "thin": false,
-    "author": "Keith Caulfield",
-    "tags": [
-      "Chart Beat",
-      "Music",
-      "Billboard 200",
-      "breaking",
-      "genre pop",
-      "Music News"
-    ]
-  },
-  {
-    "id": "1b3ea38c68b6326c0bf3a0078cee776b4b9fa58815af0fa923d83b64099b76a6",
-    "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
-    "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-    "published_at": "2026-11-15T19:58:21+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T07:02:25.962491+00:00",
-    "thin": false
-  },
-  {
-    "id": "3559ec4f4a6297caf1cdecc96a08246d6fdead0cde143df498fd759ba8ef398e",
-    "title": "Sai Pallavi's Calm Cop in OM: Is Nithya Reddy Hiding Something?",
-    "summary": "Sai Pallavi's character in OM could reveal her complex role",
-    "category": "bollywood",
-    "source": "Filmfare",
-    "url": "https://www.filmfare.com/news/south/sai-pallavis-calm-cop-in-om-is-nithya-reddy-hiding-something-87166.html",
-    "published_at": "2026-11-15T19:52:09+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T17:16:56.642796+00:00",
-    "thin": false
-  },
-  {
-    "id": "e90b3ae8c5256d5fa82ea1e318705770f51d15d0c35b0e5c023d17fcf3b286d7",
-    "title": "Aston Villa beat Birmingham in WSL derby",
-    "summary": "Mathilde Harviken scores the only goal as Aston Villa beat Birmingham City in their first Women's Super League derby since May 2022.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/cjp3v5pndyz1o",
-    "published_at": "2026-11-15T19:47:37+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b5a/live/dbf1e190-e10e-11f1-a2d0-ff163dc3689d.jpg",
-    "collection_timestamp": "2026-11-15T20:08:30.062997+00:00",
-    "thin": false
-  },
-  {
-    "id": "a6616e72b26e7a4741bea07e84a049f709d3f27d0c9168e63c0860f9b023dd49",
-    "title": "Struggling Charlton make WSL history after defeat at West Ham",
-    "summary": "Charlton Athletic become the first team in Women's Super League history to lose their opening 10 matches of the season as Viviane Asseyi scores twice to guide West Ham United to victory.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/videos/c6kg7rpkr3jlo",
-    "published_at": "2026-11-15T19:43:57+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ede/live/02b680b0-e10f-11f1-93e1-3b657b665bcf.jpg",
-    "collection_timestamp": "2026-11-15T20:08:30.062648+00:00",
-    "thin": false
-  },
-  {
-    "id": "438d7e9394ed49fbcb87a6ddb4ff47b4f7bc874c59f9bb9d16a07f0e4fb9153b",
-    "title": "Baby2Baby Gala Fetes Demi Moore and Raises Over $20M for the Cause",
-    "summary": "Kerry Washington, Keke Palmer, Ciara, Chrissy Teigen, Jessica Alba, Jenna Dewan, Julie Bowen, Katy Perry and Kelly Rowland also took part in Saturday's star-studded event.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/baby2baby-gala-demi-moore-raises-20-million-1236755662",
-    "published_at": "2026-11-15T19:40:34+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-15T20:08:30.035895+00:00",
-    "thin": false,
-    "author": "Kirsten Chuba",
-    "tags": [
-      "Lifestyle",
-      "Lifestyle News",
-      "Baby2Baby",
-      "Demi Moore",
-      "Events"
     ]
   }
 ]

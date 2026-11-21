@@ -13,6 +13,65 @@
     "thin": false
   },
   {
+    "id": "095ad4e75f20b5136ad79efdccf4fb15ec01f4c3e07ae2232ba023abd3ac455e",
+    "title": "Warren Buffett quadruples Thanksgiving gifts: A breakdown of how much wealth he's giving away",
+    "summary": "Warren Buffett more than quadrupled his Thanksgiving donations to four family foundations this year to $5.5 billion.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/21/warren-buffett-quadruples-thanksgiving-gifts.html",
+    "published_at": "2026-11-21T13:01:44+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108140490-1746283733049-BUFFETT_3.jpg?v=1747341825&w=1920&h=1080",
+    "collection_timestamp": "2026-11-21T13:11:49.608444+00:00",
+    "thin": false
+  },
+  {
+    "id": "5497adc2ba8ee0f9fe0d9e616620864a177bc7220f42b327fed55b7c441c0508",
+    "title": "Nintendo’s Long History with GTA Seems to Have Met Its End",
+    "summary": "There's no sign of GTA 6 on Switch 2, or even GTA 5, yet Rockstar has brought L.A. Noire and Red Dead Redemption to Switch",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/switchboard-nintendo-switch-2-gta-6-rockstar",
+    "published_at": "2026-11-21T13:00:17+00:00",
+    "date_unverified": false,
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-3-switch.jpg",
+    "collection_timestamp": "2026-11-21T13:11:49.607906+00:00",
+    "thin": false,
+    "author": "Oli Welsh",
+    "tags": [
+      "Switchboard",
+      "Grand Theft Auto",
+      "Nintendo",
+      "Nintendo Switch 2"
+    ]
+  },
+  {
+    "id": "af8acc32a30a8e5f842629877733df8348dcd926bebd9ba932de35dfd22da043",
+    "title": "England call up McKinney for South Africa Tests",
+    "summary": "England call up uncapped Durham opener Ben McKinney for the Test tour of South Africa after Jacob Bethell's injury withdrawal.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cwx2evg5pez6o",
+    "published_at": "2026-11-21T13:00:06+00:00",
+    "date_unverified": false,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c829/live/c276d470-e5a8-11f1-99a1-253766e7ad8b.jpg",
+    "collection_timestamp": "2026-11-21T13:11:49.609061+00:00",
+    "thin": false
+  },
+  {
+    "id": "920973e37d3d86e09cb711bd49672704c351c5356c50bd75939c68857f3c86d6",
+    "title": "Tech outages are fueling a new doomsday economy",
+    "summary": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
+    "published_at": "2026-11-21T13:00:01+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108556652-1795196759983-261119_cg_32_doomsday_preppers_2.jpg?v=1795196815&w=1920&h=1080",
+    "collection_timestamp": "2026-11-21T13:11:49.608245+00:00",
+    "thin": false
+  },
+  {
     "id": "2f9826248eecc8c48d4aa5c594617bd09ed3062e01a6216c2ee176840d3ad754",
     "title": "Hanu-Man 2 The Rise of Vanaras: Makers announce Panja Vaisshnav Tej to lead sequel; Did the actor replace Teja Sajja?",
     "summary": "The makers of Hanu-Man have announced a new fantasy venture titled Hanu-Man 2: The Rise of Vanaras, featuring Panja Vaisshnav Tej in the lead role. The announcement has sparked buzz, especially as Teja Sajja headlined the original film. Hanu-Man 2: The Rise of Vanaras announced The announcement poster offers a glimpse into the ambitious fantasy world, featuring a man rising through the clouds against a striking divine backdrop. Sharing the announcement, the production house wrote, &ldquo;What be",
@@ -709,6 +768,49 @@
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/618b/live/83c124c0-e57a-11f1-a5f6-b3028adf2d6d.jpg",
     "collection_timestamp": "2026-11-21T09:26:51.966010+00:00",
     "thin": false
+  },
+  {
+    "id": "f0c6738268e813263c6ce0ce2dafb17e2f3f8fab1637f4915cf19fe488482edb",
+    "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+    "summary": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+    "published_at": "2026-11-21T08:00:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/xiaomi-18-pro-max-11.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-21T13:11:49.588252+00:00",
+    "thin": false,
+    "author": "Dominic Preston",
+    "tags": [
+      "Gadgets",
+      "Mobile",
+      "Phone Reviews",
+      "Phones",
+      "Reviews",
+      "Tech",
+      "Xiaomi"
+    ]
+  },
+  {
+    "id": "4c4599f39f860238b834c6b3c270691c5c373baf3441fcee915422297e745f1a",
+    "title": "The game of the year is finally here",
+    "summary": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about nuclear radiation [&#8230;]",
+    "category": "gaming",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
+    "published_at": "2026-11-21T08:00:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-153.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-21T13:11:49.588527+00:00",
+    "thin": false,
+    "author": "David Pierce",
+    "tags": [
+      "Gadgets",
+      "Installer",
+      "Streaming",
+      "Tech"
+    ]
   },
   {
     "id": "4bcfb1204471b501778e5d73845c0a3c003e8a74b8794967314979bf824fa9d3",
@@ -1673,130 +1775,6 @@
       "Analysis",
       "Grand Theft Auto",
       "Grand Theft Auto 6"
-    ]
-  },
-  {
-    "id": "2e7b9936e59c17436301616ffe35eb468445414659a5e65b0cffb217bc262cb2",
-    "title": "8 Near-Perfect Fantasy Miniseries That Hook You in the First Episode",
-    "summary": "From gothic castles to hidden London underworlds, these essential fantasy miniseries cast an instant spell on viewers from episode one.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/8-near-perfect-fantasy-miniseries-that-hook-you-in-the-first-episode",
-    "published_at": "2026-11-21T00:00:17+00:00",
-    "date_unverified": false,
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jonathan-strange-mr-norrell-2015.jpg",
-    "collection_timestamp": "2026-11-21T01:57:58.222756+00:00",
-    "thin": false,
-    "author": "Ryan Epps",
-    "tags": [
-      "Polygon Lists",
-      "Fantasy"
-    ]
-  },
-  {
-    "id": "6e64703af6eae777736370473abe13e979f307d0c668a2707626174da2b4c076",
-    "title": "'Steps' Ending Explained: Director Reveals the True Meaning Behind Cinderella Adaptation",
-    "summary": "The inclusive ending of Netflix's hottest animated hit 'Steps' is perfectly explained by its directors.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/netflix-steps-ending-explained",
-    "published_at": "2026-11-21T00:00:17+00:00",
-    "date_unverified": false,
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/cinderella-holds-a-glass-slipper-out-to-lilith-in-steps.jpg",
-    "collection_timestamp": "2026-11-21T01:57:58.222948+00:00",
-    "thin": false,
-    "author": "Aimee Hart",
-    "tags": [
-      "Interview",
-      "Steps",
-      "Movies",
-      "Fantasy"
-    ]
-  },
-  {
-    "id": "4525f0db7dac2bd78eac5c21f8fb69bce52ca7145f24dcfce591b85d232c0b6c",
-    "title": "‘Yes, Dear’ Star Anthony Clark’s Cause of Death Revealed",
-    "summary": "The comedian died at the age of 63",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/anthony-clark-yes-dear-cause-of-death-1235662015",
-    "published_at": "2026-11-20T23:58:27+00:00",
-    "date_unverified": false,
-    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/anthony-clark-‘Yes-Dear-Star-cause-of-death.jpg?w=1600&h=900&crop=1",
-    "collection_timestamp": "2026-11-21T01:57:58.194818+00:00",
-    "thin": true,
-    "author": "Charisma Madarang",
-    "tags": [
-      "TV & Movies",
-      "TV & Movies News",
-      "Anthony Clark"
-    ]
-  },
-  {
-    "id": "5b65389c9ce1840442368fd9b42af12a130d24636bf7afd137790b455cb1b5d2",
-    "title": "Cheeky Malware Linked To Popular Gacha Game Cracks City Security",
-    "summary": "East Asia--and particularly Japan--has been suffering a rash of cybersecurity incidents as of late, affecting everything from major banks and cellphone service providers to city governments and small businesses. Gaming has been one of many areas targeted: between arcade games on Sega's network going offline , 11 million Capcom IDs being compromised , and a high-schooler hacking Bandai-Namco , some major publishers have been suffering a string of embarrassments. One recent incident involved the P",
-    "category": "gaming",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/cheeky-malware-linked-to-popular-gacha-game-cracks-city-security",
-    "published_at": "2026-11-20T23:54:45+00:00",
-    "date_unverified": false,
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Clipboard_11-20-2026_02.jpg?w=300",
-    "collection_timestamp": "2026-11-21T01:57:58.203625+00:00",
-    "thin": false,
-    "author": "Heidi Kemps",
-    "tags": [
-      "News"
-    ]
-  },
-  {
-    "id": "3ad5fbd9f3e81cbb28118a1c18314bbcaec760b01b33d467703c3f94f4ecc20c",
-    "title": "‘Lanterns’ Star Aaron Pierre On DCU Future After Safran & Gunn’s DC Studios Exit: “I’m Very At Peace”",
-    "summary": "Aaron Pierre starred as John Stewart in the HBO &#38; DC Studios series Lanterns and was set to play him across the DC Universe. However, with Peter Safran and James Gunn no longer co-heads of DC Studios, the future of the world they were building seems uncertain. In a new interview, Pierre reacted to Safran [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/aaron-pierre-future-lanterns-safran-gunn-dc-studios-exit-1237230759",
-    "published_at": "2026-11-20T23:50:33+00:00",
-    "date_unverified": false,
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/aaron-pierre-lanterns-season-2-james-gunn-dc-studios.jpg",
-    "collection_timestamp": "2026-11-21T01:57:58.187741+00:00",
-    "thin": false,
-    "author": "Armando Tinoco",
-    "tags": [
-      "News",
-      "Aaron Pierre",
-      "DC Studios",
-      "DCU",
-      "Lanterns"
-    ]
-  },
-  {
-    "id": "1c9c68da1190904d80fbbf85b9c3641c8de215c1b31de15aa96e79fab2198e2f",
-    "title": "How ‘I Play Rocky’ Star P.J. Byrne Became One of Hollywood’s Go-To Character Actors",
-    "summary": "The Scorsese favorite has shared scenes with Leonardo DiCaprio and Margot Robbie. Now he's playing Irwin Winkler, the producing legend behind 'Rocky' and 'Goodfellas.'",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/movies/movie-features/i-play-rocky-star-p-j-byrne-1236760259",
-    "published_at": "2026-11-20T23:48:08+00:00",
-    "date_unverified": false,
-    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-2301821717-1-e1795211680860.jpg?w=1440&h=810&crop=1",
-    "collection_timestamp": "2026-11-21T01:57:58.190991+00:00",
-    "thin": false,
-    "author": "Brian Davids",
-    "tags": [
-      "Movie Features",
-      "Movies",
-      "Anthony Ippolito",
-      "Babylon",
-      "Damien Chazelle",
-      "I Play Rocky",
-      "Irwin Winkler",
-      "Martin Scorsese",
-      "P.J. Byrne",
-      "Peter Farrelly",
-      "rocky",
-      "Sylvester Stallone",
-      "The Wolf of Wall Street"
     ]
   }
 ]

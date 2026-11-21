@@ -13,6 +13,65 @@
     "thin": false
   },
   {
+    "id": "095ad4e75f20b5136ad79efdccf4fb15ec01f4c3e07ae2232ba023abd3ac455e",
+    "title": "Warren Buffett quadruples Thanksgiving gifts: A breakdown of how much wealth he's giving away",
+    "summary": "Warren Buffett more than quadrupled his Thanksgiving donations to four family foundations this year to $5.5 billion.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/21/warren-buffett-quadruples-thanksgiving-gifts.html",
+    "published_at": "2026-11-21T13:01:44+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108140490-1746283733049-BUFFETT_3.jpg?v=1747341825&w=1920&h=1080",
+    "collection_timestamp": "2026-11-21T13:11:49.608444+00:00",
+    "thin": false
+  },
+  {
+    "id": "5497adc2ba8ee0f9fe0d9e616620864a177bc7220f42b327fed55b7c441c0508",
+    "title": "Nintendo’s Long History with GTA Seems to Have Met Its End",
+    "summary": "There's no sign of GTA 6 on Switch 2, or even GTA 5, yet Rockstar has brought L.A. Noire and Red Dead Redemption to Switch",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/switchboard-nintendo-switch-2-gta-6-rockstar",
+    "published_at": "2026-11-21T13:00:17+00:00",
+    "date_unverified": false,
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta-3-switch.jpg",
+    "collection_timestamp": "2026-11-21T13:11:49.607906+00:00",
+    "thin": false,
+    "author": "Oli Welsh",
+    "tags": [
+      "Switchboard",
+      "Grand Theft Auto",
+      "Nintendo",
+      "Nintendo Switch 2"
+    ]
+  },
+  {
+    "id": "af8acc32a30a8e5f842629877733df8348dcd926bebd9ba932de35dfd22da043",
+    "title": "England call up McKinney for South Africa Tests",
+    "summary": "England call up uncapped Durham opener Ben McKinney for the Test tour of South Africa after Jacob Bethell's injury withdrawal.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cwx2evg5pez6o",
+    "published_at": "2026-11-21T13:00:06+00:00",
+    "date_unverified": false,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c829/live/c276d470-e5a8-11f1-99a1-253766e7ad8b.jpg",
+    "collection_timestamp": "2026-11-21T13:11:49.609061+00:00",
+    "thin": false
+  },
+  {
+    "id": "920973e37d3d86e09cb711bd49672704c351c5356c50bd75939c68857f3c86d6",
+    "title": "Tech outages are fueling a new doomsday economy",
+    "summary": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
+    "published_at": "2026-11-21T13:00:01+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108556652-1795196759983-261119_cg_32_doomsday_preppers_2.jpg?v=1795196815&w=1920&h=1080",
+    "collection_timestamp": "2026-11-21T13:11:49.608245+00:00",
+    "thin": false
+  },
+  {
     "id": "2f9826248eecc8c48d4aa5c594617bd09ed3062e01a6216c2ee176840d3ad754",
     "title": "Hanu-Man 2 The Rise of Vanaras: Makers announce Panja Vaisshnav Tej to lead sequel; Did the actor replace Teja Sajja?",
     "summary": "The makers of Hanu-Man have announced a new fantasy venture titled Hanu-Man 2: The Rise of Vanaras, featuring Panja Vaisshnav Tej in the lead role. The announcement has sparked buzz, especially as Teja Sajja headlined the original film. Hanu-Man 2: The Rise of Vanaras announced The announcement poster offers a glimpse into the ambitious fantasy world, featuring a man rising through the clouds against a striking divine backdrop. Sharing the announcement, the production house wrote, &ldquo;What be",
@@ -711,6 +770,49 @@
     "thin": false
   },
   {
+    "id": "f0c6738268e813263c6ce0ce2dafb17e2f3f8fab1637f4915cf19fe488482edb",
+    "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
+    "summary": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1038562/xiaomi-18-pro-max-review",
+    "published_at": "2026-11-21T08:00:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/xiaomi-18-pro-max-11.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-21T13:11:49.588252+00:00",
+    "thin": false,
+    "author": "Dominic Preston",
+    "tags": [
+      "Gadgets",
+      "Mobile",
+      "Phone Reviews",
+      "Phones",
+      "Reviews",
+      "Tech",
+      "Xiaomi"
+    ]
+  },
+  {
+    "id": "4c4599f39f860238b834c6b3c270691c5c373baf3441fcee915422297e745f1a",
+    "title": "The game of the year is finally here",
+    "summary": "Hi, friends! Welcome to Installer No. 153, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for tearing yourself away from GTA to be here, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about nuclear radiation [&#8230;]",
+    "category": "gaming",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1039433/gta-vi-alfred-6-clockwisetv-installer",
+    "published_at": "2026-11-21T08:00:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Installer-153.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-21T13:11:49.588527+00:00",
+    "thin": false,
+    "author": "David Pierce",
+    "tags": [
+      "Gadgets",
+      "Installer",
+      "Streaming",
+      "Tech"
+    ]
+  },
+  {
     "id": "4bcfb1204471b501778e5d73845c0a3c003e8a74b8794967314979bf824fa9d3",
     "title": "Cummins' integrity not compromised - Cricket Australia",
     "summary": "Cricket Australia has \"unequivocally rejected\" the suggestion that captain Pat Cummins' integrity has been compromised by the sandpaper scandal.",
@@ -801,93 +903,6 @@
     "date_unverified": false,
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
     "collection_timestamp": "2026-11-21T09:26:51.967254+00:00",
-    "thin": false
-  },
-  {
-    "id": "a9ae86e377f85c8defe8c415f1c2eccc88f1dc4f195c2cb42dcb2dbf2a1bbe42",
-    "title": "Transfer rumors, news: Could McTominay make sensational Man United return?",
-    "summary": "Scott McTominay left Manchester United little over two years ago, but could he return as his Napoli contact runs down? Transfer Talk has the latest.",
-    "category": "sports",
-    "source": "ESPN",
-    "url": "https://www.espn.com/soccer/story/_/id/50548678/transfer-rumors-news-scott-mctominay-man-united-return",
-    "published_at": "2026-11-21T06:47:52+00:00",
-    "date_unverified": false,
-    "image_url": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0908%2Fr1713214_1296x729_16%2D9.jpg",
-    "collection_timestamp": "2026-11-21T11:55:22.223095+00:00",
-    "thin": false,
-    "author": "ESPN"
-  },
-  {
-    "id": "8a3b47f323e8f636a1a2904f8486c0e01db4fb472f902a0943dda9f69ae7e589",
-    "title": "Phil Collins Says Cher Sang His ‘We Are the World’ Line at Live Aid After He Left Early",
-    "summary": "In a SiriusXM interview marking his second Rock Hall induction, Collins recalls the Concorde flight, meeting Cher mid-air, and discovering she'd taken his spot.",
-    "category": "entertainment",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/rock/phil-collins-live-aid-cher-concorde-eric-clapton-siriusxm-1236387268",
-    "published_at": "2026-11-21T06:47:33+00:00",
-    "date_unverified": false,
-    "image_url": "https://www.billboard.com/wp-content/uploads/2026/11/2305171688-e1794721493908.jpg?w=1024",
-    "collection_timestamp": "2026-11-21T09:26:51.940299+00:00",
-    "thin": false,
-    "author": "Jessica Lynch",
-    "tags": [
-      "Music",
-      "Rock",
-      "live aid",
-      "Rock and Roll Hall of Fame",
-      "siriusxm"
-    ]
-  },
-  {
-    "id": "defd619a7bbf200115f2f90d97ef78a97cb272ed1ddafc8784a292f10369c462",
-    "title": "Athlete who lost hand saving friends in attack 'would do it again'",
-    "summary": "Ismael Ox was 11 years old when he lost his hand trying to protect his friends from a grenade - and now competes in Para-taekwondo for the USA.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/taekwondo/articles/crpdwljj0v89o",
-    "published_at": "2026-11-21T06:35:06+00:00",
-    "date_unverified": false,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6fb/live/8c560a20-e4f7-11f1-a8e4-b1e12a49db15.jpg",
-    "collection_timestamp": "2026-11-21T09:26:51.966301+00:00",
-    "thin": false
-  },
-  {
-    "id": "699fa5688e0f5316c169717a1fa354238b718455d22bede7699b01e694fe8e8c",
-    "title": "Jeers, injuries and doubters - White's journey back to the top",
-    "summary": "When Ben White wheeled away after scoring England's third goal against world champions Spain, it was more than just a strike which ended up being the winner in a special win.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cv7028xeler2o",
-    "published_at": "2026-11-21T06:17:32+00:00",
-    "date_unverified": false,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06d5/live/855e6740-e1db-11f1-b8c8-67fa35f5afdb.jpg",
-    "collection_timestamp": "2026-11-21T09:26:51.966951+00:00",
-    "thin": false
-  },
-  {
-    "id": "365c459167ddac3290cec8ed20433ecd7794ae5d8df2f8ac85c34ddff6ce0377",
-    "title": "How China is using summits to expand its global influence",
-    "summary": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
-    "published_at": "2026-11-21T06:00:02+00:00",
-    "date_unverified": false,
-    "image_url": "https://image.cnbcfm.com/api/v1/image/108554278-17950176312026-11-18t135542z_942132153_rc2dqoawfqtc_rtrmadp_0_apec-summit.jpeg?v=1795017657&w=1920&h=1080",
-    "collection_timestamp": "2026-11-21T09:26:51.965033+00:00",
-    "thin": false
-  },
-  {
-    "id": "d969d6579dfb0ee9ad4699f5f26dc7623f4d55299a4ceca572bec715aa57cb94",
-    "title": "An early breakdown in the polar vortex is threatening already depleted gas stocks",
-    "summary": "Colder weather and low wind speeds could strain Europe’s gas market, where storage started winter at its lowest level in more than a decade.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html",
-    "published_at": "2026-11-21T06:00:02+00:00",
-    "date_unverified": false,
-    "image_url": "https://image.cnbcfm.com/api/v1/image/108554161-1795012667185-gettyimages-460992229-77958321.jpeg?v=1795012769&w=1920&h=1080",
-    "collection_timestamp": "2026-11-21T09:26:51.965215+00:00",
     "thin": false
   }
 ]

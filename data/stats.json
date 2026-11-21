@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-11-21T12:59:06.760806+00:00",
-  "total_fetched": 326,
-  "new_articles": 31,
-  "duplicates": 295,
-  "errors": 2,
+  "timestamp": "2026-11-21T13:11:27.141472+00:00",
+  "total_fetched": 336,
+  "new_articles": 46,
+  "duplicates": 290,
+  "errors": 3,
   "expired_articles": 0,
   "articles_without_valid_date": 0,
   "by_source": {
@@ -23,17 +23,19 @@
     "UN Geneva": 10,
     "Eurostat Press Releases": 11,
     "Eurostat News": 11,
-    "NASA News Releases": 10
+    "NASA News Releases": 10,
+    "NOAA Climate.gov": 10
   },
   "by_category": {
-    "entertainment": 2,
-    "technology": 6,
-    "science": 1,
-    "gaming": 2,
-    "sports": 4,
-    "health": 1,
-    "business": 5,
+    "technology": 7,
+    "gaming": 4,
+    "entertainment": 1,
+    "science": 5,
+    "business": 7,
+    "sports": 5,
+    "health": 3,
     "politics": 2,
-    "world": 8
+    "world": 8,
+    "climate": 4
   }
 }
