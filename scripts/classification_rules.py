@@ -92,7 +92,8 @@ def classify_article(
     title_text = _normalise(title)
     summary_text = _normalise(description)
     if not title_text.strip():
-        return str(source_category or "world").strip().casefold()
+        fallback = str(source_category or "").strip().casefold()
+        return fallback if fallback in TOPIC_RULES else "world"
 
     scores = {}
     for category, phrases in TOPIC_RULES.items():
@@ -124,4 +125,4 @@ def classify_article(
         )
         if not gaming_evidence:
             return "world"
-    return fallback or "world"
+    return fallback if fallback in TOPIC_RULES else "world"
