@@ -138,3 +138,26 @@ def test_dynamic_article_fallback_keeps_aggregated_items_noindex_without_newsart
     assert "if (indexableEditorial) injectArticleSchema(article)" in fallback
     assert "if (!isIndexableOriginalEditorial(article)) return;" in fallback
     assert "article.editorial_content" in fallback
+
+
+def test_homepage_keeps_editorial_noindex_policy_and_uses_pikanews_channel_only():
+    from pathlib import Path
+
+    homepage = (Path(__file__).resolve().parents[1] / "frontend" / "index.html").read_text(encoding="utf-8")
+    assert '<meta name="robots" content="noindex,follow">' in homepage
+    assert "https://whatsapp.com/channel/0029Vb5zVwjICVfnQ95zT10F" in homepage
+    assert "https://whatsapp.com/channel/0029VbE1ulAAjPXQZiUbbu1Z" not in homepage
+    assert "Follow on WhatsApp" in homepage
+
+
+def test_generated_and_dynamic_story_pages_offer_pikanews_follow_link():
+    from pathlib import Path
+
+    article = aggregated_article()
+    generated = build_page(article, [article], {article_slug(article["title"], article["id"])})
+    fallback = (Path(__file__).resolve().parents[1] / "frontend" / "article.html").read_text(encoding="utf-8")
+    channel = "https://whatsapp.com/channel/0029Vb5zVwjICVfnQ95zT10F"
+    assert channel in generated
+    assert 'aria-label="Follow PikaNews on WhatsApp"' in generated
+    assert channel in fallback
+    assert 'aria-label="Follow PikaNews on WhatsApp"' in fallback
