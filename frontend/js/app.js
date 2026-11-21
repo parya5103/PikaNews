@@ -780,7 +780,7 @@ async function loadFeaturedNews() {
                     <span class="news-card-category" style="background-color: var(--category-color);">${Utils.escapeHtml(article.category)}</span>
                 </div>
                 <div class="news-card-content">
-                    <h3 class="news-card-title">${Utils.escapeHtml(article.title)}</h3>
+                    <h3 class="news-card-title"><a href="article.html?id=${encodeURIComponent(article.id)}">${Utils.escapeHtml(article.title)}</a></h3>
                     <p class="news-card-summary">${Utils.escapeHtml(Utils.truncate(article.summary, 100))}</p>
                     <div class="news-card-meta">
                         <span class="news-card-source">${Utils.escapeHtml(article.source)}</span>
@@ -845,7 +845,7 @@ async function loadLatestNews() {
                     <span class="news-card-category" style="background-color: var(--category-color);">${Utils.escapeHtml(article.category)}</span>
                 </div>
                 <div class="news-card-content">
-                    <h3 class="news-card-title">${Utils.escapeHtml(article.title)}</h3>
+                    <h3 class="news-card-title"><a href="article.html?id=${encodeURIComponent(article.id)}">${Utils.escapeHtml(article.title)}</a></h3>
                     <p class="news-card-summary">${Utils.escapeHtml(Utils.truncate(article.summary, 100))}</p>
                     <div class="news-card-meta">
                         <span class="news-card-source">${Utils.escapeHtml(article.source)}</span>
@@ -910,7 +910,7 @@ async function loadTrendingNews() {
                     <span class="news-card-category" style="background-color: var(--category-color);">${Utils.escapeHtml(article.category)}</span>
                 </div>
                 <div class="news-card-content">
-                    <h3 class="news-card-title">${Utils.escapeHtml(article.title)}</h3>
+                    <h3 class="news-card-title"><a href="article.html?id=${encodeURIComponent(article.id)}">${Utils.escapeHtml(article.title)}</a></h3>
                     <p class="news-card-summary">${Utils.escapeHtml(Utils.truncate(article.summary, 100))}</p>
                     <div class="news-card-meta">
                         <span class="news-card-source">${Utils.escapeHtml(article.source)}</span>
@@ -978,7 +978,7 @@ async function loadCategoryNews() {
                         <span class="news-card-category" style="background-color: var(--category-color);">${Utils.escapeHtml(article.category)}</span>
                     </div>
                     <div class="news-card-content">
-                        <h3 class="news-card-title">${Utils.escapeHtml(article.title)}</h3>
+                        <h3 class="news-card-title"><a href="article.html?id=${encodeURIComponent(article.id)}">${Utils.escapeHtml(article.title)}</a></h3>
                         <p class="news-card-summary">${Utils.escapeHtml(Utils.truncate(article.summary, 80))}</p>
                         <div class="news-card-meta">
                             <span class="news-card-source">${Utils.escapeHtml(article.source)}</span>
