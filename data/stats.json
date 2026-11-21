@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-11-21T12:41:03.981605+00:00",
-  "total_fetched": 327,
-  "new_articles": 44,
-  "duplicates": 283,
+  "timestamp": "2026-11-21T12:59:06.760806+00:00",
+  "total_fetched": 326,
+  "new_articles": 31,
+  "duplicates": 295,
   "errors": 2,
   "expired_articles": 0,
   "articles_without_valid_date": 0,
@@ -18,7 +18,7 @@
     "GameSpot": 30,
     "Polygon": 10,
     "CNBC": 30,
-    "BBC Sport": 61,
+    "BBC Sport": 60,
     "BuzzFeed World": 50,
     "UN Geneva": 10,
     "Eurostat Press Releases": 11,
@@ -26,14 +26,14 @@
     "NASA News Releases": 10
   },
   "by_category": {
-    "technology": 7,
-    "entertainment": 1,
+    "entertainment": 2,
+    "technology": 6,
     "science": 1,
     "gaming": 2,
     "sports": 4,
     "health": 1,
-    "business": 7,
-    "politics": 3,
-    "world": 18
+    "business": 5,
+    "politics": 2,
+    "world": 8
   }
 }
