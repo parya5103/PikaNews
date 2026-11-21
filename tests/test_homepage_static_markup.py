@@ -13,3 +13,9 @@ def test_homepage_does_not_leak_escaped_newline_tokens_into_markup():
     html = (Path(__file__).resolve().parents[1] / "frontend" / "index.html").read_text(encoding="utf-8")
 
     assert r"</p>\n                    <p" not in html
+
+
+def test_shared_frontend_loads_the_gogo_analytics_container():
+    app = (Path(__file__).resolve().parents[1] / "frontend" / "js" / "app.js").read_text(encoding="utf-8")
+    assert "GTM-TH4NX8MH" in app
+    assert "event: 'gtm.js'" in app
