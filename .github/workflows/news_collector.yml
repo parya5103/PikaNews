@@ -11,6 +11,17 @@ on:
     branches: [main]
     paths:
       - 'scripts/fetch_news.py'
+      - 'scripts/classification_rules.py'
+      - 'tests/test_guest_preferences.py'
+      - 'frontend/css/styles.css'
+      - 'frontend/science.html'
+      - 'frontend/world.html'
+      - 'frontend/latest.html'
+      - 'frontend/js/utils.js'
+      - 'frontend/js/app.js'
+      - 'frontend/index.html'
+      - 'frontend/js/preferences.js'
+      - 'tests/test_classification_rules.py'
       - 'scripts/generate_article_pages.py'
       - 'scripts/validate_generated_articles.py'
       - 'scripts/generate_sitemap.py'
@@ -54,7 +65,7 @@ jobs:
       - name: Run collector test suite (gate - fail before publishing)
         run: |
           set +e
-          pytest tests/test_news_collector.py tests/test_news_expiry.py tests/test_generators.py tests/test_production_build.py tests/test_api_security.py tests/test_editorial_indexation.py tests/test_generated_article_validation.py tests/test_empty_master_feed_recovery.py -q > pytest_output.txt 2>&1
+          pytest tests/test_guest_preferences.py tests/test_classification_rules.py tests/test_news_collector.py tests/test_news_expiry.py tests/test_generators.py tests/test_production_build.py tests/test_api_security.py tests/test_editorial_indexation.py tests/test_generated_article_validation.py tests/test_empty_master_feed_recovery.py -q > pytest_output.txt 2>&1
           status=$?
           cat pytest_output.txt
           if [ $status -ne 0 ]; then
@@ -87,7 +98,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add news_json/ data/ frontend/news/ frontend/sitemap.xml frontend/news-sitemap.xml frontend/feed.xml frontend/bollywood.html frontend/hollywood.html frontend/entertainment.html frontend/technology.html frontend/gaming.html frontend/business.html frontend/sports.html frontend/latest.html
+          git add news_json/ data/ frontend/news/ frontend/sitemap.xml frontend/news-sitemap.xml frontend/feed.xml frontend/bollywood.html frontend/hollywood.html frontend/entertainment.html frontend/technology.html frontend/gaming.html frontend/business.html frontend/sports.html frontend/world.html frontend/science.html frontend/latest.html
           if git diff --cached --quiet; then
             echo "No new content - no commit created."
           else

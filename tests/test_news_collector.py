@@ -202,8 +202,8 @@ class TestCategorization:
             "",
             "https://example.com"
         )
-        # Fallback is based on keywords in the text, "Random" might match "trending"
-        assert category in ["trending", "entertainment"]
+        # Unknown topics use the neutral global bucket, not trending or entertainment.
+        assert category == "world"
 
 
 class TestArticleNormalization:

@@ -105,7 +105,9 @@ const Utils = {
             gaming: '#10b981',
             business: '#06b6d4',
             sports: '#f97316',
-            trending: '#ef4444'
+            trending: '#ef4444',
+            world: '#2563eb',
+            science: '#0d9488'
         };
         return colors[category?.toLowerCase()] || '#6b7280';
     },
@@ -120,7 +122,9 @@ const Utils = {
             gaming: '🎮',
             business: '💼',
             sports: '⚽',
-            trending: '🔥'
+            trending: '🔥',
+            world: '🌍',
+            science: '🔬'
         };
         return icons[category?.toLowerCase()] || '📰';
     },

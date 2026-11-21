@@ -39,7 +39,7 @@ STATIC_PAGES = [
 ]
 
 # Categories
-CATEGORIES = ["bollywood", "hollywood", "entertainment", "technology", "gaming", "business", "sports", "trending"]
+CATEGORIES = ["bollywood", "hollywood", "entertainment", "technology", "gaming", "business", "sports", "trending", "world", "science"]
 
 
 def escape_xml(text):

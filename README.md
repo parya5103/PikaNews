@@ -1,191 +1,136 @@
-# PikaNews: Entertainment News Scraper & Aggregator
+# PikaNews — Global News Discovery
 
-PikaNews is a production-grade, asynchronous Python-based scraping pipeline that aggregates, processes, and indexes Bollywood and Hollywood entertainment news from multiple sources.
+PikaNews is a lightweight, static-first news discovery product published at
+[GoGo Company](https://gogocompany.in/pikanews/). It organizes short,
+publisher-attributed headlines and excerpts from public RSS/Atom feeds and
+links readers to the original publisher for full reporting.
 
-## Features
+It is an aggregator, not an independent newsroom. It does not claim to
+independently report or verify every linked story.
 
-- **Async Ingestion**: Leverages `aiohttp` + `asyncio` with configurable per-domain concurrency limits and exponential backoff retry logic.
-- **Dynamic Playwright Fallback**: Auto-detects hydration-dependent JS pages, executing rendering via headless Chromium.
-- **RSS-First Scrapes**: Prioritizes RSS/Atom parsing for speed and bandwidth optimization before falling back to listing page parses.
-- **NLP Enrichment**: Integrates Named Entity Extraction (actors, films, studios) using spaCy, Language Detection (`langdetect`), Sentiment Buzz (`TextBlob`), and Local Summary Generation (Ollama LLM API).
-- **Image De-duplication**: Features asynchronous image processing (resizing variants) and perceptual hash calculation (`imagehash`) to flag duplicate images.
-- **Database Storage**: Supports Postgres or SQLite with full-text search indexing (FTS5 in SQLite, tsvector in Postgres).
-- **FastAPI Endpoints**: Search index, celebrity lookup, trending keywords, and latest articles, fully instrumented with Prometheus metrics.
-- **Scheduler**: Powered by `APScheduler` driven entirely by `config.yaml` cron parameters.
-- **Alert Integrations**: Dispatches keyword-matched breaking-news alerts directly to Telegram, Discord, Slack, and custom webhooks.
+## Current production architecture
 
----
-
-## Architecture
-
-```
-                      +-------------------+
-                      |    config.yaml    |
-                      +---------+---------+
-                                |
-                                v
-                      +---------+---------+
-                      |     Scheduler     |
-                      |   (APScheduler)   +---------------+
-                      +---------+---------+               |
-                                |                         |
-                                v (Periodic Runs)         v
-                      +---------+---------+        +------+------+
-                      |  Scraper Engine   |        |  FastAPI UI |
-                      | (aiohttp/Playwr.) |        |   & Search  |
-                      +---------+---------+        +------+------+
-                                |                         |
-                                v                         |
-                      +---------+---------+               |
-                      |  HTML/RSS Parser  |               |
-                      +---------+---------+               |
-                                |                         |
-                                v                         v
-                      +---------+---------+        +------+------+
-                      |    NLP/Image      |------->| SQLite FTS5 |
-                      |    Pipelines      |        |  / Postgres |
-                      +---------+---------+        +------+------+
-                                |                         |
-                                v                         v
-                      +---------+---------+        +------+------+
-                      |  Redis Cache      |        | Elastic /   |
-                      |  (Deduplication)  |        | Webhooks    |
-                      +-------------------+        +-------------+
+```text
+Publisher RSS / Atom feeds
+        |
+        v
+scripts/fetch_news.py
+  - feed parsing and validation
+  - URL/title deduplication
+  - deterministic topic classification
+  - publication-date retention and removal tombstones
+        |
+        v
+news_json/*.json + data/*.json
+        |
+        +--> frontend/js/data.js + frontend/js/app.js
+        |      static news discovery UI
+        |
+        +--> scripts/generate_article_pages.py
+        |      static reader pages and category listings
+        |
+        +--> scripts/generate_sitemap.py
+        +--> scripts/generate_news_sitemap.py
+        +--> scripts/generate_rss.py
+        |
+        v
+GoGo Company central website sync workflow
+  (this repository intentionally does not deploy a second Pages site)
 ```
 
----
+The public site is static-first and uses relative asset/data paths so it works
+under the `/pikanews/` subdirectory. The GitHub Actions collector runs every
+30 minutes. The central GoGo Company repository performs the actual publishing
+sync after PikaNews data and generated pages are ready.
 
-## Directory Structure
+Legacy or experimental API/pipeline directories may exist in this repository;
+they are not the production publishing path described above.
 
-```
-PikaNews/
-│
-├── api/
-│   └── server.py             # FastAPI Web backend
-│
-├── cli/
-│   └── main.py               # Typer command line dashboard
-│
-├── scheduler/
-│   └── runner.py             # Periodic APScheduler runner
-│
-├── scrapers/
-│   └── engine.py             # Async client engine (UAs, Proxy pool, breakers)
-│
-├── parsers/
-│   ├── feed.py               # RSS / Atom XML parser
-│   └── html.py               # BeautifulSoup + Playwright dual-parser
-│
-├── models/
-│   └── article.py            # Pydantic v2 schemas
-│
-├── pipelines/
-│   ├── coordinator.py        # Central scraping task orchestrator
-│   ├── db.py                 # SQLite FTS5 & Postgres adapter
-│   ├── cache.py              # Redis Caching layer (ETags & Evasion)
-│   ├── nlp.py                # spaCy, TextBlob, Ollama LLM processor
-│   ├── image.py              # Image variant resizer & perceptual hashes
-│   └── notifier.py           # Telegram / Discord / Slack notifications
-│
-├── config.yaml               # Sources selectors and cron parameters
-├── Dockerfile                # Production multi-stage image
-├── docker-compose.yml        # Docker compose orchestrator
-├── requirements.txt          # Python library constraints
-└── pyproject.toml            # Poetry configurations
-```
+## News coverage
 
----
+The topic taxonomy includes World, Science, Politics, Health, Climate,
+Technology, Business, Sports, Gaming, Entertainment, Bollywood and Hollywood.
+The collector uses deterministic, dependency-free rules: headline evidence
+has priority over summary evidence, and publisher brand/domain is not treated
+as proof of an article's topic.
 
-## Installation & Setup
+New feeds must be checked for:
+- current feed availability and parseability;
+- publisher terms and commercial display permissions;
+- attribution and original-link requirements;
+- image and third-party content restrictions;
+- accurate source name, topic, language and region metadata.
 
-### Local Setup (Virtual Environment)
+A public RSS endpoint is not, by itself, permission to republish full articles
+or images. PikaNews uses limited excerpts and source links. Feed-specific image
+restrictions are enforced where configured.
 
-1. **Clone and Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
+## Reader preferences and accounts
 
-2. **Initialize Playwright dependencies**:
-   ```bash
-   python -m playwright install chromium
-   python -m playwright install-deps chromium
-   ```
+Reading does not require an account. Bookmarks and the optional For You topic
+preferences are stored locally in the reader's browser. No login, paid LLM,
+model download or server-side profile is required for this guest experience.
+Account-based cross-device sync is not configured in the current static
+architecture and must not be represented as active until an identity provider
+and backend are deliberately added.
 
-3. **Install spaCy language package**:
-   ```bash
-   python -m spacy download en_core_web_sm
-   ```
+## Indexation and editorial safeguards
 
-4. **Ensure Redis & local Ollama are running**:
-   ```bash
-   # Ollama default endpoint must be up: http://localhost:11434
-   ollama run Llama3
-   ```
+- Third-party aggregated stories remain `noindex,follow` and are excluded from
+  regular and Google News sitemaps.
+- The Google News sitemap is reserved for substantial, reviewed original
+  PikaNews editorial that meets the existing author, date and content checks.
+- Collection timestamps are not presented as editorial publication or
+  modification dates.
+- Thin stories are not promoted as indexable articles or placed beside ads.
+- Removed and expired stories are blocked from re-import by tombstones.
+- Unknown publication dates are not guessed into freshness or expiry decisions.
 
-5. **Run DB initialization & start backend**:
-   ```bash
-   # API backend
-   uvicorn api.server:app --host 0.0.0.0 --port 8000
-   
-   # Scheduler task loop
-   python scheduler/runner.py
-   ```
+Do not remove these safeguards just to increase indexed URL counts. Google
+News inclusion is not guaranteed by schema or a sitemap.
 
----
+## Repository map
 
-## Usage Commands (CLI)
+| Path | Responsibility |
+|---|---|
+| `scripts/fetch_news.py` | RSS collection, normalization, classification integration, retention and JSON output |
+| `scripts/classification_rules.py` | Free deterministic topic rules |
+| `scripts/generate_article_pages.py` | Static article pages and category listings |
+| `scripts/generate_sitemap.py` | Regular sitemap with editorial indexation gates |
+| `scripts/generate_news_sitemap.py` | Google News sitemap for eligible original editorial only |
+| `scripts/generate_rss.py` | Public PikaNews RSS feed |
+| `scripts/admin_actions.py` | Moderation, deletion, restore and tombstones |
+| `news_json/` | Generated article/category JSON feeds |
+| `data/` | Stats, source failures and removal metadata |
+| `frontend/` | Static reader pages, styles and browser JavaScript |
+| `.github/workflows/news_collector.yml` | Scheduled collection and generated-content workflow |
+| `.github/workflows/ci.yml` | Pull-request and push test gate |
 
-Use the built-in CLI to test and operate the aggregator:
+## Local development
 
-- **Dry-run a source configuration** (checks selectors and preview parse outputs without DB save):
-  ```bash
-  python cli/main.py test-source pinkvilla
-  ```
-
-- **Force run scraping cycle**:
-  ```bash
-  python cli/main.py scrape --source variety
-  ```
-
-- **Check cached database statistics**:
-  ```bash
-  python cli/main.py stats
-  ```
-
-- **Export stored data**:
-  ```bash
-  python cli/main.py export --format csv --output entertainment.csv
-  ```
-
-- **Purge database cache**:
-  ```bash
-  python cli/main.py purge
-  ```
-
----
-
-## API Documentation
-
-The REST server starts on port `8000`:
-
-- **Get latest articles**:
-  - `GET http://localhost:8000/latest?limit=20`
-- **Full Text Search**:
-  - `GET http://localhost:8000/search?q=Marvel`
-- **Filter by extracted celebrity names**:
-  - `GET http://localhost:8000/by-celebrity/Salman%20Khan`
-- **High-Velocity Trending buzz**:
-  - `GET http://localhost:8000/trending`
-- **Prometheus Metrics**:
-  - `GET http://localhost:8000/metrics`
-
----
-
-## Production Deployment
-
-Deploy the system in Docker container cluster using Docker Compose:
+Use Python 3.11.
 
 ```bash
-# Build custom Playwright-spaCy images and spin up stack (Postgres + Redis + API + Scheduler)
-docker-compose up --build -d
+python -m pip install -r requirements-collector.txt python-dateutil pytest
+pytest tests/test_classification_rules.py tests/test_guest_preferences.py tests/test_news_collector.py -q
+python scripts/fetch_news.py
+python scripts/generate_article_pages.py
+python scripts/generate_sitemap.py
+python scripts/generate_rss.py
+python scripts/generate_news_sitemap.py
+python scripts/validate_generated_articles.py
+node --check frontend/js/preferences.js
 ```
+
+The collector uses GitHub Actions in production. Do not run a local collector
+against production data or push generated JSON manually without reviewing the
+workflow and its tombstone/retention behavior.
+
+## Contribution and deployment safety
+
+- Work on a feature branch and open a pull request.
+- Keep CI and collector tests green before merging.
+- Do not change the GoGo central sync/deploy workflow from this repository.
+- Preserve relative paths and subdirectory compatibility.
+- Never expose admin credentials, tokens or private configuration in the
+  frontend or repository.

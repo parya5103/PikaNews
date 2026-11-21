@@ -4,13 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="noindex,follow">
-    <meta name="description" content="Discover publisher-attributed headlines across entertainment, technology, gaming, business and sports, then open the original publisher for full reporting and context.">
+    <meta name="description" content="Discover global publisher-attributed headlines across world affairs, science, technology, business, sports and culture, then open the original publisher for full reporting and context.">
     <meta name="author" content="PikaNews">
     
     <!-- Open Graph / Social Media Meta Tags -->
     <meta property="og:site_name" content="PikaNews">
-    <meta property="og:title" content="Latest News India: Bollywood, Tech & Sports | PikaNews">
-    <meta property="og:description" content="Discover publisher-attributed headlines across entertainment, technology, gaming, business and sports, then open the original publisher for full reporting and context.">
+    <meta property="og:title" content="Global News: World, Science, Tech & More | PikaNews">
+    <meta property="og:description" content="Discover global publisher-attributed headlines across world affairs, science, technology, business, sports and culture, then open the original publisher for full reporting and context.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://gogocompany.in/pikanews/">
     <meta property="og:image" content="https://gogocompany.in/pikanews/images/pikanews-logo.svg">
@@ -52,7 +52,7 @@
         "name": "PikaNews",
         "url": "https://gogocompany.in/pikanews/",
         "logo": "https://gogocompany.in/pikanews/images/pikanews-logo.svg",
-        "description": "Your daily dose of Bollywood, Hollywood, Technology, Gaming, Business, and Sports news.",
+        "description": "Global news discovery across world affairs, science, technology, business, sports and culture.",
         "sameAs": ["https://whatsapp.com/channel/0029Vb5zVwjICVfnQ95zT10F"]
     }
     </script>
@@ -91,6 +91,8 @@
                     <li class="nav-item"><a href="index.html" class="nav-link active">Home</a></li>
                     <li class="nav-item"><a href="latest.html" class="nav-link">Latest</a></li>
                     <li class="nav-item"><a href="trending.html" class="nav-link">Trending</a></li>
+                    <li class="nav-item"><a href="world.html" class="nav-link">World</a></li>
+                    <li class="nav-item"><a href="science.html" class="nav-link">Science</a></li>
                     <li class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle">Entertainment <span class="dropdown-arrow">▼</span></a>
                         <ul class="dropdown-menu">
@@ -177,6 +179,22 @@
         </div>
     </div>
 
+    <!-- Guest topic preferences: stored locally, no sign-in required -->
+    <div id="preferences-modal" class="modal preferences-modal">
+        <div id="preferences-overlay" class="modal-overlay"></div>
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Customize your feed</h2>
+                <button type="button" id="preferences-close" class="modal-close" aria-label="Close preferences">&times;</button>
+            </div>
+            <p class="preferences-note">Choose the topics you want to see. Your preferences are saved only on this device; no account is required.</p>
+            <form id="preferences-form">
+                <div id="preferences-options" class="preferences-options"></div>
+                <button type="submit" class="search-submit">Save preferences</button>
+            </form>
+        </div>
+    </div>
+
     <!-- Main Content -->
     <main class="main-content">
         <!-- Category navigation: directly after the masthead + ticker,
@@ -225,6 +243,14 @@
                         <span class="category-icon" aria-hidden="true">🏆</span>
                         <span class="category-name">Sports</span>
                     </a>
+                    <a href="world.html" class="category-card">
+                        <span class="category-icon" aria-hidden="true">🌍</span>
+                        <span class="category-name">World</span>
+                    </a>
+                    <a href="science.html" class="category-card">
+                        <span class="category-icon" aria-hidden="true">🔬</span>
+                        <span class="category-name">Science</span>
+                    </a>
                 </div>
             </div>
         </nav>
@@ -266,7 +292,7 @@
         <section class="news-discovery" aria-labelledby="news-discovery-title">
             <div class="container">
                 <h2 class="section-title" id="news-discovery-title">Explore the Latest News by Topic</h2>
-                <p>PikaNews is a news-discovery service, not a newsroom and not a substitute for the publisher's full report. It organizes headlines and limited excerpts from public publisher feeds into topics such as Bollywood, Hollywood, entertainment, technology, gaming, business and sports. The original publisher remains responsible for its reporting.</p>
+                <p>PikaNews is a news-discovery service, not a newsroom and not a substitute for the publisher's full report. It organizes headlines and limited excerpts from public publisher feeds into global topics such as world affairs, politics, science, health, technology, gaming, business, sports and culture. The original publisher remains responsible for its reporting.</p>
                 <p>Use <a href="latest.html">Latest</a> to discover recently collected stories and <a href="trending.html">Trending</a> to explore topics receiving attention. Feed refreshes are automated; a recent collection time does not mean that PikaNews independently verified every claim in a linked story.</p>
                 <p>For a complete account, open the original publisher link on each story. PikaNews may shorten feed excerpts for display and does not reproduce full articles. See our <a href="sources.html">source directory</a> and <a href="editorial-policy.html">editorial and corrections policy</a> for how sources, removals and corrections are handled.</p>
             </div>
@@ -289,6 +315,17 @@
         <div class="home-layout">
             <div class="home-main">
                 <!-- Top Stories: the newest card renders as the lead story -->
+                <section class="news-section for-you-section" aria-labelledby="for-you-title">
+                    <div class="section-header">
+                        <h2 class="section-title" id="for-you-title">For You</h2>
+                        <button type="button" id="preferences-toggle" class="see-all-link">Customize topics</button>
+                    </div>
+                    <p class="preferences-note">A guest-first feed based on topics you choose. Your selections stay on this device.</p>
+                    <div id="for-you-news" class="news-grid">
+                        <div class="loading-placeholder"><p>Preparing your personal feed...</p></div>
+                    </div>
+                </section>
+
                 <section class="featured-section news-section">
                     <div class="section-header">
                         <h2 class="section-title">Top Stories</h2>
@@ -459,6 +496,8 @@
                         <li><a href="gaming.html">Gaming</a></li>
                         <li><a href="business.html">Business</a></li>
                         <li><a href="sports.html">Sports</a></li>
+                            <li><a href="world.html">World</a></li>
+                            <li><a href="science.html">Science</a></li>
                     </ul>
                 </div>
                 
@@ -493,6 +532,7 @@
     <script src="js/data.js"></script>
     <script src="js/utils.js"></script>
     <script src="js/app.js"></script>
+    <script src="js/preferences.js"></script>
     <script src="js/newsroom.js"></script>
     <script src="js/ads.js"></script>
     <script src="js/gogo-notifications.js"></script>
