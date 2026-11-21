@@ -39,6 +39,9 @@ class TestURLNormalization:
         assert normalize_url("https://example.com/page?query=1") == "https://example.com/page"
         assert normalize_url("https://example.com/page/#section") == "https://example.com/page"
         assert normalize_url("https://example.com/page/") == "https://example.com/page"
+        assert normalize_url("https://ec.europa.eu/eurostat/product?code=4-19112026-ap") == "https://ec.europa.eu/eurostat/product?code=4-19112026-ap"
+        assert normalize_url("https://ec.europa.eu/eurostat/product?code=4-19112026-ap&utm_source=test") == "https://ec.europa.eu/eurostat/product?code=4-19112026-ap"
+        assert normalize_url("https://ec.europa.eu/eurostat/product?code=bad%2Fvalue") == "https://ec.europa.eu/eurostat/product"
         assert normalize_url("https://example.com") == "https://example.com"
         assert normalize_url("") == ""
         assert normalize_url(None) == ""
@@ -255,6 +258,24 @@ class TestArticleNormalization:
 class TestRSSParsing:
     """Tests for RSS parsing."""
     
+    def test_parse_atom_item_with_href_link_and_updated_date(self):
+        from bs4 import BeautifulSoup
+
+        atom_xml = """
+        <entry>
+            <title>Eurostat releases new figures</title>
+            <link href="https://ec.europa.eu/eurostat/product?code=4-19112026-ap" />
+            <summary>Eurostat publishes new economic figures for the EU.</summary>
+            <updated>2026-11-19T10:00:00Z</updated>
+        </entry>
+        """
+        item = BeautifulSoup(atom_xml, "xml").find("entry")
+        result = parse_rss_item(item, "https://ec.europa.eu/eurostat/feed")
+        assert result is not None
+        assert result["url"].endswith("code=4-19112026-ap")
+        assert result["date"] == "2026-11-19T10:00:00Z"
+        assert "new economic figures" in result["description"]
+
     def test_parse_rss_item(self):
         """Test parsing of RSS item."""
         from bs4 import BeautifulSoup

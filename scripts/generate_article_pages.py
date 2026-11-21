@@ -486,7 +486,7 @@ def build_page(article, eligible, generated_slugs):
     )
     editorial_note = (
         "<p class=\"editorial-note\">Original editorial content by PikaNews. See our <a href=\"../../editorial-policy.html\">Editorial &amp; Corrections Policy</a>.</p>"
-        if indexable else "<p class=\"editorial-note\">PikaNews aggregates headlines and short excerpts from third-party publishers. This excerpt is not original reporting by PikaNews; the full story, photographs and copyright remain with the publisher above. See our <a href=\"../../sources.html\">News Sources &amp; Disclaimer</a>.</p>"
+        if indexable else "<p class=\"editorial-note\">PikaNews aggregates headlines and short excerpts from third-party publishers. This excerpt may be shortened for display and is not original reporting by PikaNews; the full story, photographs and copyright remain with the publisher above. See our <a href=\"../../sources.html\">News Sources &amp; Disclaimer</a>.</p>"
     )
 
     page = PAGE_TEMPLATE
@@ -656,8 +656,15 @@ def generate_article_pages():
         eligible.append(a)
 
     # all_articles.json is newest-first; keep that order and cap the set.
-    eligible = eligible[:MAX_ARTICLES]
-    generated_slugs = {article_slug(a.get("title"), a.get("id")) for a in eligible}
+    # Keep the complete eligible feed for category listings. The static
+    # article-page cap is a separate performance safeguard; applying it
+    # globally here can hide less frequent topics (for example World news)
+    # simply because other categories published more recent stories.
+    category_eligible = eligible
+    article_eligible = category_eligible[:MAX_ARTICLES]
+    generated_slugs = {
+        article_slug(a.get("title"), a.get("id")) for a in article_eligible
+    }
 
     os.makedirs(NEWS_DIR, exist_ok=True)
 
@@ -670,7 +677,7 @@ def generate_article_pages():
             removed_count += 1
 
     written = 0
-    for article in eligible:
+    for article in article_eligible:
         slug = article_slug(article.get("title"), article.get("id"))
         page_dir = os.path.join(NEWS_DIR, slug)
         os.makedirs(page_dir, exist_ok=True)
@@ -679,8 +686,8 @@ def generate_article_pages():
             f.write(html)
         written += 1
 
-    category_pages_updated = write_category_pages(eligible, generated_slugs)
-    update_root_listing_robots(eligible)
+    category_pages_updated = write_category_pages(category_eligible, generated_slugs)
+    update_root_listing_robots(article_eligible)
     print(f"Static article pages generated: {written} (stale dirs removed: {removed_count})")
     print(f"Category pages updated with crawlable stories: {category_pages_updated}")
     print(f"Output directory: {NEWS_DIR}")
