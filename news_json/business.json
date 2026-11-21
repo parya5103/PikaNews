@@ -1,5 +1,44 @@
 [
   {
+    "id": "365c459167ddac3290cec8ed20433ecd7794ae5d8df2f8ac85c34ddff6ce0377",
+    "title": "How China is using summits to expand its global influence",
+    "summary": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+    "published_at": "2026-11-21T06:00:02+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108554278-17950176312026-11-18t135542z_942132153_rc2dqoawfqtc_rtrmadp_0_apec-summit.jpeg?v=1795017657&w=1920&h=1080",
+    "collection_timestamp": "2026-11-21T09:26:51.965033+00:00",
+    "thin": false
+  },
+  {
+    "id": "d969d6579dfb0ee9ad4699f5f26dc7623f4d55299a4ceca572bec715aa57cb94",
+    "title": "An early breakdown in the polar vortex is threatening already depleted gas stocks",
+    "summary": "Colder weather and low wind speeds could strain Europe’s gas market, where storage started winter at its lowest level in more than a decade.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html",
+    "published_at": "2026-11-21T06:00:02+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108554161-1795012667185-gettyimages-460992229-77958321.jpeg?v=1795012769&w=1920&h=1080",
+    "collection_timestamp": "2026-11-21T09:26:51.965215+00:00",
+    "thin": false
+  },
+  {
+    "id": "248ece44979084dd7f9ae72d92b66518d8e3ca41a87c835f34131d4932597d05",
+    "title": "Europe's cyber weak spot is the everyday businesses nobody thought to protect",
+    "summary": "Known vulnerabilities are leaving everyday businesses increasingly exposed to cyber sabotage, as AI enables cybercriminals to work better and faster.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html",
+    "published_at": "2026-11-21T06:00:02+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108328441-1782780337378-gettyimages-527099783-20141125034845_1245_IMG_4146JPG_149607.jpeg?v=1782781855&w=1920&h=1080",
+    "collection_timestamp": "2026-11-21T09:26:51.965404+00:00",
+    "thin": false
+  },
+  {
     "id": "c24157e73b9847fcba21bdb18fd6950c4741d80d3b394349e1e41c4dc6c9987a",
     "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
     "summary": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
@@ -69,7 +108,7 @@
     "url": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
     "published_at": "2026-11-20T21:04:48+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108549208-1794421626428-gettyimages-2264975879-anotherday191760601_bcczxcng.jpeg?v=1795132423&w=1920&h=1080",
     "collection_timestamp": "2026-11-21T01:57:58.225059+00:00",
     "thin": false
   },
@@ -2757,30 +2796,6 @@
     "published_at": "2026-11-15T13:00:02+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-15T14:34:27.156547+00:00",
-    "thin": false
-  },
-  {
-    "id": "d749d29bfcb3510eef77a7eb0ae0abd65eb8b51f75ccc67d6c9ed6d23f8cea39",
-    "title": "Top Wall Street analysts are bullish on these 3 stocks for the long term",
-    "summary": "Here are three stocks favored by some of Wall Street's top pros, according to TipRanks.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/15/top-wall-street-analysts-are-bullish-on-these-3-stocks-for-the-long-term.html",
-    "published_at": "2026-11-15T12:49:07+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-15T14:34:27.156789+00:00",
-    "thin": false
-  },
-  {
-    "id": "a731b9c0ff807c0a0eb8e9465ab2507471811cc93d96806c5801c24b1645373e",
-    "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
-    "summary": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
-    "published_at": "2026-11-15T12:00:01+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-15T14:34:27.156308+00:00",
     "thin": false
   }
 ]
