@@ -486,7 +486,7 @@ def build_page(article, eligible, generated_slugs):
     )
     editorial_note = (
         "<p class=\"editorial-note\">Original editorial content by PikaNews. See our <a href=\"../../editorial-policy.html\">Editorial &amp; Corrections Policy</a>.</p>"
-        if indexable else "<p class=\"editorial-note\">PikaNews aggregates headlines and short excerpts from third-party publishers. This excerpt is not original reporting by PikaNews; the full story, photographs and copyright remain with the publisher above. See our <a href=\"../../sources.html\">News Sources &amp; Disclaimer</a>.</p>"
+        if indexable else "<p class=\"editorial-note\">PikaNews aggregates headlines and short excerpts from third-party publishers. This excerpt may be shortened for display and is not original reporting by PikaNews; the full story, photographs and copyright remain with the publisher above. See our <a href=\"../../sources.html\">News Sources &amp; Disclaimer</a>.</p>"
     )
 
     page = PAGE_TEMPLATE
