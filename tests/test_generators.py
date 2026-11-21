@@ -205,6 +205,10 @@ def test_rss_generator():
         test_articles = [
             _article("test1", LONG_TITLE_1),
             _article("test2", LONG_TITLE_2),
+            {
+                **_article("undated01", "Undated test story should not enter the RSS feed"),
+                "published_at": None,
+            },
         ]
         with open(os.path.join(news_json_dir, "all_articles.json"), "w") as f:
             json.dump(test_articles, f)
@@ -230,6 +234,8 @@ def test_rss_generator():
                 assert "PikaNews" in content
                 assert LONG_TITLE_1 in content
                 assert LONG_TITLE_2 in content
+                assert "Undated test story should not enter the RSS feed" not in content
+                assert content.count("<item>") == 2, "undated stories must not receive fabricated RSS pubDate values"
 
             print("  ✓ RSS generation test passed")
 
