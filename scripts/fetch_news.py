@@ -368,15 +368,15 @@ RSS_FEEDS = {
     ]
     "world": [
         {
-            "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
-            "name": "UN News",
+            "url": "https://www.ungeneva.org/news-media/press-items-list/rss.xml",
+            "name": "UN Geneva",
             "category": "world",
             "language": "en",
             "region": "global",
             "enabled": True,
             "priority": 1,
             "image_policy": "none",
-            "reuse_policy": "UN News RSS is used for headline discovery; display only a short attributed excerpt and link to the original."
+            "reuse_policy": "The official UN Geneva RSS page permits displaying its feeds on another website; show only a short attributed excerpt and link to the original."
         }
     ],
     "science": [
