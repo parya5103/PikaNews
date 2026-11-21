@@ -59,8 +59,10 @@ TOPIC_RULES: Dict[str, Tuple[str, ...]] = {
     ),
     "entertainment": (
         "entertainment", "movie", "film", "actor", "actress", "celebrity",
-        "tv series", "television", "streaming", "netflix", "album", "concert",
-        "music", "box office", "film festival",
+        "tv series", "tv show", "television", "streaming", "netflix", "album", "concert",
+        "music", "box office", "film festival", "book", "books", "novel", "novels",
+        "comic", "comics", "comic strip", "documentary", "director", "casting",
+        "cast", "studio", "studios", "episode", "season", "series", "show",
     ),
 }
 
@@ -113,4 +115,13 @@ def classify_article(
         )[0]
 
     fallback = str(source_category or "").strip().casefold()
+    if fallback == "gaming":
+        # A publisher feed may mix games with TV, books, comics and culture.
+        # Do not let a generic headline inherit Gaming without explicit game evidence.
+        gaming_evidence = (
+            _phrase_hits(title_text, TOPIC_RULES["gaming"])
+            + _phrase_hits(summary_text, TOPIC_RULES["gaming"])
+        )
+        if not gaming_evidence:
+            return "world"
     return fallback or "world"
