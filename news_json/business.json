@@ -1,5 +1,18 @@
 [
   {
+    "id": "2d6efe0e55b48ea574d9515ea5247d59abd174e00bf4744271e848046aa9e135",
+    "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
+    "summary": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
+    "published_at": "2026-11-21T12:00:01+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108555266-1795098920001-IMG_6917_1.jpg?v=1795099096&w=1920&h=1080",
+    "collection_timestamp": "2026-11-21T12:13:33.646932+00:00",
+    "thin": false
+  },
+  {
     "id": "220792a66752e290ccb456f742961739fbdab24d8704b6f8cc4df9cdffe9a899",
     "title": "S&P 500 correction: Five forces behind the market sell-off",
     "summary": "The S&P 500 and Dow Jones Industrial Average closed in correction territory, off 10% from their records. The Nasdaq Composite lost its gain for the year.",
@@ -11,6 +24,26 @@
     "image_url": "https://image.cnbcfm.com/api/v1/image/108554307-17950192062026-11-18t162223z_189106541_rc2dqoahnid0_rtrmadp_0_usa-stocks.jpeg?v=1795019320&w=1920&h=1080",
     "collection_timestamp": "2026-11-21T11:55:22.203392+00:00",
     "thin": false
+  },
+  {
+    "id": "8e754659c030a585d1d3b68ce9aecc71f3fffedacb63c37c5a7b56da13551a65",
+    "title": "Harbinger is building the unsexy EVs that keep the economy moving",
+    "summary": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch that includes a $300 million order from FedEx and a new defense contract with the US military. Harbinger is stacking up [&#8230;]",
+    "category": "business",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
+    "published_at": "2026-11-21T07:00:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gang-shot-7.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-21T12:13:33.632215+00:00",
+    "thin": false,
+    "author": "Andrew J. Hawkins",
+    "tags": [
+      "Electric Cars",
+      "News",
+      "Report",
+      "Transportation"
+    ]
   },
   {
     "id": "365c459167ddac3290cec8ed20433ecd7794ae5d8df2f8ac85c34ddff6ce0377",
@@ -2702,42 +2735,6 @@
     "published_at": "2026-11-15T19:58:21+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-16T07:02:25.962491+00:00",
-    "thin": false
-  },
-  {
-    "id": "604bcdc67d7421fb69c196131d4c9b54f000dc1a0b0fa4035953c712a22b5b2a",
-    "title": "'We slept here': Flight delays linger but schedule is back on track for Monday",
-    "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-    "published_at": "2026-11-15T18:22:23+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-15T20:08:30.061139+00:00",
-    "thin": false
-  },
-  {
-    "id": "675d14816156fade4ca495936deb621c12b8c20caafb110e791dd0fa9252dcb1",
-    "title": "DOT Sec. Duffy ties router in southern Arkansas to issues that led to nationwide ground stop",
-    "summary": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-    "published_at": "2026-11-15T18:15:14+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-15T20:08:30.061454+00:00",
-    "thin": false
-  },
-  {
-    "id": "c686738ac9d1fb1be507a5a25fadfec5fa0b47a224c0bb5971afcc2c58be0941",
-    "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
-    "summary": "Bessent has criticized Howard Lutnick’s department over suspected chip diversion to China while defending President Donald Trump’s handling of the matter.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
-    "published_at": "2026-11-15T18:10:18+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-15T20:08:30.061007+00:00",
     "thin": false
   }
 ]

@@ -1,5 +1,18 @@
 [
   {
+    "id": "8f4305c869e1af891ddc63f17dc0066825d8dde39695593f1594632d011de711",
+    "title": "Australia's Chaudhary downs England in tetchy first T20",
+    "summary": "Unlikely Australia international Nikhil Chaudhary rattles England and secures a tense and tetchy final-over victory in the first T20.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/cricket/articles/cme39qlevnrqo",
+    "published_at": "2026-11-21T12:07:16+00:00",
+    "date_unverified": false,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a75a/live/19e88440-e5a1-11f1-a094-5fdc692f3e33.jpg",
+    "collection_timestamp": "2026-11-21T12:13:33.647348+00:00",
+    "thin": false
+  },
+  {
     "id": "397ed6f349506f99715208e8029a6779e220395082a625d0735d02aab97d0dfe",
     "title": "Lehmann again denies knowing about sandpaper plot",
     "summary": "Former Australia coach Darren Lehmann says he and his staff did not encourage players to use sandpaper on the ball in 2018 despite detailed claims by Cameron Bancroft.",
@@ -5275,42 +5288,6 @@
     "published_at": "2026-11-15T18:27:08+00:00",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d041/live/dc9e92f0-e127-11f1-9d32-63e01ae9cf36.jpg",
     "collection_timestamp": "2026-11-15T20:08:30.062133+00:00",
-    "thin": false
-  },
-  {
-    "id": "9de11f83568219eb161eb8da17ad93a8d254d59b89303643d1e2f7a51027e468",
-    "title": "Aberdeen appoint Frick as head coach - who is he & what do the fans think?",
-    "summary": "Former Liechtenstein striker Mario Frick is announced as the new head coach of Aberdeen.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cqrmgz9ypvwko",
-    "published_at": "2026-11-15T18:27:08+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d041/live/dc9e92f0-e127-11f1-9d32-63e01ae9cf36.jpg",
-    "collection_timestamp": "2026-11-15T20:08:30.064101+00:00",
-    "thin": false
-  },
-  {
-    "id": "4346f2cc411016ddfa7fb11b708206332efb74350c87f915d9dfd9ae4e2596e7",
-    "title": "Zverev 'felt a lot of joy' in first win as world number one",
-    "summary": "Alexander Zverev claims his first victory as world number one as he sweeps aside Rafael Jodar in the opening match of the ATP Finals.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/tennis/articles/cm5y1grdy3w2o",
-    "published_at": "2026-11-15T18:00:57+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dba/live/f5c831e0-e105-11f1-93e1-3b657b665bcf.jpg",
-    "collection_timestamp": "2026-11-15T20:08:30.062526+00:00",
-    "thin": false
-  },
-  {
-    "id": "d112ae17663cbc38f57f09351a01aa40b75c5ed76d98fba6c8982fc9c5290494",
-    "title": "Why 'inspiring' Van Gaal influences Scotland head coach Pocognoli",
-    "summary": "Scotland head coach Sebastien Pocognoli says he draws on the influence of iconic manager Louis van Gaal in his own coaching career.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cw1mdl14dzx8o",
-    "published_at": "2026-11-15T17:56:57+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94b0/live/8883ed70-e11b-11f1-a7a2-7bb21fac8f0b.jpg",
-    "collection_timestamp": "2026-11-15T20:08:30.063236+00:00",
     "thin": false
   }
 ]

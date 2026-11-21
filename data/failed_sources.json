@@ -1,5 +1,18 @@
 {
-  "failed_sources": [],
-  "timestamp": "2026-11-21T11:55:23.844526+00:00",
-  "total_failed": 0
+  "failed_sources": [
+    {
+      "name": "Pinkvilla",
+      "url": "https://www.pinkvilla.com/feed",
+      "category": "bollywood",
+      "error": "Failed to fetch"
+    },
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com/espn/rss/news",
+      "category": "sports",
+      "error": "Failed to fetch"
+    }
+  ],
+  "timestamp": "2026-11-21T12:13:35.893991+00:00",
+  "total_failed": 2
 }
