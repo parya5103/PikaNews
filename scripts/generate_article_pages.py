@@ -158,9 +158,9 @@ def set_robots_meta(html, should_index):
 
 
 def update_root_listing_robots(articles, frontend_dir=None):
-    """Keep the Trending feed gated; the main discovery homepage is always indexable."""
+    """Keep Trending noindex until it has a genuine trend-ranking signal."""
     frontend_dir = frontend_dir or FRONTEND_DIR
-    should_index = is_indexable_listing(articles, MIN_INDEXABLE_LISTING_STORIES)
+    should_index = False
     for filename in ("trending.html",):
         path = os.path.join(frontend_dir, filename)
         if not os.path.isfile(path):
@@ -658,7 +658,11 @@ def write_category_pages(articles, generated_slugs, frontend_dir=None):
         rendered = _replace_div_contents(original, page + "-news", cards)
         minimum = MIN_INDEXABLE_LISTING_STORIES if page == "latest" else MIN_INDEXABLE_CATEGORY_STORIES
         min_sources = MIN_INDEXABLE_LISTING_SOURCES if page == "latest" else MIN_INDEXABLE_CATEGORY_SOURCES
-        rendered = set_robots_meta(rendered, is_indexable_listing(selected, minimum, min_sources))
+        should_index = (
+            page != "trending"
+            and is_indexable_listing(selected, minimum, min_sources)
+        )
+        rendered = set_robots_meta(rendered, should_index)
         if rendered != original:
             with open(path, "w", encoding="utf-8") as f:
                 f.write(rendered)
