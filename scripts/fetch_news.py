@@ -23,7 +23,7 @@ import socket
 import re
 from datetime import datetime, timezone, timedelta
 from typing import List, Dict, Any, Optional, Set, Tuple
-from urllib.parse import urlparse, urljoin
+from urllib.parse import urlparse, urljoin, parse_qs, quote
 import httpx
 from bs4 import BeautifulSoup
 
@@ -377,6 +377,28 @@ RSS_FEEDS = {
             "priority": 1,
             "image_policy": "none",
             "reuse_policy": "The official UN Geneva RSS page permits displaying its feeds on another website; show only a short attributed excerpt and link to the original."
+        },
+        {
+            "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL",
+            "name": "Eurostat Press Releases",
+            "category": "world",
+            "language": "en",
+            "region": "europe",
+            "enabled": True,
+            "priority": 1,
+            "image_policy": "none",
+            "reuse_policy": "EU-owned Eurostat editorial content is reusable under CC BY 4.0 with attribution and indication of changes; check item-level notices for third-party exceptions."
+        },
+        {
+            "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_EURNEW",
+            "name": "Eurostat News",
+            "category": "world",
+            "language": "en",
+            "region": "europe",
+            "enabled": True,
+            "priority": 1,
+            "image_policy": "none",
+            "reuse_policy": "EU-owned Eurostat editorial content is reusable under CC BY 4.0 with attribution and indication of changes; check item-level notices for third-party exceptions."
         }
     ],
     "science": [
@@ -413,8 +435,17 @@ def normalize_url(url: str) -> str:
     except (TypeError, ValueError):
         return ""
 
+    # Eurostat's official Atom feed links to product pages whose unique
+    # identifier is carried in the "code" query parameter. Preserve only
+    # that validated parameter; tracking queries remain stripped everywhere.
+    query = ""
+    if parsed.hostname.casefold() == "ec.europa.eu" and parsed.path.rstrip("/") == "/eurostat/product":
+        codes = parse_qs(parsed.query, keep_blank_values=False).get("code", [])
+        if len(codes) == 1 and re.fullmatch(r"[A-Za-z0-9-]{1,80}", codes[0]):
+            query = "?code=" + quote(codes[0], safe="-")
+
     normalized = f"{parsed.scheme.lower()}://{parsed.netloc}{parsed.path}"
-    return normalized.rstrip("/")
+    return normalized.rstrip("/") + query
 
 
 def generate_article_hash(title: str, url: str) -> str:
