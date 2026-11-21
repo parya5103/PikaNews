@@ -71,7 +71,7 @@ _SOURCE_CATEGORY_WEIGHT = 1
 
 def _normalise(value: object) -> str:
     text = str(value or "").casefold()
-    text = re.sub(r"[^\\w]+", " ", text, flags=re.UNICODE)
+    text = re.sub(r"[^\w]+", " ", text, flags=re.UNICODE)
     return " " + " ".join(text.split()) + " "
 
 
