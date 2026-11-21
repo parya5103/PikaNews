@@ -1,12 +1,13 @@
 {
-  "timestamp": "2026-11-21T13:11:27.141472+00:00",
-  "total_fetched": 336,
-  "new_articles": 46,
-  "duplicates": 290,
-  "errors": 3,
+  "timestamp": "2026-11-21T13:14:45.189378+00:00",
+  "total_fetched": 386,
+  "new_articles": 41,
+  "duplicates": 345,
+  "errors": 2,
   "expired_articles": 0,
   "articles_without_valid_date": 0,
   "by_source": {
+    "Pinkvilla": 50,
     "Variety": 10,
     "Deadline": 12,
     "Hollywood Reporter": 10,
@@ -27,13 +28,13 @@
     "NOAA Climate.gov": 10
   },
   "by_category": {
-    "technology": 7,
-    "gaming": 4,
+    "technology": 6,
     "entertainment": 1,
     "science": 5,
-    "business": 7,
+    "gaming": 2,
     "sports": 5,
     "health": 3,
+    "business": 5,
     "politics": 2,
     "world": 8,
     "climate": 4

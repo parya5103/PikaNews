@@ -1,12 +1,6 @@
 {
   "failed_sources": [
     {
-      "name": "Pinkvilla",
-      "url": "https://www.pinkvilla.com/feed",
-      "category": "bollywood",
-      "error": "Failed to fetch"
-    },
-    {
       "name": "ESPN",
       "url": "https://www.espn.com/espn/rss/news",
       "category": "sports",
@@ -14,11 +8,11 @@
     },
     {
       "name": "UN Meetings Coverage and Press Releases",
-      "url": "https://www.un.org/press/en/feed",
+      "url": "https://press.un.org/en/rss.xml",
       "category": "world",
       "error": "Failed to fetch"
     }
   ],
-  "timestamp": "2026-11-21T13:11:50.478191+00:00",
-  "total_failed": 3
+  "timestamp": "2026-11-21T13:15:06.276376+00:00",
+  "total_failed": 2
 }
