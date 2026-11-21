@@ -793,7 +793,7 @@
     "source": "CNBC",
     "url": "https://www.cnbc.com/2026/11/20/gta-vi-launch-streaming-content-economy.html",
     "published_at": "2026-11-20T07:08:36+00:00",
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108556195-1795148768637-gettyimages-2304972251-AFP_D7NA4PX.jpeg?v=1795157922&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T12:29:55.755150+00:00",
     "thin": false
   },
@@ -805,7 +805,7 @@
     "source": "CNBC",
     "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html",
     "published_at": "2026-11-20T06:00:01+00:00",
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/105163084-GettyImages-471605673.jpg?v=1532563649&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T12:29:55.754632+00:00",
     "thin": false
   },
@@ -2886,30 +2886,6 @@
     "published_at": "2026-11-16T04:34:00+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-16T07:02:25.962053+00:00",
-    "thin": false
-  },
-  {
-    "id": "993772bbb678f0ee7b550d96744bff9f8f304444f8ae56a380053a5c8e3d60f6",
-    "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
-    "summary": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
-    "published_at": "2026-11-16T03:53:59+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T07:02:25.962165+00:00",
-    "thin": false
-  },
-  {
-    "id": "1a25176d2e1a5058f937a93ed71f1be475471f4aa9f9e9064ce6c0b2e47926b9",
-    "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
-    "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
-    "published_at": "2026-11-16T02:56:24+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T07:02:25.962354+00:00",
     "thin": false
   },
   {

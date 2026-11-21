@@ -1,5 +1,36 @@
 [
   {
+    "id": "f05d61b62f856fba4f22a7d4cc2f926090ad56be713fde88c0564e8613c5baf6",
+    "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+    "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+    "published_at": "2026-11-21T16:40:05+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108555254-1795098552302-gettyimages-2305298530-AFP_D7ZG87P.jpeg?v=1795137591&w=1920&h=1080",
+    "collection_timestamp": "2026-11-21T16:54:25.938465+00:00",
+    "thin": false
+  },
+  {
+    "id": "1e9cc1564da72c9750c673d28aeff099b733f9fce269275ab46bd49e8b7bbfc8",
+    "title": "D&D Publisher Officially Hands Record-Breaking AI Settlement Money to Authors",
+    "summary": "Wizards of the Coast is entitled to a hefty sum of Anthropic settlement money, but it's giving it to Dungeons & Dragons writers.",
+    "category": "technology",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/dnd-dungeons-dragons-authors-get-settlement-money-wizards-of-the-coast",
+    "published_at": "2026-11-21T15:59:00+00:00",
+    "date_unverified": false,
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/dungeons-dragons-world-of-warcraft-bronze-dragons.jpg",
+    "collection_timestamp": "2026-11-21T16:54:25.938096+00:00",
+    "thin": false,
+    "author": "Ashely Claudino",
+    "tags": [
+      "News",
+      "Dungeons & Dragons"
+    ]
+  },
+  {
     "id": "fd0908678abf0084654ea864a88e2b80eec3ced613ebf98e0635c70b61430aca",
     "title": "What China Gets From Its AI Honeypots and Smuggled Chips",
     "summary": "Jensen Huang had an affair with an alleged Chinese spy. But what will the Chinese actually do with Nvidia chips?",
@@ -19,6 +50,27 @@
       "controversy",
       "Jensen Huang",
       "NVIDIA"
+    ]
+  },
+  {
+    "id": "82e5d6d3f254a907f161c2673e934b2374b07f56b83e7cabc68ce7561c185de0",
+    "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+    "summary": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs, top-notch puns, and frankly wholesome fun. Comedy is just part of Roberts' life, however. In [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+    "published_at": "2026-11-21T11:00:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/John_Roberts_1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-21T16:54:25.917571+00:00",
+    "thin": false,
+    "author": "Terrence O’Brien",
+    "tags": [
+      "Entertainment",
+      "Interview",
+      "Music",
+      "Report",
+      "TV Shows"
     ]
   },
   {
@@ -2516,18 +2568,6 @@
       "Report",
       "Tech"
     ]
-  },
-  {
-    "id": "78300035511d1fb51407f5251712108cf4a74a6f0ae41ab1f5573791f5cdd933",
-    "title": "Tech world's calls for Jensen Huang to return to Nvidia are growing",
-    "summary": "Calls for Jensen Huang's return as Nvidia CEO are growing, with tech executives and major shareholders backing a potential comeback following his resignation.",
-    "category": "technology",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
-    "published_at": "2026-11-16T03:35:09+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T07:02:25.961960+00:00",
-    "thin": false
   },
   {
     "id": "5082dfda10bff74f000a79d57567c7e87de16691fdbad697271e5cb0ec100b12",

@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-11-21T15:16:23.296443+00:00",
-  "total_fetched": 422,
-  "new_articles": 19,
-  "duplicates": 403,
-  "errors": 0,
+  "timestamp": "2026-11-21T16:54:21.020727+00:00",
+  "total_fetched": 382,
+  "new_articles": 44,
+  "duplicates": 338,
+  "errors": 1,
   "expired_articles": 0,
   "articles_without_valid_date": 10,
   "by_source": {
@@ -19,8 +19,7 @@
     "GameSpot": 30,
     "Polygon": 10,
     "CNBC": 30,
-    "ESPN": 42,
-    "BBC Sport": 54,
+    "BBC Sport": 56,
     "BuzzFeed World": 50,
     "UN Geneva": 10,
     "Eurostat Press Releases": 11,
@@ -29,12 +28,13 @@
     "NOAA Climate.gov": 10
   },
   "by_category": {
-    "technology": 5,
-    "entertainment": 1,
+    "entertainment": 9,
+    "health": 3,
+    "hollywood": 3,
+    "technology": 8,
     "science": 1,
-    "gaming": 2,
-    "sports": 8,
-    "health": 1,
+    "gaming": 8,
+    "sports": 11,
     "world": 1
   }
 }

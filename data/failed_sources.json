@@ -1,5 +1,12 @@
 {
-  "failed_sources": [],
-  "timestamp": "2026-11-21T15:16:27.726774+00:00",
-  "total_failed": 0
+  "failed_sources": [
+    {
+      "name": "ESPN",
+      "url": "https://www.espn.com/espn/rss/news",
+      "category": "sports",
+      "error": "Failed to fetch"
+    }
+  ],
+  "timestamp": "2026-11-21T16:54:28.376397+00:00",
+  "total_failed": 1
 }
