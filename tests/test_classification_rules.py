@@ -62,6 +62,20 @@ def test_global_sources_are_enabled_and_do_not_reuse_remote_images():
     assert science["image_policy"] == "none"
 
 
+def test_publishers_with_restrictive_commercial_terms_are_disabled():
+    from scripts.fetch_news import RSS_FEEDS
+
+    sources = {
+        source["name"]: source
+        for feeds in RSS_FEEDS.values()
+        for source in feeds
+    }
+    assert sources["Pinkvilla"]["enabled"] is False
+    assert "written commercial-use permission" in sources["Pinkvilla"]["reuse_policy"]
+    assert sources["ESPN"]["enabled"] is False
+    assert "written commercial-use permission" in sources["ESPN"]["reuse_policy"]
+
+
 def test_eurostat_world_feeds_are_enabled_and_region_tagged():
     from scripts.fetch_news import RSS_FEEDS
 
