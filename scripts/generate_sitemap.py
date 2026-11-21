@@ -89,20 +89,17 @@ def generate_sitemap():
         except Exception as e:
             print(f"Warning: could not load articles for sitemap: {e}")
 
-    # Feed and category pages are indexable only when they contain enough
-    # reviewed, substantial PikaNews-authored editorial. Aggregated RSS volume
-    # never satisfies this gate.
-    # The homepage is a useful, branded discovery hub even before the
-    # newsroom has enough reviewed original stories to index article pages.
-    # Keep it indexable and discoverable; gate editorial feeds separately.
+    # Topic listings are discovery hubs, not individual article copies. Only
+    # recent, substantial excerpts from multiple distinct publishers qualify.
+    # Individual third-party article pages remain noindex; Trending is omitted
+    # until it has a genuine trend-ranking signal.
     listing_pages = [
         {"url": "", "priority": 1.0, "changefreq": "daily"},
     ]
     if is_indexable_listing(articles, MIN_INDEXABLE_LISTING_STORIES, MIN_INDEXABLE_LISTING_SOURCES):
-        listing_pages.extend([
-            {"url": "latest.html", "priority": 0.9, "changefreq": "hourly"},
-            {"url": "trending.html", "priority": 0.9, "changefreq": "hourly"},
-        ])
+        listing_pages.append(
+            {"url": "latest.html", "priority": 0.9, "changefreq": "hourly"}
+        )
     for page, allowed_categories in CATEGORY_PAGE_FILTERS.items():
         if page == "latest":
             continue
