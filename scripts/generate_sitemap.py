@@ -19,7 +19,7 @@ import json
 from urllib.parse import urljoin
 
 try:
-    from scripts.generate_article_pages import (article_slug, is_indexable_article, is_indexable_listing, is_thin, load_removed_hashes, parse_iso, CATEGORY_PAGE_FILTERS, MIN_INDEXABLE_LISTING_STORIES, MIN_INDEXABLE_CATEGORY_STORIES)
+    from scripts.generate_article_pages import (article_slug, is_indexable_article, is_indexable_listing, is_thin, load_removed_hashes, parse_iso, CATEGORY_PAGE_FILTERS, MIN_INDEXABLE_LISTING_STORIES, MIN_INDEXABLE_CATEGORY_STORIES, MIN_INDEXABLE_LISTING_SOURCES, MIN_INDEXABLE_CATEGORY_SOURCES)
 except ImportError:
     from generate_article_pages import (article_slug, is_indexable_article, is_indexable_listing, is_thin, load_removed_hashes, CATEGORY_PAGE_FILTERS, MIN_INDEXABLE_LISTING_STORIES, MIN_INDEXABLE_CATEGORY_STORIES)
 
@@ -58,6 +58,7 @@ def generate_sitemap():
     """Generate XML sitemap."""
     # Collect all article URLs
     article_urls = []
+    articles = []
 
     # Load all articles
     all_articles_file = os.path.join(NEWS_JSON_DIR, "all_articles.json")
@@ -97,7 +98,7 @@ def generate_sitemap():
     listing_pages = [
         {"url": "", "priority": 1.0, "changefreq": "daily"},
     ]
-    if is_indexable_listing(articles, MIN_INDEXABLE_LISTING_STORIES):
+    if is_indexable_listing(articles, MIN_INDEXABLE_LISTING_STORIES, MIN_INDEXABLE_LISTING_SOURCES):
         listing_pages.extend([
             {"url": "latest.html", "priority": 0.9, "changefreq": "hourly"},
             {"url": "trending.html", "priority": 0.9, "changefreq": "hourly"},
@@ -109,7 +110,7 @@ def generate_sitemap():
             article for article in articles
             if (article.get("category") or "").lower() in allowed_categories
         ]
-        if is_indexable_listing(selected, MIN_INDEXABLE_CATEGORY_STORIES):
+        if is_indexable_listing(selected, MIN_INDEXABLE_CATEGORY_STORIES, MIN_INDEXABLE_CATEGORY_SOURCES):
             listing_pages.append({"url": page + ".html", "priority": 0.8, "changefreq": "hourly"})
     static_pages = listing_pages + STATIC_PAGES
 
