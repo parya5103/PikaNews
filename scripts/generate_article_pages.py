@@ -53,6 +53,8 @@ CATEGORY_COLORS = {
     "business": "#06b6d4",
     "sports": "#f97316",
     "trending": "#ef4444",
+    "world": "#2563eb",
+    "science": "#0d9488",
 }
 
 
@@ -538,6 +540,8 @@ CATEGORY_PAGE_FILTERS = {
     "gaming": {"gaming"},
     "business": {"business"},
     "sports": {"sports"},
+    "world": {"world"},
+    "science": {"science"},
     "latest": None,
 }
 
