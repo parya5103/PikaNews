@@ -132,7 +132,8 @@ def is_indexable_listing(articles, minimum=MIN_INDEXABLE_LISTING_STORIES,
             continue
         summary = str(article.get("summary") or "").strip()
         source = str(article.get("source") or "").strip()
-        source_domain = domain_of(article.get("url")).casefold()
+        source_url = str(article.get("url") or "").strip()
+        source_domain = domain_of(source_url).casefold() if re.match(r"^https?://", source_url, re.I) else ""
         published = parse_iso(article.get("published_at"))
         if len(summary) < MIN_INDEXABLE_SUMMARY_LEN or not source or not source_domain or published is None:
             continue
