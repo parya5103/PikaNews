@@ -57,6 +57,12 @@ def test_global_sources_are_enabled_and_do_not_reuse_remote_images():
     assert world["enabled"] is True
     assert world["region"] == "global"
     assert world["image_policy"] == "none"
+    un_press = RSS_FEEDS["world"][1]
+    assert un_press["name"] == "UN Meetings Coverage and Press Releases"
+    assert un_press["enabled"] is True
+    assert un_press["region"] == "global"
+    assert un_press["image_policy"] == "none"
+    assert "displaying" in un_press["reuse_policy"]
     assert science["name"] == "NASA News Releases"
     assert science["enabled"] is True
     assert science["image_policy"] == "none"
@@ -71,7 +77,7 @@ def test_global_sources_are_enabled_and_do_not_reuse_remote_images():
 def test_eurostat_world_feeds_are_enabled_and_region_tagged():
     from scripts.fetch_news import RSS_FEEDS
 
-    eurostat = RSS_FEEDS["world"][1:]
+    eurostat = RSS_FEEDS["world"][2:]
     assert [source["name"] for source in eurostat] == [
         "Eurostat Press Releases",
         "Eurostat News",
