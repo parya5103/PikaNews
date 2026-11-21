@@ -7,6 +7,9 @@
   var TOPICS = [
     { id: "world", label: "World" },
     { id: "science", label: "Science" },
+    { id: "politics", label: "Politics" },
+    { id: "health", label: "Health" },
+    { id: "climate", label: "Climate" },
     { id: "technology", label: "Technology" },
     { id: "business", label: "Business" },
     { id: "sports", label: "Sports" },
