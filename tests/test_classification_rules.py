@@ -1,5 +1,12 @@
 """Deterministic, dependency-free topic classification tests for PikaNews."""
 
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
+
 from scripts.classification_rules import classify_article
 
 
