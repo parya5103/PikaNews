@@ -140,11 +140,11 @@ def test_dynamic_article_fallback_keeps_aggregated_items_noindex_without_newsart
     assert "article.editorial_content" in fallback
 
 
-def test_homepage_keeps_editorial_noindex_policy_and_uses_pikanews_channel_only():
+def test_homepage_is_indexable_and_uses_pikanews_channel_only():
     from pathlib import Path
 
     homepage = (Path(__file__).resolve().parents[1] / "frontend" / "index.html").read_text(encoding="utf-8")
-    assert '<meta name="robots" content="noindex,follow">' in homepage
+    assert '<meta name="robots" content="index,follow">' in homepage
     assert "https://whatsapp.com/channel/0029Vb5zVwjICVfnQ95zT10F" in homepage
     assert "https://whatsapp.com/channel/0029VbE1ulAAjPXQZiUbbu1Z" not in homepage
     assert "Follow on WhatsApp" in homepage
@@ -161,3 +161,17 @@ def test_generated_and_dynamic_story_pages_offer_pikanews_follow_link():
     assert 'aria-label="Follow PikaNews on WhatsApp"' in generated
     assert channel in fallback
     assert 'aria-label="Follow PikaNews on WhatsApp"' in fallback
+
+
+def test_root_listing_robots_never_noindexes_the_discovery_homepage(tmp_path):
+    from scripts.generate_article_pages import update_root_listing_robots
+
+    homepage = tmp_path / "index.html"
+    trending = tmp_path / "trending.html"
+    homepage.write_text('<html><head><meta name="robots" content="index,follow"></head></html>', encoding="utf-8")
+    trending.write_text('<html><head><meta name="robots" content="index,follow"></head></html>', encoding="utf-8")
+
+    update_root_listing_robots([], frontend_dir=str(tmp_path))
+
+    assert 'content="index,follow"' in homepage.read_text(encoding="utf-8")
+    assert 'content="noindex,follow"' in trending.read_text(encoding="utf-8")
