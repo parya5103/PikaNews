@@ -1,9 +1,9 @@
 {
-  "timestamp": "2026-11-21T13:14:45.189378+00:00",
-  "total_fetched": 386,
-  "new_articles": 41,
-  "duplicates": 345,
-  "errors": 2,
+  "timestamp": "2026-11-21T13:20:08.033697+00:00",
+  "total_fetched": 430,
+  "new_articles": 47,
+  "duplicates": 383,
+  "errors": 0,
   "expired_articles": 0,
   "articles_without_valid_date": 0,
   "by_source": {
@@ -19,6 +19,7 @@
     "GameSpot": 30,
     "Polygon": 10,
     "CNBC": 30,
+    "ESPN": 44,
     "BBC Sport": 60,
     "BuzzFeed World": 50,
     "UN Geneva": 10,
@@ -32,10 +33,10 @@
     "entertainment": 1,
     "science": 5,
     "gaming": 2,
-    "sports": 5,
+    "sports": 10,
+    "politics": 3,
     "health": 3,
     "business": 5,
-    "politics": 2,
     "world": 8,
     "climate": 4
   }

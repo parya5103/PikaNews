@@ -1,18 +1,5 @@
 {
-  "failed_sources": [
-    {
-      "name": "ESPN",
-      "url": "https://www.espn.com/espn/rss/news",
-      "category": "sports",
-      "error": "Failed to fetch"
-    },
-    {
-      "name": "UN Meetings Coverage and Press Releases",
-      "url": "https://press.un.org/en/rss.xml",
-      "category": "world",
-      "error": "Failed to fetch"
-    }
-  ],
-  "timestamp": "2026-11-21T13:15:06.276376+00:00",
-  "total_failed": 2
+  "failed_sources": [],
+  "timestamp": "2026-11-21T13:20:17.222158+00:00",
+  "total_failed": 0
 }

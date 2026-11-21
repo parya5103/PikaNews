@@ -104,6 +104,34 @@
     "thin": false
   },
   {
+    "id": "7a8bc4be92552bbc20fdbb994a22fcbd80de004a21b455d6a5f72e1915f45e84",
+    "title": "Our NFL Week 11 crystal ball: Five analysts make predictions, from upsets to TD scorers",
+    "summary": "Eagles upsetting the Steelers? Big receiving day for Christian McCaffrey? Touchdown for Josh Downs? Let's predict 15 things for Week 11.",
+    "category": "sports",
+    "source": "ESPN",
+    "url": "https://www.espn.com/nfl/story/_/id/50521728/week-11-predictions-upsets-fantasy-sleepers-stats-2026",
+    "published_at": "2026-11-21T08:12:34+00:00",
+    "date_unverified": false,
+    "image_url": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1116%2Fr1746461_1296x729_16%2D9.jpg",
+    "collection_timestamp": "2026-11-21T13:20:16.077024+00:00",
+    "thin": false,
+    "author": "Matt Bowen, Pamela Maldonado, Eric Moody, Ben Solak and Seth Walder"
+  },
+  {
+    "id": "5c03866baa5ca48912ba8a7fa0d0c7e66034a9e43ddf4b2dd79562d568b03632",
+    "title": "Our guide to every game: Matchup previews, predictions, picks and nuggets",
+    "summary": "There are 12 more games in Week 11, and we have picks, key stats and more for all of them.",
+    "category": "sports",
+    "source": "ESPN",
+    "url": "https://www.espn.com/nfl/story/_/id/50522208/week-11-picks-predictions-schedule-fantasy-odds-2026",
+    "published_at": "2026-11-21T08:12:34+00:00",
+    "date_unverified": false,
+    "image_url": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0819%2Fr1533632_1296x729_16%2D9.jpg",
+    "collection_timestamp": "2026-11-21T13:20:16.077341+00:00",
+    "thin": false,
+    "author": "NFL Nation, Pamela Maldonado, Eric Moody and Seth Walder"
+  },
+  {
     "id": "4bcfb1204471b501778e5d73845c0a3c003e8a74b8794967314979bf824fa9d3",
     "title": "Cummins' integrity not compromised - Cricket Australia",
     "summary": "Cricket Australia has \"unequivocally rejected\" the suggestion that captain Pat Cummins' integrity has been compromised by the sandpaper scandal.",
@@ -114,6 +142,19 @@
     "date_unverified": false,
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7262/live/0dfc94a0-e574-11f1-9d7f-154de60fca60.jpg",
     "collection_timestamp": "2026-11-21T09:26:51.966510+00:00",
+    "thin": false
+  },
+  {
+    "id": "ee047f0fea547ec4caa159a3f6ad2d9587b5efe5a918671acf74c8ea86665b3d",
+    "title": "Udoka blasts Rockets as 'mentally fragile,' rips defense after loss to Nuggets",
+    "summary": "Coach Ime Udoka was upset by the Rockets' lack of physicality and effort as they gave up a season high in points during a loss to the Nuggets, calling the defense \"as bad as I've seen it.\"",
+    "category": "sports",
+    "source": "ESPN",
+    "url": "https://www.espn.com/nba/story/_/id/50549254/ime-udoka-frustrated-rockets-defense-loss-nuggets",
+    "published_at": "2026-11-21T07:50:07+00:00",
+    "date_unverified": false,
+    "image_url": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0430%2Fr1486037_1296x729_16%2D9.jpg",
+    "collection_timestamp": "2026-11-21T13:20:16.076360+00:00",
     "thin": false
   },
   {
@@ -128,6 +169,34 @@
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a97c/live/23b63560-e4ea-11f1-99a1-253766e7ad8b.jpg",
     "collection_timestamp": "2026-11-21T09:26:51.966804+00:00",
     "thin": false
+  },
+  {
+    "id": "20b0de7eab88b5609f06e0e4e3b8f5db33a84cd0abe4ce70355a084309e9bfb8",
+    "title": "NHL Tonight: What to watch in all 14 games on Saturday",
+    "summary": "Find game previews, betting intel, broadcast information, stats and highlights here.",
+    "category": "sports",
+    "source": "ESPN",
+    "url": "https://www.espn.com/nhl/story/_/id/50542625/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting",
+    "published_at": "2026-11-21T07:25:22+00:00",
+    "date_unverified": false,
+    "image_url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1120%2Fr1748677_1296x729_16%2D9.jpg",
+    "collection_timestamp": "2026-11-21T13:20:16.077663+00:00",
+    "thin": false,
+    "author": "ESPN staff"
+  },
+  {
+    "id": "c5858efff4e55002dac006ba3ffa779f62290a02afac1c84e8f7e2b9a153c10f",
+    "title": "Power Rankings: Updated poll, plus fantasy hockey add/drops",
+    "summary": "The Hurricanes remain atop the list, while the Senators made a big leap.",
+    "category": "sports",
+    "source": "ESPN",
+    "url": "https://www.espn.com/nhl/story/_/id/50532384/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings-fantasy-hockey",
+    "published_at": "2026-11-21T07:25:22+00:00",
+    "date_unverified": false,
+    "image_url": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1118%2FNHL_power_rankings_26_11_20_16x9.jpg",
+    "collection_timestamp": "2026-11-21T13:20:16.077957+00:00",
+    "thin": false,
+    "author": "Sean Allen and Victoria Matiash"
   },
   {
     "id": "4f6f629850c8e4d0e7da429c7467a5dff524306e30bc04d8e3ad7ab03bf5c8c5",
@@ -395,7 +464,7 @@
     "url": "https://www.espn.com/womens-college-basketball/story/_/id/50535067/ucla-bruins-defending-ncaa-champion-repeat",
     "published_at": "2026-11-21T01:06:58+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1120%2Fr1748384_1296x729_16%2D9.jpg",
     "collection_timestamp": "2026-11-21T11:55:22.218615+00:00",
     "thin": false,
     "author": "Charlotte Gibson"
@@ -409,7 +478,7 @@
     "url": "https://www.espn.com/college-football/story/_/id/50532397/connelly-week-12-preview-big-ten-tennessee",
     "published_at": "2026-11-21T01:05:57+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1119%2Fr1748170_1296x729_16%2D9.jpg",
     "collection_timestamp": "2026-11-21T11:55:22.213036+00:00",
     "thin": false,
     "author": "Bill Connelly"
@@ -449,7 +518,7 @@
     "url": "https://www.espn.com/nfl/story/_/id/50522208/week-11-picks-predictions-schedule-fantasy-odds-2026",
     "published_at": "2026-11-20T23:08:37+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0819%2Fr1533632_1296x729_16%2D9.jpg",
     "collection_timestamp": "2026-11-21T11:55:22.216749+00:00",
     "thin": false,
     "author": "NFL Nation, Pamela Maldonado, Eric Moody and Seth Walder"
@@ -580,7 +649,7 @@
     "url": "https://www.espn.com/fantasy/football/story/_/id/50532835/fantasy-football-streamers-last-minute-pickups-week-11",
     "published_at": "2026-11-20T18:48:30+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1119%2Fr1748267_1296x729_16%2D9.jpg",
     "collection_timestamp": "2026-11-21T11:55:22.219951+00:00",
     "thin": false,
     "author": "Matt Bowen"
@@ -594,7 +663,7 @@
     "url": "https://www.espn.com/fantasy/football/story/_/id/50531472/fantasy-football-start-sit-week-11-need-know",
     "published_at": "2026-11-20T18:48:30+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1119%2Fr1748103_1296x729_16%2D9.jpg",
     "collection_timestamp": "2026-11-21T11:55:22.220209+00:00",
     "thin": false,
     "author": "Adam Rank"
@@ -608,7 +677,7 @@
     "url": "https://www.espn.com/mens-college-basketball/story/_/id/50523371/mens-college-basketball-power-rankings",
     "published_at": "2026-11-20T18:24:47+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1118%2Fr1747850_1296x729_16%2D9.jpg",
     "collection_timestamp": "2026-11-21T11:55:22.218902+00:00",
     "thin": false,
     "author": "Jeff Borzello"
@@ -622,7 +691,7 @@
     "url": "https://www.espn.com/mens-college-basketball/story/_/id/50242145/2027-mens-basketball-recruiting-class-rankings",
     "published_at": "2026-11-20T18:24:47+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1101%2Fr1739578_1296x729_16%2D9.jpg",
     "collection_timestamp": "2026-11-21T11:55:22.219161+00:00",
     "thin": false,
     "author": "Paul Biancardi"
@@ -636,7 +705,7 @@
     "url": "https://www.espn.com/mlb/story/_/id/50531850/mike-trout-angels-new-owner-stan-kroenke",
     "published_at": "2026-11-20T18:16:36+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1119%2Fr1748122_2_1296x729_16%2D9.jpg",
     "collection_timestamp": "2026-11-21T11:55:22.217557+00:00",
     "thin": false,
     "author": "Alden Gonzalez"
@@ -650,7 +719,7 @@
     "url": "https://www.espn.com/mlb/story/_/id/50512061/offseason-free-agency-signings-predictions",
     "published_at": "2026-11-20T18:16:36+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1118%2Fr1747781_1296x729_16%2D9.jpg",
     "collection_timestamp": "2026-11-21T11:55:22.217812+00:00",
     "thin": false,
     "author": "David Schoenfield"
@@ -5217,18 +5286,6 @@
     "published_at": "2026-11-15T20:47:44+00:00",
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3cbd/live/8908cdb0-e143-11f1-a2d0-ff163dc3689d.png",
     "collection_timestamp": "2026-11-16T00:10:34.233052+00:00",
-    "thin": false
-  },
-  {
-    "id": "f97d0524c32365f0918c5dbeb092f43c0a23dc6004c7790182f668fd1247e5af",
-    "title": "London City's 'bravery' paying off in top three pursuit",
-    "summary": "After 10 games in the Women's Super League season, London City Lionesses have shown they are capable of finishing inside the top three.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c6y49gzjgew5o",
-    "published_at": "2026-11-15T20:03:08+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a0/live/0eabd970-e12c-11f1-8eed-17fbb70d2a8a.jpg",
-    "collection_timestamp": "2026-11-15T20:08:30.062249+00:00",
     "thin": false
   }
 ]
