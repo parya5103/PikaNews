@@ -606,3 +606,37 @@ def test_world_and_science_json_feeds_merge_related_categories():
             fetch_news.failed_sources = old_failed_sources
             fetch_news.master_feed_needs_repair = old_master_repair
             _restore_fetch_news(fetch_news, originals)
+
+
+def test_admin_rewrite_handles_undated_records_and_keeps_aggregate_feeds_consistent():
+    import scripts.admin_actions as admin_actions
+
+    with tempfile.TemporaryDirectory() as tmpdir:
+        old_news_dir = admin_actions.NEWS_JSON_DIR
+        try:
+            admin_actions.NEWS_JSON_DIR = tmpdir
+            articles = [
+                _article("admin-undated", None, "climate"),
+                _article("admin-world", NOW.isoformat(), "world"),
+                _article("admin-politics", (NOW - timedelta(hours=1)).isoformat(), "politics"),
+                _article("admin-science", (NOW - timedelta(hours=2)).isoformat(), "science"),
+            ]
+
+            admin_actions.rewrite_feeds(
+                articles, {"world", "politics", "climate", "science"}
+            )
+
+            all_saved = _read_feed(tmpdir, "all_articles.json")
+            assert [article["id"] for article in all_saved] == [
+                "admin-world", "admin-politics", "admin-science", "admin-undated"
+            ]
+            world = _read_feed(tmpdir, "world.json")
+            science = _read_feed(tmpdir, "science.json")
+            assert {article["category"] for article in world} == {
+                "world", "politics", "climate"
+            }
+            assert {article["category"] for article in science} == {
+                "science", "climate"
+            }
+        finally:
+            admin_actions.NEWS_JSON_DIR = old_news_dir
