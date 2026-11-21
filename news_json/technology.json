@@ -1,5 +1,71 @@
 [
   {
+    "id": "fd0908678abf0084654ea864a88e2b80eec3ced613ebf98e0635c70b61430aca",
+    "title": "What China Gets From Its AI Honeypots and Smuggled Chips",
+    "summary": "Jensen Huang had an affair with an alleged Chinese spy. But what will the Chinese actually do with Nvidia chips?",
+    "category": "technology",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/politics/politics-features/what-china-gets-ai-honeypots-smuggled-chips-1235662019",
+    "published_at": "2026-11-21T15:00:00+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/china-and-chips-jensen-huang.jpg?w=1600&h=900&crop=1",
+    "collection_timestamp": "2026-11-21T15:13:04.403336+00:00",
+    "thin": false,
+    "author": "Ryan Bort",
+    "tags": [
+      "Politics",
+      "Politics Features",
+      "AI",
+      "controversy",
+      "Jensen Huang",
+      "NVIDIA"
+    ]
+  },
+  {
+    "id": "41500e4233025297ce60b7ab9a8977286dd9dcbe2176f295ed7d083f29a765c6",
+    "title": "Can Anthropic afford to put safety first?",
+    "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+    "published_at": "2026-11-21T10:00:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_1121_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-21T15:13:04.409508+00:00",
+    "thin": false,
+    "author": "Nilay Patel",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Business",
+      "Decoder",
+      "OpenAI",
+      "Podcasts",
+      "Tech"
+    ]
+  },
+  {
+    "id": "3250d3f2096c2a80b45229ae42014936609291af39369133adb197762fe53f7c",
+    "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+    "summary": "If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless earbuds, which normally retail for $169.99 and come in four colors (black, white, blue, and pink) all of [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+    "published_at": "2026-11-21T09:55:28-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268539_Soundcore_Liberty_5_Pro_JHiggins_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-21T15:13:04.409783+00:00",
+    "thin": false,
+    "author": "Brad Bourque",
+    "tags": [
+      "Black Friday",
+      "Cyber Monday",
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ]
+  },
+  {
     "id": "f0c6738268e813263c6ce0ce2dafb17e2f3f8fab1637f4915cf19fe488482edb",
     "title": "The Xiaomi 18 Pro proves two screens aren’t better than one",
     "summary": "Xiaomi introduced a second screen to its flagship phones with last year's 17 Pros, but didn't release them outside China. That means the new 18 Pro and Pro Max are the first chance I've had to find out if a screen on the back of a phone is any more useful now than it was [&#8230;]",
@@ -2464,42 +2530,17 @@
     "thin": false
   },
   {
-    "id": "ce02a8cf9f1a6b5cafd3e9bae239917be652b1348d2f5b024c4736ba74665194",
-    "title": "From Artist-Approved Headphones to Diamonds and Decor, Here Are 20 Luxury Gifts Worth Giving This Year",
-    "summary": "From fancy tech to designer accessories, these are the best gifts for loved ones you want to spoil a little (or a lot)",
+    "id": "5082dfda10bff74f000a79d57567c7e87de16691fdbad697271e5cb0ec100b12",
+    "title": "REA: The Open-Source AI Tool That Can Reverse Engineer Almost Anything (2026 Guide)",
+    "summary": "What if you could ask your AI assistant how any app works and get a real answer, backed by evidence, without ever seeing the source code? You use an app, tap a feature, and wonder how it was built. Maybe it is a fast search bar, a clever clipboard trick, or a mechanic in an old game. Until recently, finding out meant months of learning disassemblers and reading assembly code. A new open-source project called REA changes that. It has earned more than 430,000 stars on GitHub, and in this guide I w",
     "category": "technology",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/product-recommendations/gift-guide/best-luxury-gift-guide-1234644291",
-    "published_at": "2026-11-15T22:29:00+00:00",
+    "source": "TechCrunch",
+    "url": "https://techncruncher.blogspot.com/2026/11/rea-open-source-ai-tool-that-can.html",
+    "published_at": "2026-11-05T11:03:50+00:00",
+    "date_unverified": false,
     "image_url": null,
-    "collection_timestamp": "2026-11-16T00:10:34.209905+00:00",
+    "collection_timestamp": "2026-11-21T15:13:04.407261+00:00",
     "thin": false,
-    "tags": [
-      "Gift Guide",
-      "RS Recommends",
-      "Beauty",
-      "Fashion",
-      "gifts",
-      "noads"
-    ]
-  },
-  {
-    "id": "cd30705f62410856caadcda643c58da945ce27b05368d30828c21f64a7c55390",
-    "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-    "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-    "published_at": "2026-11-15T20:26:56-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T07:02:25.946116+00:00",
-    "thin": false,
-    "author": "Andrew Liszewski",
-    "tags": [
-      "AI",
-      "Apple",
-      "News",
-      "Tech"
-    ]
+    "author": "noreply@blogger.com (Unknown)"
   }
 ]

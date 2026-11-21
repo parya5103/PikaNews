@@ -1,0 +1,62 @@
+[
+  {
+    "id": "9b347aaf8c41cdb5b094b3c9e486bef9ca75823a6b198f75b00f7fa98253c611",
+    "title": "Five ways NOAA research is making your life better—right now",
+    "summary": "Benefits include improved wildfire forecasts, safer drinking water, better flood predictions, sea floor mapping, and healthier fisheries.",
+    "category": "climate",
+    "source": "NOAA Climate.gov",
+    "url": "https://www.climate.gov/news-features/feed/five-ways-noaa-research-making-your-life-better-right-now",
+    "published_at": null,
+    "date_unverified": true,
+    "image_url": null,
+    "collection_timestamp": "2026-11-21T15:13:04.451321+00:00",
+    "thin": false,
+    "region": "global",
+    "image_policy": "none"
+  },
+  {
+    "id": "9a3fc88c0f249c795609981f5b7483484062c7034acc0c463e0b73acdbd69672",
+    "title": "Confronting climate models with observations: a global assessment of simulated and historical climate trends",
+    "summary": "A new study finds that while climate models have successfully captured many global warming trends, such as rising temperatures and more intense downpours, they still fall short in key areas.",
+    "category": "climate",
+    "source": "NOAA Climate.gov",
+    "url": "https://www.climate.gov/news-features/feed/confronting-climate-models-observations-global-assessment-simulated-and",
+    "published_at": null,
+    "date_unverified": true,
+    "image_url": null,
+    "collection_timestamp": "2026-11-21T15:13:04.451872+00:00",
+    "thin": false,
+    "region": "global",
+    "image_policy": "none"
+  },
+  {
+    "id": "a1f2d96a04dd9da0628d0ecc0a9cc4e5f6c642039dca6b5fbdcf165a22805143",
+    "title": "New research offers insights into why climate models often get spring El Niño forecasts wrong",
+    "summary": "Climate model overconfidence when predicting El Niño from March through May might result from models leaning too heavily on tropical Pacific signals.",
+    "category": "climate",
+    "source": "NOAA Climate.gov",
+    "url": "https://www.climate.gov/news-features/feed/new-research-offers-insights-why-climate-models-often-get-spring-el-nino",
+    "published_at": null,
+    "date_unverified": true,
+    "image_url": null,
+    "collection_timestamp": "2026-11-21T15:13:04.452015+00:00",
+    "thin": false,
+    "region": "global",
+    "image_policy": "none"
+  },
+  {
+    "id": "f8b3736b7448a6c97cc675b2c1682fe07a71d68b37bd71e5235642b0e89c0dba",
+    "title": "Cooking emissions rival fossil fuels as an ozone pollution source in Los Angeles",
+    "summary": "As the adoption of cleaner-burning engines and electric vehicles drives fossil fuel emissions lower, volatile organic compounds from cooking are playing a significant role in ozone over Los Angeles.",
+    "category": "climate",
+    "source": "NOAA Climate.gov",
+    "url": "https://www.climate.gov/news-features/feed/cooking-emissions-rival-fossil-fuels-ozone-pollution-source-los-angeles",
+    "published_at": null,
+    "date_unverified": true,
+    "image_url": null,
+    "collection_timestamp": "2026-11-21T15:13:04.452171+00:00",
+    "thin": false,
+    "region": "global",
+    "image_policy": "none"
+  }
+]
