@@ -32,6 +32,19 @@ def escape_xml(text):
             .replace('"', "&quot;"))
 
 
+def parse_published_at(value):
+    """Parse a real publication timestamp; never invent one for undated stories."""
+    if not isinstance(value, str) or not value.strip():
+        return None
+    try:
+        parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        if parsed.tzinfo is None:
+            parsed = parsed.replace(tzinfo=timezone.utc)
+        return parsed.astimezone(timezone.utc)
+    except (TypeError, ValueError):
+        return None
+
+
 def generate_rss_feed():
     """Generate RSS 2.0 feed."""
     # Load all articles
@@ -45,14 +58,20 @@ def generate_rss_feed():
         except Exception as e:
             print(f"Error loading articles: {e}")
     
-    # Sort by published_at (newest first)
-    articles.sort(key=lambda x: x.get("published_at", ""), reverse=True)
-    
     removed = load_removed_hashes()
-    articles = [a for a in articles if isinstance(a, dict) and a.get("id") not in removed]
+    dated_articles = []
+    for article in articles:
+        if not isinstance(article, dict) or article.get("id") in removed:
+            continue
+        published_at = parse_published_at(article.get("published_at"))
+        # RSS pubDate is mandatory for useful chronology. Keep undated records
+        # in the master store for review, but do not publish guessed timestamps.
+        if published_at is not None:
+            dated_articles.append((published_at, article))
+    dated_articles.sort(key=lambda item: item[0], reverse=True)
 
-    # Limit to 50 most recent articles
-    recent_articles = articles[:50]
+    # Limit to 50 most recent articles with verified publication dates.
+    recent_articles = [article for _, article in dated_articles[:50]]
     
     # Generate XML
     xml_parts = []
@@ -68,10 +87,7 @@ def generate_rss_feed():
     # Anchor channel dates to the newest article so the feed only changes when content changes.
     build_date = datetime.now(timezone.utc)
     if recent_articles:
-        try:
-            build_date = datetime.fromisoformat(recent_articles[0].get("published_at", "").replace("Z", "+00:00"))
-        except Exception:
-            pass
+        build_date = parse_published_at(recent_articles[0].get("published_at")) or build_date
     build_date_str = build_date.strftime("%a, %d %b %Y %H:%M:%S GMT")
     xml_parts.append(f'    <pubDate>{build_date_str}</pubDate>')
     xml_parts.append(f'    <lastBuildDate>{build_date_str}</lastBuildDate>')
@@ -93,12 +109,11 @@ def generate_rss_feed():
         source = article.get("source", "")
         source_url = article.get("url", "")
         
-        # Format pubDate for RSS
-        try:
-            pub_date_obj = datetime.fromisoformat(pub_date.replace("Z", "+00:00"))
-            pub_date_str = pub_date_obj.strftime("%a, %d %b %Y %H:%M:%S GMT")
-        except Exception:
-            pub_date_str = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
+        # The recent list contains only articles with a valid published_at.
+        pub_date_obj = parse_published_at(pub_date)
+        if pub_date_obj is None:
+            continue
+        pub_date_str = pub_date_obj.strftime("%a, %d %b %Y %H:%M:%S GMT")
         
         xml_parts.append('    <item>')
         xml_parts.append(f'      <title>{escape_xml(title)}</title>')
