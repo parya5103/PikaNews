@@ -213,6 +213,7 @@ def test_category_cards_beyond_base_cap_get_unique_static_article_pages(tmp_path
         encoding="utf-8",
     )
     monkeypatch.setattr(generator, "NEWS_JSON_DIR", str(data_dir))
+    monkeypatch.setattr(generator, "FRONTEND_DIR", str(frontend_dir))
     monkeypatch.setattr(generator, "NEWS_DIR", str(news_dir))
     monkeypatch.setattr(generator, "REMOVED_ARTICLES_FILE", str(tmp_path / "removed.json"))
     monkeypatch.setattr(generator, "MAX_ARTICLES", 1)
