@@ -8,6 +8,7 @@ import os
 import sys
 import json
 import tempfile
+from datetime import datetime, timezone
 
 # Add parent directory to path
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -29,6 +30,24 @@ def _article(article_id, title, summary="A sufficiently long summary that "
         "published_at": "2026-01-02T00:00:00Z",
         "collection_timestamp": "2026-01-02T00:10:00Z",
     }
+
+
+
+def _topic_articles(count=12, sources=6, category="technology"):
+    published = datetime.now(timezone.utc).isoformat()
+    return [
+        {
+            "id": f"topic-{index:04d}",
+            "title": f"A sufficiently descriptive current topic headline number {index}",
+            "summary": "Publisher excerpt with meaningful context and detail. " * 5,
+            "category": category,
+            "source": f"Publisher {index % sources}",
+            "url": f"https://publisher-{index % sources}.example/story/{index}",
+            "published_at": published,
+            "collection_timestamp": published,
+        }
+        for index in range(count)
+    ]
 
 
 def _editorial_article(article_id, title):
@@ -504,17 +523,22 @@ def test_homepage_has_clear_source_context_and_no_meta_keywords():
     assert 'href="trending.html"' in normalized
 
 
-def test_listing_pages_require_reviewed_original_editorial_volume():
-    """Aggregated feed volume alone must never make a news listing indexable."""
+def test_listing_pages_require_fresh_substantial_source_diverse_volume():
+    """Aggregated story pages stay noindex, but qualified topic hubs can index."""
     from scripts.generate_article_pages import is_indexable_listing
 
-    aggregated = [_article(f"feed{i:04d}", f"Aggregated news headline number {i}") for i in range(12)]
-    reviewed = [_editorial_article(f"edit{i:04d}", f"Reviewed original editorial story number {i}") for i in range(4)]
-
-    assert is_indexable_listing(aggregated, minimum=4) is False
-    assert is_indexable_listing(reviewed[:3], minimum=4) is False
-    assert is_indexable_listing(reviewed, minimum=4) is True
-    assert is_indexable_listing(aggregated + reviewed[:2], minimum=4) is False
+    qualifying = _topic_articles(count=12, sources=6)
+    assert is_indexable_listing(qualifying, minimum=12, min_sources=5) is True
+    assert is_indexable_listing(qualifying[:11], minimum=12, min_sources=5) is False
+    assert is_indexable_listing(_topic_articles(count=12, sources=4), minimum=12, min_sources=5) is False
+    stale = _topic_articles(count=12, sources=6)
+    for article in stale:
+        article["published_at"] = "2026-01-02T00:00:00Z"
+    assert is_indexable_listing(stale, minimum=12, min_sources=5) is False
+    short = _topic_articles(count=12, sources=6)
+    for article in short:
+        article["summary"] = "Short excerpt."
+    assert is_indexable_listing(short, minimum=12, min_sources=5) is False
 
 
 def test_listing_robots_directive_is_explicit_and_replaceable():
@@ -531,8 +555,8 @@ def test_listing_robots_directive_is_explicit_and_replaceable():
     assert 'content="index,follow"' in indexable
 
 
-def test_sitemap_indexes_listing_pages_only_after_editorial_threshold():
-    """The homepage, latest feed and category listings require reviewed original stories."""
+def test_sitemap_indexes_only_qualified_topic_hubs_and_original_articles():
+    """Fresh topic listings may index; Trending and third-party article copies do not."""
     from scripts.generate_sitemap import generate_sitemap
     import scripts.generate_article_pages as article_pages_module
     import scripts.generate_sitemap as sitemap_module
@@ -540,13 +564,7 @@ def test_sitemap_indexes_listing_pages_only_after_editorial_threshold():
     with tempfile.TemporaryDirectory() as tmpdir:
         news_json_dir = os.path.join(tmpdir, "news_json")
         os.makedirs(news_json_dir)
-        articles = [
-            _editorial_article("editorial001", "Technology research update one"),
-            _editorial_article("editorial002", "Technology research update two"),
-            _editorial_article("editorial003", "Technology research update three"),
-            _editorial_article("editorial004", LONG_TITLE_1),
-            _article("feedonly001", "An aggregated technology headline without editorial"),
-        ]
+        articles = _topic_articles(count=12, sources=6)
         with open(os.path.join(news_json_dir, "all_articles.json"), "w", encoding="utf-8") as f:
             json.dump(articles, f)
 
@@ -560,9 +578,10 @@ def test_sitemap_indexes_listing_pages_only_after_editorial_threshold():
             content = generate_sitemap()
             assert "<loc>https://gogocompany.in/pikanews/</loc>" in content
             assert "latest.html" in content
-            assert "trending.html" in content
+            assert "trending.html" not in content
             assert "technology.html" in content
             assert "bollywood.html" not in content
+            assert "/news/" not in content
         finally:
             article_pages_module.REMOVED_ARTICLES_FILE = original_removed
             sitemap_module.NEWS_JSON_DIR = original_news
