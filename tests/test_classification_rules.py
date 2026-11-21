@@ -238,3 +238,37 @@ def test_existing_articles_are_reclassified_once_using_the_updated_topic_rules(t
     assert loaded[0]["category"] == "entertainment"
     assert loaded[0]["classification_version"] == 2
     assert fetch_news.master_feed_needs_repair is True
+
+
+def test_trending_feed_label_is_not_used_as_an_article_topic():
+    assert classify_article(
+        "An unclassified headline with no topic evidence",
+        "",
+        source_category="trending",
+    ) == "world"
+
+
+def test_one_time_reclassification_preserves_manual_category_corrections(tmp_path, monkeypatch):
+    import json
+    from scripts import fetch_news
+
+    article = {
+        "id": "manually-corrected-story",
+        "title": "A sufficiently descriptive headline about a technology story",
+        "summary": "A detailed summary about software and cybersecurity. " * 5,
+        "category": "sports",
+        "source": "Polygon",
+        "url": "https://www.polygon.com/example-story",
+        "published_at": "2026-11-21T10:00:00+00:00",
+    }
+    (tmp_path / "all_articles.json").write_text(json.dumps([article]), encoding="utf-8")
+    monkeypatch.setattr(fetch_news, "NEWS_JSON_DIR", str(tmp_path))
+    monkeypatch.setattr(fetch_news, "RSS_FEEDS", {
+        "gaming": [{"name": "Polygon", "category": "gaming", "url": "https://www.polygon.com/rss"}]
+    })
+    fetch_news.seen_hashes.clear()
+
+    loaded = fetch_news.load_existing_articles()
+
+    assert loaded[0]["category"] == "sports"
+    assert loaded[0]["classification_version"] == 2
