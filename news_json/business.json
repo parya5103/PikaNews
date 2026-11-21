@@ -1,5 +1,24 @@
 [
   {
+    "id": "94566bb8c01407597c9a3299a492d5994a08bb9ace92dc8901cc862ceb610910",
+    "title": "Russell Crowe’s Request to Shoot ‘A Beautiful Mind’ Chronologically Added $1 Million to the Budget, Says Ron Howard: ‘It Was the Right Kind of Investment’",
+    "summary": "“A Beautiful Mind” director Ron Howard recently called Russell Crowe’s suggestion to shoot the film in order, which cost the studio an additional $1 million, was “the right kind of investment.” The 2001 film follows mathematician John Forbes Nash Jr. (Crowe) through his academic career as he struggles with schizophrenia. Although many films shoot out [&#8230;]",
+    "category": "business",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/news/russell-crowe-a-beautiful-mind-sequence-ron-howard-1236955038",
+    "published_at": "2026-11-21T19:28:57+00:00",
+    "date_unverified": false,
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/MSDBEMI_EC006.jpg",
+    "collection_timestamp": "2026-11-21T22:00:40.041368+00:00",
+    "thin": false,
+    "author": "Mya Copeland",
+    "tags": [
+      "News",
+      "Ron Howard",
+      "Russell Crowe"
+    ]
+  },
+  {
     "id": "d6b2cfeab5e8702fec3a422589290e6156c6233aa9a74a9b5e951801df353687",
     "title": "Russell Crowe’s Request to Shoot ‘A Beautiful Mind’ in Sequence Added $1 Million to the Budget, Says Ron Howard: ‘It Was the Right Kind of Investment’",
     "summary": "“A Beautiful Mind” director Ron Howard recently called Russell Crowe’s suggestion to shoot the film in order, which cost the studio an additional $1 million, was “the right kind of investment.” The 2001 film follows mathematician John Forbes Nash Jr. (Crowe) through his academic career as he struggles with schizophrenia. Although many films shoot out [&#8230;]",
@@ -16,6 +35,27 @@
       "News",
       "Ron Howard",
       "Russell Crowe"
+    ]
+  },
+  {
+    "id": "7b6fef6e289fa96e6d5e91767e7be3a76c8acfc9269d142b9bd4f2d5b0a9a3e6",
+    "title": "Amazon is complaining about NYC Council on shipping labels, too",
+    "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-party arrangements Amazon currently [&#8230;]",
+    "category": "business",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+    "published_at": "2026-11-21T16:59:31-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/PXL_20261121_204528314.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-21T22:00:40.044321+00:00",
+    "thin": false,
+    "author": "Terrence O’Brien",
+    "tags": [
+      "Amazon",
+      "News",
+      "Policy",
+      "Politics",
+      "Tech"
     ]
   },
   {
@@ -849,7 +889,7 @@
     "source": "CNBC",
     "url": "https://www.cnbc.com/2026/11/20/uk-india-trade-scotch-whisky-tariffs.html",
     "published_at": "2026-11-20T05:09:52+00:00",
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108556178-1795145050609-gettyimages-2239559338-AVaishnav_Posters_welcoming_United_Kingdom_Prime_Minister_Keir_Starmer_in_Mumbai_10.jpeg?v=1795159408&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T12:29:55.755389+00:00",
     "thin": false
   },
@@ -921,7 +961,7 @@
     "source": "CNBC",
     "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
     "published_at": "2026-11-20T00:00:38+00:00",
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108556064-1795129228949-gettyimages-2305334314-ANTHROPIC_IPO.jpeg?v=1795129353&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T03:52:04.299480+00:00",
     "thin": false
   },
@@ -2846,42 +2886,6 @@
     "published_at": "2026-11-16T13:42:43+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-17T00:57:08.444593+00:00",
-    "thin": false
-  },
-  {
-    "id": "f5244a70105f44e11503fb0b6e42d5e21dbf29976fef5630e3b4916afe7708d0",
-    "title": "Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting",
-    "summary": "Commerce Secretary Howard Lutnick has drawn fire for his close relationship with Nvidia CEO Jensen Huang and the department's treatment of the company.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/16/cantwell-lutnick-ai-chip-china.html",
-    "published_at": "2026-11-16T12:13:47+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T17:16:56.679594+00:00",
-    "thin": false
-  },
-  {
-    "id": "348c2f252b627b96a56f41358267fbae01915bbec20fc4f05f826c1009097eec",
-    "title": "Big-ticket holiday items may be harder to find as shipping costs rise",
-    "summary": "Transportation executives said they're seeing retailers be cautious on their holiday inventory strategy.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/16/holiday-big-ticket-inventory-shipping-costs.html",
-    "published_at": "2026-11-16T12:00:01+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T17:16:56.681124+00:00",
-    "thin": false
-  },
-  {
-    "id": "8bc08d2a2acf0b1de425dbd26485863780e9b7fd45c1241c34ddec09ee6d0e18",
-    "title": "NATO member Estonia to close Russia border after attempted 'sabotage' of drone maker",
-    "summary": "Estonia says closing the crossings would help curb hostile activity and sanctions circumvention.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/16/nato-estonia-russia-border-ukraine-war.html",
-    "published_at": "2026-11-16T10:44:02+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T17:16:56.681429+00:00",
     "thin": false
   },
   {
