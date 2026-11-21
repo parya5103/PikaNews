@@ -1,5 +1,79 @@
 [
   {
+    "id": "c24157e73b9847fcba21bdb18fd6950c4741d80d3b394349e1e41c4dc6c9987a",
+    "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+    "summary": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+    "published_at": "2026-11-20T22:59:33+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108553456-1794947798558-gettyimages-2304901358-P1276597.jpeg?v=1795215085&w=1920&h=1080",
+    "collection_timestamp": "2026-11-21T01:57:58.224298+00:00",
+    "thin": false
+  },
+  {
+    "id": "990706f6b16cc8b483d03bd1505b9a6f9855199ef27cd4c40128ad2d2eb01e63",
+    "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
+    "summary": "Trump said he discussed Jensen Huang with China's Xi. Bessent said the ousted Nvidia CEO didn't come up in talks he had while in China.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+    "published_at": "2026-11-20T22:08:41+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108550979-1794576417589-bessent3.jpg?v=1795125703&w=1920&h=1080",
+    "collection_timestamp": "2026-11-21T01:57:58.224885+00:00",
+    "thin": false
+  },
+  {
+    "id": "3daeb2bdf7a4765cf71c80475927296f7bc38643726399d0b74563d348dffb81",
+    "title": "The Best Fubo Deals, Including Free ESPN Unlimited, Hulu, FOX One, and Disney+",
+    "summary": "Here are the best deals and perks from Fubo, including free access to apps and discounts on your subscription",
+    "category": "business",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/product-recommendations/lifestyle/best-fubo-tv-deal-offer-free-trial-prices-1234951745",
+    "published_at": "2026-11-20T21:47:00+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/03/fubo-deals.jpg?w=1600&h=900&crop=1",
+    "collection_timestamp": "2026-11-21T01:57:58.195393+00:00",
+    "thin": false,
+    "author": "John Lonsdale",
+    "tags": [
+      "Lifestyle",
+      "RS Recommends",
+      "Fubo",
+      "noads",
+      "streaming",
+      "Streaming TV/Movies"
+    ]
+  },
+  {
+    "id": "9aa4186b15705472842ebdb7bfc72a18be5930ec2c39069ba3f796a3cb3d2adf",
+    "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
+    "summary": "Cybersecurity companies have been hunting for acquisitions in the AI era.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
+    "published_at": "2026-11-20T21:35:24+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108556888-1795209058076-gettyimages-2202994362-img_2497.jpeg?v=1795209111&w=1920&h=1080",
+    "collection_timestamp": "2026-11-21T01:57:58.224463+00:00",
+    "thin": false
+  },
+  {
+    "id": "d10c1f8a0bbf62878bc06f161863b43976030c9ede64c6dcd56c278ea6f2af72",
+    "title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
+    "summary": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
+    "published_at": "2026-11-20T21:04:48+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-21T01:57:58.225059+00:00",
+    "thin": false
+  },
+  {
     "id": "e13eb6814fde5de4c90f9c8e12f6e6001ad166149d22c6acbb3b48f539de2b08",
     "title": "Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright spot",
     "summary": "Every weekday, the Investing Club releases the Homestretch, an actionable afternoon update just in time for the last hour of trading.",
@@ -244,6 +318,19 @@
     "date_unverified": false,
     "image_url": null,
     "collection_timestamp": "2026-11-20T19:50:58.408195+00:00",
+    "thin": false
+  },
+  {
+    "id": "29a9d982dfde98b971416df3f78fc1ca69c89e4c968174c6f25d7fbfa38697f8",
+    "title": "As Anthropic shares tank, investors scramble to hedge. It could be very expensive",
+    "summary": "Anthropic options list Monday. They will likely be expensive",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/as-anthropic-shares-tank-investors-scramble-to-hedge-it-could-be-very-expensive.html",
+    "published_at": "2026-11-20T15:12:40+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-21T01:57:58.224649+00:00",
     "thin": false
   },
   {
@@ -2694,30 +2781,6 @@
     "published_at": "2026-11-15T12:00:01+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-15T14:34:27.156308+00:00",
-    "thin": false
-  },
-  {
-    "id": "df93f75c300b528f21431c3ccf195f7313e9aee2fc6f684a0ca574f5a6a55a24",
-    "title": "Megaspeed says Alice Huang left in 2025 as it launches internal probe into reports about its business",
-    "summary": "The Singapore-based cloud computing company has faced heightened scrutiny since reports linked Nvidia's Jensen Huang to former Megaspeed executive Alice Huang.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/15/megaspeed-alice-huang-probe-nvidia-scandal.html",
-    "published_at": "2026-11-15T08:34:46+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-15T14:34:27.156190+00:00",
-    "thin": false
-  },
-  {
-    "id": "5ab0cbcf1c8b2c09777351c6e1500ef961b94fb6fe04f16ad7b24b2947565582",
-    "title": "Could Budapest be the next digital nomad hotspot?",
-    "summary": "With its mix of sights, cafés and culture, Hungary's capital Budapest has become popular with those embracing the \"work from anywhere\" trend.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
-    "published_at": "2026-11-15T06:00:01+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-15T06:57:00.568405+00:00",
     "thin": false
   }
 ]
