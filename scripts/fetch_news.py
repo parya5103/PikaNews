@@ -192,12 +192,13 @@ CATEGORY_KEYWORDS = {
 RSS_FEEDS = {
     "bollywood": [
         {
-            "url": "https://www.pinkvilla.com/feed",
+            "url": "https://www.pinkvilla.com/rss.xml",
             "name": "Pinkvilla",
             "category": "bollywood",
             "language": "en",
-            "enabled": True,
-            "priority": 1
+            "enabled": False,
+            "priority": 1,
+            "reuse_policy": "Paused pending written commercial-use permission; publisher terms limit website content to personal use and prohibit copying or distribution without prior consent."
         },
         {
             "url": "https://www.filmfare.com/rss/news.xml",
@@ -336,8 +337,9 @@ RSS_FEEDS = {
             "name": "ESPN",
             "category": "sports",
             "language": "en",
-            "enabled": True,
-            "priority": 1
+            "enabled": False,
+            "priority": 1,
+            "reuse_policy": "Paused pending written commercial-use permission; ESPN RSS terms prohibit advertising on ESPN RSS content and its site terms restrict commercial reuse without prior permission."
         },
         {
             "url": "https://feeds.bbci.co.uk/sport/rss.xml",
