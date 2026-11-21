@@ -142,7 +142,7 @@ def test_category_pages_receive_eligible_stories_beyond_static_article_cap(tmp_p
         lambda items, slugs: captured.setdefault("articles", list(items)) and 0,
     )
 
-    assert generator.generate_article_pages() == 1
+    assert generator.generate_article_pages() == 2
     assert [article["category"] for article in captured["articles"]] == ["technology", "world"]
 
 

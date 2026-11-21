@@ -101,7 +101,7 @@ def test_sitemap_generator():
                 assert "<?xml version=" in content
                 assert "<urlset" in content
                 assert "</urlset>" in content
-                assert "<loc>https://gogocompany.in/pikanews/</loc>" not in content, "homepage needs four reviewed original stories"
+                assert "<loc>https://gogocompany.in/pikanews/</loc>" in content, "homepage must remain discoverable before editorial volume is sufficient"
                 assert "https://gogocompany.in/pikanews/index.html" not in content
                 assert "latest.html" not in content, "feed listings need sufficient reviewed original editorial"
                 assert "trending.html" not in content
@@ -561,3 +561,32 @@ def test_sitemap_indexes_listing_pages_only_after_editorial_threshold():
             article_pages_module.REMOVED_ARTICLES_FILE = original_removed
             sitemap_module.NEWS_JSON_DIR = original_news
             sitemap_module.SITEMAP_PATH = original_sitemap
+
+
+def test_sitemap_always_includes_homepage_without_indexing_aggregated_stories():
+    from scripts.generate_sitemap import generate_sitemap
+    import scripts.generate_article_pages as article_pages_module
+    import scripts.generate_sitemap as sitemap_module
+
+    with tempfile.TemporaryDirectory() as tmpdir:
+        data_dir = os.path.join(tmpdir, "news_json")
+        os.makedirs(data_dir)
+        with open(os.path.join(data_dir, "all_articles.json"), "w", encoding="utf-8") as handle:
+            json.dump([_article("rss-only-0001", LONG_TITLE_1)], handle)
+
+        old_removed = article_pages_module.REMOVED_ARTICLES_FILE
+        old_data = sitemap_module.NEWS_JSON_DIR
+        old_path = sitemap_module.SITEMAP_PATH
+        article_pages_module.REMOVED_ARTICLES_FILE = os.path.join(tmpdir, "removed.json")
+        sitemap_module.NEWS_JSON_DIR = data_dir
+        sitemap_module.SITEMAP_PATH = os.path.join(tmpdir, "sitemap.xml")
+        try:
+            xml = generate_sitemap()
+            assert "<loc>https://gogocompany.in/pikanews/</loc>" in xml
+            assert "latest.html" not in xml
+            assert "trending.html" not in xml
+            assert "rss-only-0001" not in xml
+        finally:
+            article_pages_module.REMOVED_ARTICLES_FILE = old_removed
+            sitemap_module.NEWS_JSON_DIR = old_data
+            sitemap_module.SITEMAP_PATH = old_path

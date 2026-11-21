@@ -38,7 +38,8 @@ NEWS_JSON_DIR = os.path.join(REPO_ROOT, "news_json")
 REMOVED_ARTICLES_FILE = os.path.join(REPO_ROOT, "data", "removed_articles.json")
 LOGO_URL = urljoin(BASE_URL, "images/pikanews-logo.svg")
 
-MAX_ARTICLES = 300          # keep the generated set small and fresh
+MAX_ARTICLES = 300          # base static article-page cap
+MAX_CATEGORY_STATIC_ARTICLES = 8  # keep every pre-rendered category card crawlable
 MAX_RELATED = 4
 MIN_TITLE_LEN = 20
 MIN_SUMMARY_LEN = 40
@@ -128,10 +129,10 @@ def set_robots_meta(html, should_index):
 
 
 def update_root_listing_robots(articles, frontend_dir=None):
-    """Keep homepage and Trending feed out of search until editorial volume is adequate."""
+    """Keep the Trending feed gated; the main discovery homepage is always indexable."""
     frontend_dir = frontend_dir or FRONTEND_DIR
     should_index = is_indexable_listing(articles, MIN_INDEXABLE_LISTING_STORIES)
-    for filename in ("index.html", "trending.html"):
+    for filename in ("trending.html",):
         path = os.path.join(frontend_dir, filename)
         if not os.path.isfile(path):
             continue
@@ -655,16 +656,29 @@ def generate_article_pages():
             continue
         eligible.append(a)
 
-    # all_articles.json is newest-first; keep that order and cap the set.
-    # Keep the complete eligible feed for category listings. The static
-    # article-page cap is a separate performance safeguard; applying it
-    # globally here can hide less frequent topics (for example World news)
-    # simply because other categories published more recent stories.
+    # all_articles.json is newest-first. Keep a bounded base set, then add
+    # the newest cards shown on each pre-rendered category page. This ensures
+    # every crawlable category-card link resolves to a unique static HTML page
+    # instead of the JavaScript-only article.html?id= fallback.
     category_eligible = eligible
-    article_eligible = category_eligible[:MAX_ARTICLES]
-    generated_slugs = {
-        article_slug(a.get("title"), a.get("id")) for a in article_eligible
+    required_slugs = {
+        article_slug(a.get("title"), a.get("id"))
+        for a in category_eligible[:MAX_ARTICLES]
     }
+    for allowed_categories in CATEGORY_PAGE_FILTERS.values():
+        selected = category_eligible if allowed_categories is None else [
+            a for a in category_eligible
+            if (a.get("category") or "").lower() in allowed_categories
+        ]
+        required_slugs.update(
+            article_slug(a.get("title"), a.get("id"))
+            for a in selected[:MAX_CATEGORY_STATIC_ARTICLES]
+        )
+    article_eligible = [
+        a for a in category_eligible
+        if article_slug(a.get("title"), a.get("id")) in required_slugs
+    ]
+    generated_slugs = required_slugs
 
     os.makedirs(NEWS_DIR, exist_ok=True)
 

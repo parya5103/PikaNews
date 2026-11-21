@@ -91,10 +91,14 @@ def generate_sitemap():
     # Feed and category pages are indexable only when they contain enough
     # reviewed, substantial PikaNews-authored editorial. Aggregated RSS volume
     # never satisfies this gate.
-    listing_pages = []
+    # The homepage is a useful, branded discovery hub even before the
+    # newsroom has enough reviewed original stories to index article pages.
+    # Keep it indexable and discoverable; gate editorial feeds separately.
+    listing_pages = [
+        {"url": "", "priority": 1.0, "changefreq": "daily"},
+    ]
     if is_indexable_listing(articles, MIN_INDEXABLE_LISTING_STORIES):
         listing_pages.extend([
-            {"url": "", "priority": 1.0, "changefreq": "daily"},
             {"url": "latest.html", "priority": 0.9, "changefreq": "hourly"},
             {"url": "trending.html", "priority": 0.9, "changefreq": "hourly"},
         ])
