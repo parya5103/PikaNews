@@ -379,17 +379,6 @@ RSS_FEEDS = {
             "reuse_policy": "The official UN Geneva RSS page permits displaying its feeds on another website; show only a short attributed excerpt and link to the original."
         },
         {
-            "url": "https://press.un.org/en/rss.xml",
-            "name": "UN Meetings Coverage and Press Releases",
-            "category": "world",
-            "language": "en",
-            "region": "global",
-            "enabled": True,
-            "priority": 1,
-            "image_policy": "none",
-            "reuse_policy": "The official UN General Assembly RSS page permits displaying UN feeds on another website; show only a short attributed excerpt and link to the original publisher."
-        },
-        {
             "url": "https://ec.europa.eu/eurostat/en/search?p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_state=maximized&p_p_mode=view&p_p_resource_id=atom&_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL",
             "name": "Eurostat Press Releases",
             "category": "world",
