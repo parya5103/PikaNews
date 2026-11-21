@@ -179,6 +179,22 @@
         </div>
     </div>
 
+    <!-- Guest topic preferences: stored locally, no sign-in required -->
+    <div id="preferences-modal" class="modal preferences-modal">
+        <div id="preferences-overlay" class="modal-overlay"></div>
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>Customize your feed</h2>
+                <button type="button" id="preferences-close" class="modal-close" aria-label="Close preferences">&times;</button>
+            </div>
+            <p class="preferences-note">Choose the topics you want to see. Your preferences are saved only on this device; no account is required.</p>
+            <form id="preferences-form">
+                <div id="preferences-options" class="preferences-options"></div>
+                <button type="submit" class="search-submit">Save preferences</button>
+            </form>
+        </div>
+    </div>
+
     <!-- Main Content -->
     <main class="main-content">
         <!-- Category navigation: directly after the masthead + ticker,
@@ -226,6 +242,14 @@
                     <a href="sports.html" class="category-card">
                         <span class="category-icon" aria-hidden="true">🏆</span>
                         <span class="category-name">Sports</span>
+                    </a>
+                    <a href="world.html" class="category-card">
+                        <span class="category-icon" aria-hidden="true">🌍</span>
+                        <span class="category-name">World</span>
+                    </a>
+                    <a href="science.html" class="category-card">
+                        <span class="category-icon" aria-hidden="true">🔬</span>
+                        <span class="category-name">Science</span>
                     </a>
                 </div>
             </div>
@@ -291,6 +315,17 @@
         <div class="home-layout">
             <div class="home-main">
                 <!-- Top Stories: the newest card renders as the lead story -->
+                <section class="news-section for-you-section" aria-labelledby="for-you-title">
+                    <div class="section-header">
+                        <h2 class="section-title" id="for-you-title">For You</h2>
+                        <button type="button" id="preferences-toggle" class="see-all-link">Customize topics</button>
+                    </div>
+                    <p class="preferences-note">A guest-first feed based on topics you choose. Your selections stay on this device.</p>
+                    <div id="for-you-news" class="news-grid">
+                        <div class="loading-placeholder"><p>Preparing your personal feed...</p></div>
+                    </div>
+                </section>
+
                 <section class="featured-section news-section">
                     <div class="section-header">
                         <h2 class="section-title">Top Stories</h2>
@@ -497,6 +532,7 @@
     <script src="js/data.js"></script>
     <script src="js/utils.js"></script>
     <script src="js/app.js"></script>
+    <script src="js/preferences.js"></script>
     <script src="js/newsroom.js"></script>
     <script src="js/ads.js"></script>
     <script src="js/gogo-notifications.js"></script>
