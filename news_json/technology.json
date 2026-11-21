@@ -1,5 +1,27 @@
 [
   {
+    "id": "848b92e33420b0243c807608820173fd2caa4325d0c437656db78cd9db29dcaa",
+    "title": "How This Year’s Movies From ‘Artificial’ to ‘I Play Rocky’ Turn Political Anxiety Into Compelling Stories",
+    "summary": "For years, Simon Rich wanted to sound the alarm about AI. Rich’s childhood friend Dan Selsam worked as a researcher at OpenAI; Selsam showed Rich, a writer known for humorous essays and for the film “An American Pickle,” an early version of the software, and the two friends discussed its ramifications. “It seemed to have [&#8230;]",
+    "category": "technology",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/focus/political-anxietyartificial-ink-weight-rocky-1236953703",
+    "published_at": "2026-11-21T17:05:00+00:00",
+    "date_unverified": false,
+    "image_url": "https://variety.com/wp-content/uploads/2026/10/Artificial-1000.jpg",
+    "collection_timestamp": "2026-11-21T19:44:15.191202+00:00",
+    "thin": false,
+    "author": "Carolehorst",
+    "tags": [
+      "Focus",
+      "Artificial",
+      "Being Heumann",
+      "I Play Rocky",
+      "Ink",
+      "The Weight"
+    ]
+  },
+  {
     "id": "f05d61b62f856fba4f22a7d4cc2f926090ad56be713fde88c0564e8613c5baf6",
     "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
     "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
@@ -50,6 +72,25 @@
       "controversy",
       "Jensen Huang",
       "NVIDIA"
+    ]
+  },
+  {
+    "id": "00d2a30c39127126821d3d565e7df23a93669567441831f10936ee26f24111ab",
+    "title": "The FBI and USDA were reportedly hacked",
+    "summary": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crime Information Center (NCIC), which federal, state, and local law [&#8230;]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+    "published_at": "2026-11-21T12:42:27-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318430/akrales_220309_4977_0038.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-21T19:44:15.194039+00:00",
+    "thin": false,
+    "author": "Terrence O’Brien",
+    "tags": [
+      "News",
+      "Security",
+      "Tech"
     ]
   },
   {
@@ -440,7 +481,7 @@
     "source": "CNBC",
     "url": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html",
     "published_at": "2026-11-20T06:00:01+00:00",
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108554003-1795002776289-gettyimages-2214834060-ma117501.jpeg?v=1795002796&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T12:29:55.755669+00:00",
     "thin": false
   },
@@ -2463,109 +2504,6 @@
       "Entertainment",
       "Film",
       "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "4cec312a62a3f198571b2b1810dfd48b718184f72ca7ecbc35f215b5a4d836df",
-    "title": "Apple TV is getting video podcasts you can watch for free",
-    "summary": "Apple's streaming service will soon have a video podcasts section, the New York Times reports. It will start testing the feature in a developer release today, so expect a new update for iOS 27.3 beta testers to roll out in a few hours. Once it rolls out fully, the new video podcasts section will be [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1034168/apple-tv-video-podcasts",
-    "published_at": "2026-11-16T09:45:56-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T17:16:56.660715+00:00",
-    "thin": false,
-    "author": "Stevie Bonifield",
-    "tags": [
-      "Apple",
-      "Entertainment",
-      "News",
-      "Podcasts",
-      "Streaming",
-      "Tech"
-    ]
-  },
-  {
-    "id": "88f2b4f5ce4b72ee817ca3d4e1949488af065b38e743f7b75ed01026dadb12fb",
-    "title": "America’s air traffic control system couldn’t handle a single bad router",
-    "summary": "Thirty minutes outside Atlanta, the pilot got on the intercom to announce that something was wrong. A communications issue with the Federal Aviation Administration was cascading across the country. The pilot didn't offer much detail except to say that the issue might affect gate access and connecting flights. For Amanda Khera, the timing couldn't be [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/transportation/1034039/faa-aviation-glitch-meltdown-ground-stop",
-    "published_at": "2026-11-16T09:43:48-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T17:16:56.660953+00:00",
-    "thin": false,
-    "author": "Darryl Campbell",
-    "tags": [
-      "Aviation",
-      "Policy",
-      "Tech",
-      "Transportation"
-    ]
-  },
-  {
-    "id": "b40dd13b4229371dbe730f4c45d10b82759a528a29198290a51ac62eadf3ccf0",
-    "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
-    "summary": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery feature combines audiobook samples, AI overviews, and author commentary to give users more information before choosing their next story, in addition to recommended audiobook [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
-    "published_at": "2026-11-16T09:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T17:16:56.661212+00:00",
-    "thin": false,
-    "author": "Jess Weatherbed",
-    "tags": [
-      "AI",
-      "Amazon",
-      "Audio",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "6e6fc1b013f3b3adfe4c1f1882ce03013f2a39e420b06289a6836628de95ec56",
-    "title": "Google Maps can now create trip itineraries for you",
-    "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spanning several days. As [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
-    "published_at": "2026-11-16T09:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T17:16:56.661436+00:00",
-    "thin": false,
-    "author": "Emma Roth",
-    "tags": [
-      "AI",
-      "Apps",
-      "Google",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "e953f5eaef4db4f93c8e61fc25ff94a6885cc8d4c5101a831b1aa4593bbca644",
-    "title": "The Nvidia scandal isn’t slowing down",
-    "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon which advanced AI technology in the US is being built.\" Ever-increasing demand has consistently outpaced supply, leading AI CEOs to essentially bow at [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
-    "published_at": "2026-11-16T08:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T17:16:56.661669+00:00",
-    "thin": false,
-    "author": "Hayden Field",
-    "tags": [
-      "AI",
-      "Analysis",
-      "Chips",
-      "Gadgets",
-      "Nvidia",
-      "Policy",
-      "Report",
       "Tech"
     ]
   },

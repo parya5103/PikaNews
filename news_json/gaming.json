@@ -1,5 +1,23 @@
 [
   {
+    "id": "c4eba77219ca6c0d87dfdecfcddda330d07b03217e967f69687b987206c9abe9",
+    "title": "It’s Official, GTA 6’s Graphics Have Broken My Brain",
+    "summary": "Grand Theft Auto's 6 realistic visuals and world are changing how I play in the crime sandbox.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/gta-6-graphics-realism",
+    "published_at": "2026-11-21T19:00:17+00:00",
+    "date_unverified": false,
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grand-theft-auto-6-jason-with-gun.jpg",
+    "collection_timestamp": "2026-11-21T19:44:15.206404+00:00",
+    "thin": false,
+    "author": "Giovanni Colantonio",
+    "tags": [
+      "Opinion",
+      "Grand Theft Auto 6"
+    ]
+  },
+  {
     "id": "985c9b014ffe90884954988ead6a95fa53a544623eab72ea028c6d00c5222274",
     "title": "How to use auto drive in GTA 6",
     "summary": "GTA 6's auto drive feature lets you enjoy the sights and sounds of Vice City without driving manually. Here's how to use auto drive in GTA 6.",
@@ -4425,23 +4443,6 @@
     "author": "Darryn Bonthuys",
     "tags": [
       "Gaming,News"
-    ]
-  },
-  {
-    "id": "b655c544bcaa69accc0959a86bf485b5768a795af86742d307d788db290d581a",
-    "title": "5 Funniest 'Peanuts' Comics About Dogs",
-    "summary": "These five comic strips starry Peanuts star Snoopy are all about the life of a dog",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/5-funniest-peanuts-comics-about-dogs",
-    "published_at": "2026-11-16T05:00:17+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/snoopy-snoopys-reunion.jpg",
-    "collection_timestamp": "2026-11-16T07:02:25.960929+00:00",
-    "thin": false,
-    "author": "Brian VanHooker",
-    "tags": [
-      "Polygon Lists",
-      "comic strip"
     ]
   }
 ]

@@ -1,5 +1,37 @@
 [
   {
+    "id": "d6b2cfeab5e8702fec3a422589290e6156c6233aa9a74a9b5e951801df353687",
+    "title": "Russell Crowe’s Request to Shoot ‘A Beautiful Mind’ in Sequence Added $1 Million to the Budget, Says Ron Howard: ‘It Was the Right Kind of Investment’",
+    "summary": "“A Beautiful Mind” director Ron Howard recently called Russell Crowe’s suggestion to shoot the film in order, which cost the studio an additional $1 million, was “the right kind of investment.” The 2001 film follows mathematician John Forbes Nash Jr. (Crowe) through his academic career as he struggles with schizophrenia. Although many films shoot out [&#8230;]",
+    "category": "business",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/news/russell-crowe-a-beautiful-mind-sequence-ron-howard-1236955038",
+    "published_at": "2026-11-21T19:28:57+00:00",
+    "date_unverified": false,
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/MSDBEMI_EC006.jpg",
+    "collection_timestamp": "2026-11-21T19:44:15.190088+00:00",
+    "thin": false,
+    "author": "Mya Copeland",
+    "tags": [
+      "News",
+      "Ron Howard",
+      "Russell Crowe"
+    ]
+  },
+  {
+    "id": "5cc90a102273b548f1e49a84fb337ab7d16b188ea4956f40d210ee18d395a96b",
+    "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
+    "summary": "This would make the second recent intrusion into the FBI system.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
+    "published_at": "2026-11-21T16:57:34+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108556666-17951972432026-11-20t175115z_1355872127_rc2troappj32_rtrmadp_0_usa-trump.jpeg?v=1795197271&w=1920&h=1080",
+    "collection_timestamp": "2026-11-21T19:44:15.206693+00:00",
+    "thin": false
+  },
+  {
     "id": "ceada92db1c10ca8b5123a3bbf4a5ecf3e90bc33042141076eb28f48df8d1346",
     "title": "I never wanted the American Dream and I felt like something was wrong with me—until I moved abroad",
     "summary": "\"I realized it was okay to want something different,\" says Cepee Tabibian, who moved to Spain in 2015 at age 35.",
@@ -2850,42 +2882,6 @@
     "published_at": "2026-11-16T10:44:02+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-16T17:16:56.681429+00:00",
-    "thin": false
-  },
-  {
-    "id": "a0dd5d41b4311b6e25f6c5fa2466614f523ae9a9d6c342d8adf229f86400dbe1",
-    "title": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion",
-    "summary": "Kristalina Georgieva says circular financing among AI companies has grown to just over $1 trillion, two-thirds of it debt, as investor enthusiasm cools",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html",
-    "published_at": "2026-11-16T09:14:46+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T17:16:56.680975+00:00",
-    "thin": false
-  },
-  {
-    "id": "ec1c6d9d7156920396ea6ffdb81fd78404f9022ba279a6d2ea7a6eb9d7a6b554",
-    "title": "AI is reshaping banking jobs – but its ability to drive profits remains unclear",
-    "summary": "Europe's banks are using AI to cut routine work, redeploy staff and hire more technical talent.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/16/how-ai-is-changing-banking-jobs-hiring-and-revenue.html",
-    "published_at": "2026-11-16T06:20:55+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T07:02:25.962255+00:00",
-    "thin": false
-  },
-  {
-    "id": "dcc501b3dc495adffc0236fd02970e43b2d0fb21fc6586588465c4af9c37d418",
-    "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
-    "summary": "The talks are expected to focus on issues including nuclear non-proliferation, the Middle East war, trade policies and, possibly, the Ukraine war.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
-    "published_at": "2026-11-16T04:34:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T07:02:25.962053+00:00",
     "thin": false
   },
   {
