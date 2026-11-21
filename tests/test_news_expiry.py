@@ -475,3 +475,54 @@ def test_missing_or_invalid_rss_date_is_not_replaced_with_collection_time():
         assert normalized["published_at"] is None
         assert normalized["date_unverified"] is True
         assert normalized["collection_timestamp"]
+
+
+def test_save_articles_sorts_missing_published_dates_safely():
+    import scripts.fetch_news as fetch_news
+
+    with tempfile.TemporaryDirectory() as tmpdir:
+        fetch_news, originals = _patched_fetch_news(tmpdir)
+        old_stats = fetch_news.stats
+        old_failed_sources = fetch_news.failed_sources
+        old_master_repair = fetch_news.master_feed_needs_repair
+        try:
+            fetch_news.stats = {"new_articles": 0}
+            fetch_news.failed_sources = []
+            fetch_news.master_feed_needs_repair = False
+            dated = _article("dated", NOW.isoformat())
+            undated = _article("undated", None)
+            fetch_news.save_articles([], [undated, dated], always_write=True)
+
+            all_ids = [a["id"] for a in _read_feed(fetch_news.NEWS_JSON_DIR, "all_articles.json")]
+            category_ids = [a["id"] for a in _read_feed(fetch_news.NEWS_JSON_DIR, "sports.json")]
+            assert all_ids == ["dated", "undated"]
+            assert category_ids == ["dated", "undated"]
+            assert _read_feed(fetch_news.NEWS_JSON_DIR, "latest.json")[1]["published_at"] is None
+        finally:
+            fetch_news.stats = old_stats
+            fetch_news.failed_sources = old_failed_sources
+            fetch_news.master_feed_needs_repair = old_master_repair
+            _restore_fetch_news(fetch_news, originals)
+
+
+def test_recovery_feed_sorts_missing_published_dates_safely():
+    import scripts.fetch_news as fetch_news
+
+    with tempfile.TemporaryDirectory() as tmpdir:
+        fetch_news, originals = _patched_fetch_news(tmpdir)
+        old_seen_hashes = fetch_news.seen_hashes
+        old_master_repair = fetch_news.master_feed_needs_repair
+        try:
+            fetch_news.seen_hashes = set()
+            fetch_news.master_feed_needs_repair = False
+            dated = _article("recovery-dated", NOW.isoformat())
+            undated = _article("recovery-undated", None)
+            _write_feed(fetch_news.NEWS_JSON_DIR, "sports.json", [undated, dated])
+
+            recovered = fetch_news.load_existing_articles()
+
+            assert [a["id"] for a in recovered] == ["recovery-dated", "recovery-undated"]
+        finally:
+            fetch_news.seen_hashes = old_seen_hashes
+            fetch_news.master_feed_needs_repair = old_master_repair
+            _restore_fetch_news(fetch_news, originals)
