@@ -1048,6 +1048,20 @@
     ]
   },
   {
+    "id": "a2a8aa9aaeebfde258fc36f00dbc22e96e582e0941723e1a8edb0f58816341cf",
+    "title": "Eight stadiums, seven countries: NFL field director has earned a break",
+    "summary": "Nick Pappas is the man charged with making sure international venues are up to standard to host NFL games.",
+    "category": "sports",
+    "source": "ESPN",
+    "url": "https://www.espn.com/nfl/story/_/id/50534594/mf-field-director-versus-international-games",
+    "published_at": "2026-11-21T10:06:33+00:00",
+    "date_unverified": false,
+    "image_url": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1119%2Fr1748249_1296x729_16%2D9.jpg",
+    "collection_timestamp": "2026-11-21T15:16:26.732545+00:00",
+    "thin": false,
+    "author": "Josh Weinfuss"
+  },
+  {
     "id": "ae6d3fc8707410021c41f4d31c33d7275b06ca3beb014c3f9300803f29027d02",
     "title": "George R.R. Martin’s 7 Best Non-Game of Thrones Books, Ranked",
     "summary": "From antebellum Mississippi vampires to cat-loving space traders, George R.R. Martin’s best work goes far beyond Westeros and Game of Thrones.",
@@ -1179,6 +1193,32 @@
       "BAFTAs",
       "Michael"
     ]
+  },
+  {
+    "id": "5d575ef12aeae798bdafabce20bebbe0188a10ad593f7d119f2803bd31c86ada",
+    "title": "Sources: Struggling Aggies expected to bench Reed, start Hart vs. Sooners",
+    "summary": "Texas A&M is expected to make a change at quarterback, going with sophomore Brady Hart over Marcel Reed against Oklahoma, sources confirmed to ESPN.",
+    "category": "sports",
+    "source": "ESPN",
+    "url": "https://www.espn.com/college-football/story/_/id/50549670/sources-texas-expected-bench-marcel-reed-vs-sooners",
+    "published_at": "2026-11-21T09:26:21+00:00",
+    "date_unverified": false,
+    "image_url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1010%2Fr1728770_1296x729_16%2D9.jpg",
+    "collection_timestamp": "2026-11-21T15:16:26.731526+00:00",
+    "thin": false
+  },
+  {
+    "id": "2d8aca377920fc8c00ce15179dfe715811531b6e807c94d90d7a9705a539a630",
+    "title": "Udoka says Rockets 'mentally fragile,' blasts defense after loss to Nuggets",
+    "summary": "Coach Ime Udoka was upset by the Rockets' lack of physicality and effort as they gave up a season high in points during a loss to the Nuggets, calling the defense \"as bad as I've seen it.\"",
+    "category": "sports",
+    "source": "ESPN",
+    "url": "https://www.espn.com/nba/story/_/id/50549254/ime-udoka-frustrated-rockets-defense-loss-nuggets",
+    "published_at": "2026-11-21T09:26:21+00:00",
+    "date_unverified": false,
+    "image_url": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0430%2Fr1486037_1296x729_16%2D9.jpg",
+    "collection_timestamp": "2026-11-21T15:16:26.731989+00:00",
+    "thin": false
   },
   {
     "id": "fbc812f5c798c716b59fbacbd3d148f81cd51e12212c1fa3eb05f2505dedd876",
@@ -6345,7 +6385,7 @@
     "url": "https://www.espn.com/fantasy/basketball/story/_/id/50533958/fantasy-basketball-players-trade-waivers-pickups",
     "published_at": "2026-11-20T14:51:22+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1119%2Fr1748251_1296x729_16%2D9.jpg",
     "collection_timestamp": "2026-11-21T11:55:22.222018+00:00",
     "thin": false,
     "author": "Eric Moody"
@@ -6359,7 +6399,7 @@
     "url": "https://www.espn.com/fantasy/basketball/story/_/id/49960162/fantasy-basketball-points-league-rankings-2026-27-nba-season",
     "published_at": "2026-11-20T14:51:22+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1120%2Fr1748435_1296x729_16%2D9.jpg",
     "collection_timestamp": "2026-11-21T11:55:22.222260+00:00",
     "thin": false,
     "author": "Andre Snellings"
@@ -6386,7 +6426,7 @@
     "url": "https://www.espn.com/nfl/story/_/id/50541178/ravens-avoid-marlon-humphrey-controversy-distraction",
     "published_at": "2026-11-20T14:35:21+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1120%2Fr1748551_1296x729_16%2D9.jpg",
     "collection_timestamp": "2026-11-21T11:55:22.220729+00:00",
     "thin": false,
     "author": "Jamison Hensley"
@@ -6535,7 +6575,7 @@
     "url": "https://www.espn.com/espn/betting/story/_/id/50534274/week-11-nfl-odds-touchdown-props-best-bets-sunday-games",
     "published_at": "2026-11-20T14:06:56+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1120%2Fr1748568_1296x729_16%2D9.jpg",
     "collection_timestamp": "2026-11-21T11:55:22.220992+00:00",
     "thin": false,
     "author": "Ben Solak, Seth Walder, Matt Bowen and Mike Clay"
@@ -6549,7 +6589,7 @@
     "url": "https://www.espn.com/espn/betting/story/_/id/50538678/nba-betting-mvp-rookie-year-playoff-longshots-2026-2027",
     "published_at": "2026-11-20T14:06:56+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1120%2Fr1748454_1296x729_16%2D9.jpg",
     "collection_timestamp": "2026-11-21T11:55:22.221241+00:00",
     "thin": false,
     "author": "ESPN"
@@ -6656,7 +6696,7 @@
     "url": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
     "published_at": "2026-11-20T13:29:50+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108554923-1795068346389-gettyimages-2305268004-AFP_D7XJ9WY.jpeg?v=1795181331&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T19:50:58.406937+00:00",
     "thin": false
   },
@@ -6812,7 +6852,7 @@
     "url": "https://www.espn.com/nhl/story/_/id/50532384/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings-fantasy-hockey",
     "published_at": "2026-11-20T12:30:03+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1118%2FNHL_power_rankings_26_11_20_16x9.jpg",
     "collection_timestamp": "2026-11-21T11:55:22.218080+00:00",
     "thin": false,
     "author": "Sean Allen and Victoria Matiash"
@@ -6826,7 +6866,7 @@
     "url": "https://www.espn.com/nhl/story/_/id/50523931/nhl-2026-27-wysh-list-disappointments-players-stats-teams-ovechkin-sharks",
     "published_at": "2026-11-20T12:30:03+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1118%2Fr1747831_1296x729_16%2D9.jpg",
     "collection_timestamp": "2026-11-21T11:55:22.218345+00:00",
     "thin": false,
     "author": "Greg Wyshynski"
@@ -6963,7 +7003,7 @@
     "url": "https://www.cnbc.com/2026/11/20/a24-box-office-hbo-max.html",
     "published_at": "2026-11-20T12:00:02+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108549301-1794424778345-Screenshot_2026-11-11_at_21854_PM.png?v=1795128715&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T19:50:58.407267+00:00",
     "thin": false
   },
@@ -7290,7 +7330,7 @@
     "url": "https://www.espn.com/college-football/story/_/id/50522496/ohio-state-club-football",
     "published_at": "2026-11-20T11:21:57+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1118%2Fr1747491_1296x729_16%2D9.jpg",
     "collection_timestamp": "2026-11-21T11:55:22.217298+00:00",
     "thin": false,
     "author": "Eli Lederman"
@@ -7468,7 +7508,7 @@
     "url": "https://www.espn.com/soccer/story/_/id/50520734/mls-playoff-round-1-predictions-lionel-messi",
     "published_at": "2026-11-20T10:25:50+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1119%2Fr1748180_1296x729_16%2D9.jpg",
     "collection_timestamp": "2026-11-21T11:55:22.222536+00:00",
     "thin": false,
     "author": "Jeff Carlisle and Joseph Lowery"
@@ -7482,7 +7522,7 @@
     "url": "https://www.espn.com/soccer/story/_/id/50519892/manchester-united-pochettino-fernandes-rashford-transfers",
     "published_at": "2026-11-20T10:22:35+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1118%2Fr1747570_1296x729_16%2D9.jpg",
     "collection_timestamp": "2026-11-21T11:55:22.219423+00:00",
     "thin": false,
     "author": "Mark Ogden"
@@ -33424,56 +33464,6 @@
     ]
   },
   {
-    "id": "c375da767884c8ad9fde43e849793db8f21e56c63c71ac847016625b872291a2",
-    "title": "Realistic 1 bedroom apartment in New York City.",
-    "summary": "&#32; submitted by &#32; /u/sco-go &#32; to &#32; r/SipsTea [link] &#32; [comments]",
-    "category": "trending",
-    "source": "Reddit Popular",
-    "url": "https://www.reddit.com/r/SipsTea/comments/1xxc8zp/realistic_1_bedroom_apartment_in_new_york_city",
-    "published_at": "2026-11-16T01:11:01+00:00",
-    "image_url": "https://external-preview.redd.it/NGUwNXUyY2hrdjFpMetsUsh1BqfiEYFIe81Es0-EaQICo06NKPLLXThQI3rk.png",
-    "collection_timestamp": "2026-11-16T17:16:56.688050+00:00",
-    "thin": false,
-    "author": "/u/sco-gohttps://www.reddit.com/user/sco-go",
-    "tags": [
-      "SipsTea"
-    ]
-  },
-  {
-    "id": "e6fc87a2dc6ffc7fc7033475febeebb453335af52a4448de27605af65015b8bf",
-    "title": "Extremely Rare Pokémon Game Found 20 Years Later",
-    "summary": "PSA Video Games confirms that a collector has unearthed a playable copy of PokéPark Fishing Rally DS, a previously lost piece of Pokémon history.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/pokemon-pokepark-fishing-rally-ds-found",
-    "published_at": "2026-11-16T00:59:53+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/pokemon-winds-and-waves-screen-wailord.png",
-    "collection_timestamp": "2026-11-16T07:02:25.961668+00:00",
-    "thin": false,
-    "author": "Ashely Claudino",
-    "tags": [
-      "Gaming",
-      "Pokemon"
-    ]
-  },
-  {
-    "id": "b4c32535dbb6761d53aa3b391ee01451fc2c33b9b9e1a48531a99df376dde926",
-    "title": "The 7 Best Star Wars: Galactic Racer Replacements You Can Play Right Now",
-    "summary": "Star Wars: Galactic Racer has no exact replicas, but there are plenty of obvious influences. Here are the best games like Star War: Galactic Racer.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/best-games-like-star-wars-galactic-racer",
-    "published_at": "2026-11-16T00:58:15+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/star-wars-galactic-racer-story-trailer-screenshot.jpg",
-    "collection_timestamp": "2026-11-16T07:02:25.961776+00:00",
-    "thin": false,
-    "author": "Oli Welsh",
-    "tags": [
-      "Polygon Lists",
-      "Star Wars: Galactic Racer"
-    ]
-  },
-  {
     "id": "184b89e24ef0629386930d6849c3e7e382a49b20b18dbee8de81c35baf4670d9",
     "title": "Committee on Economic, Social and Cultural Rights Concludes Eightieth Session after Adopting Concluding Observations on Reports of Austria, Eswatini, Mexico and Pakistan",
     "summary": "The Committee on Economic, Social and Cultural Rights this afternoon concluded its eightieth&nbsp;session after adopting concluding observations on the reports of Austria, Eswatini, Mexico and Pakistan under the International Covenant on Economic, Social and Cultural Rights.During the meeting, the…",
@@ -33696,16 +33686,16 @@
     "author": "Eurostat http://ec.europa.eu/eurostat"
   },
   {
-    "id": "9b823ae5b407ce003ef82dc5be3011305e29344ae53fde920cd5500c94affc3e",
-    "title": "Euro area unemployment at 6.5%",
-    "summary": "In September 2026, the euro area seasonally adjusted unemployment rate was 6.5%, stable compared with August 2026 and up from 6.3% in September 2025. The EU unemployment rate was 6.2% in September 2026, also stable compared with August 2026 and up from 6.0% in September 2025. These figures are pu...",
+    "id": "e301c3d5025d293462f1249d9fd903e800c3892b3739b00a85d3a61015a7fde5",
+    "title": "GDP up by 0.4% in the euro area and by 0.5% in the EU",
+    "summary": "In the third quarter of 2026, seasonally adjusted GDP increased by 0.4% in the euro area and by 0.5% in the EU, compared with the previous quarter, according to a preliminary flash estimate published by Eurostat, the statistical office of the European Union. In the second quarter of 2026, GDP had...",
     "category": "world",
     "source": "Eurostat Press Releases",
-    "url": "https://ec.europa.eu/eurostat/product?code=3-30102026-bp",
+    "url": "https://ec.europa.eu/eurostat/product?code=2-30102026-ap",
     "published_at": "2026-10-30T10:00:00+00:00",
     "date_unverified": false,
     "image_url": null,
-    "collection_timestamp": "2026-11-21T15:13:04.450320+00:00",
+    "collection_timestamp": "2026-11-21T15:16:26.735236+00:00",
     "thin": false,
     "region": "europe",
     "image_policy": "none",

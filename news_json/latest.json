@@ -1048,6 +1048,20 @@
     ]
   },
   {
+    "id": "a2a8aa9aaeebfde258fc36f00dbc22e96e582e0941723e1a8edb0f58816341cf",
+    "title": "Eight stadiums, seven countries: NFL field director has earned a break",
+    "summary": "Nick Pappas is the man charged with making sure international venues are up to standard to host NFL games.",
+    "category": "sports",
+    "source": "ESPN",
+    "url": "https://www.espn.com/nfl/story/_/id/50534594/mf-field-director-versus-international-games",
+    "published_at": "2026-11-21T10:06:33+00:00",
+    "date_unverified": false,
+    "image_url": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1119%2Fr1748249_1296x729_16%2D9.jpg",
+    "collection_timestamp": "2026-11-21T15:16:26.732545+00:00",
+    "thin": false,
+    "author": "Josh Weinfuss"
+  },
+  {
     "id": "ae6d3fc8707410021c41f4d31c33d7275b06ca3beb014c3f9300803f29027d02",
     "title": "George R.R. Martin’s 7 Best Non-Game of Thrones Books, Ranked",
     "summary": "From antebellum Mississippi vampires to cat-loving space traders, George R.R. Martin’s best work goes far beyond Westeros and Game of Thrones.",
@@ -1179,6 +1193,32 @@
       "BAFTAs",
       "Michael"
     ]
+  },
+  {
+    "id": "5d575ef12aeae798bdafabce20bebbe0188a10ad593f7d119f2803bd31c86ada",
+    "title": "Sources: Struggling Aggies expected to bench Reed, start Hart vs. Sooners",
+    "summary": "Texas A&M is expected to make a change at quarterback, going with sophomore Brady Hart over Marcel Reed against Oklahoma, sources confirmed to ESPN.",
+    "category": "sports",
+    "source": "ESPN",
+    "url": "https://www.espn.com/college-football/story/_/id/50549670/sources-texas-expected-bench-marcel-reed-vs-sooners",
+    "published_at": "2026-11-21T09:26:21+00:00",
+    "date_unverified": false,
+    "image_url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1010%2Fr1728770_1296x729_16%2D9.jpg",
+    "collection_timestamp": "2026-11-21T15:16:26.731526+00:00",
+    "thin": false
+  },
+  {
+    "id": "2d8aca377920fc8c00ce15179dfe715811531b6e807c94d90d7a9705a539a630",
+    "title": "Udoka says Rockets 'mentally fragile,' blasts defense after loss to Nuggets",
+    "summary": "Coach Ime Udoka was upset by the Rockets' lack of physicality and effort as they gave up a season high in points during a loss to the Nuggets, calling the defense \"as bad as I've seen it.\"",
+    "category": "sports",
+    "source": "ESPN",
+    "url": "https://www.espn.com/nba/story/_/id/50549254/ime-udoka-frustrated-rockets-defense-loss-nuggets",
+    "published_at": "2026-11-21T09:26:21+00:00",
+    "date_unverified": false,
+    "image_url": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0430%2Fr1486037_1296x729_16%2D9.jpg",
+    "collection_timestamp": "2026-11-21T15:16:26.731989+00:00",
+    "thin": false
   },
   {
     "id": "fbc812f5c798c716b59fbacbd3d148f81cd51e12212c1fa3eb05f2505dedd876",
@@ -1706,55 +1746,5 @@
     "tags": [
       "APOD"
     ]
-  },
-  {
-    "id": "cd668cfd94574e4f9d88bb251a5566899fbdd33e9e5a17cf7f5e737a497696c3",
-    "title": "9 Calvin and Hobbes Comics from the 1990s that Prove Bill Watterson is a Genius",
-    "summary": "Calvin and Hobbes creator Bill Watterson is a genius. Here are nine comics which prove it.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/9-perfect-calvin-and-hobbes-1990s-comics",
-    "published_at": "2026-11-21T05:00:18+00:00",
-    "date_unverified": false,
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/calvin-and-hobbes-treasure-everywhere.jpg",
-    "collection_timestamp": "2026-11-21T09:26:51.964361+00:00",
-    "thin": false,
-    "author": "Brian VanHooker",
-    "tags": [
-      "Polygon Lists",
-      "comic strip"
-    ]
-  },
-  {
-    "id": "76ac635f43605c290b52a1c6b79d431901417397fe9e7f0b366bd64e55e38a1b",
-    "title": "Patrick Stewart Cause of Death Revealed",
-    "summary": "The revered actor, known for his roles in popular franchises like Star Trek and X-Men , died In October",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/patrick-stewart-cause-of-death-1235661525",
-    "published_at": "2026-11-21T04:52:50+00:00",
-    "date_unverified": false,
-    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/patrick-stewart-cause-of-death.jpg?w=1600&h=900&crop=1",
-    "collection_timestamp": "2026-11-21T09:26:51.940555+00:00",
-    "thin": false,
-    "author": "Charisma Madarang",
-    "tags": [
-      "TV & Movies",
-      "TV & Movies News",
-      "Patrick Stewart"
-    ]
-  },
-  {
-    "id": "762bce3371a9c42d3fae06295e96dfb2315219931b0ea2a482bb66693e3890aa",
-    "title": "Melo calls out Humphrey for Baltimore remark: Back your apology with action",
-    "summary": "Former NBA star Carmelo Anthony addressed Ravens CB Marlon Humphrey on Friday, challenging him to do more than apologize after he said Baltimore was \"best at making criminals.\"",
-    "category": "sports",
-    "source": "ESPN",
-    "url": "https://www.espn.com/nfl/story/_/id/50548223/carmelo-anthony-calls-ravens-humphrey-baltimore-remark",
-    "published_at": "2026-11-21T04:34:43+00:00",
-    "date_unverified": false,
-    "image_url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1013%2Fr1729943_1024x576_16%2D9.jpg",
-    "collection_timestamp": "2026-11-21T11:55:22.214422+00:00",
-    "thin": false
   }
 ]
