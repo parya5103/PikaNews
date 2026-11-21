@@ -67,14 +67,18 @@ def generate_sitemap():
         try:
             with open(all_articles_file, "r", encoding="utf-8") as f:
                 articles = json.load(f)
-
             removed = load_removed_hashes()
+            # Topic-hub eligibility must use the same live, non-thin,
+            # non-tombstoned story set that the page generator publishes.
+            articles = [
+                article for article in articles
+                if isinstance(article, dict)
+                and article.get("id")
+                and article.get("id") not in removed
+                and not is_thin(article)
+            ]
 
             for article in articles:
-                if not isinstance(article, dict) or not article.get("id"):
-                    continue
-                if article.get("id") in removed:
-                    continue
                 if not is_indexable_article(article):
                     continue
                 slug = article_slug(article.get("title"), article.get("id"))
