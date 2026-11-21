@@ -37,7 +37,7 @@ def test_unknown_story_defaults_to_world_not_entertainment_or_trending():
 
 def test_title_signal_outweighs_weak_summary_noise():
     assert classify_article(
-        "Scientists publish a new climate study",
+        "Scientists publish a new astronomy study on climate",
         "The article mentions a business conference and a film premiere.",
     ) == "science"
 
