@@ -60,6 +60,12 @@ def test_global_sources_are_enabled_and_do_not_reuse_remote_images():
     assert science["name"] == "NASA News Releases"
     assert science["enabled"] is True
     assert science["image_policy"] == "none"
+    noaa = RSS_FEEDS["science"][1]
+    assert noaa["name"] == "NOAA Climate.gov"
+    assert noaa["enabled"] is True
+    assert noaa["region"] == "global"
+    assert noaa["image_policy"] == "none"
+    assert "attribution" in noaa["reuse_policy"]
 
 
 def test_eurostat_world_feeds_are_enabled_and_region_tagged():
@@ -152,7 +158,7 @@ def test_world_and_science_category_pages_are_registered_and_noindex():
 
     root = Path(__file__).resolve().parents[1] / "frontend"
     assert CATEGORY_PAGE_FILTERS["world"] == {"world", "politics", "health", "climate"}
-    assert CATEGORY_PAGE_FILTERS["science"] == {"science"}
+    assert CATEGORY_PAGE_FILTERS["science"] == {"science", "climate"}
     for category in ("world", "science"):
         page = (root / f"{category}.html").read_text(encoding="utf-8")
         assert f'id="{category}-news"' in page

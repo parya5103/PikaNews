@@ -542,7 +542,7 @@ CATEGORY_PAGE_FILTERS = {
     "business": {"business"},
     "sports": {"sports"},
     "world": {"world", "politics", "health", "climate"},
-    "science": {"science"},
+    "science": {"science", "climate"},
     "latest": None,
 }
 
