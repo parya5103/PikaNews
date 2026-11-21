@@ -725,7 +725,7 @@ async function loadPageData() {
 async function loadCategoryCounts() {
     try {
         const counts = await DataManager.getCategoryCounts();
-        const categories = ['bollywood', 'hollywood', 'entertainment', 'technology', 'gaming', 'business', 'sports', 'trending'];
+        const categories = ['bollywood', 'hollywood', 'entertainment', 'technology', 'gaming', 'business', 'sports', 'trending', 'world', 'science'];
         
         categories.forEach(category => {
             const countEl = document.getElementById(`${category}-count`);
