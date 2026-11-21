@@ -59,6 +59,7 @@ def test_global_sources_are_enabled_and_do_not_reuse_remote_images():
     assert world["image_policy"] == "none"
     un_press = RSS_FEEDS["world"][1]
     assert un_press["name"] == "UN Meetings Coverage and Press Releases"
+    assert un_press["url"] == "https://press.un.org/en/rss.xml"
     assert un_press["enabled"] is True
     assert un_press["region"] == "global"
     assert un_press["image_policy"] == "none"

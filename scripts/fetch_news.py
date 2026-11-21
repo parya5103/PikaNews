@@ -192,7 +192,7 @@ CATEGORY_KEYWORDS = {
 RSS_FEEDS = {
     "bollywood": [
         {
-            "url": "https://www.pinkvilla.com/feed",
+            "url": "https://www.pinkvilla.com/rss.xml",
             "name": "Pinkvilla",
             "category": "bollywood",
             "language": "en",
@@ -379,7 +379,7 @@ RSS_FEEDS = {
             "reuse_policy": "The official UN Geneva RSS page permits displaying its feeds on another website; show only a short attributed excerpt and link to the original."
         },
         {
-            "url": "https://www.un.org/press/en/feed",
+            "url": "https://press.un.org/en/rss.xml",
             "name": "UN Meetings Coverage and Press Releases",
             "category": "world",
             "language": "en",
