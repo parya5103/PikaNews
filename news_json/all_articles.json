@@ -39,6 +39,28 @@
     "thin": false
   },
   {
+    "id": "7434db39559fab69c871eb28bbfb968ce9538311599bcac448422c517bf7fa48",
+    "title": "Oscar-Winning Doc ‘The Elephant Whisperers’ Co-Writer’s Dark Comedy ‘Nose Bone’ Follows a Punjabi Woman’s Race for an Abortion at WAVES Film Bazaar",
+    "summary": "Writer-director Garima Pura, a co-writer of the Oscar-winning documentary &#8220;The Elephant Whisperers,&#8221; is presenting &#8220;Nose Bone,&#8221; a dark comedy about a young woman from a Punjab border town scrambling to pay for an abortion, to the Co-Production Market at India&#8217;s WAVES Film Bazaar. On her 18th birthday, Tooti learns that she&#8217;s expecting and runs from [&#8230;]",
+    "category": "entertainment",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/markets-festivals/elephant-whisperer-co-writer-abortion-nose-bone-waves-film-bazaar-1236954922",
+    "published_at": "2026-11-21T12:14:08+00:00",
+    "date_unverified": false,
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Nose-Bone-poster.jpg",
+    "collection_timestamp": "2026-11-21T12:25:26.970711+00:00",
+    "thin": false,
+    "author": "Naman Ramachandran",
+    "tags": [
+      "Asia",
+      "Global",
+      "Markets & Festivals",
+      "News",
+      "International Film Festival Of India",
+      "WAVES Film Bazaar"
+    ]
+  },
+  {
     "id": "8f4305c869e1af891ddc63f17dc0066825d8dde39695593f1594632d011de711",
     "title": "Australia's Chaudhary downs England in tetchy first T20",
     "summary": "Unlikely Australia international Nikhil Chaudhary rattles England and secures a tense and tetchy final-over victory in the first T20.",
@@ -4780,7 +4802,7 @@
     "url": "https://www.hollywoodreporter.com/lists/hollywood-top-25-legal-troubleshooters",
     "published_at": "2026-11-20T17:30:00+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/21bob_troubleshooters_main-SPLASH-2026.jpg?w=1440&h=810&crop=1",
     "collection_timestamp": "2026-11-20T19:50:58.364697+00:00",
     "thin": false,
     "author": "Lexy Perez",
@@ -4799,7 +4821,7 @@
     "url": "https://www.rollingstone.com/music/music-news/dangelo-unreleased-song-kamakazi-grand-theft-auto-6-1235661667",
     "published_at": "2026-11-20T17:27:05+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/GettyImages-1304769008.jpg?w=1600&h=900&crop=1",
     "collection_timestamp": "2026-11-20T19:50:58.367500+00:00",
     "thin": false,
     "author": "Daniel Kreps",
@@ -4820,7 +4842,7 @@
     "url": "https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html",
     "published_at": "2026-11-20T17:25:19+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108556431-1795182074431-gettyimages-2224450056-HONG_KONG_CRYPTO.jpeg?v=1795182089&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T19:50:58.407799+00:00",
     "thin": false
   },
@@ -4833,7 +4855,7 @@
     "url": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
     "published_at": "2026-11-20T17:20:29+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108549208-1794421626428-gettyimages-2264975879-anotherday191760601_bcczxcng.jpeg?v=1795132423&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T19:50:58.405666+00:00",
     "thin": false
   },
@@ -5004,7 +5026,7 @@
     "url": "https://www.cnbc.com/2026/11/20/data-center-construction-costs-soar-13-percent-in-2026.html",
     "published_at": "2026-11-20T16:52:08+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108468983-1793107056007-gettyimages-2299246800-4075_48_th-0722-d.jpeg?v=1793107085&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T19:50:58.406443+00:00",
     "thin": false
   },
@@ -5030,7 +5052,7 @@
     "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/josephine-review-channing-tatum-1235653077",
     "published_at": "2026-11-20T16:45:00+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/JOSEPHINE_review-lead.jpg?w=1600&h=900&crop=1",
     "collection_timestamp": "2026-11-20T19:50:58.367702+00:00",
     "thin": false,
     "author": "David Fear",
@@ -33843,17 +33865,5 @@
       "Rock and Roll Hall of Fame",
       "U2"
     ]
-  },
-  {
-    "id": "29ce32bd200846cbcee063de692d539f4e07d79b9108fd0aa61c3863b0926e74",
-    "title": "Aberdeen appoint Liechtenstein's Frick as head coach",
-    "summary": "Former Liechtenstein striker Mario Frick is announced as the new head coach of Aberdeen.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cqrmgz9ypvwko",
-    "published_at": "2026-11-15T18:27:08+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d041/live/dc9e92f0-e127-11f1-9d32-63e01ae9cf36.jpg",
-    "collection_timestamp": "2026-11-15T20:08:30.062133+00:00",
-    "thin": false
   }
 ]
