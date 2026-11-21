@@ -365,7 +365,7 @@ RSS_FEEDS = {
             "enabled": False,
             "priority": 1
         },
-    ]
+    ],
     "world": [
         {
             "url": "https://www.ungeneva.org/news-media/press-items-list/rss.xml",
