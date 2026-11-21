@@ -90,8 +90,7 @@ def classify_article(
     title_text = _normalise(title)
     summary_text = _normalise(description)
     if not title_text.strip():
-        fallback = str(source_category or "world").strip().casefold()
-        return "world" if fallback in {"politics", "health", "climate"} else fallback
+        return str(source_category or "world").strip().casefold()
 
     scores = {}
     for category, phrases in TOPIC_RULES.items():
@@ -104,7 +103,7 @@ def classify_article(
             scores[category] = (score, title_hits, summary_hits)
 
     if scores:
-        selected = sorted(
+        return sorted(
             scores,
             key=lambda category: (
                 -scores[category][1],
@@ -112,8 +111,6 @@ def classify_article(
                 category,
             ),
         )[0]
-        # These are world-news subtopics, not standalone public feeds.
-        return "world" if selected in {"politics", "health", "climate"} else selected
 
     fallback = str(source_category or "").strip().casefold()
-    return "world" if fallback in {"politics", "health", "climate"} else (fallback or "world")
+    return fallback or "world"
