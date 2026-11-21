@@ -96,3 +96,9 @@ def test_topic_hub_requires_distinct_publisher_domains_not_just_source_labels():
         story["source"] = f"Publisher label {index}"
         story["url"] = f"https://same-publisher.example/story/{index}"
     assert not is_indexable_listing(same_publisher, minimum=12, min_sources=5, now=NOW)
+
+def test_topic_hub_rejects_missing_or_invalid_publisher_urls():
+    invalid = stories()
+    for story in invalid:
+        story["url"] = "not-a-valid-publisher-url"
+    assert not is_indexable_listing(invalid, minimum=12, min_sources=5, now=NOW)
