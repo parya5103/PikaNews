@@ -163,3 +163,50 @@ def test_world_and_science_category_pages_are_registered_and_noindex():
         page = (root / f"{category}.html").read_text(encoding="utf-8")
         assert f'id="{category}-news"' in page
         assert 'content="noindex,follow"' in page
+
+
+def test_gaming_feed_metadata_does_not_override_entertainment_story_signals():
+    assert classify_article(
+        "George R.R. Martin's 7 Best Non-Game of Thrones Books, Ranked",
+        "From antebellum Mississippi vampires to cat-loving space traders.",
+        source_category="gaming",
+    ) == "entertainment"
+    assert classify_article(
+        "Gary Larson's 10 Greatest Far Side Comics, Ranked",
+        "A retrospective on the classic comic strip.",
+        source_category="gaming",
+    ) == "entertainment"
+    assert classify_article(
+        "Goodbye Rings of Power, Prime Video's Legendary Fantasy Series Is Even Better",
+        "A television series review.",
+        source_category="gaming",
+    ) == "entertainment"
+
+
+def test_ambiguous_gaming_feed_headlines_do_not_become_gaming_without_game_evidence():
+    assert classify_article(
+        "5 Years Later, Yellowjackets Officially Solves One of Its Last Huge Mysteries",
+        "The location where the Yellowjackets crash-landed has been a hot topic for years.",
+        source_category="gaming",
+    ) != "gaming"
+    assert classify_article(
+        "The game of the year is finally here",
+        "Welcome to Installer, a weekly guide to technology and culture.",
+        source_category="gaming",
+    ) != "gaming"
+
+
+def test_entertainment_story_is_not_classified_as_technology_from_feed_metadata():
+    assert classify_article(
+        "Lili Reinhart Circling Amazon MGM Studios and Mattel's Polly Pocket",
+        "The actor is in talks to star in the upcoming film adaptation.",
+        source_category="technology",
+    ) == "entertainment"
+
+
+def test_explicit_game_coverage_still_qualifies_for_gaming():
+    assert classify_article(
+        "Nintendo's Long History with GTA Seems to Have Met Its End",
+        "Rockstar has brought L.A. Noire and Red Dead Redemption to Nintendo platforms.",
+        source_category="gaming",
+    ) == "gaming"
