@@ -17,6 +17,7 @@ Key improvements:
 import os
 import sys
 import json
+import html
 import hashlib
 import ipaddress
 import socket
@@ -485,18 +486,30 @@ def extract_domain(url: str) -> str:
 
 
 def clean_html_text(text: str) -> str:
-    """Remove HTML tags and clean text."""
+    """Convert RSS HTML fragments to safe, readable plain text.
+
+    RSS providers sometimes double-encode entities (for example
+    &amp;#8217;). Decode a bounded number of times before stripping markup,
+    then use BeautifulSoup's text parser so quoted attributes never leak into
+    the visible excerpt.
+    """
     if not text:
         return ""
-    
-    # Remove HTML tags
-    text = re.sub(r'<[^>]+>', ' ', text)
-    # Remove excessive whitespace
-    text = re.sub(r'\s+', ' ', text).strip()
-    # Remove special characters that might cause issues
-    text = re.sub(r'[\x00-\x1f\x7f-\x9f]', '', text)
-    
-    return text
+
+    decoded = str(text)
+    for _ in range(2):
+        next_value = html.unescape(decoded)
+        if next_value == decoded:
+            break
+        decoded = next_value
+
+    soup = BeautifulSoup(decoded, "html.parser")
+    for node in soup(["script", "style", "iframe", "object"]):
+        node.decompose()
+    cleaned = soup.get_text(" ", strip=True)
+    cleaned = re.sub(r'\s+', ' ', cleaned)
+    cleaned = re.sub(r'[\x00-\x1f\x7f-\x9f]', '', cleaned)
+    return cleaned.strip()
 
 
 def clean_text(text: str, max_length: int = 500) -> str:
