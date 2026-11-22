@@ -1,5 +1,25 @@
 [
   {
+    "id": "59752abac294c2aa3c26afd2a1bff851a0344956e8480bda25fd2ab39d241d52",
+    "title": "We haven’t seen the last of the major tech outages",
+    "summary": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+    "published_at": "2026-11-22T17:48:02-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-22T23:26:23.188168+00:00",
+    "thin": false,
+    "author": "Terrence O’Brien",
+    "tags": [
+      "AI",
+      "News",
+      "Security",
+      "Tech"
+    ]
+  },
+  {
     "id": "97c4f693712c83dc9416cde87ac87b0778b329df9c17eb293b8a15e17e9d0a4a",
     "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
     "summary": "Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.",
@@ -2288,78 +2308,6 @@
       "Apple",
       "noads",
       "tech"
-    ]
-  },
-  {
-    "id": "b4785dff91115dab33530664af247940155c92c3b7d246d89c10289296f10fc7",
-    "title": "Priscilla Presley Scores Partial Win Over Fraud Suit, But Claims About Lisa Marie’s Death Can Stand",
-    "summary": "A judge tossed four claims from a memorabilia dealer’s fraud lawsuit against Priscilla Presley on Monday, but said allegations the court called “gratuitous and mean-spirited” can remain",
-    "category": "technology",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-news/priscilla-presley-fraud-lawsuit-lisa-marie-death-1235659137",
-    "published_at": "2026-11-16T22:18:58+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-17T00:57:08.424412+00:00",
-    "thin": false,
-    "author": "Nancy Dillon",
-    "tags": [
-      "Music",
-      "Music News",
-      "controversy",
-      "courts and crime",
-      "Elvis",
-      "Lisa Marie Presley",
-      "Priscilla Presley"
-    ]
-  },
-  {
-    "id": "481ae9b2db250792de2c2037889606da1a3aadb772b75970038033629d799cb5",
-    "title": "Three small failures combined to take down Microsoft 365",
-    "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage",
-    "published_at": "2026-11-16T21:56:39+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage.jpg",
-    "collection_timestamp": "2026-11-17T00:57:08.432699+00:00",
-    "thin": false,
-    "author": "Nick Indge",
-    "tags": [
-      "Tech",
-      "Cloud Gateway",
-      "Exchange Online",
-      "microsoft",
-      "microsoft 365",
-      "Windows"
-    ]
-  },
-  {
-    "id": "6c7d9eea72880d2b136f646d0047b66b91a34c6063bce5f83741de4489c11e80",
-    "title": "OpenAI Slapped By California AG For “Unfair & Unsafe Practices”; Sam Altman-Run Tech Firm Accuses State Of Improperly Singling Out Company",
-    "summary": "Already facing a Hollywood supported lawsuit from the New York Times, plus more legal actions by the state of Texas, a collection of non-profits, and a wrongful death case, OpenAI now will have to go up against the state of California in court. &#8220;Government intervention is necessary to stop OpenAI’s unfair and unsafe practices and [&#8230;]",
-    "category": "technology",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/openai-sued-by-california-1237225599",
-    "published_at": "2026-11-16T21:02:58+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Sam-Altman-openai-california-flag.jpg",
-    "collection_timestamp": "2026-11-17T00:57:08.419611+00:00",
-    "thin": false,
-    "author": "Dominic Patten",
-    "tags": [
-      "Legal",
-      "News",
-      "Politics",
-      "Artificial Intellegence",
-      "CAA",
-      "California",
-      "Donald Trump",
-      "ElectionLine",
-      "OpenAI",
-      "Rob Bonta",
-      "Robert De Niro",
-      "Sam Altman",
-      "technology",
-      "WME"
     ]
   },
   {
