@@ -1,5 +1,42 @@
 [
   {
+    "id": "831c7a4db5c50e6353469a7da59abeb958c9666812be153f1583236b0ff31396",
+    "title": "Sean Astin Mobilizes SAG-AFTRA In Fight For Universal Healthcare As “Substantial Majority” Of Members Don’t Qualify For Insurance",
+    "summary": "As many SAG-AFTRA members struggle to qualify for health insurance, the union is taking the issue to the U.S. government. On Friday, Screen Actors Guild President Sean Astin announced the President’s Healthcare Task Force to address the “broken healthcare system” while several actors have faced losing their insurance under the union’s minimum eligibility requirements. “This […]",
+    "category": "health",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/sean-astin-mobilizes-sag-aftra-iuniversal-healthcare-1237231076",
+    "published_at": "2026-11-22T03:09:17+00:00",
+    "date_unverified": false,
+    "image_url": "https://deadline.com/wp-content/uploads/2026/02/GettyImages-1689516333-e1793327854265.jpg",
+    "collection_timestamp": "2026-11-22T05:51:46.569153+00:00",
+    "thin": false,
+    "author": "Glenn Garner",
+    "tags": [
+      "News",
+      "Politics",
+      "SAG",
+      "SAG-AFTRA",
+      "SAG-AFTRA Health Plan",
+      "Screen Actors Guild",
+      "Sean Astin"
+    ]
+  },
+  {
+    "id": "3128fb4331a03107358fdb2cde8f1ee4d1e60266bc0406d460708beb6dde0182",
+    "title": "Kansas City finally, and deservedly, breaks NWSL Championship drought",
+    "summary": "Kansas City Current's first NWSL Championship was a story of conviction and resilience, crowned by a wonder-strike from Vanessa DiBernardo.",
+    "category": "climate",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/50558351/kansas-city-current-breaks-nwsl-championship-drought",
+    "published_at": "2026-11-21T23:03:22+00:00",
+    "date_unverified": false,
+    "image_url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1122%2Fr1749444_1296x729_16%2D9.jpg",
+    "collection_timestamp": "2026-11-22T05:51:46.639716+00:00",
+    "thin": false,
+    "author": "Jenna Pel"
+  },
+  {
     "id": "9da3a71cebf0da2dcd6b93e974a4a540ece4e0313e9b0b321fae0c6a223dfc5f",
     "title": "CAA’s Bryan Lourd Urges Congress To Pass AI Legislation To Protect Americans “Famous Or Not”",
     "summary": "CAA chief Bryan Lourd is urging the full Congress to pass the No Fakes Act and deliver it to President Trump for signature, a move Lourd says would protect everyone, famous or not, from nonconsensual digital replicas of their voices and likenesses. In a guest essay published in today&#8217;s New York Times, Lourd writes, &#8220;The [&#8230;]",
@@ -58,6 +95,20 @@
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a7a/live/8ad75db0-e5d9-11f1-9ab8-8737221634d6.jpg",
     "collection_timestamp": "2026-11-21T19:44:15.207346+00:00",
     "thin": false
+  },
+  {
+    "id": "b6ec68f902b5bba5c788f30840cb9b8e9ff817971a7576a3e5e6ef73385d4330",
+    "title": "Like father, like son: Eugene Hilton Jr. does his dad's 'T-Y' touchdown celebration",
+    "summary": "Eugene Hilton Jr. is the son of T.Y. Hilton, who made four Pro Bowls with the Indianapolis Colts.",
+    "category": "health",
+    "source": "ESPN",
+    "url": "https://www.espn.com/college-football/story/_/id/50553909/eugene-hilton-jr-wisconsin-ty-celebration",
+    "published_at": "2026-11-21T17:11:23+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-22T05:51:46.643416+00:00",
+    "thin": false,
+    "author": "J.J. Post"
   },
   {
     "id": "ba57564b4ae48b69cc14c18a480f46712b357bbf372947845d947107f40d20b4",
@@ -490,16 +541,16 @@
     "author": "Eurostat http://ec.europa.eu/eurostat"
   },
   {
-    "id": "e301c3d5025d293462f1249d9fd903e800c3892b3739b00a85d3a61015a7fde5",
-    "title": "GDP up by 0.4% in the euro area and by 0.5% in the EU",
-    "summary": "In the third quarter of 2026, seasonally adjusted GDP increased by 0.4% in the euro area and by 0.5% in the EU, compared with the previous quarter, according to a preliminary flash estimate published by Eurostat, the statistical office of the European Union. In the second quarter of 2026, GDP had...",
+    "id": "9b823ae5b407ce003ef82dc5be3011305e29344ae53fde920cd5500c94affc3e",
+    "title": "Euro area unemployment at 6.5%",
+    "summary": "In September 2026, the euro area seasonally adjusted unemployment rate was 6.5%, stable compared with August 2026 and up from 6.3% in September 2025. The EU unemployment rate was 6.2% in September 2026, also stable compared with August 2026 and up from 6.0% in September 2025. These figures are pu...",
     "category": "world",
     "source": "Eurostat Press Releases",
-    "url": "https://ec.europa.eu/eurostat/product?code=2-30102026-ap",
+    "url": "https://ec.europa.eu/eurostat/product?code=3-30102026-bp",
     "published_at": "2026-10-30T10:00:00+00:00",
     "date_unverified": false,
     "image_url": null,
-    "collection_timestamp": "2026-11-22T02:30:06.504808+00:00",
+    "collection_timestamp": "2026-11-22T05:51:46.647279+00:00",
     "thin": false,
     "region": "europe",
     "image_policy": "none",

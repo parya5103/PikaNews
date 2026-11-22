@@ -1,5 +1,64 @@
 [
   {
+    "id": "8c9ff5e72079a8ed05025a79152d887de80e66ddf2e969b084092b758189a393",
+    "title": "46 Years Later, the Most Influential Thriller of All Time Is Officially Free on YouTube",
+    "summary": "The start of Jason Voorhees's story, 'Friday the 13th,' is now available to watch for free.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/friday-the-13th-youtube-watch-free-november-2026",
+    "published_at": "2026-11-22T04:00:17+00:00",
+    "date_unverified": false,
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/m8dfrth_ec020.jpg",
+    "collection_timestamp": "2026-11-22T05:51:46.625383+00:00",
+    "thin": false,
+    "author": "Aimee Hart",
+    "tags": [
+      "What to Watch",
+      "Friday the 13th",
+      "Movies",
+      "Horror"
+    ]
+  },
+  {
+    "id": "7f5be87c407ecaab993112efb4e70d4d491b2b4b4f08851a9a2653bdf8aaf7a7",
+    "title": "58 Years Later, Captain Kirk's Best Star Trek Quote Is the Greatest Line in Sci-Fi History",
+    "summary": "Captain Kirk's speech in 'Return to Tomorrow' says more about what Star Trek stands for than any other line in the original series.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/best-captain-kirk-quote-star-trek-original-series",
+    "published_at": "2026-11-22T03:59:17+00:00",
+    "date_unverified": false,
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/captain-kirk-og.png",
+    "collection_timestamp": "2026-11-22T05:51:46.625835+00:00",
+    "thin": false,
+    "author": "Terry Terrones",
+    "tags": [
+      "Opinion",
+      "Sci-Fi",
+      "Star Trek",
+      "TV"
+    ]
+  },
+  {
+    "id": "b5c4534e373b0b112d03bc9027046357f43c8b34f5899ac0d23c6158b106465f",
+    "title": "61 Years Later, Charlie Brown's Greatest Enemy Is Still an Undefeated 'Peanuts' Icon",
+    "summary": "Charlie Brown's only real arch-rival was a malevolent tree. Chomp chomp chomp.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/kite-eating-tree-peanuts",
+    "published_at": "2026-11-22T03:00:28+00:00",
+    "date_unverified": false,
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/charlie-brown-011-1024.jpg",
+    "collection_timestamp": "2026-11-22T05:51:46.626235+00:00",
+    "thin": false,
+    "author": "Thomas Hindmarch",
+    "tags": [
+      "Comics",
+      "Peanuts",
+      "comic strip"
+    ]
+  },
+  {
     "id": "b1377b38cd5d6b6044f8c6bfdc8e402dac5562d2a7a7bb5513f76937960c4403",
     "title": "8 Must-Play JRPGs for People With Real-Life Schedules",
     "summary": "Busy schedule, long JRPG backlog? These eight games fit short sessions with chapter breaks, adjustable battles, and easy saves.",
@@ -4405,45 +4464,6 @@
     "author": "Levi Winslow",
     "tags": [
       "Gaming,News"
-    ]
-  },
-  {
-    "id": "8223b7b8463b6ee7a378bea1b00a5c63a75bd55f817820054bb221038ec72f58",
-    "title": "Some of our favorite PlayStation games are steeply discounted for Black Friday",
-    "summary": "Black Friday is approaching, and some companies are already rolling out the discounts ahead of the big day. If you’re hunting for PlayStation 5 accessories, we’ve already rounded up some of our favorite controllers and headsets from Sony’s ongoing promotion. However, if you’re looking to expand your library, some of the PS5’s biggest titles are [&#8230;]",
-    "category": "gaming",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals",
-    "published_at": "2026-11-16T15:36:14-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-17T00:57:08.431848+00:00",
-    "thin": false,
-    "author": "Brad Bourque",
-    "tags": [
-      "Black Friday",
-      "Cyber Monday",
-      "Deals",
-      "Gadgets",
-      "Gaming",
-      "Verge Shopping"
-    ]
-  },
-  {
-    "id": "935b14b21913e8f508ff16dd42bc6d254cd6b1581c90155f7d473f89503e075b",
-    "title": "GTA 6's Official First Updates Are Great News For Fans",
-    "summary": "Even GTA 6 fans who already preloaded the game have two updates to download on PS5 and Xbox",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/gta-6-nov-13-patch-102-what-is-download-size-ps5-xbox",
-    "published_at": "2026-11-16T15:15:59+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vice_city_24-1.jpg",
-    "collection_timestamp": "2026-11-16T17:16:56.678729+00:00",
-    "thin": false,
-    "author": "Patricia Hernandez",
-    "tags": [
-      "News",
-      "Grand Theft Auto 6",
-      "Grand Theft Auto"
     ]
   }
 ]
