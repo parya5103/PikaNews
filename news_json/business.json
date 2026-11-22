@@ -1,5 +1,26 @@
 [
   {
+    "id": "f372800117ff542cd29433d58755386a9ae977da33b400f3f1fc036b6ee576b0",
+    "title": "SXSW Forges Partnership With Egypt’s UTH Festival Dedicated to Youth Culture",
+    "summary": "Austin’s South by Southwest Film and TV Festival has forged a partnership with Egypt’s UTH Festival dedicated to youth culture under which UTH will become SXSW’s partner in Egypt. The agreement is aimed at “identifying emerging talent and building opportunities for Egyptian filmmakers, musicians, creators, founders and business leaders to engage with SXSW’s international network,” […]",
+    "category": "business",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/global/sxsw-partnership-egypt-uth-festival-youth-culture-1236955220",
+    "published_at": "2026-11-22T09:41:26+00:00",
+    "date_unverified": false,
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/SXSW.jpg",
+    "collection_timestamp": "2026-11-22T10:11:21.285588+00:00",
+    "thin": false,
+    "author": "Nvivarelli",
+    "tags": [
+      "Global",
+      "News",
+      "Egypt",
+      "SXSW",
+      "UTH Festival"
+    ]
+  },
+  {
     "id": "e471b0807e0e693a5ac1322a08b6dd94475fce02195f3571e9338272930cefec",
     "title": "Russell Brand Selling “Free Russell” Merch Via His Wellness Business While in Prison",
     "summary": "He is also receiving backlash for sharing a message from behind bars, delivered by his wife, Laura Brand, on his YouTube channel on Nov. 15 where he claimed he was innocent.",
@@ -2773,42 +2794,6 @@
     "published_at": "2026-11-16T16:20:51+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-16T17:16:56.681295+00:00",
-    "thin": false
-  },
-  {
-    "id": "24422d083e779f6ae2c850ea2e80e95880839eae53aec24a27b5ba426806f54a",
-    "title": "U.S. crude oil declines to $87 a barrel on recovering Middle East exports",
-    "summary": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
-    "published_at": "2026-11-16T16:17:39+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T17:16:56.680100+00:00",
-    "thin": false
-  },
-  {
-    "id": "9eaaa91e5f261f2d1b51c6c04a561b21f3da031255f3a82fa87553821cfd4869",
-    "title": "Anthropic’s Wall Street whisperer: Meet CFO Krishna Rao",
-    "summary": "Anthropic's upcoming IPO is putting finance chief Krishna Rao into the limelight.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/16/anthropic-cfo-krishna-rao-ipo.html",
-    "published_at": "2026-11-16T16:08:16+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T17:16:56.679309+00:00",
-    "thin": false
-  },
-  {
-    "id": "80d569d88e7a87aef14bd407a52205fc931272099df7ce83bfec7284d65e8e03",
-    "title": "'We slept here': Flight delays linger as airlines recover from ground stop, but schedule improves Monday",
-    "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-    "published_at": "2026-11-16T15:56:39+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T17:16:56.679746+00:00",
     "thin": false
   },
   {

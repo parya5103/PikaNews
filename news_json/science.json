@@ -1,5 +1,36 @@
 [
   {
+    "id": "641cfa96b5eaab94089eefd6b931ea85b825223feff43a4b4218835c454c508f",
+    "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
+    "summary": "Quantum computing firms are testing energy-grid optimization, solar materials and hydrogen catalysts as they pursue practical uses.",
+    "category": "science",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
+    "published_at": "2026-11-22T06:00:01+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108554063-1795006580677-gettyimages-2271702239-futuristic-microchip-glowing-data-connections.jpeg?v=1795006768&w=1920&h=1080",
+    "collection_timestamp": "2026-11-22T10:11:21.381315+00:00",
+    "thin": false
+  },
+  {
+    "id": "82c2ceb84e1de96daa246d2ed3775d50839da79ad48e1b04c62c9938342e6504",
+    "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
+    "summary": "APOD Science APOD APOD: 2026 November 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Swirls and Colors […]",
+    "category": "science",
+    "source": "NASA News Releases",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno",
+    "published_at": "2026-11-22T05:05:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-22T10:11:21.392987+00:00",
+    "thin": false,
+    "region": "us",
+    "image_policy": "none",
+    "tags": [
+      "APOD"
+    ]
+  },
+  {
     "id": "3128fb4331a03107358fdb2cde8f1ee4d1e60266bc0406d460708beb6dde0182",
     "title": "Kansas City finally, and deservedly, breaks NWSL Championship drought",
     "summary": "Kansas City Current's first NWSL Championship was a story of conviction and resilience, crowned by a wonder-strike from Vanessa DiBernardo.",
