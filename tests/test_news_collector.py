@@ -93,8 +93,10 @@ class TestTextCleaning:
         assert clean_html_text("<p>Test</p>") == "Test"
         assert clean_html_text("<div><span>Test</span></div>") == "Test"
         assert clean_html_text("<p>Test<br>text</p>") == "Test text"
-        # Note: HTML entities are not decoded by clean_html_text, only tags are removed
-        assert clean_html_text("Test &amp; text") == "Test &amp; text"
+        assert clean_html_text("Test &amp; text") == "Test & text"
+        assert clean_html_text("It&amp;#8217;s &amp;#8220;news&amp;#8221; &amp;#32;today") == "It's “news” today"
+        assert clean_html_text('<img src=x alt="\'&gt; hollywood">A real headline') == "A real headline"
+        assert clean_html_text("<script>alert(1)</script><p>Safe &amp; sound</p>") == "Safe & sound"
         assert clean_html_text("") == ""
         assert clean_html_text(None) == ""
         
