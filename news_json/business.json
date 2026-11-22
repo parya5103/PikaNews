@@ -1,5 +1,24 @@
 [
   {
+    "id": "e471b0807e0e693a5ac1322a08b6dd94475fce02195f3571e9338272930cefec",
+    "title": "Russell Brand Selling “Free Russell” Merch Via His Wellness Business While in Prison",
+    "summary": "He is also receiving backlash for sharing a message from behind bars, delivered by his wife, Laura Brand, on his YouTube channel on Nov. 15 where he claimed he was innocent.",
+    "category": "business",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/news/general-news/russell-brand-selling-free-russell-merch-in-prison-1236760597",
+    "published_at": "2026-11-22T00:16:28+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/FotoJet-2026-10-30T125207.030.jpg?w=1440&h=810&crop=1",
+    "collection_timestamp": "2026-11-22T02:30:06.482768+00:00",
+    "thin": false,
+    "author": "McKinley Franklin",
+    "tags": [
+      "General News",
+      "News",
+      "Russell Brand"
+    ]
+  },
+  {
     "id": "94566bb8c01407597c9a3299a492d5994a08bb9ace92dc8901cc862ceb610910",
     "title": "Russell Crowe’s Request to Shoot ‘A Beautiful Mind’ Chronologically Added $1 Million to the Budget, Says Ron Howard: ‘It Was the Right Kind of Investment’",
     "summary": "“A Beautiful Mind” director Ron Howard recently called Russell Crowe’s suggestion to shoot the film in order, which cost the studio an additional $1 million, was “the right kind of investment.” The 2001 film follows mathematician John Forbes Nash Jr. (Crowe) through his academic career as he struggles with schizophrenia. Although many films shoot out [&#8230;]",
@@ -973,7 +992,7 @@
     "source": "CNBC",
     "url": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
     "published_at": "2026-11-19T23:54:20+00:00",
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108549208-1794421626428-gettyimages-2264975879-anotherday191760601_bcczxcng.jpeg?v=1795132423&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T12:29:55.755271+00:00",
     "thin": false
   },
@@ -985,7 +1004,7 @@
     "source": "CNBC",
     "url": "https://www.cnbc.com/2026/11/19/lumentum-marvell-deal-ceo-shareholders-cramer.html",
     "published_at": "2026-11-19T23:47:42+00:00",
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108504028-1793627405428-gettyimages-2258806489-img_7474.jpeg?v=1793627424&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T12:29:55.754992+00:00",
     "thin": false
   },
@@ -997,7 +1016,7 @@
     "source": "CNBC",
     "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
     "published_at": "2026-11-19T23:21:23+00:00",
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108352165-1787237664975-108352165-1787236932205-gettyimages-2290512238-META_TRIAL.jpeg?v=1787237713&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T03:52:04.299356+00:00",
     "thin": false
   },
@@ -2814,78 +2833,6 @@
     "published_at": "2026-11-16T15:44:14+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-16T17:16:56.680391+00:00",
-    "thin": false
-  },
-  {
-    "id": "5eebd6704109b4a9c56cca9c9b96e28d567414c689c847fb86c94a4449e1efba",
-    "title": "Novo says Wegovy injection lowers BMI and obesity rates in children in trial",
-    "summary": "Wegovy is already approved to treat obesity in children ages 12 and older, but there are currently no approved medications for those under 12.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/16/novo-wegovy-obesity-children-trial.html",
-    "published_at": "2026-11-16T15:00:01+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T17:16:56.680536+00:00",
-    "thin": false
-  },
-  {
-    "id": "1f15ffd6200cf9ddc622a1882b2ba8d75c7424b06819b001ec33940a36e6f7d3",
-    "title": "Warren Buffett donates $5.5 billion, says kindness 'compounds' in Thanksgiving letter",
-    "summary": "Following the donations, the chairman emeritus of Berkshire still owns 182,140 Class A shares -- roughly $162 billion.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/16/warren-buffett-donates-5point5-billion-thanksgiving.html",
-    "published_at": "2026-11-16T14:56:21+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T17:16:56.679448+00:00",
-    "thin": false
-  },
-  {
-    "id": "240b2e13069046fe93e9ce56c1f1875115e310c8fd99148bb8cc11cf163861d6",
-    "title": "Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly",
-    "summary": "Bitcoin's ongoing weakness has pushed it below key technical support levels, triggering the cascade of long liquidations into the weekend.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/16/bitcoin-slides-to-62000-following-liquidation-cascade-then-rebounds-slightly.html",
-    "published_at": "2026-11-16T14:29:19+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T17:16:56.680808+00:00",
-    "thin": false
-  },
-  {
-    "id": "52b0470c899bd72b7ec63e651f628f295903497bb38310d5acb0ea991e6357c8",
-    "title": "A major NFT marketplace is shutting down—5 years after the boom, there's a lesson for investors",
-    "summary": "Five years after NFTs took off, a major marketplace is shutting down—here's what the boom and bust can teach investors about risky investments.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/make-it/2026/11/16/5-years-after-the-nft-boom-theres-a-lesson-for-investors-.html",
-    "published_at": "2026-11-16T14:00:01+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T17:16:56.679927+00:00",
-    "thin": false
-  },
-  {
-    "id": "a5436ecb14336be0647fdff2326fcca181c521dc28643d699890e7a75cb6f8a2",
-    "title": "We're booking huge profits on a tech winner and making a chip stock swap",
-    "summary": "We are making three trades on Monday.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/11/16/were-booking-huge-profits-on-a-tech-winner-and-making-a-chip-stock-swap.html",
-    "published_at": "2026-11-16T13:58:53+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-16T17:16:56.680664+00:00",
-    "thin": true
-  },
-  {
-    "id": "d4a2e06c312987f38470505d9b05c44912d0d539bc9623ab606ccf8303ea35aa",
-    "title": "Nvidia's Colette Kress confronts key questions in first earnings report since Jensen Huang’s exit",
-    "summary": "Less than a week after Jensen Huang's abrupt departure, Nvidia interim CEO Colette Kress faces a major test with earnings.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/16/nvidia-earnings-jensen-huang-resignation.html",
-    "published_at": "2026-11-16T13:42:43+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-17T00:57:08.444593+00:00",
     "thin": false
   },
   {

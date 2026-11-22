@@ -1,5 +1,46 @@
 [
   {
+    "id": "b1377b38cd5d6b6044f8c6bfdc8e402dac5562d2a7a7bb5513f76937960c4403",
+    "title": "8 Must-Play JRPGs for People With Real-Life Schedules",
+    "summary": "Busy schedule, long JRPG backlog? These eight games fit short sessions with chapter breaks, adjustable battles, and easy saves.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/jrpgs-real-life-schedules",
+    "published_at": "2026-11-22T01:00:17+00:00",
+    "date_unverified": false,
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/octopath-traveler-switch-2.jpg",
+    "collection_timestamp": "2026-11-22T02:30:06.499069+00:00",
+    "thin": false,
+    "author": "Rebecca Corgan",
+    "tags": [
+      "Polygon Lists",
+      "Dragon Quest 11: Echoes Of An Elusive Age",
+      "Bravely Default",
+      "Final Fantasy",
+      "Octopath Traveler",
+      "FANTASIAN Neo Dimension",
+      "Chrono Trigger"
+    ]
+  },
+  {
+    "id": "6cf9bd3d0724e362e1dfd61b88ad3bc68ed66f45dbe03f6a2301eb6dd4c74a9c",
+    "title": "Star Wars' New Jedi Order Era is Officially Moving Forward",
+    "summary": "Two upcoming Star Wars films, New Jedi Order and Lucasfilm head Dave Filoni's untitled project, are making progress.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/star-wars-new-jedi-order-era-update",
+    "published_at": "2026-11-21T22:18:17+00:00",
+    "date_unverified": false,
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19812990/rey_finn_poe_in_star_wars_9_rise_of_skywalker_desert_wayfinder_scene.jpg",
+    "collection_timestamp": "2026-11-22T02:30:06.499492+00:00",
+    "thin": false,
+    "author": "Elijah Gonzalez",
+    "tags": [
+      "News",
+      "Star Wars"
+    ]
+  },
+  {
     "id": "5d485acf1a49f8b5b35e02200318db2e03b4f449fe76492fd4a860288baedd73",
     "title": "GTA 6 Players Are Obsessed With Finding IRL Florida in Vice City",
     "summary": "GTA 6 fans have spent time tracking down remarkably faithful recreations of Miami locations beyond just the popular landmarks.",
@@ -4403,38 +4444,6 @@
       "News",
       "Grand Theft Auto 6",
       "Grand Theft Auto"
-    ]
-  },
-  {
-    "id": "ded3cdcd4b6f8ef9e0955c9bceb8cad467bf0a8d450edc53bdfb5d8951574d5a",
-    "title": "Xbox Game Pass Gets Even More Games In November",
-    "summary": "The second half of November is usually quiet for several reasons when it comes to new game releases–and one other big reason–but Xbox Game Pass subscribers can look forward to several new titles to close off the month. Microsoft has announced a handful of new additions to the Game Pass library, including a kid-friendly game to kick things off and a sneak peek at some sporty fun for the first week of December. These announcements typically come in two waves, with a sneak peek split between them,",
-    "category": "gaming",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/xbox-game-pass-gets-even-more-games-in-november",
-    "published_at": "2026-11-16T14:33:49+00:00",
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Paw-Patrol-Dino-World.jpg",
-    "collection_timestamp": "2026-11-16T17:16:56.669558+00:00",
-    "thin": false,
-    "author": "Darryn Bonthuys",
-    "tags": [
-      "Gaming,News"
-    ]
-  },
-  {
-    "id": "a3a792b3105b1b542bc739044c98274705f6de72e31bd4516d0fc709728a385f",
-    "title": "We Got A Grand Theft At Disney World Before GTA 6",
-    "summary": "The \"We got X before GTA 6\" meme continues as a Grand Theft has been reported at Walt Disney World's Epcot theme park just days before Rockstar's open-world crime game releases, and the meme comes to an end. The Walt Disney World: Active Calls account, which tracks police reports in the Disney World area, said a Grand Theft call at Epcot came in at 9:52 PM on November 14. https://twitter.com/WDWActiveCrime/status/2121800462961705163 There are no further details to go on here, but Grand Theft, kn",
-    "category": "gaming",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/we-got-a-grand-theft-at-disney-world-before-gta-6",
-    "published_at": "2026-11-16T14:32:07+00:00",
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_and_Lucia_11.jpg",
-    "collection_timestamp": "2026-11-16T17:16:56.670567+00:00",
-    "thin": false,
-    "author": "Eddie Makuch",
-    "tags": [
-      "Gaming,News"
     ]
   }
 ]

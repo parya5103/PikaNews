@@ -2388,48 +2388,6 @@
     ]
   },
   {
-    "id": "01e85cf27910752781a00f93f857b5e00f28eceba9c29cb2e9cfb807e22f0542",
-    "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
-    "summary": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $329 at Amazon, Best Buy, and Walmart, beating the October Prime Day [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
-    "published_at": "2026-11-16T14:50:47-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-17T00:57:08.432533+00:00",
-    "thin": false,
-    "author": "Sheena Vasani",
-    "tags": [
-      "Apple",
-      "Black Friday",
-      "Cyber Monday",
-      "Deals",
-      "Gadgets",
-      "Tech",
-      "Verge Shopping"
-    ]
-  },
-  {
-    "id": "552708b080e460965f41254861dddb1aa1c1cec28e803cce1d425ffaaa0ea367",
-    "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
-    "summary": "Huang is weighing a return just days after resigning amid a deepening scandal.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia",
-    "published_at": "2026-11-16T14:06:16+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/huang_computex_2024-1152x648.jpg",
-    "collection_timestamp": "2026-11-16T17:16:56.661852+00:00",
-    "thin": false,
-    "author": "Michael Acton, Financial Times",
-    "tags": [
-      "AI",
-      "Tech",
-      "Jensen Huang",
-      "NVIDIA",
-      "syndication"
-    ]
-  },
-  {
     "id": "5082dfda10bff74f000a79d57567c7e87de16691fdbad697271e5cb0ec100b12",
     "title": "REA: The Open-Source AI Tool That Can Reverse Engineer Almost Anything (2026 Guide)",
     "summary": "What if you could ask your AI assistant how any app works and get a real answer, backed by evidence, without ever seeing the source code? You use an app, tap a feature, and wonder how it was built. Maybe it is a fast search bar, a clever clipboard trick, or a mechanic in an old game. Until recently, finding out meant months of learning disassemblers and reading assembly code. A new open-source project called REA changes that. It has earned more than 430,000 stars on GitHub, and in this guide I w",
