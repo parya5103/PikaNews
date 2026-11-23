@@ -1,5 +1,125 @@
 [
   {
+    "id": "039a80547236bf3c211f692fc0f10b3908877a31411b4c67df6693d353b6d04a",
+    "title": "SpaceX sued by Oregon and Virginia over AI deepfake porn, Grok safety claims",
+    "summary": "The states are seeking civil penalties and injunctions to stop Grok and X from creation and distribution of nonconsensual sexualized images.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/23/oregon-virginia-spacex-grok-deepfake-lawsuits.html",
+    "published_at": "2026-11-23T12:40:37+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-23T14:00:44.875849+00:00",
+    "thin": false
+  },
+  {
+    "id": "631d8f59e3a791f77916ea139bdbb4ad222d9941c368b2cb927e66cf60976d87",
+    "title": "Tri-screen portable monitors aren’t for the faint of heart",
+    "summary": "Three extra screens boost multitasking but can distract and overwhelm.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk",
+    "published_at": "2026-11-23T12:15:16+00:00",
+    "date_unverified": false,
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/20261120_163720-1152x648.jpg",
+    "collection_timestamp": "2026-11-23T14:00:44.788495+00:00",
+    "thin": false,
+    "author": "Scharon Harding",
+    "tags": [
+      "Reviews",
+      "Tech",
+      "Monitors",
+      "reviews"
+    ]
+  },
+  {
+    "id": "6fa1deaeb1767a87feb2263e65a2d0ce562d5de5c74ede541e9f4d543952867c",
+    "title": "Amazon is taking orders for the Moto Tag 3 before it’s even been announced",
+    "summary": "Motorola's unannounced Moto Tag 3 has been listed for sale online, just five months after the Moto Tag 2 went on sale in the US, and before any official announcement of a follow-up. The listing on Amazon UK was spotted by X user @matteventu, and shows the tracker in a \"Pantone Lucent White\" color option, […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1039903/motorola-moto-tag-3-tracker-amazon-leak",
+    "published_at": "2026-11-23T08:09:32-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Motorola-Moto-Tag-3-.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-23T14:00:44.786340+00:00",
+    "thin": false,
+    "author": "Jess Weatherbed",
+    "tags": [
+      "Android",
+      "Google",
+      "Motorola",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "3f3b62c6412c5b94615376e30ccd63f086a6feadce6e7f24bb7090312c98a61b",
+    "title": "Samsung’s absurd 1,100Hz gaming monitor hits shelves next month for $899.99",
+    "summary": "After being teased in December 2025 and getting an arguably unnecessary pre-release spec bump in August, the Samsung Odyssey G6 G60H rolls out next month for $899.99. The 27-inch gaming monitor will have an absurd 1,100Hz refresh rate, narrowly edging out LG's UltraGear 25G590B, which tops out at 1,000Hz. Is there any value in these […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/1039838/samsungs-odyssey-g6-1100hz-gaming-monitor",
+    "published_at": "2026-11-23T08:00:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/01.-Odyssey-G6_Front.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-23T14:00:44.787034+00:00",
+    "thin": false,
+    "author": "Terrence O’Brien",
+    "tags": [
+      "Gaming",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "b24add594757b71b26705cfdf4569cdcc17f9c9bea72d0ac1d8839316e6db69b",
+    "title": "How Asian countries are looking to prop up markets as AI downturn sinks stocks",
+    "summary": "Market regulators in South Korea, China and Taiwan have introduced new measures to support markets.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/23/asia-markets-kospi-taiwan-china-csi300.html",
+    "published_at": "2026-11-23T06:50:48+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-23T14:00:44.879606+00:00",
+    "thin": false
+  },
+  {
+    "id": "f9c98061004a2655ce8eb0a3b51313431f9df5c21c3ee05737c4ea2275822671",
+    "title": "Meta Muse can do your Black Friday shopping at Walmart",
+    "summary": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant products for you without […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+    "published_at": "2026-11-23T06:00:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Walmart-Meta-Muse-Agent-Gateway.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-23T14:00:44.787790+00:00",
+    "thin": false,
+    "author": "Jess Weatherbed",
+    "tags": [
+      "AI",
+      "Meta",
+      "News",
+      "Online Shopping",
+      "Tech"
+    ]
+  },
+  {
+    "id": "75b549d1f7f4a1b9bd8f57abd39047c9d4001b4042faa206a4e6189f77af6a3e",
+    "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
+    "summary": "The U.S. is investigating Megaspeed and Alice Huang after it emerged a former associate of hers was reportedly \"deeply involved\" in the firm's activities",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
+    "published_at": "2026-11-23T05:08:03+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-23T14:00:44.876819+00:00",
+    "thin": false
+  },
+  {
     "id": "f52c7d0bfbdb6554e4606695f4f7e0980100ce971ca036866fa5979aac81d7d0",
     "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
     "summary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But while the Charmera's usefulness stopped at snapping grainy photos and terrible videos, the Kodak SlideTag goes one step […]",
@@ -2188,112 +2308,6 @@
     ]
   },
   {
-    "id": "01e3bdf3ea5d597279a19c6fc4757b6950287c9e25da20596cef20541124c1c7",
-    "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
-    "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business partners, and customers for me [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
-    "published_at": "2026-11-17T11:09:57-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-17T18:08:28.305046+00:00",
-    "thin": false,
-    "author": "Jay Peters",
-    "tags": [
-      "AI",
-      "News",
-      "Nvidia",
-      "Tech"
-    ]
-  },
-  {
-    "id": "d26d0df910705e3938c9b137bf7a9969111202209c4be8aeabd5eb9ee57ee971",
-    "title": "You can now preorder the Flipper One that puts a Linux computer in your pocket",
-    "summary": "After first announcing its Flipper One last May, which the company describes as an \"open Linux multi-tool built for high-performance computing and IP networking,\" Flipper Devices has launched a Kickstarter crowdfunding campaign where you can preorder the device for $399 with shipping expected to start in July 2027. The Flipper One is more expensive than [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1034392/flipper-devices-one-zero-pocket-linux-computer-multi-tool-preorder-kickstarte",
-    "published_at": "2026-11-17T11:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-17T18:08:28.305265+00:00",
-    "thin": false,
-    "author": "Andrew Liszewski",
-    "tags": [
-      "Gadgets",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "a5e769624ea182fd8469b2bcccc833a5eeb7af81b30bce9e80bb4c8cf66204f5",
-    "title": "Scoop up three great 4K Blu-ray movies for $33",
-    "summary": "Gruv always keeps its proverbial fire hose of deals on movies running with a steady stream throughout the year, but the online seller operated by Universal Pictures is really letting it rip now ahead of Black Friday. The site has a page filled with 4K Blu-rays eligible for a “three for $33” promotion, and the [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1034571/gruv-4k-blu-ray-movies-black-friday-deal-sale",
-    "published_at": "2026-11-17T11:00:00-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-17T18:08:28.305484+00:00",
-    "thin": false,
-    "author": "Cameron Faulkner",
-    "tags": [
-      "Black Friday",
-      "Deals",
-      "Gadgets",
-      "Verge Shopping"
-    ]
-  },
-  {
-    "id": "b69fb84a3bd4e10e4e6456d79b4e555a5ee1644faf416fcdbe5730971faa68c9",
-    "title": "The aliens are coming in 3 Body Problem’s first season 2 trailer",
-    "summary": "The first season of Netflix's 3 Body Problem series ended with the remaining members of the Oxford Five disillusioned at the idea of humanity being utterly unprepared to deal with the San-Ti's arrival on Earth. But in the first trailer for the show's upcoming second season, it looks like the world's greatest minds have been [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/streaming/1035221/3-body-problem-season-two-trailer-premiere-date-netflix",
-    "published_at": "2026-11-17T10:04:20-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-17T18:08:28.305917+00:00",
-    "thin": false,
-    "author": "Charles Pulliam-Moore",
-    "tags": [
-      "Books",
-      "Entertainment",
-      "Netflix",
-      "News",
-      "Streaming",
-      "Trailers",
-      "TV Shows"
-    ]
-  },
-  {
-    "id": "e98f0ff4787e05de780171c53e43e8a1c85994501b844e448644fa95b7473f24",
-    "title": "Late-Night Hosts Take Aim at Trump’s Reaction to the FAA Shutdown",
-    "summary": "\"Hey, you know what fail safe program we should design our aviation system to mirror? Christmas lights!\"",
-    "category": "technology",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/late-night-hosts-faa-shutdown-donald-trump-sean-duffy-1235659476",
-    "published_at": "2026-11-17T07:54:08+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-17T08:53:28.132886+00:00",
-    "thin": false,
-    "author": "Emily Zemler",
-    "tags": [
-      "TV & Movies",
-      "TV & Movies News",
-      "Donald Trump",
-      "FAA",
-      "Jimmy Fallon",
-      "Jimmy Kimmel",
-      "Jimmy Kimmel Live",
-      "Jon Stewart",
-      "Late-Night TV",
-      "Sean Duffy",
-      "Seth Meyers",
-      "The Daily Show",
-      "The Tonight Show"
-    ]
-  },
-  {
     "id": "9218d56aaa602dbaa8cbf100c72a614224ba76862e22c2ce190d8040a832131d",
     "title": "\"They Never Even Unpacked the Racks\": Police Raid on Nvidia Partner Megaspeed Finds Empty Server Frames and Missing H100 GPUs Amid Allegations Chips Were Flown to China During Retail Shortages",
     "summary": "&#32; submitted by &#32; /u/chusskaptaan &#32; to &#32; r/pcmasterrace [link] &#32; [comments]",
@@ -2307,26 +2321,6 @@
     "author": "/u/chusskaptaanhttps://www.reddit.com/user/chusskaptaan",
     "tags": [
       "pcmasterrace"
-    ]
-  },
-  {
-    "id": "08f31b058b59a2f1af7588beaca135c1be6ae36d5a76fbef3ae92e917b2d3ef1",
-    "title": "T-Mobile Is Offering the iPhone Duo for $1,200 Off",
-    "summary": "The latest offer comes amid high demand for Apple’s first foray into the foldable market",
-    "category": "technology",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/product-recommendations/tech/t-mobile-iphone-duo-deal-1235659171",
-    "published_at": "2026-11-17T00:00:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-17T00:57:08.423855+00:00",
-    "thin": false,
-    "author": "Jonathan Zavaleta",
-    "tags": [
-      "RS Recommends",
-      "Tech",
-      "Apple",
-      "noads",
-      "tech"
     ]
   },
   {

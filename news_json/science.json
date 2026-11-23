@@ -1,5 +1,57 @@
 [
   {
+    "id": "bbc3c1a2468cf2e9af26a08a90bf2a14361e037decf14ca39a8d0275f8620789",
+    "title": "‘Worst COP ever’: Climate talks collapse after draft deal fails to include fossil fuels",
+    "summary": "Governments and campaigners rejected the \"cover decision\" drafted at the U.N.'s climate summit, COP31, on Sunday.",
+    "category": "climate",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/23/cop31-climate-summit-fossil-fuels.html",
+    "published_at": "2026-11-23T13:16:38+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108556441-1795183057823-gettyimages-2303993255-cm1_2267_5ajj8uug.jpeg?v=1795423139&w=1920&h=1080",
+    "collection_timestamp": "2026-11-23T14:00:44.877133+00:00",
+    "thin": false
+  },
+  {
+    "id": "e038b07e1b7a6f517b67473235b46756c9a0fff98c579e8fe8fc8f7610478392",
+    "title": "APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251",
+    "summary": "APOD Science APOD APOD: 2026 November 23 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Emergence […]",
+    "category": "science",
+    "source": "NASA News Releases",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251",
+    "published_at": "2026-11-23T05:05:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-23T14:00:44.906655+00:00",
+    "thin": false,
+    "region": "us",
+    "image_policy": "none",
+    "tags": [
+      "APOD"
+    ]
+  },
+  {
+    "id": "166ea44f20e59ef3f678dc0e433c39fc6c5d393c47f04241d5f9d4204e03057c",
+    "title": "Laser Focus at the Top of the World",
+    "summary": "A next-generation geodetic instrument developed by NASA, part of a network that helps measure satellites’ orbits and the planet’s shape, has debuted in Svalbard, Norway.",
+    "category": "science",
+    "source": "NASA News Releases",
+    "url": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world",
+    "published_at": "2026-11-23T05:01:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-23T14:00:44.907250+00:00",
+    "thin": false,
+    "region": "us",
+    "image_policy": "none",
+    "tags": [
+      "Earth Observatory",
+      "Earth Visualization & Mapping",
+      "Landsat 9",
+      "Remote Sensing Technology"
+    ]
+  },
+  {
     "id": "6e4e87cb2a5e18f5e97268ad634cf1c25800c565fd8623dfa8895da9c6cdd7ec",
     "title": "65 Years of Human Spaceflight at NASA Johnson",
     "summary": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence for more than 26 years. Today, Johnson teams are preparing crews and […]",
