@@ -1,5 +1,454 @@
 [
   {
+    "id": "85b490cada6871f03883c1aeaef2767e366824ee9b40c731c0249a18d60698d4",
+    "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
+    "summary": "Yemen's Iran-aligned Houthis claimed an operation against Saudi Arabia's Rabigh oil refinery, as diplomatic efforts to end the war face long odds.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
+    "published_at": "2026-11-23T03:52:17+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108557154-1795405829240-gettyimages-2297799185-AFP_D26C2B4.jpeg?v=1795405895&w=1920&h=1080",
+    "collection_timestamp": "2026-11-23T03:54:18.993997+00:00",
+    "thin": false
+  },
+  {
+    "id": "6951dd7fa18498b7f52b1849503126b995d571fe7e79b05fb57795b64aedae3d",
+    "title": "Watch Olivia Rodrigo Cover ‘Dead Leaves and the Dirty Ground’ at Jack White’s Blue Room",
+    "summary": "The singer played a tight set during a performance recorded for Third Man Records",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-dead-leaves-and-the-dirty-ground-cover-live-1235662456",
+    "published_at": "2026-11-23T03:35:49+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/olivia_60d01a.jpg?w=1200&h=800&crop=1",
+    "collection_timestamp": "2026-11-23T03:54:18.916938+00:00",
+    "thin": false,
+    "author": "Marissa Moss",
+    "tags": [
+      "Music",
+      "Music News",
+      "Jack White",
+      "Olivia Rodrigo",
+      "The White Stripes"
+    ]
+  },
+  {
+    "id": "497f963c48f7dfd358c5eb1e2db2a2c4435bbc79fdd9776d1bd838b58781eda3",
+    "title": "‘You Can See Everything’ Crosses $100M Globally, Becomes First Doc to Hit 1M Letterboxd Watches",
+    "summary": "Nathan Fielder and Lance Oppenheim's A24 documentary continues stirring conversation about Elizabeth Holmes through its sixth weekend in domestic release.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-box-office-100-million-letterboxd-1236746421",
+    "published_at": "2026-11-23T03:29:15+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/MCDYOCA_EC124.jpg?w=1296&h=730&crop=1",
+    "collection_timestamp": "2026-11-23T03:54:18.914360+00:00",
+    "thin": false,
+    "author": "Ryan Gajewski",
+    "tags": [
+      "Movie News",
+      "Movies",
+      "A24",
+      "billy evans",
+      "box office",
+      "documentary",
+      "Elizabeth Holmes",
+      "Lance Oppenheim",
+      "Letterboxd",
+      "Nathan Fielder",
+      "You Can See Everything"
+    ]
+  },
+  {
+    "id": "b5ca861f1b60811fbe794dc719e911a37bce03fb4bba1003af2667a04b85f69b",
+    "title": "Hailee Steinfeld Confirms She’s In ‘Avengers: Doomsday’",
+    "summary": "In a nifty bit of cross promotion, Disney used its surefire blockbuster and a helpful coincidence to reveal an Avengers: Doomsday casting as well as promote a smaller animated title. Earlier today, Marvel and Walt Disney Animation posted a video of Hailee Steinfeld, who’s in Europe promoting Disney Animation’s Hexed, ahead of its release\\ next […]",
+    "category": "health",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/hailee-steinfeld-confirms-avengers-doomsday-1237231382",
+    "published_at": "2026-11-23T03:27:25+00:00",
+    "date_unverified": false,
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/TCDHAWK_G5018.jpg",
+    "collection_timestamp": "2026-11-23T03:54:18.910727+00:00",
+    "thin": false,
+    "author": "Tomt",
+    "tags": [
+      "Casting",
+      "News",
+      "Avengers: Doomsday",
+      "Hailee Steinfeld"
+    ]
+  },
+  {
+    "id": "6f407b03d83969b48214ba2573b3651a3971644c264473057fd670c970e3270a",
+    "title": "‘The Gilded Age’ Star Denée Benton Talks Peggy’s “Victory Lap” & “Ambitious Tension” In Her Marriage To Dr. Kirkland",
+    "summary": "SPOILER ALERT: This post contains spoilers for The Gilded Age Season 4’s fourth episode. As if a new house and husband weren’t enough, Peggy Scott (Denée Benton), now Mrs. Dr. William Kirkland, receives a letter from journalist Ida B. Wells about her newly published book in the fourth episode of Season 4 of The Gilded […]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/the-gilded-age-denee-benton-peggy-ambition-dr-kirkland-job-1237230732",
+    "published_at": "2026-11-23T03:10:00+00:00",
+    "date_unverified": false,
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/denee-benton-jordan-donica_3.jpg",
+    "collection_timestamp": "2026-11-23T03:54:18.911365+00:00",
+    "thin": false,
+    "author": "Dessi Gomez",
+    "tags": [
+      "News",
+      "Denee Benton",
+      "Sonja Warfield",
+      "The Gilded Age"
+    ]
+  },
+  {
+    "id": "41b35fbf0487ae7ea4beabb954fdc9756dc0c913d70a000514f63c3a44e52964",
+    "title": "Robert Pattinson's Forgotten Dark Fantasy Thriller Proves He's a Perfect James Bond",
+    "summary": "The Lighthouse, which is available on HBO Max, is the perfect film for the Robert Pattinson skeptic",
+    "category": "entertainment",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/the-lighthouse-robert-pattinson-james-bond",
+    "published_at": "2026-11-23T03:00:27+00:00",
+    "date_unverified": false,
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/robert-pattinson-in-tenet.jpeg",
+    "collection_timestamp": "2026-11-23T03:54:18.991699+00:00",
+    "thin": false,
+    "author": "Brian VanHooker",
+    "tags": [
+      "What to Watch",
+      "The Lighthouse",
+      "James Bond"
+    ]
+  },
+  {
+    "id": "255da22ff34e976d4186b78abfb6b2c628dd7a047eefcb3c35befb990daf59cb",
+    "title": "‘The Gilded Age’ Star Morgan Spector Breaks Down “Exactly The Wrong Time” For George’s [Spoiler] & “Parallels” Between Anti-Monopoly Legislation And ParaBros Merger In Season 4",
+    "summary": "SPOILER ALERT: This post contains spoilers for The Gilded Age Season 4’s fourth episode. George Russell’s gunshot wound is coming back to haunt him in a way as Season 4 of The Gilded Age reaches its midpoint. As has been building since last season when George survived an assassination attempt in his home, a troubling […]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/the-gilded-age-george-laudanum-addiction-season-4-1237231274",
+    "published_at": "2026-11-23T03:00:00+00:00",
+    "date_unverified": false,
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/morgan-spector_0.jpg",
+    "collection_timestamp": "2026-11-23T03:54:18.912113+00:00",
+    "thin": false,
+    "author": "Dessi Gomez",
+    "tags": [
+      "News",
+      "Morgan Spector",
+      "Paramount",
+      "Sonja Warfield",
+      "The Gilded Age",
+      "Warner Brothers"
+    ]
+  },
+  {
+    "id": "2df88f5124f34874af39f73d6ea83fe1b915e8cbe61c908f5f74a5fe6ba2b4c1",
+    "title": "Delta Sets New Business Class Offerings With Collectible Missoni Kits, Wagyu Burgers and Blanton’s Bourbon on Board",
+    "summary": "The airline is heralding its new dining and hospitality offerings as the \"next era of Delta One.\"",
+    "category": "business",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/lifestyle/shopping/delta-one-new-business-class-suite-amenities-seat-food-2026-1236760736",
+    "published_at": "2026-11-23T02:50:53+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/delta-one-new-amenities.jpg?w=1440&h=810&crop=1",
+    "collection_timestamp": "2026-11-23T03:54:18.914890+00:00",
+    "thin": false,
+    "author": "Tim Chan",
+    "tags": [
+      "Lifestyle",
+      "Shopping",
+      "delta airlines",
+      "Travel"
+    ]
+  },
+  {
+    "id": "98ed5a34c7b37631586576daf1f6b517315a35d4f6474540f6c38a458e080009",
+    "title": "Spain Pitches Incentives, Crews and a 500 Million-Strong Spanish-Speaking Market to India at WAVES Film Bazaar",
+    "summary": "Spain, the Country of Honor at this year’s International Film Festival of India (IFFI), made its case to Indian filmmakers at WAVES Film Bazaar in Goa, laying out its incentives, locations and crews and pushing for closer co-production ties. The panel, “Spain: Where Stories Find Their Stage – Incentives, Locations & Co-production Opportunities,” was part […]",
+    "category": "entertainment",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/markets-festivals/spain-coproductions-incentives-india-waves-film-bazaar-1236955634",
+    "published_at": "2026-11-23T02:43:23+00:00",
+    "date_unverified": false,
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Spanish-Panel.jpg",
+    "collection_timestamp": "2026-11-23T03:54:18.907200+00:00",
+    "thin": false,
+    "author": "Naman Ramachandran",
+    "tags": [
+      "Asia",
+      "Global",
+      "Markets & Festivals",
+      "News",
+      "International Film Festival Of India",
+      "Spain",
+      "WAVES Film Bazaar"
+    ]
+  },
+  {
+    "id": "28d1d6448f34c530aa93a31ed7770fa035644b8a8a9909cee1a67b9a3af06cda",
+    "title": "34 Years Later, the Best 'Far Side' Quote Will Still Leave You Speechless",
+    "summary": "Gary Larson's comic strip The Far Side was known for its visual humor, but this is the best-ever quote from the series",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/best-far-side-quote",
+    "published_at": "2026-11-23T02:34:17+00:00",
+    "date_unverified": false,
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/screen-shot-2026-10-15-at-1-27-56-pm.jpg",
+    "collection_timestamp": "2026-11-23T03:54:18.992237+00:00",
+    "thin": false,
+    "author": "Brian VanHooker",
+    "tags": [
+      "Opinion",
+      "comic strip"
+    ]
+  },
+  {
+    "id": "f5ab4f7d9425a2579c7bea4cdeff812e0ce147cbc2840abcf5feb0c097106682",
+    "title": "China Box Office: ‘The Hunger Games: Sunrise on the Reaping’ Opens at No. 1 in Quiet Frame",
+    "summary": "Lionsgate Films’ dystopian prequel “The Hunger Games: Sunrise on the Reaping” debuted atop the mainland China box office during the Nov. 20–22 weekend, collecting RMB39.3 million ($5.9 million) over its three-day opening frame, according to data from Artisan Gateway. New Classics Pictures’ crime procedural drama “Traces of Justice” moved to second place after a two-week […]",
+    "category": "entertainment",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/box-office/china-box-office-the-hunger-games-sunrise-on-the-reaping-1236955624",
+    "published_at": "2026-11-23T02:33:16+00:00",
+    "date_unverified": false,
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/MCDHUGA_LG049.jpg",
+    "collection_timestamp": "2026-11-23T03:54:18.908071+00:00",
+    "thin": false,
+    "author": "Naman Ramachandran",
+    "tags": [
+      "Asia",
+      "Box Office",
+      "Global",
+      "News",
+      "Resident Evil",
+      "The Hunger Games: Sunrise on the Reaping",
+      "Traces of Justice"
+    ]
+  },
+  {
+    "id": "5b63c24179b5ca0ff1ce6f5eed08ee357dfae89a989ee13d78be7907e95459d9",
+    "title": "Star Wars Is Getting an Official IMAX 70mm Release for the First Time",
+    "summary": "In 2027, the original untouched Star Wars will return to movie theaters — and in IMAX 70mm screenings for the first time, Lucasfilm confirms.",
+    "category": "entertainment",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/star-wars-50th-anniversary-imax-release-2027",
+    "published_at": "2026-11-23T02:13:17+00:00",
+    "date_unverified": false,
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/msdstwa_ec005.jpg",
+    "collection_timestamp": "2026-11-23T03:54:18.992712+00:00",
+    "thin": false,
+    "author": "Michael McWhertor",
+    "tags": [
+      "News"
+    ]
+  },
+  {
+    "id": "7fac4d12e31096ba0a48d4af41842d9498403a38efa500bd0d6597493ff6437d",
+    "title": "Don Toliver’s Manchester Concert Evacuated After Suspected Tear Gas Released Into Crowd",
+    "summary": "Don Toliver’s concert at Co-op Live in Manchester, England ended in an evacuation as tear gas was released in the crowd on Sunday. “It is understood that a substance believed to be tear gas was let off in the crowd towards the end of a concert,” wrote the Greater Manchester Police in a statement. According […]",
+    "category": "entertainment",
+    "source": "Variety",
+    "url": "https://variety.com/2026/music/news/don-toliver-manchester-concert-evacuated-tear-gas-1236955605",
+    "published_at": "2026-11-23T02:00:46+00:00",
+    "date_unverified": false,
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2271010272.jpg",
+    "collection_timestamp": "2026-11-23T03:54:18.908621+00:00",
+    "thin": false,
+    "author": "Payton Turkeltaub",
+    "tags": [
+      "News",
+      "Don Toliver"
+    ]
+  },
+  {
+    "id": "701a0e31f310be6f4af372dcca1d8cb8e796366460da53e1266b41fcf32392c8",
+    "title": "Ina Garten Reveals Why She Will Never Do ‘Dancing With The Stars’",
+    "summary": "Celebrity Chef Ina Garten revealed this week on her Happy Hour podcast that she once turned down Dancing with the Stars. Discussing fear, overcoming it and whether she had ever turned something down because it was “too scary,” Garten said, “I think I absolutely have…Somebody asked me to do Dancing with the Stars. I thought […]",
+    "category": "entertainment",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/ina-garten-dancing-with-the-stars-1237231317",
+    "published_at": "2026-11-23T01:53:45+00:00",
+    "date_unverified": false,
+    "image_url": "https://deadline.com/wp-content/uploads/2026/09/P113S8ZP-e1790468252240.jpg",
+    "collection_timestamp": "2026-11-23T03:54:18.912681+00:00",
+    "thin": false,
+    "author": "Tomt",
+    "tags": [
+      "News",
+      "Dancing With The Stars",
+      "Ina Garten"
+    ]
+  },
+  {
+    "id": "186387e72eb56aa34e82703dfb101b04665308cbe7b93a26bb95707c6f2d5439",
+    "title": "Hailee Steinfeld Confirms ‘Avengers: Doomsday’ Return as Kate Bishop",
+    "summary": "Hailee Steinfeld will return to the Marvel Cinematic Universe as Kate Bishop in the forthcoming “Avengers: Doomsday.” Marvel Studios and Disney Animation announced the news Sunday with an Instagram post featuring Steinfeld. “Hey, so I’m here with my movie ‘Hexed,’ but it looks like they delivered a chair from a different movie,” said the actress […]",
+    "category": "entertainment",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/news/hailee-steinfeld-avengers-doomsday-kate-bishop-1236955585",
+    "published_at": "2026-11-23T01:32:26+00:00",
+    "date_unverified": false,
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/TCDHAWK_G5004.jpg",
+    "collection_timestamp": "2026-11-23T03:54:18.909330+00:00",
+    "thin": false,
+    "author": "Payton Turkeltaub",
+    "tags": [
+      "News",
+      "Avengers: Doomsday",
+      "Hailee Steinfeld"
+    ]
+  },
+  {
+    "id": "b07659095dce224367cf3519f92442e60d5f95d4afd3f76fe6cac7234bbd5a80",
+    "title": "GTA 6 Is Getting Review Bombed in Zelda vs. GTA Troll War",
+    "summary": "Grand Theft Auto 6 and The Legend of Zelda: Ocarina of Time fans are fighting over Metacritic scores as part of a larger anti-woke culture war.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/gta-6-review-bombed-legend-of-zelda",
+    "published_at": "2026-11-23T00:45:43+00:00",
+    "date_unverified": false,
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/lucia_caminos_07.jpg",
+    "collection_timestamp": "2026-11-23T03:54:18.993206+00:00",
+    "thin": false,
+    "author": "Michael McWhertor",
+    "tags": [
+      "News",
+      "Grand Theft Auto 6",
+      "The Legend of Zelda: Ocarina of Time"
+    ]
+  },
+  {
+    "id": "64c16cf4b19fb7ca9e5d19b1fa17c2f6cde300b493e8aa7fde9a8ab8eeb2a25f",
+    "title": "3 big things we're watching in the market this Thanksgiving week",
+    "summary": "Can the AI trade rebound? Plus, a big week for retail activity and Fed policy discussion.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/22/3-big-things-were-watching-in-the-market-this-thanksgiving-week.html",
+    "published_at": "2026-11-23T00:42:54+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108342818-1785446867713-gettyimages-2288353363-6k4a1338_tvwq6pxf.jpeg?v=1785447011&w=1920&h=1080",
+    "collection_timestamp": "2026-11-23T03:54:18.994407+00:00",
+    "thin": false
+  },
+  {
+    "id": "3a647820920e76495edfc1d8f9b84de8e05aea4fa9f63f3550bdbed98782ec60",
+    "title": "Molly Meldrum, Australian Music Broadcaster and ‘Countdown’ Host, Dies at 83",
+    "summary": "\"Affectionately dubbed 'The Guru,' Molly was the heartbeat, the champion and the spirit of Australian music,\" his family said in a statement.",
+    "category": "entertainment",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/music-news/molly-meldrum-countdown-host-dies-83-1236387631",
+    "published_at": "2026-11-23T00:30:36+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.billboard.com/wp-content/uploads/2026/11/155615281-e1795393534968.jpg?w=1024",
+    "collection_timestamp": "2026-11-23T03:54:18.916173+00:00",
+    "thin": false,
+    "author": "Jessica Lynch",
+    "tags": [
+      "Music",
+      "Music News",
+      "ARIA Hall of Fame",
+      "australia",
+      "countdown",
+      "Molly Meldrum",
+      "obituaries"
+    ]
+  },
+  {
+    "id": "b9b8bca03fbbd97b2babc31d18b96c2bc2b13808cd8c91df9e5085c38b2d362e",
+    "title": "Brighter Than The Sun: How Lionsgate Marketing & PR Turned B.O. Around For ‘Sunrise On The Reaping’",
+    "summary": "In the wake of Lionsgate’s last Hunger Games: The Ballad of Songbirds and Snakes hitting a franchise low at the box office, the Santa Monica, CA based studio got very serious — serious about marketing and reaching the younger audience segemts that the conglomerate built their brand upon with franchises such as Twilight and, of […]",
+    "category": "entertainment",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-marketing-1237231246",
+    "published_at": "2026-11-23T00:24:35+00:00",
+    "date_unverified": false,
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/J1M_3173_Ic7VFsE1_20261028113701.jpeg",
+    "collection_timestamp": "2026-11-23T03:54:18.913250+00:00",
+    "thin": false,
+    "author": "Anthonypauldalessandro",
+    "tags": [
+      "News",
+      "Lionsgate",
+      "The Hunger Games: Sunrise on the Reaping"
+    ]
+  },
+  {
+    "id": "a04d6e5ec23b1596e1a5b32196ab441fde4394da509aaf6ae27cd2ff5d4c96f9",
+    "title": "Netflix’s (Very) R-Rated 45-Episode Sci-Fi Anthology Doesn’t Get the Attention It Deserves",
+    "summary": "This genre-blend anthology boasts exceptionally well-crafted episodes.",
+    "category": "entertainment",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/r-rated-sci-fi-anthology-netflix-must-watch",
+    "published_at": "2026-11-23T00:00:17+00:00",
+    "date_unverified": false,
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/nexusstudios_lovedeathrobots_emilydean_stills_3.jpg",
+    "collection_timestamp": "2026-11-23T03:54:18.993613+00:00",
+    "thin": false,
+    "author": "Debopriyaa Dutta",
+    "tags": [
+      "What to Watch"
+    ]
+  },
+  {
+    "id": "be19cb3fe3e71584230c37bc8950ff7e56667fef7cd2261cbcaf7920867afe93",
+    "title": "Did Liverpool 'get lucky' with red card decision?",
+    "summary": "Match of the Day pundits Danny Murphy and Ashley Young believe that Liverpool were perhaps \"lucky\" when Manchester United's Leny Yoro was sent off in the 8th-minute at Anfield.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o",
+    "published_at": "2026-11-22T23:59:59+00:00",
+    "date_unverified": false,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97fd/live/e0c07400-e6c9-11f1-99b6-a35a62fa4264.jpg",
+    "collection_timestamp": "2026-11-23T03:54:18.995670+00:00",
+    "thin": false
+  },
+  {
+    "id": "ea138666af772c32b97503d52592be67394fedad0e960f669562b632c7e01362",
+    "title": "How 'outstanding' Tzolakis kept Brighton at bay",
+    "summary": "Match of the Day pundit Danny Murphy looks at how Hull goalkeeper Konstantinos Tzolakis was able to thwart high-flying Brighton in their 2-0 win over the Seagulls at the MKM Stadium.",
+    "category": "sports",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/videos/cm702nzyl8pzo",
+    "published_at": "2026-11-22T23:59:57+00:00",
+    "date_unverified": false,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee71/live/9b96d180-e6ce-11f1-99a1-253766e7ad8b.jpg",
+    "collection_timestamp": "2026-11-23T03:54:18.995981+00:00",
+    "thin": false
+  },
+  {
+    "id": "67edbaa7051269202aedf34f24853d9122ecf4b3e282360b93bef13fa9e8bb9b",
+    "title": "Let's weigh the cons — and pros — of this brutal market to find a way forward",
+    "summary": "My dad always said a list can help you make an informed decision — not always the right one, but the most informed at that moment.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/22/lets-weigh-the-cons-and-pros-of-this-market-to-find-a-way-forward.html",
+    "published_at": "2026-11-22T23:49:44+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108556475-1795186492969-gettyimages-2305372283-AFP_D8394NG.jpeg?v=1795186549&w=1920&h=1080",
+    "collection_timestamp": "2026-11-23T03:54:18.994725+00:00",
+    "thin": false
+  },
+  {
+    "id": "bfc7f819bb2738b96ddaac5b7eeff39a24e98de560f9a53447bdc8746973c512",
+    "title": "Ateez Debuts at No. 1 on Billboard 200 for the Third Time This Year; U2’s ‘Carnaval de Luz’ Bows at No. 4",
+    "summary": "The K-pop group Ateez continued its string of chart successes with the No. 1 bow on the Billboard 200 album chart of “Golden Hour: Part 6.” It’s the third time in 2026 that the group has had an EP debut in the top spot; the last such occasion came in July, when they premiered at […]",
+    "category": "entertainment",
+    "source": "Variety",
+    "url": "https://variety.com/2026/music/news/ateez-u2-album-chart-debut-billboard-1236955537",
+    "published_at": "2026-11-22T23:27:32+00:00",
+    "date_unverified": false,
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/MixCollage-22-Nov-2026-02-58-PM-9519.jpg",
+    "collection_timestamp": "2026-11-23T03:54:18.909979+00:00",
+    "thin": false,
+    "author": "Chris Willman",
+    "tags": [
+      "News",
+      "Ateez",
+      "Billboard 200",
+      "U2"
+    ]
+  },
+  {
     "id": "bb59b024cb328736cc5e6e920dfbacc2705a08d9571a72bc48b220e090d087e9",
     "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
     "summary": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
@@ -133,6 +582,30 @@
     ]
   },
   {
+    "id": "a35acc9d7e0c6f3ca545dd2ceb0f4f5a2e5cb23fc4ac62a283ef43b9524462b1",
+    "title": "Vikings vs. 49ers Livestream: How to Watch the Mexico Game for Free Online",
+    "summary": "The NFC showdown will be the sixth regular-season game held in Mexico City’s Estadio Azteca",
+    "category": "entertainment",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/watch-vikings-49ers-mexico-game-online-free-livestream-1235661526",
+    "published_at": "2026-11-22T22:20:00+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/mexico-nfl-game-how-to-watch.jpg?w=1600&h=900&crop=1",
+    "collection_timestamp": "2026-11-22T23:26:23.184686+00:00",
+    "thin": false,
+    "author": "Oscar Hartzog",
+    "tags": [
+      "TV & Movies",
+      "TV & Movies News",
+      "Football",
+      "NFL",
+      "noads",
+      "RS Recommends",
+      "sports",
+      "streaming"
+    ]
+  },
+  {
     "id": "10f95cb150d856fb759e4e403f92b80a2d4a8e52e2ea97943b685d127ead3c59",
     "title": "NFL Mexico City Game Halftime Show 2026: Here’s Where to Watch The Warning Perform Live Online Free",
     "summary": "Livestream the Minnesota Vikings taking on the San Fransisco 49ers live from Mexico City on Nov. 22 — and watch The Warning perform at halftime.",
@@ -158,30 +631,6 @@
     ]
   },
   {
-    "id": "a35acc9d7e0c6f3ca545dd2ceb0f4f5a2e5cb23fc4ac62a283ef43b9524462b1",
-    "title": "Vikings vs. 49ers Livestream: How to Watch the Mexico Game for Free Online",
-    "summary": "The NFC showdown will be the sixth regular-season game held in Mexico City’s Estadio Azteca",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/watch-vikings-49ers-mexico-game-online-free-livestream-1235661526",
-    "published_at": "2026-11-22T22:20:00+00:00",
-    "date_unverified": false,
-    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/mexico-nfl-game-how-to-watch.jpg?w=1600&h=900&crop=1",
-    "collection_timestamp": "2026-11-22T23:26:23.184686+00:00",
-    "thin": false,
-    "author": "Oscar Hartzog",
-    "tags": [
-      "TV & Movies",
-      "TV & Movies News",
-      "Football",
-      "NFL",
-      "noads",
-      "RS Recommends",
-      "sports",
-      "streaming"
-    ]
-  },
-  {
     "id": "7ccf24e707eeae4f28ba20f0a4feba27fe28bbd010eb365adca4901917fe9def",
     "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
     "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
@@ -200,6 +649,25 @@
       "Billboard Lists",
       "Chart Beat",
       "genre country"
+    ]
+  },
+  {
+    "id": "f52c7d0bfbdb6554e4606695f4f7e0980100ce971ca036866fa5979aac81d7d0",
+    "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+    "summary": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But while the Charmera's usefulness stopped at snapping grainy photos and terrible videos, the Kodak SlideTag goes one step […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+    "published_at": "2026-11-22T22:00:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/kodak1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-23T03:54:18.919704+00:00",
+    "thin": false,
+    "author": "Andrew Liszewski",
+    "tags": [
+      "Gadgets",
+      "News",
+      "Tech"
     ]
   },
   {
@@ -249,6 +717,25 @@
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/557b/live/9cccbb70-e6b8-11f1-bb92-6d8a0512bfb0.jpg",
     "collection_timestamp": "2026-11-22T23:26:23.282170+00:00",
     "thin": false
+  },
+  {
+    "id": "8227d08accc2b78d76d15323d6ed23e972dddd2be9dd2bb9cb1c8a30e9252911",
+    "title": "Mahershala Ali Says “There Are Not Roles for Me” in “Vast Majority of Projects,” Despite Winning Two Oscars",
+    "summary": "The actor previously took home Academy Awards for best supporting actor for 2016’s 'Moonlight' and 2018's 'Green Book.'",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/mahershala-ali-no-roles-majority-projects-despite-oscar-wins-1236760722",
+    "published_at": "2026-11-22T21:41:46+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Mahershala-Ali-getty-H-2026.png?w=1296&h=730&crop=1",
+    "collection_timestamp": "2026-11-23T03:54:18.915380+00:00",
+    "thin": false,
+    "author": "Carly Thomas",
+    "tags": [
+      "Movie News",
+      "Movies",
+      "Mahershala Ali"
+    ]
   },
   {
     "id": "cf86dae7c39e3f40b090fed90890cc2957e489c04fd91208ce8ae5d9b0d07b5f",
@@ -1314,500 +1801,5 @@
     "image_url": "https://image.cnbcfm.com/api/v1/image/108554284-1795017875830-gettyimages-2305725511-_s019615_hvtmmvsn.jpeg?v=1795017895&w=1920&h=1080",
     "collection_timestamp": "2026-11-22T17:58:21.832526+00:00",
     "thin": false
-  },
-  {
-    "id": "ffd69b830367f8dfb4b16769367b66b3bf2e9a8fc75d81e2fb7b1c17314a304f",
-    "title": "Tom Jackson Dies: Broncos Alum & ESPN Hall Of Fame Broadcaster Was 75",
-    "summary": "Tom Jackson, a former Denver Broncos player and an NFL analyst for ESPN, has died. He was 75. Jackson’s family told ESPN that he passed on Friday, in what his longtime co-host Chris Berman called an “unexpected” death, having previously spoken “at length” with Jackson on Tuesday. “He was a vital 75,” said Berman on […]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/tom-jackson-dead-broncos-espn-1237231183",
-    "published_at": "2026-11-22T17:07:19+00:00",
-    "date_unverified": false,
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-51354926.jpg",
-    "collection_timestamp": "2026-11-22T23:26:23.173959+00:00",
-    "thin": false,
-    "author": "Glenn Garner",
-    "tags": [
-      "News",
-      "Obituaries",
-      "Sports",
-      "Denver Broncos",
-      "ESPN",
-      "NFL",
-      "Tom Jackson"
-    ]
-  },
-  {
-    "id": "372d4934818b4a869ba59b605d41550c3964947a0fac72360024616484a02488",
-    "title": "Tom Jackson Dies: Broncos Alum & ESPN Hall Of Fame Broadcaster Was 75",
-    "summary": "Tom Jackson, a former Denver Broncos player and an NFL analyst for ESPN, has died. He was 75. Jackson’s family told ESPN that he passed on Friday, in what his longtime co-host Chris Berman called an “unexpected” death, having previously spoken “at length” with Jackson on Tuesday. “He was a vital 75,” said Berman on […]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/tom-jackson-dies-broncos-espn-1237231183",
-    "published_at": "2026-11-22T17:07:19+00:00",
-    "date_unverified": false,
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-51354926.jpg",
-    "collection_timestamp": "2026-11-22T17:58:21.717433+00:00",
-    "thin": false,
-    "author": "Glenn Garner",
-    "tags": [
-      "News",
-      "Obituaries",
-      "Sports",
-      "Denver Broncos",
-      "ESPN",
-      "NFL",
-      "Tom Jackson"
-    ]
-  },
-  {
-    "id": "8def863fce1771e377911af1d08e20d8c377fd9c1e65bf8ba60ccb3139f5f42d",
-    "title": "Christopher Nolan's The Odyssey Built a 36-Foot Cyclops Puppet and Hauled It Up a Mountain",
-    "summary": "The Odyssey's effects team reveals how they built a 36-foot Cyclops puppet and hauled it up a mountain to film inside a cave in Greece.",
-    "category": "entertainment",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/the-odyssey-cyclops-puppet-practical-effects",
-    "published_at": "2026-11-22T17:00:19+00:00",
-    "date_unverified": false,
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/cyclops.jpg",
-    "collection_timestamp": "2026-11-22T17:58:21.827322+00:00",
-    "thin": false,
-    "author": "Terry Terrones",
-    "tags": [
-      "Interview",
-      "The Odyssey"
-    ]
-  },
-  {
-    "id": "b93beb6d297fe32cae9a50487a1e817fe14551c5b553bf07cde4200b6b4a4035",
-    "title": "'Rolls-Royce' Iqbal's 'dream' journey from Old Trafford to Tannadice",
-    "summary": "Zidane Iqbal is starting to live up to his famous name and wowing Scottish Premiership fans after his move to Dundee United.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cwj05z6npze4o",
-    "published_at": "2026-11-22T17:00:01+00:00",
-    "date_unverified": false,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbe7/live/00b578f0-e693-11f1-99b6-a35a62fa4264.jpg",
-    "collection_timestamp": "2026-11-22T17:58:21.840441+00:00",
-    "thin": false
-  },
-  {
-    "id": "3dab8198d966f7367d5fce989b72382ef3f9725a292f393a1d574b2f33943eb9",
-    "title": "How Oobah Butler Scammed His Way to HBO",
-    "summary": "I meet Oobah Butler on a wet afternoon in Chinatown outside an empty claw-machine arcade. I spot the 34-year-old British hoax artist and gonzo journalist from way down the street, his platinum-blond mop top bobbing between umbrella-wielding tourists. The reason he picked this interview location — a few blocks from the open-air counterfeit handbag hub […]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/tv/news/oobah-butler-hbo-show-1236954998",
-    "published_at": "2026-11-22T17:00:00+00:00",
-    "date_unverified": false,
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/oobah-butler_1.jpg",
-    "collection_timestamp": "2026-11-22T17:58:21.711872+00:00",
-    "thin": false,
-    "author": "Ethan Shanfeld",
-    "tags": [
-      "News",
-      "Oobah Butler"
-    ]
-  },
-  {
-    "id": "ffe336784f9300eb4b7b29270b343a3f2e6b876e3a90a832aaf7f8134b09664e",
-    "title": "Joe Russo Talks ‘Doomsday’ Teaser-Trailer Strategy Ahead Of Rumored Monday Drop: “I Have To interact With Fans”",
-    "summary": "Expectations that a new Avengers: Doomsday teaser or trailer is imminent have hit fever pitch over the weekend following cast member Hayley Atwell’s omission while signing autographs in New York that it is dropping on Monday (November 23). “There’s a new trailer dropping on Monday… am I allowed to have said that?” Atwell, who returns […]",
-    "category": "health",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/joe-russo-doomsday-trailer-strategy-rumored-monday-fans-1237231111",
-    "published_at": "2026-11-22T16:54:33+00:00",
-    "date_unverified": false,
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/TPW10230.jpg",
-    "collection_timestamp": "2026-11-22T17:58:21.718308+00:00",
-    "thin": false,
-    "author": "Melanie Goodfellow",
-    "tags": [
-      "Festivals",
-      "News",
-      "Avengers: Doomsday",
-      "Doha Film Festival",
-      "Joe Russo",
-      "Qatar Film Committee"
-    ]
-  },
-  {
-    "id": "0f2908ba6735c51c9618b24ebb6da96abfa7c6ea914378c4ebb6a872d01f15fd",
-    "title": "‘Hunger Games: Sunrise On The Reaping’ $225M WW Opening Bests ‘Wicked: For Good’ & ‘Michael’ – Sunday Update",
-    "summary": "SUNDAY AM UPDATE: It’s the best opening for Lionsgate in quite some time as The Hunger Games: Sunrise on the Reaping minted $225M around the globe, $105M from 40,000 screens in 84 territories. That figure bests Lionsgate’s previous big opening of 2026, Michael which boogeyed to $218.8M in addition to last November’s pre-Thanksgiving blockbuster Wicked: […]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/box-office-global-hunger-games-sunrise-on-the-reaping-1237230714",
-    "published_at": "2026-11-22T16:50:00+00:00",
-    "date_unverified": false,
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/MCDHUGA_LG068.jpg",
-    "collection_timestamp": "2026-11-22T17:58:21.719019+00:00",
-    "thin": false,
-    "author": "Anthonypauldalessandro",
-    "tags": [
-      "News",
-      "Lionsgate",
-      "The Hunger Games: Sunrise on the Reaping"
-    ]
-  },
-  {
-    "id": "841f9b9b84d3fda5003030a9b0822ca600927e3ba068e48e55bf670e3a16a19d",
-    "title": "Sunrise on the Reaping Makes Hunger Games A Box Office Blockbuster Franchise Again",
-    "summary": "Sunrise on the Reaping had a strong opening box office haul this weekend, re-establishing The Hunger Games as a box office giant.",
-    "category": "entertainment",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/the-hunger-games-sunrise-on-the-reaping-box-office",
-    "published_at": "2026-11-22T16:49:49+00:00",
-    "date_unverified": false,
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/hunger_games_sunrise_reaping.jpg",
-    "collection_timestamp": "2026-11-22T17:58:21.827963+00:00",
-    "thin": false,
-    "author": "Tomas Franzese",
-    "tags": [
-      "News",
-      "The Hunger Games: Sunrise on the Reaping",
-      "Movies"
-    ]
-  },
-  {
-    "id": "5a92947dade1e08cb7969960baf2096dac435c37e1468c4fe83bae666631da08",
-    "title": "Tom Jackson, Denver Broncos’ All-Pro Linebacker and ESPN Analyst, Dies at 75",
-    "summary": "He spent nearly 30 years with the network, often teaming with Chris Berman: “We’ve lost one of the best human beings ever to walk the planet.”",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/tv/tv-news/tom-jackson-dead-espn-denver-broncos-1236760660",
-    "published_at": "2026-11-22T16:45:47+00:00",
-    "date_unverified": false,
-    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Tom-Jackson-obit-temp-getty-H-2026.png?w=1296&h=730&crop=1",
-    "collection_timestamp": "2026-11-22T17:58:21.722120+00:00",
-    "thin": false,
-    "author": "Mike Barnes",
-    "tags": [
-      "TV",
-      "TV News",
-      "ESPN",
-      "NFL",
-      "Obituaries"
-    ]
-  },
-  {
-    "id": "4b8634584767c367dfea809121c6b832b362aaafcb3af80d2473ef5583358cc1",
-    "title": "‘Hunger Games: Sunrise on the Reaping’ Slays $120M at Box Office as Franchise Heats Back Up",
-    "summary": "The sixth film in the Lionsgate series rebounded after 2023's 'The Ballad of Songbirds & Snakes,' while freshly expanded 'I Play Rocky' and newcomer 'Elsinore' also came out swinging.",
-    "category": "entertainment",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/hunger-games-sunrise-on-the-reaping-box-office-opening-win-2-1236760511",
-    "published_at": "2026-11-22T16:44:02+00:00",
-    "date_unverified": false,
-    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/MCDHUGA_LG103.jpg?w=1296&h=730&crop=1",
-    "collection_timestamp": "2026-11-22T17:58:21.723579+00:00",
-    "thin": false,
-    "author": "Ryan Gajewski",
-    "tags": [
-      "Movie News",
-      "Movies",
-      "Andrew Scott",
-      "Anthony Ippolito",
-      "box office",
-      "Ebenezer",
-      "Elsinore",
-      "Francis Lawrence",
-      "Godzilla Minus Zero",
-      "Hunger Games",
-      "I Play Rocky",
-      "Jennifer Lawrence",
-      "Joseph Zada",
-      "Ramayana",
-      "The Cat in the Hat",
-      "The Hunger Games: Sunrise on the Reaping"
-    ]
-  },
-  {
-    "id": "5ab1fa7323a8c18ce35c422d46c5c5821706552e823fba59219f45bf3a3394f3",
-    "title": "Sheila Mangubat Dies: ’90 Day Fiancé: Before the 90 Days’ Star Was 35",
-    "summary": "Sheila Mangubat, who appeared in TLC’s 90 Day Fiancé franchise, has died. She was 35. David Dangerfield, whom Mangubat dated on 90 Day Fiance: Before the 90 Days, announced that she died on Saturday in the Philippines, according to her family. “It breaks my heart to share the news from her family that Sheila passed […]",
-    "category": "health",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/sheila-mangubat-dies-90-day-fiance-1237231163",
-    "published_at": "2026-11-22T16:41:07+00:00",
-    "date_unverified": false,
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Sheila-90-Day-Fiance.jpg",
-    "collection_timestamp": "2026-11-22T17:58:21.719716+00:00",
-    "thin": false,
-    "author": "Glenn Garner",
-    "tags": [
-      "News",
-      "Obituaries",
-      "90 Day Fiancé"
-    ]
-  },
-  {
-    "id": "a9af2628dbb6e8e0b7c121897396cb33f005011f4024c1bb3317e8492634ab55",
-    "title": "GTA 6’s Worst Feature Needs to Be Patched ASAP",
-    "summary": "Depositing and withdrawing money from your stash box and ATMs is shockingly fiddly and counterintuitive in GTA 6.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/gta-6-stash-box-atm-money",
-    "published_at": "2026-11-22T16:30:17+00:00",
-    "date_unverified": false,
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/gta6-3.jpg",
-    "collection_timestamp": "2026-11-22T17:58:21.828587+00:00",
-    "thin": false,
-    "author": "Jen Glennon",
-    "tags": [
-      "Opinion",
-      "Grand Theft Auto 6",
-      "Grand Theft Auto"
-    ]
-  },
-  {
-    "id": "35639e264ed0fa69509645708ebbd2bc1ba99fa602b787970e33deea52850336",
-    "title": "Spurs 'a match for anyone' as European hopes boosted",
-    "summary": "With the Women's Super League big four firmly established, and London City Lionesses spending their way into European contention, Champions League dreams could have seemed more fanciful than ever for Tottenham Hotspur. But they are firmly in the mix.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/c6n901w453nlo",
-    "published_at": "2026-11-22T16:25:35+00:00",
-    "date_unverified": false,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8bf/live/e5be34d0-e686-11f1-99b6-a35a62fa4264.jpg",
-    "collection_timestamp": "2026-11-22T17:58:21.837398+00:00",
-    "thin": false
-  },
-  {
-    "id": "370091436fe00f0c22639a4b506c21f259dabcf8ad79125bf6fcabb65a6e7337",
-    "title": "Box Office: ‘Sunrise on the Reaping’ Reignites ‘Hunger Games’ Franchise With $120 Million Debut",
-    "summary": "“Sunrise on the Reaping” caught fire at the domestic box office, collecting a sensational $120 million in its opening weekend while reinvigorating Lionsgate’s “Hunger Games” franchise. Overseas, “Sunrise on the Reaping” generated $105 million from 84 territories for a towering launch of $225 million globally. The dystopian prequel is one of just five movies this […]",
-    "category": "entertainment",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/box-office/sunrise-on-the-reaping-box-office-hunger-games-opening-weekend-exceeds-expectations-1236953061",
-    "published_at": "2026-11-22T16:16:28+00:00",
-    "date_unverified": false,
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/MCDHUGA_LG103_3bb4fe.jpg",
-    "collection_timestamp": "2026-11-22T17:58:21.712640+00:00",
-    "thin": false,
-    "author": "Rebecca Rubin",
-    "tags": [
-      "Box Office",
-      "I Play Rocky",
-      "The Hunger Games: Sunrise on the Reaping"
-    ]
-  },
-  {
-    "id": "e051ab254ee8d952fc7b4e712eecd325dfff41e3b4437111c52687bc7dcebeab",
-    "title": "All map fragment locations in the Fortnite Chapter 7 mini season",
-    "summary": "Here's where to find all the currently available map fragments in Fortnite's Chapter 7 mini season.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/fortnite-chapter-7-mini-season-c7ms-map-fragment-locations",
-    "published_at": "2026-11-22T16:14:04+00:00",
-    "date_unverified": false,
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261101_1001_fn_mapfragment0.jpg",
-    "collection_timestamp": "2026-11-22T17:58:21.829204+00:00",
-    "thin": false,
-    "author": "Julia Lee",
-    "tags": [
-      "Guides",
-      "Fortnite"
-    ]
-  },
-  {
-    "id": "f8ea59f4035f1dde883993680791c8dbd6b364f504c60e0903fd3788ff782d9a",
-    "title": "Nintendo Officially Launches Black Friday Deals on Switch 2 and Games",
-    "summary": "Switch 2 Black Friday deals officially confirmed by Nintendo on consoles, Mario Party, Mario Kart, and Kirby Air Riders.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/nintendo-black-friday-deals-2026-switch-2-mario-kart-world",
-    "published_at": "2026-11-22T16:07:38+00:00",
-    "date_unverified": false,
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/ns2_mariokartworld_scrn_01.jpeg",
-    "collection_timestamp": "2026-11-22T17:58:21.829759+00:00",
-    "thin": false,
-    "author": "Michael McWhertor",
-    "tags": [
-      "News",
-      "Mario Kart World"
-    ]
-  },
-  {
-    "id": "9e44f143166e894467dad57a424b7ee83d30bc2ffc110f536376b22e8480ab56",
-    "title": "PSG's Doue to have surgery on ruptured ACL",
-    "summary": "Paris St-Germain forward Desire Doue will have surgery later this month after rupturing the anterior cruciate ligament in his right knee.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/football/articles/cw0k6x0764ero",
-    "published_at": "2026-11-22T15:50:05+00:00",
-    "date_unverified": false,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb0e/live/e990a750-e68b-11f1-936e-1fd1d31671db.jpg",
-    "collection_timestamp": "2026-11-22T17:58:21.837720+00:00",
-    "thin": false
-  },
-  {
-    "id": "706990682fc104da37e52b0d35c5940fd0a87722ba31892d59e4f46d4b0eb826",
-    "title": "All sprites in the Fortnite Chapter 7 mini season",
-    "summary": "Here's a list of the currently available sprite in Fortnite's Chapter 7 \"Treasure Hunters\" mini season, along with what they do.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/fortnite-chapter-7-mini-season-all-sprites-list-abilities",
-    "published_at": "2026-11-22T15:44:45+00:00",
-    "date_unverified": false,
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jlee_261101_1001_fn_sprites.jpg",
-    "collection_timestamp": "2026-11-22T17:58:21.830285+00:00",
-    "thin": false,
-    "author": "Julia Lee",
-    "tags": [
-      "Guides",
-      "Fortnite"
-    ]
-  },
-  {
-    "id": "f2eb1d1e76e3f605c159f86e9588d9aaf6a044cc001768280e7e9c83c5486321",
-    "title": "‘Hunger Games: Sunrise On The Reaping’ $120M U.S. Opening Is Second Best Start For A Prequel After ‘Rogue One’; Lionsgate Franchise Returns To Fortune – Sunday Update",
-    "summary": "SUNDAY AM: Lionsgate and Suzanne Collins accomplished what no other Harry Potter movie has pulled off at the box office: Seeing a preview/spinoff opening to north of $100M at the domestic B.O., which is exactly what their Hunger Games: Sunrise on the Reaping did with a North American start of $120M. In addition, Sunrise on […]",
-    "category": "entertainment",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/box-office-hunger-games-sunrise-on-the-reaping-1237229925",
-    "published_at": "2026-11-22T15:38:00+00:00",
-    "date_unverified": false,
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/The-Hunger-Games-Sunrise-On-The-Reaping-3.jpg",
-    "collection_timestamp": "2026-11-22T17:58:21.720493+00:00",
-    "thin": false,
-    "author": "Anthonypauldalessandro",
-    "tags": [
-      "News",
-      "I Play Rocky",
-      "novid",
-      "The Hunger Games: Sunrise on the Reaping"
-    ]
-  },
-  {
-    "id": "950e121fff525a63a3775aa4d90db6d9140a9f7a795b3ac39faeb6a84ad295e3",
-    "title": "Where to find the Fast & Furious Mitsubishi Eclipse in GTA 6",
-    "summary": "Here's where you can find Brian O'Conner's green Mitsubishi Eclipse in GTA 6, the car owned by Paul Walker's character in the first Fast & Furious",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/gta-6-mitsubishi-eclipse-fast-and-furious-brian-oconner-car",
-    "published_at": "2026-11-22T15:32:59+00:00",
-    "date_unverified": false,
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/gta6_guide_f-feclipse_lead.jpg",
-    "collection_timestamp": "2026-11-22T17:58:21.830853+00:00",
-    "thin": false,
-    "author": "Paulo Kawanishi",
-    "tags": [
-      "Guides",
-      "Grand Theft Auto 6"
-    ]
-  },
-  {
-    "id": "03cd82f66c7e74a9bbf7110fba898b74c87082294df6caa0ef4084c8c780ee90",
-    "title": "GTA 6 Parody In Binding of Isaac Used AI Without Creator's Knowledge",
-    "summary": "The Binding of Isaac creator Edmund McMillen did not know the Repentance Plus update used AI-generated music.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/gta-6-parody-binding-of-isaac-ai-use",
-    "published_at": "2026-11-22T15:29:47+00:00",
-    "date_unverified": false,
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/binding-of-isaac-repentance-cropped-1.jpg",
-    "collection_timestamp": "2026-11-22T17:58:21.831658+00:00",
-    "thin": false,
-    "author": "Tomas Franzese",
-    "tags": [
-      "News",
-      "The Binding of Isaac: Repentance+",
-      "PC",
-      "PlayStation",
-      "xbox",
-      "Nintendo"
-    ]
-  },
-  {
-    "id": "b4b6eb5713ea0bd3f28acc770b0ee5a4be10a8fe6a2d2e2a567733a334268896",
-    "title": "Boy George on His Israel Trip: ‘I Wasn’t Able to Not Say Something’",
-    "summary": "After performing in Tel Aviv and meeting survivors of the Oct. 7 attack, the Culture Club frontman reflects on the backlash to his song, rising antisemitism, and why he felt compelled to speak out",
-    "category": "entertainment",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-news/boy-george-israel-trip-we-will-dance-again-interview-1235662143",
-    "published_at": "2026-11-22T15:28:36+00:00",
-    "date_unverified": false,
-    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/boy-george-israel-LEAD.jpg?crop=0px%2C39px%2C1800px%2C1014px&resize=1600%2C900",
-    "collection_timestamp": "2026-11-22T17:58:21.726497+00:00",
-    "thin": false,
-    "author": "Shirley Halperin",
-    "tags": [
-      "Music",
-      "Music News",
-      "Boy George",
-      "Culture Club",
-      "Gaza Conflict",
-      "Haircut 100",
-      "MTV"
-    ]
-  },
-  {
-    "id": "223c00a2bb7ac32e937ffef323296e38c50c0094cee41fbee263895b00871ec8",
-    "title": "Liu Wenwei suspended amid match-fixing investigation",
-    "summary": "Chinese snooker player Liu Wenwei is suspended from \"attending or competing on the World Snooker Tour with immediate effect\" amid an investigation into match-fixing.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/snooker/articles/c9p83k06160xo",
-    "published_at": "2026-11-22T15:17:49+00:00",
-    "date_unverified": false,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2e4/live/299e0eb0-e681-11f1-a5bc-ddaec99ca2c4.jpg",
-    "collection_timestamp": "2026-11-22T17:58:21.836696+00:00",
-    "thin": false
-  },
-  {
-    "id": "b12e833aae0fc95db0f18d6a399b93a8498004383e4d4494bcdbd989fbdf4e19",
-    "title": "Did beaten Wales still show they have come a long way?",
-    "summary": "Wales believe they are on the up despite failing to back up their win against New Zealand when beaten by Australia in the Nations Championship.",
-    "category": "sports",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cjr4gn7yd9d5o",
-    "published_at": "2026-11-22T15:07:06+00:00",
-    "date_unverified": false,
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a1a3/live/f4c9b4c0-e683-11f1-a8fd-13fffcb9ff5a.jpg",
-    "collection_timestamp": "2026-11-22T17:58:21.836342+00:00",
-    "thin": false
-  },
-  {
-    "id": "24d746cb76eb9ba81c90c0405f8bf86597f91320462c937a13174e91b2e11f63",
-    "title": "‘The Unknown’ Director Arthur Harari Says AI Is a ‘Slippery Slope,’ Though He ‘Had to Use Deepfake Tool’ for Léa Seydoux Double Scene: ‘There Was a Human Behind It’",
-    "summary": "“The Unknown” filmmaker Arthur Harari says AI is a “slippery slope” and one he’d prefer to avoid in his own work — even as he admitted on Sunday at the Marrakech Film Festival that he used a deepfake tool in his Palme d’Or contender, a body-swap psychodrama starring Léa Seydoux. Appearing in conversation with film […]",
-    "category": "technology",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/festivals/the-unknown-director-deepfake-tool-lea-seydoux-kissing-scene-1236955267",
-    "published_at": "2026-11-22T15:02:50+00:00",
-    "date_unverified": false,
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/lea-seydoux-arthur-harari.jpg",
-    "collection_timestamp": "2026-11-22T17:58:21.713634+00:00",
-    "thin": false,
-    "author": "Postcardjunky",
-    "tags": [
-      "Festivals",
-      "Global",
-      "News",
-      "Arthur Harari",
-      "Lea Seydoux",
-      "Marrakech Film Festival",
-      "The Unknown"
-    ]
-  },
-  {
-    "id": "438af453c62747ea6518a3d435c1d459a374e9893683c85d2c86034461b15b20",
-    "title": "GTA 6 Could Actually Lose at Least 3 Game Awards Categories",
-    "summary": "Grand Theft Auto 6 is favorite for GOTY, but Rockstar is unlikely to sweep every award it's up for",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/gta-6-goty-game-awards-sweep",
-    "published_at": "2026-11-22T15:00:18+00:00",
-    "date_unverified": false,
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/jason_and_lucia_14-2.jpg",
-    "collection_timestamp": "2026-11-22T17:58:21.832181+00:00",
-    "thin": false,
-    "author": "Oli Welsh",
-    "tags": [
-      "GOTY Watch",
-      "Grand Theft Auto 6"
-    ]
   }
 ]

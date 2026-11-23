@@ -1,5 +1,64 @@
 [
   {
+    "id": "85b490cada6871f03883c1aeaef2767e366824ee9b40c731c0249a18d60698d4",
+    "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
+    "summary": "Yemen's Iran-aligned Houthis claimed an operation against Saudi Arabia's Rabigh oil refinery, as diplomatic efforts to end the war face long odds.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
+    "published_at": "2026-11-23T03:52:17+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108557154-1795405829240-gettyimages-2297799185-AFP_D26C2B4.jpeg?v=1795405895&w=1920&h=1080",
+    "collection_timestamp": "2026-11-23T03:54:18.993997+00:00",
+    "thin": false
+  },
+  {
+    "id": "2df88f5124f34874af39f73d6ea83fe1b915e8cbe61c908f5f74a5fe6ba2b4c1",
+    "title": "Delta Sets New Business Class Offerings With Collectible Missoni Kits, Wagyu Burgers and Blanton’s Bourbon on Board",
+    "summary": "The airline is heralding its new dining and hospitality offerings as the \"next era of Delta One.\"",
+    "category": "business",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/lifestyle/shopping/delta-one-new-business-class-suite-amenities-seat-food-2026-1236760736",
+    "published_at": "2026-11-23T02:50:53+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/delta-one-new-amenities.jpg?w=1440&h=810&crop=1",
+    "collection_timestamp": "2026-11-23T03:54:18.914890+00:00",
+    "thin": false,
+    "author": "Tim Chan",
+    "tags": [
+      "Lifestyle",
+      "Shopping",
+      "delta airlines",
+      "Travel"
+    ]
+  },
+  {
+    "id": "64c16cf4b19fb7ca9e5d19b1fa17c2f6cde300b493e8aa7fde9a8ab8eeb2a25f",
+    "title": "3 big things we're watching in the market this Thanksgiving week",
+    "summary": "Can the AI trade rebound? Plus, a big week for retail activity and Fed policy discussion.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/22/3-big-things-were-watching-in-the-market-this-thanksgiving-week.html",
+    "published_at": "2026-11-23T00:42:54+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108342818-1785446867713-gettyimages-2288353363-6k4a1338_tvwq6pxf.jpeg?v=1785447011&w=1920&h=1080",
+    "collection_timestamp": "2026-11-23T03:54:18.994407+00:00",
+    "thin": false
+  },
+  {
+    "id": "67edbaa7051269202aedf34f24853d9122ecf4b3e282360b93bef13fa9e8bb9b",
+    "title": "Let's weigh the cons — and pros — of this brutal market to find a way forward",
+    "summary": "My dad always said a list can help you make an informed decision — not always the right one, but the most informed at that moment.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/22/lets-weigh-the-cons-and-pros-of-this-market-to-find-a-way-forward.html",
+    "published_at": "2026-11-22T23:49:44+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108556475-1795186492969-gettyimages-2305372283-AFP_D8394NG.jpeg?v=1795186549&w=1920&h=1080",
+    "collection_timestamp": "2026-11-23T03:54:18.994725+00:00",
+    "thin": false
+  },
+  {
     "id": "4e6ad453855d41c30d215a700279bbb22ba80de381f0a31e3e7a787eeefebef6",
     "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
     "summary": "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
@@ -2669,66 +2728,6 @@
     "published_at": "2026-11-17T00:00:49+00:00",
     "image_url": null,
     "collection_timestamp": "2026-11-17T00:57:08.443492+00:00",
-    "thin": false
-  },
-  {
-    "id": "0a3621d7a0fbf18e646b12b7674fd5df6032bebd8ae7e9893724184bfc4a51b5",
-    "title": "Jim Cramer says Nvidia’s leadership shake-up won’t derail the AI trade",
-    "summary": "CNBC's Jim Cramer pushed back against fears that Nvidia's leadership shake-up could unravel the AI boom.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/16/nvidia-cramer-ai-trade-leadership-change.html",
-    "published_at": "2026-11-16T23:23:47+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-17T00:57:08.443768+00:00",
-    "thin": false
-  },
-  {
-    "id": "56f6b402d0fa2d1d5216812568ca85a044c066e74805ce6614714a602e4d1fec",
-    "title": "Aschenbrenner’s Situational Awareness made AI bets again before October rout",
-    "summary": "Leopold Aschenbrenner's hedge fund, which almost collapsed over the summer, bought AI stocks before shares began tumbling.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
-    "published_at": "2026-11-16T23:05:12+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-17T00:57:08.442907+00:00",
-    "thin": false
-  },
-  {
-    "id": "fb22de81f9f24f9ad52af0384386ceff0f0269c0ca594bba680328bb19d9a9e3",
-    "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-    "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
-    "published_at": "2026-11-16T23:01:19+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-17T00:57:08.443354+00:00",
-    "thin": false
-  },
-  {
-    "id": "b5102850b0a357822c9e17aea9c15f25bf5c0c2ff063764d372f2cc62bb08819",
-    "title": "CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands take off",
-    "summary": "There's one formula for success behind the rise of trendy new Chinese fashion brands, according to Euromonitor International.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html",
-    "published_at": "2026-11-16T23:00:01+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-17T00:57:08.443198+00:00",
-    "thin": false
-  },
-  {
-    "id": "e048cb750217ecdc912b0827ff9c074ab7e54a90a4c76811a6c31bef4d28a458",
-    "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
-    "summary": "Trump’s accounts sold up to $1 million in Nvidia stock five days after he was briefed on Jensen Huang’s relationship with a suspected Chinese spy.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
-    "published_at": "2026-11-16T22:37:45+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-17T00:57:08.442622+00:00",
     "thin": false
   },
   {

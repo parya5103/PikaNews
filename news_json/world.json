@@ -1,5 +1,25 @@
 [
   {
+    "id": "b5ca861f1b60811fbe794dc719e911a37bce03fb4bba1003af2667a04b85f69b",
+    "title": "Hailee Steinfeld Confirms She’s In ‘Avengers: Doomsday’",
+    "summary": "In a nifty bit of cross promotion, Disney used its surefire blockbuster and a helpful coincidence to reveal an Avengers: Doomsday casting as well as promote a smaller animated title. Earlier today, Marvel and Walt Disney Animation posted a video of Hailee Steinfeld, who’s in Europe promoting Disney Animation’s Hexed, ahead of its release\\ next […]",
+    "category": "health",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/hailee-steinfeld-confirms-avengers-doomsday-1237231382",
+    "published_at": "2026-11-23T03:27:25+00:00",
+    "date_unverified": false,
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/TCDHAWK_G5018.jpg",
+    "collection_timestamp": "2026-11-23T03:54:18.910727+00:00",
+    "thin": false,
+    "author": "Tomt",
+    "tags": [
+      "Casting",
+      "News",
+      "Avengers: Doomsday",
+      "Hailee Steinfeld"
+    ]
+  },
+  {
     "id": "6aa2b1c4f802158cc427ce1cd0b60bb5635af570b50136b16605c820fd67d7b7",
     "title": "‘Glee’ Star Chris Colfer Says He Forgot Kurt Hummel ‘Meant So Much to People’ Because of the ‘Homophobia and Hatred’ He Experienced During the Show",
     "summary": "Chris Colfer is opening up about what it meant to play his now-beloved “Glee” character, Kurt Hummel, a month after reuniting on stage with his on-screen love interest and co-star, Darren Criss. Criss (who played Blaine Anderson on the hit show) and Colfer surprised audiences by performing “Baby It’s Cold Outside,” an homage to their […]",
@@ -784,16 +804,16 @@
     "author": "Eurostat http://ec.europa.eu/eurostat"
   },
   {
-    "id": "e301c3d5025d293462f1249d9fd903e800c3892b3739b00a85d3a61015a7fde5",
-    "title": "GDP up by 0.4% in the euro area and by 0.5% in the EU",
-    "summary": "In the third quarter of 2026, seasonally adjusted GDP increased by 0.4% in the euro area and by 0.5% in the EU, compared with the previous quarter, according to a preliminary flash estimate published by Eurostat, the statistical office of the European Union. In the second quarter of 2026, GDP had...",
+    "id": "9b823ae5b407ce003ef82dc5be3011305e29344ae53fde920cd5500c94affc3e",
+    "title": "Euro area unemployment at 6.5%",
+    "summary": "In September 2026, the euro area seasonally adjusted unemployment rate was 6.5%, stable compared with August 2026 and up from 6.3% in September 2025. The EU unemployment rate was 6.2% in September 2026, also stable compared with August 2026 and up from 6.0% in September 2025. These figures are pu...",
     "category": "world",
     "source": "Eurostat Press Releases",
-    "url": "https://ec.europa.eu/eurostat/product?code=2-30102026-ap",
+    "url": "https://ec.europa.eu/eurostat/product?code=3-30102026-bp",
     "published_at": "2026-10-30T10:00:00+00:00",
     "date_unverified": false,
     "image_url": null,
-    "collection_timestamp": "2026-11-22T23:26:23.290802+00:00",
+    "collection_timestamp": "2026-11-23T03:54:18.999774+00:00",
     "thin": false,
     "region": "europe",
     "image_policy": "none",

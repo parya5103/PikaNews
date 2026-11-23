@@ -1,5 +1,74 @@
 [
   {
+    "id": "497f963c48f7dfd358c5eb1e2db2a2c4435bbc79fdd9776d1bd838b58781eda3",
+    "title": "‘You Can See Everything’ Crosses $100M Globally, Becomes First Doc to Hit 1M Letterboxd Watches",
+    "summary": "Nathan Fielder and Lance Oppenheim's A24 documentary continues stirring conversation about Elizabeth Holmes through its sixth weekend in domestic release.",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-box-office-100-million-letterboxd-1236746421",
+    "published_at": "2026-11-23T03:29:15+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/MCDYOCA_EC124.jpg?w=1296&h=730&crop=1",
+    "collection_timestamp": "2026-11-23T03:54:18.914360+00:00",
+    "thin": false,
+    "author": "Ryan Gajewski",
+    "tags": [
+      "Movie News",
+      "Movies",
+      "A24",
+      "billy evans",
+      "box office",
+      "documentary",
+      "Elizabeth Holmes",
+      "Lance Oppenheim",
+      "Letterboxd",
+      "Nathan Fielder",
+      "You Can See Everything"
+    ]
+  },
+  {
+    "id": "6f407b03d83969b48214ba2573b3651a3971644c264473057fd670c970e3270a",
+    "title": "‘The Gilded Age’ Star Denée Benton Talks Peggy’s “Victory Lap” & “Ambitious Tension” In Her Marriage To Dr. Kirkland",
+    "summary": "SPOILER ALERT: This post contains spoilers for The Gilded Age Season 4’s fourth episode. As if a new house and husband weren’t enough, Peggy Scott (Denée Benton), now Mrs. Dr. William Kirkland, receives a letter from journalist Ida B. Wells about her newly published book in the fourth episode of Season 4 of The Gilded […]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/the-gilded-age-denee-benton-peggy-ambition-dr-kirkland-job-1237230732",
+    "published_at": "2026-11-23T03:10:00+00:00",
+    "date_unverified": false,
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/denee-benton-jordan-donica_3.jpg",
+    "collection_timestamp": "2026-11-23T03:54:18.911365+00:00",
+    "thin": false,
+    "author": "Dessi Gomez",
+    "tags": [
+      "News",
+      "Denee Benton",
+      "Sonja Warfield",
+      "The Gilded Age"
+    ]
+  },
+  {
+    "id": "255da22ff34e976d4186b78abfb6b2c628dd7a047eefcb3c35befb990daf59cb",
+    "title": "‘The Gilded Age’ Star Morgan Spector Breaks Down “Exactly The Wrong Time” For George’s [Spoiler] & “Parallels” Between Anti-Monopoly Legislation And ParaBros Merger In Season 4",
+    "summary": "SPOILER ALERT: This post contains spoilers for The Gilded Age Season 4’s fourth episode. George Russell’s gunshot wound is coming back to haunt him in a way as Season 4 of The Gilded Age reaches its midpoint. As has been building since last season when George survived an assassination attempt in his home, a troubling […]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/the-gilded-age-george-laudanum-addiction-season-4-1237231274",
+    "published_at": "2026-11-23T03:00:00+00:00",
+    "date_unverified": false,
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/morgan-spector_0.jpg",
+    "collection_timestamp": "2026-11-23T03:54:18.912113+00:00",
+    "thin": false,
+    "author": "Dessi Gomez",
+    "tags": [
+      "News",
+      "Morgan Spector",
+      "Paramount",
+      "Sonja Warfield",
+      "The Gilded Age",
+      "Warner Brothers"
+    ]
+  },
+  {
     "id": "7fca25d49307446d92cbfb736f531ae6163533707126f8c59c00733c78073b14",
     "title": "Mahershala Ali Says Having 2 Oscars “Doesn’t Matter” When Getting Cast: “It Doesn’t Translate To Anything Real”",
     "summary": "With several acclaimed roles under his belt, Mahershala Ali still finds himself on equal footing in many casting rooms. The 2x Academy Award winner recently explained that having the Oscar statuettes “doesn’t matter” in casting conversations, explaining that the coveted acting honor is “kind of just talk” and “doesn’t translate to anything real.” “It’s a […]",
@@ -58,6 +127,25 @@
       "New World Stages",
       "Off Broadway",
       "Two Strangers (Carry a Cake Across New York)"
+    ]
+  },
+  {
+    "id": "8227d08accc2b78d76d15323d6ed23e972dddd2be9dd2bb9cb1c8a30e9252911",
+    "title": "Mahershala Ali Says “There Are Not Roles for Me” in “Vast Majority of Projects,” Despite Winning Two Oscars",
+    "summary": "The actor previously took home Academy Awards for best supporting actor for 2016’s 'Moonlight' and 2018's 'Green Book.'",
+    "category": "hollywood",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/mahershala-ali-no-roles-majority-projects-despite-oscar-wins-1236760722",
+    "published_at": "2026-11-22T21:41:46+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Mahershala-Ali-getty-H-2026.png?w=1296&h=730&crop=1",
+    "collection_timestamp": "2026-11-23T03:54:18.915380+00:00",
+    "thin": false,
+    "author": "Carly Thomas",
+    "tags": [
+      "Movie News",
+      "Movies",
+      "Mahershala Ali"
     ]
   },
   {
@@ -8954,174 +9042,6 @@
       "Music",
       "Music News",
       "john summit"
-    ]
-  },
-  {
-    "id": "3f61197f9a5ab4c8dfd274ae1061a565fb7d806e9f6d89431b9d595920cd0758",
-    "title": "At Least Robert Pattinson Looks the Part…According to Ian Fleming",
-    "summary": "The Bond author commissioned a sketch of 007 in the 1950s — and it bears an uncanny resemblance to a certain British actor currently being fitted for a tuxedo.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-looks-like-james-bond-ian-fleming-sketch-1236756573",
-    "published_at": "2026-11-16T23:36:33+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-17T00:57:08.420838+00:00",
-    "thin": false,
-    "author": "Benjamin Svetkey",
-    "tags": [
-      "Movie News",
-      "Movies",
-      "Ian Fleming",
-      "James Bond",
-      "Robert Pattinson"
-    ]
-  },
-  {
-    "id": "844a16cd7f089b7365fc70496d23b9d556a7bc7d860ad1fb2a000ccb8153c5ca",
-    "title": "Chris Long To Direct First Episode Of Fox Legal Drama ‘Katie Greaves’ Starring Edie Falco",
-    "summary": "EXCLUSIVE: Two-time Emmy nominee Chris Long (The Americans) has been tapped to direct and executive produce the initial episode of Fox&#8217;s upcoming legal drama Katie Greaves (working title), starring Edie Falco. The series, which will premiere during the 2027-28 season, comes from playwright and TV writer Sharr White (Apple TV’s Presumed Innocent), Scott Free Productions [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/chris-long-direct-first-episode-katie-greaves-edie-falco-1237225773",
-    "published_at": "2026-11-16T23:33:44+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Chris-Long-Fox.jpg",
-    "collection_timestamp": "2026-11-17T00:57:08.417887+00:00",
-    "thin": false,
-    "author": "Denise Petski",
-    "tags": [
-      "News",
-      "Chris Long",
-      "Directing",
-      "Edie Falco",
-      "Fox",
-      "Katie Greaves"
-    ]
-  },
-  {
-    "id": "4b532d059e4aaf2ba7ab0eeae8e4deb5f82cede0b31c88685e69ccba375277ff",
-    "title": "John Oliver Fills in for Tom Papa at Michael J. Fox Foundation Gala After FAA Ground Stop",
-    "summary": "Friday's four-hour halt to flights taking off across the U.S. also served as fodder for Josh Johnson's stand-up set, where he poked fun at last week's Microsoft outage as well.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/news/general-news/john-oliver-tom-papa-michael-j-fox-gala-faa-ground-stop-1236756623",
-    "published_at": "2026-11-16T23:31:31+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-17T00:57:08.421019+00:00",
-    "thin": false,
-    "author": "Hilary Lewis",
-    "tags": [
-      "General News",
-      "News",
-      "David Letterman",
-      "Denis Leary",
-      "Events",
-      "John Oliver",
-      "Michael J. Fox",
-      "Red Carpet",
-      "Stephen Colbert"
-    ]
-  },
-  {
-    "id": "4b64532cce4e097b397031c718db14f14de7e5287d0fc676fc3835cbd438c463",
-    "title": "Rob Riggle Saw ‘Nickels’ As a Way to Branch Out from Comedy",
-    "summary": "Riggle and director Spencer King discuss the drama, about a man who comes to believe a neighbor may be the reincarnated spirit of his late brother.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/movies/movie-features/rob-riggle-saw-nickels-comedy-1236753351",
-    "published_at": "2026-11-16T23:21:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-17T00:57:08.421186+00:00",
-    "thin": false,
-    "author": "Aaron Couch",
-    "tags": [
-      "Movie Features",
-      "Movies",
-      "rob riggle",
-      "Spencer King"
-    ]
-  },
-  {
-    "id": "e9881c2861805fc93d39e0e1ad903193fa73a5d135ccced7283cf6fda065afee",
-    "title": "Nicolas Cage & Chris Pine To Star In Vegas Drama Series ‘American Epic’ From B.J. Novak & A24",
-    "summary": "EXCLUSIVE: Nicolas Cage and Chris Pine are set to star together in American Epic, a drama series package, which has been taken out by A24, generating interest from multiple buyers, Deadline has learned. The Office alum B.J. Novak is writing the project, which comes from Joe Hipps&#8217; A24-based company Cut To. In American Epic, in [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/nicolas-cage-chris-pine-american-epic-series-bj-novak-a24-1237222431",
-    "published_at": "2026-11-16T23:10:00+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/nicolas-cage-bj-novak-chris-pine.jpg",
-    "collection_timestamp": "2026-11-17T00:57:08.418124+00:00",
-    "thin": false,
-    "author": "Nellie Andreeva",
-    "tags": [
-      "Casting",
-      "News",
-      "A24",
-      "American Epic",
-      "B.J. Novak",
-      "Chris Pine",
-      "Nicolas Cage"
-    ]
-  },
-  {
-    "id": "1bbd1a83e628a8a55542b3be8b47b368c14fadaa9d03cc564a9058bdce0d26a4",
-    "title": "‘Spider-Man: Brand New Day’ Extended Cut Sets December Release Date in Theaters",
-    "summary": "The re-release of &#8220;Spider-Man: Brand New Day,&#8221; which features footage previously left on the cutting room floor, hits theaters on Dec. 4. Tickets go on sale Nov. 19. News that &#8220;Brand New Day&#8221; was returning to theaters with an extended cut first broke in late September. While audiences will have to wait another month to [&#8230;]",
-    "category": "hollywood",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/news/spider-man-brand-new-day-extended-cut-release-date-1236949654",
-    "published_at": "2026-11-16T23:00:00+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/MixCollage-16-Nov-2026-02-49-PM-8729.jpg",
-    "collection_timestamp": "2026-11-17T00:57:08.415347+00:00",
-    "thin": false,
-    "author": "Jack Dunn",
-    "tags": [
-      "News",
-      "Spider-Man: Brand New Day"
-    ]
-  },
-  {
-    "id": "6aa141fe74f6922c9890f8e74ca080a85613002cc6acb05c3b99d488c0ff9063",
-    "title": "‘Spider-Man: Brand New Day’ Re-Release With New Rosario Dawson Night Nurse Footage Sets Release",
-    "summary": "That re-release of the highest grossing motion picture in the U.S. and third-highest grossing worldwide, Sony&#8217;s Spider-Man: Brand New Day, which we first told you about, is hitting theaters on Dec. 4 in time for awards season. The new cut will be titled Spider-Man: [Brand New] Brand New Day. The extended cut will feature new [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/spider-man-brand-new-day-rosario-dawson-re-release-date-1237225762",
-    "published_at": "2026-11-16T23:00:00+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/SpiderMan_BrandNewBrandNewDay_152275-e1794867219113.jpg",
-    "collection_timestamp": "2026-11-17T00:57:08.418378+00:00",
-    "thin": false,
-    "author": "Anthonypauldalessandro",
-    "tags": [
-      "News",
-      "Rosario Dawson",
-      "Spider-Man: Brand New Day",
-      "Tom Holland"
-    ]
-  },
-  {
-    "id": "f9f0a06378b0a979aaa3cc4a26d310a2ebf8e4d1b901194c885527c5c4b5cbe9",
-    "title": "‘Spider-Man: Brand New Day’ Set for December Rerelease With New Scenes",
-    "summary": "Rosario Dawson's Night Nurse is among the highlights of the previously unseen footage for the extended cut, titled 'Spider-Man: [Brand New] Brand New Day.'",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/movies/movie-news/spider-man-brand-new-day-rerelease-theaters-rosario-dawson-1236756620",
-    "published_at": "2026-11-16T23:00:00+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-17T00:57:08.421383+00:00",
-    "thin": false,
-    "author": "Ryan Gajewski",
-    "tags": [
-      "Movie News",
-      "Movies",
-      "box office",
-      "Destin Daniel Cretton",
-      "Marvel Studios",
-      "Rosario Dawson",
-      "Sadie Sink",
-      "Sony Pictures",
-      "Spider-Man: Brand New Day",
-      "Tom Holland",
-      "zendaya"
     ]
   }
 ]
