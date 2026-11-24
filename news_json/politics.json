@@ -1,5 +1,63 @@
 [
   {
+    "id": "61855a02df765081e6d4c77efe3090648d711ff8b402c32f4bc332109d694316",
+    "title": "Mary J. Blige’s ‘Real Love’ Did Not Infringe on ‘Impeach the President,’ Appeals Court Rules",
+    "summary": "“The works as a whole are distinct,” the three-judge panel found",
+    "category": "politics",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/mary-j-blige-real-love-impeach-the-president-appeals-ruling-1235663099",
+    "published_at": "2026-11-23T23:18:01+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/mary-j-Blige-real-love.jpg?crop=0px%2C9px%2C1800px%2C1014px&resize=1600%2C900",
+    "collection_timestamp": "2026-11-24T01:48:01.377605+00:00",
+    "thin": false,
+    "author": "Nancy Dillon",
+    "tags": [
+      "Music",
+      "Music News",
+      "controversy",
+      "courts and crime",
+      "Mary J. Blige",
+      "Universal Music Publishing Group"
+    ]
+  },
+  {
+    "id": "f10f9c098f3bca43e43b18c8af9e33c50c480a04eef0c1a08b7d34240f61e20c",
+    "title": "Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'",
+    "summary": "Congress members of both parties are sharply questioning President Donald Trump's conclusion that Jensen Huang poses no national security risk leading Nvidia.",
+    "category": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
+    "published_at": "2026-11-23T20:22:49+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-24T01:48:01.442135+00:00",
+    "thin": false
+  },
+  {
+    "id": "2e7b6de90537760b62887fa4d067748ff49eb60bad6e2cc9c1d34e40ea22e331",
+    "title": "Trump engineered a risky comeback for Jensen Huang",
+    "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show shortly after the news came out, Trump said that Huang would \"end up on his feet.\" […]",
+    "category": "politics",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+    "published_at": "2026-11-23T17:25:12-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-24T01:48:01.388643+00:00",
+    "thin": false,
+    "author": "Lauren Feiner",
+    "tags": [
+      "AI",
+      "Analysis",
+      "Nvidia",
+      "Policy",
+      "Politics",
+      "Report",
+      "Tech"
+    ]
+  },
+  {
     "id": "93696dac720f48f47ccfe09551f725dbac2d0d550723c6e389b6e49b400c1a73",
     "title": "Protesters storm Meta offices in India",
     "summary": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leaders and warned of more protests to come. The Congress party has criticized Meta […]",

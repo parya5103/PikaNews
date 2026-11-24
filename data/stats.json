@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-11-23T14:00:30.423204+00:00",
+  "timestamp": "2026-11-24T01:47:53.684668+00:00",
   "total_fetched": 394,
-  "new_articles": 111,
-  "duplicates": 283,
+  "new_articles": 161,
+  "duplicates": 233,
   "errors": 1,
   "expired_articles": 0,
   "articles_without_valid_date": 10,
@@ -28,15 +28,16 @@
     "NOAA Climate.gov": 10
   },
   "by_category": {
-    "entertainment": 35,
-    "business": 12,
-    "hollywood": 9,
-    "health": 5,
-    "technology": 13,
-    "science": 3,
-    "gaming": 7,
+    "entertainment": 41,
+    "hollywood": 12,
+    "health": 6,
+    "gaming": 24,
+    "technology": 19,
+    "politics": 3,
+    "business": 19,
     "climate": 1,
-    "sports": 22,
-    "world": 4
+    "sports": 29,
+    "world": 2,
+    "science": 5
   }
 }
