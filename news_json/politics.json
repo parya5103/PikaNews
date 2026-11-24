@@ -1,5 +1,67 @@
 [
   {
+    "id": "d7a79e9401f36b539d16aeabb5c2dd83310853df5caa1508da74ad448999bca6",
+    "title": "Two goals in 15 games - what's going on with Gyokeres?",
+    "summary": "Arsenal have made an impressive start to the campaign but it has been a frustrating one for striker Viktor Gyokeres.",
+    "category": "politics",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cklylr15gr2do",
+    "published_at": "2026-11-24T06:45:27+00:00",
+    "date_unverified": false,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d238/live/f4fcc0e0-e76e-11f1-ae0a-d1908652a433.jpg",
+    "collection_timestamp": "2026-11-24T11:59:34.054394+00:00",
+    "thin": false
+  },
+  {
+    "id": "aeb3e5746059b032fa97e7c5e02fb2b48ee7908720176f721aa836ae5e20b39a",
+    "title": "115 days, 39 private-jet flights, one election - Infantino's globetrotting",
+    "summary": "Fifa president Gianni Infantino's globetrotting by private jet since his plan to sell off a stake in the World Cup has come under scrutiny.",
+    "category": "politics",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cmkgk22w3vlvo",
+    "published_at": "2026-11-24T06:16:53+00:00",
+    "date_unverified": false,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a18/live/c4779660-e5bc-11f1-a188-ff49e70cc466.jpg",
+    "collection_timestamp": "2026-11-24T11:59:34.053492+00:00",
+    "thin": false
+  },
+  {
+    "id": "fcefb6a63864e2dde509cc3f49022a6b8d1307fb1700aae80d058205baebfbe5",
+    "title": "‘Elephants in the Fog’ Adds Mexico, South Korea, Portugal Sales as Oscar Campaign Visits U.N. (EXCLUSIVE)",
+    "summary": "Best Friend Forever has closed new sales deals for “Elephants in the Fog” in Mexico, South Korea and Portugal, as Nepal’s Oscar entry for best international feature film builds a campaign around impact screenings that place the Kinnar community it portrays at the center of policy conversations. Tulip will distribute in Mexico, Film Dabin in […]",
+    "category": "politics",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/festivals/elephants-fog-mexico-south-korea-portugal-sales-1236956767",
+    "published_at": "2026-11-24T05:50:13+00:00",
+    "date_unverified": false,
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Elephants-in-the-Fog-at-UN.jpg",
+    "collection_timestamp": "2026-11-24T11:59:34.027270+00:00",
+    "thin": false,
+    "author": "Naman Ramachandran",
+    "tags": [
+      "Asia",
+      "Festivals",
+      "Global",
+      "News",
+      "Best Friend Forever",
+      "Elephants in the Fog",
+      "International Film Festival Of India"
+    ]
+  },
+  {
+    "id": "6515ba08c6649d1084a0cba788d555fbebb8eef77e1b3635ca32126f6aa69955",
+    "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
+    "summary": "Iran said three oil tankers caught fire after hitting naval mines in the Strait of Hormuz, as the U.S. escalates sanctions aimed at cutting off Tehran's financial lifelines.",
+    "category": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+    "published_at": "2026-11-24T05:05:08+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-24T11:59:34.050709+00:00",
+    "thin": false
+  },
+  {
     "id": "61855a02df765081e6d4c77efe3090648d711ff8b402c32f4bc332109d694316",
     "title": "Mary J. Blige’s ‘Real Love’ Did Not Infringe on ‘Impeach the President,’ Appeals Court Rules",
     "summary": "“The works as a whole are distinct,” the three-judge panel found",

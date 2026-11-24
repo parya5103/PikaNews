@@ -1,5 +1,97 @@
 [
   {
+    "id": "350a28e7e0bd26bf8bca7ac4cbfaaf704fad4cce7e9394fe83bc924a038c35f8",
+    "title": "GTA 6 Hacker Releases Full Xbox Build, And PC Modders Are Already Trying To Get It Running",
+    "summary": "Infamous GTA 6 Leaker Cyberleek resurfaced last week , threatening to release a crucial file for the Xbox build of GTA 6 that could be used to create an unofficial PC port of the game. The hacker originally promised to publicly drop the .exe file for this version of the game depending on whether their memecoin hit a certain market cap, and has been taunting publisher Take-Two Interactive for failing to prevent the game files from leaking online. \"Months of takedowns, subpoenas, and wallet-tracin",
+    "category": "gaming",
+    "source": "GameSpot",
+    "url": "https://www.gamespot.com/articles/gta-6-hacker-releases-full-xbox-build-and-pc-modders-are-already-trying-to-get-it-running",
+    "published_at": "2026-11-24T11:23:42+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/GTA-6-launch-screens-31-1.jpg?w=300",
+    "collection_timestamp": "2026-11-24T11:59:34.044968+00:00",
+    "thin": false,
+    "author": "Darryn Bonthuys",
+    "tags": [
+      "Gaming,News"
+    ]
+  },
+  {
+    "id": "6753e9a0cefdc57d5185c2f9ed26de6703db56e93e3f5e980a3cccba73c827b3",
+    "title": "Scott Pilgrim Is Officially Coming to Fortnite",
+    "summary": "Ramona's exes won't be the only opponents Scott Pilgrim must face as he jumps onto the Battle Royale island in Fortnite.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/fortnite-scott-pilgrim-confirmed",
+    "published_at": "2026-11-24T10:31:49+00:00",
+    "date_unverified": false,
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/mv5bnjrlnzhkntmtmmexmi00otu2lwfkyjutmdzjnzk2odk0mgezxkeyxkfqcgc-_v1_.jpg",
+    "collection_timestamp": "2026-11-24T11:59:34.048338+00:00",
+    "thin": false,
+    "author": "Ashely Claudino",
+    "tags": [
+      "News",
+      "Fortnite",
+      "Scott Pilgrim vs. the World",
+      "Scott Pilgrim Takes Off"
+    ]
+  },
+  {
+    "id": "1aeaafe7d8373be44c9c7813bdb09bffffb3442cefba3e0f5083bed427e4f607",
+    "title": "GTA 6 is Officially the Biggest Launch in PlayStation History",
+    "summary": "Sony just shared some mind-boggling stats about GTA 6 launch, making it the most impressive in PlayStation history.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/gta-6-biggest-launch-in-ps-history",
+    "published_at": "2026-11-24T10:04:01+00:00",
+    "date_unverified": false,
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/vintage_vice_city_pack_exclusive_looks_01-1.jpg",
+    "collection_timestamp": "2026-11-24T11:59:34.048676+00:00",
+    "thin": false,
+    "author": "Francesco Cacciatore",
+    "tags": [
+      "News",
+      "Grand Theft Auto 6"
+    ]
+  },
+  {
+    "id": "a172cb883bb057c36a11b562aff09a5927d9eac9ca44ad6d31d2e52ee8c85cfb",
+    "title": "10 Funniest ‘Far Side’ Comics Parodying Disney Charcters",
+    "summary": "Gary Larson’s comic strip The Far Side loved to poke fun at Disney charcters. Here are the 10 best examples",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/10-funniest-far-side-comics-parodying-disney",
+    "published_at": "2026-11-24T09:00:17+00:00",
+    "date_unverified": false,
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/screen-shot-2026-11-21-at-5-12-42-pm.jpg",
+    "collection_timestamp": "2026-11-24T11:59:34.048995+00:00",
+    "thin": false,
+    "author": "Brian VanHooker",
+    "tags": [
+      "Analysis"
+    ]
+  },
+  {
+    "id": "2d50e121036ac349ef139f8a1b62bf1394ade9b90c8e89a90782f5f1bbd634f3",
+    "title": "GTA 6's Best Easter Egg Is a Classic Tom Cruise Crime-Thriller You Can Stream For Free",
+    "summary": "A GTA 6 taxi encounter echoes Michael Mann’s Collateral, starring Tom Cruise and Jamie Foxx. Watch it free on Pluto TV or stream it on Paramount Plus.",
+    "category": "gaming",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/gta-6-collateral-easter-egg-streaming-for-free",
+    "published_at": "2026-11-24T02:30:17+00:00",
+    "date_unverified": false,
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/collateral-tom-cruise.jpg",
+    "collection_timestamp": "2026-11-24T11:59:34.049848+00:00",
+    "thin": false,
+    "author": "Corey Plante",
+    "tags": [
+      "What to Watch",
+      "Collateral",
+      "Grand Theft Auto 6",
+      "Movies"
+    ]
+  },
+  {
     "id": "20d2657714833b7804cbaef386ec6d6d7c4f76647d7ba187fcdf95a01df62379",
     "title": "25 Years Later, GTA 3 Is Still the Most Fascinating Open-World Experiment",
     "summary": "Rockstar's 2001 GTA 3 changed the open-world game forever with its urban playground of Liberty City.",
@@ -4160,285 +4252,6 @@
       "GOTY Watch",
       "Grand Theft Auto 6",
       "Control Resonant",
-      "Crimson Desert"
-    ]
-  },
-  {
-    "id": "2b04b82ffa5de06ab004054a966fd4863d369d70006806ca0bfb33eed0a90b5a",
-    "title": "BioWare Is Dead, But Mass Effect’s Spiritual Successor Exodus Just Gave Us A Glimpse of A Spicy Romance",
-    "summary": "For the first time since its announcement during December 2023's The Game Awards, players are getting a look at the female player-character from its upcoming sci-fi RPG Exodus --which was full of Mass Effect DNA back when we previewed it in September. The default female version of main character Jun Aslan was revealed today via a seven-minute featurette showing off both female-Jun's face and a bit more of the game itself. The trailer also provided a glimpse of a brief romance scene between femal",
-    "category": "gaming",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/bioware-is-dead-but-mass-effects-spiritual-successor-exodus-just-gave-us-a-glimpse-of-a-spicy-romance",
-    "published_at": "2026-11-17T23:46:24+00:00",
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Exodus-romance.png",
-    "collection_timestamp": "2026-11-18T01:08:20.372624+00:00",
-    "thin": false,
-    "author": "Claire Lewis",
-    "tags": [
-      "Gaming,News"
-    ]
-  },
-  {
-    "id": "91f6db8a8f6e20f9e3de03585d16c1a678e28977daf1b9ae411178abe3f4b55f",
-    "title": "‘Grand Theft Auto VI’ Speeds Away With Eight Game Awards Nominations For 2026",
-    "summary": "Grand Theft Auto VI already has racked up more than $1B in presales ahead of its release on Thursday, and now the hit title is being showered with awards glory as well. The Rockstar Games release notched eight Game Awards nominations when that list was announced today, including Game of The Year. The other Game [&#8230;]",
-    "category": "gaming",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/grand-theft-auto-vi-game-awards-nominations-1237227159",
-    "published_at": "2026-11-17T23:28:21+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/the-game-awards-2026-007-gta-zelda.jpg",
-    "collection_timestamp": "2026-11-18T01:08:20.358712+00:00",
-    "thin": false,
-    "author": "Tomt",
-    "tags": [
-      "News",
-      "Grand Theft Auto VI",
-      "The Game Awards"
-    ]
-  },
-  {
-    "id": "9b88bb3ce61842e0732e7ea77e2baf83cd26ffaba87ccfd4ab2279fd8c479d52",
-    "title": "Resident Evil Requiem’s Game Awards Nominee Is Ready for Resident Evil 10",
-    "summary": "Resident Evil Requiem was nominated for a number of TGA awards, including for Angela Sant'Albano. The actor thinks Grace could be in a sequel.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/resident-evil-requiem-grace-angela-santalbano-actor-game-awards-nomination-2026",
-    "published_at": "2026-11-17T23:00:17+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/grace-ashcroft-holding-flashlight.png",
-    "collection_timestamp": "2026-11-18T01:08:20.380334+00:00",
-    "thin": false,
-    "author": "Matt Patches",
-    "tags": [
-      "Interview",
-      "Resident Evil Requiem"
-    ]
-  },
-  {
-    "id": "7979324a2ef47ddb40267780bb636011834891718798f6c5c6578b14f8b8a23c",
-    "title": "When Are The Game Awards 2026: Date, Time, and How to Watch",
-    "summary": "Everything you need to know about where and when to watch The Game Awards 2026, including date, start time, and how long The Game Awards are.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/game-awards-2026-how-to-watch-when-date-time",
-    "published_at": "2026-11-17T21:20:01+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/11/signin-bg.jpg",
-    "collection_timestamp": "2026-11-18T01:08:20.380488+00:00",
-    "thin": false,
-    "author": "Elijah Gonzalez",
-    "tags": [
-      "Gaming",
-      "The Game Awards",
-      "Grand Theft Auto 6"
-    ]
-  },
-  {
-    "id": "d2a1361c2abffdc3a2db6d375edc9b3f8a3f9815f475d559b7f690ae77372c3b",
-    "title": "Magic: The Gathering Boss Reveals the Next Marvel Set’s Surprising Origin Story",
-    "summary": "Aaron Forsythe said Magic’s original narrative got ‘total buy-in’ from Marvel",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/mtg-marvels-darkhold-destiny-story-interview",
-    "published_at": "2026-11-17T21:00:17+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/magic-darkhold-destiny-3.jpg",
-    "collection_timestamp": "2026-11-18T01:08:20.380633+00:00",
-    "thin": false,
-    "author": "Sam Nelson",
-    "tags": [
-      "Interview",
-      "Magic: The Gathering",
-      "Marvel's Guardians of the Galaxy",
-      "Marvel",
-      "Tabletop Games",
-      "Trading Card Game"
-    ]
-  },
-  {
-    "id": "a10a814b56cf5b6c3f1a4d005311994427bbcd3446f20ed5086e083da0f28b7e",
-    "title": "This Fighting Game Is Nominated For A TGA Despite Development Shutting Down",
-    "summary": "Earlier today, Geoff Keighley announced all of the nominees for The Game Awards 2026 , the annual celebration of gaming held in Los Angeles. Among expected nominees Grand Theft Auto VI, The Legend of Zelda: Ocarina of Time, and Control Resonant was one surprising name: 2XKO has been nominated for Best Fighting Game, despite Riot Games announcing the end of the game's lifecycle earlier this year. Riot announced that \"active development\" for the fighting game, featuring characters from League of L",
-    "category": "gaming",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/this-fighting-game-is-nominated-for-a-tga-despite-development-shutting-down",
-    "published_at": "2026-11-17T20:59:17+00:00",
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/2xko.jpg",
-    "collection_timestamp": "2026-11-18T01:08:20.373199+00:00",
-    "thin": false,
-    "author": "Jason Fanelli",
-    "tags": [
-      "Gaming,News"
-    ]
-  },
-  {
-    "id": "8d446dcf99cd7cd499a44cc35a0997552ff6347b0327e8ecf973f883080fdab1",
-    "title": "GTA 6's Game Awards Nominations Are Exactly What Everyone Predicted",
-    "summary": "GTA 6 earned eight nomination at the 2026 Game Awards — the most of any nominated game, in pretty much every category it could've.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/gta-6-game-awards-nominations-expectations",
-    "published_at": "2026-11-17T20:52:32+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/vice_city_18-1.jpg",
-    "collection_timestamp": "2026-11-18T01:08:20.380766+00:00",
-    "thin": false,
-    "author": "Ari Notis",
-    "tags": [
-      "Analysis",
-      "Grand Theft Auto 6"
-    ]
-  },
-  {
-    "id": "ba647da470d93017e1584584ee7f8234074e74d8c286dbaf93631cfe6ba126df",
-    "title": "Target Officially Reveals Big Pokémon TCG Deals On Black Friday",
-    "summary": "Target is expected to have a wide range of Pokémon 30th Anniversary TCG products for sale as doorbusters on Black Friday",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/target-black-friday-2026-pokemon-sale-30th-anniversary-product-list",
-    "published_at": "2026-11-17T20:47:30+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/10/poke-mon-tcg-pocket_-dual-fusion-_-official-trailer-1-13-screenshot.jpeg",
-    "collection_timestamp": "2026-11-18T01:08:20.380893+00:00",
-    "thin": false,
-    "author": "Patricia Hernandez",
-    "tags": [
-      "News",
-      "Pokemon",
-      "Pokemon Trading Card Game"
-    ]
-  },
-  {
-    "id": "b3b7257cbe00e4cf44c04d646b322445950a5e691774b9db4c7406d169bb0dff",
-    "title": "We've almost reached Peak Sauron",
-    "summary": "Rings of Power showrunner Patrick McKay says Sauron isn't the Dark Lord yet... but he's getting there.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/video/we-ve-almost-reached-peak-sauron",
-    "published_at": "2026-11-17T20:34:00+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/we-ve-almost-reached-peak-sauron.png",
-    "collection_timestamp": "2026-11-18T01:08:20.381003+00:00",
-    "thin": false,
-    "author": "Corey Plante",
-    "tags": [
-      "No social",
-      "The Lord of the Rings: The Rings of Power"
-    ]
-  },
-  {
-    "id": "ead66c32efb205133798580ec748e9d2c64d909b011bc70f0873926885ce58ae",
-    "title": "Civilization Dev Lays Off 1/3 Of Staff, New XCOM Game Facing “Development Struggles” – Report",
-    "summary": "The video game industry's woes continue as Take-Two's 2K division has confirmed that one third of the staff at Civilization and XCOM developer Firaxis Games is being laid off. Bloomberg confirmed the cuts, which will impact around 60 people. As part of the downsizing, Firaxis studio head Heather Hazen is leaving. A spokesperson for Firaxis confirmed the restructuring to Bloomberg, saying the cuts are part of an effort to \"focus on design, technology, and player experience.\" \"These decisions are",
-    "category": "gaming",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/civilization-dev-lays-off-1-3-of-staff-new-xcom-game-facing-development-struggles-report",
-    "published_at": "2026-11-17T20:05:42+00:00",
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/civ7.png",
-    "collection_timestamp": "2026-11-18T01:08:20.374567+00:00",
-    "thin": false,
-    "author": "Eddie Makuch",
-    "tags": [
-      "Gaming,News"
-    ]
-  },
-  {
-    "id": "5fa338025a4a52a116e641ccbb12c2de28d7822523fb148dd1d7f1abfb1183c0",
-    "title": "007 First Light Might Be The End Of The Line For James Bond’s Favorite Watch",
-    "summary": "After months of searching and numerous potential frontrunners, Robert Pattinson has been cast as the next James Bond . It's lead to some questions about whether he's too famous or too old for the role, whether or not he looks like Bond, and just how different his portrayal might be to those that came before him. For some others, however, the questions is far more direct: What watch is he going to wear? James Bond has long had recognizable brand associations, but one that has endured has been the",
-    "category": "gaming",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/007-first-light-might-be-the-end-of-the-line-for-james-bonds-favorite-watch",
-    "published_at": "2026-11-17T19:57:00+00:00",
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/omega-seamaster-diver-300m-chronograph-007-first-light-lead.webp",
-    "collection_timestamp": "2026-11-18T01:08:20.375405+00:00",
-    "thin": false,
-    "author": "Alessandro Barbosa",
-    "tags": [
-      "Gaming,News"
-    ]
-  },
-  {
-    "id": "108ad3fecff6ffe4770c52f256c0752af9206ded6f605d7b3eaf42593f172de3",
-    "title": "These Are Some Of The Biggest Snubs At The Game Awards 2026",
-    "summary": "The nominees for The Game Awards have been announced. Some of the biggest games--and those that aren't out yet--make appearances on the list, including Grand Theft Auto 6 and Phantom Blade Zero , but some of the games could've--and maybe should've--been nominated in multiple categories. So, let's go over some of the biggest snubs at this year's TGAs. Let's start with the big one: Game of the Year. You've got six games nominated here: 007 First Light , Control Resonant , Grand Theft Auto 6, Phant",
-    "category": "gaming",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/these-are-some-of-the-biggest-snubs-at-the-game-awards-2026",
-    "published_at": "2026-11-17T19:47:55+00:00",
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/tbod-image.jpg",
-    "collection_timestamp": "2026-11-18T01:08:20.376239+00:00",
-    "thin": false,
-    "author": "Levi Winslow",
-    "tags": [
-      "Gaming,News"
-    ]
-  },
-  {
-    "id": "636e581bf075cd97512fc924b13db8f9af00792d8cc3c6e2425bad92a4ea7eaa",
-    "title": "This GTA 6-Inspired Keycap Set Will Make The Wait For A PC Version Slightly Easier",
-    "summary": "Grand Theft Auto 6 is now just a couple of hours away in some parts of the world. That is, if you're planning to play on either Xbox or PlayStation. The wait for a PC version is still ongoing, with Rockstar yet to indicate when it plans to release that port. In the meantime, however, you can start ensuring that your setup is at least ready for when it arrives. High-end keycap manufacturer GMK has revealed a new set that is clearly inspired by GTA 6 and Vice City, without explicitly mentioning ei",
-    "category": "gaming",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/this-gta-6-inspired-keycap-set-will-make-the-wait-for-a-pc-version-slightly-easier",
-    "published_at": "2026-11-17T19:43:12+00:00",
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/W1AT_CloseUp_NeonVice-withoutNovelties_Edited_81fbc700-72cd-4e5f-99e7-3106364ba0fe.jpg",
-    "collection_timestamp": "2026-11-18T01:08:20.376883+00:00",
-    "thin": false,
-    "author": "Alessandro Barbosa",
-    "tags": [
-      "Gaming,News"
-    ]
-  },
-  {
-    "id": "aa1fb061de1fd8060d91beacfeb0557f9d36c2df2cdff97e362a1e5bbb665308",
-    "title": "Dune Magic: The Gathering Crossover Officially Confirmed After Major Leak",
-    "summary": "Dune is coming to Magic: The Gathering with a new Secret Lair superdrop featuring new legendary creatures and reprints.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/dune-magic-the-gathering-secret-lair-superdrop-november-2026",
-    "published_at": "2026-11-17T19:22:17+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/01/Timothee-Chalamet-Paul-Atreides-Zendaya-Chani-Dune-Part-2.jpg",
-    "collection_timestamp": "2026-11-18T01:08:20.381126+00:00",
-    "thin": false,
-    "author": "Sam Hill",
-    "tags": [
-      "Tabletop Games",
-      "Dune",
-      "Magic: The Gathering",
-      "Wizards of the Coast",
-      "ER"
-    ]
-  },
-  {
-    "id": "d4925b34b2804407d45b842204320b0ff1c0396677d1a6e34fcec794142f3bde",
-    "title": "What Does It Take For World Of Warcraft To Be Nominated At The Game Awards?",
-    "summary": "The nominees for 2026's The Game Awards have been revealed, and just like every year before it, there is a glaring omission in the Best Ongoing Game Category: World of Warcraft . This year's nominees are Arc Raiders, Fortnite, No Man's Sky, The Witcher 3: Wild Hunt, and Final Fantasy 14 Online. Of particular note is Square Enix's MMORPG, which has been nominated in the category every year since 2021. Developer Blizzard's MMO, on the other hand, is nowhere to be seen.&nbsp; WoW is among the most",
-    "category": "gaming",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/what-does-it-take-for-world-of-warcraft-to-be-nominated-at-the-game-awards",
-    "published_at": "2026-11-17T19:20:56+00:00",
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/WoW-Forever-Game-Awards-Snub.jpg",
-    "collection_timestamp": "2026-11-18T01:08:20.378019+00:00",
-    "thin": false,
-    "author": "Cameron Koch",
-    "tags": [
-      "Gaming,News"
-    ]
-  },
-  {
-    "id": "55f55c95596a9676d86e1bdd80da63789cd6e7d066fae17a2700a5c0b040105d",
-    "title": "8 Biggest Snubs in the 2026 Game Awards Nominations",
-    "summary": "The 2026 Game Awards snubbed several major games from several key categories. Here are the biggest Game Awards nominee snubs.",
-    "category": "gaming",
-    "source": "Polygon",
-    "url": "https://www.polygon.com/game-awards-2026-nominees-snubs",
-    "published_at": "2026-11-17T19:06:38+00:00",
-    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/09/crimson-desert-dlc.jpg",
-    "collection_timestamp": "2026-11-18T01:08:20.381249+00:00",
-    "thin": false,
-    "author": "Jen Glennon",
-    "tags": [
-      "Analysis",
-      "The Game Awards",
-      "Fire Emblem: Fortune's Weave",
-      "Fields of Mistria",
-      "Marathon",
       "Crimson Desert"
     ]
   }

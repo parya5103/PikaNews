@@ -1,5 +1,50 @@
 [
   {
+    "id": "9a7b5ec3498ea4d81020f151704caf15bd14327c3a9c1b2fb9a1c8ee73de807d",
+    "title": "Asian tech stocks recover from ‘collateral damage’ of Jensen Huang’s departure",
+    "summary": "Investors piled back into the tech market, following the reinstatement of Nvidia CEO Jensen Huang by its board.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+    "published_at": "2026-11-24T09:46:01+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108547192-1794278392881-gettyimages-2285692291-TAIWAN_TSMC_EARNS.jpeg?v=1794278413&w=1920&h=1080",
+    "collection_timestamp": "2026-11-24T11:59:34.052498+00:00",
+    "thin": false
+  },
+  {
+    "id": "4dec139d5e5497b7f232bc8c66444ac29cf756b9d8b5db4977ece508360342f2",
+    "title": "Signal joins United Airlines, banks in limiting AI agents over customer risks",
+    "summary": "Privacy-focused messaging application Signal has joined United Airlines and JPMorgan Chase in implementing restrictions around artificial intelligence agents.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
+    "published_at": "2026-11-24T07:25:41+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-24T11:59:34.051567+00:00",
+    "thin": false
+  },
+  {
+    "id": "e3d3368a6c8bd6ba4c32659f519671ea5448bad59971b24fab13488a47bfbe48",
+    "title": "From Beauty to Tech, Deep Black Friday Deals Land on the New Brand+ Marketplace via AliExpress",
+    "summary": "Launched late last year, the Brand+ channel is a dedicated shopping destination for products from trusted brands.",
+    "category": "technology",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/lifestyle/shopping/brand-plus-aliexpress-black-friday-sale-2026-1236761706",
+    "published_at": "2026-11-24T02:50:07+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-24T11:59:34.035140+00:00",
+    "thin": false,
+    "author": "Erin Lassner",
+    "tags": [
+      "Lifestyle",
+      "Shopping",
+      "shopping"
+    ]
+  },
+  {
     "id": "600f76bf56a54dc8c5924e66ca259863ea26fe0967e669928615baef5c78372b",
     "title": "Robert Glasper on the State of R&B, Kendrick Lamar’s ‘To Pimp a Butterfly’ & Why ‘AI Can’t Copy This’",
     "summary": "The five-time Grammy-winning musician also discusses jazz's influence on hip-hop, scoring upcoming films & helping shape the next generation of Blue Note Records.",
@@ -2208,36 +2253,6 @@
       "Agent365",
       "copilot",
       "Microsoft ignite"
-    ]
-  },
-  {
-    "id": "831ad82acdbbbf49efadf378e340e8a5669e6d2795d26111266e6bf49e0c8f98",
-    "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
-    "summary": "Major outages showcase the risks of interconnected tech in the age of AI.",
-    "category": "technology",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
-    "published_at": "2026-11-17T22:03:57+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-18T01:08:20.381505+00:00",
-    "thin": false
-  },
-  {
-    "id": "71aabc306bb7236ea33fcf63fb21133663fe4f4ef670d67358145771ec809f7e",
-    "title": "Satya Nadella says he’s AGI-pilled now",
-    "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI pilled in the sense that at an economy level, what is the political economy's organization around AGI?\" he asked [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
-    "published_at": "2026-11-17T18:41:18-05:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-18T01:08:20.368259+00:00",
-    "thin": false,
-    "author": "Nilay Patel",
-    "tags": [
-      "AI",
-      "Microsoft",
-      "Tech"
     ]
   },
   {
