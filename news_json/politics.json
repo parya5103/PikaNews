@@ -1,5 +1,39 @@
 [
   {
+    "id": "d008594a56a05e8012cfc38f9fed93575b6ae9214d39352d88e23a50a9379093",
+    "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
+    "summary": "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S. national security.",
+    "category": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
+    "published_at": "2026-11-24T21:13:39+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108556418-1795181059322-gettyimages-2305377948-AFP_D83H4EV.jpeg?v=1795554551&w=1920&h=1080",
+    "collection_timestamp": "2026-11-24T22:18:25.245117+00:00",
+    "thin": false
+  },
+  {
+    "id": "6fbf1da8cfcf45f21ae581eb632cb9ed4f08782b77fce91bac1642070873c9a9",
+    "title": "The clock is running out for America’s most contentious spying law",
+    "summary": "Weeks before the end of the legislative session, some members of Congress are scrambling to reauthorize a controversial warrantless wiretapping authority, possibly by attaching it to a must-pass military spending bill. Sen. Mike Rounds (R-SD) told Politico that Section 702 of the Foreign Intelligence Surveillance Act (FISA) could be attached to the National Defense Authorization […]",
+    "category": "politics",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/1041568/fisa-ndaa-blue-wave",
+    "published_at": "2026-11-24T15:00:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-24T22:18:25.193127+00:00",
+    "thin": false,
+    "author": "Gaby Del Valle",
+    "tags": [
+      "Policy",
+      "Politics",
+      "Privacy",
+      "Report",
+      "Tech"
+    ]
+  },
+  {
     "id": "d7a79e9401f36b539d16aeabb5c2dd83310853df5caa1508da74ad448999bca6",
     "title": "Two goals in 15 games - what's going on with Gyokeres?",
     "summary": "Arsenal have made an impressive start to the campaign but it has been a frustrating one for striker Viktor Gyokeres.",

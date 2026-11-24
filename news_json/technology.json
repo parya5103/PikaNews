@@ -1,5 +1,254 @@
 [
   {
+    "id": "71419b2a82f62d624bea59ae417a28239cab0d25db9576c1eac87f9859333976",
+    "title": "T-Mobile Kicks Off Holiday Deals With Up to $1,200 Off Apple’s New iPhone Duo and iPhone 18 Pro",
+    "summary": "T-Mobile is getting an early start on the holiday shopping season, rolling out a slate of new deals on some of the year’s biggest smartphone releases, including Apple’s new iPhone 18 Pro and its first-ever foldable phone, the iPhone Duo. The wireless carrier is offering up to $1,200 off both devices with qualifying trade-ins on […]",
+    "category": "technology",
+    "source": "Variety",
+    "url": "https://variety.com/2026/shopping/news/t-mobile-holiday-deals-2026-apple-iphone-duo-iphone-18-pro-1236957422",
+    "published_at": "2026-11-24T21:49:52+00:00",
+    "date_unverified": false,
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/GettyImages-2305039335.jpg",
+    "collection_timestamp": "2026-11-24T22:18:25.148882+00:00",
+    "thin": false,
+    "author": "Tim Chan",
+    "tags": [
+      "News",
+      "Apple",
+      "iPhone",
+      "T-mobile"
+    ]
+  },
+  {
+    "id": "cb2b637a7ef096c015b478ae604ffd9bb27be6baeddc268f65788e14648b7667",
+    "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
+    "summary": "Meta doesn't serve ads in its Muse personal agent, but the tool is already boosting the company's ad business, a senior executive told CNBC.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
+    "published_at": "2026-11-24T20:37:40+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-24T22:18:25.248037+00:00",
+    "thin": false
+  },
+  {
+    "id": "3520ae43155fa28f2e5111a5b6fecd4ea7e694d7147c651d40dfe5022f4ca717",
+    "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+    "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage",
+    "published_at": "2026-11-24T18:47:57+00:00",
+    "date_unverified": false,
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/prime-air-mk30-drone-package-loading-1152x648.jpg",
+    "collection_timestamp": "2026-11-24T22:18:25.198085+00:00",
+    "thin": false,
+    "author": "Jeremy Hsu",
+    "tags": [
+      "AI",
+      "Tech",
+      "AI drones",
+      "Amazon",
+      "amazon drones",
+      "delivery drones",
+      "drones",
+      "FAA",
+      "Federal Aviation Administration"
+    ]
+  },
+  {
+    "id": "9433dde811b9c7dcc27c88e1c781ac4c3f2b6a9ac9b22502838308bc18f7a924",
+    "title": "The Verge’s 2026 holiday gift guide for moms",
+    "summary": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as endless as they are daunting, but fear not, we've […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
+    "published_at": "2026-11-24T16:09:59-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MOMS.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-24T22:18:25.190580+00:00",
+    "thin": false,
+    "author": "Ryan Waniata",
+    "tags": [
+      "Gadgets",
+      "Gift Guides",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "09b3be398e61137cf1e46281ee68e658d7826fb02b443138b3469a8c91a7217c",
+    "title": "TikTok was down",
+    "summary": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do. Videos sometimes wouldn't load in the For You feed on my iPhone, and search results occasionally didn't show up as expected in the app on iOS or Android, or on the web. Even trying […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
+    "published_at": "2026-11-24T15:27:27-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-24T22:18:25.191371+00:00",
+    "thin": true,
+    "author": "Jay Peters",
+    "tags": [
+      "Creators",
+      "News",
+      "Social Media",
+      "Tech",
+      "TikTok"
+    ]
+  },
+  {
+    "id": "49d123fe65877e40381a1af6ae5c096c0a4783a6d656e115747d8f5d8ae1c140",
+    "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+    "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+    "published_at": "2026-11-24T15:02:03-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2300373989.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-24T22:18:25.192309+00:00",
+    "thin": false,
+    "author": "Emma Roth",
+    "tags": [
+      "AI",
+      "Business",
+      "News",
+      "Nvidia",
+      "Policy",
+      "Politics",
+      "Tech"
+    ]
+  },
+  {
+    "id": "fd73e427c258db6d578f8b9bfb678ff604c7abd1784018fbf6fe44f35268c252",
+    "title": "Amazon is knocking almost $50 off six months of Apple TV",
+    "summary": "Streaming deals aren’t as plentiful as they used to be, but they’re still around if you know where to look. One that caught our eye is an offer for Apple TV for those with an Amazon account in the US. Apple’s streaming service usually costs $14.99 per month, but following this page will let you […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1040046/apple-tv-subscription-streaming-sale-deal-black-friday",
+    "published_at": "2026-11-24T14:00:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/Severance_Photo_021019.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-24T22:18:25.193984+00:00",
+    "thin": false,
+    "author": "Cameron Faulkner",
+    "tags": [
+      "Black Friday",
+      "Cyber Monday",
+      "Deals",
+      "Gadgets",
+      "Streaming",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "09ff01fa9f5aa23f3ce645ddc83794447e84d6a75d40536b8e0613e5f77047e3",
+    "title": "Now Firefox can select which sites use its VPN, and clear your browsing history with one click",
+    "summary": "Mozilla released Firefox 161 on Tuesday with a new setting you can use to choose which pages automatically open with the browser's VPN active. Using the \"Manage VPN rules\" option in Firefox's VPN panel, you can set it to \"always on\" or \"always off\" for specific sites, so you don't have to toggle it manually […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1041474/firefox-161-vpn-rules-fire-button",
+    "published_at": "2026-11-24T13:44:57-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/firefox-vpn-rules.webp?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-24T22:18:25.194639+00:00",
+    "thin": false,
+    "author": "Stevie Bonifield",
+    "tags": [
+      "News",
+      "Tech",
+      "Web"
+    ]
+  },
+  {
+    "id": "ff3b848a0194b2c7e0f9841df180e65e6049963329d9f361945e6f16991006ee",
+    "title": "Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday",
+    "summary": "Between putting up decorations, entertaining guests, and meal prep, the holidays are busy enough without worrying about vacuuming. Thankfully, a proper robot vacuum can do the dirty work while you focus on more enjoyable things. And thanks to Black Friday, you can pick up some of the best we’ve tested for up to 60 percent […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026",
+    "published_at": "2026-11-24T12:30:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/testing-matic-cues-gesture-control.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-24T22:18:25.196334+00:00",
+    "thin": false,
+    "author": "Sheena Vasani",
+    "tags": [
+      "Black Friday",
+      "Cyber Monday",
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "bfb631317db9bae4ba1e5ca171f2af44f61d5ce673ba88d67b1888a184b18c34",
+    "title": "Tidal will start banning AI-generated music next month",
+    "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+    "published_at": "2026-11-24T12:17:09-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-24T22:18:25.197121+00:00",
+    "thin": false,
+    "author": "Emma Roth",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Music",
+      "News",
+      "Tidal"
+    ]
+  },
+  {
+    "id": "fb91a24233d22678b611cff02ea793ec3ff1c94fe8f66689b315908eba184d10",
+    "title": "One terminal command gave my forgotten Android device a desk job",
+    "summary": "The free, open source PhoneBox dashboard puts old Android screens back to work.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job",
+    "published_at": "2026-11-24T12:15:38+00:00",
+    "date_unverified": false,
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/PhoneBox_Tablet_Home_Screen_TYS-1152x648.jpg",
+    "collection_timestamp": "2026-11-24T22:18:25.198657+00:00",
+    "thin": false,
+    "author": "Nick Indge",
+    "tags": [
+      "Tech",
+      "android",
+      "PhoneBox"
+    ]
+  },
+  {
+    "id": "d5c398980c385fa7d9c840f3d895372409202096b763c6ab6a3cfe847746c288",
+    "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
+    "summary": "Russian missile corvette latest casualty as Ukraine strikes back in war at sea.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation",
+    "published_at": "2026-11-24T12:00:57+00:00",
+    "date_unverified": false,
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/merkury-fire_benghazi-libya_20261122_054739_ssc4_rgb_flat_50cm_1920px_logo_geo-1152x648.jpg",
+    "collection_timestamp": "2026-11-24T22:18:25.199670+00:00",
+    "thin": false,
+    "author": "Jeremy Hsu",
+    "tags": [
+      "Tech",
+      "drone boats",
+      "Russia invasion of Ukraine",
+      "Russia war on Ukraine",
+      "Russian invasion of Ukraine",
+      "Russian war on Ukraine",
+      "sea drones",
+      "Ukraine",
+      "Ukraine war",
+      "uncrewed surface vessels"
+    ]
+  },
+  {
     "id": "9a7b5ec3498ea4d81020f151704caf15bd14327c3a9c1b2fb9a1c8ee73de807d",
     "title": "Asian tech stocks recover from ‘collateral damage’ of Jensen Huang’s departure",
     "summary": "Investors piled back into the tech market, following the reinstatement of Nvidia CEO Jensen Huang by its board.",
@@ -1990,269 +2239,6 @@
       "Politics",
       "Social Media",
       "Tech"
-    ]
-  },
-  {
-    "id": "e7227f7e7cd3197f88b65c0750c2549b5ec736f0e27af17361b8b53d0e33138a",
-    "title": "The best early Black Friday deals you can already shop",
-    "summary": "The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn&#8217;t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn&#8217;t necessarily mean you&#8217;re getting a historically low price. [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-    "published_at": "2026-11-18T13:44:27-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-18T23:52:48.948511+00:00",
-    "thin": false,
-    "author": "Sheena Vasani",
-    "tags": [
-      "Black Friday",
-      "Cyber Monday",
-      "Deals",
-      "Gadgets",
-      "Verge Shopping"
-    ]
-  },
-  {
-    "id": "163411d9d5a590835dd02ee16c9d0e106a3f9e4bc265d01de2708a2d37c0368b",
-    "title": "Shelly’s new smart valve shuts off your home’s water before a leak becomes a flood",
-    "summary": "After releasing a $28 leak sensor earlier this year that conveniently runs off a battery for two years, Shelly is announcing an accompanying smart valve you can install on your home's main water line to automatically turn off the flow when one of those sensors detects a problem. The Shelly Neo Smart Water Valve is [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1036494/shelly-neo-smart-home-water-valve-sensor-shut-off",
-    "published_at": "2026-11-18T11:00:00-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/shelly1.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-18T17:47:58.218689+00:00",
-    "thin": false,
-    "author": "Andrew Liszewski",
-    "tags": [
-      "Gadgets",
-      "News",
-      "Smart Home",
-      "Tech"
-    ]
-  },
-  {
-    "id": "af22d31473f45d54c1a44726ac8a47886aa0b2d5ffc82fc0f79c10f1cfbcb247",
-    "title": "China’s military seeks Nvidia’s advanced chips for AI capabilities, commission says",
-    "summary": "A congressional commission issued its findings as Nvidia has been rocked by its CEO's resignation after reports he had an affair with a suspected Chinese spy.",
-    "category": "technology",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/18/nvidia-chips-china-military-ai.html",
-    "published_at": "2026-11-18T10:45:01+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-18T17:47:58.250989+00:00",
-    "thin": false
-  },
-  {
-    "id": "e6c7320db6b4f13cb2059b69c472e2a23224f651feb7fb4cfc292bc8862a86c9",
-    "title": "Remember the frontier AI pause? Chip companies don’t either",
-    "summary": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and exploit security flaws. In September, Anthropic CEO Dario Amodei called for slowing advances in the most powerful AI models, warning that they could be used [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-    "published_at": "2026-11-18T10:44:02-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Vera-Rubin-NVL72.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-18T17:47:58.219245+00:00",
-    "thin": false,
-    "author": "Rani Molla",
-    "tags": [
-      "AI",
-      "Tech"
-    ]
-  },
-  {
-    "id": "4a2c2d66cc5d8a5dad7a02548b7bb80da284617c3608c2a9d96dc58f4ddb4e1d",
-    "title": "The Verge’s 2026 holiday gift guide for travelers",
-    "summary": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they go. Whether they're your kindred spirit or the person you live vicariously through, one [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
-    "published_at": "2026-11-18T10:00:00-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_TRAVEL.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-18T17:47:58.219495+00:00",
-    "thin": false,
-    "author": "Ryan Waniata",
-    "tags": [
-      "Gadgets",
-      "Gift Guides",
-      "Verge Shopping"
-    ]
-  },
-  {
-    "id": "3e4b6ce2415c940db1a9a2991967f3b79128d7b08c2fd32ebb6281fd48f78260",
-    "title": "8.5% EU people aged 15-74 had STEM tertiary education",
-    "summary": "In 2025, people with tertiary education in science, technology, engineering, and mathematics (STEM) fields accounted for 8.5% of the EU population aged 15–74. Ireland had the highest share of people aged 15-74 with tertiary attainment in STEM, at 12.0%, followed by Sweden (11.9%), Lithuania (11....",
-    "category": "technology",
-    "source": "Eurostat News",
-    "url": "https://ec.europa.eu/eurostat/product?code=ddn-20261118-1",
-    "published_at": "2026-11-18T10:00:00+00:00",
-    "date_unverified": false,
-    "image_url": null,
-    "collection_timestamp": "2026-11-21T12:41:08.001071+00:00",
-    "thin": false,
-    "region": "europe",
-    "image_policy": "none",
-    "author": "Eurostat http://ec.europa.eu/eurostat"
-  },
-  {
-    "id": "fe85649904ee2f8f9dc9b2f9ec2462b660463e6709363eecc5c686b63a94dcc3",
-    "title": "Instagram’s ‘school safety’ push was also a way to get more teens on the app",
-    "summary": "Meta's initiative to make Instagram safer for schools stemmed from efforts to increase user \"acquisition,\" \"friending,\" and \"invites,\" according to a report from NPR. Internal documents revealed as part of a group of child safety lawsuits against Meta reference a \"Project Gryffindor\" - a school program that would \"fuel organic and unattributed acquisition\" of users. [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1036517/instagram-school-safety-program-project-gryffindor",
-    "published_at": "2026-11-18T09:59:05-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23904518/VRG_Illo_K_Radtke_STK070_Instagram_1.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-18T17:47:58.219766+00:00",
-    "thin": false,
-    "author": "Emma Roth",
-    "tags": [
-      "Instagram",
-      "Meta",
-      "News",
-      "Policy",
-      "Tech"
-    ]
-  },
-  {
-    "id": "df8246fd599c2ab04220ddbfc53686fa6e292bf517541347e1f17de8cba41f30",
-    "title": "Rivian spinoff Also pauses e-bike deliveries over battery and software bugs",
-    "summary": "Also, the mobility startup that spun out of Rivian last year, has run into another speed bump. The company was already struggling to get its first e-bikes to customers due to a litany of supply chain headaches and the complexity of building a futuristic bike powered almost entirely by software. Now there is a new [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/transportation/1036460/also-rivian-spinoff-tm-b-ebike-delivery-delay-software-battery-issues",
-    "published_at": "2026-11-18T09:56:43-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_ALSO_TMB_09-1.webp?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-18T17:47:58.220015+00:00",
-    "thin": false,
-    "author": "Andrew J. Hawkins",
-    "tags": [
-      "Electric Bikes",
-      "News",
-      "Rideables",
-      "Tech",
-      "Transportation"
-    ]
-  },
-  {
-    "id": "397feb10f56377c77d25ac5a49ccd0a32d74346eae64a8d202238386aa0ff0f1",
-    "title": "How The Verge is picking which Black Friday deals to share",
-    "summary": "For the past month, we’ve been inundated with Black Friday deals, signaling what’s to come on the biggest shopping day of the year in the US. We routinely get dozens of press releases a day, coming from brands big and small that hope that we’ll publicize these offers. Of course, the companies would prefer that [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1034715/how-the-verge-finds-deals",
-    "published_at": "2026-11-18T09:00:00-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/258010_Black_friday_cyber_monday_CVirginia_PRICE2.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-18T17:47:58.220313+00:00",
-    "thin": false,
-    "author": "Cameron Faulkner",
-    "tags": [
-      "Black Friday",
-      "Cyber Monday",
-      "Deals",
-      "Gadgets",
-      "Verge Shopping"
-    ]
-  },
-  {
-    "id": "8c108826f3d1cc1da56412ed1d54a54e1e583eb586c23759491aa11bc7d6b677",
-    "title": "Will Wright’s next game uses AI to map your memories",
-    "summary": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright's other titles, it sounds extremely ambitious, giving players a new way to explore worlds they create on their own. [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
-    "published_at": "2026-11-18T09:00:00-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Grand-Canyon-Family-Portrait.png?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-18T17:47:58.220570+00:00",
-    "thin": false,
-    "author": "Jay Peters",
-    "tags": [
-      "AI",
-      "Entertainment",
-      "Gaming",
-      "News"
-    ]
-  },
-  {
-    "id": "484b5294f35a6cfaade1a2857433f299102031a023818fd41f84fd35615a0d54",
-    "title": "Nvidia isn’t selling any more AI chips to China",
-    "summary": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette Kress during an earnings call on Tuesday, marking a notable shift for the company that, under former CEO Jensen Huang, [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
-    "published_at": "2026-11-18T08:01:05-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK083_NVIDIA_C.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-18T17:47:58.220814+00:00",
-    "thin": false,
-    "author": "Jess Weatherbed",
-    "tags": [
-      "AI",
-      "News",
-      "Nvidia",
-      "Tech"
-    ]
-  },
-  {
-    "id": "0a8541a1936244a961f828d23455130af994d85a4299097e20238422e464a9da",
-    "title": "NASA’s Voyager 1 probe is now 1 light-day away",
-    "summary": "After traveling through the void of space for 49 years, Voyager 1 has hit a momentous milestone: The spacecraft is now officially 1 light-day away from Earth, which is, as NASA put it, \"very, very far.\" The probe crossed the milepost on Wednesday at 5:16AM ET and is now 16.094 billion miles away from our [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone",
-    "published_at": "2026-11-18T07:03:36-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-164430702.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-18T17:47:58.221067+00:00",
-    "thin": false,
-    "author": "Jess Weatherbed",
-    "tags": [
-      "News",
-      "Science",
-      "Space"
-    ]
-  },
-  {
-    "id": "d1d9f67e62cba606e121dc45c3fac9e8dd88df9a5fa206be97f9fca692836eed",
-    "title": "DistroKid Gives AI Upload Data to UMG and Sony for Suno Copyright Lawsuit After Initial Refusal",
-    "summary": "The leading DIY distributor responded to a subpoena requesting the data after UMG and Sony took legal action to force compliance.",
-    "category": "technology",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/pro/distrokid-ai-data-umg-sony-lawsuit-suno",
-    "published_at": "2026-11-18T00:49:19+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-18T01:08:20.361570+00:00",
-    "thin": false,
-    "author": "Rachel Scharf",
-    "tags": [
-      "Business",
-      "Legal News",
-      "A.I.",
-      "AI",
-      "Ai music",
-      "Artificial Intelligence",
-      "Legal",
-      "Music News",
-      "streaming",
-      "tech"
-    ]
-  },
-  {
-    "id": "18260f6dc7370923185b444af38b49c727fe5b6236831ca06d1602e8eceb1170",
-    "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
-    "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote",
-    "published_at": "2026-11-18T00:27:29+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png",
-    "collection_timestamp": "2026-11-18T01:08:20.370069+00:00",
-    "thin": false,
-    "author": "Nick Indge",
-    "tags": [
-      "AI",
-      "Tech",
-      "Agent365",
-      "copilot",
-      "Microsoft ignite"
     ]
   },
   {
