@@ -1,7 +1,7 @@
 aiohttp>=3.9.1
 aiosqlite>=0.22.1
 asyncpg>=0.29.0
-redis>=5.0.1
+redis>=8.1.0
 apscheduler>=3.10.4
 beautifulsoup4>=4.12.2
 playwright>=1.40.0
