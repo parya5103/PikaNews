@@ -1,5 +1,44 @@
 [
   {
+    "id": "30d6f276c5262a43f1e6566012bdecf20e8d9e95390396ba38bd2132fb6de8fd",
+    "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
+    "summary": "APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this […]",
+    "category": "science",
+    "source": "NASA News Releases",
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust",
+    "published_at": "2026-11-25T05:05:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-25T15:24:51.100778+00:00",
+    "thin": false,
+    "region": "us",
+    "image_policy": "none",
+    "tags": [
+      "APOD"
+    ]
+  },
+  {
+    "id": "313fb9725ef4f71804553a2fa838a57aad27f252a923e8cc178b16c897107fc9",
+    "title": "Georgia’s Pecan Belt",
+    "summary": "Since an early-1900s planting boom, orchards along the Flint River in southwest Georgia have become a center of U.S. pecan production.",
+    "category": "science",
+    "source": "NASA News Releases",
+    "url": "https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt",
+    "published_at": "2026-11-25T05:00:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-25T15:24:51.101134+00:00",
+    "thin": false,
+    "region": "us",
+    "image_policy": "none",
+    "tags": [
+      "Earth Observatory",
+      "Land Cover",
+      "Land Use",
+      "Landsat 8 / LDCM (Landsat Data Continuity Mission)"
+    ]
+  },
+  {
     "id": "53599b8ba8c3b55b7fc895e03b6bb11a8a66ddf3103fe671bffc49c5effd4530",
     "title": "NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema",
     "summary": "NASA announced Monday that NASA+ content has found its first theatrical home at The Greenbelt Cinema in Greenbelt, Maryland, expanding the agency’s reach across major viewing platforms and bringing space even closer to home. “The National Aeronautics and Space Act of 1958 calls us to share our story of space exploration with the broadest possible […]",
