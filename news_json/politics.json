@@ -1,5 +1,19 @@
 [
   {
+    "id": "ae7bc6ff1a321f0c8e4f773396ab8854183c1d2b0242dda63749837e7912fcc2",
+    "title": "Judge denies SEC's request for restraining order against LSU in membership vote",
+    "summary": "A federal judge denied the SEC's request for a temporary restraining order to keep LSU from interfering with a Dec. 3 vote of presidents and chancellors on whether to remove the school from the conference.",
+    "category": "politics",
+    "source": "ESPN",
+    "url": "https://www.espn.com/college-sports/story/_/id/50595702/judge-denies-sec-request-tro-lsu-dec-3-vote",
+    "published_at": "2026-11-25T18:23:28+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-25T23:44:26.047053+00:00",
+    "thin": false,
+    "author": "Alex Scarborough"
+  },
+  {
     "id": "a9146f72b73936af6dae369a8e088db9ae4ca579ef6c5ebab8da1956a0ba2f69",
     "title": "Ben Affleck Negotiates With a Duck as Artists Equity Kicks Off Thanksgiving Campaign for Aflac",
     "summary": "The launch of the campaign on the NBC Macy's Thanksgiving Day Parade follows Aflac and Affleck's Artists Equity teaming up earlier this year.",
@@ -17,6 +31,20 @@
       "Business News",
       "advertising"
     ]
+  },
+  {
+    "id": "632f52b532426626cc7cb61cc088935de36366eb638af30df883a6d0337e44ce",
+    "title": "Wetzel: Michigan tailspin continues as payouts pile up",
+    "summary": "Michigan's new president isn't even on the job, and already she's making regrettable, costly decisions.",
+    "category": "politics",
+    "source": "ESPN",
+    "url": "https://www.espn.com/college-sports/story/_/id/50594079/michigan-tailspin-continues-payouts-pile-up",
+    "published_at": "2026-11-25T12:17:13+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-25T23:44:26.051066+00:00",
+    "thin": false,
+    "author": "Dan Wetzel"
   },
   {
     "id": "d008594a56a05e8012cfc38f9fed93575b6ae9214d39352d88e23a50a9379093",

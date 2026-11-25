@@ -1,5 +1,209 @@
 [
   {
+    "id": "5c3ddaad0c574548cbabc2b9c8c18143295302a38bee3ceb50751a00047b6eb3",
+    "title": "Google search alternative Kagi launches Gmail rival",
+    "summary": "The pitch is an unusual combination of privacy promises and AI features.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival",
+    "published_at": "2026-11-25T20:57:09+00:00",
+    "date_unverified": false,
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/kagi-mail-announcement-1152x648.jpg",
+    "collection_timestamp": "2026-11-25T23:44:26.008183+00:00",
+    "thin": false,
+    "author": "Samuel Axon",
+    "tags": [
+      "Tech",
+      "email",
+      "gmail",
+      "kagi",
+      "Kagi Mail",
+      "proton",
+      "search engines"
+    ]
+  },
+  {
+    "id": "b172faefa5a69b2a080c33d8a9448244233e190612b7ec8a8c7525196beaa109",
+    "title": "Three Years After His Death, EA Is Using AI To Bring Back A Famed Commentator In FC 27",
+    "summary": "EA Sports FC 27 is adding an AI-generated commentator for the first time in the series' history, with famed British commentator John Motson having his voice synthesized for the football title. Motson, who passed way in 2023, previously provided commentary for EA's FIFA series, appearing in the game's first iteration in 1996 and featuring until 2005. According to the BBC , EA approached Motson's wife and son for permission to regenerate his voice and use his likeness for this year's entry in the",
+    "category": "technology",
+    "source": "GameSpot",
+    "url": "https://www.gamespot.com/articles/three-years-after-his-death-ea-is-using-ai-to-bring-back-a-famed-commentator-in-fc-27",
+    "published_at": "2026-11-25T18:59:56+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/ea-sports-fc-26.jpg?w=300",
+    "collection_timestamp": "2026-11-25T23:44:26.014011+00:00",
+    "thin": false,
+    "author": "Alessandro Barbosa",
+    "tags": [
+      "Gaming,News"
+    ]
+  },
+  {
+    "id": "b29f025740ee7df1e5e9b6ed65cd69edf191c5b8bf4bef2759743bc26d452342",
+    "title": "Couple from Wake Forest-Georgia Tech game addresses viral intense discussion",
+    "summary": "The couple's intense discussion was caught on an ESPN broadcast of Wake Forest and Georgia Tech's Week 12 game and went viral.",
+    "category": "technology",
+    "source": "ESPN",
+    "url": "https://www.espn.com/college-football/story/_/id/50584732/wake-forest-georgia-tech-viral-couple-speaks",
+    "published_at": "2026-11-25T17:45:09+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-25T23:44:26.057217+00:00",
+    "thin": false,
+    "author": "Kalan Hooks"
+  },
+  {
+    "id": "633b3bf6898ed001bcb80e1d5480d8f8d46010aa39d970e711255cf1de51eef4",
+    "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+    "summary": "An independent browser engine arrives on Linux and macOS, and we've tried it.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium",
+    "published_at": "2026-11-25T17:33:30+00:00",
+    "date_unverified": false,
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ladybird_Browser_Rendering_Ladybird_Page_wide-1152x648-1795619607.png",
+    "collection_timestamp": "2026-11-25T23:44:26.008595+00:00",
+    "thin": false,
+    "author": "Nick Indge",
+    "tags": [
+      "Tech",
+      "Browser Alpha",
+      "Independent Browser Engine",
+      "Ladybird"
+    ]
+  },
+  {
+    "id": "8de50015c1aecb40893378182803449cab009389af39b7014efd7f089688dea8",
+    "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+    "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+    "published_at": "2026-11-25T16:51:26-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-25-at-11.34.07-AM.png?quality=90&strip=all&crop=2.859375,3.7218027238494,93.788122558594,91.658221639303",
+    "collection_timestamp": "2026-11-25T23:44:26.002875+00:00",
+    "thin": false,
+    "author": "Charles Pulliam-Moore",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Film",
+      "Google",
+      "Streaming",
+      "Tech",
+      "TV Shows"
+    ]
+  },
+  {
+    "id": "7767fbbe41541301b1cebf9406b35ac7c8aa4a82e8ace9834dcee65a5d1edc20",
+    "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+    "summary": "Militaries have many reasons to target data centers and the cloud in wartime.",
+    "category": "technology",
+    "source": "Ars Technica Gadgets",
+    "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop",
+    "published_at": "2026-11-25T16:47:14+00:00",
+    "date_unverified": false,
+    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+    "collection_timestamp": "2026-11-25T23:44:26.009606+00:00",
+    "thin": false,
+    "author": "Jeremy Hsu",
+    "tags": [
+      "AI",
+      "Tech",
+      "ai data centers",
+      "Amazon Web Services",
+      "ars live",
+      "Ars Live Conversations",
+      "AWS",
+      "big tech",
+      "cloud",
+      "cloud computing",
+      "cloud services",
+      "data centers",
+      "outages",
+      "Russia invasion of Ukraine",
+      "Russia war on Ukraine",
+      "Russian invasion of Ukraine",
+      "Russian war on Ukraine",
+      "Ukraine war",
+      "USA-Iran War"
+    ]
+  },
+  {
+    "id": "544f038755eb1f6fb43f03449fadb41b83a4397e29ef88aa64527f53458fa620",
+    "title": "Anthropic's stock has been a clunker post-IPO. Why that matters for the AI trade",
+    "summary": "Shares of Anthropic are trading below their IPO price, creating an overhang on other artificial intelligence names.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/25/anthropics-stock-has-been-a-clunker-post-ipo-why-that-matters-for-the-ai-trade.html",
+    "published_at": "2026-11-25T16:05:25+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-25T23:44:26.034581+00:00",
+    "thin": false
+  },
+  {
+    "id": "1dbd864d87df0f133fd94bf104a85611ccc129ac42a64544023b7d31f3e424b7",
+    "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
+    "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platforms have had this for a very long time, but now it's on WhatsApp too. If you think of a […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+    "published_at": "2026-11-25T15:31:48-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whatsapp-scheduled-messages-launch.jpeg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-25T23:44:26.003894+00:00",
+    "thin": false,
+    "author": "Stevie Bonifield",
+    "tags": [
+      "Apps",
+      "Meta",
+      "News",
+      "Tech"
+    ]
+  },
+  {
+    "id": "f1f3c72ac3e11a777375353fc56e8fb36c0a847f496fd54db69059480b7a32d5",
+    "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+    "summary": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today at the Iowa Army Ammunition Plant (IAAAP) in Middletown, Iowa. Videos of the detonation showed plumes of smoke several […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
+    "published_at": "2026-11-25T14:45:51-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2306835116.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-25T23:44:26.004369+00:00",
+    "thin": false,
+    "author": "Andrew Liszewski",
+    "tags": [
+      "Environment",
+      "News",
+      "Policy",
+      "Science"
+    ]
+  },
+  {
+    "id": "a5e21259d4ba3a63dd9004dd32c04374fe02456790020b17e00299c01a9278a8",
+    "title": "1Password breach leaked customer names and emails, but not passwords",
+    "summary": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, according to a post disclosing the incident. It's unclear how many users are affected. The password manager […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+    "published_at": "2026-11-25T14:10:15-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKB339_1PASSWORD.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-25T23:44:26.004799+00:00",
+    "thin": false,
+    "author": "Emma Roth",
+    "tags": [
+      "News",
+      "Security",
+      "Tech"
+    ]
+  },
+  {
     "id": "ce20f26373088a04e9017710895c833c0c52f8dc315242c90430da05e4329a54",
     "title": "Sam’s Club Black Friday Sale Includes Deals on Samsung TVs, Sonos Soundbars, Bose Headphones and More",
     "summary": "If you’re looking to give your home theater a serious upgrade ahead of the holidays, some of the best Black Friday tech deals this year can be found at Sam’s Club. The wholesale retailer is slashing prices on everything from big-screen 4K televisions and Dolby Atmos soundbars to wireless headphones and gaming systems. While Sam’s […]",
@@ -31,6 +235,70 @@
     "thin": false
   },
   {
+    "id": "0d060cdb9fa584cdba54862644c14ff6ab36f8f5bb37756d468adf5db90c3f93",
+    "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
+    "summary": "Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to justify, especially now that it’s dropped to a new low of $552.49 (about $98 off) at Amazon as part of the […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
+    "published_at": "2026-11-25T13:00:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/fairphone-6-plus-4.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-25T23:44:26.005325+00:00",
+    "thin": false,
+    "author": "Sheena Vasani",
+    "tags": [
+      "Black Friday",
+      "Cyber Monday",
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "52db40175f532f9bbd081b51ac53bee94861964935e28ceb264abe92c2881525",
+    "title": "The loneliest peptide party in New York",
+    "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On a rainy fall evening, an experimental art venue in Chelsea Market had a small line out the door. There […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
+    "published_at": "2026-11-25T13:00:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268815_Peptide_Party_JCalifano_0019.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-25T23:44:26.005796+00:00",
+    "thin": false,
+    "author": "Victoria Song",
+    "tags": [
+      "Column",
+      "Health",
+      "Optimizer",
+      "Science"
+    ]
+  },
+  {
+    "id": "5f4f0424e3002eb20093b99487de76a37a46c358bcbc0e30b3375e4b415b439f",
+    "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+    "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+    "published_at": "2026-11-25T12:44:51-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/gettyimages-2269580650.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-25T23:44:26.006416+00:00",
+    "thin": false,
+    "author": "Emma Roth",
+    "tags": [
+      "AI",
+      "Elon Musk",
+      "News",
+      "Science",
+      "Space",
+      "SpaceX",
+      "Tech"
+    ]
+  },
+  {
     "id": "aca8c15d289537189f419ade728a96c7c964afc8ed5849986643a0da51f93928",
     "title": "The Beatles’ Apple HQ Experience Set For 2027 – But No Rooftop Concerts Permitted",
     "summary": "The Fab Four's holding company reacquired the Mayfair property earlier this year.",
@@ -50,6 +318,27 @@
       "Music News",
       "News",
       "UK Business"
+    ]
+  },
+  {
+    "id": "89e905b13a485c50099bf67464d13b26edca2f466c45dc8e959f4aeb9f59b52e",
+    "title": "Nothing offers a full look at its AI earbuds and charging case",
+    "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes with a \"Talk\" button that you […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+    "published_at": "2026-11-25T11:00:59-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ear-note-nothing.jpeg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-25T23:44:26.007627+00:00",
+    "thin": false,
+    "author": "Emma Roth",
+    "tags": [
+      "AI",
+      "Gadgets",
+      "News",
+      "Tech",
+      "Wearable"
     ]
   },
   {
@@ -1987,294 +2276,6 @@
       "Deals",
       "Gadgets",
       "Verge Shopping"
-    ]
-  },
-  {
-    "id": "9347826177a246300b26c7eb40c467578109c5aa36e91992fe10afcd4beac717",
-    "title": "How Silicon Valley lost the public, with Crooked Media’s Jon Favreau",
-    "summary": "Today, I’m talking with Jon Favreau, a political commentator and cofounder of Crooked Media. You probably know Jon best from a little show called Pod Save America, which Jon started with a group of fellow Obama staffers in the wake of Donald Trump’s election in 2016. It’s now one of the most popular podcasts in [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/1036484/jon-favreau-pod-save-america-offline-crooked-media-trump-big-tech-ai-2028-election",
-    "published_at": "2026-11-19T10:00:00-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DCD-Jon-Favreau.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-19T15:14:54.237741+00:00",
-    "thin": false,
-    "author": "Nilay Patel",
-    "tags": [
-      "Decoder",
-      "Podcasts",
-      "Policy",
-      "Politics",
-      "Tech"
-    ]
-  },
-  {
-    "id": "6dabcba9f9f02d70963de433df515d50a7fa9a472435ec05d31549504f37345b",
-    "title": "The Analogue 3D can now update itself over Wi-Fi",
-    "summary": "Analogue has long been good at expanding the features and functionality of its consoles through regular firmware updates, but installing those updates has always required moving files around with a memory card. That's no longer the case with the Analogue 3D, the company's modernized version of the Nintendo 64. Although the console has had Wi-Fi [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1037552/analogue-3d-nintendo-64-console-wi-fi-activated-automatic-updates",
-    "published_at": "2026-11-19T09:32:33-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/257891_Analogue_3D_AKrales_0002.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-19T15:14:54.238016+00:00",
-    "thin": false,
-    "author": "Andrew Liszewski",
-    "tags": [
-      "Gadgets",
-      "Gaming",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "73a555de7f3226b4c94665350ffdc119de3064bd443c2b1ee890d0b3462fccfc",
-    "title": "With the biggest IPO of all time, Anthropic’s ‘good guy’ reputation is on the line",
-    "summary": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI lab debuts to come. But it's not simply a financial milestone. Anthropic was founded on the idea that it prioritized safety [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-    "published_at": "2026-11-19T09:25:37-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-19T15:14:54.238287+00:00",
-    "thin": false,
-    "author": "Hayden Field",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "Policy",
-      "Report"
-    ]
-  },
-  {
-    "id": "c7f0755d877e5f8ed0d85ed11513e81851203eeb9475d7e02ec000886cd3566e",
-    "title": "The wait begins for GTA VI on PC",
-    "summary": "Grand Theft Auto VI is finally here for millions of players who own a PlayStation 5 or Xbox Series X / S, and those who plan to buy a console, despite rising costs this year, just to play it. As you have likely already noticed, the launch is inescapable, and that's especially tough if you're [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/1036550/grand-theft-auto-6-gta-vi-pc-version-fomo",
-    "published_at": "2026-11-19T09:00:00-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/GTAVI-15-copy.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-19T15:14:54.238521+00:00",
-    "thin": false,
-    "author": "Cameron Faulkner",
-    "tags": [
-      "Analysis",
-      "Entertainment",
-      "Gaming",
-      "PC Gaming",
-      "Report"
-    ]
-  },
-  {
-    "id": "eb85f45f407677f79f93a99ace260f2e7a80a3b764664091f7802710efbb2eec",
-    "title": "Blue Origin will launch Google&#8217;s AI server satellites in 2029",
-    "summary": "Google is teaming up with Jeff Bezos' Blue Origin to launch its AI server satellites. The companies announced on Thursday that Blue Origin's New Glenn rocket will shuttle satellites equipped with Google's Tensor Processing Units (TPUs) into space in the first quarter of 2029. The partnership is part of Google's Project Suncatcher, a moonshot plan [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
-    "published_at": "2026-11-19T08:53:38-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/project-suncatcher-logo.png?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-19T15:14:54.238794+00:00",
-    "thin": false,
-    "author": "Emma Roth",
-    "tags": [
-      "Blue Origin",
-      "Google",
-      "News",
-      "Science",
-      "Space",
-      "Tech"
-    ]
-  },
-  {
-    "id": "37c2ca2ab9b18ae4ffef0c3d83a2c0ba8e8fdb7bc48f56a57bb4417d30aab79b",
-    "title": "Grand Theft Auto VI understands just how important a smartphone is",
-    "summary": "Grand Theft Auto VI, in many ways, tries to simulate real life. And life in 2026 would not be complete without a smartphone. GTA VI understands this and makes the phone not just a central part of the experience, but an object that exists within the world. You may try to escape into a fantasy [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/entertainment/1037106/grand-theft-auto-6-smartphone",
-    "published_at": "2026-11-19T08:30:00-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a1ef06931b17-screenshotUrl.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-19T15:14:54.239075+00:00",
-    "thin": false,
-    "author": "Andrew Webster",
-    "tags": [
-      "Analysis",
-      "Entertainment",
-      "Gaming",
-      "Report"
-    ]
-  },
-  {
-    "id": "baf79f967f0f68f3343e4d4d8d4761b45d79b3eee48c22c416db3cc92ed59ba5",
-    "title": "I let Apple’s always-listening AI summarize my life for two weeks",
-    "summary": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
-    "published_at": "2026-11-19T08:00:00-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268874_siri_recaps_AKrales_0070.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-19T15:14:54.239361+00:00",
-    "thin": false,
-    "author": "Victoria Song",
-    "tags": [
-      "AI",
-      "Apple",
-      "Gadgets",
-      "Hands-on",
-      "Reviews",
-      "Smartwatch",
-      "Smartwatch Reviews",
-      "Tech",
-      "Wearable"
-    ]
-  },
-  {
-    "id": "7e8a35d0b306e1b439c965b4406d98a698b620c0bcf94fd315950b475dc85b95",
-    "title": "Canva adds an AI ‘off’ button",
-    "summary": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot. This toggle doesn't turn off every AI-powered [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
-    "published_at": "2026-11-19T07:30:00-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25355957/STK263_CANVA_D.png?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-19T15:14:54.239609+00:00",
-    "thin": false,
-    "author": "Emma Roth",
-    "tags": [
-      "AI",
-      "Apps",
-      "Creators",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "b6ec3c6d6b6b9192db3d50f1f4f42332d26084eb1fe2e3d861357d2831754d2b",
-    "title": "Roblox money is pushing a controversial anorexia treatment",
-    "summary": "In a dark room, a man with a camera makes his pitch: Therapy isn't the first treatment you should get if you have anorexia or bulimia, he says. He's in his late 20s, wearing a backward camo baseball cap and a silver chain. \"Instead of going straight to the therapy, let's do a keto diet [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/features/1034740/ketogenic-diet-anorexia-roblox-medical-funding",
-    "published_at": "2026-11-19T07:00:00-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Keto_Anorexia_Lede_B_v2.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-19T15:14:54.239840+00:00",
-    "thin": false,
-    "author": "Arielle Duhaime-Ross",
-    "tags": [
-      "Features",
-      "Health",
-      "Science"
-    ]
-  },
-  {
-    "id": "cb8a7337777e5521b4ea61eb209ea210293a73a36b5a7b4c825b563b3a0cbc04",
-    "title": "What Happens When Documentary Makers Sell Their Footage to AI Aggregators?",
-    "summary": "Back in 2024, leading documentary film festival IDFA opened with Piotr Winiewicz’s “About a Hero,” a documentary that set out to test the premise of whether or not an AI model could conceive a Werner Herzog film. Back then, the film received some backlash for its use of the technology, with docmakers—including Herzog—openly rebuffing the [&#8230;]",
-    "category": "technology",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/global/docmakers-archive-sale-ai-training-dos-and-donts-1236951760",
-    "published_at": "2026-11-19T06:05:32+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2024/11/About-a-Hero-new.jpg",
-    "collection_timestamp": "2026-11-19T07:08:06.567694+00:00",
-    "thin": false,
-    "author": "Rafa Sales Ross",
-    "tags": [
-      "Global",
-      "News",
-      "AI",
-      "Documentaries to Watch",
-      "Idfa"
-    ]
-  },
-  {
-    "id": "ee367cae0e29b690e2fdd1b0cccdabe56cdb5142c3a8a7ed8cfa8f9450eb61a9",
-    "title": "Hila Klein Addresses Husband Ethan’s Alleged Affair: ‘My Whole Entire Life Just Shattered’",
-    "summary": "Last month, Hila accused Ethan of having a more than six-month-long affair with an unnamed person",
-    "category": "technology",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/culture/culture-news/hila-klein-husband-ethan-alleged-affair-1235660776",
-    "published_at": "2026-11-19T06:04:40+00:00",
-    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/Hila-Klein-controversy.jpg?w=1600&h=900&crop=1",
-    "collection_timestamp": "2026-11-19T07:08:06.569225+00:00",
-    "thin": false,
-    "author": "Charisma Madarang",
-    "tags": [
-      "(Sub)Culture News",
-      "Culture",
-      "Podcast"
-    ]
-  },
-  {
-    "id": "0a22c6eb49f6f78b53b035b690a6b019fb2df4bc3e7aebbf2b1da69ea4018920",
-    "title": "Metro by T-Mobile Is Offering a Free Samsung Smartphone for a Limited Time",
-    "summary": "Sign up for Metro by T-Mobile and get a new Samsung Galaxy A37 5G at zero cost — no catches and no surprises.",
-    "category": "technology",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/culture/product-recommendations/metro-by-t-mobile-samsung-galaxy-a37-free-deal-shop-online-1236383878",
-    "published_at": "2026-11-18T23:30:00+00:00",
-    "image_url": "https://www.billboard.com/wp-content/uploads/2026/11/Metro-by-T-Mobile-Samsung-Galaxy-A37-5G-Smartphone-Billboard-1548.jpg?w=1024",
-    "collection_timestamp": "2026-11-18T23:52:48.937333+00:00",
-    "thin": false,
-    "author": "Rudie Obias",
-    "tags": [
-      "Culture",
-      "Product Recommendations",
-      "NOADS",
-      "sponsored"
-    ]
-  },
-  {
-    "id": "fdb5b1a9425ff1dc5ad7c3eab2db630049d960ca91aa81baece0791cd0ae36b1",
-    "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
-    "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits",
-    "published_at": "2026-11-18T23:10:39+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Kerch-Strait-Bridge-smoke-generators-1152x648.jpg",
-    "collection_timestamp": "2026-11-18T23:52:48.948765+00:00",
-    "thin": false,
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Tech",
-      "cruise missiles",
-      "Drone strikes",
-      "drones",
-      "military drones",
-      "missiles",
-      "Russia invasion of Ukraine",
-      "Russia war on Ukraine",
-      "Russian invasion of Ukraine",
-      "Russian war on Ukraine",
-      "spacex starlink",
-      "spacex starshield",
-      "starlink",
-      "starshield",
-      "Ukraine",
-      "ukraine starlink",
-      "Ukraine war"
-    ]
-  },
-  {
-    "id": "d603165147f2a8220555679c439c4e0720ded6758c9e3a5f48fd33542391079c",
-    "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
-    "summary": "CEO Ted Sarandos discusses gaps in making hit shows that streamers can find.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont",
-    "published_at": "2026-11-18T21:29:24+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/squid1-1152x648.jpg",
-    "collection_timestamp": "2026-11-18T23:52:48.948964+00:00",
-    "thin": false,
-    "author": "Scharon Harding",
-    "tags": [
-      "Science",
-      "Tech",
-      "Netflix",
-      "streaming"
     ]
   },
   {

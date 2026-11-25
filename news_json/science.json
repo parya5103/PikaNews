@@ -1,5 +1,109 @@
 [
   {
+    "id": "f677478c9b88a1b84c2a28477d3f2e67931d3a0ea779e8465705720b67c94d8f",
+    "title": "NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement",
+    "summary": "How NASA works with small businesses is evolving, and as a result, the agency is strengthening the domestic aerospace industrial base to support future exploration missions through its recently renamed Small Business Supplier Development Program. As part of the program, NASA announced its latest Mentor-Protégé Agreement, this one signed between The Boeing Company and GRACE […]",
+    "category": "science",
+    "source": "NASA News Releases",
+    "url": "https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement",
+    "published_at": "2026-11-25T19:06:56+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-25T23:44:26.072858+00:00",
+    "thin": false,
+    "region": "us",
+    "image_policy": "none",
+    "author": "Jennifer M. Dooren",
+    "tags": [
+      "Office of Small Business Programs (OSBP)"
+    ]
+  },
+  {
+    "id": "b31f06bbd77f668b73e8fb89c7fd0fad61fe2375e241b209aba2179f52ec0873",
+    "title": "NASA Eyes Crop Candidates for Future Menus",
+    "summary": "As NASA prepares for future missions to the Moon and Mars, researchers are studying crops that could provide astronauts with fresh food, nutrition, and variety far from Earth. Such crop variety can help with menus in deep space, something top of mind this week as the nation celebrates Thanksgiving. Recent testing points to strawberries, […]",
+    "category": "science",
+    "source": "NASA News Releases",
+    "url": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus",
+    "published_at": "2026-11-25T17:53:42+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-25T23:44:26.073345+00:00",
+    "thin": false,
+    "region": "us",
+    "image_policy": "none",
+    "tags": [
+      "Biological & Physical Sciences",
+      "International Space Station (ISS)",
+      "Science Mission Directorate"
+    ]
+  },
+  {
+    "id": "a2845fb3ca0e14d004aab875183ff54217233754d8cd2fb896aabf6eeb88ba63",
+    "title": "Childhood, Career Come Full Circle for Budget Analyst at NASA Goddard",
+    "summary": "Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the agency continued even when they came home from the office. “I remember a poignant dialogue we had after the space shuttle Challenger disaster,” […]",
+    "category": "science",
+    "source": "NASA News Releases",
+    "url": "https://www.nasa.gov/centers-and-facilities/goddard/childhood-career-come-full-circle-for-budget-analyst-at-nasa-goddard",
+    "published_at": "2026-11-25T16:47:29+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-25T23:44:26.073789+00:00",
+    "thin": false,
+    "region": "us",
+    "image_policy": "none",
+    "author": "Rob Garner",
+    "tags": [
+      "Goddard Space Flight Center",
+      "People of Goddard",
+      "People of NASA"
+    ]
+  },
+  {
+    "id": "0c8fdfb96ba7e953bb8f06d09c38894563cb2d86defedead509daa70acf6a7f5",
+    "title": "Eye of the Sahara",
+    "summary": "The Richat Structure, also known as the “Eye of the Sahara,” is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks […]",
+    "category": "science",
+    "source": "NASA News Releases",
+    "url": "https://www.nasa.gov/image-article/eye-of-the-sahara",
+    "published_at": "2026-11-25T16:21:04+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-25T23:44:26.074135+00:00",
+    "thin": true,
+    "region": "us",
+    "image_policy": "none",
+    "author": "HQ Web Team",
+    "tags": [
+      "Earth"
+    ]
+  },
+  {
+    "id": "e9f0fe70dd6639bf301f0bfef43ec8d1026a74c5cd11f485c2745571633c1e86",
+    "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
+    "summary": "These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.",
+    "category": "science",
+    "source": "NASA News Releases",
+    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman",
+    "published_at": "2026-11-25T14:56:54+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-25T23:44:26.074688+00:00",
+    "thin": false,
+    "region": "us",
+    "image_policy": "none",
+    "tags": [
+      "Astrophysics",
+      "Astrophysics Division",
+      "Galaxies",
+      "Goddard Space Flight Center",
+      "Hubble Space Telescope",
+      "Nancy Grace Roman Space Telescope",
+      "The Milky Way",
+      "The Universe"
+    ]
+  },
+  {
     "id": "30d6f276c5262a43f1e6566012bdecf20e8d9e95390396ba38bd2132fb6de8fd",
     "title": "APOD: 2026 November 25 – SPHEREx Seeing Through Dust",
     "summary": "APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this […]",
