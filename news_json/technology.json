@@ -1,5 +1,62 @@
 [
   {
+    "id": "430be3cc4d93a668f984a58fe0388de9c28713949342ff3ec3940487f75c032b",
+    "title": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
+    "summary": "Investors appear to have looked past a fresh set of U.S. tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+    "published_at": "2026-11-26T04:49:03+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108094148-1738167165694-gettyimages-2195902460-JAPAN_STOCKS.jpeg?v=1758691768&w=1920&h=1080",
+    "collection_timestamp": "2026-11-26T06:49:49.044856+00:00",
+    "thin": false
+  },
+  {
+    "id": "56374f910a650dcd1a32bf29f4d11f5178ea68152a1418636a10682c04faf155",
+    "title": "‘South Park’ Celebrates ‘GTA VI’ But Outages, AI Data Centers & Zombie Kenny Stand In The Way In Season 29 Finale",
+    "summary": "As the long wait for Grand Theft Auto VI finally ends, South Park‘s celebration was cut short on this week’s episode. In the finale “City Endings,” outages hit the town (currently rebranded as South America for Season 29) thanks to the AI data centers of Billionaire Weenietown that moved into Butters’ backyard after Mayor McDaniels […]",
+    "category": "technology",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/south-park-gta-vi-outages-zombie-kenny-season-29-finale-1237233874",
+    "published_at": "2026-11-26T03:52:37+00:00",
+    "date_unverified": false,
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/South-Park.png",
+    "collection_timestamp": "2026-11-26T06:49:49.015942+00:00",
+    "thin": false,
+    "author": "Glenn Garner",
+    "tags": [
+      "News",
+      "Comedy Central",
+      "Grand Theft Auto VI",
+      "GTA VI",
+      "South Park"
+    ]
+  },
+  {
+    "id": "3a1a6333a9535135ab71db2ef20d4fc9e646652dacc286ada10fe3d5a30476a3",
+    "title": "‘Baahubali,’ ‘RRR’ Tech Chief C.V. Rao, New SMPTE Fellow, on Why Indian Filmmakers Shouldn’t Depend on Overseas Facilities",
+    "summary": "C.V. Rao, who helped shape the production and post-production pipelines behind S.S. Rajamouli’s “Baahubali” films and “RRR,” has become the first technologist from South India to be named a Fellow of the Society of Motion Picture and Television Engineers (SMPTE). Rao, chief technology officer at Hyderabad-based Annapurna Studios, describes the honor as one that comes […]",
+    "category": "technology",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/news/baahubali-rrr-tech-chief-weaning-india-off-overseas-facilities-1236958697",
+    "published_at": "2026-11-26T02:57:01+00:00",
+    "date_unverified": false,
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/CV-Rao.jpg",
+    "collection_timestamp": "2026-11-26T06:49:49.013106+00:00",
+    "thin": false,
+    "author": "Naman Ramachandran",
+    "tags": [
+      "Asia",
+      "Global",
+      "News",
+      "Annapurna Studios",
+      "C.V. Rao",
+      "RRR",
+      "S.S. Rajamouli"
+    ]
+  },
+  {
     "id": "5c3ddaad0c574548cbabc2b9c8c18143295302a38bee3ceb50751a00047b6eb3",
     "title": "Google search alternative Kagi launches Gmail rival",
     "summary": "The pitch is an unusual combination of privacy promises and AI features.",
@@ -23,6 +80,26 @@
     ]
   },
   {
+    "id": "15b10adc4b135b61d0f320626a2306b5d5a8bf59190cd8541a95d7b02f1b60f4",
+    "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+    "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-In and $77 Onn Floodlight Camera Hardwired. However, a Google Home Premium subscription is still required […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+    "published_at": "2026-11-25T19:04:34-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-26T06:49:49.033286+00:00",
+    "thin": false,
+    "author": "Stevie Bonifield",
+    "tags": [
+      "Google",
+      "News",
+      "Smart Home",
+      "Tech"
+    ]
+  },
+  {
     "id": "b172faefa5a69b2a080c33d8a9448244233e190612b7ec8a8c7525196beaa109",
     "title": "Three Years After His Death, EA Is Using AI To Bring Back A Famed Commentator In FC 27",
     "summary": "EA Sports FC 27 is adding an AI-generated commentator for the first time in the series' history, with famed British commentator John Motson having his voice synthesized for the football title. Motson, who passed way in 2023, previously provided commentary for EA's FIFA series, appearing in the game's first iteration in 1996 and featuring until 2005. According to the BBC , EA approached Motson's wife and son for permission to regenerate his voice and use his likeness for this year's entry in the",
@@ -37,6 +114,27 @@
     "author": "Alessandro Barbosa",
     "tags": [
       "Gaming,News"
+    ]
+  },
+  {
+    "id": "2060bd8b8232b6fd6c63646260c0968c8a32c2cc4010a687a8d7e3b5e6fef130",
+    "title": "Amazon loses its latest attempt to get out of handling more recall notices",
+    "summary": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in favor of the CPSC, which argued that Amazon is a distributor of goods, not a logistics provider, making it […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+    "published_at": "2026-11-25T18:56:44-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23935558/acastro_STK103__01.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-26T06:49:49.034014+00:00",
+    "thin": false,
+    "author": "Emma Roth",
+    "tags": [
+      "Amazon",
+      "News",
+      "Online Shopping",
+      "Policy",
+      "Tech"
     ]
   },
   {
@@ -2235,47 +2333,6 @@
       "Gaming",
       "News",
       "PC Gaming"
-    ]
-  },
-  {
-    "id": "7ffcd09d30982dd504dd221c6d4f9f3de31b6833a45fbd8c4f7ee34c6608581e",
-    "title": "Some creators are skeptical of Instagram’s new affiliate program",
-    "summary": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to make it easier for influencers to make money from affiliate links - but some content creators are suspicious [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
-    "published_at": "2026-11-19T14:12:30-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK070_INSTAGRAM__A.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-19T22:44:17.078918+00:00",
-    "thin": false,
-    "author": "Mia Sato",
-    "tags": [
-      "Creators",
-      "Instagram",
-      "Meta",
-      "News",
-      "Report",
-      "Tech"
-    ]
-  },
-  {
-    "id": "e68afc615efb06a1dd9d5bd6f227419dfe764d4eb5cab4e5c6a19965166b0b00",
-    "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
-    "summary": "Sonos speakers and soundbars aren&#8217;t exactly cheap, but thankfully the company&#8217;s Black Friday sale has already begun, making everything a little easier to afford through November 30th. Most notably, you can pick up the Arc Ultra soundbar for a new low of $849 ($250 off) from Sonos, Amazon, and Best Buy, or the newfangled Sonos [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
-    "published_at": "2026-11-19T13:33:08-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268417_Sonos_Play_speaker_JHiggins_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-19T22:44:17.079100+00:00",
-    "thin": false,
-    "author": "Sheena Vasani",
-    "tags": [
-      "Black Friday",
-      "Cyber Monday",
-      "Deals",
-      "Gadgets",
-      "Verge Shopping"
     ]
   },
   {

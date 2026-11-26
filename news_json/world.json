@@ -1,5 +1,27 @@
 [
   {
+    "id": "099fc86982889f33b98d85003b9864a281a663aacdb99018448a1f2c9c25c43e",
+    "title": "FCC Bid Challenging ABC’s TV Licenses Halted in Major Win for Network",
+    "summary": "The ruling is a major setback for the administration in the government's campaign against ABC and national media.",
+    "category": "politics",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/business/business-news/fcc-bid-challenging-abc-tv-licenses-halted-1236763790",
+    "published_at": "2026-11-26T00:55:25+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-26T06:49:49.025752+00:00",
+    "thin": false,
+    "author": "Winston Cho",
+    "tags": [
+      "Business",
+      "Business News",
+      "ABC",
+      "business",
+      "FCC",
+      "legal"
+    ]
+  },
+  {
     "id": "1fc09ce07562a8752f28464bb32a80cb2caff67986a0b0a6a72688bf6aea3ee8",
     "title": "All The Songs In Disney’s ‘Hexed’: Queen, Dua Lipa & More",
     "summary": "Disney’s Hexed tells the story of a family trio of witches, disconnected from themselves, each other and their powers. Billie Doe (voiced by Hailee Steinfeld), a rebellious teen in Toledo, Ohio who does anything to get out from under her controlling mother’s (Rashida Jones) thumb, discovers a hidden world full of witches when her long […]",
@@ -1648,16 +1670,16 @@
     "author": "Eurostat http://ec.europa.eu/eurostat"
   },
   {
-    "id": "e301c3d5025d293462f1249d9fd903e800c3892b3739b00a85d3a61015a7fde5",
-    "title": "GDP up by 0.4% in the euro area and by 0.5% in the EU",
-    "summary": "In the third quarter of 2026, seasonally adjusted GDP increased by 0.4% in the euro area and by 0.5% in the EU, compared with the previous quarter, according to a preliminary flash estimate published by Eurostat, the statistical office of the European Union. In the second quarter of 2026, GDP had...",
+    "id": "9b823ae5b407ce003ef82dc5be3011305e29344ae53fde920cd5500c94affc3e",
+    "title": "Euro area unemployment at 6.5%",
+    "summary": "In September 2026, the euro area seasonally adjusted unemployment rate was 6.5%, stable compared with August 2026 and up from 6.3% in September 2025. The EU unemployment rate was 6.2% in September 2026, also stable compared with August 2026 and up from 6.0% in September 2025. These figures are pu...",
     "category": "world",
     "source": "Eurostat Press Releases",
-    "url": "https://ec.europa.eu/eurostat/product?code=2-30102026-ap",
+    "url": "https://ec.europa.eu/eurostat/product?code=3-30102026-bp",
     "published_at": "2026-10-30T10:00:00+00:00",
     "date_unverified": false,
     "image_url": null,
-    "collection_timestamp": "2026-11-25T23:44:26.072311+00:00",
+    "collection_timestamp": "2026-11-26T06:49:49.053877+00:00",
     "thin": false,
     "region": "europe",
     "image_policy": "none",
