@@ -22,7 +22,7 @@ from urllib.parse import urljoin
 try:
     from scripts.generate_article_pages import (article_slug, is_indexable_article, is_indexable_listing, is_thin, load_removed_hashes, parse_iso, CATEGORY_PAGE_FILTERS, MIN_INDEXABLE_LISTING_STORIES, MIN_INDEXABLE_CATEGORY_STORIES, MIN_INDEXABLE_LISTING_SOURCES, MIN_INDEXABLE_CATEGORY_SOURCES)
 except ImportError:
-    from generate_article_pages import (article_slug, is_indexable_article, is_indexable_listing, is_thin, load_removed_hashes, CATEGORY_PAGE_FILTERS, MIN_INDEXABLE_LISTING_STORIES, MIN_INDEXABLE_CATEGORY_STORIES)
+    from generate_article_pages import (article_slug, is_indexable_article, is_indexable_listing, is_thin, load_removed_hashes, parse_iso, CATEGORY_PAGE_FILTERS, MIN_INDEXABLE_LISTING_STORIES, MIN_INDEXABLE_CATEGORY_STORIES, MIN_INDEXABLE_LISTING_SOURCES, MIN_INDEXABLE_CATEGORY_SOURCES)
 
 # Configuration
 BASE_URL = "https://gogocompany.in/pikanews/"

@@ -122,3 +122,34 @@ def test_sitemap_does_not_count_tombstoned_stories_toward_topic_hub_threshold(tm
 
     assert "https://gogocompany.in/pikanews/technology.html" not in xml
     assert "https://gogocompany.in/pikanews/latest.html" not in xml
+
+def test_sitemap_script_fallback_import_works_when_run_as_a_file(tmp_path):
+    import subprocess
+    import sys
+    from pathlib import Path
+
+    repo_root = Path(__file__).resolve().parents[1]
+    scripts_dir = repo_root / "scripts"
+    news_dir = tmp_path / "news_json"
+    news_dir.mkdir()
+    (news_dir / "all_articles.json").write_text("[]", encoding="utf-8")
+    sitemap_path = tmp_path / "sitemap.xml"
+    code = """
+import sys
+scripts_dir, repo_root, news_dir, sitemap_path = sys.argv[1:5]
+sys.path = [scripts_dir] + [path for path in sys.path if path not in (repo_root, '')]
+import generate_sitemap as sitemap
+sitemap.NEWS_JSON_DIR = news_dir
+sitemap.SITEMAP_PATH = sitemap_path
+sitemap.generate_sitemap()
+"""
+    result = subprocess.run(
+        [sys.executable, "-c", code, str(scripts_dir), str(repo_root), str(news_dir), str(sitemap_path)],
+        cwd=str(tmp_path),
+        capture_output=True,
+        text=True,
+        check=False,
+    )
+    assert result.returncode == 0, result.stderr
+    assert sitemap_path.exists()
+    assert "https://gogocompany.in/pikanews/" in sitemap_path.read_text(encoding="utf-8")
