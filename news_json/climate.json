@@ -1,5 +1,45 @@
 [
   {
+    "id": "8718e4d3dd11c54bcf3d760b42e0463912dfdc03783fa4ff50fc0b15d2899859",
+    "title": "BBC Set to Be Investigated Over Antisemitism as Former Producer Says: ‘It Is a Hostile Environment for Jews Who Want to Be Openly Jewish’",
+    "summary": "The BBC is set to be investigated over antisemitism. The government’s independent adviser on antisemitism, Lord John Mann, has written to the broadcaster to outline his investigation. “I am a big supporter of the BBC and public broadcasting. It is precisely because I believe in the future of the BBC that I need to intervene […]",
+    "category": "climate",
+    "source": "Variety",
+    "url": "https://variety.com/2026/tv/global/bbc-investigation-antisemitism-lord-mann-1236958910",
+    "published_at": "2026-11-26T12:33:00+00:00",
+    "date_unverified": false,
+    "image_url": "https://variety.com/wp-content/uploads/2025/06/GettyImages-1365172587.jpg",
+    "collection_timestamp": "2026-11-26T17:09:51.796758+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "K.J. Yossman",
+    "tags": [
+      "Global",
+      "News",
+      "BBC"
+    ]
+  },
+  {
+    "id": "07844c9924ef18a525bb93cea5829aa63023ea05a0d2b45029facb861595ec2e",
+    "title": "‘What A Talent’: Belinda Carlisle, UB40, Spandau Ballet & More Remember Andy Taylor",
+    "summary": "Tributes are flooding in for Andy Taylor, the brawny founding guitarist for Duran Duran and The Power Station, who has passed away after a years-long battle with prostate cancer.",
+    "category": "climate",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/rock/belinda-carlisle-ub40-spandau-ballet-remember-andy-taylor-1236390136",
+    "published_at": "2026-11-26T08:04:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-26T17:09:51.817583+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Lars Brandle",
+    "tags": [
+      "Music",
+      "Rock",
+      "bbnews"
+    ]
+  },
+  {
     "id": "b68b30cc46ddde5a66ab8c4c30707c1a9692c9404ea51eeefc8b698bb8d70c44",
     "title": "AI data centers throw another wrench into chaotic UN climate talks",
     "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday. Each year, attendees […]",
@@ -18,7 +58,8 @@
       "Environment",
       "Policy",
       "Science"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "bbc3c1a2468cf2e9af26a08a90bf2a14361e037decf14ca39a8d0275f8620789",
@@ -31,7 +72,8 @@
     "date_unverified": false,
     "image_url": "https://image.cnbcfm.com/api/v1/image/108556441-1795183057823-gettyimages-2303993255-cm1_2267_5ajj8uug.jpeg?v=1795423139&w=1920&h=1080",
     "collection_timestamp": "2026-11-23T14:00:44.877133+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "3128fb4331a03107358fdb2cde8f1ee4d1e60266bc0406d460708beb6dde0182",
@@ -45,7 +87,30 @@
     "image_url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1122%2Fr1749444_1296x729_16%2D9.jpg",
     "collection_timestamp": "2026-11-22T05:51:46.639716+00:00",
     "thin": false,
-    "author": "Jenna Pel"
+    "author": "Jenna Pel",
+    "classification_version": 2
+  },
+  {
+    "id": "c72b697a455077241fb887853f673cd0072cba42246d7f0809eafe4dc54bb696",
+    "title": "Man Found Guilty of Igniting Blaze That Became the Devastating Palisades Fire",
+    "summary": "Jonathan Rinderknecht was found guilty for his role of intentionally starting the blaze that would become the most destructive wildfire in Los Angeles history",
+    "category": "climate",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/culture/culture-news/palisades-fire-man-guilty-arson-verdict-1235662039",
+    "published_at": "2026-11-21T03:32:18+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/palisades-fire-man-found-guilty.jpg?w=1600&h=900&crop=1",
+    "collection_timestamp": "2026-11-21T09:26:51.940697+00:00",
+    "thin": false,
+    "author": "Charisma Madarang",
+    "tags": [
+      "(Sub)Culture News",
+      "Culture",
+      "controversy",
+      "courts and crime",
+      "Los Angeles Fires"
+    ],
+    "classification_version": 2
   },
   {
     "id": "9b347aaf8c41cdb5b094b3c9e486bef9ca75823a6b198f75b00f7fa98253c611",
@@ -60,7 +125,8 @@
     "collection_timestamp": "2026-11-21T15:13:04.451321+00:00",
     "thin": false,
     "region": "global",
-    "image_policy": "none"
+    "image_policy": "none",
+    "classification_version": 2
   },
   {
     "id": "9a3fc88c0f249c795609981f5b7483484062c7034acc0c463e0b73acdbd69672",
@@ -75,7 +141,8 @@
     "collection_timestamp": "2026-11-21T15:13:04.451872+00:00",
     "thin": false,
     "region": "global",
-    "image_policy": "none"
+    "image_policy": "none",
+    "classification_version": 2
   },
   {
     "id": "a1f2d96a04dd9da0628d0ecc0a9cc4e5f6c642039dca6b5fbdcf165a22805143",
@@ -90,7 +157,8 @@
     "collection_timestamp": "2026-11-21T15:13:04.452015+00:00",
     "thin": false,
     "region": "global",
-    "image_policy": "none"
+    "image_policy": "none",
+    "classification_version": 2
   },
   {
     "id": "f8b3736b7448a6c97cc675b2c1682fe07a71d68b37bd71e5235642b0e89c0dba",
@@ -105,6 +173,7 @@
     "collection_timestamp": "2026-11-21T15:13:04.452171+00:00",
     "thin": false,
     "region": "global",
-    "image_policy": "none"
+    "image_policy": "none",
+    "classification_version": 2
   }
 ]

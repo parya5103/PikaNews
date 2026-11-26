@@ -1,5 +1,71 @@
 [
   {
+    "id": "f843fcabad65a3af517f6b9366049673e917fb6fa28391ed92179e457f5c88a3",
+    "title": "Planes, trains and automobiles: The best ways to beat travel fatigue—so you can come home feeling rested and fulfilled",
+    "summary": "Visiting loved ones for the holidays? Here's how to manage the travel fatigue, from a travel expert and a sleep medicine specialist.",
+    "category": "health",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/make-it/2026/11/26/travel-fatigue-holiday-tips.html",
+    "published_at": "2026-11-26T13:00:01+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-26T17:09:51.912927+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "309d74eb6ca53715345d0d6fa48efd05f6442597ec54c9bd81fa63e9bced6ff0",
+    "title": "‘Wild Horse Nine’ Outfit Blueprint & ‘Elsinore’ Producer Lucky Red Team For English-Language Remake Of German Comedy ‘No Hit Wonder’",
+    "summary": "EXCLUSIVE: Wild Horse Nine and Three Billboards Outside Ebbing, Missouri producer Blueprint Pictures has taken English-language remake rights to German dramedy No Hit Wonder, the story of a one hit wonder fallen on hard times who ends up in a psychiatric ward where he motivates the eccentric members of the resident choir to national glory. […]",
+    "category": "health",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/blueprint-lucky-red-english-language-remake-no-hit-wonder-1237233964",
+    "published_at": "2026-11-26T12:50:31+00:00",
+    "date_unverified": false,
+    "image_url": "https://deadline.com/wp-content/uploads/2026/05/GER-NHW-STILL-sRGB-241105-DT-23-LarsNitsch_A9_01663_full.jpg",
+    "collection_timestamp": "2026-11-26T17:09:51.804674+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Andreas Wiseman",
+    "tags": [
+      "News",
+      "Blueprint Pictures",
+      "Lucky Red",
+      "No Hit Wonder"
+    ]
+  },
+  {
+    "id": "02199dff3774f866baeb423614b31f7a8e15330fbbbb5094230dfd4ca2336cba",
+    "title": "EU bicycle production exceeds 10 million in 2025",
+    "summary": "Cycling is an eco-friendly and health-conscious mode of transportation with many fans. In 2025, the EU produced 10.4 million bicycles: 8.8 million were non-motorised and 1.6 million were motorised or assisted bicycles. Compared with 2024, non-motorised bicycle production increased by 4.3%, from ...",
+    "category": "health",
+    "source": "Eurostat News",
+    "url": "https://ec.europa.eu/eurostat/product?code=edn-20261126-1",
+    "published_at": "2026-11-26T10:00:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-26T17:09:51.930060+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "region": "europe",
+    "image_policy": "none",
+    "author": "Eurostat http://ec.europa.eu/eurostat"
+  },
+  {
+    "id": "ed84f069d190a5327d0f2558b4afacbba6da0e5d98611d4629235c6d32877407",
+    "title": "Who am I? Plus today's other quizzes",
+    "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+    "category": "health",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/c6ly5125qgy9o",
+    "published_at": "2026-11-26T06:53:51+00:00",
+    "date_unverified": false,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+    "collection_timestamp": "2026-11-26T17:09:51.924900+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
     "id": "1fc09ce07562a8752f28464bb32a80cb2caff67986a0b0a6a72688bf6aea3ee8",
     "title": "All The Songs In Disney’s ‘Hexed’: Queen, Dua Lipa & More",
     "summary": "Disney’s Hexed tells the story of a family trio of witches, disconnected from themselves, each other and their powers. Billie Doe (voiced by Hailee Steinfeld), a rebellious teen in Toledo, Ohio who does anything to get out from under her controlling mother’s (Rashida Jones) thumb, discovers a hidden world full of witches when her long […]",
@@ -18,7 +84,30 @@
       "Hexed",
       "Jodie Foster",
       "Rashida Jones"
-    ]
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "b1c391179ae1ba0fe7e2b5966d1b9c377384da63afc093fbc7be764f1bf67c82",
+    "title": "Duran Duran Guitarist Andy Taylor Dead at 65",
+    "summary": "Rock & Roll Hall of Fame inductee, who co-wrote “Hungry Like the Wolf” and “Rio,” had been battling stage 4 prostate cancer",
+    "category": "health",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/duran-duran-guitarist-andy-taylor-dead-obituary-1234634531",
+    "published_at": "2026-11-25T21:32:48+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-25T23:44:25.999656+00:00",
+    "thin": false,
+    "author": "Andy Greene",
+    "tags": [
+      "Music",
+      "Music News",
+      "Duran Duran",
+      "obit",
+      "Obituary"
+    ],
+    "classification_version": 2
   },
   {
     "id": "2633a875f3b899619cbfbdd703955fbbc9f1130cdcd8093c01c9c34d49384483",
@@ -43,7 +132,8 @@
       "Tangles",
       "The Further Mis-Adventures of Cliff Booth",
       "Who Is Still Alive"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "a72d68475514979b3b1476bb26d0bb4458f8efb50ba0db0ef627d1c53c056afc",
@@ -62,7 +152,8 @@
       "News",
       "Steven Universe",
       "Zyri"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "4a2c2d66cc5d8a5dad7a02548b7bb80da284617c3608c2a9d96dc58f4ddb4e1d",
@@ -81,7 +172,8 @@
       "Gadgets",
       "Gift Guides",
       "Verge Shopping"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "0385f6c282a825f7d9653a402ff9170d97c3fc39c994f90da7cca0f207416e54",
@@ -95,7 +187,8 @@
     "image_url": null,
     "collection_timestamp": "2026-11-25T23:44:26.049889+00:00",
     "thin": false,
-    "author": "Jeremy Fowler and Dan Graziano"
+    "author": "Jeremy Fowler and Dan Graziano",
+    "classification_version": 2
   },
   {
     "id": "b2c900e9e2c5cbcb0b573d70896612ff9694d1fab9fa3034ba1a12cbb4565587",
@@ -109,7 +202,8 @@
     "image_url": null,
     "collection_timestamp": "2026-11-25T23:44:26.051452+00:00",
     "thin": false,
-    "author": "Heather Dinich"
+    "author": "Heather Dinich",
+    "classification_version": 2
   },
   {
     "id": "11d79450d146babe94e951978a2521f15f0d0a8009a0176730259fb90759362a",
@@ -129,7 +223,8 @@
       "CNN",
       "Dolly Parton",
       "Miley Cyrus"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "bebb98453d1b1dc4e6c4193aec0601ea089d669aa8906dbfac4c55093525f827",
@@ -143,7 +238,8 @@
     "image_url": null,
     "collection_timestamp": "2026-11-25T23:44:26.053929+00:00",
     "thin": false,
-    "author": "Greg Wyshynski"
+    "author": "Greg Wyshynski",
+    "classification_version": 2
   },
   {
     "id": "1621aeb02e8ac6c28b86241608b8d03c833b0058170c482d32f838059fa0658f",
@@ -156,7 +252,8 @@
     "date_unverified": false,
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
     "collection_timestamp": "2026-11-25T15:24:51.095803+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "3b045e36e9fe9ba8159cf750172cf127e14b381d40044e40513ff514713daac9",
@@ -170,7 +267,8 @@
     "image_url": null,
     "collection_timestamp": "2026-11-25T23:44:26.060514+00:00",
     "thin": false,
-    "author": "Tor-Kristian Karlsen"
+    "author": "Tor-Kristian Karlsen",
+    "classification_version": 2
   },
   {
     "id": "df8516fbf9fe19d792137028c1c0f953a6e2b352e187d1cd78a32e8f2cadb97d",
@@ -196,7 +294,8 @@
       "Nicole Scherzinger",
       "Valentin Chmerkovskiy",
       "Witney Carson"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "97303e0f089f51d80a69a8b3f850b2feb3a0d98b51bc7741b1ac2cc11949fbd5",
@@ -216,7 +315,8 @@
       "ABC",
       "Dancing With The Stars",
       "Recap"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "2b42335d5e9526e5edbba77e5fee03281e77517e5b472a147f4fa6b10f0df2c7",
@@ -234,7 +334,8 @@
     "tags": [
       "News",
       "Glee"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "b5b55f8ff41ecac4d4778a8b11550c180ba643acafe51f22570b97bb1f7a6478",
@@ -256,7 +357,8 @@
       "Dancing With the Stars: The Next Pro",
       "DWTS",
       "Reality TV"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "05f9eabffc8a8a19cf9cd3847aef7db08f910c6458b9628e6721c2f7bc794892",
@@ -276,7 +378,8 @@
       "Obituaries",
       "All That Jazz",
       "Philip Rosenberg"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "23573572617dcb4636f89f1b5cd0cda4470ab0c40ac043fd71fbae41e1586c5b",
@@ -295,7 +398,8 @@
       "News",
       "ABC",
       "Rei Ami"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "61d4d6b511555387eb964a797b87a81dc71630d35eae2679c6ead380706be4d2",
@@ -317,7 +421,8 @@
       "Golden Globes",
       "Obsession",
       "The Odyssey"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "5f1a0a35ed47081963ef0b748df811758b8098ccfbd608717b144c9d35ba263f",
@@ -341,7 +446,8 @@
       "DWTS",
       "Julianne Hough",
       "Reality TV"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "daddb456bbf2842ac91731e24e84b0cfe51f6d40bcbe65cbc18e00914128a137",
@@ -366,7 +472,8 @@
       "Reality TV",
       "Tatyana Ali",
       "The Fresh Prince of Bel-Air"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "4bc8ba7bff8d27726e6055a1348466b990e238677d8891010a73f7f15dfe76b4",
@@ -388,7 +495,22 @@
       "Kelly Rowland",
       "Onyx Collective",
       "Reasonable Doubt"
-    ]
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "588aaa09b84d6db638d54f480ed2ccaecca1f18cca35a289b7af5475ce211bc7",
+    "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+    "summary": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
+    "category": "health",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+    "published_at": "2026-11-24T20:42:07+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-24T22:18:25.244802+00:00",
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "b770eda5e25589e3efbeefe9efd402707d990ddf68c99559f958ea244ef2668c",
@@ -409,7 +531,31 @@
       "James Marsden",
       "Marvel Studios",
       "X-Men"
-    ]
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "2f5c03a0fb21a380c372399b581b0691a83a26675a7923feb81a24dcc063c68d",
+    "title": "Nick Carter Ordered to Stand Trial on Sexual Assault Claims From Dream Singer Melissa Schuman",
+    "summary": "The Backstreet Boys member denies assaulting Schuman or any of the other women who've accused him of sexual misconduct.",
+    "category": "health",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/pro/nick-carter-trial-sexual-assault-lawsuit-dream-singer",
+    "published_at": "2026-11-24T20:14:33+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.billboard.com/wp-content/uploads/2026/10/137381440-e1792615242299.jpg?w=237&h=147&crop=1",
+    "collection_timestamp": "2026-11-24T22:18:25.177770+00:00",
+    "thin": false,
+    "author": "Rachel Scharf",
+    "tags": [
+      "Business",
+      "Legal News",
+      "lawsuit",
+      "Legal",
+      "Music News",
+      "nsfs"
+    ],
+    "classification_version": 2
   },
   {
     "id": "e6405d9e6575f0d66ec7a939ed04aad9a045ddee909a4a69fc3a8b5074b170e6",
@@ -422,7 +568,8 @@
     "date_unverified": false,
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4fa/live/a6b3ed00-e83b-11f1-917e-35f1674fb52c.jpg",
     "collection_timestamp": "2026-11-24T22:18:25.255434+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "614cf72a317796abfd564c0321112f4ea22a8ebf46cf0a4a9eaf48e8306e6f31",
@@ -435,7 +582,22 @@
     "date_unverified": false,
     "image_url": null,
     "collection_timestamp": "2026-11-24T22:18:25.248677+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "03f6dbd357413f3320d90bf33e00dda51b80d210268ded9e7cfd2cb39a5e773e",
+    "title": "U.S. court clears the way for Army’s planned ammunition detonation in Iowa",
+    "summary": "A U.S. court cleared the Army to detonate degraded explosives at an Iowa ammunition plant amid public concern over contamination and health risks.",
+    "category": "health",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/24/iowa-detonation-bomb-court-.html",
+    "published_at": "2026-11-24T11:56:49+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108557978-1795480100262-gettyimages-2306544745-l1091223_copy_8knu6qqg.jpeg?v=1795480115&w=1920&h=1080",
+    "collection_timestamp": "2026-11-24T11:59:34.050935+00:00",
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "5ed59172163da1acd02f29a6fe3b26c0a53b1ccb1164e5b6e975933960ad3f44",
@@ -456,7 +618,8 @@
       "Fin Taylor",
       "Fin vs History",
       "Horatio Gould"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "5f3d073c8be64dfed742c7fdd0f75235b42977ae7c3f2df1f000ce3281bfe9c9",
@@ -469,7 +632,31 @@
     "date_unverified": false,
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
     "collection_timestamp": "2026-11-24T11:59:34.054830+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "51e2d168eac7d4f441649227ffa188080fcf1a830c49c5eb234d3c167ca09628",
+    "title": "The Best Magnesium Supplements and What to Look For, According to an Expert",
+    "summary": "We asked a doctor to explain one of the trendiest supplements on the market: magnesium. Here's what she said",
+    "category": "health",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/product-recommendations/lifestyle/best-magnesium-supplements-according-to-expert-shop-online-1235617573",
+    "published_at": "2026-11-24T05:02:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-24T11:59:34.038780+00:00",
+    "thin": false,
+    "author": "Sophie Dunne",
+    "tags": [
+      "Lifestyle",
+      "RS Recommends",
+      "Health",
+      "noads",
+      "Shopping",
+      "supplements"
+    ],
+    "classification_version": 2
   },
   {
     "id": "5a6e5d8b6ac320e45a2c28b381179556c649af5b1fb9726a02fd97903aaa301b",
@@ -490,7 +677,8 @@
       "Avengers: Doomsday",
       "Marvel Studios",
       "Oscars"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "525b8789d685f7b9121b1a235fca279195f564873aaf0ff616de4b0d1506a9e1",
@@ -503,7 +691,8 @@
     "date_unverified": false,
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd6f/live/0a40f760-e791-11f1-99b6-a35a62fa4264.jpg",
     "collection_timestamp": "2026-11-24T01:48:01.454205+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "8a148c14a903cdd805e76f9067f336883b1a0c0236016b95cf3c5ff3570703f3",
@@ -522,7 +711,8 @@
       "TV",
       "TV Features",
       "Sienna Miller"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "c29cce9f17a2acb4e1efaf5b7225c725f799d2c1f6eab1bf599f883abc129f8c",
@@ -546,7 +736,8 @@
       "Politics",
       "Report",
       "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "1d4578cb90ff32e2b157890f9c833892be97b8a12473f408d882b962f9d39dda",
@@ -564,7 +755,8 @@
     "tags": [
       "News",
       "The Dark Side Of Surfing"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "62f300eabaa2beeddbdd01240c11672fb7dbdba1bba6a0864edcd0aafcf89b06",
@@ -577,7 +769,8 @@
     "date_unverified": false,
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
     "collection_timestamp": "2026-11-23T14:00:44.883420+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "4411e88c1b1403b4f8842fd117ef3a5de26ce55bf6583a2bb2ab8228aaa24917",
@@ -590,7 +783,8 @@
     "date_unverified": false,
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95bc/live/7cf324d0-e68e-11f1-936e-1fd1d31671db.jpg",
     "collection_timestamp": "2026-11-23T14:00:44.885105+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "b5ca861f1b60811fbe794dc719e911a37bce03fb4bba1003af2667a04b85f69b",
@@ -610,7 +804,8 @@
       "News",
       "Avengers: Doomsday",
       "Hailee Steinfeld"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "6aa2b1c4f802158cc427ce1cd0b60bb5635af570b50136b16605c820fd67d7b7",
@@ -629,7 +824,8 @@
       "News",
       "Chris Colfer",
       "Glee"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "cba6e8743af7ddaf43c6412ce2c70908e52bf83ae9cc1e1b72fd1c920228b25c",
@@ -648,7 +844,8 @@
       "Obituaries",
       "People News",
       "90 Day Fiancé: Before the 90 Days"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "605027f73dd89a3fc66cfcc6e302fe2b3b3a34046cb5698424341524cfd4dc6a",
@@ -668,7 +865,8 @@
       "People News",
       "ESPN",
       "Tom Jackson"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "ffe336784f9300eb4b7b29270b343a3f2e6b876e3a90a832aaf7f8134b09664e",
@@ -690,7 +888,8 @@
       "Doha Film Festival",
       "Joe Russo",
       "Qatar Film Committee"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "5ab1fa7323a8c18ce35c422d46c5c5821706552e823fba59219f45bf3a3394f3",
@@ -709,7 +908,8 @@
       "News",
       "Obituaries",
       "90 Day Fiancé"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "cfa121a0618646d0a461b67c7c6f5ce6dc20be25c90604d8455a02397b56554a",
@@ -722,7 +922,8 @@
     "date_unverified": false,
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9356/live/dbad47c0-e64e-11f1-a563-e14cd8b02601.jpg",
     "collection_timestamp": "2026-11-22T17:58:21.840099+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "889a68382e68efa3cc7ef9e8b0f772dbaece835d71f508412746ab611c3c1b14",
@@ -743,7 +944,8 @@
       "Ameer Fakher Eldin",
       "Doha Film Festival",
       "Taim Hassan"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "7ed9e25198be7fb428db44eebadac00d9bb135eb2250f3e175e3706291d697ea",
@@ -763,7 +965,8 @@
       "Podcasts",
       "Tech",
       "Version History"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "bc4acd97d0cafec96c665e585535a9f48195ebca29f152d8b2563fac8c2fafea",
@@ -782,7 +985,8 @@
       "News",
       "Camila Cabello",
       "KATSEYE"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "565e22edae94b0e895ebadeab4802bd51d332b6149924645d2f22c2d999dbb25",
@@ -806,7 +1010,8 @@
       "International Film Festival Of India",
       "Jacques Audiard",
       "Karla Sofia Gascon"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "4f2a8f51395e5b95c8947edae2385bc203f9e7760cc0010e37af94ee1dfd2299",
@@ -819,7 +1024,8 @@
     "date_unverified": false,
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87e1/live/1b00e450-9afe-11f1-a291-b542ee92de7c.jpg",
     "collection_timestamp": "2026-11-22T10:11:21.384911+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "85912d37b57a28b4e8ec991c9bd82866cdbec0580898a1d2e96cf9507ff6d814",
@@ -832,7 +1038,8 @@
     "date_unverified": false,
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
     "collection_timestamp": "2026-11-22T10:11:21.385767+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "831c7a4db5c50e6353469a7da59abeb958c9666812be153f1583236b0ff31396",
@@ -855,7 +1062,8 @@
       "SAG-AFTRA Health Plan",
       "Screen Actors Guild",
       "Sean Astin"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "20c9c2069ada50cd5ef496348d0e980af51812f304854d59d1bf956d4b0f84d2",
@@ -868,7 +1076,8 @@
     "date_unverified": false,
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a2f/live/94b2a780-e5df-11f1-9ab8-8737221634d6.jpg",
     "collection_timestamp": "2026-11-21T19:44:15.207149+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "8d982c2ce6cb3b2bd648eab37ad240105549bc658b0dfbb4cbd6ad29e50fd109",
@@ -881,7 +1090,8 @@
     "date_unverified": false,
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fccd/live/a1406b50-e5de-11f1-99b6-a35a62fa4264.jpg",
     "collection_timestamp": "2026-11-21T19:44:15.207248+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "f71477f62a524687cfcc9aef007031ab8077af88c0dbf66811e4a848a2e8d4bf",
@@ -894,7 +1104,8 @@
     "date_unverified": false,
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a7a/live/8ad75db0-e5d9-11f1-9ab8-8737221634d6.jpg",
     "collection_timestamp": "2026-11-21T19:44:15.207346+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "b6ec68f902b5bba5c788f30840cb9b8e9ff817971a7576a3e5e6ef73385d4330",
@@ -908,7 +1119,8 @@
     "image_url": null,
     "collection_timestamp": "2026-11-22T05:51:46.643416+00:00",
     "thin": false,
-    "author": "J.J. Post"
+    "author": "J.J. Post",
+    "classification_version": 2
   },
   {
     "id": "9f9ec448fb5058e692cbad6eee548baf2441e5b59e6f5c2d82c0f04712f3c8cc",
@@ -926,7 +1138,22 @@
     "tags": [
       "News",
       "Liz Daly Byrne"
-    ]
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "ceada92db1c10ca8b5123a3bbf4a5ecf3e90bc33042141076eb28f48df8d1346",
+    "title": "I never wanted the American Dream and I felt like something was wrong with me—until I moved abroad",
+    "summary": "\"I realized it was okay to want something different,\" says Cepee Tabibian, who moved to Spain in 2015 at age 35.",
+    "category": "health",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/make-it/2026/11/21/never-wanted-american-dream-moving-abroad-redefine-success.html",
+    "published_at": "2026-11-21T15:00:02+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108556562-1795191385939-067.jpg?v=1795191458&w=1920&h=1080",
+    "collection_timestamp": "2026-11-21T15:13:04.429695+00:00",
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "1b6ed9813c9588cad99ea17121c3f48497c381b7adec56fa19a6c07017f4c997",
@@ -946,7 +1173,8 @@
       "Obituaries",
       "Anthony Clark",
       "Cause of Death"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "1afccb1b879494dbb6574180e830687a9a0ea60c714b69ce39fd93bb2cb1ee23",
@@ -967,7 +1195,283 @@
       "Deals",
       "Gadgets",
       "Verge Shopping"
-    ]
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "02e3cb1b866162250c7fffe8bf1a6f59059cb3b31ad2c32fcf0ffddec8940f03",
+    "title": "Who am I? Plus today's other quizzes",
+    "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+    "category": "health",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cjwy5d3lxvkzo",
+    "published_at": "2026-11-21T06:50:31+00:00",
+    "date_unverified": false,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+    "collection_timestamp": "2026-11-21T09:26:51.967254+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "0a32c8b39d389caf5c3a2f4fd8bda6c5ec28838b7de75b6ff4ec671e81ca7212",
+    "title": "Gil, '24 AL Rookie of Year, cut loose by Yankees at MLB tender deadline",
+    "summary": "Veteran starting pitcher Luis Gil, 28, a former American League Rookie of the Year, was cut loose by the New York Yankees, among 44 players who became MLB free agents when their teams declined to offer 2027 contracts by Friday's tender deadline.",
+    "category": "health",
+    "source": "ESPN",
+    "url": "https://www.espn.com/mlb/story/_/id/50545849/yankees-cut-gil-24-al-rookie-year-tender-deadline",
+    "published_at": "2026-11-21T03:58:53+00:00",
+    "date_unverified": false,
+    "image_url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1121%2Fr1748801_1296x729_16%2D9.jpg",
+    "collection_timestamp": "2026-11-21T11:55:22.214725+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "2acc4605b86e443c941796dd3b134000bf5bac3e30ef363735c03e073e9012a2",
+    "title": "Under Pressure From Struggling Members, SAG-AFTRA Vows to Advocate for Universal Healthcare",
+    "summary": "The union has created a healthcare task force as its members talk openly about having troubles qualifying for its health plan and paying dues.",
+    "category": "health",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-advocate-universal-healthcare-under-pressure-1236760332",
+    "published_at": "2026-11-21T01:50:09+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2021/05/HollywoodLandmarks243867Finals-H-2021.jpg?w=1296&h=730&crop=1",
+    "collection_timestamp": "2026-11-21T01:57:58.190543+00:00",
+    "thin": false,
+    "author": "Katie Kilkenny",
+    "tags": [
+      "Business",
+      "Business News",
+      "Duncan Crabtree-Ireland",
+      "SAG-AFTRA"
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "3f0929ca18a100476bf02805516fc9d15bf7db7cb26e8b22bddd877f01b85551",
+    "title": "Nick Cannon Hospitalized Amid Lupus Battle: ‘Pray for Me, Y’all!’",
+    "summary": "Cannon was diagnosed with the autoimmune disease in 2012.",
+    "category": "health",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/rb-hip-hop/nick-cannon-hospital-lupus-prayers-1236387115",
+    "published_at": "2026-11-21T00:26:42+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.billboard.com/wp-content/uploads/stylus/1737459-nick-cannon-gma-200-133.jpg?w=200&h=133&crop=1",
+    "collection_timestamp": "2026-11-21T01:57:58.193224+00:00",
+    "thin": false,
+    "author": "Michael Saponara",
+    "tags": [
+      "Music",
+      "R&B/Hip-Hop",
+      "genre hiphop",
+      "Music News"
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "236a855e976f5e74d07255b2d400228076c43d59c09fed406f3e13e5d8b76e80",
+    "title": "Kristin Chenoweth to Honor Late Dolly Parton With Gay Men’s Chorus of Los Angeles at Holiday Shows",
+    "summary": "\"Celebrating my queen Dolly Parton with the Gay Men's Chorus of Los Angeles? It just doesn’t get any better,\" said Chenoweth, who will hit the stage at Saban Theatre on Dec. 12-13.",
+    "category": "health",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/lifestyle/arts/kristin-chenoweth-dolly-parton-gay-mens-chorus-la-concerts-1236760027",
+    "published_at": "2026-11-20T17:34:34+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/GettyImages-1498027955.jpg?crop=0px%2C238px%2C5184px%2C2901px&resize=1440%2C810",
+    "collection_timestamp": "2026-11-20T19:50:58.364098+00:00",
+    "thin": false,
+    "author": "Chris Gardner",
+    "tags": [
+      "Arts",
+      "Lifestyle",
+      "Dolly Parton",
+      "Kristin Chenoweth",
+      "Local"
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "6374cfc94d939eda292020bbb2bd8ae0e55baf9b9c69061880f900290ce524bf",
+    "title": "‘Josephine’ Will Floor You",
+    "summary": "Filmmaker Beth de Araújo’s story of an eight-year-old who witnesses an assault is nothing short of phenomenal",
+    "category": "health",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-reviews/josephine-review-channing-tatum-1235653077",
+    "published_at": "2026-11-20T16:45:00+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/JOSEPHINE_review-lead.jpg?w=1600&h=900&crop=1",
+    "collection_timestamp": "2026-11-20T19:50:58.367702+00:00",
+    "thin": false,
+    "author": "David Fear",
+    "tags": [
+      "TV & Movies",
+      "TV & Movies Reviews",
+      "Channing Tatum",
+      "Sundance",
+      "Sundance Film Festival"
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "a72999e9cb83d8618a615c13493d7dc7b2ba832ba36db378b33c774e8a005187",
+    "title": "Scotland change captain again as Darge injured",
+    "summary": "Scotland are forced into a late change for Saturday's Nations Championship visit by Japan after Rory Darge, who was due to captain the side, is ruled out through injury.",
+    "category": "health",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5n4ey83wk9ko",
+    "published_at": "2026-11-20T11:58:22+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3ee/live/fcb9a610-e4d8-11f1-8940-3b665e3e1326.jpg",
+    "collection_timestamp": "2026-11-20T12:29:55.756395+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "d036ac6f3f0494ce50a10ad9aa6ebf0819a98b6a3ca560b67a5379946382ba63",
+    "title": "Another Scotland captain change after Darge injury blow",
+    "summary": "Scotland are forced into a late change for Saturday's Nations Championship visit by Japan after Rory Darge, who was due to captain the side, is ruled out through injury.",
+    "category": "health",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5n4ey83wk9ko",
+    "published_at": "2026-11-20T11:58:22+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3ee/live/fcb9a610-e4d8-11f1-8940-3b665e3e1326.jpg",
+    "collection_timestamp": "2026-11-20T12:29:55.759218+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "17197a22f38397465a1b422411bb3ea54f9540fcfa91c7e63aa365d7ad690066",
+    "title": "Round 1 predictions: Who will move on to the conference semifinals?",
+    "summary": "Round 1 of the MLS Cup playoffs begins Saturday, so who will emerge from the best-of-three series? ESPN's U.S. soccer analysts make their predictions.",
+    "category": "health",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/50520734/mls-playoff-round-1-predictions-lionel-messi",
+    "published_at": "2026-11-20T10:25:50+00:00",
+    "date_unverified": false,
+    "image_url": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1119%2Fr1748180_1296x729_16%2D9.jpg",
+    "collection_timestamp": "2026-11-21T11:55:22.222536+00:00",
+    "thin": false,
+    "author": "Jeff Carlisle and Joseph Lowery",
+    "classification_version": 2
+  },
+  {
+    "id": "291603b71b098dd9812001a2bd4e4b4b5146f1f3d24c1f4ac5acf0737a6999a3",
+    "title": "Who will win the NWSL Championship? Predicting Washington Spirit vs. Kansas City Current",
+    "summary": "The NWSL Championship on Saturday pits the Washington Spirit vs. the Kansas City Current. Is Trinity Rodman the player to watch? Who will win? And more!",
+    "category": "health",
+    "source": "ESPN",
+    "url": "https://www.espn.com/soccer/story/_/id/50535786/nwsl-championship-rodman-washington-spirit-kansas-city",
+    "published_at": "2026-11-20T07:13:39+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-21T11:55:22.222803+00:00",
+    "thin": false,
+    "author": "Jeff Kassouf and Jenna Pel",
+    "classification_version": 2
+  },
+  {
+    "id": "5ccf0a53223d1098a92ea347d32d5bda8312fc1fb4f428495340d9913e5bf08d",
+    "title": "Who am I? Plus today's other quizzes",
+    "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+    "category": "health",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/football/articles/cw772r7g87y0o",
+    "published_at": "2026-11-20T06:43:38+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png",
+    "collection_timestamp": "2026-11-20T12:29:55.758469+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "9b6b0c863ea8b39166cb29ccc2dfb86fe144d7bbc44cc57ab8f5908177599fa8",
+    "title": "‘War’ Stars Sienna Miller and Dominic West Tussle Over Who Won the Divorce Drama: ‘Gwyneth Paltrow Ran So That the Rest of Us Could Walk’",
+    "summary": "SPOILER ALERT: This article contains major spoilers for “War,” which had its season finale on Nov. 19 on HBO and HBO Max in the U.S., and drops on Nov. 20 on Sky and NOW in the U.K. The climactic season finale of “War”—&#160; the Sky and HBO drama series starring Sienna Miller and Dominic West [&#8230;]",
+    "category": "health",
+    "source": "Variety",
+    "url": "https://variety.com/2026/tv/global/war-finale-sienna-miller-dominic-west-final-scene-who-won-divorce-1236951845",
+    "published_at": "2026-11-20T03:00:00+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Sienna-Miller-Dominic-West-War.jpg",
+    "collection_timestamp": "2026-11-20T03:52:04.272121+00:00",
+    "thin": false,
+    "author": "K.J. Yossman",
+    "tags": [
+      "Global",
+      "News",
+      "Dominic West",
+      "HBO",
+      "Sienna Miller",
+      "Sky"
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "ee74836c1d78c388ab69a2504ff5b2866615d45bfbe856ca8ade83a7ba705768",
+    "title": "Bill Hader’s Feature Directorial Debut ‘They Know’ Acquired by Black Bear",
+    "summary": "Black Bear has acquired the North American rights to Bill Hader&#8217;s feature directorial debut &#8220;They Know.&#8221; Hader also wrote and stars in the horror-thriller with Linda Cardellini. Based on an idea from Hader and his &#8220;Barry&#8221; collaborator Duffy Boudreau, &#8220;&#8216;They Know&#8217; follows a divorced dad who becomes increasingly suspicious and paranoid that his ex-wife&#8217;s new [&#8230;]",
+    "category": "health",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/news/bill-hader-horror-movie-they-know-acquired-black-bear-1236953795",
+    "published_at": "2026-11-20T00:30:46+00:00",
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/MixCollage-19-Nov-2026-04-22-PM-3973.jpg",
+    "collection_timestamp": "2026-11-20T03:52:04.272746+00:00",
+    "thin": false,
+    "author": "Jack Dunn",
+    "tags": [
+      "News",
+      "Bill Hader",
+      "Black Bear",
+      "Linda Cardellini",
+      "They Know"
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "48f7bc27c0b9885d75c9b005ba9730b38396079d63d731cfd2a17274ddb546ab",
+    "title": "Trump posthumously pardons US baseball legend Pete Rose",
+    "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+    "category": "health",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo",
+    "published_at": "2026-11-19T23:51:50+00:00",
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a82/live/d2560a80-e465-11f1-80e9-fd4d95b40178.jpg",
+    "collection_timestamp": "2026-11-20T03:52:04.300543+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "6ae29b71db21603950bdbe5af734775572a9318b7c89c9d566cc029f25c1d0d6",
+    "title": "Why the President (Any President) Shouldn’t Meddle In Who Receives Kennedy Center Honors: Critic’s Take",
+    "summary": "Barbra Streisand and George W. Bush showed us the way.",
+    "category": "health",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/awards/president-kennedy-center-honors-say-1236385920",
+    "published_at": "2026-11-19T21:29:01+00:00",
+    "image_url": "https://www.billboard.com/wp-content/uploads/2026/11/91261052-e1793729857458.jpg?w=237&h=147&crop=1",
+    "collection_timestamp": "2026-11-19T22:44:17.071623+00:00",
+    "thin": false,
+    "author": "Paul Grein",
+    "tags": [
+      "Awards",
+      "Music",
+      "Kennedy Center Honors"
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "556197a1d9352f555f9ac3789ce3bd248b1f5505fdbb60013e799ebf1e2012dc",
+    "title": "Kitten i rescued is now obsessed with me",
+    "summary": "Hello. I rescued a kitten in august. She was from a weak litter at my friend’s alley. My friend said the mom was weak and the kittens were dying so she begged me to save one (two died and two survived) anyways we named her marble but she was soooo sick and underweight. I nursed her back to health and got her caught up on vaccines and soon she will be fixed. She is fine, more than fine i’d say and adjusted well to my older bigger cat. She is though, obsessed with me. She follows me everywhere, if",
+    "category": "health",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/cats/comments/1xyaaxv/kitten_i_rescued_is_now_obsessed_with_me",
+    "published_at": "2026-11-17T03:48:23+00:00",
+    "image_url": "https://preview.redd.it/hr5nc30hh32i1.jpeg",
+    "collection_timestamp": "2026-11-17T08:53:28.149585+00:00",
+    "thin": false,
+    "author": "/u/Constant-Belt7217https://www.reddit.com/user/Constant-Belt7217",
+    "tags": [
+      "cats"
+    ],
+    "classification_version": 2
   },
   {
     "id": "c3f6fd7c26975d1536e16c2175a6eee4a6213d04522d7aed21aa9c3faec0c763",
@@ -982,7 +1486,8 @@
     "collection_timestamp": "2026-11-21T15:13:04.451605+00:00",
     "thin": false,
     "region": "global",
-    "image_policy": "none"
+    "image_policy": "none",
+    "classification_version": 2
   },
   {
     "id": "80a9396a16949d3598d025b628835c1058e523dab223cf683a90b51b9befaed2",
@@ -997,6 +1502,7 @@
     "collection_timestamp": "2026-11-21T15:13:04.451725+00:00",
     "thin": false,
     "region": "global",
-    "image_policy": "none"
+    "image_policy": "none",
+    "classification_version": 2
   }
 ]

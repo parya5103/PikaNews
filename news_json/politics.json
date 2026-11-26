@@ -1,5 +1,128 @@
 [
   {
+    "id": "5635e7fca64478ee6b5c07c6f53c662bdedcc5f10b2cb9638bed2b88a44da83e",
+    "title": "Jalen Brunson Is Teaming Up With Lowe’s for a Black Friday Giveaway Worth Millions",
+    "summary": "We sat down with the NBA superstar to talk about his latest campaign, his favorite holiday traditions, and why he’s a proud \"Belieber\"",
+    "category": "politics",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/product-recommendations/lifestyle/best-lowes-black-friday-deals-2026-shop-online-1235664845",
+    "published_at": "2026-11-26T15:56:52+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/best-carhartt-gifts-1.jpg?w=1534&h=900&crop=1",
+    "collection_timestamp": "2026-11-26T17:09:51.819152+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Alexis Mikulski Ruiz",
+    "tags": [
+      "Lifestyle",
+      "RS Recommends",
+      "black friday",
+      "jalen brunson",
+      "Knicks",
+      "noads",
+      "Shopping"
+    ]
+  },
+  {
+    "id": "32b2c3aab3e0da7fe7e431cb5787922bb9d169e3b96d41bb02b2c66797ba6eb0",
+    "title": "BBC Under Investigation for Antisemitism Amid “Growing Feeling of Discomfort Among Jewish Staff”",
+    "summary": "Government adviser John Mann has opened his own investigation into the broadcaster, as a rep for says: \"We take any and all allegations of discrimination extremely seriously.\"",
+    "category": "politics",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/news/general-news/bbc-antisemitism-investigation-jewish-lord-john-mann-1236764004",
+    "published_at": "2026-11-26T15:45:50+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/FotoJet-2026-10-20T153306.896.jpg?w=1440&h=810&crop=1",
+    "collection_timestamp": "2026-11-26T17:09:51.807792+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Lily Ford",
+    "tags": [
+      "General News",
+      "News",
+      "BBC",
+      "international",
+      "united kingdom"
+    ]
+  },
+  {
+    "id": "2052df584404efc1975d29720caa097dce680a9e7d568fada87079f018a55e94",
+    "title": "BBC Being Investigated Over Antisemitism By Government Adviser",
+    "summary": "The UK government’s antisemitism tsar is probing the BBC. John Mann told the Today programme he has opened an investigation to see how “widespread” Jewish staff’s “feeling of discomfort” is within the corporation. According to The Times, whistleblowers have already told him they consider the BBC a “hostile environment.” Mann said his investigation should complete […]",
+    "category": "politics",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/bbc-antisemitism-investigation-john-mann-government-1237233983",
+    "published_at": "2026-11-26T11:40:40+00:00",
+    "date_unverified": false,
+    "image_url": "https://deadline.com/wp-content/uploads/2024/02/GettyImages-1739364578.jpg",
+    "collection_timestamp": "2026-11-26T17:09:51.805368+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Max Goldbart",
+    "tags": [
+      "News",
+      "Antisemitism",
+      "BBC",
+      "Lucie Kon",
+      "October 7"
+    ]
+  },
+  {
+    "id": "5f005cc9c315192ee60c3302664958d9cfa0e51949df2ad11bb2aba1f1e59ce4",
+    "title": "Federal judge blocks the FCC from reviewing ABC’s licenses early",
+    "summary": "US District Judge Loren AliKhan has blocked the Federal Communications Commission from conducting an early review of ABC's broadcast licenses in a preliminary injunction, and rejected its efforts to dismiss ABC's First Amendment lawsuit. ABC has accused the FCC of violating its free speech rights and claims the agency \"waged a retaliatory campaign\" against the […]",
+    "category": "politics",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
+    "published_at": "2026-11-26T11:38:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-26T17:09:51.830081+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Andrew Liszewski",
+    "tags": [
+      "Entertainment",
+      "News",
+      "Policy",
+      "Streaming"
+    ]
+  },
+  {
+    "id": "9838bc439711184f32870f862ca680a5def2d7ffe04dd1fd686b306e00f14388",
+    "title": "GTA VI developers vote against unionization",
+    "summary": "Workers at Grand Theft Auto VI developer Rockstar Games won't unionize, after the vote for a formal recognition agreement failed, with only 25 percent of votes in favor of unionization. The Independent Workers Union of Great Britain (IWGB) said that Rockstar workers in the union will continue organizing even without formal recognition. Voting ran from […]",
+    "category": "politics",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
+    "published_at": "2026-11-26T10:55:24-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Jason_and_Lucia_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-26T17:09:51.831380+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Dominic Preston",
+    "tags": [
+      "Business",
+      "Gaming",
+      "News"
+    ]
+  },
+  {
+    "id": "9439440279ec8ce97b9baa6eba4ee2f39cc15aab2950e745ad7cb00bcebf550c",
+    "title": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
+    "summary": "Xpeng Co-President Brian Gu shared his humanoid robot predictions with CNBC in an interview Thursday.",
+    "category": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
+    "published_at": "2026-11-26T07:30:11+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-26T17:09:51.915565+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
     "id": "099fc86982889f33b98d85003b9864a281a663aacdb99018448a1f2c9c25c43e",
     "title": "FCC Bid Challenging ABC’s TV Licenses Halted in Major Win for Network",
     "summary": "The ruling is a major setback for the administration in the government's campaign against ABC and national media.",
@@ -19,7 +142,29 @@
       "business",
       "FCC",
       "legal"
-    ]
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "4dab06b41b9c4b47c4dc009f3421a96b94bd6599a238eb0338a9ebddafe8a4c0",
+    "title": "Tony Romo Lands Post-CBS Gig With Betting App Betr as “Chief Predictions Officer” (Exclusive)",
+    "summary": "Romo will produce original content and deliver sports predictions for the betting app co-founded by Jake Paul, with his debut set for a Thanksgiving Day campaign.",
+    "category": "politics",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/business/business-news/tony-romo-new-job-betr-app-chief-predictions-officer-1236762163",
+    "published_at": "2026-11-25T21:06:14+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-25T23:44:25.991699+00:00",
+    "thin": false,
+    "author": "Alex Weprin",
+    "tags": [
+      "Business",
+      "Business News",
+      "advertising",
+      "Sports"
+    ],
+    "classification_version": 2
   },
   {
     "id": "ae7bc6ff1a321f0c8e4f773396ab8854183c1d2b0242dda63749837e7912fcc2",
@@ -33,7 +178,59 @@
     "image_url": null,
     "collection_timestamp": "2026-11-25T23:44:26.047053+00:00",
     "thin": false,
-    "author": "Alex Scarborough"
+    "author": "Alex Scarborough",
+    "classification_version": 2
+  },
+  {
+    "id": "44007ec3b8696caa4e2a02be3e0217f085d88ee1f056a578302ef75ab55aba53",
+    "title": "Kalshi traders say state data center moratoriums are more likely than not",
+    "summary": "After Democrats swept Congress and key governor races, Kalshi traders lowered the odds that at least four states would pause data center build-out this year.",
+    "category": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/25/kalshi-traders-say-the-odds-of-states-imposing-data-center-moratoriums-is-more-likely-than-not.html",
+    "published_at": "2026-11-25T17:36:54+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-25T23:44:26.035007+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "034152f745188f2ff009a1df5265f581a49434586415db851ab94a1ed88ac509",
+    "title": "Kalshi traders say the odds of states imposing data center moratoriums is more likely than not",
+    "summary": "After Democrats swept Congress and key governor races, Kalshi traders lowered the odds that at least four states would pause data center build-out this year.",
+    "category": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/25/kalshi-traders-say-the-odds-of-states-imposing-data-center-moratoriums-is-more-likely-than-not.html",
+    "published_at": "2026-11-25T15:18:29+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108438990-1792529087333-gettyimages-2301197366-_04a5027_adb1ugww.jpeg?v=1793028319&w=1920&h=1080",
+    "collection_timestamp": "2026-11-25T15:24:51.089331+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "2c5e1da5f5744db4371d63330584effb06c981d61bf7dc58002e14cb003ec405",
+    "title": "Thank You, Jensen Huang",
+    "summary": "Trump’s reinstatement of the Nvidia chairman after a spy-sex scandal may finally force Congress to do the unexpected: its job",
+    "category": "politics",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/politics/political-commentary/trump-jensen-huang-why-congress-should-investigate-1235664112",
+    "published_at": "2026-11-25T15:04:37+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/mac-jensen-huang-trump-and-china.jpg?w=1600&h=900&crop=1",
+    "collection_timestamp": "2026-11-25T15:24:51.066623+00:00",
+    "thin": false,
+    "author": "Sean Woods",
+    "tags": [
+      "Political Commentary",
+      "Politics",
+      "China",
+      "Donald Trump",
+      "Jensen Huang",
+      "NVIDIA"
+    ],
+    "classification_version": 2
   },
   {
     "id": "a9146f72b73936af6dae369a8e088db9ae4ca579ef6c5ebab8da1956a0ba2f69",
@@ -52,7 +249,8 @@
       "Business",
       "Business News",
       "advertising"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "632f52b532426626cc7cb61cc088935de36366eb638af30df883a6d0337e44ce",
@@ -66,7 +264,36 @@
     "image_url": null,
     "collection_timestamp": "2026-11-25T23:44:26.051066+00:00",
     "thin": false,
-    "author": "Dan Wetzel"
+    "author": "Dan Wetzel",
+    "classification_version": 2
+  },
+  {
+    "id": "1245adb8a6b10baaf793dbc8570122cd1ee305f431c86d00c338d8f3b6a3f1cb",
+    "title": "Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation",
+    "summary": "Ukraine’s foreign minister told Putin to end the war if he wants Kyiv to stop attacking Russian refineries, after Putin said retaliation was “inevitable.”",
+    "category": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/25/ukraine-putin-russia-oil-refinery-attacks.html",
+    "published_at": "2026-11-25T09:18:37+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-25T15:24:51.088905+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "0278976a7cf35ed64b32bd9e9ccd58c6bd0395ad180fa484177d060deb4aab09",
+    "title": "Trump open to pardoning Jensen Huang if needed: NY Post",
+    "summary": "Trump said he would be willing to pardon Jensen Huang if needed and argued that the Nvidia CEO should not have to invoke the Fifth Amendment before Congress.",
+    "category": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html",
+    "published_at": "2026-11-25T02:09:45+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108558891-17955580042026-11-24t220218z_1455087937_rc2kuoayz91p_rtrmadp_0_usa-trump.jpeg?v=1795558033&w=1920&h=1080",
+    "collection_timestamp": "2026-11-25T04:58:36.155692+00:00",
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "d008594a56a05e8012cfc38f9fed93575b6ae9214d39352d88e23a50a9379093",
@@ -79,7 +306,45 @@
     "date_unverified": false,
     "image_url": "https://image.cnbcfm.com/api/v1/image/108556418-1795181059322-gettyimages-2305377948-AFP_D83H4EV.jpeg?v=1795554551&w=1920&h=1080",
     "collection_timestamp": "2026-11-24T22:18:25.245117+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "b16f3604263982b78790fa9db8a0210971e8c4db53859d585ba949c5c13568f4",
+    "title": "Al Gore To Purchase Hometown Paper Carthage Courier",
+    "summary": "Former Vice President Al Gore has purchased the Carthage Courier, a 110-year-old weekly newspaper that covers his Tennessee hometown and surrounding area. The current owners, the family of Hershel and Geraldine Lake, said that the sale will be finalized in the coming weeks. Gore said in a statement, “I’m so grateful to the Lake family […]",
+    "category": "politics",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/al-gore-buys-carthage-courier-1237232838",
+    "published_at": "2026-11-24T20:44:56+00:00",
+    "date_unverified": false,
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2304932547.jpg",
+    "collection_timestamp": "2026-11-24T22:18:25.158066+00:00",
+    "thin": false,
+    "author": "Ted Johnson",
+    "tags": [
+      "News",
+      "Politics",
+      "Al Gore",
+      "Carthage",
+      "Carthage Courier",
+      "ElectionLine"
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "1d3befc0f4e76299367fd765cc29a5b472a5a5a77acc75f1693d29ae19cd436a",
+    "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
+    "summary": "President Trump's decision to force Nvidia's board to bring back Jensen Huang as CEO is exactly what Beijing, Tehran, and Moscow would want to see.",
+    "category": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html",
+    "published_at": "2026-11-24T20:02:49+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-24T22:18:25.249952+00:00",
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "6fbf1da8cfcf45f21ae581eb632cb9ed4f08782b77fce91bac1642070873c9a9",
@@ -100,7 +365,8 @@
       "Privacy",
       "Report",
       "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "d7a79e9401f36b539d16aeabb5c2dd83310853df5caa1508da74ad448999bca6",
@@ -113,7 +379,8 @@
     "date_unverified": false,
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d238/live/f4fcc0e0-e76e-11f1-ae0a-d1908652a433.jpg",
     "collection_timestamp": "2026-11-24T11:59:34.054394+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "aeb3e5746059b032fa97e7c5e02fb2b48ee7908720176f721aa836ae5e20b39a",
@@ -126,7 +393,8 @@
     "date_unverified": false,
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a18/live/c4779660-e5bc-11f1-a188-ff49e70cc466.jpg",
     "collection_timestamp": "2026-11-24T11:59:34.053492+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "fcefb6a63864e2dde509cc3f49022a6b8d1307fb1700aae80d058205baebfbe5",
@@ -149,7 +417,8 @@
       "Best Friend Forever",
       "Elephants in the Fog",
       "International Film Festival Of India"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "6515ba08c6649d1084a0cba788d555fbebb8eef77e1b3635ca32126f6aa69955",
@@ -162,7 +431,22 @@
     "date_unverified": false,
     "image_url": null,
     "collection_timestamp": "2026-11-24T11:59:34.050709+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "121431af5df47c133beec0dfffc14513b91a79a5bc569a6ae9714c593145332a",
+    "title": "Trump sealed deal for Nvidia to rehire Jensen Huang as CEO",
+    "summary": "President Trump said his administration gave Nvidia's board assurance that Jensen Huang would not be a national security threat if he was reinstated as CEO.",
+    "category": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
+    "published_at": "2026-11-23T23:42:17+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108414319-1792072406505-108414319-1792072326279-gettyimages-2297774940-kbd15015_cmzhzqga.jpg?v=1795450515&w=1920&h=1080",
+    "collection_timestamp": "2026-11-24T01:48:01.441831+00:00",
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "61855a02df765081e6d4c77efe3090648d711ff8b402c32f4bc332109d694316",
@@ -184,7 +468,22 @@
       "courts and crime",
       "Mary J. Blige",
       "Universal Music Publishing Group"
-    ]
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "cbf4a6f66640eeedc9bb65330eaef669557d1f62800ae36ee6d4aa45ab51cee4",
+    "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
+    "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
+    "category": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+    "published_at": "2026-11-23T21:08:05+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-24T01:48:01.445791+00:00",
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "f10f9c098f3bca43e43b18c8af9e33c50c480a04eef0c1a08b7d34240f61e20c",
@@ -197,7 +496,8 @@
     "date_unverified": false,
     "image_url": null,
     "collection_timestamp": "2026-11-24T01:48:01.442135+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "2e7b6de90537760b62887fa4d067748ff49eb60bad6e2cc9c1d34e40ea22e331",
@@ -220,7 +520,30 @@
       "Politics",
       "Report",
       "Tech"
-    ]
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "08d7565c4f9f884825c6d894151299d9a09543d159ce52d9c5d87e083c50d5a6",
+    "title": "Russell Brand’s Wife Vows to “Honor” Prison Rules After Relaying Message From Rapist Through YouTube",
+    "summary": "The video, in which Russell Brand proclaims his innocence, has not been taken down by YouTube despite requests from the U.K. government and widespread public outcry.",
+    "category": "politics",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/news/general-news/russell-brand-wife-prison-message-youtube-video-rules-rape-1236760952",
+    "published_at": "2026-11-23T10:02:06+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-23T14:00:44.778481+00:00",
+    "thin": false,
+    "author": "Lily Ford",
+    "tags": [
+      "General News",
+      "News",
+      "international",
+      "Russell Brand",
+      "united kingdom"
+    ],
+    "classification_version": 2
   },
   {
     "id": "93696dac720f48f47ccfe09551f725dbac2d0d550723c6e389b6e49b400c1a73",
@@ -241,7 +564,8 @@
       "Policy",
       "Politics",
       "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "9da3a71cebf0da2dcd6b93e974a4a540ece4e0313e9b0b321fae0c6a223dfc5f",
@@ -262,7 +586,8 @@
       "Artificial Intelligence",
       "Bryan Lourd",
       "No Fakes Act"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "ba57564b4ae48b69cc14c18a480f46712b357bbf372947845d947107f40d20b4",
@@ -283,7 +608,46 @@
       "CAA",
       "Deepfakes",
       "No Fakes Act"
-    ]
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "48ce8a7fd9fe34544c60b9482cf341ee3e6d7126016860871633e0619d3f2e9c",
+    "title": "State and federal battle over prediction markets regulation heats up after midterms",
+    "summary": "States, Congress and the CFTC are escalating the fight over prediction market regulation after the midterms.",
+    "category": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/21/prediction-market-regulation-kalshi-cftc.html",
+    "published_at": "2026-11-21T13:12:41+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108486263-1793366029709-gettyimages-2300011914-US_MIDTERMS.jpeg?v=1793643769&w=1920&h=1080",
+    "collection_timestamp": "2026-11-21T15:13:04.429065+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "36d9376ff84e77e99a864c866b1d12c0888b4e634ddfda95f0f3bc4ed57c32a1",
+    "title": "Marion Cotillard Says ‘I’m Not Here to Judge Movies’ as Marrakech Jury President and ‘Doesn’t Want Any Information’ Before Watching: ‘Like a Virgin’",
+    "summary": "Marion Cotillard, who serves as the jury president at this year&#8217;s Marrakech Film Festival, says she prefers watching films with &#8220;as little information as possible.&#8221; &#8220;I don’t know anything about the movies we&#8217;re gonna see, I haven’t seen a single image,&#8221; the Oscar-winning French actress said at the festival&#8217;s jury press conference on Saturday morning. [&#8230;]",
+    "category": "politics",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/festivals/marion-cotillard-marrakech-jury-president-not-here-to-judge-1236954852",
+    "published_at": "2026-11-21T11:13:22+00:00",
+    "date_unverified": false,
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/marion-cotillard.jpg",
+    "collection_timestamp": "2026-11-21T11:55:22.180994+00:00",
+    "thin": false,
+    "author": "Ellise Shafer",
+    "tags": [
+      "Festivals",
+      "Global",
+      "News",
+      "Emma Mackey",
+      "Marion Cotillard",
+      "Marrakech Film Festival",
+      "Vicky Krieps"
+    ],
+    "classification_version": 2
   },
   {
     "id": "438ab16cae0a6b5486f9bd128acad3600cccea974fa1870c36a7c439db289e69",
@@ -297,7 +661,145 @@
     "image_url": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1120%2Fr1748531_1296x729_16%2D9.jpg",
     "collection_timestamp": "2026-11-21T13:20:16.078342+00:00",
     "thin": false,
-    "author": "Nick Wagoner"
+    "author": "Nick Wagoner",
+    "classification_version": 2
+  },
+  {
+    "id": "365c459167ddac3290cec8ed20433ecd7794ae5d8df2f8ac85c34ddff6ce0377",
+    "title": "How China is using summits to expand its global influence",
+    "summary": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
+    "category": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+    "published_at": "2026-11-21T06:00:02+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108554278-17950176312026-11-18t135542z_942132153_rc2dqoawfqtc_rtrmadp_0_apec-summit.jpeg?v=1795017657&w=1920&h=1080",
+    "collection_timestamp": "2026-11-21T09:26:51.965033+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "1d28ae0786f0bc336562350ef233fef22a0eef638aa42415682cd336a5a2fbd1",
+    "title": "Protect College Sports Act revised as House reps eye vote, Trump voices support",
+    "summary": "Federal lawmakers published a revised version of the Protect College Sports Act on Friday as the U.S. House of Representatives prepares to push for a vote during the first week of December. President Donald Trump also voiced his support for the bill.",
+    "category": "politics",
+    "source": "ESPN",
+    "url": "https://www.espn.com/college-sports/story/_/id/50545220/protect-college-sports-act-revised-donald-trump-voices-support",
+    "published_at": "2026-11-21T03:58:52+00:00",
+    "date_unverified": false,
+    "image_url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1121%2Fr1748784_1296x729_16%2D9.jpg",
+    "collection_timestamp": "2026-11-21T11:55:22.215632+00:00",
+    "thin": false,
+    "author": "Dan Murphy",
+    "classification_version": 2
+  },
+  {
+    "id": "b25d0ec2b5b700fce066707fdf33003a22696b25c586f022aadd56f224c715be",
+    "title": "Trump Says He ‘Can’t Speak To’ Whether Russia is a Friend to America",
+    "summary": "The president addressed reporters after returning from a meeting with Vladimir Putin and Chinese President Xi Jinping",
+    "category": "politics",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/politics/politics-news/trump-cant-speak-to-russia-friend-america-1235661928",
+    "published_at": "2026-11-20T21:30:48+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/Trump-1120.jpg?w=1600&h=900&crop=1",
+    "collection_timestamp": "2026-11-21T01:57:58.195785+00:00",
+    "thin": false,
+    "author": "Nikkimccannramirez",
+    "tags": [
+      "Politics",
+      "Politics News",
+      "China",
+      "controversy",
+      "Donald Trump",
+      "Putin",
+      "Russia",
+      "Xi Jinping"
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "430a74b49c7165e7d15c0e1b230d41aab919eaf9055fc134cd4c0af373cde5f9",
+    "title": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
+    "summary": "Former Nvidia CEO Jensen Huang has faced a flurry of criticism on Capitol Hill in the wake of his involvement with a suspected Chinese spy.",
+    "category": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html",
+    "published_at": "2026-11-20T19:42:53+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108237918-1793908643837-108237918-1765118171532-gettyimages-2249151004-HUANG_SENATE.jpg?v=1795203530&w=1920&h=1080",
+    "collection_timestamp": "2026-11-20T19:50:58.405041+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "912f1e56371cc43ac9f5522c1af3f0251efcc8e0c9e8845596a11c66f1b4a274",
+    "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+    "summary": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
+    "category": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+    "published_at": "2026-11-20T19:15:01+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108556645-1795196053260-gettyimages-2305498959-AFP_D87462K.jpeg?v=1795196073&w=1920&h=1080",
+    "collection_timestamp": "2026-11-20T19:50:58.404421+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "16dba41bd8f6f045fdd97ef317e076a1e329049e19691bc952eda238b19c0509",
+    "title": "Bitcoin's regulation bull case is played out. What could drive crypto gains moving forward",
+    "summary": "Crypto investors are looking beyond Congress for the next catalyst after the Senate failed to advance the Clarity Act in September.",
+    "category": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/bitcoin-price-catalysts-tokenization-regulation.html",
+    "published_at": "2026-11-20T18:07:18+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108273480-17726356822026-03-04t141724z_59018783_rc22pgawuafa_rtrmadp_0_usa-britain-cryptocurrency.jpeg?v=1772635700&w=1920&h=1080",
+    "collection_timestamp": "2026-11-20T19:50:58.407604+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "3197592a6a02db73f40a84630c926c81d3667a2d2359149c17f15ab875bb2de3",
+    "title": "Trump Got Played by Putin and Xi",
+    "summary": "The president's need for public validation has always been a vulnerability, and America’s smartest opponents know how to exploit it",
+    "category": "politics",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/politics/political-commentary/trump-played-summit-vladimir-putin-xi-jinping-1235661558",
+    "published_at": "2026-11-20T15:00:00+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/trump-putin-xi-new-world-order.jpg?w=1600&h=900&crop=1",
+    "collection_timestamp": "2026-11-20T19:50:58.368434+00:00",
+    "thin": false,
+    "author": "Ryan Bort",
+    "tags": [
+      "Political Commentary",
+      "Politics",
+      "controversy",
+      "Donald Trump",
+      "Vladimir Putin",
+      "Xi Jinping"
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "eeea71937fee81e7005d643a85201afdaea1b4724e1a103d73d6fb64ceecaa96",
+    "title": "GTA 6 Is A British Success Story, Prime Minister Says, But He Won’t Play It",
+    "summary": "The Prime Minister of the UK, Andy Burnham, has labeled Rockstar Games a \"British success story\" amid GTA 6 's rave reviews and huge sales milestones . A spokesperson for his office told The Independent , \"Rockstar Games is a British success story made in Edinburgh, and many fans are already saying GTA has been worth the wait.\" Rockstar North is based in Edinburgh, Scotland, but GTA 6 was made by thousands of people across the globe. GTA is also historically linked to the UK, as the original gam",
+    "category": "politics",
+    "source": "GameSpot",
+    "url": "https://www.gamespot.com/articles/gta-6-is-a-british-success-story-prime-minister-says-but-he-wont-play-it",
+    "published_at": "2026-11-20T14:59:27+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_Duval_12.jpg?w=300",
+    "collection_timestamp": "2026-11-20T19:50:58.383451+00:00",
+    "thin": false,
+    "author": "Eddie Makuch",
+    "tags": [
+      "Gaming,News"
+    ],
+    "classification_version": 2
   },
   {
     "id": "7cbff3470114d63baca993dd1b1be0b54f8834f381f214a70ea8c4b4b1ebd522",
@@ -313,7 +815,69 @@
     "thin": false,
     "region": "europe",
     "image_policy": "none",
-    "author": "Eurostat http://ec.europa.eu/eurostat"
+    "author": "Eurostat http://ec.europa.eu/eurostat",
+    "classification_version": 2
+  },
+  {
+    "id": "f94466f3f96b0cf2dd229607e6148d4685bf7c462706a5fbae3d3663599f3812",
+    "title": "Kushner says Russia 'comfortable' with idea of NATO-like security guarantees for Ukraine",
+    "summary": "Kushner said President Donald Trump is open to such a guarantee, but its form and whether Russia and Ukraine would accept it remain unclear.",
+    "category": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/kushner-ukraine-nato-russia-trump-putin.html",
+    "published_at": "2026-11-20T09:56:03+00:00",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108556302-1795166115340-gettyimages-2305419108-contini-coalitio261119_npkEq.jpeg?v=1795166297&w=1920&h=1080",
+    "collection_timestamp": "2026-11-20T12:29:55.754495+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "452a35105d6da126cbc7d0270c9313823bea0c033a8b5a6bc6b60a96f89f9877",
+    "title": "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
+    "summary": "The permitting bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Trump's desk.",
+    "category": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
+    "published_at": "2026-11-20T03:30:45+00:00",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108251945-1768333647231-gettyimages-2256116889-dji_20260113072220_0857_d_cxyqgr0q.jpeg?v=1795128651&w=1920&h=1080",
+    "collection_timestamp": "2026-11-20T03:52:04.299007+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "ddd4ca7ed3087a2c56534f99434eb0ddcfc167d4249b579629cf42f5a51c01d6",
+    "title": "Judge Weighs Whether To Allow Kennedy Center To Proceed With Closure Plan",
+    "summary": "A federal judge said that he will issue a ruling &#8220;as soon as I can&#8221; as to whether the Kennedy Center can proceed with its plan to close the arts complex for two years for renovations, amid fears that President Donald Trump ultimately will move to demolish the 55-year-old arts complex. U.S. District Court Judge [&#8230;]",
+    "category": "politics",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/kennedy-center-closure-judge-injunction-trump-1237229582",
+    "published_at": "2026-11-19T22:43:48+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2026/06/GettyImages-2281263976_f34d4a.jpg",
+    "collection_timestamp": "2026-11-19T22:44:17.066977+00:00",
+    "thin": false,
+    "author": "Ted Johnson",
+    "tags": [
+      "News",
+      "Politics",
+      "Donald Trump",
+      "ElectionLine",
+      "Kennedy Center",
+      "Norm Eisen"
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "42df2e9444f8cd989e0f06658788e7deaeaf6f008c019cb431b99e3964e255d6",
+    "title": "Congress passes bill to protect older investors from financial fraud",
+    "summary": "Both chambers of Congress have now approved the Financial Exploitation Prevention Act of 2025, which is aimed at protecting vulnerable investors from fraud.",
+    "category": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/financial-exploitation-prevention-act-older-investors-fraud.html",
+    "published_at": "2026-11-19T22:23:29+00:00",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108555416-1795105039803-gettyimages-2284418950-img_6795.jpeg?v=1795105141&w=1920&h=1080",
+    "collection_timestamp": "2026-11-19T22:44:17.105087+00:00",
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "1bf73f55856e9fc443887e3df569222018e7d8e48d87a0b776312e633909e440",
@@ -329,7 +893,8 @@
     "thin": false,
     "region": "global",
     "image_policy": "none",
-    "author": "ungeneva.org"
+    "author": "ungeneva.org",
+    "classification_version": 2
   },
   {
     "id": "9942d3088e2713e7b00173b5d4462741314a3058ca286a8a55083312eade30ea",
@@ -345,7 +910,8 @@
     "thin": false,
     "region": "global",
     "image_policy": "none",
-    "author": "ungeneva.org"
+    "author": "ungeneva.org",
+    "classification_version": 2
   },
   {
     "id": "6f90ff542e70549a3c7459d9258cab36b179233985d22d9d25648575ea397ab8",
@@ -361,6 +927,7 @@
     "thin": false,
     "region": "global",
     "image_policy": "none",
-    "author": "ungeneva.org"
+    "author": "ungeneva.org",
+    "classification_version": 2
   }
 ]

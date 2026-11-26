@@ -1,5 +1,253 @@
 [
   {
+    "id": "5811db564dabb53f10c0d93ab6a0e97e2736c25952bf94d1543c56c8be6fe7cf",
+    "title": "Michel Hazanavicius To Present Exclusive Footage Of ‘The Third Hand’ In AI Case Study At Les Arcs",
+    "summary": "Michel Hazanavicius will unveil exclusive footage of his upcoming film The Third Hand as part of an AI case study at the Les Arcs Film Festival in December. The Oscar-winning director and post-production company Digital District will present the footage as they explain their method and tools for using AI on the film. Hazanavicius and […]",
+    "category": "technology",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/michel-hazanavicius-exclusive-footage-third-hand-ai-1237234059",
+    "published_at": "2026-11-26T16:06:03+00:00",
+    "date_unverified": false,
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2252572174.jpg",
+    "collection_timestamp": "2026-11-26T17:09:51.800542+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Melanie Goodfellow",
+    "tags": [
+      "News",
+      "France",
+      "Les Arcs",
+      "Les Arcs Coproduction Village",
+      "Michel Hazanavicius",
+      "The Third Hand"
+    ]
+  },
+  {
+    "id": "10b3bde7defc4923f40e7d80145d59aefc8f7b3f65240ac4692603fdcfe62cf9",
+    "title": "Semiconductor chips are the new oil. Here's why",
+    "summary": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+    "published_at": "2026-11-26T13:19:25+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-26T17:09:51.911112+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "b4cd231a3919562119cb051043eaabae56e28558ba6f5e3aa71cdaa495e02e40",
+    "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
+    "summary": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+    "published_at": "2026-11-26T12:22:25+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-26T17:09:51.912039+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "7de6f8fc5e2e403c081beb4159e852573590cce94d925e8bb46b049d16dc520a",
+    "title": "The Further Mis-Adventures of Cliff Booth Director Explains His Use of AI",
+    "summary": "Commonly known for his high take count, David Fincher now uses AI to shorten production, as seen in The Further Misadventures of Cliff Booth.",
+    "category": "technology",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/the-further-misadventures-of-cliff-booth-david-fincher-ai",
+    "published_at": "2026-11-26T12:14:03+00:00",
+    "date_unverified": false,
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/11/cliff-booth.jpg",
+    "collection_timestamp": "2026-11-26T17:09:51.910834+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Ashely Claudino",
+    "tags": [
+      "News",
+      "The Further Mis-Adventures of Cliff Booth",
+      "AI"
+    ]
+  },
+  {
+    "id": "e983bc4e6fda5866ae01a5648315c2b0a1597bf8fef44242f9e879dc52787c5e",
+    "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+    "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $599.99 at Amazon and Costco, while the 512GB model with Touch ID is […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+    "published_at": "2026-11-26T12:07:58-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268387_Apple_MacBook_Neo_AKrales_0543.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-26T17:09:51.827747+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Brad Bourque",
+    "tags": [
+      "Apple",
+      "Black Friday",
+      "Cyber Monday",
+      "Deals",
+      "Gadgets",
+      "Tech",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "915c0ef1915882316529ac83050fca7638e90270f4dc33d94ee432364b1c2925",
+    "title": "Android app developers will soon have to share their address publicly",
+    "summary": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations under the Digital Services Act, but Google says contact details will be made public worldwide. […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+    "published_at": "2026-11-26T12:06:24-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-26T17:09:51.828691+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Dominic Preston",
+    "tags": [
+      "Android",
+      "Google",
+      "News",
+      "Policy",
+      "Politics",
+      "Regulation",
+      "Tech"
+    ]
+  },
+  {
+    "id": "74cef478575db3a09af206372d912403f6ad587ca7d10b690db304d6d091d895",
+    "title": "The best Black Friday deals we’ve already found",
+    "summary": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising across the board, a good discount doesn’t necessarily mean you’re getting a historically low price. […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+    "published_at": "2026-11-26T11:55:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268838_BF_CM_EARLY_DEALS_Headers_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-26T17:09:51.829422+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Verge Staff",
+    "tags": [
+      "Black Friday",
+      "Cyber Monday",
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "3a15fc8f88399d0cffa695adfd86b37db45071533d041aabad9f2d6dde53ff38",
+    "title": "Faldo urges LIV stars to 'chip in' for unpaid firms",
+    "summary": "The six-time major winner calls on those who benefited financially from LIV Golf to help small businesses still owed money by the tour.",
+    "category": "technology",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/golf/articles/ckq6emzlegjyo",
+    "published_at": "2026-11-26T11:45:31+00:00",
+    "date_unverified": false,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c4c/live/15b5a860-e8b4-11f1-9e64-bddd508b9881.jpg",
+    "collection_timestamp": "2026-11-26T17:09:51.917139+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "9604735c478025921f6ad01db51298cf3ff66e9e3cbe1678c62bc49b7ce6c045",
+    "title": "Disney Plus, Hulu, and HBO Max are all over 50 percent off for Black Friday",
+    "summary": "Black Friday isn’t just a good time to save on a new TV but also a chance to spend less on what you watch on it. The shopping holiday often brings steep streaming discounts, and this year is no exception, with some streamers offering more than 50 percent off. HBO Max, Apple TV, and Hulu […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1041762/best-black-friday-streaming-deals-2026",
+    "published_at": "2026-11-26T11:00:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/peter-claffey-dexter-sol-ansell.jpg?quality=90&strip=all&crop=0,0,92.21171875,100",
+    "collection_timestamp": "2026-11-26T17:09:51.830792+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Sheena Vasani",
+    "tags": [
+      "Black Friday",
+      "Cyber Monday",
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "c01ec541036d285b4300293ec1f8f8bc5c597e65836e1ed159a71244ad4bf04e",
+    "title": "Samsung’s R95H TV shows what RGB LED is capable of",
+    "summary": "RGB LED TVs finally became affordable in 2026, and there's always a lot of promise when new TV technologies come out. More color, higher brightness, improved performance - RGB LED TVs have a lot to prove. The Samsung R95H does a lot to deliver some of those promises. It can display more colors than other […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1042613/samsung-r95h-rgb-led-tv-review",
+    "published_at": "2026-11-26T09:00:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268593_Samsung_R95H_RGB_LED_TV_JHiggins_0014.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-26T17:09:51.833554+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "John Higgins",
+    "tags": [
+      "Gadgets",
+      "Reviews",
+      "Samsung",
+      "Tech",
+      "TVs"
+    ]
+  },
+  {
+    "id": "27021c7ccbee93c121f1fc1248ef1058db77885e1a14c7f77b1c5f059b672d0d",
+    "title": "Latin America has the copper and energy the AI build-out needs. Infrastructure is the test",
+    "summary": "Latin America’s copper, oil, gas and rare earths could benefit from rising AI energy demand, if infrastructure and fiscal policy attract investment.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/26/latin-america-copper-energy-ai-investment.html",
+    "published_at": "2026-11-26T08:59:11+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-26T17:09:51.914777+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "e14af98922440243fb6a13b82d547db8226a77cc415c24d72383314103d92ff2",
+    "title": "Wealthy Europeans look beyond stocks amid AI selloff. Here’s where they’re investing",
+    "summary": "Goldman Sachs Alternatives' inaugural survey of high-net-worth investors found they're increasingly looking to alternatives amid turbulent markets.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/26/wealthy-europeans-alternative-investments-ai.html",
+    "published_at": "2026-11-26T07:23:42+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-26T17:09:51.914446+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "1f0f35524335384da99f33e92bbd1beb95d0848472d42bc4a63fe17068221ebd",
+    "title": "Waymo conquered city streets — why does it keep stumbling on freeways?",
+    "summary": "Most people know not to try to pass highway patrol cars while performing a traffic break on a freeway. But on November 6th, a driverless Waymo on Interstate 280 failed that test. Video shows the robotaxi attempting to overtake two California Highway Patrol cruisers during a traffic break, a moving violation that could get a […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls",
+    "published_at": "2026-11-26T07:00:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/LA_WAYMO-FREEWAY.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-26T17:09:51.834222+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Andrew J. Hawkins",
+    "tags": [
+      "Autonomous Cars",
+      "Report",
+      "Transportation",
+      "Waymo"
+    ]
+  },
+  {
     "id": "430be3cc4d93a668f984a58fe0388de9c28713949342ff3ec3940487f75c032b",
     "title": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
     "summary": "Investors appear to have looked past a fresh set of U.S. tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
@@ -10,7 +258,8 @@
     "date_unverified": false,
     "image_url": "https://image.cnbcfm.com/api/v1/image/108094148-1738167165694-gettyimages-2195902460-JAPAN_STOCKS.jpeg?v=1758691768&w=1920&h=1080",
     "collection_timestamp": "2026-11-26T06:49:49.044856+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "56374f910a650dcd1a32bf29f4d11f5178ea68152a1418636a10682c04faf155",
@@ -31,7 +280,8 @@
       "Grand Theft Auto VI",
       "GTA VI",
       "South Park"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "3a1a6333a9535135ab71db2ef20d4fc9e646652dacc286ada10fe3d5a30476a3",
@@ -54,7 +304,30 @@
       "C.V. Rao",
       "RRR",
       "S.S. Rajamouli"
-    ]
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "644bfe9ab18662cd7980e9a693ad6fa244e6546b8d1def0f4c98ba59d4270cc8",
+    "title": "From Abercrombie to Zappos, These Are the Best Black Friday Sales to Shop Right Now",
+    "summary": "These are all the Black Friday sales (actually) worth shopping right now, whether you’re looking for tech, clothing, furniture, or anything else",
+    "category": "technology",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/product-recommendations/lifestyle/best-black-friday-sales-2026-deals-discounts-worth-it-1235664811",
+    "published_at": "2026-11-26T00:42:54+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-26T06:49:49.029996+00:00",
+    "thin": false,
+    "author": "Oscar Hartzog",
+    "tags": [
+      "Lifestyle",
+      "RS Recommends",
+      "black friday",
+      "Deals",
+      "noads"
+    ],
+    "classification_version": 2
   },
   {
     "id": "5c3ddaad0c574548cbabc2b9c8c18143295302a38bee3ceb50751a00047b6eb3",
@@ -77,7 +350,8 @@
       "Kagi Mail",
       "proton",
       "search engines"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "15b10adc4b135b61d0f320626a2306b5d5a8bf59190cd8541a95d7b02f1b60f4",
@@ -97,7 +371,8 @@
       "News",
       "Smart Home",
       "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "b172faefa5a69b2a080c33d8a9448244233e190612b7ec8a8c7525196beaa109",
@@ -114,7 +389,8 @@
     "author": "Alessandro Barbosa",
     "tags": [
       "Gaming,News"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "2060bd8b8232b6fd6c63646260c0968c8a32c2cc4010a687a8d7e3b5e6fef130",
@@ -135,7 +411,8 @@
       "Online Shopping",
       "Policy",
       "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "b29f025740ee7df1e5e9b6ed65cd69edf191c5b8bf4bef2759743bc26d452342",
@@ -149,7 +426,8 @@
     "image_url": null,
     "collection_timestamp": "2026-11-25T23:44:26.057217+00:00",
     "thin": false,
-    "author": "Kalan Hooks"
+    "author": "Kalan Hooks",
+    "classification_version": 2
   },
   {
     "id": "633b3bf6898ed001bcb80e1d5480d8f8d46010aa39d970e711255cf1de51eef4",
@@ -169,7 +447,36 @@
       "Browser Alpha",
       "Independent Browser Engine",
       "Ladybird"
-    ]
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "19c721ef88c53cf0b56aea3b21bd0d54332de239693eea52c7ed7aaff3d69d8c",
+    "title": "Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC",
+    "summary": "Nvidia GPU sellers are seeking new buyers after new U.S. rules tightened remote access to advanced AI chips for China-linked customers",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
+    "published_at": "2026-11-25T17:28:24+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-26T17:09:51.913568+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "9e8ca951c1931d5bb059a35e349c0e0c4d8b2a41d70bf0e1b4ddf45bc90faa53",
+    "title": "Prediction markets push OpenAI IPO expectations later into 2027",
+    "summary": "Kalshi traders have cut the odds of OpenAI confirming an IPO before June 2027, as AI stocks and related markets have weakened.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
+    "published_at": "2026-11-25T17:08:03+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-25T23:44:26.034792+00:00",
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "8de50015c1aecb40893378182803449cab009389af39b7014efd7f089688dea8",
@@ -192,7 +499,8 @@
       "Streaming",
       "Tech",
       "TV Shows"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "7767fbbe41541301b1cebf9406b35ac7c8aa4a82e8ace9834dcee65a5d1edc20",
@@ -227,7 +535,8 @@
       "Russian war on Ukraine",
       "Ukraine war",
       "USA-Iran War"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "544f038755eb1f6fb43f03449fadb41b83a4397e29ef88aa64527f53458fa620",
@@ -240,7 +549,8 @@
     "date_unverified": false,
     "image_url": null,
     "collection_timestamp": "2026-11-25T23:44:26.034581+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "1dbd864d87df0f133fd94bf104a85611ccc129ac42a64544023b7d31f3e424b7",
@@ -260,7 +570,8 @@
       "Meta",
       "News",
       "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "f1f3c72ac3e11a777375353fc56e8fb36c0a847f496fd54db69059480b7a32d5",
@@ -280,7 +591,8 @@
       "News",
       "Policy",
       "Science"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "a5e21259d4ba3a63dd9004dd32c04374fe02456790020b17e00299c01a9278a8",
@@ -299,7 +611,8 @@
       "News",
       "Security",
       "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "ce20f26373088a04e9017710895c833c0c52f8dc315242c90430da05e4329a54",
@@ -317,7 +630,8 @@
     "tags": [
       "News",
       "Black Friday"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "40e64fd400dbf5c89987a2c7f56c2da865638eb3167cd0d578e2b3807128213b",
@@ -330,7 +644,8 @@
     "date_unverified": false,
     "image_url": null,
     "collection_timestamp": "2026-11-25T15:24:51.088683+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "0d060cdb9fa584cdba54862644c14ff6ab36f8f5bb37756d468adf5db90c3f93",
@@ -351,7 +666,8 @@
       "Deals",
       "Gadgets",
       "Verge Shopping"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "52db40175f532f9bbd081b51ac53bee94861964935e28ceb264abe92c2881525",
@@ -371,7 +687,8 @@
       "Health",
       "Optimizer",
       "Science"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "5f4f0424e3002eb20093b99487de76a37a46c358bcbc0e30b3375e4b415b439f",
@@ -394,7 +711,8 @@
       "Space",
       "SpaceX",
       "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "aca8c15d289537189f419ade728a96c7c964afc8ed5849986643a0da51f93928",
@@ -416,7 +734,8 @@
       "Music News",
       "News",
       "UK Business"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "89e905b13a485c50099bf67464d13b26edca2f466c45dc8e959f4aeb9f59b52e",
@@ -437,7 +756,8 @@
       "News",
       "Tech",
       "Wearable"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "f6d666474d37cdd864eca5f13318b6e4cc747344b71ccb9f8ea02cd1643ed888",
@@ -450,7 +770,8 @@
     "date_unverified": false,
     "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5aca/live/065259e0-e4e5-11f1-b039-c1944465024e.jpg",
     "collection_timestamp": "2026-11-25T15:24:51.092240+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "0f89c286baa7927f26f5b7cd8983863b55d3d07fc2a3d35c6916568a362cd1e5",
@@ -472,7 +793,8 @@
       "News",
       "Online Shopping",
       "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "cc905419d11090089ec8bc7ee4efd93f598e8456666f132842b898d946f14503",
@@ -493,7 +815,8 @@
       "Deals",
       "Gadgets",
       "Verge Shopping"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "d7da0bdca2b9470af854dbb8006af050dcfc96c414a6fe12687e52a096782c47",
@@ -514,7 +837,8 @@
       "News",
       "Smart Home",
       "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "ebbec0adbed430fdc4150c3fb82151decabc2761d4264270c43fedc09a9980ff",
@@ -532,7 +856,8 @@
     "tags": [
       "AI",
       "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "a47da2609aae369ef951229ee1a99d8edd0fd29c5bd2b30cc299b530c2e06e95",
@@ -545,7 +870,8 @@
     "date_unverified": false,
     "image_url": null,
     "collection_timestamp": "2026-11-25T15:24:51.090581+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "e9807d1d795cafd97f565184d007e8a09a0b36c852d175a04dc84c8e5780ed03",
@@ -564,7 +890,8 @@
       "Microsoft",
       "News",
       "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "66c416656c5b7de98abcd070aeeb13542612835af0f32b07a0a80aee1ae06dbf",
@@ -577,7 +904,8 @@
     "date_unverified": false,
     "image_url": null,
     "collection_timestamp": "2026-11-25T15:24:51.090126+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "c4344ab4a3a744670a24d7175f128ae874681445bb7f3028139238e6555fb53f",
@@ -598,7 +926,8 @@
       "Amazon",
       "black friday",
       "noads"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "7167611d77430695eb67b773bc3197b24ac3f3342945e002e7d930bbd32c16b2",
@@ -611,7 +940,30 @@
     "date_unverified": false,
     "image_url": "https://image.cnbcfm.com/api/v1/image/108442605-1792601977486-Dextro_Cobot_hero_image.png?v=1792602146&w=1920&h=1080",
     "collection_timestamp": "2026-11-25T04:58:36.155091+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "54d5023fab128a2cf84443a3eefeee858f7a40ea38d425f4ec5520bf2c95e1dc",
+    "title": "How to Watch F1 Like a Pro, According to McLaren Drivers Lando Norris and Oscar Piastri",
+    "summary": "The drivers share tips for new fans, while touting T-Mobile's technology creating immersive touchpoints for a better viewing experience",
+    "category": "technology",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/product-recommendations/lifestyle/lando-norris-oscar-piastri-f1-fan-experiences-interview-1235662140",
+    "published_at": "2026-11-25T02:26:44+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/GettyImages-2305815322.jpg?w=1024&h=643&crop=1",
+    "collection_timestamp": "2026-11-25T04:58:36.136655+00:00",
+    "thin": false,
+    "author": "Alisa Rendor",
+    "tags": [
+      "Lifestyle",
+      "RS Recommends",
+      "Formula 1",
+      "noads",
+      "sports"
+    ],
+    "classification_version": 2
   },
   {
     "id": "941f5e0f7d13fbc29798bcffbf8206306a8da41450486efe3219dd45b3174856",
@@ -624,7 +976,30 @@
     "date_unverified": false,
     "image_url": null,
     "collection_timestamp": "2026-11-25T04:58:36.156037+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "9f95dc0d1236d7a9c0e342ddbcca8daf4c8faa08fe0330243a3d05e51ff00704",
+    "title": "A Bunch of Our Favorite Headphones and Earbuds Are Discounted for Black Friday",
+    "summary": "From Apple to Sonos, some of the best editor-approved headphones are on sale during Black Friday",
+    "category": "technology",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/product-recommendations/tech/best-headphone-earbud-deals-black-friday-cyber-monday-2026-1235663158",
+    "published_at": "2026-11-25T00:30:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-25T04:58:36.138905+00:00",
+    "thin": false,
+    "author": "Jonathan Zavaleta",
+    "tags": [
+      "RS Recommends",
+      "Tech",
+      "Headphones",
+      "noads",
+      "tech"
+    ],
+    "classification_version": 2
   },
   {
     "id": "cb035e8a4ce0548c7f26fd98e5fe00c98e4b82a1dbe585449e03e99e314f406f",
@@ -645,7 +1020,8 @@
       "Jason Henderson",
       "microsoft outage",
       "MS365"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "71419b2a82f62d624bea59ae417a28239cab0d25db9576c1eac87f9859333976",
@@ -665,7 +1041,8 @@
       "Apple",
       "iPhone",
       "T-mobile"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "cb2b637a7ef096c015b478ae604ffd9bb27be6baeddc268f65788e14648b7667",
@@ -678,7 +1055,8 @@
     "date_unverified": false,
     "image_url": null,
     "collection_timestamp": "2026-11-24T22:18:25.248037+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "1017a03da3df1ad04874484412a32dcb723568ddfeecea9408c37ac11cb1a7fc",
@@ -698,7 +1076,8 @@
       "Policy",
       "Security",
       "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "2aab0c5739a3cb09233140b8c4388a537e3dd02bc5d85b9a398f5f053ae18819",
@@ -717,7 +1096,8 @@
       "Gadgets",
       "Gift Guides",
       "Verge Shopping"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "3520ae43155fa28f2e5111a5b6fecd4ea7e694d7147c651d40dfe5022f4ca717",
@@ -742,7 +1122,8 @@
       "drones",
       "FAA",
       "Federal Aviation Administration"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "13c5419b8e13f23aa3f85b82b2467417c28a8652ad0308a6166bf0f673f60523",
@@ -761,7 +1142,22 @@
       "Environment",
       "Policy",
       "Science"
-    ]
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "cbed731b9d10e80f0bc7830a768851b04cbcf0ab7f2f2e5c817aba633fcebc5c",
+    "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
+    "summary": "Jensen Huang is back as CEO of Nvidia and immediately faces the challenge of leading the chip giant and defending himself in Washington.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html",
+    "published_at": "2026-11-24T17:51:45+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-24T22:18:25.246984+00:00",
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "9ce228d21fcad71224c1d3d15e468f6e33bacced03d883623dfb8669667a81d9",
@@ -783,7 +1179,8 @@
       "Policy",
       "Politics",
       "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "9433dde811b9c7dcc27c88e1c781ac4c3f2b6a9ac9b22502838308bc18f7a924",
@@ -802,28 +1199,8 @@
       "Gadgets",
       "Gift Guides",
       "Verge Shopping"
-    ]
-  },
-  {
-    "id": "09b3be398e61137cf1e46281ee68e658d7826fb02b443138b3469a8c91a7217c",
-    "title": "TikTok was down",
-    "summary": "Earlier on Tuesday, TikTok experienced some issues, with videos, search results, favorites, and other features not loading as they usually do. Videos sometimes wouldn't load in the For You feed on my iPhone, and search results occasionally didn't show up as expected in the app on iOS or Android, or on the web. Even trying […]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1041618/tiktok-down-outage",
-    "published_at": "2026-11-24T15:27:27-05:00",
-    "date_unverified": false,
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25406817/STK051_TIKTOK_CVirginia_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-24T22:18:25.191371+00:00",
-    "thin": true,
-    "author": "Jay Peters",
-    "tags": [
-      "Creators",
-      "News",
-      "Social Media",
-      "Tech",
-      "TikTok"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "49d123fe65877e40381a1af6ae5c096c0a4783a6d656e115747d8f5d8ae1c140",
@@ -846,7 +1223,8 @@
       "Policy",
       "Politics",
       "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "fd73e427c258db6d578f8b9bfb678ff604c7abd1784018fbf6fe44f35268c252",
@@ -868,7 +1246,8 @@
       "Gadgets",
       "Streaming",
       "Verge Shopping"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "09ff01fa9f5aa23f3ce645ddc83794447e84d6a75d40536b8e0613e5f77047e3",
@@ -887,7 +1266,8 @@
       "News",
       "Tech",
       "Web"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "ff3b848a0194b2c7e0f9841df180e65e6049963329d9f361945e6f16991006ee",
@@ -908,7 +1288,8 @@
       "Deals",
       "Gadgets",
       "Verge Shopping"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "bfb631317db9bae4ba1e5ca171f2af44f61d5ce673ba88d67b1888a184b18c34",
@@ -929,7 +1310,8 @@
       "Music",
       "News",
       "Tidal"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "fb91a24233d22678b611cff02ea793ec3ff1c94fe8f66689b315908eba184d10",
@@ -948,7 +1330,8 @@
       "Tech",
       "android",
       "PhoneBox"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "d5c398980c385fa7d9c840f3d895372409202096b763c6ab6a3cfe847746c288",
@@ -974,7 +1357,8 @@
       "Ukraine",
       "Ukraine war",
       "uncrewed surface vessels"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "9a7b5ec3498ea4d81020f151704caf15bd14327c3a9c1b2fb9a1c8ee73de807d",
@@ -987,7 +1371,8 @@
     "date_unverified": false,
     "image_url": "https://image.cnbcfm.com/api/v1/image/108547192-1794278392881-gettyimages-2285692291-TAIWAN_TSMC_EARNS.jpeg?v=1794278413&w=1920&h=1080",
     "collection_timestamp": "2026-11-24T11:59:34.052498+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "4dec139d5e5497b7f232bc8c66444ac29cf756b9d8b5db4977ece508360342f2",
@@ -1000,7 +1385,22 @@
     "date_unverified": false,
     "image_url": null,
     "collection_timestamp": "2026-11-24T11:59:34.051567+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "6d68ac12a01e8d54db27c62fbf067d3d41515a069460786e14060168ebe9356e",
+    "title": "Six key questions raised by Jensen Huang's return to Nvidia",
+    "summary": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+    "published_at": "2026-11-24T07:12:33+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-24T11:59:34.050140+00:00",
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "e3d3368a6c8bd6ba4c32659f519671ea5448bad59971b24fab13488a47bfbe48",
@@ -1019,7 +1419,22 @@
       "Lifestyle",
       "Shopping",
       "shopping"
-    ]
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "df954ad47965bb2d954e12f497aa2d533984e58fe492e872fc0c197e48526b3f",
+    "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits",
+    "summary": "Investors piled back into the tech market, following the reinstatement of Nvidia CEO Jensen Huang by its board.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-asia-chip-stocks.html",
+    "published_at": "2026-11-24T01:40:30+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108547192-1794278392881-gettyimages-2285692291-TAIWAN_TSMC_EARNS.jpeg?v=1794278413&w=1920&h=1080",
+    "collection_timestamp": "2026-11-24T01:48:01.441531+00:00",
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "600f76bf56a54dc8c5924e66ca259863ea26fe0967e669928615baef5c78372b",
@@ -1041,7 +1456,8 @@
       "genre rb",
       "Jazz",
       "Music News"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "80f3018549f5841eb90b4165c8b0c8a7cbdc0c84e5c624ab2dbc55a665971c17",
@@ -1054,7 +1470,8 @@
     "date_unverified": false,
     "image_url": "https://image.cnbcfm.com/api/v1/image/108262224-1770325809477-gettyimages-2249021916-AWS_Data_Center.jpeg?v=1789565870&w=1920&h=1080",
     "collection_timestamp": "2026-11-24T01:48:01.442449+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "1e6c3c7a1bd708f86f5c017c3dfa051e6612fab50f5ee1128f19aa8944c647c0",
@@ -1067,7 +1484,8 @@
     "date_unverified": false,
     "image_url": null,
     "collection_timestamp": "2026-11-24T01:48:01.443372+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "bdaf2fc64db55a00127c10b0aaf84e426a95a46fc750f024840e08033642022d",
@@ -1080,7 +1498,8 @@
     "date_unverified": false,
     "image_url": null,
     "collection_timestamp": "2026-11-24T01:48:01.440905+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "3b1d537205a62e98a33d18c3ae0b25595b3e09890e670a198732f7f3b2e5874f",
@@ -1093,7 +1512,8 @@
     "date_unverified": false,
     "image_url": null,
     "collection_timestamp": "2026-11-24T01:48:01.446753+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "10cb8afa318ec8a5c633dff235a17a99d8e763e1ff8c92401f01b8bdb2e43e78",
@@ -1106,7 +1526,8 @@
     "date_unverified": false,
     "image_url": null,
     "collection_timestamp": "2026-11-24T01:48:01.447676+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "d98a100a707a7c49e0151c1c538a0ec39a97c8c0045646ed7de4f43b430412b5",
@@ -1127,7 +1548,8 @@
       "consumer advocacy",
       "privacy",
       "surveillance pricing"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "dd10e1b59ac7945ae9b4543ff9de78dd77ea840b119fbd0fd61a40251c5b65ba",
@@ -1148,7 +1570,8 @@
       "Amazon",
       "amazon delivery",
       "amazon delivery drivers"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "5fc6ee6b18d065acf0ee1738cbba5e6332c0e6ebf54c1d0934b41645535ef3fa",
@@ -1161,7 +1584,8 @@
     "date_unverified": false,
     "image_url": null,
     "collection_timestamp": "2026-11-24T01:48:01.447380+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "245e9e25226e9715099203a60147a211ce996b79808902f6d2fc191201cf4ecb",
@@ -1181,26 +1605,22 @@
       "Google",
       "News",
       "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
-    "id": "5053e2e87cc15ff59ded72c6ed64a420849bbe31eb997f54ef1c913b1f5de95d",
-    "title": "The Verge’s 2026 holiday gift guide",
-    "summary": "Gift-giving isn't just about grabbing something solid under a determined spending limit. It's an expression of love, a way to show someone how well you really know them. That doesn't mean you have to do it all on your own, though. Sometimes you just need a push in the right direction to get things rolling. […]",
+    "id": "dbebc438dcfed88082648f4fb12da7f55d1a734651c4202cfb700d72ab70fdfd",
+    "title": "‘This establishes a bottom’: Jensen Huang’s return seen as likely to stop market sell-off, for now",
+    "summary": "Wall Street strategists say Jensen Huang’s return to Nvidia could steady the AI trade, though spending and data-center risks remain.",
     "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026",
-    "published_at": "2026-11-23T18:14:10-05:00",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html",
+    "published_at": "2026-11-23T18:00:47+00:00",
     "date_unverified": false,
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MAIN_STILL0_09b4c3.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-24T01:48:01.387009+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-24T01:48:01.446114+00:00",
     "thin": false,
-    "author": "Ryan Waniata",
-    "tags": [
-      "Gadgets",
-      "Gift Guides",
-      "Verge Shopping"
-    ]
+    "classification_version": 2
   },
   {
     "id": "4cc536c24b66633443c9fb6c90d160e8da2dce3647f0a3e82a5cf9aaf58bbfc0",
@@ -1220,7 +1640,8 @@
       "News",
       "Tech",
       "Web"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "01e85cf27910752781a00f93f857b5e00f28eceba9c29cb2e9cfb807e22f0542",
@@ -1243,7 +1664,8 @@
       "Gadgets",
       "Tech",
       "Verge Shopping"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "9b9fb2f220d84e48aefe0622de701f2c14b04bc1294cbc958bd1aafd365a727b",
@@ -1265,7 +1687,8 @@
       "Streaming",
       "Tech",
       "TV Shows"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "039a80547236bf3c211f692fc0f10b3908877a31411b4c67df6693d353b6d04a",
@@ -1278,7 +1701,8 @@
     "date_unverified": false,
     "image_url": null,
     "collection_timestamp": "2026-11-23T14:00:44.875849+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "631d8f59e3a791f77916ea139bdbb4ad222d9941c368b2cb927e66cf60976d87",
@@ -1298,7 +1722,8 @@
       "Tech",
       "Monitors",
       "reviews"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "6fa1deaeb1767a87feb2263e65a2d0ce562d5de5c74ede541e9f4d543952867c",
@@ -1319,7 +1744,8 @@
       "Motorola",
       "News",
       "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "3f3b62c6412c5b94615376e30ccd63f086a6feadce6e7f24bb7090312c98a61b",
@@ -1338,7 +1764,8 @@
       "Gaming",
       "News",
       "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "b24add594757b71b26705cfdf4569cdcc17f9c9bea72d0ac1d8839316e6db69b",
@@ -1351,7 +1778,8 @@
     "date_unverified": false,
     "image_url": null,
     "collection_timestamp": "2026-11-23T14:00:44.879606+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "f9c98061004a2655ce8eb0a3b51313431f9df5c21c3ee05737c4ea2275822671",
@@ -1372,7 +1800,8 @@
       "News",
       "Online Shopping",
       "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "75b549d1f7f4a1b9bd8f57abd39047c9d4001b4042faa206a4e6189f77af6a3e",
@@ -1385,7 +1814,22 @@
     "date_unverified": false,
     "image_url": null,
     "collection_timestamp": "2026-11-23T14:00:44.876819+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "64c16cf4b19fb7ca9e5d19b1fa17c2f6cde300b493e8aa7fde9a8ab8eeb2a25f",
+    "title": "3 big things we're watching in the market this Thanksgiving week",
+    "summary": "Can the AI trade rebound? Plus, a big week for retail activity and Fed policy discussion.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/22/3-big-things-were-watching-in-the-market-this-thanksgiving-week.html",
+    "published_at": "2026-11-23T00:42:54+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108342818-1785446867713-gettyimages-2288353363-6k4a1338_tvwq6pxf.jpeg?v=1785447011&w=1920&h=1080",
+    "collection_timestamp": "2026-11-23T03:54:18.994407+00:00",
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "f52c7d0bfbdb6554e4606695f4f7e0980100ce971ca036866fa5979aac81d7d0",
@@ -1404,7 +1848,8 @@
       "Gadgets",
       "News",
       "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "59752abac294c2aa3c26afd2a1bff851a0344956e8480bda25fd2ab39d241d52",
@@ -1424,7 +1869,8 @@
       "News",
       "Security",
       "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "97c4f693712c83dc9416cde87ac87b0778b329df9c17eb293b8a15e17e9d0a4a",
@@ -1437,7 +1883,8 @@
     "date_unverified": false,
     "image_url": "https://image.cnbcfm.com/api/v1/image/108554284-1795017875830-gettyimages-2305725511-_s019615_hvtmmvsn.jpeg?v=1795017895&w=1920&h=1080",
     "collection_timestamp": "2026-11-22T17:58:21.832526+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "24d746cb76eb9ba81c90c0405f8bf86597f91320462c937a13174e91b2e11f63",
@@ -1460,7 +1907,8 @@
       "Lea Seydoux",
       "Marrakech Film Festival",
       "The Unknown"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "8dba97443be6be3a8739e93bb06089d190234fb5bd1b2868a67cdd9cd57612f2",
@@ -1473,7 +1921,8 @@
     "date_unverified": false,
     "image_url": "https://image.cnbcfm.com/api/v1/image/108553366-1794942971028-Screenshots00_01_01_00Still012.png?v=1794944217&w=1920&h=1080",
     "collection_timestamp": "2026-11-22T17:58:21.834591+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "7abe6c269cf000a81a989385e9770e5420a419632405db45c891bb49aba8b9f0",
@@ -1491,7 +1940,8 @@
     "tags": [
       "News",
       "Transportation"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "15eb2e59cc69b0aead0a9c6325d934b2ae7741ecfe9749e30a29b95f74433372",
@@ -1512,26 +1962,8 @@
       "Gaming",
       "Music",
       "News"
-    ]
-  },
-  {
-    "id": "0a8c24995340e1abfbaf2fdf3d23322743da4366ff7a07bf528ce33ed93e042a",
-    "title": "‘The show is starting soon. Please turn on your headphones.’",
-    "summary": "Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand each person a black drawstring bag with a pair of wired headphones connected to a small Auracast […]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
-    "published_at": "2026-11-22T09:00:00-05:00",
-    "date_unverified": false,
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/love-me-off-broadway-auracast-1.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-22T17:58:21.735558+00:00",
-    "thin": false,
-    "author": "John Higgins",
-    "tags": [
-      "Gadgets",
-      "Headphones",
-      "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "4df1690e40f0d09ca52d4b0f83b964828634b4f96f4f7a3435ddfcb382c460e3",
@@ -1554,7 +1986,8 @@
       "Speaker Reviews",
       "Speakers",
       "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "43a05ddf8e86cfb9810cff628434f9875085ec92534eed0d2efe5d3699b566d6",
@@ -1574,7 +2007,8 @@
       "Column",
       "Tech",
       "The Stepback"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "961956ac877c962ddc0a75b5a330cb385fed9a9a47773376d6a7faf22a0b39dc",
@@ -1594,7 +2028,8 @@
       "Artificial",
       "Crew Call",
       "Luca Guadagnino"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "848b92e33420b0243c807608820173fd2caa4325d0c437656db78cd9db29dcaa",
@@ -1616,7 +2051,8 @@
       "I Play Rocky",
       "Ink",
       "The Weight"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "f05d61b62f856fba4f22a7d4cc2f926090ad56be713fde88c0564e8613c5baf6",
@@ -1629,7 +2065,8 @@
     "date_unverified": false,
     "image_url": "https://image.cnbcfm.com/api/v1/image/108555254-1795098552302-gettyimages-2305298530-AFP_D7ZG87P.jpeg?v=1795137591&w=1920&h=1080",
     "collection_timestamp": "2026-11-21T16:54:25.938465+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "1e9cc1564da72c9750c673d28aeff099b733f9fce269275ab46bd49e8b7bbfc8",
@@ -1647,7 +2084,8 @@
     "tags": [
       "News",
       "Dungeons & Dragons"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "558e8779f54a7e28d7b24345d3fddf52e9b6581d37f847925ef95031817c5e2d",
@@ -1669,7 +2107,8 @@
       "Politics",
       "Robot",
       "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "fd0908678abf0084654ea864a88e2b80eec3ced613ebf98e0635c70b61430aca",
@@ -1691,7 +2130,8 @@
       "controversy",
       "Jensen Huang",
       "NVIDIA"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "00d2a30c39127126821d3d565e7df23a93669567441831f10936ee26f24111ab",
@@ -1710,51 +2150,8 @@
       "News",
       "Security",
       "Tech"
-    ]
-  },
-  {
-    "id": "82e5d6d3f254a907f161c2673e934b2374b07f56b83e7cabc68ce7561c185de0",
-    "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
-    "summary": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs, top-notch puns, and frankly wholesome fun. Comedy is just part of Roberts' life, however. In [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
-    "published_at": "2026-11-21T11:00:00-05:00",
-    "date_unverified": false,
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/John_Roberts_1.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-21T16:54:25.917571+00:00",
-    "thin": false,
-    "author": "Terrence O’Brien",
-    "tags": [
-      "Entertainment",
-      "Interview",
-      "Music",
-      "Report",
-      "TV Shows"
-    ]
-  },
-  {
-    "id": "41500e4233025297ce60b7ab9a8977286dd9dcbe2176f295ed7d083f29a765c6",
-    "title": "Can Anthropic afford to put safety first?",
-    "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-    "published_at": "2026-11-21T10:00:00-05:00",
-    "date_unverified": false,
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_1121_Site.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-21T15:13:04.409508+00:00",
-    "thin": false,
-    "author": "Nilay Patel",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "Business",
-      "Decoder",
-      "OpenAI",
-      "Podcasts",
-      "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "3250d3f2096c2a80b45229ae42014936609291af39369133adb197762fe53f7c",
@@ -1775,7 +2172,8 @@
       "Deals",
       "Gadgets",
       "Verge Shopping"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "f0c6738268e813263c6ce0ce2dafb17e2f3f8fab1637f4915cf19fe488482edb",
@@ -1798,7 +2196,171 @@
       "Reviews",
       "Tech",
       "Xiaomi"
-    ]
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "248ece44979084dd7f9ae72d92b66518d8e3ca41a87c835f34131d4932597d05",
+    "title": "Europe's cyber weak spot is the everyday businesses nobody thought to protect",
+    "summary": "Known vulnerabilities are leaving everyday businesses increasingly exposed to cyber sabotage, as AI enables cybercriminals to work better and faster.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html",
+    "published_at": "2026-11-21T06:00:02+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108328441-1782780337378-gettyimages-527099783-20141125034845_1245_IMG_4146JPG_149607.jpeg?v=1782781855&w=1920&h=1080",
+    "collection_timestamp": "2026-11-21T09:26:51.965404+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "709d0b71fda852d02e52b8ec6789afaf10419ff62278eb82894008e9908cbcbe",
+    "title": "David Fincher Defends Use Of AI Amid ‘Cliff Booth’ Criticism: “Well, It Exists. Should We Not Use It?”",
+    "summary": "Although The Further Mis-Adventures of Cliff Booth is steeped with nostalgia for Hollywood’s past, David Fincher claims to represent the future. While many have criticized the Quentin Tarantino-penned sequel to Once Upon a Time in Hollywood (2019) for the apparent onscreen use of Gen AI, the 3x Oscar-nominated director recently shared his thoughts on the [&#8230;]",
+    "category": "technology",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/david-fincher-defends-ai-cliff-booth-criticism-1237230711",
+    "published_at": "2026-11-20T23:45:30+00:00",
+    "date_unverified": false,
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Cliff-Booth-David-Fincher-2-shot.jpg",
+    "collection_timestamp": "2026-11-21T01:57:58.188020+00:00",
+    "thin": false,
+    "author": "Glenn Garner",
+    "tags": [
+      "News",
+      "Artificial Intelligence",
+      "David Fincher",
+      "gen AI",
+      "The Further Mis-Adventures of Cliff Booth"
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "df11919abb24f64dd51ba1d819c7e3d385788c6aa8860d775db79a684fe453ac",
+    "title": "Tech Stocks End Dismal Week On Harsh Note; Nasdaq Slides Another 5% And Is Now Flat For The Year",
+    "summary": "A massive AI correction wreaked more havoc on Wall Street, ending one of the worst weeks in recent memory for the stock market and erasing all of the Nasdaq&#8217;s gains for the year. About $4 trillion in market value was wiped out across the AI sector, with Sandisk, Micron, Seagate, Applied Digital, Broadcom, Nvidia, Dell, [&#8230;]",
+    "category": "technology",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/tech-stocks-nasdaq-slides-ai-1237230137",
+    "published_at": "2026-11-20T23:24:03+00:00",
+    "date_unverified": false,
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Stock-market-Nov-20.jpg",
+    "collection_timestamp": "2026-11-21T01:57:58.188279+00:00",
+    "thin": false,
+    "author": "Dade Hayes",
+    "tags": [
+      "News",
+      "AI",
+      "Anthropic",
+      "NASDAQ",
+      "Nvidia",
+      "Stock Market"
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "990706f6b16cc8b483d03bd1505b9a6f9855199ef27cd4c40128ad2d2eb01e63",
+    "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
+    "summary": "Trump said he discussed Jensen Huang with China's Xi. Bessent said the ousted Nvidia CEO didn't come up in talks he had while in China.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+    "published_at": "2026-11-20T22:08:41+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108550979-1794576417589-bessent3.jpg?v=1795125703&w=1920&h=1080",
+    "collection_timestamp": "2026-11-21T01:57:58.224885+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "9aa4186b15705472842ebdb7bfc72a18be5930ec2c39069ba3f796a3cb3d2adf",
+    "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
+    "summary": "Cybersecurity companies have been hunting for acquisitions in the AI era.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
+    "published_at": "2026-11-20T21:35:24+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108556888-1795209058076-gettyimages-2202994362-img_2497.jpeg?v=1795209111&w=1920&h=1080",
+    "collection_timestamp": "2026-11-21T01:57:58.224463+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "e13eb6814fde5de4c90f9c8e12f6e6001ad166149d22c6acbb3b48f539de2b08",
+    "title": "Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright spot",
+    "summary": "Every weekday, the Investing Club releases the Homestretch, an actionable afternoon update just in time for the last hour of trading.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html",
+    "published_at": "2026-11-20T20:06:12+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108476687-1793279712869-108476687-1793220441401-gettyimages-2286485901-ALPHABET_EARNS.jpg?v=1793279719&w=1920&h=1080",
+    "collection_timestamp": "2026-11-20T20:40:18.167108+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "11d83fe32f4f4878b2dbcd12c2665157fe734de26fe1a6385fcd9bd6a0e9c87e",
+    "title": "A massive bearish trade just happened in the chip stocks",
+    "summary": "Options traders place big bets that semiconductor stocks have further to fall",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
+    "published_at": "2026-11-20T19:33:31+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108556541-1795189859357-gettyimages-2306070308-mms16130_rcdxsjnh.jpeg?v=1795189878&w=1920&h=1080",
+    "collection_timestamp": "2026-11-20T19:50:58.404886+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "32dc507465b0f1313725d3f642a18f82fb452939882ded1db1882e1be52e1630",
+    "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
+    "summary": "Odds that the S&P 500 will cross 8,000, which were once north of 70%, are extremely low on platform Kalshi.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
+    "published_at": "2026-11-20T19:32:32+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108316819-1780585605520-Traders-Photo-20260604-KK-PRESS-020.jpg?v=1780585765&w=1920&h=1080",
+    "collection_timestamp": "2026-11-20T19:50:58.406295+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "c8e432b426ce3d08bb7104dab9e69364e9d76bec3fbea8d19420707c356e9caa",
+    "title": "Late Comedian Sam Kinison — with His AI Avatar — Gears Up for Second Act with Buchwald (EXCLUSIVE)",
+    "summary": "The latest way for comedians to find a second act: AI. Buchwald has signed the estate of stand-up comedian Sam Kinison, who died at 38 in a 1992 car accident, to develop new business opportunities surrounding his name and likeness. Enter Kinison&#8217;s AI avatar, powered by the AI platform Uare.AI. The company, founded by LivePerson [&#8230;]",
+    "category": "technology",
+    "source": "Variety",
+    "url": "https://variety.com/2026/film/news/buchwald-signs-sam-kinison-estate-ai-avatar-1236954233",
+    "published_at": "2026-11-20T18:00:00+00:00",
+    "date_unverified": false,
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/Sam-Kinison-1.png",
+    "collection_timestamp": "2026-11-20T19:50:58.358827+00:00",
+    "thin": false,
+    "author": "Corbin Bolies",
+    "tags": [
+      "News",
+      "Buchwald",
+      "Sam Kinison"
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "4aa41678c6c9921ff7154b77ea321da669b0b15e3bf8e807dfbc1d46ec8f8b17",
+    "title": "Data center construction costs soar 13% in 2026",
+    "summary": "The demand for large data centers in the U.S. this year, driven by AI needs, grew beyond the supply of powered land and the labor to build these structures.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/data-center-construction-costs-soar-13-percent-in-2026.html",
+    "published_at": "2026-11-20T16:52:08+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108468983-1793107056007-gettyimages-2299246800-4075_48_th-0722-d.jpeg?v=1793107085&w=1920&h=1080",
+    "collection_timestamp": "2026-11-20T19:50:58.406443+00:00",
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "0bed6fbf76e8c2f8e11c464d1b82cae800a368ed699f26bc57295d07b18dcade",
@@ -1819,7 +2381,22 @@
       "Lili Reinhart",
       "Lily Collins",
       "Polly Pocket"
-    ]
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "cba1a927950074dfc62b6156164fb305aa224a1450e260c5f00d782f8b08a7ea",
+    "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
+    "summary": "Former GM CEO Dan Akerson says whoever replaces Mary Barra will have a difficult task because they'll inherit rapid change in technology and the auto industry.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html",
+    "published_at": "2026-11-20T15:50:27+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/107358100-1705075396840-GMManagementChanges02.jpg?v=1705180335&w=1920&h=1080",
+    "collection_timestamp": "2026-11-20T19:50:58.405458+00:00",
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "d8d3a00a0a2028b066382898f63cbc45e9974fea880f487b57dd4e1110b3f9b6",
@@ -1841,7 +2418,22 @@
       "Streaming",
       "Tech",
       "YouTube"
-    ]
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "eacb3841df9c699c1785bcb69644157d5b93dc330900504a22eb8bdb2e373125",
+    "title": "AI can help find holiday deals — but it's not great at spotting scams, experts say",
+    "summary": "Artificial intelligence can help compare holiday deals, but unfamiliar sellers may be risky. Here’s how to verify a retailer before you buy and pay safely.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/ai-holiday-shopping-scams.html",
+    "published_at": "2026-11-20T15:12:46+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108555358-1795102154692-gettyimages-2189731473-dsc08018.jpeg?v=1795102172&w=1920&h=1080",
+    "collection_timestamp": "2026-11-20T19:50:58.408195+00:00",
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "6e725a8401ba2947e3bfdc183150e3887ccc698cc0aad6fe7170a68666a6f72f",
@@ -1867,26 +2459,8 @@
       "Federal Aviation Administration",
       "routers",
       "telecommunications"
-    ]
-  },
-  {
-    "id": "1435102d2c5bd32e146a37c0e2f375cdcf64a42371326abad5e37ff56920b6b6",
-    "title": "Rockstar says GTA VI made $3.79 billion in its first day",
-    "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million in pre-orders. \"It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of Grand [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
-    "published_at": "2026-11-20T14:35:06-05:00",
-    "date_unverified": false,
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_2_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-20T19:50:58.373852+00:00",
-    "thin": false,
-    "author": "Jay Peters",
-    "tags": [
-      "Entertainment",
-      "Gaming",
-      "News"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "6654e122101a9ff2862313ddc11720df6790975df3a2257b3739b14ad6a86c3b",
@@ -1907,7 +2481,22 @@
       "Deals",
       "Gadgets",
       "Verge Shopping"
-    ]
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "03cc10b30cf3f17d9374ce0a64afd55f5f331bc6b9a48268c2e9e9ec2bbf296f",
+    "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
+    "summary": "SpaceX's Cursor is considering phasing out Chinese-developed open-weight AI models over geopolitical risk, according to a House report reviewed by CNBC.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+    "published_at": "2026-11-20T14:07:24+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108295661-1776885403878-gettyimages-2271955278-boivin-notitle260422_npyod.jpeg?v=1776885479&w=1920&h=1080",
+    "collection_timestamp": "2026-11-20T19:50:58.407109+00:00",
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "f38943560700b48ee795270df2c343e89a73f8e8f52276af9f50a7b695d380fa",
@@ -1927,7 +2516,22 @@
       "News",
       "Policy",
       "Politics"
-    ]
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "5562a43e8120dc9ff76a0a36f1e33ec0ebea08b65e7e40233d0490138a0d12f1",
+    "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
+    "summary": "Analysts note few concrete outcomes from the high-profile trilateral and other meetings for APEC in Shenzhen this week.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
+    "published_at": "2026-11-20T13:29:50+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108554923-1795068346389-gettyimages-2305268004-AFP_D7XJ9WY.jpeg?v=1795181331&w=1920&h=1080",
+    "collection_timestamp": "2026-11-20T19:50:58.406937+00:00",
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "f282a7b296a6447ebe3b84a1a073c1fbc14aa152384e6c3cfe2c2911ebab371b",
@@ -1948,7 +2552,8 @@
       "Deals",
       "Gadgets",
       "Verge Shopping"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "70b77c9f549ed159f6d0218a21d32ac18216e69f916b7ce6f54e50f35a556aae",
@@ -1967,7 +2572,8 @@
       "Google",
       "Google Assistant",
       "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "ba61f86ebc8ad767e81e30515f23d788608847d973bc833695f599e16e3531e0",
@@ -1988,27 +2594,8 @@
       "Deals",
       "Gadgets",
       "Verge Shopping"
-    ]
-  },
-  {
-    "id": "00641e58b4da120143f70cab179b40a24fe42ec7201ac24f1ab8fb6a99fae760",
-    "title": "Teenage Engineering’s first CD player puts the spinning disc on display",
-    "summary": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it under a lid or inside a slide-out tray. The company says the EP/BC-1 is the first entry in its new broadcast series [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
-    "published_at": "2026-11-20T12:05:52-05:00",
-    "date_unverified": false,
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/tecd1.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-20T19:50:58.375494+00:00",
-    "thin": false,
-    "author": "Andrew Liszewski",
-    "tags": [
-      "Audio",
-      "Gadgets",
-      "News",
-      "Tech"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "ec323f63f8fe1e924d6fe1ec97e4f2e1ecd40b149c676c086e5aaaee2c5714fc",
@@ -2028,7 +2615,8 @@
       "Anthropic",
       "News",
       "Science"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "9c851f13cc9bdeb3007cb65ea2b5c0d0d3f36e7421bc89ea2cedf1cabd47951b",
@@ -2048,7 +2636,21 @@
       "Interview",
       "Music",
       "Report"
-    ]
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "7ba5f68a95ac28b2a5194a2e644cdf925fc1611d8430c7833f1a3461436b176c",
+    "title": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
+    "summary": "Anthropic faced a market selloff, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
+    "published_at": "2026-11-20T11:00:01+00:00",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108555370-1795104407065-108555370-1795102498336-gettyimages-2305320974-ANTHROPIC_IPO.jpg?v=1795104414&w=1920&h=1080",
+    "collection_timestamp": "2026-11-20T12:29:55.754000+00:00",
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "64f29f284710204d6ecc118f880f0833690e7a9e89c88a850cf35cda4521a084",
@@ -2068,29 +2670,39 @@
       "Film",
       "Interview",
       "Report"
-    ]
+    ],
+    "classification_version": 2
   },
   {
-    "id": "f560adfa71a831d5980c8c13852d03c7847269e87bc3055d74490bd77272e34e",
-    "title": "Why the robots are ditching Uber",
-    "summary": "In a late August earnings call, Uber CEO Dara Khosrowshahi sounded optimistic about his company's \"very strong\" partnership with Waymo, the global leader in autonomous robotaxis. The two companies had been working together for years in several cities - including exclusively in Austin and Atlanta - and things were going swimmingly, according to Khosrowshahi. \"We [&#8230;]",
+    "id": "6654da0d2f81c863bfcaefd7a308272a97a394e36f865d442ae4b1f03638468f",
+    "title": "BBC Cuts Could Hurt Audiences, Editorial Integrity & Cybersecurity, Watchdog Warns",
+    "summary": "The BBC has been told that its £500 million ($655M) savings plan will have a bigger impact on audiences than previous cuts, according to a new report. The UK&#8217;s National Audit Office (NAO) spending watchdog warned that the £500M target is a &#8220;significant step up&#8221; in savings efforts and will likely &#8220;result in more noticeable [&#8230;]",
     "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
-    "published_at": "2026-11-20T07:00:00-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Waymo_Uber_Kristen_Radtke_e68b56.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-20T12:29:55.736060+00:00",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/bbc-cuts-hurt-audiences-editorial-integrity-cybersecurity-1237229946",
+    "published_at": "2026-11-20T09:42:26+00:00",
+    "image_url": "https://deadline.com/wp-content/uploads/2019/10/p07rmcp1.jpg",
+    "collection_timestamp": "2026-11-20T12:29:55.727654+00:00",
     "thin": false,
-    "author": "Andrew J. Hawkins",
+    "author": "Jake Kanter",
     "tags": [
-      "Autonomous Cars",
-      "Ride-sharing",
-      "Robot",
-      "Tech",
-      "Transportation",
-      "Uber",
-      "Waymo"
-    ]
+      "News",
+      "BBC"
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "ae677ebcb07993d6299db5bc2f3016ecdb4a71966ecfbe64f29272f8c03002cc",
+    "title": "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks",
+    "summary": "The declines in Asia come after the tech-heavy Nasdaq Composite fell more than 2% overnight following Anthropic's highly anticipated Wall Street debut.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+    "published_at": "2026-11-20T07:23:06+00:00",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108316517-1780554960547-gettyimages-2230425216-raa-intelsof250820_npZoK.jpeg?v=1780555182&w=1920&h=1080",
+    "collection_timestamp": "2026-11-20T12:29:55.755540+00:00",
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "d5ee4b52eb7c2895de77ffe4a3a6a9bb6406d2b19f6d64ef2407392b20bf9651",
@@ -2102,7 +2714,109 @@
     "published_at": "2026-11-20T06:00:01+00:00",
     "image_url": "https://image.cnbcfm.com/api/v1/image/108554003-1795002776289-gettyimages-2214834060-ma117501.jpeg?v=1795002796&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T12:29:55.755669+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "205e535dfce4f9a3b244c3d588478aa8b3a9296e5546261c1d1c9baf766d4d7a",
+    "title": "Dude, Where Are My Billions? Ashton Kutcher Edging Closer to Super Rich Status After Anthropic IPO",
+    "summary": "The actor and famed tech investor's venture capital firm, Sound Ventures holds a roughly 0.5 percent stake in the AI giant.",
+    "category": "technology",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/news/general-news/ashton-kutcher-billionaire-anthropic-ipo-1236759822",
+    "published_at": "2026-11-20T04:22:43+00:00",
+    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Ashton-Kutcher.jpg?w=1296&h=730&crop=1",
+    "collection_timestamp": "2026-11-20T12:29:55.729635+00:00",
+    "thin": false,
+    "author": "Abid Rahman",
+    "tags": [
+      "General News",
+      "News",
+      "anthropic",
+      "Ashton Kutcher"
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "5feb792507384383570cb20f347e2894d5c417730d22b5abf28aefc4a8579de1",
+    "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+    "summary": "The declines in Asia come after the tech-heavy Nasdaq Composite fell more than 2% overnight following Anthropic's highly anticipated Wall Street debut.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
+    "published_at": "2026-11-20T03:30:34+00:00",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108316517-1780554960547-gettyimages-2230425216-raa-intelsof250820_npZoK.jpeg?v=1780555182&w=1920&h=1080",
+    "collection_timestamp": "2026-11-20T03:52:04.299740+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "4d19fd9ebee4098f4d31a8f2e489d1e4074563ade9b9d3db06d8c2a310c9be35",
+    "title": "Anthropic was supposed to save the AI trade. What went wrong?",
+    "summary": "Technology stocks tanked despite one of the most hotly anticipated tech IPOs in years. Why Anthropic couldn't revive AI animal spirits.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
+    "published_at": "2026-11-20T00:00:38+00:00",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108556064-1795129228949-gettyimages-2305334314-ANTHROPIC_IPO.jpeg?v=1795129353&w=1920&h=1080",
+    "collection_timestamp": "2026-11-20T03:52:04.299480+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "1d2262ccaa6a310659de85cc17151785b7a93e12fd21ad9ba7d5de880bbf3897",
+    "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
+    "summary": "The investigation by California Attorney General Rob Bonta comes on the heels of the resignation of Nvidia CEO Jensen Huang.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
+    "published_at": "2026-11-19T23:21:23+00:00",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108352165-1787237664975-108352165-1787236932205-gettyimages-2290512238-META_TRIAL.jpeg?v=1787237713&w=1920&h=1080",
+    "collection_timestamp": "2026-11-20T03:52:04.299356+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "fb0bdc0514ed137e1cbac7151cd3d1fe810bd2f9f08b553c60941017697a2ffb",
+    "title": "Robert Glasper Breaks Down What Makes Kendrick Lamar’s ‘To Pimp a Butterfly’ Special & Speaks Up Against AI | Billboard News Interview",
+    "summary": "Robert Glasper breaks down why AI can’t copy the human “mistakes” that make music feel real. In this Billboard News interview, Glasper talks bridging jazz, hip-hop, R&#38;B and soul — and what separates great musicians from artists who change culture. Glasper also reflects on working with Kendrick Lamar on To Pimp a Butterfly, why H.E.R. [&#8230;]",
+    "category": "technology",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/video/robert-glasper-billboard-news-interview",
+    "published_at": "2026-11-19T23:15:15+00:00",
+    "image_url": "https://www.billboard.com/wp-content/uploads/2026/11/BB-News-Interview-Horizontal-Template-Updated_robertglasper.jpg?w=1024",
+    "collection_timestamp": "2026-11-20T03:52:04.278182+00:00",
+    "thin": false,
+    "author": "Stefanie Tanaka",
+    "tags": [
+      "Media",
+      "Videos",
+      "genre hiphop",
+      "genre rb",
+      "Music News"
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "d0f2b5c5ac8269152bc182611cf1182b6d0b062c277735c45e59410bb9e2da8a",
+    "title": "Google Says It’s Investigating Russell Brand YouTube Video Where He Said He’s “Not Guilty” in Message From Prison",
+    "summary": "BBC News also reported that Google declined a request from the Ministry of Justice to remove the video, saying none of its rules had been broken.",
+    "category": "technology",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/news/general-news/google-investigating-russell-brand-youtube-video-innocent-claim-1236759639",
+    "published_at": "2026-11-19T22:58:11+00:00",
+    "image_url": null,
+    "collection_timestamp": "2026-11-20T03:52:04.276677+00:00",
+    "thin": false,
+    "author": "McKinley Franklin",
+    "tags": [
+      "General News",
+      "News",
+      "Google",
+      "Russell Brand",
+      "YouTube"
+    ],
+    "classification_version": 2
   },
   {
     "id": "d3e374fac14e77d3b5751daa215891531043b55a2980b19703df2e55beb5f053",
@@ -2122,7 +2836,42 @@
       "Amazon",
       "amazon delivery",
       "amazon delivery drivers"
-    ]
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "56d54ddc5c5c051fad5ef759d947567c0307b04a52bfd7030a39b8be20cd1f9c",
+    "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+    "summary": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+    "published_at": "2026-11-19T21:43:30+00:00",
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108555825-1795118102467-gettyimages-2304282548-mast_360_111026.jpeg?v=1795118157&w=1920&h=1080",
+    "collection_timestamp": "2026-11-19T22:44:17.104955+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "8da3dd883baf8420092acc2df9fe0acba0d5e8e32d8ea1c43f9dc39c9b511c0c",
+    "title": "Grimes & Elon Musk Feud Over AI ‘Sex Slave,’ Singer Urges Ex to ‘Step Up’ and Be ‘the King He Used to Be’",
+    "summary": "\"A man who worries so publicly abt the birth rate should not publicly advocate for its demise,\" she wrote.",
+    "category": "technology",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/music-news/elon-musk-grimes-feud-ai-sex-slave-he-should-be-king-1236384843",
+    "published_at": "2026-11-19T21:29:09+00:00",
+    "image_url": "https://www.billboard.com/wp-content/uploads/2026/10/P114BTNF-e1791820875861.jpg?w=237&h=147&crop=1",
+    "collection_timestamp": "2026-11-19T22:44:17.071487+00:00",
+    "thin": false,
+    "author": "Hannah Dailey",
+    "tags": [
+      "Music",
+      "Music News",
+      "AI",
+      "Artificial Intelligence",
+      "genre pop"
+    ],
+    "classification_version": 2
   },
   {
     "id": "39409b90e605d4b25dac9257a59e836d8e622e55f8a5cf199169d5568a5b8ae6",
@@ -2142,198 +2891,8 @@
       "Amazon",
       "black friday",
       "noads"
-    ]
-  },
-  {
-    "id": "54be68547c202e92350dbed6e37d16e95afbe8049392a339f8a7aefe6c23c385",
-    "title": "Amazon app warns New York of higher costs if Mamdani delivery law passes",
-    "summary": "Amazon has lobbied heavily against the proposed legislation, while New York City Mayor Zohran Mamdani backed the bill earlier this year.",
-    "category": "technology",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
-    "published_at": "2026-11-19T20:46:23+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-19T22:44:17.105433+00:00",
-    "thin": false
-  },
-  {
-    "id": "db0fd916581d1089d37fe5c57958c321d15c389fec2b38e590d1a4d335949fab",
-    "title": "Google will launch Android app verification requirement globally in January 2027",
-    "summary": "Google says almost all developers have already gotten on board with verification.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027",
-    "published_at": "2026-11-19T18:00:33+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Android-IO-1152x648.jpg",
-    "collection_timestamp": "2026-11-19T22:44:17.079384+00:00",
-    "thin": false,
-    "author": "Ryan Whitwam",
-    "tags": [
-      "Google",
-      "Tech",
-      "android",
-      "apps",
-      "google",
-      "security",
-      "smartphones"
-    ]
-  },
-  {
-    "id": "74abf94a84eeb110c942983682b873d17ff8525381ce9f6b95aa92dcace97239",
-    "title": "Apple is hiring engineers to build its own AI agent",
-    "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking for an engineer to lead the creation of an agentic AI assistant. [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-    "published_at": "2026-11-19T17:31:41-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DSC04239.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-19T22:44:17.077397+00:00",
-    "thin": false,
-    "author": "Emma Roth",
-    "tags": [
-      "AI",
-      "Apple",
-      "Apple Rumors",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "674839ee76de8d87c5f2e3f2314941ea6d1d8199e2bb2f163700e0e5d5917618",
-    "title": "A brief history of Nvidia’s recent stock fluctuations",
-    "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-    "published_at": "2026-11-19T16:59:35-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305716823.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-19T22:44:17.077593+00:00",
-    "thin": false,
-    "author": "Ellen Thomas",
-    "tags": [
-      "AI",
-      "Business"
-    ]
-  },
-  {
-    "id": "57792d25eb7f12ee0e07d8fb9fd869380ae35948d072040c7edb15bab1cd8422",
-    "title": "Meta now sells 3D movies on Quest VR headsets",
-    "summary": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spider-Man: Far From Home, Jurassic World Rebirth, Wicked: For Good, and a Billie [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
-    "published_at": "2026-11-19T16:12:06-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24951506/236805_Quest_3_and_Ray_Ban_meta_glasses_BFarsace_0016.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-19T22:44:17.077784+00:00",
-    "thin": false,
-    "author": "Jay Peters",
-    "tags": [
-      "Entertainment",
-      "Film",
-      "Meta",
-      "News",
-      "Tech",
-      "Virtual Reality"
-    ]
-  },
-  {
-    "id": "0ba04afaa1d68fa347b4a8cfff1572c69c6c1601794dc592fa588f83d9d6e1df",
-    "title": "Meta’s Muse Charm might cost $300",
-    "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-    "published_at": "2026-11-19T15:22:17-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lcimg-3879511d-dd3d-430c-8072-616e2dfb3484.jpeg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-19T22:44:17.077970+00:00",
-    "thin": false,
-    "author": "Jay Peters",
-    "tags": [
-      "AI",
-      "Meta",
-      "News",
-      "Tech"
-    ]
-  },
-  {
-    "id": "8cf5977f6a19f7e6c1c2c52d89df8e4d741c37d8134b9c3d10acdd26569c826c",
-    "title": "Google is putting AI chats right on the homepage",
-    "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks like you can open the sidebar by clicking the [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-    "published_at": "2026-11-19T15:05:06-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-19T22:44:17.078145+00:00",
-    "thin": false,
-    "author": "Emma Roth",
-    "tags": [
-      "AI",
-      "Google",
-      "News",
-      "Tech",
-      "Web"
-    ]
-  },
-  {
-    "id": "e8c8f4b02aa074c2ee62ea964c25247d023eeda65d36db2a9f3f912fc8ae36d7",
-    "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
-    "summary": "The Federal Communications Commission voted unanimously to allow state and local prisons to jam cellphones. In an announcement on Thursday, the FCC argues the rule will help combat an \"influx of contraband cellphones\" used to carry out crimes from prison. Jammers are generally banned under Section 333 of the Communications Act of 1934, though they're [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
-    "published_at": "2026-11-19T14:40:28-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STKS513_FCC_B.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-19T22:44:17.078334+00:00",
-    "thin": false,
-    "author": "Emma Roth",
-    "tags": [
-      "Mobile",
-      "News",
-      "Policy",
-      "Politics",
-      "Tech"
-    ]
-  },
-  {
-    "id": "d33d37c291ebeeab625af94e921aa90396d30815e812d01cefe0b8d4a54fb31e",
-    "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
-    "summary": "Back in my day, the only “Doorbuster” sales were at physical retail stores. But now, you can get ultra-low prices before Black Friday whether you want to shop in-store or online. One that stands out is the previous-generation Sony WH-1000XM5 noise-canceling headphones, which are marked down to their lowest price ever, just $169.99 at Best [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
-    "published_at": "2026-11-19T14:35:52-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/DSCF7932.webp?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-19T22:44:17.078536+00:00",
-    "thin": false,
-    "author": "Brad Bourque",
-    "tags": [
-      "Black Friday",
-      "Cyber Monday",
-      "Deals",
-      "Gadgets",
-      "Headphones",
-      "Verge Shopping"
-    ]
-  },
-  {
-    "id": "17cc94bf552fe140252cfa758576e1cc8160c612a7b7ee9bf2ec87be69ee3b03",
-    "title": "You can now buy a Steam Machine without getting on a waitlist",
-    "summary": "Valve announced some updates about Steam Machine availability today, including good news if you want to buy one right now and potential bad news about future supply due to RAMaggedon. The good news: You can now purchase a 512GB Steam Machine without getting on a waitlist. Initially, interested buyers had to get on Valve's waitlist [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/games/1038010/valve-steam-machine-waitlist-supply",
-    "published_at": "2026-11-19T14:33:22-05:00",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268581_Steam_Machine_AKrales_0372.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-19T22:44:17.078716+00:00",
-    "thin": false,
-    "author": "Jay Peters",
-    "tags": [
-      "Entertainment",
-      "Gaming",
-      "News",
-      "PC Gaming"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "9218d56aaa602dbaa8cbf100c72a614224ba76862e22c2ce190d8040a832131d",
@@ -2349,7 +2908,25 @@
     "author": "/u/chusskaptaanhttps://www.reddit.com/user/chusskaptaan",
     "tags": [
       "pcmasterrace"
-    ]
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "472aa3412c6a6672bc156d6ce7ea59e578b0537f7ae2188a5c860b88adeb63da",
+    "title": "U.S. proposes blocking employers from sponsoring foreign workers for the same or similar jobs within 2 years of laying off American workers.",
+    "summary": "&#32; submitted by &#32; /u/codedude7 &#32; to &#32; r/technology [link] &#32; [comments]",
+    "category": "technology",
+    "source": "Reddit Popular",
+    "url": "https://www.reddit.com/r/technology/comments/1xy9znd/us_proposes_blocking_employers_from_sponsoring",
+    "published_at": "2026-11-17T03:32:18+00:00",
+    "image_url": "https://external-preview.redd.it/RQdEukfWFfmTl9AgtIEHkS5cJpsPEEkwCtST9G9sxXU.jpeg",
+    "collection_timestamp": "2026-11-17T08:53:28.149966+00:00",
+    "thin": false,
+    "author": "/u/codedude7https://www.reddit.com/user/codedude7",
+    "tags": [
+      "technology"
+    ],
+    "classification_version": 2
   },
   {
     "id": "5082dfda10bff74f000a79d57567c7e87de16691fdbad697271e5cb0ec100b12",
@@ -2363,6 +2940,7 @@
     "image_url": null,
     "collection_timestamp": "2026-11-21T15:13:04.407261+00:00",
     "thin": false,
-    "author": "noreply@blogger.com (Unknown)"
+    "author": "noreply@blogger.com (Unknown)",
+    "classification_version": 2
   }
 ]

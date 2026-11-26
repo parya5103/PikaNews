@@ -1,5 +1,45 @@
 [
   {
+    "id": "8718e4d3dd11c54bcf3d760b42e0463912dfdc03783fa4ff50fc0b15d2899859",
+    "title": "BBC Set to Be Investigated Over Antisemitism as Former Producer Says: ‘It Is a Hostile Environment for Jews Who Want to Be Openly Jewish’",
+    "summary": "The BBC is set to be investigated over antisemitism. The government’s independent adviser on antisemitism, Lord John Mann, has written to the broadcaster to outline his investigation. “I am a big supporter of the BBC and public broadcasting. It is precisely because I believe in the future of the BBC that I need to intervene […]",
+    "category": "climate",
+    "source": "Variety",
+    "url": "https://variety.com/2026/tv/global/bbc-investigation-antisemitism-lord-mann-1236958910",
+    "published_at": "2026-11-26T12:33:00+00:00",
+    "date_unverified": false,
+    "image_url": "https://variety.com/wp-content/uploads/2025/06/GettyImages-1365172587.jpg",
+    "collection_timestamp": "2026-11-26T17:09:51.796758+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "K.J. Yossman",
+    "tags": [
+      "Global",
+      "News",
+      "BBC"
+    ]
+  },
+  {
+    "id": "07844c9924ef18a525bb93cea5829aa63023ea05a0d2b45029facb861595ec2e",
+    "title": "‘What A Talent’: Belinda Carlisle, UB40, Spandau Ballet & More Remember Andy Taylor",
+    "summary": "Tributes are flooding in for Andy Taylor, the brawny founding guitarist for Duran Duran and The Power Station, who has passed away after a years-long battle with prostate cancer.",
+    "category": "climate",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/music/rock/belinda-carlisle-ub40-spandau-ballet-remember-andy-taylor-1236390136",
+    "published_at": "2026-11-26T08:04:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-26T17:09:51.817583+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Lars Brandle",
+    "tags": [
+      "Music",
+      "Rock",
+      "bbnews"
+    ]
+  },
+  {
     "id": "d3313a7caead6d8d7efcf81c635fdc6b0796440a1b840867ef38f0b08bae7709",
     "title": "APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis",
     "summary": "APOD Science APOD APOD: 2026 November 26 – Eye… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Eye in […]",
@@ -15,7 +55,8 @@
     "image_policy": "none",
     "tags": [
       "APOD"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "04158daa0271d57acec95e7d2e1a589d31f2d9ee31b0e899e61ffa008343f1ba",
@@ -36,7 +77,32 @@
       "Landsat 9",
       "Topography",
       "Wildlife"
-    ]
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "5f9da790ed3a9f324bbadb3295c1c7aafe60b60f24985d4ecc9403001972557b",
+    "title": "How to Watch ‘Andrew Tate: Toxic Empire’ Online for Free",
+    "summary": "Investigation Discovery's new miniseries explores the allegations against far-right influencer Andrew Tate and his brother. Here's where to stream it at no cost",
+    "category": "science",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/where-to-watch-andrew-tate-toxic-empire-online-for-free-stream-1235664132",
+    "published_at": "2026-11-25T22:00:00+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/tate-doc.jpg?w=1600&h=900&crop=1",
+    "collection_timestamp": "2026-11-25T23:44:25.998258+00:00",
+    "thin": false,
+    "author": "Alexis Mikulski Ruiz",
+    "tags": [
+      "TV & Movies",
+      "TV & Movies News",
+      "andrew tate",
+      "Documentary",
+      "noads",
+      "RS Recommends",
+      "streaming"
+    ],
+    "classification_version": 2
   },
   {
     "id": "f677478c9b88a1b84c2a28477d3f2e67931d3a0ea779e8465705720b67c94d8f",
@@ -55,7 +121,8 @@
     "author": "Jennifer M. Dooren",
     "tags": [
       "Office of Small Business Programs (OSBP)"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "b31f06bbd77f668b73e8fb89c7fd0fad61fe2375e241b209aba2179f52ec0873",
@@ -75,7 +142,8 @@
       "Biological & Physical Sciences",
       "International Space Station (ISS)",
       "Science Mission Directorate"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "a2845fb3ca0e14d004aab875183ff54217233754d8cd2fb896aabf6eeb88ba63",
@@ -96,7 +164,8 @@
       "Goddard Space Flight Center",
       "People of Goddard",
       "People of NASA"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "0c8fdfb96ba7e953bb8f06d09c38894563cb2d86defedead509daa70acf6a7f5",
@@ -115,7 +184,8 @@
     "author": "HQ Web Team",
     "tags": [
       "Earth"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "e9f0fe70dd6639bf301f0bfef43ec8d1026a74c5cd11f485c2745571633c1e86",
@@ -140,7 +210,8 @@
       "Nancy Grace Roman Space Telescope",
       "The Milky Way",
       "The Universe"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "30d6f276c5262a43f1e6566012bdecf20e8d9e95390396ba38bd2132fb6de8fd",
@@ -158,7 +229,8 @@
     "image_policy": "none",
     "tags": [
       "APOD"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "313fb9725ef4f71804553a2fa838a57aad27f252a923e8cc178b16c897107fc9",
@@ -179,7 +251,8 @@
       "Land Cover",
       "Land Use",
       "Landsat 8 / LDCM (Landsat Data Continuity Mission)"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "53599b8ba8c3b55b7fc895e03b6bb11a8a66ddf3103fe671bffc49c5effd4530",
@@ -198,7 +271,8 @@
     "author": "Gerelle Q. Dodson",
     "tags": [
       "NASA+"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "d27e377bc2afee7df0a2ebd75e0a5e99c2bfb1cc85481ff0b8b44cbb023c5fef",
@@ -220,7 +294,8 @@
       "Research and Technology Mission Directorate",
       "Space Reactor-1 Freedom",
       "Space Reactors Division"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "7aa8474cebcef448792f938a47dce1f13d93e90b3a3a8801cc0e19571b081863",
@@ -240,7 +315,8 @@
       "Black Holes",
       "Citizen Science",
       "Neutron Stars"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "4d6b0325ad12fcf2f4f700addda18613eca592c3dd1543dc0053e70b4c5f4d24",
@@ -262,7 +338,8 @@
       "Commercial Resupply",
       "Missions",
       "Northrop Grumman Commercial Resupply"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "62cd753b943747795d6a65fa139e8c93a137d3197b597377cca60316f3e5092f",
@@ -280,7 +357,8 @@
     "image_policy": "none",
     "tags": [
       "Earth"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "453c2d4289ca1bf8704f988cb5da0b2d6d2ffd1ba35639beda56b46373a8563d",
@@ -299,7 +377,8 @@
     "author": "HQ Web Team",
     "tags": [
       "Supernova Remnants"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "e193dc38ef25006b8335cd0b87e2930560e29e3cdae3b1724b1578f4bec905d5",
@@ -314,7 +393,8 @@
     "collection_timestamp": "2026-11-24T22:18:25.267943+00:00",
     "thin": false,
     "region": "us",
-    "image_policy": "none"
+    "image_policy": "none",
+    "classification_version": 2
   },
   {
     "id": "2437ff6ec0377947e6a9a331a8fe9d2fc96a7638004bcf1ecf5e33946f056ae7",
@@ -338,7 +418,8 @@
       "Hubble Space Telescope",
       "Spiral Galaxies",
       "The Universe"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "237262db8f1f9857b4a6be1a36c863d31e658b4ef13592078a4318d5baf091ef",
@@ -356,7 +437,8 @@
     "image_policy": "none",
     "tags": [
       "APOD"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "b549b33e01fffaaf02fdc605abe9b769723b62d9240f2429972b612627e1dd99",
@@ -377,7 +459,32 @@
       "Landsat 9",
       "Topography",
       "Volcanoes"
-    ]
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "8ebc28a4eb8749dc3244764e1a622f0fcd7231d74f79229ade7f4fbed927d2e5",
+    "title": "David Zaslav Recalls “Awkward Moment” Before Skydance Merger Close, Hails Ex-WBD Global Chief Gerhard Zeiler For Keeping Staff “Motivated”",
+    "summary": "In one of his first public appearances since the close of the $110 billion Skydance merger, ex-Warner Bros. Discovery CEO David Zaslav on Monday recalled a key sequence during the deal’s regulatory review. “We were in this awkward moment,” Zaslav said Monday at the International Emmys in New York. “We had a hearing, we needed […]",
+    "category": "science",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/david-zaslav-skydance-merger-gerhard-zeiler-wbd-emmys-1237232182",
+    "published_at": "2026-11-24T02:59:56+00:00",
+    "date_unverified": false,
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Zaslav-Zeiler-e1795486170929.jpg",
+    "collection_timestamp": "2026-11-24T11:59:34.032097+00:00",
+    "thin": false,
+    "author": "Dade Hayes",
+    "tags": [
+      "Executives",
+      "News",
+      "David Zaslav",
+      "Gerhard Zeiler",
+      "International Emmys",
+      "Skydance",
+      "warner bros. discovery"
+    ],
+    "classification_version": 2
   },
   {
     "id": "92d2829cf544298d5559638dc41828f34aa13310ab30fe388b737547da36bfdd",
@@ -398,7 +505,8 @@
       "Science Mission Directorate",
       "Goddard Space Flight Center",
       "NOAA (National Oceanic and Atmospheric Administration)"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "9b251b522754e2010b8f1fbf487bf1d75d1bf3d6a54e09da73cdf1fe25366fe2",
@@ -417,7 +525,8 @@
     "author": "HQ Web Team",
     "tags": [
       "ISS Research"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "9af40f7f9ce0ba87c33d2f852271f0259b0d0a19dbf29fd1890e4d6c110f5a1b",
@@ -438,7 +547,8 @@
       "Research and Technology Mission Directorate",
       "Technology",
       "Technology for Living in Space"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "b68b30cc46ddde5a66ab8c4c30707c1a9692c9404ea51eeefc8b698bb8d70c44",
@@ -459,7 +569,8 @@
       "Environment",
       "Policy",
       "Science"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "3bf8613bf9c982e66269206d9b598058e3b38ca27c75759a9364deaf7a1b1afe",
@@ -479,7 +590,8 @@
     "tags": [
       "Europa Clipper",
       "Europa"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "feded5c1434203ae087b6ff9a498022b264b09e96810a7dd5c0509653429eeb2",
@@ -505,7 +617,8 @@
       "Supernova Remnants",
       "Supernovae",
       "The Universe"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "bbc3c1a2468cf2e9af26a08a90bf2a14361e037decf14ca39a8d0275f8620789",
@@ -518,7 +631,8 @@
     "date_unverified": false,
     "image_url": "https://image.cnbcfm.com/api/v1/image/108556441-1795183057823-gettyimages-2303993255-cm1_2267_5ajj8uug.jpeg?v=1795423139&w=1920&h=1080",
     "collection_timestamp": "2026-11-23T14:00:44.877133+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "e038b07e1b7a6f517b67473235b46756c9a0fff98c579e8fe8fc8f7610478392",
@@ -536,7 +650,8 @@
     "image_policy": "none",
     "tags": [
       "APOD"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "166ea44f20e59ef3f678dc0e433c39fc6c5d393c47f04241d5f9d4204e03057c",
@@ -557,7 +672,8 @@
       "Earth Visualization & Mapping",
       "Landsat 9",
       "Remote Sensing Technology"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "6e4e87cb2a5e18f5e97268ad634cf1c25800c565fd8623dfa8895da9c6cdd7ec",
@@ -576,7 +692,8 @@
     "author": "Sumer Loggins",
     "tags": [
       "Johnson Space Center"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "641cfa96b5eaab94089eefd6b931ea85b825223feff43a4b4218835c454c508f",
@@ -589,7 +706,8 @@
     "date_unverified": false,
     "image_url": "https://image.cnbcfm.com/api/v1/image/108554063-1795006580677-gettyimages-2271702239-futuristic-microchip-glowing-data-connections.jpeg?v=1795006768&w=1920&h=1080",
     "collection_timestamp": "2026-11-22T10:11:21.381315+00:00",
-    "thin": false
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "82c2ceb84e1de96daa246d2ed3775d50839da79ad48e1b04c62c9938342e6504",
@@ -607,7 +725,8 @@
     "image_policy": "none",
     "tags": [
       "APOD"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "3128fb4331a03107358fdb2cde8f1ee4d1e60266bc0406d460708beb6dde0182",
@@ -621,7 +740,8 @@
     "image_url": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1122%2Fr1749444_1296x729_16%2D9.jpg",
     "collection_timestamp": "2026-11-22T05:51:46.639716+00:00",
     "thin": false,
-    "author": "Jenna Pel"
+    "author": "Jenna Pel",
+    "classification_version": 2
   },
   {
     "id": "bee8c7d373d078bcaa997df5401e86868fc3ff85b5e6bcd4e8475b468b6a31c2",
@@ -639,7 +759,30 @@
     "image_policy": "none",
     "tags": [
       "APOD"
-    ]
+    ],
+    "classification_version": 2
+  },
+  {
+    "id": "c72b697a455077241fb887853f673cd0072cba42246d7f0809eafe4dc54bb696",
+    "title": "Man Found Guilty of Igniting Blaze That Became the Devastating Palisades Fire",
+    "summary": "Jonathan Rinderknecht was found guilty for his role of intentionally starting the blaze that would become the most destructive wildfire in Los Angeles history",
+    "category": "climate",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/culture/culture-news/palisades-fire-man-guilty-arson-verdict-1235662039",
+    "published_at": "2026-11-21T03:32:18+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/palisades-fire-man-found-guilty.jpg?w=1600&h=900&crop=1",
+    "collection_timestamp": "2026-11-21T09:26:51.940697+00:00",
+    "thin": false,
+    "author": "Charisma Madarang",
+    "tags": [
+      "(Sub)Culture News",
+      "Culture",
+      "controversy",
+      "courts and crime",
+      "Los Angeles Fires"
+    ],
+    "classification_version": 2
   },
   {
     "id": "0789444d38148a2aea30c85d8b14b89da9b5013fa5db5cd541b7aea6f83f03ec",
@@ -659,7 +802,8 @@
       "Curiosity (Rover)",
       "Mars Science Laboratory (MSL)",
       "Photojournal"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "03e2938524a0aefaa894a3f7a4e0602b1521eef7781fea58e1098e8dba1ba246",
@@ -682,7 +826,8 @@
       "General",
       "NASA Centers & Facilities",
       "Space Technology Mission Directorate"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "423e986318e98f77b03cb4917695d477ffbf3eb8f3b86684683b6bfd676f21a9",
@@ -701,7 +846,8 @@
     "author": "LaToya Dean",
     "tags": [
       "Stennis Space Center"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "54b09e253f60cd12b24d5624b92c0cd61a5003b9259e5a9eb86d24fcd2c58286",
@@ -717,7 +863,8 @@
     "thin": false,
     "region": "us",
     "image_policy": "none",
-    "author": "HQ Web Team"
+    "author": "HQ Web Team",
+    "classification_version": 2
   },
   {
     "id": "d14eedb91f49a66cb2a9744b230f0ef7630400d369db5454c3af76e24caa23ec",
@@ -735,90 +882,8 @@
     "image_policy": "none",
     "tags": [
       "APOD"
-    ]
-  },
-  {
-    "id": "ca3a02a65cb8a1dcc1bbce78c4874d975c7286cb2f8b44d4d7ce3ac139afdb03",
-    "title": "The Stormy Southwest Pacific",
-    "summary": "Tropical Cyclone Xavier launched the basin’s storm season with a bang.",
-    "category": "science",
-    "source": "NASA News Releases",
-    "url": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific",
-    "published_at": "2026-11-20T05:01:00+00:00",
-    "date_unverified": false,
-    "image_url": null,
-    "collection_timestamp": "2026-11-21T12:13:33.662747+00:00",
-    "thin": false,
-    "region": "us",
-    "image_policy": "none",
-    "tags": [
-      "Earth Observatory",
-      "Extreme Weather Events",
-      "Moderate Resolution Imaging Spectroradiometer (MODIS)"
-    ]
-  },
-  {
-    "id": "e7fb7a49959ae6f4c9c200b733bc308f5a64d4047d8a5f8170a652be95758d32",
-    "title": "Challenge: Public Input on Life and the World in 2075",
-    "summary": "NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Ideas should explore how future aviation or aerospace systems could: Ideas should be conceptual rather than technical. Award: $20,000 in [&#8230;]",
-    "category": "science",
-    "source": "NASA News Releases",
-    "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075",
-    "published_at": "2026-11-19T19:34:20+00:00",
-    "date_unverified": false,
-    "image_url": null,
-    "collection_timestamp": "2026-11-21T12:13:33.662924+00:00",
-    "thin": false,
-    "region": "us",
-    "image_policy": "none",
-    "author": "Bailey Light",
-    "tags": [
-      "Center of Excellence for Collaborative Innovation (CoECI)",
-      "CoECI News",
-      "Get Involved",
-      "Opportunities to Contribute to NASA Missions & Get Involved",
-      "Prizes, Challenges, & Crowdsourcing News",
-      "Prizes, Challenges, and Crowdsourcing Program"
-    ]
-  },
-  {
-    "id": "ee02b3907e56024a467f036bee2c14c1991c7e4be7ed38707eea82c645d82434",
-    "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
-    "summary": "Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.",
-    "category": "science",
-    "source": "NASA News Releases",
-    "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery",
-    "published_at": "2026-11-19T15:33:55+00:00",
-    "date_unverified": false,
-    "image_url": null,
-    "collection_timestamp": "2026-11-21T12:13:33.663054+00:00",
-    "thin": false,
-    "region": "us",
-    "image_policy": "none",
-    "tags": [
-      "Fermi Gamma-Ray Space Telescope",
-      "Open Science",
-      "Pulsars"
-    ]
-  },
-  {
-    "id": "2a175442f6c98b67975ed513ddc4bcde3829c73622e4eae08751fc182d6c0b86",
-    "title": "Lake Pelku",
-    "summary": "An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of images. These images record phenomena in real [&#8230;]",
-    "category": "science",
-    "source": "NASA News Releases",
-    "url": "https://www.nasa.gov/image-article/lake-pelku",
-    "published_at": "2026-11-19T15:32:39+00:00",
-    "date_unverified": false,
-    "image_url": null,
-    "collection_timestamp": "2026-11-21T12:13:33.663203+00:00",
-    "thin": true,
-    "region": "us",
-    "image_policy": "none",
-    "author": "HQ Web Team",
-    "tags": [
-      "International Space Station (ISS)"
-    ]
+    ],
+    "classification_version": 2
   },
   {
     "id": "4e4c91af0f0e39d90c7901563d4c1062b973e1b1fec4dca8c3baa9ffc5d400d3",
@@ -833,7 +898,8 @@
     "collection_timestamp": "2026-11-21T15:13:04.451185+00:00",
     "thin": false,
     "region": "global",
-    "image_policy": "none"
+    "image_policy": "none",
+    "classification_version": 2
   },
   {
     "id": "9b347aaf8c41cdb5b094b3c9e486bef9ca75823a6b198f75b00f7fa98253c611",
@@ -848,7 +914,8 @@
     "collection_timestamp": "2026-11-21T15:13:04.451321+00:00",
     "thin": false,
     "region": "global",
-    "image_policy": "none"
+    "image_policy": "none",
+    "classification_version": 2
   },
   {
     "id": "2fd8e5c6911b87714f6310a8aab9ff0da7eb0e6a307d388a259a3717d46b5207",
@@ -863,7 +930,8 @@
     "collection_timestamp": "2026-11-21T15:13:04.451465+00:00",
     "thin": false,
     "region": "global",
-    "image_policy": "none"
+    "image_policy": "none",
+    "classification_version": 2
   },
   {
     "id": "9a3fc88c0f249c795609981f5b7483484062c7034acc0c463e0b73acdbd69672",
@@ -878,7 +946,8 @@
     "collection_timestamp": "2026-11-21T15:13:04.451872+00:00",
     "thin": false,
     "region": "global",
-    "image_policy": "none"
+    "image_policy": "none",
+    "classification_version": 2
   },
   {
     "id": "a1f2d96a04dd9da0628d0ecc0a9cc4e5f6c642039dca6b5fbdcf165a22805143",
@@ -893,7 +962,8 @@
     "collection_timestamp": "2026-11-21T15:13:04.452015+00:00",
     "thin": false,
     "region": "global",
-    "image_policy": "none"
+    "image_policy": "none",
+    "classification_version": 2
   },
   {
     "id": "f8b3736b7448a6c97cc675b2c1682fe07a71d68b37bd71e5235642b0e89c0dba",
@@ -908,22 +978,8 @@
     "collection_timestamp": "2026-11-21T15:13:04.452171+00:00",
     "thin": false,
     "region": "global",
-    "image_policy": "none"
-  },
-  {
-    "id": "d72da98ebce0c7d5f2eccb845c00f704abaeee16552d52b14324c07a8d4012f8",
-    "title": "Bringing storm surge to virtual reality",
-    "summary": "A new virtual reality simulation will use the idea that “seeing is believing” to show people why coastal evacuation orders are so important during storms.",
-    "category": "science",
-    "source": "NOAA Climate.gov",
-    "url": "https://www.climate.gov/news-features/feed/bringing-storm-surge-virtual-reality",
-    "published_at": null,
-    "date_unverified": true,
-    "image_url": null,
-    "collection_timestamp": "2026-11-21T15:13:04.452304+00:00",
-    "thin": false,
-    "region": "global",
-    "image_policy": "none"
+    "image_policy": "none",
+    "classification_version": 2
   },
   {
     "id": "9e8eb39b197663527e2a586f47f7e64fd9b2c948fe86337e26ac7491db06a75f",
@@ -938,6 +994,7 @@
     "collection_timestamp": "2026-11-21T15:13:04.452454+00:00",
     "thin": false,
     "region": "global",
-    "image_policy": "none"
+    "image_policy": "none",
+    "classification_version": 2
   }
 ]
