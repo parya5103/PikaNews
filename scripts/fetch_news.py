@@ -989,7 +989,8 @@ def normalize_article(article: Dict[str, Any], source_config: Dict[str, Any]) ->
             "date_unverified": date_unverified,
             "image_url": image_url,
             "collection_timestamp": datetime.now(timezone.utc).isoformat(),
-            "thin": bool(len(clean_title) < 20 or len(clean_desc.strip()) < 40)
+            "thin": bool(len(clean_title) < 20 or len(clean_desc.strip()) < 40),
+            "classification_version": CLASSIFICATION_VERSION
         }
         
         if source_config.get("region"):
@@ -1172,6 +1173,69 @@ def _is_restricted_commercial_source(article: Dict[str, Any]) -> bool:
     return source in RESTRICTED_COMMERCIAL_SOURCE_ALIASES
 
 
+CLASSIFICATION_VERSION = 2
+
+
+def _find_source_config(article):
+    """Resolve an existing article to its configured RSS source by publisher name."""
+    source_name = str(article.get("source") or "").strip().casefold()
+    if not source_name:
+        return None
+    matches = [
+        config
+        for feed_sources in RSS_FEEDS.values()
+        for config in feed_sources
+        if str(config.get("name") or "").strip().casefold() == source_name
+    ]
+    if not matches:
+        return None
+    stored_category = str(article.get("category") or "").strip().casefold()
+    return next(
+        (config for config in matches
+         if str(config.get("category") or "").strip().casefold() == stored_category),
+        matches[0],
+    )
+
+
+def _reclassify_existing_articles(articles):
+    """Migrate legacy feed-derived labels once without overwriting manual corrections."""
+    changed = False
+    for article in articles:
+        if not isinstance(article, dict) or article.get("content_type") == "original_editorial":
+            continue
+        try:
+            version = int(article.get("classification_version") or 0)
+        except (TypeError, ValueError):
+            version = 0
+        if version >= CLASSIFICATION_VERSION:
+            continue
+        source_config = _find_source_config(article)
+        if not source_config:
+            continue
+        current_category = str(article.get("category") or "").strip().casefold()
+        configured_category = str(source_config.get("category") or "").strip().casefold()
+        # A category that differs from the feed's default is treated as a
+        # manual/editorial correction and is intentionally left untouched.
+        if not current_category or current_category == configured_category:
+            updated_category = categorize_article(
+                article.get("title", ""),
+                article.get("summary", ""),
+                article.get("source", ""),
+                configured_category,
+                source_config.get("url", ""),
+            )
+            if updated_category and updated_category != current_category:
+                article["category"] = updated_category
+                log(
+                    f"Reclassified existing story '{article.get('title', '')[:80]}' "
+                    f"from {current_category or 'uncategorized'} to {updated_category}.",
+                    "INFO",
+                )
+        article["classification_version"] = CLASSIFICATION_VERSION
+        changed = True
+    return changed
+
+
 def load_existing_articles() -> List[Dict[str, Any]]:
     """Load the master feed, recovering from category/latest feeds if it is empty or corrupt."""
     global master_feed_needs_repair
@@ -1187,6 +1251,9 @@ def load_existing_articles() -> List[Dict[str, Any]]:
                     article for article in existing_articles
                     if isinstance(article, dict) and not _is_restricted_commercial_source(article)
                 ]
+                reclassified = _reclassify_existing_articles(permitted_articles)
+                if reclassified:
+                    master_feed_needs_repair = True
                 removed_count = len(existing_articles) - len(permitted_articles)
                 if removed_count:
                     master_feed_needs_repair = True

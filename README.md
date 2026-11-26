@@ -76,8 +76,13 @@ and backend are deliberately added.
 
 ## Indexation and editorial safeguards
 
-- Third-party aggregated stories remain `noindex,follow` and are excluded from
+- Third-party aggregated story pages remain `noindex,follow` and are excluded from
   regular and Google News sitemaps.
+- Latest and category topic hubs can enter the regular sitemap only when their
+  pre-rendered listings meet strict freshness, excerpt-depth and publisher-diversity
+  gates (12 stories / 5 publishers for Latest; 8 stories / 4 publishers for a
+  category; all published within 14 days with excerpts of at least 120 characters).
+- Trending remains `noindex` until it has a separately reviewed purpose and quality gate.
 - The Google News sitemap is reserved for substantial, reviewed original
   PikaNews editorial that meets the existing author, date and content checks.
 - Collection timestamps are not presented as editorial publication or

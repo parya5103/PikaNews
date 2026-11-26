@@ -163,3 +163,112 @@ def test_world_and_science_category_pages_are_registered_and_noindex():
         page = (root / f"{category}.html").read_text(encoding="utf-8")
         assert f'id="{category}-news"' in page
         assert 'content="noindex,follow"' in page
+
+
+def test_gaming_feed_metadata_does_not_override_entertainment_story_signals():
+    assert classify_article(
+        "George R.R. Martin's 7 Best Non-Game of Thrones Books, Ranked",
+        "From antebellum Mississippi vampires to cat-loving space traders.",
+        source_category="gaming",
+    ) == "entertainment"
+    assert classify_article(
+        "Gary Larson's 10 Greatest Far Side Comics, Ranked",
+        "A retrospective on the classic comic strip.",
+        source_category="gaming",
+    ) == "entertainment"
+    assert classify_article(
+        "Goodbye Rings of Power, Prime Video's Legendary Fantasy Series Is Even Better",
+        "A television series review.",
+        source_category="gaming",
+    ) == "entertainment"
+
+
+def test_ambiguous_gaming_feed_headlines_do_not_become_gaming_without_game_evidence():
+    assert classify_article(
+        "5 Years Later, Yellowjackets Officially Solves One of Its Last Huge Mysteries",
+        "The location where the Yellowjackets crash-landed has been a hot topic for years.",
+        source_category="gaming",
+    ) != "gaming"
+    assert classify_article(
+        "The game of the year is finally here",
+        "Welcome to Installer, a weekly guide to technology and culture.",
+        source_category="gaming",
+    ) != "gaming"
+
+
+def test_entertainment_story_is_not_classified_as_technology_from_feed_metadata():
+    assert classify_article(
+        "Lili Reinhart Circling Amazon MGM Studios and Mattel's Polly Pocket",
+        "The actor is in talks to star in the upcoming film adaptation.",
+        source_category="technology",
+    ) == "entertainment"
+
+
+def test_explicit_game_coverage_still_qualifies_for_gaming():
+    assert classify_article(
+        "Nintendo's Long History with GTA Seems to Have Met Its End",
+        "Rockstar has brought L.A. Noire and Red Dead Redemption to Nintendo platforms.",
+        source_category="gaming",
+    ) == "gaming"
+
+
+def test_existing_articles_are_reclassified_once_using_the_updated_topic_rules(tmp_path, monkeypatch):
+    import json
+    from scripts import fetch_news
+
+    article = {
+        "id": "polygon-book-story",
+        "title": "George R.R. Martin's 7 Best Non-Game of Thrones Books, Ranked",
+        "summary": "From antebellum Mississippi vampires to cat-loving space traders.",
+        "category": "gaming",
+        "source": "Polygon",
+        "url": "https://www.polygon.com/books/example-story",
+        "published_at": "2026-11-21T10:00:00+00:00",
+    }
+    (tmp_path / "all_articles.json").write_text(json.dumps([article]), encoding="utf-8")
+    monkeypatch.setattr(fetch_news, "NEWS_JSON_DIR", str(tmp_path))
+    monkeypatch.setattr(fetch_news, "RSS_FEEDS", {
+        "gaming": [{"name": "Polygon", "category": "gaming", "url": "https://www.polygon.com/rss"}]
+    })
+    fetch_news.seen_hashes.clear()
+    fetch_news.master_feed_needs_repair = False
+
+    loaded = fetch_news.load_existing_articles()
+
+    assert loaded[0]["category"] == "entertainment"
+    assert loaded[0]["classification_version"] == 2
+    assert fetch_news.master_feed_needs_repair is True
+
+
+def test_trending_feed_label_is_not_used_as_an_article_topic():
+    assert classify_article(
+        "An unclassified headline with no topic evidence",
+        "",
+        source_category="trending",
+    ) == "world"
+
+
+def test_one_time_reclassification_preserves_manual_category_corrections(tmp_path, monkeypatch):
+    import json
+    from scripts import fetch_news
+
+    article = {
+        "id": "manually-corrected-story",
+        "title": "A sufficiently descriptive headline about a technology story",
+        "summary": "A detailed summary about software and cybersecurity. " * 5,
+        "category": "sports",
+        "source": "Polygon",
+        "url": "https://www.polygon.com/example-story",
+        "published_at": "2026-11-21T10:00:00+00:00",
+    }
+    (tmp_path / "all_articles.json").write_text(json.dumps([article]), encoding="utf-8")
+    monkeypatch.setattr(fetch_news, "NEWS_JSON_DIR", str(tmp_path))
+    monkeypatch.setattr(fetch_news, "RSS_FEEDS", {
+        "gaming": [{"name": "Polygon", "category": "gaming", "url": "https://www.polygon.com/rss"}]
+    })
+    fetch_news.seen_hashes.clear()
+
+    loaded = fetch_news.load_existing_articles()
+
+    assert loaded[0]["category"] == "sports"
+    assert loaded[0]["classification_version"] == 2

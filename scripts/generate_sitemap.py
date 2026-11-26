@@ -5,8 +5,9 @@ Generates XML sitemap for SEO purposes.
 
 Article URLs now point to the generated static article pages
 (news/<slug>/) instead of query-parameter URLs (article.html?id=...):
-  - all third-party aggregated entries are excluded from indexation
-  - only explicitly reviewed, substantial original editorial pages are included
+  - individual third-party aggregated article pages are excluded from indexation
+  - fresh, substantial, source-diverse topic listings may be included
+  - original editorial articles are included only after explicit review
   - admin-removed (tombstoned) articles are skipped
   - capped at 1000 article URLs per Google sitemap limits
 
@@ -19,7 +20,7 @@ import json
 from urllib.parse import urljoin
 
 try:
-    from scripts.generate_article_pages import (article_slug, is_indexable_article, is_indexable_listing, is_thin, load_removed_hashes, parse_iso, CATEGORY_PAGE_FILTERS, MIN_INDEXABLE_LISTING_STORIES, MIN_INDEXABLE_CATEGORY_STORIES)
+    from scripts.generate_article_pages import (article_slug, is_indexable_article, is_indexable_listing, is_thin, load_removed_hashes, parse_iso, CATEGORY_PAGE_FILTERS, MIN_INDEXABLE_LISTING_STORIES, MIN_INDEXABLE_CATEGORY_STORIES, MIN_INDEXABLE_LISTING_SOURCES, MIN_INDEXABLE_CATEGORY_SOURCES)
 except ImportError:
     from generate_article_pages import (article_slug, is_indexable_article, is_indexable_listing, is_thin, load_removed_hashes, CATEGORY_PAGE_FILTERS, MIN_INDEXABLE_LISTING_STORIES, MIN_INDEXABLE_CATEGORY_STORIES)
 
@@ -58,6 +59,7 @@ def generate_sitemap():
     """Generate XML sitemap."""
     # Collect all article URLs
     article_urls = []
+    articles = []
 
     # Load all articles
     all_articles_file = os.path.join(NEWS_JSON_DIR, "all_articles.json")
@@ -65,14 +67,18 @@ def generate_sitemap():
         try:
             with open(all_articles_file, "r", encoding="utf-8") as f:
                 articles = json.load(f)
-
             removed = load_removed_hashes()
+            # Topic-hub eligibility must use the same live, non-thin,
+            # non-tombstoned story set that the page generator publishes.
+            articles = [
+                article for article in articles
+                if isinstance(article, dict)
+                and article.get("id")
+                and article.get("id") not in removed
+                and not is_thin(article)
+            ]
 
             for article in articles:
-                if not isinstance(article, dict) or not article.get("id"):
-                    continue
-                if article.get("id") in removed:
-                    continue
                 if not is_indexable_article(article):
                     continue
                 slug = article_slug(article.get("title"), article.get("id"))
@@ -88,20 +94,17 @@ def generate_sitemap():
         except Exception as e:
             print(f"Warning: could not load articles for sitemap: {e}")
 
-    # Feed and category pages are indexable only when they contain enough
-    # reviewed, substantial PikaNews-authored editorial. Aggregated RSS volume
-    # never satisfies this gate.
-    # The homepage is a useful, branded discovery hub even before the
-    # newsroom has enough reviewed original stories to index article pages.
-    # Keep it indexable and discoverable; gate editorial feeds separately.
+    # Topic listings are discovery hubs, not individual article copies. Only
+    # recent, substantial excerpts from multiple distinct publishers qualify.
+    # Individual third-party article pages remain noindex; Trending is omitted
+    # until it has a genuine trend-ranking signal.
     listing_pages = [
         {"url": "", "priority": 1.0, "changefreq": "daily"},
     ]
-    if is_indexable_listing(articles, MIN_INDEXABLE_LISTING_STORIES):
-        listing_pages.extend([
-            {"url": "latest.html", "priority": 0.9, "changefreq": "hourly"},
-            {"url": "trending.html", "priority": 0.9, "changefreq": "hourly"},
-        ])
+    if is_indexable_listing(articles, MIN_INDEXABLE_LISTING_STORIES, MIN_INDEXABLE_LISTING_SOURCES):
+        listing_pages.append(
+            {"url": "latest.html", "priority": 0.9, "changefreq": "hourly"}
+        )
     for page, allowed_categories in CATEGORY_PAGE_FILTERS.items():
         if page == "latest":
             continue
@@ -109,7 +112,7 @@ def generate_sitemap():
             article for article in articles
             if (article.get("category") or "").lower() in allowed_categories
         ]
-        if is_indexable_listing(selected, MIN_INDEXABLE_CATEGORY_STORIES):
+        if is_indexable_listing(selected, MIN_INDEXABLE_CATEGORY_STORIES, MIN_INDEXABLE_CATEGORY_SOURCES):
             listing_pages.append({"url": page + ".html", "priority": 0.8, "changefreq": "hourly"})
     static_pages = listing_pages + STATIC_PAGES
 

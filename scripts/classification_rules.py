@@ -59,8 +59,10 @@ TOPIC_RULES: Dict[str, Tuple[str, ...]] = {
     ),
     "entertainment": (
         "entertainment", "movie", "film", "actor", "actress", "celebrity",
-        "tv series", "television", "streaming", "netflix", "album", "concert",
-        "music", "box office", "film festival",
+        "tv series", "tv show", "television", "streaming", "netflix", "album", "concert",
+        "music", "box office", "film festival", "book", "books", "novel", "novels",
+        "comic", "comics", "comic strip", "documentary", "director", "casting",
+        "cast", "studio", "studios", "episode", "season", "series", "show",
     ),
 }
 
@@ -90,14 +92,15 @@ def classify_article(
     title_text = _normalise(title)
     summary_text = _normalise(description)
     if not title_text.strip():
-        return str(source_category or "world").strip().casefold()
+        fallback = str(source_category or "").strip().casefold()
+        return fallback if fallback in TOPIC_RULES else "world"
 
     scores = {}
     for category, phrases in TOPIC_RULES.items():
         title_hits = _phrase_hits(title_text, phrases)
         summary_hits = _phrase_hits(summary_text, phrases)
         score = title_hits * _TITLE_WEIGHT + summary_hits * _SUMMARY_WEIGHT
-        if category == str(source_category or "").strip().casefold():
+        if category == str(source_category or "").strip().casefold() and (title_hits or summary_hits):
             score += _SOURCE_CATEGORY_WEIGHT
         if score:
             scores[category] = (score, title_hits, summary_hits)
@@ -113,4 +116,13 @@ def classify_article(
         )[0]
 
     fallback = str(source_category or "").strip().casefold()
-    return fallback or "world"
+    if fallback == "gaming":
+        # A publisher feed may mix games with TV, books, comics and culture.
+        # Do not let a generic headline inherit Gaming without explicit game evidence.
+        gaming_evidence = (
+            _phrase_hits(title_text, TOPIC_RULES["gaming"])
+            + _phrase_hits(summary_text, TOPIC_RULES["gaming"])
+        )
+        if not gaming_evidence:
+            return "world"
+    return fallback if fallback in TOPIC_RULES else "world"
