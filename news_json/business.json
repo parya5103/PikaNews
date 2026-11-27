@@ -1,5 +1,39 @@
 [
   {
+    "id": "38fc78dfb3bbbe55cecf3d8844f2971f9d2b71af644bfc8296cdd056764cdccc",
+    "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+    "summary": "SpaceX shares jumped in trading Friday after Elon Musk said on X that he would donate shares to American children every year.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+    "published_at": "2026-11-27T18:24:06+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
+    "collection_timestamp": "2026-11-27T19:35:27.907155+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "488b734357cdd5d278ca92b6717d8ade20ebcef5585b801a72552f93444d2776",
+    "title": "David Beckham’s Morning Routine Has One Non-Negotiable",
+    "summary": "David Beckham’s calendar would exhaust most of us. Between co-owning Inter Miami CF, building a business empire and starring in his own Netflix docuseries, there’s not much room for a complicated wellness routine. So what does his morning actually look like? According to longtime trainer Bobby Rich, one thing never changes. “David takes the IM8 […]",
+    "category": "business",
+    "source": "Variety",
+    "url": "https://variety.com/2026/shopping/athletes/david-beckham-im8-health-wellness-brand-review-products-1236959633",
+    "published_at": "2026-11-27T17:41:30+00:00",
+    "date_unverified": false,
+    "image_url": "https://variety.com/wp-content/uploads/2026/11/david-beckham-im8-health.jpg",
+    "collection_timestamp": "2026-11-27T19:35:28.014774+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Tim Chan",
+    "tags": [
+      "Athletes",
+      "David Beckham",
+      "health and wellness"
+    ]
+  },
+  {
     "id": "a7658566f2ba8f539fa21a0a473a54371dc7af44fb440814fd5629f0d0440b7d",
     "title": "Pokémon Officially Sets 2027 Anime Comeback to Launch With Winds and Waves",
     "summary": "The Pokémon Company has announced a new season of the Pokémon anime coming in 2027",
@@ -2640,90 +2674,6 @@
     "tags": [
       "Gaming,News"
     ],
-    "classification_version": 2
-  },
-  {
-    "id": "95f51e2ee0a182dfc1465ad70051a8828b70d3f7a905b1cf78704a8256f2c9c8",
-    "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
-    "summary": "Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
-    "published_at": "2026-11-20T15:20:54+00:00",
-    "date_unverified": false,
-    "image_url": "https://image.cnbcfm.com/api/v1/image/108476194-17932143232026-10-28t190313z_1179407772_rc2icoaqsfjn_rtrmadp_0_usa-fed.jpeg?v=1793214357&w=1920&h=1080",
-    "collection_timestamp": "2026-11-20T19:50:58.405301+00:00",
-    "thin": false,
-    "classification_version": 2
-  },
-  {
-    "id": "29a9d982dfde98b971416df3f78fc1ca69c89e4c968174c6f25d7fbfa38697f8",
-    "title": "As Anthropic shares tank, investors scramble to hedge. It could be very expensive",
-    "summary": "Anthropic options list Monday. They will likely be expensive",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/20/as-anthropic-shares-tank-investors-scramble-to-hedge-it-could-be-very-expensive.html",
-    "published_at": "2026-11-20T15:12:40+00:00",
-    "date_unverified": false,
-    "image_url": "https://image.cnbcfm.com/api/v1/image/108555730-1795112420119-gettyimages-2305353646-ANTHROPIC_IPO.jpeg?v=1795112447&w=1920&h=1080",
-    "collection_timestamp": "2026-11-21T01:57:58.224649+00:00",
-    "thin": false,
-    "classification_version": 2
-  },
-  {
-    "id": "615f6e522699cf0e7b3867e4a9ca7a77ad553aa48c25aa65ce3a12b921c82aca",
-    "title": "Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overallotment",
-    "summary": "The AI company sold an aggregate of 1,127,000,000 shares at $83 per share in the record IPO.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
-    "published_at": "2026-11-20T14:59:38+00:00",
-    "date_unverified": false,
-    "image_url": "https://image.cnbcfm.com/api/v1/image/108555352-17951019042026-11-19t145814z_563319887_rc21roaktnjs_rtrmadp_0_anthropic-ipo-debut.jpeg?v=1795101947&w=1920&h=1080",
-    "collection_timestamp": "2026-11-20T19:50:58.405979+00:00",
-    "thin": false,
-    "classification_version": 2
-  },
-  {
-    "id": "b101d79d8b5077e6f8eb41282c72850c8352141b0e47d3896e0728bbf39b899e",
-    "title": "Bitcoin suffered identical sell-off pattern ahead of Anthropic, SpaceX IPOs — what happens next?",
-    "summary": "With Anthropic now public, investors are watching to see whether bitcoin and ether find a floor, and if institutional demand returns.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/20/bitcoin-pre-ipo-selloff-pattern-anthropic-spacex.html",
-    "published_at": "2026-11-20T14:34:14+00:00",
-    "date_unverified": false,
-    "image_url": "https://image.cnbcfm.com/api/v1/image/108268517-1771860022960-gettyimages-2260490322-AFP_96YR6Q2.jpeg?v=1789476137&w=1920&h=1080",
-    "collection_timestamp": "2026-11-20T19:50:58.406632+00:00",
-    "thin": false,
-    "classification_version": 2
-  },
-  {
-    "id": "9cc1a7c63c58f0f15ded5d68c2379888458d498e84aea8de08f1224a59f360a3",
-    "title": "The bull market has a new problem. The 'smart money' is selling",
-    "summary": "Companies are shifting from share buybacks to stock issuance, adding new supply. Anthropic’s $81 billion IPO puts that demand to the test.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
-    "published_at": "2026-11-20T14:15:29+00:00",
-    "date_unverified": false,
-    "image_url": "https://image.cnbcfm.com/api/v1/image/108555311-1795100709058-gettyimages-2305894647-mms24821_52qceprh.jpeg?v=1795100757&w=1920&h=1080",
-    "collection_timestamp": "2026-11-20T19:50:58.404749+00:00",
-    "thin": false,
-    "classification_version": 2
-  },
-  {
-    "id": "838d2061f0c7708aa60fa4e177f706fa9eb8293d1bc239124f3f9b8bc532e773",
-    "title": "Some FHA borrowers pay mortgage insurance for a decade or more. There's an industry push to change the rules",
-    "summary": "Mortgage industry groups want the rules applying to mortgage insurance for FHA loans to be changed to bring down the cost for borrowers.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/20/fha-mortgage-insurance-cuts-cancellation.html",
-    "published_at": "2026-11-20T13:35:01+00:00",
-    "date_unverified": false,
-    "image_url": "https://image.cnbcfm.com/api/v1/image/108553298-1794937757662-gettyimages-935640028-imgl2096.jpeg?v=1794937842&w=1920&h=1080",
-    "collection_timestamp": "2026-11-20T19:50:58.407975+00:00",
-    "thin": false,
     "classification_version": 2
   },
   {

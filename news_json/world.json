@@ -1,5 +1,25 @@
 [
   {
+    "id": "515cd14c823e281335bee44a285bb59a10e5d67ceeb146d756dd7e5e36af505b",
+    "title": "'Pokémon Winds and Waves' Fans Will End 2026 On A Good Note",
+    "summary": "Fans of Pokémon starters Browt, Pombon and Gecqua have something to look forward to before 2026 ends, ahead of Winds and Waves' release",
+    "category": "world",
+    "source": "Polygon",
+    "url": "https://www.polygon.com/pokemon-winds-waves-starters-ponbom-gecqua-browt-plush",
+    "published_at": "2026-11-27T18:22:00+00:00",
+    "date_unverified": false,
+    "image_url": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/pokemon-winds-and-waves.png",
+    "collection_timestamp": "2026-11-27T19:35:28.002506+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Patricia Hernandez",
+    "tags": [
+      "News",
+      "Pokemon",
+      "Pokemon Winds and Waves"
+    ]
+  },
+  {
     "id": "102074f67fc935d7e89cf8f131b5431a5e474d7102fcc949c1b3457aa43e4abe",
     "title": "'Buffy the Vampire Slayer' Star Reveals His 5 Favorite Episodes",
     "summary": "Can you guess all five?",
@@ -3160,47 +3180,6 @@
     "classification_version": 2
   },
   {
-    "id": "3197592a6a02db73f40a84630c926c81d3667a2d2359149c17f15ab875bb2de3",
-    "title": "Trump Got Played by Putin and Xi",
-    "summary": "The president's need for public validation has always been a vulnerability, and America’s smartest opponents know how to exploit it",
-    "category": "politics",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/politics/political-commentary/trump-played-summit-vladimir-putin-xi-jinping-1235661558",
-    "published_at": "2026-11-20T15:00:00+00:00",
-    "date_unverified": false,
-    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/trump-putin-xi-new-world-order.jpg?w=1600&h=900&crop=1",
-    "collection_timestamp": "2026-11-20T19:50:58.368434+00:00",
-    "thin": false,
-    "author": "Ryan Bort",
-    "tags": [
-      "Political Commentary",
-      "Politics",
-      "controversy",
-      "Donald Trump",
-      "Vladimir Putin",
-      "Xi Jinping"
-    ],
-    "classification_version": 2
-  },
-  {
-    "id": "eeea71937fee81e7005d643a85201afdaea1b4724e1a103d73d6fb64ceecaa96",
-    "title": "GTA 6 Is A British Success Story, Prime Minister Says, But He Won’t Play It",
-    "summary": "The Prime Minister of the UK, Andy Burnham, has labeled Rockstar Games a \"British success story\" amid GTA 6 's rave reviews and huge sales milestones . A spokesperson for his office told The Independent , \"Rockstar Games is a British success story made in Edinburgh, and many fans are already saying GTA has been worth the wait.\" Rockstar North is based in Edinburgh, Scotland, but GTA 6 was made by thousands of people across the globe. GTA is also historically linked to the UK, as the original gam",
-    "category": "politics",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/gta-6-is-a-british-success-story-prime-minister-says-but-he-wont-play-it",
-    "published_at": "2026-11-20T14:59:27+00:00",
-    "date_unverified": false,
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Jason_Duval_12.jpg?w=300",
-    "collection_timestamp": "2026-11-20T19:50:58.383451+00:00",
-    "thin": false,
-    "author": "Eddie Makuch",
-    "tags": [
-      "Gaming,News"
-    ],
-    "classification_version": 2
-  },
-  {
     "id": "9bffd452b7714440a8dac64e06b8abbb0a2c235f6d046780da2d7999ff52c119",
     "title": "Experts of the Committee against Torture Commend Norway’s Ban on Conversion Therapy, Raise Questions on the Identification of Torture Survivors in the Asylum Process and the Use of Mechanical Restraints in Psychiatric Institutions",
     "summary": "The Committee against Torture today concluded its consideration of the ninth periodic report of Norway, with Committee Experts commending Norway’s progress on gender, including amending the Penal Code to ban conversion therapy, while raising questions on identifying torture within the asylum…",
@@ -3575,16 +3554,16 @@
     "classification_version": 2
   },
   {
-    "id": "e301c3d5025d293462f1249d9fd903e800c3892b3739b00a85d3a61015a7fde5",
-    "title": "GDP up by 0.4% in the euro area and by 0.5% in the EU",
-    "summary": "In the third quarter of 2026, seasonally adjusted GDP increased by 0.4% in the euro area and by 0.5% in the EU, compared with the previous quarter, according to a preliminary flash estimate published by Eurostat, the statistical office of the European Union. In the second quarter of 2026, GDP had...",
+    "id": "9b823ae5b407ce003ef82dc5be3011305e29344ae53fde920cd5500c94affc3e",
+    "title": "Euro area unemployment at 6.5%",
+    "summary": "In September 2026, the euro area seasonally adjusted unemployment rate was 6.5%, stable compared with August 2026 and up from 6.3% in September 2025. The EU unemployment rate was 6.2% in September 2026, also stable compared with August 2026 and up from 6.0% in September 2025. These figures are pu...",
     "category": "world",
     "source": "Eurostat Press Releases",
-    "url": "https://ec.europa.eu/eurostat/product?code=2-30102026-ap",
+    "url": "https://ec.europa.eu/eurostat/product?code=3-30102026-bp",
     "published_at": "2026-10-30T10:00:00+00:00",
     "date_unverified": false,
     "image_url": null,
-    "collection_timestamp": "2026-11-27T17:33:05.402808+00:00",
+    "collection_timestamp": "2026-11-27T19:35:27.914278+00:00",
     "thin": false,
     "classification_version": 2,
     "region": "europe",

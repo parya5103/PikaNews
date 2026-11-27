@@ -1,5 +1,19 @@
 [
   {
+    "id": "718e8dae65c6ddbff0f0f7ed4f05093981c871615041dcf0753a130b526c82a4",
+    "title": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
+    "summary": "Jensen Huang's return sparked a fleeting AI rally, but persistent market volatility gave us another opportunity to put cash to work.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html",
+    "published_at": "2026-11-27T18:46:20+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108550021-1794492334597-gettyimages-2224669758-AFP_66W349F.jpeg?v=1795450267&w=1920&h=1080",
+    "collection_timestamp": "2026-11-27T19:35:27.907656+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
     "id": "0b6beeaf4ea01a3a2734bb2782a7934bed7df43292b991a6944adf413e4dd4fa",
     "title": "AI shopping agents are having a moment, but Amazon and a growing number of sites threaten to stunt their growth",
     "summary": "AI shopping agents from OpenAI, Meta, Google and Instinct promise to help users shop, but they're hitting roadblocks at Amazon and other retailers.",
@@ -47,6 +61,28 @@
       "black friday",
       "Deals",
       "NOADS"
+    ]
+  },
+  {
+    "id": "35cb09cfc102575ea9cf86632279bb8d691bb0ffe2abab64f58baeb7f0590c83",
+    "title": "Anker’s 100W universal travel charger is down to $60, its lowest price yet",
+    "summary": "During Black Friday, the Anker 100W Universal Charger is on sale for $59.99 at Amazon, Best Buy, and Walmart, a $20 discount from its list price. That’s a few dollars lower than the previous best, with both the dark gray and silver versions available from all three retailers. With four USB ports and support for […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1041006/anker-100w-universal-travel-charger-black-friday-deal-sale",
+    "published_at": "2026-11-27T13:30:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/anker-nano-100w-universal-travel-adapter.png?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-27T19:35:28.010278+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Brad Bourque",
+    "tags": [
+      "Black Friday",
+      "Cyber Monday",
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
     ]
   },
   {
@@ -2710,140 +2746,6 @@
       "Streaming",
       "Tech",
       "YouTube"
-    ],
-    "classification_version": 2
-  },
-  {
-    "id": "eacb3841df9c699c1785bcb69644157d5b93dc330900504a22eb8bdb2e373125",
-    "title": "AI can help find holiday deals — but it's not great at spotting scams, experts say",
-    "summary": "Artificial intelligence can help compare holiday deals, but unfamiliar sellers may be risky. Here’s how to verify a retailer before you buy and pay safely.",
-    "category": "technology",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/20/ai-holiday-shopping-scams.html",
-    "published_at": "2026-11-20T15:12:46+00:00",
-    "date_unverified": false,
-    "image_url": "https://image.cnbcfm.com/api/v1/image/108555358-1795102154692-gettyimages-2189731473-dsc08018.jpeg?v=1795102172&w=1920&h=1080",
-    "collection_timestamp": "2026-11-20T19:50:58.408195+00:00",
-    "thin": false,
-    "classification_version": 2
-  },
-  {
-    "id": "6e725a8401ba2947e3bfdc183150e3887ccc698cc0aad6fe7170a68666a6f72f",
-    "title": "US will soon announce root cause behind FAA nationwide ground stop",
-    "summary": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops",
-    "published_at": "2026-11-20T14:52:51+00:00",
-    "date_unverified": false,
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Travelers-during-FAA-ground-stop-1152x648.jpg",
-    "collection_timestamp": "2026-11-20T19:50:58.376519+00:00",
-    "thin": false,
-    "author": "Jeremy Hsu",
-    "tags": [
-      "Tech",
-      "air traffic control",
-      "air traffic controllers",
-      "air travel",
-      "aircraft",
-      "airlines",
-      "FAA",
-      "Federal Aviation Administration",
-      "routers",
-      "telecommunications"
-    ],
-    "classification_version": 2
-  },
-  {
-    "id": "6654e122101a9ff2862313ddc11720df6790975df3a2257b3739b14ad6a86c3b",
-    "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
-    "summary": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy&#8217;s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of $379.99 ($420 off its original price) at Amazon, Best Buy, or directly from Eufy [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
-    "published_at": "2026-11-20T14:15:00-05:00",
-    "date_unverified": false,
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/8A0A6240.jpeg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-20T19:50:58.374126+00:00",
-    "thin": false,
-    "author": "Sheena Vasani",
-    "tags": [
-      "Black Friday",
-      "Cyber Monday",
-      "Deals",
-      "Gadgets",
-      "Verge Shopping"
-    ],
-    "classification_version": 2
-  },
-  {
-    "id": "03cc10b30cf3f17d9374ce0a64afd55f5f331bc6b9a48268c2e9e9ec2bbf296f",
-    "title": "SpaceX’s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models",
-    "summary": "SpaceX's Cursor is considering phasing out Chinese-developed open-weight AI models over geopolitical risk, according to a House report reviewed by CNBC.",
-    "category": "technology",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
-    "published_at": "2026-11-20T14:07:24+00:00",
-    "date_unverified": false,
-    "image_url": "https://image.cnbcfm.com/api/v1/image/108295661-1776885403878-gettyimages-2271955278-boivin-notitle260422_npyod.jpeg?v=1776885479&w=1920&h=1080",
-    "collection_timestamp": "2026-11-20T19:50:58.407109+00:00",
-    "thin": false,
-    "classification_version": 2
-  },
-  {
-    "id": "f38943560700b48ee795270df2c343e89a73f8e8f52276af9f50a7b695d380fa",
-    "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-    "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-    "published_at": "2026-11-20T13:50:19-05:00",
-    "date_unverified": false,
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-20T19:50:58.374396+00:00",
-    "thin": false,
-    "author": "Lauren Feiner",
-    "tags": [
-      "AI",
-      "News",
-      "Policy",
-      "Politics"
-    ],
-    "classification_version": 2
-  },
-  {
-    "id": "5562a43e8120dc9ff76a0a36f1e33ec0ebea08b65e7e40233d0490138a0d12f1",
-    "title": "U.S.-China trade, Taiwan and tech tensions remain unresolved as Trump returns from Asia",
-    "summary": "Analysts note few concrete outcomes from the high-profile trilateral and other meetings for APEC in Shenzhen this week.",
-    "category": "technology",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html",
-    "published_at": "2026-11-20T13:29:50+00:00",
-    "date_unverified": false,
-    "image_url": "https://image.cnbcfm.com/api/v1/image/108554923-1795068346389-gettyimages-2305268004-AFP_D7XJ9WY.jpeg?v=1795181331&w=1920&h=1080",
-    "collection_timestamp": "2026-11-20T19:50:58.406937+00:00",
-    "thin": false,
-    "classification_version": 2
-  },
-  {
-    "id": "f282a7b296a6447ebe3b84a1a073c1fbc14aa152384e6c3cfe2c2911ebab371b",
-    "title": "Multiplying your Switch 2’s storage costs less than usual right now",
-    "summary": "Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s original console. That’s because microSD Express cards, while physically identical to ones you might have lying around, have faster read and write speeds. Thankfully, Samsung’s 256GB model has dropped to $44.99 at Amazon ahead of [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
-    "published_at": "2026-11-20T13:15:00-05:00",
-    "date_unverified": false,
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Samsung-P9-MicroSD-Express-Card.webp?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-20T19:50:58.374699+00:00",
-    "thin": false,
-    "author": "Cameron Faulkner",
-    "tags": [
-      "Black Friday",
-      "Cyber Monday",
-      "Deals",
-      "Gadgets",
-      "Verge Shopping"
     ],
     "classification_version": 2
   },
