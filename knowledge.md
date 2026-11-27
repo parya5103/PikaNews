@@ -60,3 +60,13 @@ The scheduled collector remains every 30 minutes and CI must pass before publish
     python scripts/validate_sitemap_indexation.py
 
 Never run the collector locally against production data or manually push generated JSON without reviewing retention/tombstone effects. Work on a feature branch, wait for CI, and use a pull request before merging.
+
+## SEO and scheduled collector recheck (2026-11-28)
+
+- The collector workflow on the default branch now schedules at minute 7 and 37 of every hour (`7,37 * * * *`), retaining the intended 30-minute interval while avoiding the top-of-hour boundary. This is a scheduling mitigation, not a delivery guarantee; monitor actual scheduled-run timestamps and failures before claiming reliable 30-minute refreshes.
+- The schedule change was validated on head `236f7e2d70557a8017e8fd1d69bc7da2a08147b4`: CI, CodeQL and Security scan all completed successfully. The PR issue is now closed; the current default-branch workflow file confirms the cron expression is present.
+- The current committed regular sitemap snapshot contains 10 URLs: the PikaNews homepage, three eligible topic hubs (Hollywood, Entertainment, Science), and six static trust/legal pages. Latest and other category hubs are absent when their freshness, excerpt-depth and publisher-diversity gates do not pass. Do not force them into the sitemap.
+- The committed Google News sitemap is empty. This is correct while there are no reviewed original editorial articles that satisfy the named-author, 1,200-character substantive-content, explicit-review and valid-publication-date requirements.
+- The root GoGo robots.txt allows crawling and advertises the PikaNews sitemap. PikaNews homepage has an explicit `index,follow` directive and canonical URL. Individual RSS aggregation pages and the dynamic article fallback remain `noindex,follow` by policy; do not weaken this to increase indexed URL counts.
+- A web-search snippet made the Editorial & Corrections Policy look as if a bullet and section numbering were malformed; direct source inspection of `frontend/editorial-policy.html` confirms the actual HTML is correctly structured and numbered 1–7. Do not change the source based on the search snippet alone.
+- Do not confuse collection time with publisher publication time. Preserve missing/unknown dates and the existing editorial/indexation quality gates.
