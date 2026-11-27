@@ -1,5 +1,41 @@
 [
   {
+    "id": "c0ae84b21958426512346f09e8b46e580ae7f051ca9dab847568d3737144f834",
+    "title": "Spain’s election could pull Madrid closer to Trump’s Washington",
+    "summary": "Spanish voters head to the polls on Sunday for a snap election that could bring socialist Prime Minister Pedro Sánchez's eight years in power to an end.",
+    "category": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/27/spain-election-trump-sanchez.html",
+    "published_at": "2026-11-27T13:00:42+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-27T17:33:05.390792+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "87c6935e65a5e0a7b18e6d600343eda80bc518c6fa35c2b701bca2402977105e",
+    "title": "Canal+ Sends Signal To African Creative Community With Academy Launch Backed By President Of South Africa",
+    "summary": "The President of South Africa joined with Canal+ boss Maxime Saada today to launch a skills academy that Canal+ hopes will benefit 800 to 1,000 people in its first year. A year after Canal+ bought African pay-TV giant MultiChoice for $2B, Cyril Ramaphosa gave his full-throated backing to Canal+’s actions in South Africa and beyond, […]",
+    "category": "politics",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/canal-plus-academy-backed-south-africa-pres-cyril-ramaphosa-1237234238",
+    "published_at": "2026-11-27T11:43:28+00:00",
+    "date_unverified": false,
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/split-image-1000-12.jpg",
+    "collection_timestamp": "2026-11-27T17:33:05.399702+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Max Goldbart",
+    "tags": [
+      "News",
+      "Canal+",
+      "Cyril Ramaphosa",
+      "Maxime Saada",
+      "MultiChoice"
+    ]
+  },
+  {
     "id": "7ca2386b3ac5ada12e5c7c15223ce5232e913790914a1465a816e4c1dc934aa2",
     "title": "Shivelyuch Socked In",
     "summary": "A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.",
@@ -848,36 +884,6 @@
     "tags": [
       "Gaming,News"
     ],
-    "classification_version": 2
-  },
-  {
-    "id": "7cbff3470114d63baca993dd1b1be0b54f8834f381f214a70ea8c4b4b1ebd522",
-    "title": "Share of government debt held by resident financial corporations highest in Czechia and Sweden",
-    "summary": "Across the EU, the structure of general government gross debt differs significantly between countries. These differences relate, for example, to the initial and remaining maturity of debt, the debt instruments used and the main institutional sectors holding the debt. At the end of 2025, the shar...",
-    "category": "politics",
-    "source": "Eurostat News",
-    "url": "https://ec.europa.eu/eurostat/product?code=ddn-20261120-1",
-    "published_at": "2026-11-20T10:00:00+00:00",
-    "date_unverified": false,
-    "image_url": null,
-    "collection_timestamp": "2026-11-21T12:41:08.000206+00:00",
-    "thin": false,
-    "region": "europe",
-    "image_policy": "none",
-    "author": "Eurostat http://ec.europa.eu/eurostat",
-    "classification_version": 2
-  },
-  {
-    "id": "f94466f3f96b0cf2dd229607e6148d4685bf7c462706a5fbae3d3663599f3812",
-    "title": "Kushner says Russia 'comfortable' with idea of NATO-like security guarantees for Ukraine",
-    "summary": "Kushner said President Donald Trump is open to such a guarantee, but its form and whether Russia and Ukraine would accept it remain unclear.",
-    "category": "politics",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/20/kushner-ukraine-nato-russia-trump-putin.html",
-    "published_at": "2026-11-20T09:56:03+00:00",
-    "image_url": "https://image.cnbcfm.com/api/v1/image/108556302-1795166115340-gettyimages-2305419108-contini-coalitio261119_npkEq.jpeg?v=1795166297&w=1920&h=1080",
-    "collection_timestamp": "2026-11-20T12:29:55.754495+00:00",
-    "thin": false,
     "classification_version": 2
   },
   {
