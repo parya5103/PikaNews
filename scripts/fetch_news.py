@@ -746,7 +746,7 @@ def categorize_article(title: str, description: str, source_name: str,
 def fetch_with_retry(url: str, max_retries: int = 3, timeout: float = 30.0) -> Optional[str]:
     """Fetch a feed using persistent HTTP validators, safe redirects and retry state."""
     cache_dir = os.path.join(DATA_DIR, "feed_cache")
-    health_path = os.path.join(DATA_DIR, "feed_health.json")
+    health_path = os.path.join(cache_dir, "feed_health.json")
     body, status = fetch_feed(
         url,
         cache_dir,
@@ -1548,7 +1548,7 @@ def main():
     # Fetch from RSS/Atom/JSON Feed sources. Healthy, high-priority feeds are
     # processed first; per-source backoff is enforced by the transport layer.
     all_raw_articles = []
-    health = feed_health_snapshot(os.path.join(DATA_DIR, "feed_health.json"))
+    health = feed_health_snapshot(os.path.join(DATA_DIR, "feed_cache", "feed_health.json"))
     feed_jobs = []
     for category, feeds in RSS_FEEDS.items():
         for feed_info in feeds:
