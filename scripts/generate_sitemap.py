@@ -20,9 +20,9 @@ import json
 from urllib.parse import urljoin
 
 try:
-    from scripts.generate_article_pages import (article_slug, is_indexable_article, is_indexable_listing, is_thin, load_removed_hashes, parse_iso, CATEGORY_PAGE_FILTERS, MIN_INDEXABLE_LISTING_STORIES, MIN_INDEXABLE_CATEGORY_STORIES, MIN_INDEXABLE_LISTING_SOURCES, MIN_INDEXABLE_CATEGORY_SOURCES)
+    from scripts.generate_article_pages import (article_slug, is_indexable_article, is_indexable_listing, is_thin, load_removed_hashes, parse_iso, CATEGORY_PAGE_FILTERS, MIN_INDEXABLE_LISTING_STORIES, MIN_INDEXABLE_CATEGORY_STORIES, MIN_INDEXABLE_LISTING_SOURCES, MIN_INDEXABLE_CATEGORY_SOURCES, MAX_CATEGORY_STATIC_ARTICLES)
 except ImportError:
-    from generate_article_pages import (article_slug, is_indexable_article, is_indexable_listing, is_thin, load_removed_hashes, parse_iso, CATEGORY_PAGE_FILTERS, MIN_INDEXABLE_LISTING_STORIES, MIN_INDEXABLE_CATEGORY_STORIES, MIN_INDEXABLE_LISTING_SOURCES, MIN_INDEXABLE_CATEGORY_SOURCES)
+    from generate_article_pages import (article_slug, is_indexable_article, is_indexable_listing, is_thin, load_removed_hashes, parse_iso, CATEGORY_PAGE_FILTERS, MIN_INDEXABLE_LISTING_STORIES, MIN_INDEXABLE_CATEGORY_STORIES, MIN_INDEXABLE_LISTING_SOURCES, MIN_INDEXABLE_CATEGORY_SOURCES, MAX_CATEGORY_STATIC_ARTICLES)
 
 # Configuration
 BASE_URL = "https://gogocompany.in/pikanews/"
@@ -112,6 +112,9 @@ def generate_sitemap():
             article for article in articles
             if (article.get("category") or "").lower() in allowed_categories
         ]
+        # Match the exact story window rendered on the category page; otherwise
+        # the sitemap can advertise a hub whose visible content is noindex.
+        selected = selected[:MAX_CATEGORY_STATIC_ARTICLES]
         if is_indexable_listing(selected, MIN_INDEXABLE_CATEGORY_STORIES, MIN_INDEXABLE_CATEGORY_SOURCES):
             listing_pages.append({"url": page + ".html", "priority": 0.8, "changefreq": "hourly"})
     static_pages = listing_pages + STATIC_PAGES
