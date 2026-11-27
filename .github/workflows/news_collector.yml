@@ -2,8 +2,9 @@ name: PikaNews Automatic News Collector
 
 on:
   schedule:
-    # Run every 30 minutes
-    - cron: '*/30 * * * *'
+    # Stagger away from :00/:30 to reduce GitHub Actions schedule contention.
+    # Still runs every 30 minutes; monitor run history for actual cadence.
+    - cron: '7,37 * * * *'
   workflow_dispatch:
   # Rebuild generated article HTML immediately after indexation/generator policy
   # changes are merged; generated-content commits do not match these paths.
