@@ -153,3 +153,29 @@ sitemap.generate_sitemap()
     assert result.returncode == 0, result.stderr
     assert sitemap_path.exists()
     assert "https://gogocompany.in/pikanews/" in sitemap_path.read_text(encoding="utf-8")
+
+
+def test_sitemap_uses_same_capped_story_window_as_rendered_category_page(tmp_path, monkeypatch):
+    import json
+    from scripts import generate_sitemap as sitemap
+
+    data_dir = tmp_path / "news_json"
+    data_dir.mkdir()
+    articles = stories(count=13, sources=4)
+    # The first 12 rendered cards cover only three publisher domains. The
+    # thirteenth story would make the full feed qualify, but is not rendered.
+    for index, article in enumerate(articles[:12]):
+        article["source"] = f"Publisher {index % 3}"
+        article["url"] = f"https://publisher-{index % 3}.example/story/{index}"
+    articles[12]["source"] = "Publisher 3"
+    articles[12]["url"] = "https://publisher-3.example/story/12"
+    (data_dir / "all_articles.json").write_text(json.dumps(articles), encoding="utf-8")
+    output = tmp_path / "sitemap.xml"
+    monkeypatch.setattr(sitemap, "NEWS_JSON_DIR", str(data_dir))
+    monkeypatch.setattr(sitemap, "SITEMAP_PATH", str(output))
+    monkeypatch.setattr(sitemap, "CATEGORY_PAGE_FILTERS", {"technology": {"technology"}, "latest": None})
+    monkeypatch.setattr(sitemap, "load_removed_hashes", lambda: set())
+
+    xml = sitemap.generate_sitemap()
+
+    assert "https://gogocompany.in/pikanews/technology.html" not in xml

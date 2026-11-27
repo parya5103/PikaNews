@@ -84,11 +84,11 @@ jobs:
       - name: Generate sitemap
         run: python scripts/generate_sitemap.py
 
-      - name: Generate RSS feed
-        run: python scripts/generate_rss.py
-
       - name: Generate static article pages
         run: python scripts/generate_article_pages.py
+
+      - name: Generate RSS feed
+        run: python scripts/generate_rss.py
 
       - name: Generate Google News sitemap
         run: python scripts/generate_news_sitemap.py
