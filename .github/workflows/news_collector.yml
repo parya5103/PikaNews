@@ -93,11 +93,11 @@ jobs:
       - name: Collect news from RSS feeds (conditional fetch + dedupe; failures keep existing data)
         run: python scripts/fetch_news.py
 
-      - name: Generate sitemap
-        run: python scripts/generate_sitemap.py
-
       - name: Generate static article pages
         run: python scripts/generate_article_pages.py
+
+      - name: Generate sitemap
+        run: python scripts/generate_sitemap.py
 
       - name: Generate RSS feed
         run: python scripts/generate_rss.py
