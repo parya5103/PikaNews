@@ -147,7 +147,7 @@ def fetch_feed(
                 raise ValueError("Feed URL or redirect target is not a public HTTP(S) address")
             with httpx.Client(timeout=httpx.Timeout(timeout, connect=min(10.0, timeout)), headers=headers, follow_redirects=False) as client:
                 for _ in range(6):
-                    response = client.get(current_url, follow_redirects=False)
+                    response = client.get(current_url, headers=headers, follow_redirects=False)
                     last_status = response.status_code
                     if response.status_code in REDIRECT_CODES:
                         location = response.headers.get("Location")
@@ -240,7 +240,7 @@ def parse_json_feed(content: str, feed_url: str) -> list[dict]:
         output.append({
             "url": item.get("url") or item.get("external_url") or "",
             "title": item.get("title") or "",
-            "description": item.get("summary") or item.get("content_text") or "",
+            "description": item.get("summary") or item.get("content_text") or item.get("content_html") or "",
             "date": item.get("date_published") or item.get("date_modified"),
             "image_url": image,
             "author": author,
