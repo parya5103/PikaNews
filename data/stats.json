@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-11-27T19:35:20.831514+00:00",
+  "timestamp": "2026-11-27T20:01:59.649766+00:00",
   "total_fetched": 387,
-  "new_articles": 53,
-  "duplicates": 334,
+  "new_articles": 26,
+  "duplicates": 361,
   "errors": 1,
   "expired_articles": 0,
   "articles_without_valid_date": 10,
@@ -28,13 +28,13 @@
     "Ars Technica Gadgets": 20
   },
   "by_category": {
-    "sports": 8,
-    "health": 1,
-    "entertainment": 20,
-    "business": 2,
-    "technology": 10,
+    "politics": 1,
+    "sports": 4,
+    "health": 2,
+    "entertainment": 5,
     "world": 2,
-    "gaming": 8,
-    "hollywood": 2
+    "gaming": 1,
+    "business": 1,
+    "technology": 10
   }
 }

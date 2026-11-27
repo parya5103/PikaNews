@@ -36,7 +36,7 @@
     "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
     "published_at": "2026-11-27T14:52:40+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108120789-1742904573651-gettyimages-159129388-72801932.jpeg?v=1758797166&w=1920&h=1080",
     "collection_timestamp": "2026-11-27T17:33:05.392434+00:00",
     "thin": false,
     "classification_version": 2
@@ -61,6 +61,30 @@
       "black friday",
       "Deals",
       "NOADS"
+    ]
+  },
+  {
+    "id": "0aaf951b568521b9034e6f6a0ae07ddb854cf44a995932e486f1b587f0841817",
+    "title": "The best Black Friday deals on smart home gear",
+    "summary": "I’ve spent my post-turkey haze powering through reams of deals on smart home gadgets to find the best discounts on some of my favorite products. Smart home is often one of the best categories to shop around Black Friday, as it’s traditionally when robot vacuums, video doorbells, smart locks, and thermostats see their lowest prices […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday",
+    "published_at": "2026-11-27T14:30:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/257805_Govee_Table_Lamp_2_Pro_JTuohy_0005.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-27T20:02:05.887857+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Jennifer Pattison Tuohy",
+    "tags": [
+      "Black Friday",
+      "Cyber Monday",
+      "Deals",
+      "Gadgets",
+      "Smart Home",
+      "Tech",
+      "Verge Shopping"
     ]
   },
   {
@@ -116,7 +140,7 @@
     "url": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
     "published_at": "2026-11-27T12:00:22+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108441789-1792586470134-gettyimages-2300709025-AFP_D3XH836.jpeg?v=1795450514&w=1920&h=1080",
     "collection_timestamp": "2026-11-27T17:33:05.391120+00:00",
     "thin": false,
     "classification_version": 2
@@ -2709,43 +2733,6 @@
       "Lili Reinhart",
       "Lily Collins",
       "Polly Pocket"
-    ],
-    "classification_version": 2
-  },
-  {
-    "id": "cba1a927950074dfc62b6156164fb305aa224a1450e260c5f00d782f8b08a7ea",
-    "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
-    "summary": "Former GM CEO Dan Akerson says whoever replaces Mary Barra will have a difficult task because they'll inherit rapid change in technology and the auto industry.",
-    "category": "technology",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html",
-    "published_at": "2026-11-20T15:50:27+00:00",
-    "date_unverified": false,
-    "image_url": "https://image.cnbcfm.com/api/v1/image/107358100-1705075396840-GMManagementChanges02.jpg?v=1705180335&w=1920&h=1080",
-    "collection_timestamp": "2026-11-20T19:50:58.405458+00:00",
-    "thin": false,
-    "classification_version": 2
-  },
-  {
-    "id": "d8d3a00a0a2028b066382898f63cbc45e9974fea880f487b57dd4e1110b3f9b6",
-    "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
-    "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the deal would also include new safeguards for teens. The settlement would allow Google to avoid a wave [&#8230;]",
-    "category": "technology",
-    "source": "The Verge",
-    "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
-    "published_at": "2026-11-20T15:43:52-05:00",
-    "date_unverified": false,
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-    "collection_timestamp": "2026-11-21T01:57:58.201169+00:00",
-    "thin": false,
-    "author": "Emma Roth",
-    "tags": [
-      "News",
-      "Policy",
-      "Social Media",
-      "Streaming",
-      "Tech",
-      "YouTube"
     ],
     "classification_version": 2
   },

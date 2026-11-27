@@ -1,5 +1,19 @@
 [
   {
+    "id": "f5ad3685553336665045a88a07a189f54d1a3fbf4e4e4ebe3db7f5fac3536201",
+    "title": "Wales aim to finish historic campaign with Japan win",
+    "summary": "Wales hope to finish the Nations Championship campaign on a high note against Japan at the Allianz Stadium in Twickenham on Saturday.",
+    "category": "politics",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cr0jx98elggxo",
+    "published_at": "2026-11-27T19:35:49+00:00",
+    "date_unverified": false,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f22/live/2e33a8e0-e9a1-11f1-b880-15b494ba858d.jpg",
+    "collection_timestamp": "2026-11-27T20:02:05.839432+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
     "id": "c0ae84b21958426512346f09e8b46e580ae7f051ca9dab847568d3737144f834",
     "title": "Spain’s election could pull Madrid closer to Trump’s Washington",
     "summary": "Spanish voters head to the polls on Sunday for a snap election that could bring socialist Prime Minister Pedro Sánchez's eight years in power to an end.",
@@ -8,7 +22,7 @@
     "url": "https://www.cnbc.com/2026/11/27/spain-election-trump-sanchez.html",
     "published_at": "2026-11-27T13:00:42+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108559838-1795691246382-gettyimages-2306177236-AFP_D8HA863.jpeg?v=1795691270&w=1920&h=1080",
     "collection_timestamp": "2026-11-27T17:33:05.390792+00:00",
     "thin": false,
     "classification_version": 2

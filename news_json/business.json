@@ -1,5 +1,27 @@
 [
   {
+    "id": "f0a2e7308dbad4d15a59557fc2c2f955034bc4c781e7e81ead77c73e53564561",
+    "title": "IM8 Is David Beckham’s Answer to Late Nights, Long Flights, and Early Call Times",
+    "summary": "The soccer star co-founded IM8 with health sciences company Prenetics, and the brand's most complete product now carries his name: the Beckham Stack",
+    "category": "business",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/product-recommendations/lifestyle/david-beckham-im8-supplements-drink-powder-review-buy-1235665253",
+    "published_at": "2026-11-27T20:00:00+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/david-beckham-im8-health.jpg?w=1600&h=900&crop=1",
+    "collection_timestamp": "2026-11-27T20:02:05.886134+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Tim Chan",
+    "tags": [
+      "Lifestyle",
+      "RS Recommends",
+      "David Beckham",
+      "noads",
+      "wellness"
+    ]
+  },
+  {
     "id": "38fc78dfb3bbbe55cecf3d8844f2971f9d2b71af644bfc8296cdd056764cdccc",
     "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
     "summary": "SpaceX shares jumped in trading Friday after Elon Musk said on X that he would donate shares to American children every year.",
@@ -91,7 +113,7 @@
     "url": "https://www.cnbc.com/investingclub/2026/11/27/top-10-things-to-watch-in-the-stock-market-on-black-friday.html",
     "published_at": "2026-11-27T15:08:31+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108556478-1795186653493-108556478-1795186592615-gettyimages-2305474808-US_STOCKS.jpg?v=1795186665&w=1920&h=1080",
     "collection_timestamp": "2026-11-27T17:33:05.392089+00:00",
     "thin": false,
     "classification_version": 2
@@ -105,7 +127,7 @@
     "url": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html",
     "published_at": "2026-11-27T14:12:55+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108560074-1795783945346-gettyimages-2306396723-Special_European_Council_And_Euro_Summit.jpeg?v=1795784136&w=1920&h=1080",
     "collection_timestamp": "2026-11-27T17:33:05.390107+00:00",
     "thin": false,
     "classification_version": 2
@@ -119,7 +141,7 @@
     "url": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
     "published_at": "2026-11-27T13:58:19+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108559107-1795599475604-gettyimages-1636812756-230831b6_lax_planes_b-gr_13.jpeg?v=1795802433&w=1920&h=1080",
     "collection_timestamp": "2026-11-27T17:33:05.389463+00:00",
     "thin": false,
     "classification_version": 2
@@ -133,7 +155,7 @@
     "url": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
     "published_at": "2026-11-27T13:21:56+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/100825740-157559755r.jpg?v=1538672772&w=1920&h=1080",
     "collection_timestamp": "2026-11-27T17:33:05.388805+00:00",
     "thin": false,
     "classification_version": 2
@@ -147,7 +169,7 @@
     "url": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html",
     "published_at": "2026-11-27T13:08:07+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108191734-1756364310897-gettyimages-2231659141-_mma9642.jpeg?v=1756364320&w=1920&h=1080",
     "collection_timestamp": "2026-11-27T17:33:05.392726+00:00",
     "thin": false,
     "classification_version": 2
@@ -2656,24 +2678,6 @@
     "image_url": "https://image.cnbcfm.com/api/v1/image/108105131-1740076633886-gettyimages-2200882553-jr_15369_3ujvxyem.jpeg?v=1740076750&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T19:50:58.407437+00:00",
     "thin": false,
-    "classification_version": 2
-  },
-  {
-    "id": "787ba9eca15dae9f037ef617aeec80e98476eba3cf62d8658667877936fbb808",
-    "title": "These Pokemon Anniversary Fender Guitars Have A Secret Weapon: Game Boy Sounds",
-    "summary": "The Pokemon franchise turned 30 this year, and while you'll have to wait until next year for a new mainline game installment, you can celebrate that anniversary with something that's much cooler: Rock-and-roll-type electric guitars. The Pokemon Company revealed that it teamed up with guitar manufacturer Fender to produce a Stratocaster model inspired by Pokemon Red, and a Telecaster model inspired by Pokemon Green. Each guitar features an aesthetic that pays tribute to the original Pokemon Game",
-    "category": "business",
-    "source": "GameSpot",
-    "url": "https://www.gamespot.com/articles/these-pokemon-anniversary-fender-guitars-have-a-secret-weapon-game-boy-sounds",
-    "published_at": "2026-11-20T15:27:47+00:00",
-    "date_unverified": false,
-    "image_url": "https://www.gamespot.com/wp-content/uploads/2026/11/Pokemon-Fender.jpg?w=300",
-    "collection_timestamp": "2026-11-20T19:50:58.382668+00:00",
-    "thin": false,
-    "author": "Darryn Bonthuys",
-    "tags": [
-      "Gaming,News"
-    ],
     "classification_version": 2
   },
   {
