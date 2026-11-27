@@ -7,8 +7,7 @@ import xml.etree.ElementTree as ET
 from urllib.parse import unquote, urlparse
 
 BASE_URL = "https://gogocompany.in/pikanews/"
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-FRONTEND = os.path.join(ROOT, "frontend")
+FRONTEND = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "frontend")
 SITEMAPS = [
     os.path.join(FRONTEND, "sitemap.xml"),
     os.path.join(FRONTEND, "news-sitemap.xml"),
@@ -28,8 +27,9 @@ def local_page_for_url(url):
         relative = "index.html"
     elif relative.endswith("/"):
         relative += "index.html"
+    frontend_root = os.path.realpath(FRONTEND)
     path = os.path.realpath(os.path.join(FRONTEND, relative))
-    if os.path.commonpath([os.path.realpath(FRONTEND), path]) != os.path.realpath(FRONTEND):
+    if os.path.commonpath([frontend_root, path]) != frontend_root:
         raise ValueError(f"URL resolves outside frontend: {url}")
     return path
 
@@ -63,11 +63,12 @@ def validate_sitemaps():
             if not os.path.isfile(page_path):
                 failures.append(f"Sitemap URL has no generated page: {url}")
                 continue
-            html = open(page_path, encoding="utf-8").read()
-            robots = re.search(r'<meta\\s+name=["\\']robots["\\']\\s+content=["\\']([^"\\']+)', html, re.I)
+            with open(page_path, encoding="utf-8") as handle:
+                page_html = handle.read()
+            robots = re.search(r"<meta\s+name=['\"]robots['\"]\s+content=['\"]([^'\"]+)", page_html, re.I)
             if robots and "noindex" in robots.group(1).casefold():
                 failures.append(f"Sitemap URL is marked noindex: {url}")
-            canonical = re.search(r'<link\\s+rel=["\\']canonical["\\']\\s+href=["\\']([^"\\']+)', html, re.I)
+            canonical = re.search(r"<link\s+rel=['\"]canonical['\"]\s+href=['\"]([^'\"]+)", page_html, re.I)
             if not canonical:
                 failures.append(f"Sitemap page has no canonical link: {url}")
             elif canonical.group(1).strip().rstrip("/") != url.rstrip("/"):
