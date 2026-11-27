@@ -198,6 +198,13 @@ def fetch_feed(
             if last_status in (429, 500, 502, 503, 504) and attempt < max_retries - 1:
                 continue
             raise RuntimeError(last_error)
+        except httpx.HTTPStatusError as exc:
+            last_status = exc.response.status_code
+            last_error = f"HTTP {last_status}"
+            if last_status in (429, 500, 502, 503, 504) and attempt < max_retries - 1:
+                sleep(_retry_delay(exc.response, attempt))
+                continue
+            break
         except Exception as exc:
             last_error = str(exc)
             if attempt < max_retries - 1 and not isinstance(exc, ValueError):
