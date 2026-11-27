@@ -37,8 +37,8 @@ def local_page_for_url(url):
 def validate_sitemaps():
     failures = []
     checked = 0
-    seen = set()
     for sitemap in SITEMAPS:
+        seen = set()
         if not os.path.isfile(sitemap):
             failures.append(f"Missing sitemap: {sitemap}")
             continue
