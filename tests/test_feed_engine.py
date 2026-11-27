@@ -8,6 +8,7 @@ from scripts.feed_engine import (
     discover_feed_urls,
     fetch_feed,
     feed_health_snapshot,
+    extract_reading_text,
     parse_json_feed,
     rank_feed_candidates,
 )
@@ -110,3 +111,30 @@ def test_source_ranking_is_stable_and_prefers_healthy_high_priority_feeds():
         {"name": "primary", "priority": 1, "health": {"consecutive_failures": 0}},
     ]
     assert [x["name"] for x in rank_feed_candidates(candidates)] == ["primary", "slow"]
+
+
+
+def test_permanent_http_error_is_not_retried(tmp_path):
+    import httpx
+    request = httpx.Request("GET", "https://news.example/rss")
+    bad = response(404, "")
+    bad.raise_for_status.side_effect = httpx.HTTPStatusError(
+        "not found", request=request, response=httpx.Response(404, request=request)
+    )
+    with patch("scripts.feed_engine.is_public_http_url", return_value=True), patch("scripts.feed_engine.httpx.Client") as client:
+        client.return_value.__enter__.return_value.get.return_value = bad
+        body, status = fetch_feed("https://news.example/rss", tmp_path / "cache", tmp_path / "health.json", max_retries=3, sleep=lambda _: None)
+    assert body is None
+    assert status == "failed"
+    assert client.return_value.__enter__.return_value.get.call_count == 1
+
+
+def test_reading_context_extractor_removes_navigation_and_scripts():
+    html = """
+    <nav>Navigation noise</nav><script>tracking()</script>
+    <article><p>First useful paragraph.</p><p>Second useful paragraph.</p></article>
+    """
+    result = extract_reading_text(html)
+    assert result == "First useful paragraph. Second useful paragraph."
+    assert "Navigation noise" not in result
+    assert "tracking" not in result
