@@ -153,3 +153,12 @@ sitemap.generate_sitemap()
     assert result.returncode == 0, result.stderr
     assert sitemap_path.exists()
     assert "https://gogocompany.in/pikanews/" in sitemap_path.read_text(encoding="utf-8")
+
+
+def test_collector_workflow_applies_hub_robots_before_building_sitemap():
+    from pathlib import Path
+
+    workflow = (Path(__file__).resolve().parents[1] / ".github/workflows/news_collector.yml").read_text(encoding="utf-8")
+    robots_step = workflow.index("run: python scripts/generate_article_pages.py")
+    sitemap_step = workflow.index("run: python scripts/generate_sitemap.py")
+    assert robots_step < sitemap_step, "sitemap must be generated after category robots eligibility is finalized"
