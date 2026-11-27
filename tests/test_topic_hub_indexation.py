@@ -89,6 +89,7 @@ def test_topic_hub_sitemap_rejects_low_quality_category_feed(tmp_path, monkeypat
 
     assert "https://gogocompany.in/pikanews/technology.html" not in xml
     assert "https://gogocompany.in/pikanews/latest.html" not in xml
+    assert "https://gogocompany.in/pikanews/latest.html" not in xml
 
 def test_topic_hub_requires_distinct_publisher_domains_not_just_source_labels():
     same_publisher = stories()

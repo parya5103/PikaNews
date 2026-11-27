@@ -101,7 +101,8 @@ def generate_sitemap():
     listing_pages = [
         {"url": "", "priority": 1.0, "changefreq": "daily"},
     ]
-    if is_indexable_listing(articles, MIN_INDEXABLE_LISTING_STORIES, MIN_INDEXABLE_LISTING_SOURCES):
+    # Latest renders the same bounded 12-story window as the frontend page.
+    if is_indexable_listing(articles[:MAX_CATEGORY_STATIC_ARTICLES], MIN_INDEXABLE_LISTING_STORIES, MIN_INDEXABLE_LISTING_SOURCES):
         listing_pages.append(
             {"url": "latest.html", "priority": 0.9, "changefreq": "hourly"}
         )
