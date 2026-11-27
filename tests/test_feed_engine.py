@@ -26,14 +26,14 @@ def test_fetch_feed_uses_etag_and_cached_body_on_not_modified(tmp_path):
     cache_dir = tmp_path / "cache"
     state_path = tmp_path / "health.json"
     first = response(200, "<rss><channel/></rss>", {"ETag": '"v1"', "Last-Modified": "Wed, 26 Nov 2026 10:00:00 GMT"})
-    with patch("scripts.feed_engine.httpx.Client") as client:
+    with patch("scripts.feed_engine.is_public_http_url", return_value=True), patch("scripts.feed_engine.httpx.Client") as client:
         client.return_value.__enter__.return_value.get.return_value = first
         body, status = fetch_feed("https://news.example/rss", cache_dir, state_path, sleep=lambda _: None)
     assert body == "<rss><channel/></rss>"
     assert status == "updated"
 
     second = response(304, "", {})
-    with patch("scripts.feed_engine.httpx.Client") as client:
+    with patch("scripts.feed_engine.is_public_http_url", return_value=True), patch("scripts.feed_engine.httpx.Client") as client:
         session = client.return_value.__enter__.return_value
         session.get.return_value = second
         body, status = fetch_feed("https://news.example/rss", cache_dir, state_path, sleep=lambda _: None)
