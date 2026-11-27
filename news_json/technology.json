@@ -1,5 +1,33 @@
 [
   {
+    "id": "ba06623776e33b4f13c6a654550fd09dc141cc311e37ed8dd83fb3e35795c9d9",
+    "title": "China’s factories are growing profits again, but the AI boom is picking the winners",
+    "summary": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while consumption, real estate investment lag.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+    "published_at": "2026-11-27T06:09:51+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108559955-1795759757963-gettyimages-2306745585-vcg111684572850.jpeg?v=1795759777&w=1920&h=1080",
+    "collection_timestamp": "2026-11-27T06:14:42.376789+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "a7379e99021541e2cc64e1cb736096942f78eed7a7cff53b9b2a5fca26b86612",
+    "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+    "summary": "A new BIS rule was intended to close \"loopholes,\" U.S. Trade Representative Jamieson Greer told CNBC's \"Squawk Box\" on Wednesday.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+    "published_at": "2026-11-26T17:04:54+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-27T06:14:42.376498+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
     "id": "5811db564dabb53f10c0d93ab6a0e97e2736c25952bf94d1543c56c8be6fe7cf",
     "title": "Michel Hazanavicius To Present Exclusive Footage Of ‘The Third Hand’ In AI Case Study At Les Arcs",
     "summary": "Michel Hazanavicius will unveil exclusive footage of his upcoming film The Third Hand as part of an AI case study at the Les Arcs Film Festival in December. The Oscar-winning director and post-production company Digital District will present the footage as they explain their method and tools for using AI on the film. Hazanavicius and […]",
@@ -20,6 +48,29 @@
       "Les Arcs Coproduction Village",
       "Michel Hazanavicius",
       "The Third Hand"
+    ]
+  },
+  {
+    "id": "7d006f34d6185365f0afa20ed13d53e85ae08f1f15413f9e289588f37182afaa",
+    "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+    "summary": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen. When I reviewed it a few years ago, I called it the Goldilocks […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
+    "published_at": "2026-11-26T14:00:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24483620/236554_Garmin_Forerunner_265S_AKrales_0072.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-27T06:14:42.298780+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Victoria Song",
+    "tags": [
+      "Black Friday",
+      "Cyber Monday",
+      "Deals",
+      "Gadgets",
+      "Verge Shopping",
+      "Wearable"
     ]
   },
   {
@@ -2748,150 +2799,6 @@
     "image_url": "https://image.cnbcfm.com/api/v1/image/108316517-1780554960547-gettyimages-2230425216-raa-intelsof250820_npZoK.jpeg?v=1780555182&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T03:52:04.299740+00:00",
     "thin": false,
-    "classification_version": 2
-  },
-  {
-    "id": "4d19fd9ebee4098f4d31a8f2e489d1e4074563ade9b9d3db06d8c2a310c9be35",
-    "title": "Anthropic was supposed to save the AI trade. What went wrong?",
-    "summary": "Technology stocks tanked despite one of the most hotly anticipated tech IPOs in years. Why Anthropic couldn't revive AI animal spirits.",
-    "category": "technology",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
-    "published_at": "2026-11-20T00:00:38+00:00",
-    "image_url": "https://image.cnbcfm.com/api/v1/image/108556064-1795129228949-gettyimages-2305334314-ANTHROPIC_IPO.jpeg?v=1795129353&w=1920&h=1080",
-    "collection_timestamp": "2026-11-20T03:52:04.299480+00:00",
-    "thin": false,
-    "classification_version": 2
-  },
-  {
-    "id": "1d2262ccaa6a310659de85cc17151785b7a93e12fd21ad9ba7d5de880bbf3897",
-    "title": "California attorney general issues Nvidia subpoena in probe of China chip diversion",
-    "summary": "The investigation by California Attorney General Rob Bonta comes on the heels of the resignation of Nvidia CEO Jensen Huang.",
-    "category": "technology",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/19/nvidia-california-bonta-subpoena-china-chips.html",
-    "published_at": "2026-11-19T23:21:23+00:00",
-    "image_url": "https://image.cnbcfm.com/api/v1/image/108352165-1787237664975-108352165-1787236932205-gettyimages-2290512238-META_TRIAL.jpeg?v=1787237713&w=1920&h=1080",
-    "collection_timestamp": "2026-11-20T03:52:04.299356+00:00",
-    "thin": false,
-    "classification_version": 2
-  },
-  {
-    "id": "fb0bdc0514ed137e1cbac7151cd3d1fe810bd2f9f08b553c60941017697a2ffb",
-    "title": "Robert Glasper Breaks Down What Makes Kendrick Lamar’s ‘To Pimp a Butterfly’ Special & Speaks Up Against AI | Billboard News Interview",
-    "summary": "Robert Glasper breaks down why AI can’t copy the human “mistakes” that make music feel real. In this Billboard News interview, Glasper talks bridging jazz, hip-hop, R&#38;B and soul — and what separates great musicians from artists who change culture. Glasper also reflects on working with Kendrick Lamar on To Pimp a Butterfly, why H.E.R. [&#8230;]",
-    "category": "technology",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/video/robert-glasper-billboard-news-interview",
-    "published_at": "2026-11-19T23:15:15+00:00",
-    "image_url": "https://www.billboard.com/wp-content/uploads/2026/11/BB-News-Interview-Horizontal-Template-Updated_robertglasper.jpg?w=1024",
-    "collection_timestamp": "2026-11-20T03:52:04.278182+00:00",
-    "thin": false,
-    "author": "Stefanie Tanaka",
-    "tags": [
-      "Media",
-      "Videos",
-      "genre hiphop",
-      "genre rb",
-      "Music News"
-    ],
-    "classification_version": 2
-  },
-  {
-    "id": "d0f2b5c5ac8269152bc182611cf1182b6d0b062c277735c45e59410bb9e2da8a",
-    "title": "Google Says It’s Investigating Russell Brand YouTube Video Where He Said He’s “Not Guilty” in Message From Prison",
-    "summary": "BBC News also reported that Google declined a request from the Ministry of Justice to remove the video, saying none of its rules had been broken.",
-    "category": "technology",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/news/general-news/google-investigating-russell-brand-youtube-video-innocent-claim-1236759639",
-    "published_at": "2026-11-19T22:58:11+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-20T03:52:04.276677+00:00",
-    "thin": false,
-    "author": "McKinley Franklin",
-    "tags": [
-      "General News",
-      "News",
-      "Google",
-      "Russell Brand",
-      "YouTube"
-    ],
-    "classification_version": 2
-  },
-  {
-    "id": "d3e374fac14e77d3b5751daa215891531043b55a2980b19703df2e55beb5f053",
-    "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
-    "summary": "Amazon now uses its shopping platform for political purposes.",
-    "category": "technology",
-    "source": "Ars Technica Gadgets",
-    "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up",
-    "published_at": "2026-11-19T22:16:37+00:00",
-    "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669-1024x648.jpg",
-    "collection_timestamp": "2026-11-19T22:44:17.079242+00:00",
-    "thin": false,
-    "author": "Scharon Harding",
-    "tags": [
-      "Policy",
-      "Tech",
-      "Amazon",
-      "amazon delivery",
-      "amazon delivery drivers"
-    ],
-    "classification_version": 2
-  },
-  {
-    "id": "56d54ddc5c5c051fad5ef759d947567c0307b04a52bfd7030a39b8be20cd1f9c",
-    "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
-    "summary": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
-    "category": "technology",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
-    "published_at": "2026-11-19T21:43:30+00:00",
-    "image_url": "https://image.cnbcfm.com/api/v1/image/108555825-1795118102467-gettyimages-2304282548-mast_360_111026.jpeg?v=1795118157&w=1920&h=1080",
-    "collection_timestamp": "2026-11-19T22:44:17.104955+00:00",
-    "thin": false,
-    "classification_version": 2
-  },
-  {
-    "id": "8da3dd883baf8420092acc2df9fe0acba0d5e8e32d8ea1c43f9dc39c9b511c0c",
-    "title": "Grimes & Elon Musk Feud Over AI ‘Sex Slave,’ Singer Urges Ex to ‘Step Up’ and Be ‘the King He Used to Be’",
-    "summary": "\"A man who worries so publicly abt the birth rate should not publicly advocate for its demise,\" she wrote.",
-    "category": "technology",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/music-news/elon-musk-grimes-feud-ai-sex-slave-he-should-be-king-1236384843",
-    "published_at": "2026-11-19T21:29:09+00:00",
-    "image_url": "https://www.billboard.com/wp-content/uploads/2026/10/P114BTNF-e1791820875861.jpg?w=237&h=147&crop=1",
-    "collection_timestamp": "2026-11-19T22:44:17.071487+00:00",
-    "thin": false,
-    "author": "Hannah Dailey",
-    "tags": [
-      "Music",
-      "Music News",
-      "AI",
-      "Artificial Intelligence",
-      "genre pop"
-    ],
-    "classification_version": 2
-  },
-  {
-    "id": "39409b90e605d4b25dac9257a59e836d8e622e55f8a5cf199169d5568a5b8ae6",
-    "title": "50+ Amazon Products That Are 50% Off (or More) for Black Friday – Scroll & Shop Here",
-    "summary": "We've combed through Amazon and done the price comparisons to find top brands on sale for 50% or more online",
-    "category": "technology",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/product-recommendations/electronics/amazon-black-friday-sale-2026-biggest-deals-discount-prices-1235660821",
-    "published_at": "2026-11-19T21:15:09+00:00",
-    "image_url": null,
-    "collection_timestamp": "2026-11-19T22:44:17.072946+00:00",
-    "thin": false,
-    "author": "Tim Chan",
-    "tags": [
-      "Electronics",
-      "RS Recommends",
-      "Amazon",
-      "black friday",
-      "noads"
-    ],
     "classification_version": 2
   },
   {

@@ -26,21 +26,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gogocompany.in/pikanews/gaming.html</loc>
-    <changefreq>hourly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gogocompany.in/pikanews/business.html</loc>
-    <changefreq>hourly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://gogocompany.in/pikanews/sports.html</loc>
-    <changefreq>hourly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://gogocompany.in/pikanews/world.html</loc>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>

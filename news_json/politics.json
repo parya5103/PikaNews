@@ -1,5 +1,54 @@
 [
   {
+    "id": "7ca2386b3ac5ada12e5c7c15223ce5232e913790914a1465a816e4c1dc934aa2",
+    "title": "Shivelyuch Socked In",
+    "summary": "A cloud layer encircled the flanks of the volcano on the Kamchatka Peninsula but left its restless summit caldera in view.",
+    "category": "politics",
+    "source": "NASA News Releases",
+    "url": "https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in",
+    "published_at": "2026-11-27T05:01:00+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-27T06:14:42.386808+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "region": "us",
+    "image_policy": "none",
+    "tags": [
+      "Earth Observatory",
+      "Landsat 9",
+      "Volcanoes"
+    ]
+  },
+  {
+    "id": "aa6453ee5c8b807a7fa94af1b2a59fb2853a9fa8b258fe6599db175daaabc142",
+    "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+    "summary": "Iran's foreign minister Abbas Araghchi said \"The incident is suspicious and looks like a precooked recipe for war.\"",
+    "category": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
+    "published_at": "2026-11-27T03:30:23+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108275157-1773000296367-gettyimages-2264890542-AFP_A2EL432.jpeg?v=1773000423&w=1920&h=1080",
+    "collection_timestamp": "2026-11-27T06:14:42.375294+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "964da09a0ad2f651541e41f9ac36b6d166226f1a18b0dc8ae3e3869344aeb69b",
+    "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+    "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
+    "category": "politics",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+    "published_at": "2026-11-26T21:13:17+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-27T06:14:42.375887+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
     "id": "5635e7fca64478ee6b5c07c6f53c662bdedcc5f10b2cb9638bed2b88a44da83e",
     "title": "Jalen Brunson Is Teaming Up With Lowe’s for a Black Friday Giveaway Worth Millions",
     "summary": "We sat down with the NBA superstar to talk about his latest campaign, his favorite holiday traditions, and why he’s a proud \"Belieber\"",
@@ -841,41 +890,6 @@
     "published_at": "2026-11-20T03:30:45+00:00",
     "image_url": "https://image.cnbcfm.com/api/v1/image/108251945-1768333647231-gettyimages-2256116889-dji_20260113072220_0857_d_cxyqgr0q.jpeg?v=1795128651&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T03:52:04.299007+00:00",
-    "thin": false,
-    "classification_version": 2
-  },
-  {
-    "id": "ddd4ca7ed3087a2c56534f99434eb0ddcfc167d4249b579629cf42f5a51c01d6",
-    "title": "Judge Weighs Whether To Allow Kennedy Center To Proceed With Closure Plan",
-    "summary": "A federal judge said that he will issue a ruling &#8220;as soon as I can&#8221; as to whether the Kennedy Center can proceed with its plan to close the arts complex for two years for renovations, amid fears that President Donald Trump ultimately will move to demolish the 55-year-old arts complex. U.S. District Court Judge [&#8230;]",
-    "category": "politics",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/kennedy-center-closure-judge-injunction-trump-1237229582",
-    "published_at": "2026-11-19T22:43:48+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/06/GettyImages-2281263976_f34d4a.jpg",
-    "collection_timestamp": "2026-11-19T22:44:17.066977+00:00",
-    "thin": false,
-    "author": "Ted Johnson",
-    "tags": [
-      "News",
-      "Politics",
-      "Donald Trump",
-      "ElectionLine",
-      "Kennedy Center",
-      "Norm Eisen"
-    ],
-    "classification_version": 2
-  },
-  {
-    "id": "42df2e9444f8cd989e0f06658788e7deaeaf6f008c019cb431b99e3964e255d6",
-    "title": "Congress passes bill to protect older investors from financial fraud",
-    "summary": "Both chambers of Congress have now approved the Financial Exploitation Prevention Act of 2025, which is aimed at protecting vulnerable investors from fraud.",
-    "category": "politics",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/19/financial-exploitation-prevention-act-older-investors-fraud.html",
-    "published_at": "2026-11-19T22:23:29+00:00",
-    "image_url": "https://image.cnbcfm.com/api/v1/image/108555416-1795105039803-gettyimages-2284418950-img_6795.jpeg?v=1795105141&w=1920&h=1080",
-    "collection_timestamp": "2026-11-19T22:44:17.105087+00:00",
     "thin": false,
     "classification_version": 2
   },

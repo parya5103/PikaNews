@@ -1,5 +1,44 @@
 [
   {
+    "id": "6b413e7c2300278e8e98b7a6707f0df5f992e29422264afa0c7033f48b560489",
+    "title": "Melissa Gilbert Expresses “Undying Gratitude” After Timothy Busfield’s Child Sex Abuse Case Dismissed",
+    "summary": "\"This Thanksgiving I’m incredibly grateful for all those who came running toward us this year,\" she wrote in a lengthy Instagram post.",
+    "category": "health",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/news/general-news/melissa-gilbert-gratitude-timothy-busfield-case-dismissed-1236764064",
+    "published_at": "2026-11-27T01:57:32+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/01/GettyImages-15000701101.jpg?w=1296&h=730&crop=1",
+    "collection_timestamp": "2026-11-27T06:14:42.281250+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Carly Thomas",
+    "tags": [
+      "General News",
+      "Melissa Gilbert"
+    ]
+  },
+  {
+    "id": "6d90dc34ed722f423ae7f1918110daab88abb633dcdc039b0134e031d645f33f",
+    "title": "Melissa Gilbert Gives Thanks To Those Who “Spoke Up, Testified” In Support Of Husband Timothy Busfield",
+    "summary": "It was an extra special Thanksgiving holiday for Melissa Gilbert. The Little House on the Prairie actress gave a shoutout Thursday to all those “who checked in … spoke up, testified and wrote letters” after her husband Timothy Busfield was charged with two counts of criminal sexual contact with a minor and child abuse. A […]",
+    "category": "health",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/melissa-gilbert-gives-thanks-husband-timothy-busfield-1237234187",
+    "published_at": "2026-11-27T01:32:36+00:00",
+    "date_unverified": false,
+    "image_url": "https://deadline.com/wp-content/uploads/2026/01/timothy-busfield-melissa-gilbert.jpg",
+    "collection_timestamp": "2026-11-27T06:14:42.272381+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Lynette Rice",
+    "tags": [
+      "News",
+      "Melissa Gilbert",
+      "Timothy Busfield"
+    ]
+  },
+  {
     "id": "f843fcabad65a3af517f6b9366049673e917fb6fa28391ed92179e457f5c88a3",
     "title": "Planes, trains and automobiles: The best ways to beat travel fatigue—so you can come home feeling rested and fulfilled",
     "summary": "Visiting loved ones for the holidays? Here's how to manage the travel fatigue, from a travel expert and a sleep medicine specialist.",
@@ -1400,59 +1439,6 @@
       "HBO",
       "Sienna Miller",
       "Sky"
-    ],
-    "classification_version": 2
-  },
-  {
-    "id": "ee74836c1d78c388ab69a2504ff5b2866615d45bfbe856ca8ade83a7ba705768",
-    "title": "Bill Hader’s Feature Directorial Debut ‘They Know’ Acquired by Black Bear",
-    "summary": "Black Bear has acquired the North American rights to Bill Hader&#8217;s feature directorial debut &#8220;They Know.&#8221; Hader also wrote and stars in the horror-thriller with Linda Cardellini. Based on an idea from Hader and his &#8220;Barry&#8221; collaborator Duffy Boudreau, &#8220;&#8216;They Know&#8217; follows a divorced dad who becomes increasingly suspicious and paranoid that his ex-wife&#8217;s new [&#8230;]",
-    "category": "health",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/news/bill-hader-horror-movie-they-know-acquired-black-bear-1236953795",
-    "published_at": "2026-11-20T00:30:46+00:00",
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/MixCollage-19-Nov-2026-04-22-PM-3973.jpg",
-    "collection_timestamp": "2026-11-20T03:52:04.272746+00:00",
-    "thin": false,
-    "author": "Jack Dunn",
-    "tags": [
-      "News",
-      "Bill Hader",
-      "Black Bear",
-      "Linda Cardellini",
-      "They Know"
-    ],
-    "classification_version": 2
-  },
-  {
-    "id": "48f7bc27c0b9885d75c9b005ba9730b38396079d63d731cfd2a17274ddb546ab",
-    "title": "Trump posthumously pardons US baseball legend Pete Rose",
-    "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
-    "category": "health",
-    "source": "BBC Sport",
-    "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo",
-    "published_at": "2026-11-19T23:51:50+00:00",
-    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a82/live/d2560a80-e465-11f1-80e9-fd4d95b40178.jpg",
-    "collection_timestamp": "2026-11-20T03:52:04.300543+00:00",
-    "thin": false,
-    "classification_version": 2
-  },
-  {
-    "id": "6ae29b71db21603950bdbe5af734775572a9318b7c89c9d566cc029f25c1d0d6",
-    "title": "Why the President (Any President) Shouldn’t Meddle In Who Receives Kennedy Center Honors: Critic’s Take",
-    "summary": "Barbra Streisand and George W. Bush showed us the way.",
-    "category": "health",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/music/awards/president-kennedy-center-honors-say-1236385920",
-    "published_at": "2026-11-19T21:29:01+00:00",
-    "image_url": "https://www.billboard.com/wp-content/uploads/2026/11/91261052-e1793729857458.jpg?w=237&h=147&crop=1",
-    "collection_timestamp": "2026-11-19T22:44:17.071623+00:00",
-    "thin": false,
-    "author": "Paul Grein",
-    "tags": [
-      "Awards",
-      "Music",
-      "Kennedy Center Honors"
     ],
     "classification_version": 2
   },
