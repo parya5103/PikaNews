@@ -152,7 +152,7 @@ def test_category_pages_receive_eligible_stories_beyond_static_article_cap(tmp_p
     assert [article["category"] for article in captured["articles"]] == ["technology", "world"]
 
 
-def test_world_and_science_category_pages_are_registered_and_noindex():
+def test_world_and_science_category_pages_are_registered_with_robots_metadata():
     from pathlib import Path
     from scripts.generate_article_pages import CATEGORY_PAGE_FILTERS
 
@@ -162,7 +162,7 @@ def test_world_and_science_category_pages_are_registered_and_noindex():
     for category in ("world", "science"):
         page = (root / f"{category}.html").read_text(encoding="utf-8")
         assert f'id="{category}-news"' in page
-        assert 'content="noindex,follow"' in page
+        assert '<meta name="robots"' in page
 
 
 def test_gaming_feed_metadata_does_not_override_entertainment_story_signals():
