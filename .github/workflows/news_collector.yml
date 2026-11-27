@@ -81,14 +81,14 @@ jobs:
       - name: Collect news from RSS feeds (retry + dedupe; feed failures keep existing data)
         run: python scripts/fetch_news.py
 
-      - name: Generate sitemap
+      - name: Generate static article pages (including final hub robots policy)
+        run: python scripts/generate_article_pages.py
+
+      - name: Generate sitemap from final robots/indexation policy
         run: python scripts/generate_sitemap.py
 
       - name: Generate RSS feed
         run: python scripts/generate_rss.py
-
-      - name: Generate static article pages
-        run: python scripts/generate_article_pages.py
 
       - name: Generate Google News sitemap
         run: python scripts/generate_news_sitemap.py
