@@ -1,5 +1,19 @@
 [
   {
+    "id": "919b4adde23e107fc439b170813c1e41cb52062ebc13f98a435ab30353b73860",
+    "title": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
+    "summary": "SAP is weighing cuts of at least 10,000 jobs as it reshapes its software business around AI, Bloomberg reported.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+    "published_at": "2026-11-27T07:15:44+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108120789-1742904573651-gettyimages-159129388-72801932.jpeg?v=1758797166&w=1920&h=1080",
+    "collection_timestamp": "2026-11-27T10:03:42.218082+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
     "id": "ba06623776e33b4f13c6a654550fd09dc141cc311e37ed8dd83fb3e35795c9d9",
     "title": "China’s factories are growing profits again, but the AI boom is picking the winners",
     "summary": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while consumption, real estate investment lag.",
@@ -2765,39 +2779,6 @@
     "published_at": "2026-11-20T06:00:01+00:00",
     "image_url": "https://image.cnbcfm.com/api/v1/image/108554003-1795002776289-gettyimages-2214834060-ma117501.jpeg?v=1795002796&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T12:29:55.755669+00:00",
-    "thin": false,
-    "classification_version": 2
-  },
-  {
-    "id": "205e535dfce4f9a3b244c3d588478aa8b3a9296e5546261c1d1c9baf766d4d7a",
-    "title": "Dude, Where Are My Billions? Ashton Kutcher Edging Closer to Super Rich Status After Anthropic IPO",
-    "summary": "The actor and famed tech investor's venture capital firm, Sound Ventures holds a roughly 0.5 percent stake in the AI giant.",
-    "category": "technology",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/news/general-news/ashton-kutcher-billionaire-anthropic-ipo-1236759822",
-    "published_at": "2026-11-20T04:22:43+00:00",
-    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Ashton-Kutcher.jpg?w=1296&h=730&crop=1",
-    "collection_timestamp": "2026-11-20T12:29:55.729635+00:00",
-    "thin": false,
-    "author": "Abid Rahman",
-    "tags": [
-      "General News",
-      "News",
-      "anthropic",
-      "Ashton Kutcher"
-    ],
-    "classification_version": 2
-  },
-  {
-    "id": "5feb792507384383570cb20f347e2894d5c417730d22b5abf28aefc4a8579de1",
-    "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
-    "summary": "The declines in Asia come after the tech-heavy Nasdaq Composite fell more than 2% overnight following Anthropic's highly anticipated Wall Street debut.",
-    "category": "technology",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html",
-    "published_at": "2026-11-20T03:30:34+00:00",
-    "image_url": "https://image.cnbcfm.com/api/v1/image/108316517-1780554960547-gettyimages-2230425216-raa-intelsof250820_npZoK.jpeg?v=1780555182&w=1920&h=1080",
-    "collection_timestamp": "2026-11-20T03:52:04.299740+00:00",
     "thin": false,
     "classification_version": 2
   },

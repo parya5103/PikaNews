@@ -1,5 +1,33 @@
 [
   {
+    "id": "37b1540bcb6bb802791847fe3766efdbbb9c3b5eb86853bcb7b0ec313ef2de74",
+    "title": "Private markets are more accessible than ever for investors. Getting out is another matter",
+    "summary": "Retail access to private markets is growing, but PwC says education lags as redemption limits put liquidity risks in focus.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/27/private-markets-retail-investors-liquidity.html",
+    "published_at": "2026-11-27T08:05:09+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108191096-1756261029946-gettyimages-1473813374-mercadosydolares.jpeg?v=1773737787&w=1920&h=1080",
+    "collection_timestamp": "2026-11-27T10:03:42.217783+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "d291901c5098c27c33b403fb12cfa9702be1f658f8112544a722df9036fa2e77",
+    "title": "SpaceX shares jump on alternative trading platform after Musk says he will expand on Trump Account share donations",
+    "summary": "SpaceX shares jumped in overnight trading on Blue Ocean ATS after Elon Musk said on X that he would donate shares to American children every year.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+    "published_at": "2026-11-27T07:15:13+00:00",
+    "date_unverified": false,
+    "image_url": "https://image.cnbcfm.com/api/v1/image/108433898-1792439982335-gettyimages-2299248528-wm020115_ej7axcme.jpeg?v=1792440027&w=1920&h=1080",
+    "collection_timestamp": "2026-11-27T10:03:42.217469+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
     "id": "dd27b76fc4416bb3707cb94a33fd32e23b448096ba907aef8c43d6562de892a7",
     "title": "SpaceX shares jump on alternative trading platform after Musk says he will expand share donations",
     "summary": "SpaceX shares jumped in overnight trading on Blue Ocean ATS after Elon Musk said on X that he would donate shares to American children every year.",
@@ -90,6 +118,20 @@
     "date_unverified": false,
     "image_url": "https://image.cnbcfm.com/api/v1/image/108556424-1795181552746-gettyimages-2294015150-aditya-notitle260910_npipj.jpeg?v=1795181613&w=1920&h=1080",
     "collection_timestamp": "2026-11-26T17:09:51.911445+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "2555d8dbb32195368a46ef5e0405bc3f8afa0485633ea381f1de3d07040985c4",
+    "title": "The great aluminum squeeze: London supply crunch deepens as warehouse stocks slide",
+    "summary": "Iran war disruption has driven the historic London Metal Exchange's warehoused stock of aluminum to levels not seen in decades — forcing it to act.",
+    "category": "business",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/26/lme-aluminum-squeeze-supply.html",
+    "published_at": "2026-11-26T14:09:10+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-27T10:03:42.218501+00:00",
     "thin": false,
     "classification_version": 2
   },
@@ -2771,53 +2813,6 @@
     "published_at": "2026-11-20T05:09:52+00:00",
     "image_url": "https://image.cnbcfm.com/api/v1/image/108556178-1795145050609-gettyimages-2239559338-AVaishnav_Posters_welcoming_United_Kingdom_Prime_Minister_Keir_Starmer_in_Mumbai_10.jpeg?v=1795159408&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T12:29:55.755389+00:00",
-    "thin": false,
-    "classification_version": 2
-  },
-  {
-    "id": "b32c4b3d76c015cb4c3417c450a50586a72cb33102fa829a1161d0cb7294e4ca",
-    "title": "Anthropic IPO 'exactly what the markets need,' but analysts warn of volatility",
-    "summary": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
-    "published_at": "2026-11-20T03:38:07+00:00",
-    "image_url": "https://image.cnbcfm.com/api/v1/image/108556065-1795129225164-gettyimages-2305353821-ANTHROPIC_IPO.jpeg?v=1795129353&w=1920&h=1080",
-    "collection_timestamp": "2026-11-20T03:52:04.299123+00:00",
-    "thin": false,
-    "classification_version": 2
-  },
-  {
-    "id": "19565ca13b82c65fef17101adac8f2dbdbe5d3b94a6276553c382bce5fdfc501",
-    "title": "The Deals: Yamaha Acquires Visual Technology Company Disguise for $280 Million & More",
-    "summary": "Also: Ovation Rights buys the copyrights to Jeff Wayne's Musical Version of The War of the Worlds , among other recent deals.",
-    "category": "business",
-    "source": "Billboard",
-    "url": "https://www.billboard.com/lists/yamaha-acquires-visual-technology-company-disguise-deals",
-    "published_at": "2026-11-20T03:10:25+00:00",
-    "image_url": "https://www.billboard.com/wp-content/uploads/media/yamaha-corp-logo-2018-billboard-1548.jpg?w=1024",
-    "collection_timestamp": "2026-11-20T03:52:04.277400+00:00",
-    "thin": false,
-    "author": "Chris Eggertsen",
-    "tags": [
-      "Business",
-      "Business News",
-      "acquisition",
-      "Music News",
-      "The Deals"
-    ],
-    "classification_version": 2
-  },
-  {
-    "id": "4cf65cf8419c883ca7877a8a6ffbf5e1fa578c12e63ad31e345063facbd6eb4e",
-    "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
-    "summary": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
-    "category": "business",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
-    "published_at": "2026-11-20T01:49:03+00:00",
-    "image_url": "https://image.cnbcfm.com/api/v1/image/108555014-1795079642832-gettyimages-2215845730-AFP_47TW9CP.jpeg?v=1795079673&w=1920&h=1080",
-    "collection_timestamp": "2026-11-20T03:52:04.299620+00:00",
     "thin": false,
     "classification_version": 2
   },

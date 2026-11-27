@@ -1,5 +1,25 @@
 [
   {
+    "id": "7e4f959c8d7523d335475549efa9c942de17805165581240c66c0cf6621f883a",
+    "title": "Mike Leigh Reminds The World Why He Doesn’t Work With Hollywood Stars",
+    "summary": "Mike Leigh has a few regrets, but declining to work with Hollywood actors isn’t one of them. In an interview with The Guardian, the decorated British director reminded the world why his unusual methods mean he’s happy sticking with British character actors. He “snorted” at the idea of casting big Hollywood movie stars. “Well, first […]",
+    "category": "hollywood",
+    "source": "Deadline",
+    "url": "https://deadline.com/2026/11/mike-leigh-retirement-tender-loving-care-hollywood-1237234216",
+    "published_at": "2026-11-27T09:10:01+00:00",
+    "date_unverified": false,
+    "image_url": "https://deadline.com/wp-content/uploads/2026/11/GettyImages-2300369759.jpg",
+    "collection_timestamp": "2026-11-27T10:03:42.141884+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Max Goldbart",
+    "tags": [
+      "News",
+      "Mike Leigh",
+      "Tender Loving Care"
+    ]
+  },
+  {
     "id": "eafa39a78fea623f025624e5aa9210c86ba75f70a71b201b6b2eb5b831363581",
     "title": "Gerald R. Molen, Oscar-Winning ‘Schindler’s List’ Producer, Dies at 91",
     "summary": "Gerald R. Molen, the Oscar-winning producer behind Steven Spielberg’s “Schindler’s List,” has died. He was 91. Molen’s death was announced by his great-niece, Rachel Lorraine Pullan, in an Instagram post on Sunday. “This morning my great-uncle, Gerald R. Molen, passed on to join my great-grandma and his dear wife Pat on the other side of […]",
@@ -96,7 +116,7 @@
     "url": "https://www.hollywoodreporter.com/lists/2027-oscars-international-feature-contenders",
     "published_at": "2026-11-26T14:30:00+00:00",
     "date_unverified": false,
-    "image_url": null,
+    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/All-of-a-sudden-fjord-rehearsals-Bola-Negra.jpg?w=1440&h=810&crop=1",
     "collection_timestamp": "2026-11-26T17:09:51.809861+00:00",
     "thin": false,
     "classification_version": 2,
@@ -2117,50 +2137,6 @@
       "Tallinn Black Nights Film Festival",
       "Tiina Lokk",
       "When She Hears the Bells"
-    ],
-    "classification_version": 2
-  },
-  {
-    "id": "7869b86c19e2dc0b412596ec20e738b4c2d3b1c8a55fdb7cdab03828e4354ba8",
-    "title": "‘Much Ado About Nothing’ Broadway Review: Tom Hiddleston, Hayley Atwell & Jamie Lloyd Throw An Irresistible Party Of Shakespeare’s Great Comedy",
-    "summary": "Outside of ticker tape parades and New Year&#8217;s Eve in Times Square, you might be hard-pressed to think of a better, more joyous use of floating paper than the confetti that piles up nightly on the stage of Broadway&#8217;s Winter Garden Theatre these days. We&#8217;re talking blizzards of the pink stuff, so deep that the [&#8230;]",
-    "category": "hollywood",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/much-ado-about-nothing-broadway-review-tom-hiddleston-1237226924",
-    "published_at": "2026-11-20T03:00:00+00:00",
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/MuchAdo_AndyHenderson-32.jpg",
-    "collection_timestamp": "2026-11-20T03:52:04.274173+00:00",
-    "thin": false,
-    "author": "Greg Evans",
-    "tags": [
-      "News",
-      "Reviews",
-      "Broadway",
-      "Broadway Review",
-      "Hayley Atwell",
-      "Jamie Lloyd",
-      "Much Ado About Nothing",
-      "Tom Hiddleston"
-    ],
-    "classification_version": 2
-  },
-  {
-    "id": "0fc25f08ec80abe66a56a327e5995199658d6dd13d91868cf75b1306996888a1",
-    "title": "Trump’s $15 Billion Defamation Suit Against The New York Times Moves Forward",
-    "summary": "The court allowed seven allegedly defamatory statements to proceed while dismissing 27 others.",
-    "category": "hollywood",
-    "source": "Hollywood Reporter",
-    "url": "https://www.hollywoodreporter.com/business/business-news/trump-defamation-lawsuit-new-york-times-moves-forward-1236759764",
-    "published_at": "2026-11-20T01:10:52+00:00",
-    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2024/10/GettyImages-1993190899.jpg?w=1440&h=810&crop=1",
-    "collection_timestamp": "2026-11-20T03:52:04.276371+00:00",
-    "thin": false,
-    "author": "Winston Cho",
-    "tags": [
-      "Business",
-      "Business News",
-      "donald trump",
-      "The New York Times"
     ],
     "classification_version": 2
   }
