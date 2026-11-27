@@ -35,7 +35,7 @@ jobs:
       - name: Run collector, generator and production-build tests
         run: |
           set +e
-          pytest tests/test_guest_preferences.py tests/test_classification_rules.py tests/test_news_collector.py tests/test_news_expiry.py tests/test_generators.py tests/test_production_build.py tests/test_api_security.py tests/test_gogo_notifications.py tests/test_frontend_security.py tests/test_editorial_indexation.py tests/test_generated_article_validation.py tests/test_empty_master_feed_recovery.py tests/test_homepage_static_markup.py tests/test_topic_hub_indexation.py -v > pytest_output.txt 2>&1
+          pytest tests/test_guest_preferences.py tests/test_classification_rules.py tests/test_news_collector.py tests/test_news_expiry.py tests/test_generators.py tests/test_production_build.py tests/test_api_security.py tests/test_gogo_notifications.py tests/test_frontend_security.py tests/test_editorial_indexation.py tests/test_generated_article_validation.py tests/test_empty_master_feed_recovery.py tests/test_homepage_static_markup.py tests/test_topic_hub_indexation.py tests/test_feed_engine.py tests/test_sitemap_indexation_validator.py -v > pytest_output.txt 2>&1
           status=$?
           cat pytest_output.txt
           if [ $status -ne 0 ]; then

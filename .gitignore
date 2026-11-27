@@ -122,3 +122,6 @@ venv.bak/
 # Logs
 logs/
 *.log
+
+# Re-creatable HTTP response cache (validators/health are persisted separately)
+data/feed_cache/

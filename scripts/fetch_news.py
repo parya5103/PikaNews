@@ -29,6 +29,11 @@ import httpx
 from bs4 import BeautifulSoup
 
 try:
+    from scripts.feed_engine import fetch_feed, parse_json_feed, feed_health_snapshot, rank_feed_candidates
+except ImportError:  # direct script execution from the scripts directory
+    from feed_engine import fetch_feed, parse_json_feed, feed_health_snapshot, rank_feed_candidates
+
+try:
     from scripts.classification_rules import classify_article
 except ImportError:  # direct script execution from the scripts directory
     from classification_rules import classify_article
@@ -739,43 +744,23 @@ def categorize_article(title: str, description: str, source_name: str,
     )
 
 def fetch_with_retry(url: str, max_retries: int = 3, timeout: float = 30.0) -> Optional[str]:
-    """Fetch URL with retry logic."""
-    headers = {
-        "User-Agent": USER_AGENT,
-        "Accept": "application/xml, application/rss+xml, text/xml, text/html",
-        "Accept-Encoding": "gzip, deflate"
-    }
-    
-    for attempt in range(max_retries):
-        try:
-            http_timeout = httpx.Timeout(timeout, connect=10.0)
-            with httpx.Client(timeout=http_timeout, headers=headers) as client:
-                response = client.get(url, follow_redirects=True)
-                response.raise_for_status()
-                return response.text
-        except httpx.HTTPStatusError as e:
-            if e.response.status_code in [429, 503, 502] and attempt < max_retries - 1:
-                # Rate limited or server error, wait and retry
-                import time
-                wait_time = (attempt + 1) * 5
-                log(f"Rate limited or server error for {url}, retrying in {wait_time}s...", "WARNING")
-                time.sleep(wait_time)
-                continue
-            else:
-                log(f"HTTP error fetching {url}: {e}", "ERROR")
-                return None
-        except Exception as e:
-            if attempt < max_retries - 1:
-                import time
-                wait_time = (attempt + 1) * 2
-                log(f"Error fetching {url} (attempt {attempt + 1}/{max_retries}): {e}", "WARNING")
-                time.sleep(wait_time)
-                continue
-            else:
-                log(f"Failed to fetch {url} after {max_retries} attempts: {e}", "ERROR")
-                return None
-    
-    return None
+    """Fetch a feed using persistent HTTP validators, safe redirects and retry state."""
+    cache_dir = os.path.join(DATA_DIR, "feed_cache")
+    health_path = os.path.join(cache_dir, "feed_health.json")
+    body, status = fetch_feed(
+        url,
+        cache_dir,
+        health_path,
+        max_retries=max_retries,
+        timeout=timeout,
+    )
+    if status == "not_modified":
+        log(f"Feed unchanged (HTTP cache hit): {url}", "DEBUG")
+    elif status == "updated":
+        log(f"Feed updated and cached: {url}", "DEBUG")
+    else:
+        log(f"Feed request failed or is in backoff: {url}", "WARNING")
+    return body
 
 
 def parse_rss_feed(xml_content: str, feed_url: str) -> List[Dict[str, Any]]:
@@ -784,7 +769,14 @@ def parse_rss_feed(xml_content: str, feed_url: str) -> List[Dict[str, Any]]:
     
     if not xml_content:
         return articles
-    
+
+    # JSON Feed 1.0/1.1 joins RSS and Atom in the same normalized pipeline.
+    stripped = xml_content.lstrip()
+    if stripped.startswith("{"):
+        json_articles = parse_json_feed(xml_content, feed_url)
+        if json_articles:
+            return json_articles
+
     try:
         # Try to parse as XML
         try:
@@ -1553,10 +1545,23 @@ def main():
     else:
         log(f"EXPIRY: no articles older than {NEWS_RETENTION_DAYS} days found", "INFO")
     
-    # Fetch from all RSS feeds
+    # Fetch from RSS/Atom/JSON Feed sources. Healthy, high-priority feeds are
+    # processed first; per-source backoff is enforced by the transport layer.
     all_raw_articles = []
-    
+    health = feed_health_snapshot(os.path.join(DATA_DIR, "feed_cache", "feed_health.json"))
+    feed_jobs = []
     for category, feeds in RSS_FEEDS.items():
+        for feed_info in feeds:
+            if feed_info.get("enabled", True):
+                item = dict(feed_info)
+                item["_category"] = category
+                item["health"] = health.get(feed_info.get("url", ""), {})
+                feed_jobs.append(item)
+    feed_jobs = rank_feed_candidates(feed_jobs)
+    for feed_info in feed_jobs:
+        category = feed_info.pop("_category")
+        feed_info.pop("health", None)
+        feeds = [feed_info]
         log(f"\nProcessing {category} feeds...", "INFO")
         
         for feed_info in feeds:

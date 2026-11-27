@@ -11,6 +11,10 @@ on:
     branches: [main]
     paths:
       - 'scripts/fetch_news.py'
+      - 'scripts/feed_engine.py'
+      - 'scripts/validate_sitemap_indexation.py'
+      - 'tests/test_sitemap_indexation_validator.py'
+      - 'tests/test_feed_engine.py'
       - 'scripts/classification_rules.py'
       - 'tests/test_guest_preferences.py'
       - 'frontend/css/styles.css'
@@ -67,7 +71,7 @@ jobs:
       - name: Run collector test suite (gate - fail before publishing)
         run: |
           set +e
-          pytest tests/test_guest_preferences.py tests/test_classification_rules.py tests/test_news_collector.py tests/test_news_expiry.py tests/test_generators.py tests/test_production_build.py tests/test_api_security.py tests/test_editorial_indexation.py tests/test_generated_article_validation.py tests/test_empty_master_feed_recovery.py tests/test_topic_hub_indexation.py -q > pytest_output.txt 2>&1
+          pytest tests/test_guest_preferences.py tests/test_classification_rules.py tests/test_news_collector.py tests/test_news_expiry.py tests/test_generators.py tests/test_production_build.py tests/test_api_security.py tests/test_editorial_indexation.py tests/test_generated_article_validation.py tests/test_empty_master_feed_recovery.py tests/test_topic_hub_indexation.py tests/test_feed_engine.py tests/test_sitemap_indexation_validator.py -q > pytest_output.txt 2>&1
           status=$?
           cat pytest_output.txt
           if [ $status -ne 0 ]; then
@@ -78,14 +82,22 @@ jobs:
           fi
           set -e
 
-      - name: Collect news from RSS feeds (retry + dedupe; feed failures keep existing data)
-        run: python scripts/fetch_news.py
+      - name: Restore conditional feed response cache
+        uses: actions/cache@0400d5f644dc74513175e3cd8d07132dd4860809 # v4.2.4
+        with:
+          path: data/feed_cache
+          key: pikanews-feed-cache-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: |
+            pikanews-feed-cache-
 
-      - name: Generate sitemap
-        run: python scripts/generate_sitemap.py
+      - name: Collect news from RSS feeds (conditional fetch + dedupe; failures keep existing data)
+        run: python scripts/fetch_news.py
 
       - name: Generate static article pages
         run: python scripts/generate_article_pages.py
+
+      - name: Generate sitemap
+        run: python scripts/generate_sitemap.py
 
       - name: Generate RSS feed
         run: python scripts/generate_rss.py
@@ -95,6 +107,9 @@ jobs:
 
       - name: Validate generated article indexation, schema and breadcrumbs
         run: python scripts/validate_generated_articles.py
+
+      - name: Validate sitemap URLs, canonical links and robots directives
+        run: python scripts/validate_sitemap_indexation.py
 
       - name: Commit only when generated content changed
         run: |

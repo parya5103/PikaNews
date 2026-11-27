@@ -65,6 +65,53 @@ A public RSS endpoint is not, by itself, permission to republish full articles
 or images. PikaNews uses limited excerpts and source links. Feed-specific image
 restrictions are enforced where configured.
 
+
+## Collector reliability and five-phase upgrade
+
+The production collector keeps the original static-first GitHub Actions
+architecture while using scripts/feed_engine.py for:
+
+- Conditional HTTP requests using ETag and Last-Modified validators.
+- A bounded local feed-body cache restored/saved by GitHub Actions cache.
+- Manual redirect validation that rejects private, loopback and reserved IP
+  destinations before following a publisher redirect.
+- Bounded retry/backoff, Retry-After handling, and persistent per-feed health
+  records in data/feed_cache/feed_health.json.
+- JSON Feed 1.0/1.1 normalization into the same article pipeline as RSS/Atom.
+- Feed autodiscovery helpers for RSS, Atom and JSON Feed alternate links.
+- Deterministic source scheduling by configured priority and recent failure
+  streak; no publisher is silently added to production just because discovery
+  finds a feed.
+
+The feed engine also exposes a limited reading-context text extractor. It is
+not used to republish complete third-party articles. The product continues to
+show attributed excerpts and link to the publisher unless content is separately
+licensed or written/reviewed as original PikaNews editorial.
+
+### Five implementation phases
+
+1. **Transport reliability:** conditional requests, cache, redirect safety,
+   bounded retries and retry cooldowns.
+2. **Feed intelligence:** persistent health/failure state, feed autodiscovery
+   helpers and priority-aware scheduling.
+3. **Extraction compatibility:** JSON Feed support, normalized metadata,
+   image fallbacks and limited reading-context extraction without wholesale
+   article copying.
+4. **Discovery quality:** deterministic classification remains the topic
+   baseline; healthy/high-priority sources are fetched first, while the
+   existing source-diversity and freshness gates remain in force.
+5. **SEO/publishing validation:** generated article checks plus a sitemap
+   validator that confirms every advertised URL has a real page, a self
+   canonical and no noindex directive. Aggregated story pages remain noindex;
+   useful topic hubs and reviewed original editorial qualify under their
+   existing quality gates.
+
+### Verification commands
+
+    pytest tests/test_feed_engine.py tests/test_sitemap_indexation_validator.py -q
+    python scripts/validate_generated_articles.py
+    python scripts/validate_sitemap_indexation.py
+
 ## Reader preferences and accounts
 
 Reading does not require an account. Bookmarks and the optional For You topic
