@@ -76,7 +76,7 @@ architecture while using scripts/feed_engine.py for:
 - Manual redirect validation that rejects private, loopback and reserved IP
   destinations before following a publisher redirect.
 - Bounded retry/backoff, Retry-After handling, and persistent per-feed health
-  records in data/feed_health.json.
+  records in data/feed_cache/feed_health.json.
 - JSON Feed 1.0/1.1 normalization into the same article pipeline as RSS/Atom.
 - Feed autodiscovery helpers for RSS, Atom and JSON Feed alternate links.
 - Deterministic source scheduling by configured priority and recent failure
