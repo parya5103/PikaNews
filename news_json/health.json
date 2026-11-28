@@ -1,5 +1,41 @@
 [
   {
+    "id": "510a913d13959d9797a3cdebf285f66feaa616d8913cce442744ad678d2d23a4",
+    "title": "The doctor, the patient and the smartwatch: What physicians think of the third voice at your appointment",
+    "summary": "Many Americans use a smartwatch or fitness tracker to collect their health data, and doctors say the devices are increasingly becoming part of annual checkups.",
+    "category": "health",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/make-it/2026/11/28/wearable-health-trackers-doctors.html",
+    "published_at": "2026-11-28T13:00:02+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-28T18:50:13.334806+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "c502771074cc6bbc39df35df911501c030b22b02d51f0d0704b94742ecb8e407",
+    "title": "Kodak’s adorable Charmera keychain camera is on sale for just $30",
+    "summary": "We wouldn’t normally recommend a bad camera, but we’ll make an exception for the Kodak Charmera. As my colleague Andrew Liszewski pointed out in his review, the tiny retro keychain camera takes pretty lackluster photos, yet it’s charming enough that he kept using it anyway. That makes it a great gift for anyone who loves […]",
+    "category": "health",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1044917/kodak-charmera-keychain-digital-camera-black-friday-deal-sale-2026",
+    "published_at": "2026-11-28T10:13:51-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/kodak_charmera1.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-28T18:50:13.414310+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Sheena Vasani",
+    "tags": [
+      "Black Friday",
+      "Cyber Monday",
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ]
+  },
+  {
     "id": "ae0a53c6b6cc874522b66498894b562a62242fc9c410f41d0554693dc292ea49",
     "title": "Who am I? Plus today's other quizzes",
     "summary": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",

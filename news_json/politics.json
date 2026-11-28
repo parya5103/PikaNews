@@ -1,5 +1,67 @@
 [
   {
+    "id": "331bc7c4a97199dcbf94d128b9458bcc66fc3e46315ebd4c2d1b68b5c1ed7c14",
+    "title": "Wales 40-10 Japan - highlights",
+    "summary": "Watch the best of the action as Wales round off their Nations Championship campaign with a 40-10 win against Japan.",
+    "category": "politics",
+    "source": "BBC Sport",
+    "url": "https://www.bbc.co.uk/sport/rugby-union/videos/cw987djzvdmjo",
+    "published_at": "2026-11-28T15:53:51+00:00",
+    "date_unverified": false,
+    "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf7a/live/c3b4ac90-eb43-11f1-99a1-253766e7ad8b.jpg",
+    "collection_timestamp": "2026-11-28T18:50:13.327861+00:00",
+    "thin": false,
+    "classification_version": 2
+  },
+  {
+    "id": "456db673203ac0c6f3dbd056c23abb47d1f67decae11a8a1a9b479d3fb8b44f1",
+    "title": "The Nvidia Scandal Has Been Brewing for Years. Here’s a Timeline",
+    "summary": "Donald Trump and Jensen Huang have been tight since the president retook office — and Trump takes care of his friends",
+    "category": "politics",
+    "source": "Rolling Stone",
+    "url": "https://www.rollingstone.com/politics/politics-features/trump-jensen-huang-nvidia-timeline-2-1235664077",
+    "published_at": "2026-11-28T15:00:00+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/donald-trump-nvidia-jensen-huang-timeline.jpg?w=1600&h=900&crop=1",
+    "collection_timestamp": "2026-11-28T18:50:13.409783+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Ryan Bort",
+    "tags": [
+      "Politics",
+      "Politics Features",
+      "China",
+      "controversy",
+      "Donald Trump",
+      "Jensen Huang",
+      "Marco Rubio",
+      "NVIDIA"
+    ]
+  },
+  {
+    "id": "b74c3a291937c12a72aa29e82fd01c05b6b99bd4ba5c7bbb16aec9fed088d098",
+    "title": "Police reportedly turn water cannons on protesters outside Meta offices in India",
+    "summary": "Police in the Indian state of Haryana turned water cannons on protesters from the opposition Congress party outside Meta's offices, according to Reuters. The protests are just the latest from the party's youth wing, which has accused Meta of bowing to pressure from Prime Minister Narendra ​Modi's Bharatiya Janata Party (BJP) and censoring Congress party […]",
+    "category": "politics",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1045256/indian-police-reportedly-turn-water-cannons-on-protesters-outside-meta-offices",
+    "published_at": "2026-11-28T11:04:47-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK043_VRG_Illo_N_Barclay_5_Meta.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-28T18:50:13.413294+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Terrence O’Brien",
+    "tags": [
+      "Law",
+      "Meta",
+      "News",
+      "Policy",
+      "Politics",
+      "Tech"
+    ]
+  },
+  {
     "id": "ff4e39132fe7b996d9fd0b5f8b9a4a0500a02d7ca05fcc3938517024d4bf40dd",
     "title": "Channel 4 Defends Huw Edwards Doc After Government Criticism: “There Is Clear Public Interest In Confronting Him With Questions”",
     "summary": "Channel 4 has been forced to defend its Huw Edwards doc three days before it premieres, with the network’s news chief saying the film has “clear public interest.” Channel 4 unveiled Huw Edwards – Guilty last week and it will air Tuesday night. It has already been met with a barrage of criticism including from […]",
@@ -836,31 +898,6 @@
     "collection_timestamp": "2026-11-21T11:55:22.215632+00:00",
     "thin": false,
     "author": "Dan Murphy",
-    "classification_version": 2
-  },
-  {
-    "id": "b25d0ec2b5b700fce066707fdf33003a22696b25c586f022aadd56f224c715be",
-    "title": "Trump Says He ‘Can’t Speak To’ Whether Russia is a Friend to America",
-    "summary": "The president addressed reporters after returning from a meeting with Vladimir Putin and Chinese President Xi Jinping",
-    "category": "politics",
-    "source": "Rolling Stone",
-    "url": "https://www.rollingstone.com/politics/politics-news/trump-cant-speak-to-russia-friend-america-1235661928",
-    "published_at": "2026-11-20T21:30:48+00:00",
-    "date_unverified": false,
-    "image_url": "https://www.rollingstone.com/wp-content/uploads/2026/11/Trump-1120.jpg?w=1600&h=900&crop=1",
-    "collection_timestamp": "2026-11-21T01:57:58.195785+00:00",
-    "thin": false,
-    "author": "Nikkimccannramirez",
-    "tags": [
-      "Politics",
-      "Politics News",
-      "China",
-      "controversy",
-      "Donald Trump",
-      "Putin",
-      "Russia",
-      "Xi Jinping"
-    ],
     "classification_version": 2
   },
   {
