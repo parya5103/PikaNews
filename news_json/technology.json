@@ -1,5 +1,49 @@
 [
   {
+    "id": "4160e8b0660d13b62f9cc99ec41167ca2b0e749c6f80a9476b0e2c141c37f943",
+    "title": "T-Mobile Offering Free iPhone 18 Pro, iPad and Apple Watch Bundle for Black Friday",
+    "summary": "The three-piece bundle is one of T-Mobile's many Cyber Week offerings across Apple, Samsung and more.",
+    "category": "technology",
+    "source": "Hollywood Reporter",
+    "url": "https://www.hollywoodreporter.com/lifestyle/shopping/black-friday-cell-phone-deals-t-mobile-2026-free-iphone-18-1236764297",
+    "published_at": "2026-11-28T04:18:54+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/T-Mobile-Offering-Free-iPhone-18-Pro-iPad-and-Apple-Watch-Bundle-for-Black-Friday-MAIN.jpg?w=1296&h=730&crop=1",
+    "collection_timestamp": "2026-11-28T10:50:42.502855+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Erin Lassner",
+    "tags": [
+      "Lifestyle",
+      "Shopping",
+      "Black Friday",
+      "shopping",
+      "T-Mobile"
+    ]
+  },
+  {
+    "id": "116a905e7ada6dc1b55976d398a43b88e9ca37f67e00f56108b86ad8fdca7ffc",
+    "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+    "summary": "If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck. The 13-inch M5 MacBook Air is on sale at Amazon and Best Buy with 16GB of RAM and 512GB of storage starting at $999 ($300 off) for Black Friday, which is the lowest […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+    "published_at": "2026-11-27T22:30:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0010.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-28T10:50:42.545335+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Sheena Vasani",
+    "tags": [
+      "Black Friday",
+      "Cyber Monday",
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ]
+  },
+  {
     "id": "63535ea245d35e29cef7caa95d548cf819a86e532e3c1811eb5941e7325b3d32",
     "title": "We found 60-odd Black Friday deals we love for $100 or less",
     "summary": "Between holiday travel, gifts, and the rising cost of just about everything, expenses can quickly add up during this time of year. Thankfully, you don’t have to dip too far into your savings to take advantage of some of the better Black Friday deals we’ve seen. Below, we’ve rounded up a range of great stuff […]",
@@ -2800,48 +2844,6 @@
     "date_unverified": false,
     "image_url": "https://image.cnbcfm.com/api/v1/image/108556888-1795209058076-gettyimages-2202994362-img_2497.jpeg?v=1795209111&w=1920&h=1080",
     "collection_timestamp": "2026-11-21T01:57:58.224463+00:00",
-    "thin": false,
-    "classification_version": 2
-  },
-  {
-    "id": "e13eb6814fde5de4c90f9c8e12f6e6001ad166149d22c6acbb3b48f539de2b08",
-    "title": "Intensifying AI rout wipes out Nasdaq's 2026 gains. Alphabet is a tech bright spot",
-    "summary": "Every weekday, the Investing Club releases the Homestretch, an actionable afternoon update just in time for the last hour of trading.",
-    "category": "technology",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/investingclub/2026/11/20/ai-rout-wipes-out-nasdaqs-2026-gains-alphabet-is-a-tech-bright-spot.html",
-    "published_at": "2026-11-20T20:06:12+00:00",
-    "date_unverified": false,
-    "image_url": "https://image.cnbcfm.com/api/v1/image/108476687-1793279712869-108476687-1793220441401-gettyimages-2286485901-ALPHABET_EARNS.jpg?v=1793279719&w=1920&h=1080",
-    "collection_timestamp": "2026-11-20T20:40:18.167108+00:00",
-    "thin": false,
-    "classification_version": 2
-  },
-  {
-    "id": "11d83fe32f4f4878b2dbcd12c2665157fe734de26fe1a6385fcd9bd6a0e9c87e",
-    "title": "A massive bearish trade just happened in the chip stocks",
-    "summary": "Options traders place big bets that semiconductor stocks have further to fall",
-    "category": "technology",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/20/a-massive-bearish-trade-just-happened-in-the-chip-stocks.html",
-    "published_at": "2026-11-20T19:33:31+00:00",
-    "date_unverified": false,
-    "image_url": "https://image.cnbcfm.com/api/v1/image/108556541-1795189859357-gettyimages-2306070308-mms16130_rcdxsjnh.jpeg?v=1795189878&w=1920&h=1080",
-    "collection_timestamp": "2026-11-20T19:50:58.404886+00:00",
-    "thin": false,
-    "classification_version": 2
-  },
-  {
-    "id": "32dc507465b0f1313725d3f642a18f82fb452939882ded1db1882e1be52e1630",
-    "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
-    "summary": "Odds that the S&P 500 will cross 8,000, which were once north of 70%, are extremely low on platform Kalshi.",
-    "category": "technology",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
-    "published_at": "2026-11-20T19:32:32+00:00",
-    "date_unverified": false,
-    "image_url": "https://image.cnbcfm.com/api/v1/image/108316819-1780585605520-Traders-Photo-20260604-KK-PRESS-020.jpg?v=1780585765&w=1920&h=1080",
-    "collection_timestamp": "2026-11-20T19:50:58.406295+00:00",
     "thin": false,
     "classification_version": 2
   },
