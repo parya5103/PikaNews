@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-27T20:01:59.649766+00:00",
-  "total_fetched": 387,
-  "new_articles": 26,
-  "duplicates": 361,
+  "timestamp": "2026-11-28T02:36:41.198354+00:00",
+  "total_fetched": 390,
+  "new_articles": 86,
+  "duplicates": 304,
   "errors": 1,
   "expired_articles": 0,
   "articles_without_valid_date": 10,
   "by_source": {
-    "BBC Sport": 61,
+    "BBC Sport": 64,
     "Billboard": 10,
     "BuzzFeed World": 50,
     "CNBC": 30,
@@ -28,13 +28,13 @@
     "Ars Technica Gadgets": 20
   },
   "by_category": {
-    "politics": 1,
-    "sports": 4,
-    "health": 2,
-    "entertainment": 5,
-    "world": 2,
-    "gaming": 1,
+    "sports": 15,
+    "entertainment": 36,
+    "health": 3,
+    "technology": 17,
     "business": 1,
-    "technology": 10
+    "hollywood": 7,
+    "world": 2,
+    "gaming": 5
   }
 }

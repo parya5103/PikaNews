@@ -6,12 +6,17 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://gogocompany.in/pikanews/hollywood.html</loc>
+    <loc>https://gogocompany.in/pikanews/entertainment.html</loc>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gogocompany.in/pikanews/entertainment.html</loc>
+    <loc>https://gogocompany.in/pikanews/gaming.html</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gogocompany.in/pikanews/world.html</loc>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>

@@ -1,5 +1,92 @@
 [
   {
+    "id": "63535ea245d35e29cef7caa95d548cf819a86e532e3c1811eb5941e7325b3d32",
+    "title": "We found 60-odd Black Friday deals we love for $100 or less",
+    "summary": "Between holiday travel, gifts, and the rising cost of just about everything, expenses can quickly add up during this time of year. Thankfully, you don’t have to dip too far into your savings to take advantage of some of the better Black Friday deals we’ve seen. Below, we’ve rounded up a range of great stuff […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026",
+    "published_at": "2026-11-27T20:30:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24662269/DSCF0790_Enhanced_NR_2.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-28T02:36:48.938257+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Sheena Vasani",
+    "tags": [
+      "Black Friday",
+      "Cyber Monday",
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "32684e4be93490f96cae5a6bda1763eefe1e7441f29e1b3092b6626ff4f3f897",
+    "title": "Best Black Friday Audio Deals 2026: Save Up to 60% Off Bose, Apple & Beats, Sonos, Sony & More Online",
+    "summary": "Shop the best Black Friday headphones, earbuds, soundbars, turntables and other audio deals — save up to 60% off the top brands.",
+    "category": "technology",
+    "source": "Billboard",
+    "url": "https://www.billboard.com/culture/product-recommendations/best-black-friday-2026-nov-audio-headphones-deals-online-1236390314",
+    "published_at": "2026-11-27T20:09:20+00:00",
+    "date_unverified": false,
+    "image_url": "https://www.billboard.com/wp-content/uploads/2026/11/Apple-AirPods-Pro-3-BB-Embed.jpg?w=942&h=623&crop=1",
+    "collection_timestamp": "2026-11-28T02:36:48.867984+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Rudie Obias",
+    "tags": [
+      "Culture",
+      "Product Recommendations",
+      "black friday",
+      "Deals",
+      "electronics",
+      "NOADS"
+    ]
+  },
+  {
+    "id": "ae61d6b44db6928e3c39ec49cbdcc8581cf8e3ca38f81f6415e1a06defa75603",
+    "title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
+    "summary": "Electric minivans could be the ultimate in utility, with room for passengers, gear, and huge batteries. While VW's ID Buzz only gave us 200 miles of real-world driving on a charge in 2023, China's BYD has just announced a flagship purple peoplemover that can go an estimated 559 miles (900 km) on electricity. It's called […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+    "published_at": "2026-11-27T19:02:49-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/img_20261127171000_s224i5s0.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-28T02:36:48.938748+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Sean Hollister",
+    "tags": [
+      "Electric Cars",
+      "News",
+      "Transportation"
+    ]
+  },
+  {
+    "id": "760c572cc4031f79f3f3be61126eac2229d203f29e590f9efa6d6a74d98e82dd",
+    "title": "The best Black Friday deals you can still get on AirPods, Macs, and other Apple gear",
+    "summary": "Black Friday is entering the evening, which means one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch is coming to a close. After all, the holiday savings can help offset the unfortunate price hikes from earlier this year, when Apple raised […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1043935/best-black-friday-apple-deals-2026",
+    "published_at": "2026-11-27T18:53:19-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0048.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-28T02:36:48.939248+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Brad Bourque",
+    "tags": [
+      "Black Friday",
+      "Cyber Monday",
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ]
+  },
+  {
     "id": "718e8dae65c6ddbff0f0f7ed4f05093981c871615041dcf0753a130b526c82a4",
     "title": "Jensen Huang's return did little to ease AI jitters. We used the weakness to buy",
     "summary": "Jensen Huang's return sparked a fleeting AI rally, but persistent market volatility gave us another opportunity to put cash to work.",
@@ -12,6 +99,70 @@
     "collection_timestamp": "2026-11-27T19:35:27.907656+00:00",
     "thin": false,
     "classification_version": 2
+  },
+  {
+    "id": "88b6948d1ee5afa757a32a8a65963922cf3570d4a7f994b3eea18c8f523d6a6f",
+    "title": "Sony’s 1000XM4C headphones are a Black Friday bargain at $198",
+    "summary": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as good as the pricier XM6 model (currently $348), but is down to $198 during Black Friday at Amazon, Best Buy, […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1043976/sony-wh1000xm4c-noise-canceling-headphones-black-friday-2026-deal-sale",
+    "published_at": "2026-11-27T18:32:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268823_Sony_XM4C_JHiggins_0006.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-28T02:36:48.940939+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Cameron Faulkner",
+    "tags": [
+      "Black Friday",
+      "Cyber Monday",
+      "Deals",
+      "Gadgets",
+      "Headphones",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "83010d9a277b8ae188781c8217c58ac944747f7a2697f7729aa8dbcdc0cc6ca8",
+    "title": "The new iPad Mini is getting its first major discount for Black Friday",
+    "summary": "We were big fans of Apple’s new iPad Mini when we reviewed it in early November, but its steep starting price of $699 was hard to swallow. Thankfully, the small tablet is already getting a sizable discount for Black Friday. Right now, Amazon and Walmart are both selling the 2026 iPad Mini with Wi-Fi and […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026",
+    "published_at": "2026-11-27T17:30:00-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268850_iPad_Mini_2026_DPierce_0010.jpg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-28T02:36:48.942546+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Sheena Vasani",
+    "tags": [
+      "Black Friday",
+      "Cyber Monday",
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ]
+  },
+  {
+    "id": "4ea7340fe055557fb6d1f89bb8d527d1ca525408544dfed06cd06c091a18309b",
+    "title": "Allstate has been suffering an outage since Monday",
+    "summary": "On Monday, November 23rd, Allstate began dealing with an outage that has impacted its website, mobile apps, and roadside assistance service. It's just the latest company, including Microsoft and JPMorgan Chase, to suffer an outage in the last few weeks. As of Friday afternoon, access to accounts through the app and site appeared to still […]",
+    "category": "technology",
+    "source": "The Verge",
+    "url": "https://www.theverge.com/tech/1044612/allstate-has-been-suffering-an-outage-since-monday",
+    "published_at": "2026-11-27T16:52:42-05:00",
+    "date_unverified": false,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/https___www.allstatenewsroom.com_wp-content_uploads_2023_04_Allstate_LobbyAllstateSign_DARKBLUE_CROP.jpeg?quality=90&strip=all&crop=0,0,100,100",
+    "collection_timestamp": "2026-11-28T02:36:48.942939+00:00",
+    "thin": false,
+    "classification_version": 2,
+    "author": "Terrence O’Brien",
+    "tags": [
+      "News",
+      "Tech"
+    ]
   },
   {
     "id": "0b6beeaf4ea01a3a2734bb2782a7934bed7df43292b991a6944adf413e4dd4fa",
@@ -210,6 +361,20 @@
       "Gadgets",
       "Verge Shopping"
     ]
+  },
+  {
+    "id": "c9ab43f37a4c56ea6360babb986b9578f856741f5cfc1cd530e4347d18bc8ce9",
+    "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+    "summary": "Chinese stocks rebounded sharply after a rare intraday state media readout cheered investors as top policymakers pledged market liquidity support.",
+    "category": "technology",
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
+    "published_at": "2026-11-27T10:13:44+00:00",
+    "date_unverified": false,
+    "image_url": null,
+    "collection_timestamp": "2026-11-28T02:36:48.869156+00:00",
+    "thin": false,
+    "classification_version": 2
   },
   {
     "id": "410d8c5396902283dcfe490fbe1634d5fb81b56a9bae374dad50fdb95fc7a994",
@@ -2678,62 +2843,6 @@
     "image_url": "https://image.cnbcfm.com/api/v1/image/108316819-1780585605520-Traders-Photo-20260604-KK-PRESS-020.jpg?v=1780585765&w=1920&h=1080",
     "collection_timestamp": "2026-11-20T19:50:58.406295+00:00",
     "thin": false,
-    "classification_version": 2
-  },
-  {
-    "id": "c8e432b426ce3d08bb7104dab9e69364e9d76bec3fbea8d19420707c356e9caa",
-    "title": "Late Comedian Sam Kinison — with His AI Avatar — Gears Up for Second Act with Buchwald (EXCLUSIVE)",
-    "summary": "The latest way for comedians to find a second act: AI. Buchwald has signed the estate of stand-up comedian Sam Kinison, who died at 38 in a 1992 car accident, to develop new business opportunities surrounding his name and likeness. Enter Kinison&#8217;s AI avatar, powered by the AI platform Uare.AI. The company, founded by LivePerson [&#8230;]",
-    "category": "technology",
-    "source": "Variety",
-    "url": "https://variety.com/2026/film/news/buchwald-signs-sam-kinison-estate-ai-avatar-1236954233",
-    "published_at": "2026-11-20T18:00:00+00:00",
-    "date_unverified": false,
-    "image_url": "https://variety.com/wp-content/uploads/2026/11/Sam-Kinison-1.png",
-    "collection_timestamp": "2026-11-20T19:50:58.358827+00:00",
-    "thin": false,
-    "author": "Corbin Bolies",
-    "tags": [
-      "News",
-      "Buchwald",
-      "Sam Kinison"
-    ],
-    "classification_version": 2
-  },
-  {
-    "id": "4aa41678c6c9921ff7154b77ea321da669b0b15e3bf8e807dfbc1d46ec8f8b17",
-    "title": "Data center construction costs soar 13% in 2026",
-    "summary": "The demand for large data centers in the U.S. this year, driven by AI needs, grew beyond the supply of powered land and the labor to build these structures.",
-    "category": "technology",
-    "source": "CNBC",
-    "url": "https://www.cnbc.com/2026/11/20/data-center-construction-costs-soar-13-percent-in-2026.html",
-    "published_at": "2026-11-20T16:52:08+00:00",
-    "date_unverified": false,
-    "image_url": "https://image.cnbcfm.com/api/v1/image/108468983-1793107056007-gettyimages-2299246800-4075_48_th-0722-d.jpeg?v=1793107085&w=1920&h=1080",
-    "collection_timestamp": "2026-11-20T19:50:58.406443+00:00",
-    "thin": false,
-    "classification_version": 2
-  },
-  {
-    "id": "0bed6fbf76e8c2f8e11c464d1b82cae800a368ed699f26bc57295d07b18dcade",
-    "title": "Lili Reinhart Circling Amazon MGM Studios & Mattel’s ‘Polly Pocket’ After Lily Collins Exit",
-    "summary": "Lili Reinhart is in talks to star in and executive produce Amazon MGM Studios and Mattel Studios’ Polly Pocket, we understand. The news follows Emily in Paris star Lily Collins departure from the project a while ago due to a scheduling conflict. She remains an executive producer on the project. Clea DuVall boarded Polly Pocket [&#8230;]",
-    "category": "technology",
-    "source": "Deadline",
-    "url": "https://deadline.com/2026/11/lili-reinhart-lilly-collins-polly-pocket-1237230090",
-    "published_at": "2026-11-20T16:37:28+00:00",
-    "date_unverified": false,
-    "image_url": "https://deadline.com/wp-content/uploads/2026/11/Lily-Reinhart-Polly-Pocket.jpg",
-    "collection_timestamp": "2026-11-20T19:50:58.362673+00:00",
-    "thin": false,
-    "author": "Anthonypauldalessandro",
-    "tags": [
-      "Casting",
-      "News",
-      "Lili Reinhart",
-      "Lily Collins",
-      "Polly Pocket"
-    ],
     "classification_version": 2
   },
   {
